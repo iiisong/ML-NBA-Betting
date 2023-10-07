@@ -14,7 +14,7 @@ We will use the “NBA Betting Lines” dataset found on [Kaggle](https://www.ka
 ## Potential Results
 We expect our model to be able to predict a team’s odds of success in a sporting event with reasonable accuracy given the betting lines and data about the team and players. Given our diverse dataset and that data cleaning is done correctly, our RF and SVM will take multiple teams’ features (scoring history, location, player statistics etc) for training, and then be able to run inference on a particular set of features to predict outcome. When performing validation, accuracy should not drop by a significant amount, ensuring our results are valid for any generalized data.
 
-![gantt](https://github.com/iiisong/ML4641_NBA_Betting/blob/main/Screenshot%202023-10-06%20at%2011.32.35%20PM.png)
+![gantt](https://drive.google.com/uc?export=view&id=1b2r_xWCzn10PgITWFVW8WeUyWPoCgBVi)
 
 [Video Presentation](https://youtu.be/WkIxE3tXc4o)
 
