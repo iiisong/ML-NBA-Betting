@@ -1,0 +1,483 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300081,0,12,0,1,6:11 PM,12:00,,Start of 1st Period (6:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,1,10,0,1,6:12 PM,12:00,Jump Ball Pekovic vs. Sullinger: Tip to Martin,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,2,1,5,1,6:12 PM,11:46,Williams 1' Layup (2 PTS) (Martin 1 AST),,,0 - 2,2,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,3,6,2,1,6:12 PM,11:46,,,Wallace S.FOUL (P1.T1),,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,4,3,10,1,6:12 PM,11:46,Williams Free Throw 1 of 1 (3 PTS),,,0 - 3,3,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,6,1,47,1,6:12 PM,11:30,,,Lee 18' Turnaround Jump Shot (2 PTS),2 - 3,1,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,8,1,1,1,6:13 PM,11:09,Love 24' 3PT Jump Shot (3 PTS) (Rubio 1 AST),,,2 - 6,4,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,9,6,2,1,6:13 PM,10:57,Love S.FOUL (P1.T1),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,10,3,11,1,6:13 PM,10:57,,,Bass Free Throw 1 of 2 (1 PTS),3 - 6,3,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,12,3,12,1,6:14 PM,10:57,,,Bass Free Throw 2 of 2 (2 PTS),4 - 6,2,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,14,2,1,1,6:14 PM,10:43,MISS Love 26' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,15,4,0,1,6:14 PM,10:42,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,16,6,2,1,6:15 PM,10:23,Pekovic S.FOUL (P1.T2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,17,3,11,1,6:15 PM,10:23,,,Wallace Free Throw 1 of 2 (1 PTS),5 - 6,1,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,19,3,12,1,6:15 PM,10:23,,,MISS Wallace Free Throw 2 of 2,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,21,4,0,1,6:15 PM,10:23,Love REBOUND (Off:0 Def:1),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,22,2,42,1,6:15 PM,10:14,MISS Martin 3' Driving Layup,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,23,4,0,1,6:15 PM,10:12,,,Bradley REBOUND (Off:0 Def:1),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,24,1,5,1,6:15 PM,10:04,,,Wallace 1' Layup (3 PTS) (Bradley 1 AST),7 - 6,-1,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,25,1,46,1,6:16 PM,9:52,Martin 10' Running Jump Shot (2 PTS),,,7 - 8,1,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,26,2,1,1,6:16 PM,9:38,,,MISS Wallace 26' 3PT Jump Shot,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,27,4,0,1,6:16 PM,9:37,Rubio REBOUND (Off:0 Def:1),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,28,2,5,1,6:16 PM,9:33,MISS Williams 2' Layup,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,29,4,0,1,6:16 PM,9:30,Pekovic REBOUND (Off:1 Def:0),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,30,2,5,1,6:16 PM,9:28,MISS Pekovic  Layup,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,31,4,0,1,6:16 PM,9:27,,,Lee REBOUND (Off:0 Def:1),,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,32,2,79,1,6:16 PM,9:16,,,MISS Lee 12' Pullup Jump Shot,,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,33,4,0,1,6:16 PM,9:15,Love REBOUND (Off:0 Def:2),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,34,6,1,1,6:17 PM,9:02,,,Lee P.FOUL (P1.T2),,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,35,5,1,1,6:17 PM,8:51,Rubio Bad Pass Turnover (P1.T1),,Bass STEAL (1 STL),,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,36,6,26,1,6:17 PM,8:47,,,Bass Offensive Charge Foul (P1.T3),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,37,5,5,1,6:17 PM,8:47,,,Bass Foul Turnover (P1.T1),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011300081,38,1,86,1,6:18 PM,8:22,Love 12' Turnaround Fadeaway (5 PTS) (Martin 2 AST),,,7 - 10,3,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,39,2,1,1,6:18 PM,8:12,,,MISS Bradley 21' Jump Shot,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,40,4,0,1,6:18 PM,8:11,Martin REBOUND (Off:0 Def:1),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,41,5,1,1,6:18 PM,8:06,Martin Bad Pass Turnover (P1.T2),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,42,2,1,1,6:19 PM,7:44,,,MISS Sullinger 26' 3PT Jump Shot,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,43,4,0,1,6:19 PM,7:43,Williams REBOUND (Off:0 Def:1),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,45,2,1,1,6:19 PM,7:33,MISS Martin 14' Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,46,4,0,1,6:19 PM,7:32,Rubio REBOUND (Off:1 Def:1),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,47,1,1,1,6:19 PM,7:30,Love 25' 3PT Jump Shot (8 PTS) (Rubio 2 AST),,,7 - 13,6,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,48,5,4,1,6:19 PM,7:11,,,Sullinger Traveling Turnover (P1.T2),,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011300081,49,5,1,1,6:20 PM,6:59,Martin Bad Pass Turnover (P2.T3),,Bradley STEAL (1 STL),,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,50,5,1,1,6:20 PM,6:56,Love STEAL (1 STL),,Bradley Bad Pass Turnover (P1.T3),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,51,1,5,1,6:20 PM,6:47,Pekovic 1' Layup (2 PTS) (Martin 3 AST),,,7 - 15,8,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,52,2,1,1,6:20 PM,6:32,Pekovic BLOCK (1 BLK),,MISS Bradley 4' Jump Shot,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,53,4,0,1,6:20 PM,6:31,Love REBOUND (Off:0 Def:3),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,54,1,1,1,6:20 PM,6:24,Martin 24' 3PT Jump Shot (5 PTS) (Love 1 AST),,,7 - 18,11,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,55,9,1,1,6:20 PM,6:21,,,Celtics Timeout: Regular (Reg.1 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,57,8,0,1,6:23 PM,6:21,,,SUB: Green FOR Bass,,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,58,8,0,1,6:23 PM,6:21,,,SUB: Olynyk FOR Lee,,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,59,6,1,1,6:23 PM,6:15,Martin P.FOUL (P1.T3),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,60,1,40,1,6:23 PM,6:02,,,Bradley 3' Layup (2 PTS) (Green 1 AST),9 - 18,9,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,61,1,3,1,6:24 PM,5:45,Pekovic 5' Hook Shot (4 PTS) (Rubio 3 AST),,,9 - 20,11,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,62,1,42,1,6:24 PM,5:35,,,Green 3' Driving Layup (2 PTS),11 - 20,9,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,63,7,1,1,6:24 PM,5:34,,,Celtics Violation: Delay of game Violation,,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300081,64,2,1,1,6:24 PM,5:11,MISS Martin 25' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,65,4,0,1,6:24 PM,5:10,,,Bradley REBOUND (Off:0 Def:2),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,66,1,1,1,6:25 PM,4:57,,,Green 25' 3PT Jump Shot (5 PTS) (Wallace 1 AST),14 - 20,6,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,67,5,1,1,6:25 PM,4:45,Rubio Bad Pass Turnover (P2.T4),,Wallace STEAL (1 STL),,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,68,1,42,1,6:25 PM,4:41,,,Wallace 1' Driving Layup (5 PTS),16 - 20,4,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,69,2,1,1,6:25 PM,4:30,MISS Martin 24' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,70,4,0,1,6:25 PM,4:29,,,Bradley REBOUND (Off:0 Def:3),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,71,1,5,1,6:25 PM,4:24,,,Wallace 1' Layup (7 PTS) (Bradley 2 AST),18 - 20,2,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,72,6,2,1,6:25 PM,4:07,,,Olynyk S.FOUL (P1.T4),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,73,3,11,1,6:26 PM,4:07,Love Free Throw 1 of 2 (9 PTS),,,18 - 21,3,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,75,3,12,1,6:26 PM,4:07,MISS Love Free Throw 2 of 2,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,77,4,0,1,6:26 PM,4:07,,,Green REBOUND (Off:0 Def:1),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,78,2,1,1,6:26 PM,3:47,,,MISS Sullinger 25' 3PT Jump Shot,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,79,4,0,1,6:26 PM,3:46,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,82,8,0,1,6:28 PM,3:30,,,SUB: Humphries FOR Sullinger,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,83,8,0,1,6:28 PM,3:30,,,SUB: Crawford FOR Bradley,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,84,2,1,1,6:28 PM,3:26,MISS Rubio 25' 3PT Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,85,4,0,1,6:28 PM,3:24,Williams REBOUND (Off:1 Def:1),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,86,2,5,1,6:28 PM,3:21,MISS Williams  Layup,,Green BLOCK (1 BLK),,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0
+0011300081,87,4,0,1,6:28 PM,3:20,,,Green REBOUND (Off:0 Def:2),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,88,6,2,1,6:28 PM,3:15,Martin S.FOUL (P2.T4),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,89,3,11,1,6:28 PM,3:15,,,Green Free Throw 1 of 2 (6 PTS),19 - 21,2,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,91,3,12,1,6:29 PM,3:15,,,Green Free Throw 2 of 2 (7 PTS),20 - 21,1,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,93,1,1,1,6:29 PM,3:01,Martin 25' 3PT Jump Shot (8 PTS) (Rubio 4 AST),,,20 - 24,4,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,94,1,1,1,6:29 PM,2:44,,,Wallace 26' 3PT Jump Shot (10 PTS),23 - 24,1,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,95,1,1,1,6:30 PM,2:31,Martin 25' 3PT Jump Shot (11 PTS) (Love 2 AST),,,23 - 27,4,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,96,2,1,1,6:30 PM,2:08,,,MISS Crawford 28' 3PT Jump Shot,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,97,4,0,1,6:30 PM,2:06,Williams REBOUND (Off:1 Def:2),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,98,2,1,1,6:30 PM,1:58,MISS Love 26' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,99,4,0,1,6:30 PM,1:57,Pekovic REBOUND (Off:2 Def:0),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,100,6,1,1,6:30 PM,1:57,,,Olynyk P.FOUL (P2.PN),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,101,9,1,1,6:31 PM,1:57,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,103,8,0,1,6:33 PM,1:57,,,SUB: Brooks FOR Wallace,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,104,8,0,1,6:33 PM,1:57,SUB: Shved FOR Martin,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,105,8,0,1,6:33 PM,1:57,SUB: Brewer FOR Williams,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,106,8,0,1,6:33 PM,1:57,SUB: Turiaf FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,107,6,1,1,6:33 PM,1:50,,,Humphries P.FOUL (P1.PN),,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,108,3,11,1,6:33 PM,1:50,Love Free Throw 1 of 2 (10 PTS),,,23 - 28,5,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,110,3,12,1,6:33 PM,1:50,Love Free Throw 2 of 2 (11 PTS),,,23 - 29,6,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,112,2,1,1,6:34 PM,1:26,Brewer BLOCK (1 BLK),,MISS Green 27' 3PT Jump Shot,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,113,4,0,1,6:34 PM,1:25,,,Humphries REBOUND (Off:1 Def:0),,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,114,5,11,1,6:34 PM,1:25,,,Celtics Turnover: Shot Clock (T#4),,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300081,115,2,65,1,6:35 PM,1:11,MISS Love 8' Jump Hook Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,116,4,0,1,6:35 PM,1:10,,,Olynyk REBOUND (Off:0 Def:1),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,117,1,42,1,6:35 PM,1:05,,,Green 1' Driving Layup (9 PTS) (Olynyk 1 AST),25 - 29,4,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,118,6,1,1,6:35 PM,0:48,,,Green P.FOUL (P1.PN),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,119,3,11,1,6:35 PM,0:48,Rubio Free Throw 1 of 2 (1 PTS),,,25 - 30,5,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,121,3,12,1,6:35 PM,0:48,Rubio Free Throw 2 of 2 (2 PTS),,,25 - 31,6,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,123,2,42,1,6:36 PM,0:36,,,MISS Humphries 1' Driving Layup,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,124,4,0,1,6:36 PM,0:35,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,125,8,0,1,6:36 PM,0:35,SUB: Barea FOR Rubio,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,126,5,1,1,6:36 PM,0:17,Brewer Bad Pass Turnover (P1.T5),,Green STEAL (1 STL),,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,127,1,63,1,6:37 PM,0:02,,,Humphries 17' Fadeaway Jumper (2 PTS),27 - 31,4,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,128,2,1,1,6:37 PM,0:00,MISS Brewer 41' 3PT Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,129,4,0,1,6:37 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,130,13,0,1,6:37 PM,0:00,,End of 1st Period (6:37 PM EST),,27 - 31,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,132,12,0,2,6:39 PM,12:00,,Start of 2nd Period (6:39 PM EST),,27 - 31,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,133,2,5,2,6:40 PM,11:38,Turiaf BLOCK (1 BLK),,MISS Olynyk 1' Layup,,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,134,4,0,2,6:40 PM,11:36,Cunningham REBOUND (Off:0 Def:1),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,135,1,1,2,6:40 PM,11:30,Shved 24' 3PT Jump Shot (3 PTS),,,27 - 34,7,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,136,2,86,2,6:40 PM,11:13,,,MISS Crawford 18' Turnaround Fadeaway Shot,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,137,4,0,2,6:40 PM,11:12,Brewer REBOUND (Off:0 Def:1),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,138,2,1,2,6:40 PM,11:06,MISS Shved 25' 3PT Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,139,4,0,2,6:40 PM,11:05,,,Crawford REBOUND (Off:0 Def:1),,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,140,6,26,2,6:41 PM,10:58,,,Green Offensive Charge Foul (P2.T1),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,141,5,5,2,6:41 PM,10:58,,,Green Foul Turnover (P1.T5),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011300081,142,8,0,2,6:41 PM,10:58,,,SUB: Bass FOR Olynyk,,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,143,5,1,2,6:41 PM,10:42,Shved Bad Pass Turnover (P1.T6),,Crawford STEAL (1 STL),,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,144,6,29,2,6:41 PM,10:36,Cunningham Shooting Block Foul (P1.T1),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,145,3,11,2,6:41 PM,10:36,,,Humphries Free Throw 1 of 2 (3 PTS),28 - 34,6,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,147,3,12,2,6:42 PM,10:36,,,MISS Humphries Free Throw 2 of 2,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,149,4,0,2,6:42 PM,10:36,Cunningham REBOUND (Off:0 Def:2),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,150,2,1,2,6:42 PM,10:17,MISS Cunningham 19' Jump Shot,,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,151,4,0,2,6:42 PM,10:15,,,Crawford REBOUND (Off:0 Def:2),,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,152,2,47,2,6:42 PM,10:04,,,MISS Bass 16' Turnaround Jump Shot,,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,153,4,0,2,6:42 PM,10:03,,,Brooks REBOUND (Off:1 Def:0),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,154,1,72,2,6:42 PM,10:01,,,Brooks  Putback Layup (2 PTS),30 - 34,4,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,155,6,18,2,6:43 PM,10:01,,,Celtics Foul,,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300081,156,3,16,2,6:43 PM,10:01,Barea Free Throw Technical (1 PTS),,,30 - 35,5,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,158,2,5,2,6:43 PM,9:50,MISS Barea 2' Layup,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,159,4,0,2,6:43 PM,9:49,Brewer REBOUND (Off:1 Def:1),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,160,2,5,2,6:44 PM,9:40,MISS Barea  Layup,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,161,4,0,2,6:44 PM,9:38,Barea REBOUND (Off:1 Def:0),,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,162,2,5,2,6:44 PM,9:34,MISS Turiaf 1' Layup,,Humphries BLOCK (1 BLK),,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0
+0011300081,163,4,0,2,6:44 PM,9:32,Turiaf REBOUND (Off:1 Def:0),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,164,2,5,2,6:44 PM,9:31,MISS Turiaf 1' Layup,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,165,4,0,2,6:44 PM,9:30,Cunningham REBOUND (Off:1 Def:2),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,166,1,5,2,6:44 PM,9:28,Cunningham 1' Layup (2 PTS),,,30 - 37,7,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,167,1,42,2,6:44 PM,9:14,,,Crawford 2' Driving Layup (2 PTS),32 - 37,5,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,169,7,2,2,6:44 PM,8:59,,,Humphries Violation:Defensive Goaltending,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011300081,168,1,5,2,6:44 PM,8:59,Shved 1' Layup (5 PTS),,,32 - 39,7,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,170,2,1,2,6:45 PM,8:37,,,MISS Brooks 25' 3PT Jump Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,171,4,0,2,6:45 PM,8:36,Brewer REBOUND (Off:1 Def:2),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,172,1,42,2,6:45 PM,8:31,Brewer 1' Driving Layup (2 PTS),,,32 - 41,9,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,173,2,1,2,6:45 PM,8:04,,,MISS Bass 13' Jump Shot,,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,175,4,0,2,6:45 PM,8:02,,,Brooks REBOUND (Off:2 Def:0),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,174,2,4,2,6:45 PM,8:02,,,MISS Brooks 1' Tip Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,177,4,0,2,6:45 PM,7:59,,,Brooks REBOUND (Off:3 Def:0),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,176,1,4,2,6:45 PM,7:59,,,Brooks 2' Tip Shot (4 PTS),34 - 41,7,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,178,6,2,2,6:46 PM,7:53,,,Crawford S.FOUL (P1.T2),,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,179,9,1,2,6:46 PM,7:53,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,180,8,0,2,6:48 PM,7:53,,,SUB: Bradley FOR Green,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,181,8,0,2,6:48 PM,7:53,,,SUB: Sullinger FOR Humphries,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,182,8,0,2,6:48 PM,7:53,,,SUB: Wallace FOR Crawford,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,183,3,11,2,6:48 PM,7:53,Barea Free Throw 1 of 2 (2 PTS),,,34 - 42,8,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,185,3,12,2,6:48 PM,7:53,Barea Free Throw 2 of 2 (3 PTS),,,34 - 43,9,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,187,6,2,2,6:49 PM,7:37,Turiaf S.FOUL (P1.T2),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,188,3,11,2,6:49 PM,7:37,,,Bass Free Throw 1 of 2 (3 PTS),35 - 43,8,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,190,8,0,2,6:49 PM,7:37,,,SUB: Lee FOR Brooks,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,191,3,12,2,6:50 PM,7:37,,,Bass Free Throw 2 of 2 (4 PTS),36 - 43,7,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,193,2,1,2,6:50 PM,7:20,MISS Shved 17' Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,194,4,0,2,6:50 PM,7:18,,,Bass REBOUND (Off:0 Def:1),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,195,2,1,2,6:50 PM,7:11,,,MISS Wallace 24' 3PT Jump Shot,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,196,4,0,2,6:50 PM,7:10,,,Bass REBOUND (Off:1 Def:1),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,197,2,42,2,6:50 PM,7:07,,,MISS Wallace  Driving Layup,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,198,4,0,2,6:50 PM,7:06,Cunningham REBOUND (Off:1 Def:3),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,199,6,1,2,6:50 PM,6:57,,,Bradley P.FOUL (P1.T3),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,200,1,1,2,6:51 PM,6:50,Cunningham 17' Jump Shot (4 PTS) (Turiaf 1 AST),,,36 - 45,9,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,201,1,88,2,6:51 PM,6:39,,,Wallace  Driving Slam Dunk (12 PTS),38 - 45,7,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,202,5,1,2,6:51 PM,6:27,Barea Bad Pass Turnover (P1.T7),,Bradley STEAL (2 STL),,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,203,2,5,2,6:51 PM,6:22,,,MISS Bradley 1' Layup,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,204,4,0,2,6:51 PM,6:21,,,Bass REBOUND (Off:2 Def:1),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,205,1,5,2,6:51 PM,6:19,,,Bass 1' Layup (6 PTS),40 - 45,5,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,206,2,1,2,6:52 PM,6:03,MISS Brewer 21' Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,207,4,0,2,6:52 PM,6:00,Brewer REBOUND (Off:2 Def:2),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,208,6,2,2,6:52 PM,5:57,,,Sullinger S.FOUL (P1.T4),,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,209,9,1,2,6:52 PM,5:57,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,211,8,0,2,6:54 PM,5:57,SUB: Pekovic FOR Turiaf,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,212,8,0,2,6:54 PM,5:57,SUB: Martin FOR Shved,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,213,8,0,2,6:54 PM,5:57,SUB: Love FOR Cunningham,,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,214,3,11,2,6:54 PM,5:57,MISS Brewer Free Throw 1 of 2,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,215,4,1,2,6:54 PM,5:57,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,216,3,12,2,6:54 PM,5:57,Brewer Free Throw 2 of 2 (3 PTS),,,40 - 46,6,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,218,2,5,2,6:55 PM,5:37,,,MISS Sullinger 1' Layup,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,220,4,0,2,6:55 PM,5:35,,,Bass REBOUND (Off:3 Def:1),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,219,1,92,2,6:55 PM,5:35,,,Bass  Putback Slam Dunk (8 PTS),42 - 46,4,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,221,2,1,2,6:55 PM,5:11,MISS Barea 25' 3PT Jump Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,222,4,0,2,6:56 PM,5:08,Brewer REBOUND (Off:3 Def:2),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,223,6,2,2,6:56 PM,5:03,,,Sullinger S.FOUL (P2.PN),,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,224,3,11,2,6:56 PM,5:03,Pekovic Free Throw 1 of 2 (5 PTS),,,42 - 47,5,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,226,8,0,2,6:56 PM,5:03,SUB: Williams FOR Brewer,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,227,8,0,2,6:56 PM,5:03,SUB: Rubio FOR Barea,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,228,3,12,2,6:56 PM,5:03,Pekovic Free Throw 2 of 2 (6 PTS),,,42 - 48,6,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,230,1,73,2,6:57 PM,4:49,,,Sullinger 3' Driving Reverse Layup (2 PTS) (Wallace 2 AST),44 - 48,4,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,232,2,1,2,6:57 PM,4:37,MISS Martin 17' Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,233,4,0,2,6:57 PM,4:35,,,Bass REBOUND (Off:3 Def:2),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,234,2,58,2,6:57 PM,4:22,,,MISS Sullinger 8' Turnaround Hook Shot,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,235,4,0,2,6:57 PM,4:21,Pekovic REBOUND (Off:2 Def:1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,236,1,80,2,6:58 PM,4:12,Rubio 11' Step Back Jump Shot (4 PTS),,,44 - 50,6,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,237,1,1,2,6:58 PM,3:44,,,Bradley 25' 3PT Jump Shot (5 PTS) (Lee 1 AST),47 - 50,3,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,238,5,4,2,6:58 PM,3:30,Love Traveling Turnover (P1.T8),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300081,239,2,79,2,6:59 PM,3:19,,,MISS Bradley 22' Pullup Jump Shot,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,240,4,0,2,6:59 PM,3:18,Williams REBOUND (Off:1 Def:3),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,243,5,2,2,6:59 PM,3:06,Martin Lost Ball Turnover (P3.T9),,Wallace STEAL (2 STL),,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,244,2,1,2,7:00 PM,2:44,,,MISS Wallace 27' 3PT Jump Shot,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,245,4,0,2,7:00 PM,2:43,Rubio REBOUND (Off:1 Def:2),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,246,6,4,2,7:00 PM,2:37,Pekovic OFF.Foul (P2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,247,5,5,2,7:00 PM,2:37,Pekovic Foul Turnover (P1.T10),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300081,248,9,1,2,7:00 PM,2:37,,,Celtics Timeout: Regular (Reg.2 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,250,6,1,2,7:03 PM,2:26,Rubio P.FOUL (P1.T3),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,251,2,1,2,7:03 PM,2:20,,,MISS Lee 21' Jump Shot,,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,252,4,0,2,7:03 PM,2:19,Williams REBOUND (Off:1 Def:4),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,253,2,1,2,7:03 PM,2:03,MISS Love 26' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,254,4,0,2,7:03 PM,2:02,Pekovic REBOUND (Off:3 Def:1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,255,6,2,2,7:04 PM,1:50,,,Bass S.FOUL (P2.PN),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,256,3,13,2,7:04 PM,1:50,Love Free Throw 1 of 3 (12 PTS),,,47 - 51,4,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,258,3,14,2,7:04 PM,1:50,Love Free Throw 2 of 3 (13 PTS),,,47 - 52,5,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,260,8,0,2,7:04 PM,1:50,,,SUB: Green FOR Lee,,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,261,3,15,2,7:04 PM,1:50,Love Free Throw 3 of 3 (14 PTS),,,47 - 53,6,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,263,5,4,2,7:05 PM,1:30,,,Wallace Traveling Turnover (P1.T6),,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011300081,264,2,63,2,7:05 PM,1:15,MISS Martin 17' Fadeaway Jumper,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,265,4,0,2,7:05 PM,1:14,,,Green REBOUND (Off:0 Def:3),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,266,2,5,2,7:06 PM,1:07,,,MISS Green 1' Layup,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,267,4,0,2,7:06 PM,1:06,,,Sullinger REBOUND (Off:1 Def:0),,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,268,1,5,2,7:06 PM,1:05,,,Sullinger 2' Layup (4 PTS),49 - 53,4,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,269,1,75,2,7:06 PM,0:51,Rubio 1' Driving Finger Roll Layup (6 PTS),,,49 - 55,6,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,270,5,2,2,7:06 PM,0:50,Rubio STEAL (1 STL),,Green Lost Ball Turnover (P2.T7),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,271,2,79,2,7:06 PM,0:33,MISS Rubio 19' Pullup Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,272,4,0,2,7:06 PM,0:32,,,Wallace REBOUND (Off:0 Def:1),,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,273,6,1,2,7:06 PM,0:32,Love P.FOUL (P2.T4),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,274,2,1,2,7:07 PM,0:14,,,MISS Bradley 24' 3PT Jump Shot,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,275,4,0,2,7:07 PM,0:14,Martin REBOUND (Off:0 Def:2),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,276,5,2,2,7:07 PM,0:09,Rubio Lost Ball Turnover (P3.T11),,Bradley STEAL (3 STL),,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,277,1,8,2,7:07 PM,0:08,,,Bradley 2' Slam Dunk (7 PTS),51 - 55,4,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,278,6,18,2,7:07 PM,0:08,,,Celtics Foul,,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300081,279,3,16,2,7:07 PM,0:08,MISS Martin Free Throw Technical,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,280,4,1,2,7:07 PM,0:08,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,281,6,2,2,7:08 PM,0:00,,,Sullinger S.FOUL (P3.PN),,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,282,3,11,2,7:08 PM,0:00,Love Free Throw 1 of 2 (15 PTS),,,51 - 56,5,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,284,3,12,2,7:08 PM,0:00,Love Free Throw 2 of 2 (16 PTS),,,51 - 57,6,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,286,13,0,2,7:09 PM,0:00,,End of 2nd Period (7:09 PM EST),,51 - 57,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,288,12,0,3,7:25 PM,12:00,,Start of 3rd Period (7:25 PM EST),,51 - 57,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,290,1,78,3,7:26 PM,11:36,,,Bradley 5' Floating Jump Shot (9 PTS),53 - 57,4,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,291,5,2,3,7:27 PM,11:16,Pekovic Lost Ball Turnover (P2.T12),,Green STEAL (2 STL),,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,292,6,2,3,7:27 PM,10:57,Martin S.FOUL (P3.T1),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,293,3,11,3,7:27 PM,10:57,,,Green Free Throw 1 of 2 (10 PTS),54 - 57,3,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,295,3,12,3,7:27 PM,10:57,,,Green Free Throw 2 of 2 (11 PTS),55 - 57,2,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,297,2,1,3,7:28 PM,10:40,MISS Rubio 20' Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,298,4,0,3,7:28 PM,10:39,,,Bradley REBOUND (Off:0 Def:4),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,299,6,2,3,7:28 PM,10:36,Rubio S.FOUL (P2.T2),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,300,3,11,3,7:28 PM,10:36,,,MISS Green Free Throw 1 of 2,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,301,4,1,3,7:28 PM,10:36,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,302,3,12,3,7:29 PM,10:36,,,Green Free Throw 2 of 2 (12 PTS),56 - 57,1,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,304,1,1,3,7:29 PM,10:15,Rubio 25' 3PT Jump Shot (9 PTS) (Williams 1 AST),,,56 - 60,4,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,305,2,1,3,7:30 PM,9:50,,,MISS Sullinger 26' 3PT Jump Shot,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,306,4,0,3,7:30 PM,9:48,Williams REBOUND (Off:1 Def:5),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,307,6,2,3,7:30 PM,9:37,,,Sullinger S.FOUL (P4.T1),,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,308,3,11,3,7:30 PM,9:37,Pekovic Free Throw 1 of 2 (7 PTS),,,56 - 61,5,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,310,8,0,3,7:30 PM,9:37,,,SUB: Faverani FOR Sullinger,,,5,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,311,3,12,3,7:30 PM,9:37,Pekovic Free Throw 2 of 2 (8 PTS),,,56 - 62,6,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,313,6,17,3,7:31 PM,9:23,TIMBERWOLVES T.Foul (Def. 3 Sec Love ),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300081,314,3,16,3,7:31 PM,9:23,,,MISS Green Free Throw Technical,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,315,4,1,3,7:31 PM,9:23,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,316,1,43,3,7:32 PM,9:21,,,Bradley 2' Alley Oop Layup (11 PTS) (Wallace 3 AST),58 - 62,4,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,317,1,42,3,7:32 PM,9:09,Rubio 2' Driving Layup (11 PTS),,,58 - 64,6,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,318,1,8,3,7:32 PM,8:50,,,Bass  Slam Dunk (10 PTS),60 - 64,4,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,319,6,4,3,7:33 PM,8:34,Pekovic OFF.Foul (P3),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,320,5,5,3,7:33 PM,8:34,Pekovic Foul Turnover (P3.T13),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300081,321,2,1,3,7:33 PM,8:20,,,MISS Green 26' 3PT Jump Shot,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,322,4,0,3,7:33 PM,8:19,Love REBOUND (Off:0 Def:4),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,323,1,1,3,7:33 PM,8:08,Martin  3PT Jump Shot (14 PTS) (Williams 2 AST),,,60 - 67,7,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,324,2,1,3,7:33 PM,7:51,Love BLOCK (1 BLK),,MISS Wallace 5' Jump Shot,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,325,4,0,3,7:33 PM,7:49,,,Faverani REBOUND (Off:1 Def:0),,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,326,1,65,3,7:34 PM,7:46,,,Faverani 6' Jump Hook Shot (2 PTS),62 - 67,5,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,327,2,1,3,7:34 PM,7:19,MISS Williams  3PT Jump Shot,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,328,4,0,3,7:34 PM,7:18,,,Wallace REBOUND (Off:0 Def:2),,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,329,2,5,3,7:34 PM,7:12,Williams BLOCK (1 BLK),,MISS Bass 1' Layup,,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,330,4,0,3,7:34 PM,7:11,,,Bradley REBOUND (Off:1 Def:4),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,331,2,5,3,7:34 PM,7:10,Pekovic BLOCK (2 BLK),,MISS Bradley 2' Layup,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,332,4,0,3,7:34 PM,7:09,Martin REBOUND (Off:0 Def:3),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,333,6,1,3,7:34 PM,7:09,,,Bradley P.FOUL (P2.T2),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,334,1,5,3,7:35 PM,6:51,Pekovic 1' Layup (10 PTS) (Rubio 5 AST),,,62 - 69,7,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,335,6,29,3,7:35 PM,6:39,Love Shooting Block Foul (P3.T3),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,336,3,11,3,7:35 PM,6:39,,,Wallace Free Throw 1 of 2 (13 PTS),63 - 69,6,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,338,3,12,3,7:35 PM,6:39,,,Wallace Free Throw 2 of 2 (14 PTS),64 - 69,5,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,340,1,89,3,7:36 PM,6:25,Williams 2' Reverse Slam Dunk (5 PTS) (Rubio 6 AST),,,64 - 71,7,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,341,1,5,3,7:36 PM,6:10,,,Wallace  Layup (16 PTS) (Green 2 AST),66 - 71,5,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,342,2,46,3,7:37 PM,5:48,MISS Martin 9' Running Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,343,4,0,3,7:37 PM,5:47,,,Bass REBOUND (Off:3 Def:3),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,344,6,28,3,7:37 PM,5:40,Rubio Personal Take Foul (P3.T4),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,345,9,1,3,7:37 PM,5:40,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,347,2,42,3,7:40 PM,5:28,,,MISS Green 1' Driving Layup,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,348,4,0,3,7:40 PM,5:27,Martin REBOUND (Off:0 Def:4),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,349,6,1,3,7:40 PM,5:17,,,Green P.FOUL (P3.T3),,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,351,6,4,3,7:41 PM,5:10,Pekovic OFF.Foul (P4),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,352,5,5,3,7:41 PM,5:10,Pekovic Foul Turnover (P4.T14),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300081,353,2,1,3,7:41 PM,4:53,,,MISS Wallace 21' Jump Shot,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,354,4,0,3,7:41 PM,4:52,Williams REBOUND (Off:1 Def:6),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,355,2,86,3,7:41 PM,4:38,MISS Martin 16' Turnaround Fadeaway Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,356,4,0,3,7:41 PM,4:37,Pekovic REBOUND (Off:4 Def:1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,357,2,72,3,7:42 PM,4:34,MISS Pekovic 1' Putback Layup,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,358,4,0,3,7:42 PM,4:33,,,Bass REBOUND (Off:3 Def:4),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,359,2,1,3,7:42 PM,4:24,,,MISS Green 26' 3PT Jump Shot,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,360,4,0,3,7:42 PM,4:23,Pekovic REBOUND (Off:4 Def:2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,361,2,1,3,7:42 PM,4:07,MISS Rubio 19' Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,362,4,0,3,7:42 PM,4:06,,,Bass REBOUND (Off:3 Def:5),,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,363,2,1,3,7:42 PM,3:53,,,MISS Faverani 14' Jump Shot,,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,364,4,0,3,7:42 PM,3:52,Love REBOUND (Off:0 Def:5),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,365,6,1,3,7:42 PM,3:39,,,Faverani P.FOUL (P1.T4),,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,366,8,0,3,7:43 PM,3:39,SUB: Turiaf FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,367,8,0,3,7:43 PM,3:39,SUB: Brewer FOR Williams,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,368,8,0,3,7:43 PM,3:39,,,SUB: Lee FOR Wallace,,,5,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,369,2,1,3,7:43 PM,3:30,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,370,4,0,3,7:43 PM,3:29,Turiaf REBOUND (Off:2 Def:0),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,371,6,2,3,7:43 PM,3:26,,,Lee S.FOUL (P2.PN),,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,372,3,11,3,7:43 PM,3:26,Martin Free Throw 1 of 2 (15 PTS),,,66 - 72,6,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,374,8,0,3,7:44 PM,3:26,,,SUB: Olynyk FOR Bass,,,5,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,375,3,12,3,7:44 PM,3:26,Martin Free Throw 2 of 2 (16 PTS),,,66 - 73,7,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,377,9,1,3,7:44 PM,3:26,,,Celtics Timeout: Regular (Reg.3 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,379,8,0,3,7:46 PM,3:26,,,SUB: Crawford FOR Bradley,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,380,1,94,3,7:46 PM,3:05,,,Faverani 6' Jump Bank Hook Shot (4 PTS),68 - 73,5,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,381,2,1,3,7:47 PM,2:46,MISS Love 18' Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,382,4,0,3,7:47 PM,2:45,Turiaf REBOUND (Off:3 Def:0),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,383,1,1,3,7:47 PM,2:43,Martin 24' 3PT Jump Shot (19 PTS) (Turiaf 2 AST),,,68 - 76,8,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,384,2,1,3,7:47 PM,2:17,,,MISS Green 25' 3PT Jump Shot,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,385,4,0,3,7:47 PM,2:15,Love REBOUND (Off:0 Def:6),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,386,2,5,3,7:47 PM,2:11,MISS Brewer 1' Layup,,Green BLOCK (2 BLK),,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0
+0011300081,387,4,0,3,7:47 PM,2:09,,,Lee REBOUND (Off:0 Def:2),,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,388,2,79,3,7:47 PM,2:05,,,MISS Olynyk 16' Pullup Jump Shot,,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,389,4,0,3,7:47 PM,2:04,Rubio REBOUND (Off:1 Def:3),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,390,5,40,3,7:48 PM,1:57,Love Out of Bounds Lost Ball Turnover (P2.T15),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,391,1,47,3,7:48 PM,1:38,,,Faverani 10' Turnaround Jump Shot (6 PTS),70 - 76,6,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,392,2,1,3,7:48 PM,1:22,MISS Martin 25' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,393,4,0,3,7:48 PM,1:21,,,Olynyk REBOUND (Off:0 Def:2),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,394,5,1,3,7:49 PM,1:08,Brewer STEAL (1 STL),,Lee Bad Pass Turnover (P1.T8),,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,395,1,42,3,7:49 PM,1:01,Brewer 2' Driving Layup (5 PTS),,,70 - 78,8,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,396,6,2,3,7:49 PM,0:41,Turiaf S.FOUL (P2.PN),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,397,3,11,3,7:49 PM,0:41,,,Faverani Free Throw 1 of 2 (7 PTS),71 - 78,7,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,399,8,0,3,7:50 PM,0:41,SUB: Shved FOR Martin,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,400,3,12,3,7:50 PM,0:41,,,Faverani Free Throw 2 of 2 (8 PTS),72 - 78,6,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,402,1,49,3,7:50 PM,0:32,Love 1' Driving Dunk (18 PTS),,,72 - 80,8,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,403,2,1,3,7:51 PM,0:09,,,MISS Green 20' Jump Shot,,,5,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,404,4,0,3,7:51 PM,0:07,Love REBOUND (Off:0 Def:7),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,405,6,2,3,7:51 PM,0:00,,,Crawford S.FOUL (P2.PN),,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,406,3,11,3,7:51 PM,0:00,MISS Rubio Free Throw 1 of 2,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,407,4,1,3,7:51 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,408,3,12,3,7:52 PM,0:00,Rubio Free Throw 2 of 2 (12 PTS),,,72 - 81,9,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,410,5,1,3,7:52 PM,0:00,Love STEAL (2 STL),,Olynyk Bad Pass Turnover (P1.T9),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,411,2,1,3,7:53 PM,0:00,MISS Love 34' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,412,4,0,3,7:53 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,413,13,0,3,7:53 PM,0:00,,End of 3rd Period (7:53 PM EST),,72 - 81,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,415,12,0,4,7:55 PM,12:00,,Start of 4th Period (7:55 PM EST),,72 - 81,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,416,6,2,4,7:55 PM,11:47,,,Olynyk S.FOUL (P3.T1),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,417,3,11,4,7:55 PM,11:47,MISS Cunningham Free Throw 1 of 2,,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,418,4,1,4,7:55 PM,11:47,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,419,3,12,4,7:55 PM,11:47,Cunningham Free Throw 2 of 2 (5 PTS),,,72 - 82,10,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,421,2,1,4,7:56 PM,11:26,,,MISS Brooks  3PT Jump Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,422,4,0,4,7:56 PM,11:25,Brewer REBOUND (Off:3 Def:3),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,423,6,2,4,7:56 PM,11:22,,,Crawford S.FOUL (P3.T2),,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,424,3,11,4,7:56 PM,11:22,Brewer Free Throw 1 of 2 (6 PTS),,,72 - 83,11,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,426,3,12,4,7:56 PM,11:22,Brewer Free Throw 2 of 2 (7 PTS),,,72 - 84,12,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,428,2,1,4,7:57 PM,11:02,,,MISS Crawford 26' 3PT Jump Shot,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,429,4,0,4,7:57 PM,11:01,Cunningham REBOUND (Off:1 Def:4),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,430,2,46,4,7:57 PM,10:39,MISS Shved 19' Running Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,431,4,0,4,7:57 PM,10:37,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,432,2,1,4,7:58 PM,10:27,,,MISS Brooks 24' 3PT Jump Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,433,4,0,4,7:58 PM,10:26,Shved REBOUND (Off:0 Def:1),,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,434,2,1,4,7:58 PM,10:21,MISS Brewer 8' Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,435,4,0,4,7:58 PM,10:20,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,436,2,1,4,7:58 PM,10:01,,,MISS Faverani 25' 3PT Jump Shot,,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,437,4,0,4,7:58 PM,9:59,Shved REBOUND (Off:0 Def:2),,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,438,2,1,4,7:59 PM,9:52,MISS Brewer  3PT Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,439,4,0,4,7:59 PM,9:50,,,Olynyk REBOUND (Off:0 Def:3),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,440,5,2,4,7:59 PM,9:29,Turiaf STEAL (1 STL),,Brooks Lost Ball Turnover (P1.T10),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,441,6,1,4,7:59 PM,9:19,,,Brooks P.FOUL (P1.T3),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,442,8,0,4,7:59 PM,9:19,,,SUB: Humphries FOR Faverani,,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,443,6,2,4,8:00 PM,9:09,,,Humphries S.FOUL (P2.T4),,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,444,3,11,4,8:00 PM,9:09,MISS Shved Free Throw 1 of 2,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,445,4,1,4,8:00 PM,9:09,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,446,3,12,4,8:00 PM,9:09,Shved Free Throw 2 of 2 (6 PTS),,,72 - 85,13,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,448,1,80,4,8:01 PM,9:01,,,Brooks 10' Step Back Jump Shot (6 PTS) (Olynyk 2 AST),74 - 85,11,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,449,2,1,4,8:01 PM,8:46,MISS Brewer 17' Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,450,4,0,4,8:01 PM,8:44,,,Olynyk REBOUND (Off:0 Def:4),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,451,2,5,4,8:01 PM,8:39,Brewer BLOCK (2 BLK),,MISS Brooks  Layup,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,452,4,0,4,8:01 PM,8:38,,,Olynyk REBOUND (Off:1 Def:4),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,453,1,87,4,8:01 PM,8:37,,,Olynyk 1' Putback Dunk (2 PTS),76 - 85,9,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,454,1,1,4,8:01 PM,8:13,Barea 19' Jump Shot (5 PTS),,,76 - 87,11,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,455,6,1,4,8:02 PM,8:04,Turiaf P.FOUL (P3.T1),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,456,9,1,4,8:02 PM,8:04,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,458,2,1,4,8:04 PM,7:58,,,MISS Brooks 25' 3PT Jump Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,459,4,0,4,8:04 PM,7:57,,,Olynyk REBOUND (Off:2 Def:4),,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,460,1,5,4,8:04 PM,7:54,,,Olynyk 1' Layup (4 PTS),78 - 87,9,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,461,7,5,4,8:04 PM,7:40,,,Crawford Violation:Kicked Ball,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011300081,462,1,80,4,8:05 PM,7:29,Barea 21' Step Back Jump Shot (7 PTS),,,78 - 89,11,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,463,2,1,4,8:05 PM,7:10,,,MISS Brooks 25' 3PT Jump Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,464,4,0,4,8:05 PM,7:08,Cunningham REBOUND (Off:1 Def:5),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,465,1,76,4,8:05 PM,6:53,Barea 1' Running Finger Roll Layup (9 PTS),,,78 - 91,13,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,466,2,1,4,8:06 PM,6:32,,,MISS Lee 21' Jump Shot,,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,468,4,0,4,8:06 PM,6:30,,,Brooks REBOUND (Off:4 Def:0),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,467,2,4,4,8:06 PM,6:30,Cunningham BLOCK (1 BLK),,MISS Brooks 1' Tip Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300081,469,4,0,4,8:06 PM,6:29,Cunningham REBOUND (Off:1 Def:6),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,470,2,46,4,8:06 PM,6:06,MISS Barea 10' Running Jump Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,471,4,0,4,8:06 PM,6:05,,,Brooks REBOUND (Off:4 Def:1),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,472,6,2,4,8:06 PM,5:58,Cunningham S.FOUL (P2.T2),,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,473,9,1,4,8:07 PM,5:58,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,475,8,0,4,8:08 PM,5:58,,,SUB: Bradley FOR Lee,,,5,201584,Courtney Lee,1610612738.0,Boston,Celtics,BOS,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,476,8,0,4,8:08 PM,5:58,SUB: Pekovic FOR Turiaf,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,477,8,0,4,8:08 PM,5:58,SUB: Rubio FOR Barea,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,478,8,0,4,8:08 PM,5:58,SUB: Martin FOR Shved,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,479,8,0,4,8:09 PM,5:58,SUB: Love FOR Cunningham,,,,,4,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,480,3,11,4,8:09 PM,5:58,,,Humphries Free Throw 1 of 2 (4 PTS),79 - 91,12,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,482,3,12,4,8:09 PM,5:58,,,Humphries Free Throw 2 of 2 (5 PTS),80 - 91,11,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,484,1,65,4,8:09 PM,5:41,Love 5' Jump Hook Shot (20 PTS) (Rubio 7 AST),,,80 - 93,13,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,485,5,1,4,8:10 PM,5:25,Love STEAL (3 STL),,Crawford Bad Pass Turnover (P1.T11),,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,486,1,58,4,8:10 PM,5:16,Pekovic 6' Turnaround Hook Shot (12 PTS) (Brewer 1 AST),,,80 - 95,15,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,487,2,1,4,8:10 PM,5:03,,,MISS Humphries 20' Jump Shot,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,488,4,0,4,8:10 PM,5:01,Martin REBOUND (Off:0 Def:5),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,489,1,1,4,8:10 PM,4:42,Rubio 26' 3PT Jump Shot (15 PTS) (Brewer 2 AST),,,80 - 98,18,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,490,2,1,4,8:11 PM,4:23,,,MISS Crawford 24' 3PT Jump Shot,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,491,4,0,4,8:11 PM,4:22,Love REBOUND (Off:0 Def:8),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,492,1,42,4,8:11 PM,4:18,Martin 3' Driving Layup (21 PTS) (Love 3 AST),,,80 - 100,20,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,493,1,1,4,8:11 PM,4:01,,,Humphries 20' Jump Shot (7 PTS) (Bradley 3 AST),82 - 100,18,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,494,2,5,4,8:11 PM,3:47,MISS Brewer 1' Layup,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,496,4,0,4,8:11 PM,3:45,Love REBOUND (Off:1 Def:8),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,495,1,54,4,8:11 PM,3:45,Love 1' Running Tip Shot (22 PTS),,,82 - 102,20,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,497,2,1,4,8:11 PM,3:36,,,MISS Bradley 22' Jump Shot,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,498,4,0,4,8:11 PM,3:35,Pekovic REBOUND (Off:4 Def:3),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,499,2,1,4,8:11 PM,3:27,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,500,4,0,4,8:12 PM,3:26,,,Bradley REBOUND (Off:1 Def:5),,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,501,9,1,4,8:12 PM,3:25,,,Celtics Timeout: Regular (Reg.4 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,503,8,0,4,8:14 PM,3:25,,,SUB: Faverani FOR Olynyk,,,5,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,504,8,0,4,8:14 PM,3:25,,,SUB: Babb FOR Crawford,,,5,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,5,203569,Chris Babb,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,505,8,0,4,8:14 PM,3:25,SUB: Johnson FOR Love,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,506,8,0,4,8:14 PM,3:25,SUB: Hummel FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,507,8,0,4,8:14 PM,3:25,SUB: Jeffers FOR Martin,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,508,8,0,4,8:14 PM,3:25,SUB: Muhammad FOR Rubio,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,509,8,0,4,8:14 PM,3:25,SUB: Price FOR Brewer,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,510,2,73,4,8:14 PM,3:03,,,MISS Brooks 2' Driving Reverse Layup,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,511,4,0,4,8:14 PM,3:02,Hummel REBOUND (Off:0 Def:1),,,,,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,513,8,0,4,8:15 PM,2:51,,,SUB: Taylor FOR Bradley,,,5,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,202518,Kammron Taylor,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,514,6,2,4,8:15 PM,2:40,,,Brooks S.FOUL (P2.PN),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300081,515,3,11,4,8:15 PM,2:40,MISS Jeffers Free Throw 1 of 2,,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,516,4,1,4,8:15 PM,2:40,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,517,3,12,4,8:15 PM,2:40,MISS Jeffers Free Throw 2 of 2,,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,519,4,0,4,8:16 PM,2:39,,,Brooks REBOUND (Off:4 Def:2),,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,520,2,1,4,8:16 PM,2:23,,,MISS Faverani 25' 3PT Jump Shot,,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,521,4,0,4,8:16 PM,2:23,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,522,6,3,4,8:16 PM,2:23,Johnson L.B.FOUL (P1.T3),,,,,4,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,523,2,1,4,8:16 PM,2:16,,,MISS Brooks 25' 3PT Jump Shot,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,524,4,0,4,8:16 PM,2:15,,,Faverani REBOUND (Off:2 Def:0),,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,525,5,2,4,8:16 PM,2:13,Price STEAL (1 STL),,Faverani Lost Ball Turnover (P1.T12),,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,526,1,1,4,8:16 PM,2:06,Hummel 20' Jump Shot (2 PTS) (Price 1 AST),,,82 - 104,22,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300081,527,6,1,4,8:17 PM,1:53,Jeffers P.FOUL (P1.T4),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,528,1,49,4,8:17 PM,1:45,,,Humphries 1' Driving Dunk (9 PTS),84 - 104,20,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,529,5,1,4,8:17 PM,1:31,Price Bad Pass Turnover (P1.T16),,Babb STEAL (1 STL),,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,5,203569,Chris Babb,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,530,1,42,4,8:17 PM,1:27,,,Brooks 1' Driving Layup (8 PTS) (Babb 1 AST),86 - 104,18,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,5,203569,Chris Babb,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,531,6,2,4,8:17 PM,1:27,Johnson S.FOUL (P2.PN),,,,,4,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,532,3,10,4,8:18 PM,1:27,,,MISS Brooks Free Throw 1 of 1,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,534,4,0,4,8:18 PM,1:26,Jeffers REBOUND (Off:0 Def:1),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,535,2,1,4,8:18 PM,1:12,MISS Price 19' Jump Shot,,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,536,4,0,4,8:18 PM,1:11,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,537,6,3,4,8:18 PM,1:11,Johnson L.B.FOUL (P3.PN),,,,,4,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,539,3,11,4,8:19 PM,1:11,,,MISS Brooks Free Throw 1 of 2,,,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,541,4,0,4,8:19 PM,1:11,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300081,540,3,12,4,8:19 PM,1:11,,,Brooks Free Throw 2 of 2 (9 PTS),87 - 104,17,5,202705,MarShon Brooks,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,543,2,1,4,8:19 PM,0:52,MISS Muhammad 21' Jump Shot,,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,544,4,0,4,8:19 PM,0:50,,,Faverani REBOUND (Off:2 Def:1),,,5,203543,Vitor Faverani,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,545,6,2,4,8:19 PM,0:42,Price S.FOUL (P1.PN),,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,5,202518,Kammron Taylor,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,546,3,11,4,8:20 PM,0:42,,,Taylor Free Throw 1 of 2 (1 PTS),88 - 104,16,5,202518,Kammron Taylor,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,548,8,0,4,8:20 PM,0:42,,,SUB: Bell-Holter FOR Humphries,,,5,2743,Kris Humphries,1610612738.0,Boston,Celtics,BOS,5,203568,Damen Bell-Holter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011300081,549,3,12,4,8:20 PM,0:42,,,Taylor Free Throw 2 of 2 (2 PTS),89 - 104,15,5,202518,Kammron Taylor,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,551,6,4,4,8:20 PM,0:32,Johnson OFF.Foul (P4),,,,,4,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,5,202518,Kammron Taylor,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011300081,552,5,5,4,8:20 PM,0:32,Johnson Foul Turnover (P1.T17),,,,,4,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300081,553,2,1,4,8:21 PM,0:17,,,MISS Babb  3PT Jump Shot,,,5,203569,Chris Babb,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011300081,554,4,0,4,8:21 PM,0:16,Hummel REBOUND (Off:0 Def:2),,,,,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300081,555,13,0,4,8:21 PM,0:00,,End of 4th Period (8:21 PM EST),,89 - 104,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

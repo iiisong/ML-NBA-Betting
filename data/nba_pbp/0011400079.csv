@@ -1,0 +1,506 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400079,0,12,0,1,10:40 PM,12:00,,Start of 1st Period (10:40 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,1,10,0,1,10:41 PM,12:00,Jump Ball Jordan vs. Mozgov: Tip to Paul,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0
+0011400079,2,5,4,1,10:41 PM,11:47,Crawford Traveling Turnover (P1.T1),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011400079,3,2,1,1,10:41 PM,11:38,,,MISS Mozgov 24' 3PT Jump Shot,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,4,4,0,1,10:41 PM,11:34,,,Faried REBOUND (Off:1 Def:0),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,43,2,45,1,10:41 PM,11:18,Griffin BLOCK (1 BLK),,MISS Faried 5' Jump Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0
+0011400079,91,4,0,1,10:46 PM,11:12,Paul REBOUND (Off:0 Def:1),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,271,6,1,1,10:46 PM,11:12,,,Afflalo P.FOUL (P1.T1),,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,48,1,40,1,10:46 PM,10:42,Griffin 2' Layup (2 PTS) (Paul 1 AST),,,0 - 2,2,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,113,6,2,1,10:46 PM,10:42,,,Mozgov S.FOUL (P1.T2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,131,3,10,1,10:46 PM,10:42,MISS Griffin Free Throw 1 of 1,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,132,4,0,1,10:46 PM,10:42,Ingles REBOUND (Off:1 Def:0),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,141,1,45,1,10:46 PM,10:25,Crawford 10' Jump Shot (2 PTS),,,0 - 4,4,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,144,1,45,1,10:46 PM,10:00,,,Mozgov 9' Jump Shot (2 PTS),2 - 4,2,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,153,1,52,1,10:46 PM,9:50,Jordan 3' Alley Oop Dunk (2 PTS) (Paul 2 AST),,,2 - 6,4,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,156,1,40,1,10:46 PM,9:50,,,Faried 3' Layup (2 PTS) (Lawson 1 AST),4 - 6,2,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,165,2,45,1,10:46 PM,9:41,MISS Griffin 6' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,164,4,0,1,10:46 PM,9:40,,,Lawson REBOUND (Off:0 Def:1),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,172,2,45,1,10:46 PM,9:37,,,MISS Afflalo 5' Jump Shot,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,169,4,0,1,10:46 PM,9:35,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,180,6,3,1,10:46 PM,9:35,Jordan L.B.FOUL (P1.T1),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,184,4,0,1,10:46 PM,9:27,Ingles REBOUND (Off:1 Def:1),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,192,2,45,1,10:46 PM,9:27,,,MISS Gallinari 5' Jump Shot,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,203,5,1,1,10:46 PM,8:32,Ingles Bad Pass Turnover (P1.T2),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,207,1,48,1,10:46 PM,8:28,,,Gallinari 2' Dunk (2 PTS),6 - 6,TIE,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,208,1,45,1,10:46 PM,8:20,Crawford 27' 3PT Jump Shot (5 PTS) (Jordan 1 AST),,,6 - 9,3,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,276,5,41,1,10:46 PM,8:12,Crawford STEAL (1 STL),,Lawson Poss Lost Ball Turnover (P1.T1),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,6,1,1,1,10:46 PM,8:06,Crawford 24' 3PT Jump Shot (8 PTS) (Jordan 2 AST),,,6 - 12,6,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,7,6,2,1,10:46 PM,7:57,Crawford S.FOUL (P1.T2),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,8,3,11,1,10:47 PM,7:57,,,Afflalo Free Throw 1 of 2 (1 PTS),7 - 12,5,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,10,3,12,1,10:47 PM,7:57,,,Afflalo Free Throw 2 of 2 (2 PTS),8 - 12,4,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,12,1,1,1,10:47 PM,7:49,Paul 13' Jump Shot (2 PTS),,,8 - 14,6,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,13,2,5,1,10:47 PM,7:33,,,MISS Mozgov 2' Layup,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,14,4,0,1,10:47 PM,7:32,,,Mozgov REBOUND (Off:1 Def:0),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,15,1,5,1,10:47 PM,7:30,,,Mozgov 2' Layup (4 PTS),10 - 14,4,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,16,2,7,1,10:47 PM,7:20,MISS Griffin  Dunk,,Gallinari BLOCK (1 BLK),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0
+0011400079,17,4,0,1,10:47 PM,7:18,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,18,2,1,1,10:48 PM,7:10,MISS Ingles 21' Jump Shot,,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,19,4,0,1,10:48 PM,7:09,,,Mozgov REBOUND (Off:1 Def:1),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,20,6,1,1,10:48 PM,7:05,Griffin P.FOUL (P1.T3),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,21,1,1,1,10:48 PM,6:52,,,Gallinari 25' 3PT Jump Shot (5 PTS) (Afflalo 1 AST),13 - 14,1,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,22,2,1,1,10:48 PM,6:45,MISS Paul 26' 3PT Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,23,4,0,1,10:48 PM,6:43,,,Faried REBOUND (Off:1 Def:1),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,24,6,2,1,10:49 PM,6:38,Griffin S.FOUL (P2.T4),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,25,3,11,1,10:49 PM,6:38,,,Faried Free Throw 1 of 2 (3 PTS),14 - 14,TIE,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,27,3,12,1,10:49 PM,6:38,,,MISS Faried Free Throw 2 of 2,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,29,4,0,1,10:49 PM,6:38,Griffin REBOUND (Off:0 Def:1),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,30,1,1,1,10:49 PM,6:30,Crawford 25' 3PT Jump Shot (11 PTS) (Paul 3 AST),,,14 - 17,3,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,31,2,1,1,10:50 PM,6:20,Crawford BLOCK (1 BLK),,MISS Lawson 21' Jump Shot,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0
+0011400079,32,4,0,1,10:50 PM,6:17,,,Lawson REBOUND (Off:1 Def:1),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,33,6,4,1,10:50 PM,6:11,,,Mozgov OFF.Foul (P2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,34,5,5,1,10:50 PM,6:11,,,Mozgov Foul Turnover (P1.T2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400079,35,9,1,1,10:50 PM,6:11,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,37,6,1,1,10:52 PM,5:58,,,Faried P.FOUL (P1.T3),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,38,2,1,1,10:53 PM,5:46,MISS Griffin 22' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,39,4,0,1,10:53 PM,5:45,,,Lawson REBOUND (Off:1 Def:2),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,40,2,1,1,10:53 PM,5:37,,,MISS Gallinari  3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,41,4,0,1,10:53 PM,5:36,,,Mozgov REBOUND (Off:2 Def:1),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,42,7,5,1,10:53 PM,5:32,Paul Violation:Kicked Ball,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011400079,44,2,1,1,10:54 PM,5:22,,,MISS Gallinari 26' 3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,45,4,0,1,10:54 PM,5:21,Jordan REBOUND (Off:0 Def:1),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,46,2,1,1,10:54 PM,4:59,MISS Griffin 22' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,47,4,0,1,10:54 PM,4:58,,,Afflalo REBOUND (Off:0 Def:1),,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,49,6,1,1,10:55 PM,4:39,Ingles P.FOUL (P1.PN),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,50,3,11,1,10:55 PM,4:39,,,Gallinari Free Throw 1 of 2 (6 PTS),15 - 17,2,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,52,8,0,1,10:55 PM,4:39,SUB: Hawes FOR Griffin,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,53,8,0,1,10:55 PM,4:39,SUB: Barnes FOR Ingles,,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,54,8,0,1,10:55 PM,4:39,,,SUB: Nurkic FOR Mozgov,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,55,3,12,1,10:55 PM,4:39,,,Gallinari Free Throw 2 of 2 (7 PTS),16 - 17,1,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,57,1,7,1,10:56 PM,4:29,Jordan  Dunk (4 PTS) (Paul 4 AST),,,16 - 19,3,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,58,6,1,1,10:56 PM,4:19,Barnes P.FOUL (P1.PN),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,59,3,11,1,10:56 PM,4:19,,,Faried Free Throw 1 of 2 (4 PTS),17 - 19,2,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,61,8,0,1,10:56 PM,4:19,,,SUB: Chandler FOR Gallinari,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,62,3,12,1,10:56 PM,4:19,,,MISS Faried Free Throw 2 of 2,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,64,4,0,1,10:56 PM,4:19,Barnes REBOUND (Off:0 Def:1),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,66,5,2,1,10:57 PM,4:07,Hawes Lost Ball Turnover (P1.T3),,Faried STEAL (1 STL),,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,67,5,2,1,10:57 PM,3:58,Paul STEAL (1 STL),,Faried Lost Ball Turnover (P1.T3),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,68,5,2,1,10:57 PM,3:49,Paul Lost Ball Turnover (P1.T4),,Chandler STEAL (1 STL),,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,69,6,1,1,10:57 PM,3:42,Jordan P.FOUL (P2.PN),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,70,3,11,1,10:57 PM,3:42,,,Lawson Free Throw 1 of 2 (1 PTS),18 - 19,1,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,72,8,0,1,10:58 PM,3:42,,,SUB: Hickson FOR Faried,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,73,8,0,1,10:58 PM,3:42,SUB: Udoh FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,74,3,12,1,10:58 PM,3:42,,,Lawson Free Throw 2 of 2 (2 PTS),19 - 19,TIE,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,76,5,40,1,10:58 PM,3:34,Crawford Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,77,1,1,1,10:58 PM,3:26,,,Afflalo 21' Jump Shot (4 PTS) (Lawson 2 AST),21 - 19,-2,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,79,6,2,1,10:59 PM,3:12,,,Lawson S.FOUL (P1.T4),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,80,3,11,1,10:59 PM,3:12,Paul Free Throw 1 of 2 (3 PTS),,,21 - 20,-1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,82,8,0,1,10:59 PM,3:12,,,SUB: Foye FOR Afflalo,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,83,3,12,1,10:59 PM,3:12,Paul Free Throw 2 of 2 (4 PTS),,,21 - 21,TIE,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,85,2,5,1,11:00 PM,3:01,,,MISS Hickson 2' Layup,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,86,4,0,1,11:00 PM,3:00,Udoh REBOUND (Off:0 Def:1),,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,87,2,5,1,11:00 PM,2:49,MISS Paul 2' Layup,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,88,4,0,1,11:00 PM,2:46,,,Foye REBOUND (Off:0 Def:1),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,89,5,1,1,11:00 PM,2:40,,,Foye Bad Pass Turnover (P1.T4),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,90,9,1,1,11:00 PM,2:40,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,92,8,0,1,11:02 PM,2:40,SUB: Farmar FOR Crawford,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,200770,Jordan Farmar,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,93,8,0,1,11:02 PM,2:40,SUB: Bullock FOR Paul,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,95,5,2,1,11:03 PM,2:23,Barnes Lost Ball Turnover (P1.T6),,Nurkic STEAL (1 STL),,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,96,2,5,1,11:03 PM,2:18,,,MISS Nurkic 3' Layup,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,97,4,0,1,11:03 PM,2:16,Udoh REBOUND (Off:0 Def:2),,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,98,2,5,1,11:03 PM,2:12,MISS Barnes 2' Layup,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,99,4,0,1,11:03 PM,2:11,Hawes REBOUND (Off:1 Def:0),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,100,6,1,1,11:03 PM,2:11,,,Hickson P.FOUL (P1.PN),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,101,3,11,1,11:03 PM,2:11,Hawes Free Throw 1 of 2 (1 PTS),,,21 - 22,1,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,103,8,0,1,11:03 PM,2:11,,,SUB: Robinson FOR Lawson,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,104,3,12,1,11:03 PM,2:11,MISS Hawes Free Throw 2 of 2,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,106,4,0,1,11:04 PM,2:11,,,Nurkic REBOUND (Off:0 Def:1),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,107,2,1,1,11:04 PM,2:11,,,MISS Nurkic 21' Jump Shot,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,108,4,0,1,11:04 PM,2:10,Bullock REBOUND (Off:0 Def:1),,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,109,2,3,1,11:04 PM,2:01,MISS Hawes 4' Hook Shot,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,270,4,0,1,11:04 PM,1:55,Udoh REBOUND (Off:1 Def:2),,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,110,2,4,1,11:04 PM,1:55,MISS Udoh  Tip Shot,,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,111,4,0,1,11:04 PM,1:51,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,112,6,2,1,11:05 PM,1:33,,,Nurkic S.FOUL (P1.PN),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,114,3,11,1,11:05 PM,1:33,MISS Udoh Free Throw 1 of 2,,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,115,4,1,1,11:05 PM,1:33,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,116,3,12,1,11:05 PM,1:33,Udoh Free Throw 2 of 2 (1 PTS),,,21 - 23,2,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,118,1,1,1,11:05 PM,1:22,,,Robinson 25' 3PT Jump Shot (3 PTS) (Hickson 1 AST),24 - 23,-1,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,119,2,5,1,11:06 PM,1:04,MISS Udoh 3' Layup,,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,272,4,0,1,11:06 PM,1:02,Bullock REBOUND (Off:1 Def:1),,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,120,1,4,1,11:06 PM,1:02,Bullock 1' Tip Shot (2 PTS),,,24 - 25,1,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,121,2,5,1,11:06 PM,0:51,,,MISS Hickson 2' Layup,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,122,4,0,1,11:06 PM,0:51,Udoh REBOUND (Off:1 Def:3),,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,123,2,1,1,11:06 PM,0:42,MISS Farmar 25' 3PT Jump Shot,,,,,4,200770,Jordan Farmar,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,124,4,0,1,11:06 PM,0:41,,,Hickson REBOUND (Off:0 Def:1),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,125,2,1,1,11:06 PM,0:32,,,MISS Robinson 21' Jump Shot,,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,126,4,0,1,11:06 PM,0:29,,,Nurkic REBOUND (Off:1 Def:1),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,127,1,80,1,11:07 PM,0:04,,,Chandler 17' Step Back Jump Shot (2 PTS) (Robinson 1 AST),26 - 25,-1,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,128,2,1,1,11:07 PM,0:00,MISS Bullock 39' 3PT Jump Shot,,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,129,4,0,1,11:07 PM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,130,13,0,1,11:07 PM,0:00,,End of 1st Period (11:07 PM EST),,26 - 25,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,133,12,0,2,11:10 PM,12:00,,Start of 2nd Period (11:10 PM EST),,26 - 25,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,134,2,1,2,11:10 PM,12:00,,,MISS Chandler 13' Jump Shot,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,135,4,0,2,11:10 PM,11:58,,,Nurkic REBOUND (Off:2 Def:1),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,136,6,2,2,11:10 PM,11:31,Hawes S.FOUL (P1.T1),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,137,3,11,2,11:11 PM,11:31,,,MISS Hickson Free Throw 1 of 2,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,138,4,1,2,11:11 PM,11:31,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,139,3,12,2,11:11 PM,11:31,,,Hickson Free Throw 2 of 2 (1 PTS),27 - 25,-2,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,142,6,1,2,11:11 PM,11:28,,,Robinson P.FOUL (P1.T1),,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,4,200770,Jordan Farmar,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,143,8,0,2,11:11 PM,11:28,SUB: Griffin FOR Udoh,,,,,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,145,2,1,2,11:12 PM,11:13,MISS Barnes 5' Jump Shot,,Nurkic BLOCK (1 BLK),,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0
+0011400079,146,4,0,2,11:12 PM,11:11,Barnes REBOUND (Off:1 Def:1),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,147,2,3,2,11:12 PM,11:09,MISS Barnes 3' Hook Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,148,4,0,2,11:12 PM,11:06,,,Nurkic REBOUND (Off:2 Def:2),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,149,2,5,2,11:12 PM,10:57,Hawes BLOCK (1 BLK),,MISS Hickson 3' Layup,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0
+0011400079,150,4,0,2,11:12 PM,10:54,Hawes REBOUND (Off:1 Def:1),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,151,2,1,2,11:12 PM,10:46,MISS Bullock 21' Jump Shot,,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,152,4,0,2,11:12 PM,10:45,,,Chandler REBOUND (Off:0 Def:1),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,154,1,1,2,11:12 PM,10:36,,,Chandler 25' 3PT Jump Shot (5 PTS),30 - 25,-5,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,155,6,1,2,11:12 PM,10:27,,,Chandler P.FOUL (P1.T2),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,200770,Jordan Farmar,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,157,2,1,2,11:13 PM,10:15,MISS Bullock 25' 3PT Jump Shot,,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,158,4,0,2,11:13 PM,10:14,,,Hickson REBOUND (Off:0 Def:2),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,159,1,44,2,11:13 PM,9:59,,,Hickson 2' Reverse Layup (3 PTS) (Chandler 1 AST),32 - 25,-7,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,160,5,1,2,11:13 PM,9:41,Bullock Bad Pass Turnover (P1.T7),,Nurkic STEAL (2 STL),,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,162,1,3,2,11:14 PM,9:35,,,Nurkic 3' Hook Shot (2 PTS) (Robinson 2 AST),34 - 25,-9,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,163,9,1,2,11:14 PM,9:24,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,166,8,0,2,11:16 PM,9:24,SUB: Crawford FOR Bullock,,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,168,2,5,2,11:16 PM,9:16,MISS Griffin 2' Layup,,Nurkic BLOCK (2 BLK),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0
+0011400079,170,4,0,2,11:16 PM,9:14,,,Hickson REBOUND (Off:0 Def:3),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,171,6,1,2,11:17 PM,9:11,Hawes P.FOUL (P2.T2),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,173,8,0,2,11:17 PM,9:11,SUB: Jordan FOR Hawes,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,174,1,42,2,11:17 PM,9:06,,,Hickson 1' Driving Layup (5 PTS) (Foye 1 AST),36 - 25,-11,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,175,1,1,2,11:17 PM,8:48,Crawford 19' Jump Shot (13 PTS) (Farmar 1 AST),,,36 - 27,-9,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,200770,Jordan Farmar,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,176,2,1,2,11:18 PM,8:29,,,MISS Hickson 20' Jump Shot,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,177,4,0,2,11:18 PM,8:28,Jordan REBOUND (Off:0 Def:2),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,178,2,1,2,11:18 PM,8:12,MISS Barnes  3PT Jump Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,179,4,0,2,11:18 PM,8:11,,,Nurkic REBOUND (Off:2 Def:3),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,181,1,43,2,11:18 PM,8:05,,,Chandler 2' Alley Oop Layup (7 PTS) (Foye 2 AST),38 - 27,-11,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,182,5,2,2,11:19 PM,7:43,Barnes Lost Ball Turnover (P2.T8),,Hickson STEAL (1 STL),,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,183,6,1,2,11:19 PM,7:28,Griffin P.FOUL (P3.T3),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,185,8,0,2,11:19 PM,7:28,,,SUB: Arthur FOR Nurkic,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,186,8,0,2,11:19 PM,7:28,,,SUB: Faried FOR Hickson,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,187,8,0,2,11:19 PM,7:28,,,SUB: Harris FOR Robinson,,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,188,8,0,2,11:19 PM,7:28,SUB: Ingles FOR Barnes,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,189,8,0,2,11:19 PM,7:28,SUB: Paul FOR Farmar,,,,,4,200770,Jordan Farmar,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,190,2,1,2,11:19 PM,7:21,,,MISS Foye 22' Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,191,4,0,2,11:19 PM,7:20,,,Arthur REBOUND (Off:1 Def:0),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,193,1,42,2,11:20 PM,7:14,,,Foye 3' Driving Layup (2 PTS),40 - 27,-13,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,194,6,1,2,11:20 PM,7:02,,,Harris P.FOUL (P1.T3),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,195,1,44,2,11:20 PM,7:02,Griffin 2' Reverse Layup (4 PTS) (Paul 5 AST),,,40 - 29,-11,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,196,2,1,2,11:20 PM,6:52,,,MISS Arthur 22' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,197,4,0,2,11:20 PM,6:51,Griffin REBOUND (Off:0 Def:2),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,198,6,1,2,11:21 PM,6:30,,,Faried P.FOUL (P2.T4),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,199,8,0,2,11:21 PM,6:30,,,SUB: Gallinari FOR Chandler,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,200,1,1,2,11:21 PM,6:23,Crawford  3PT Jump Shot (16 PTS) (Paul 6 AST),,,40 - 32,-8,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,201,1,1,2,11:22 PM,6:00,,,Foye 25' 3PT Jump Shot (5 PTS) (Gallinari 1 AST),43 - 32,-11,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,202,1,5,2,11:22 PM,5:49,Griffin 2' Layup (6 PTS),,,43 - 34,-9,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,204,5,1,2,11:22 PM,5:36,Griffin STEAL (1 STL),,Foye Bad Pass Turnover (P2.T5),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,205,6,28,2,11:22 PM,5:33,,,Foye Personal Take Foul (P1.PN),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,206,9,4,2,11:22 PM,5:33,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,211,3,11,2,11:25 PM,5:33,Ingles Free Throw 1 of 2 (1 PTS),,,43 - 35,-8,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,213,3,12,2,11:25 PM,5:33,Ingles Free Throw 2 of 2 (2 PTS),,,43 - 36,-7,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,215,2,3,2,11:25 PM,5:15,,,MISS Arthur 6' Hook Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,216,4,0,2,11:25 PM,5:13,Jordan REBOUND (Off:0 Def:3),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,217,6,1,2,11:25 PM,5:11,,,Arthur P.FOUL (P1.PN),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,218,3,11,2,11:26 PM,5:11,Griffin Free Throw 1 of 2 (7 PTS),,,43 - 37,-6,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,220,3,12,2,11:26 PM,5:11,Griffin Free Throw 2 of 2 (8 PTS),,,43 - 38,-5,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,222,1,42,2,11:26 PM,4:55,,,Foye 3' Driving Layup (7 PTS),45 - 38,-7,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,223,2,85,2,11:27 PM,4:36,MISS Griffin 15' Turnaround Bank Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,224,4,0,2,11:27 PM,4:30,Jordan REBOUND (Off:1 Def:3),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,225,2,1,2,11:27 PM,4:25,MISS Crawford 20' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,226,4,0,2,11:27 PM,4:24,,,Arthur REBOUND (Off:1 Def:1),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,227,6,4,2,11:27 PM,4:10,,,Gallinari OFF.Foul (P1),,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,228,5,5,2,11:27 PM,4:10,,,Gallinari Foul Turnover (P1.T6),,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400079,229,1,7,2,11:28 PM,4:10,Griffin  Dunk (10 PTS) (Ingles 1 AST),,,45 - 40,-5,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,230,2,3,2,11:28 PM,3:46,,,MISS Faried 8' Hook Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,231,4,0,2,11:28 PM,3:44,Ingles REBOUND (Off:1 Def:2),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,232,6,1,2,11:28 PM,3:32,,,Gallinari P.FOUL (P2.PN),,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,234,3,11,2,11:28 PM,3:32,MISS Ingles Free Throw 1 of 2,,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,235,4,1,2,11:29 PM,3:32,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,236,8,0,2,11:29 PM,3:32,,,SUB: Mozgov FOR Gallinari,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,237,3,12,2,11:29 PM,3:32,Ingles Free Throw 2 of 2 (3 PTS),,,45 - 41,-4,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,239,1,56,2,11:29 PM,3:06,,,Faried 6' Running Hook Shot (6 PTS),47 - 41,-6,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,240,1,42,2,11:30 PM,2:57,Paul 3' Driving Layup (6 PTS),,,47 - 43,-4,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,242,5,1,2,11:30 PM,2:40,,,Foye Bad Pass Turnover (P3.T7),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,243,9,1,2,11:30 PM,2:40,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,245,8,0,2,11:32 PM,2:40,,,SUB: Afflalo FOR Harris,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,247,8,0,2,11:32 PM,2:40,SUB: Hawes FOR Griffin,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,248,1,8,2,11:33 PM,2:20,Jordan  Slam Dunk (6 PTS) (Paul 7 AST),,,47 - 45,-2,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,249,2,1,2,11:33 PM,1:57,,,MISS Foye 27' 3PT Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,250,4,0,2,11:33 PM,1:56,Jordan REBOUND (Off:1 Def:4),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,251,5,1,2,11:33 PM,1:55,Jordan Bad Pass Turnover (P1.T9),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,252,1,5,2,11:33 PM,1:45,,,Faried 2' Layup (8 PTS) (Foye 3 AST),49 - 45,-4,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,253,6,1,2,11:34 PM,1:27,,,Foye P.FOUL (P2.PN),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,254,3,11,2,11:34 PM,1:27,Paul Free Throw 1 of 2 (7 PTS),,,49 - 46,-3,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,256,3,12,2,11:34 PM,1:27,MISS Paul Free Throw 2 of 2,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,258,4,0,2,11:34 PM,1:27,,,Faried REBOUND (Off:1 Def:2),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,259,2,1,2,11:35 PM,1:13,,,MISS Arthur 19' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,260,4,0,2,11:35 PM,1:12,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,261,1,63,2,11:35 PM,1:03,Paul 12' Fadeaway Jumper (9 PTS),,,49 - 48,-1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,262,1,86,2,11:35 PM,0:39,,,Afflalo 12' Turnaround Fadeaway (6 PTS) (Faried 1 AST),51 - 48,-3,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,263,1,1,2,11:36 PM,0:32,Hawes  3PT Jump Shot (4 PTS) (Crawford 1 AST),,,51 - 51,TIE,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,264,2,1,2,11:36 PM,0:10,,,MISS Afflalo 24' 3PT Jump Shot,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,265,4,0,2,11:36 PM,0:10,Hawes REBOUND (Off:1 Def:2),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,266,2,1,2,11:36 PM,0:02,MISS Paul 25' 3PT Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,267,4,0,2,11:36 PM,0:00,,,Foye REBOUND (Off:0 Def:2),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,268,13,0,2,11:36 PM,0:00,,End of 2nd Period (11:36 PM EST),,51 - 51,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,277,12,0,3,11:53 PM,12:00,,Start of 3rd Period (11:53 PM EST),,51 - 51,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,278,2,1,3,11:53 PM,11:41,,,MISS Gallinari 25' 3PT Jump Shot,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,279,4,0,3,11:53 PM,11:40,Paul REBOUND (Off:0 Def:2),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,280,2,1,3,11:53 PM,11:33,MISS Crawford 25' 3PT Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,281,4,0,3,11:53 PM,11:31,Paul REBOUND (Off:1 Def:2),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,282,2,1,3,11:53 PM,11:29,MISS Paul 17' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,283,4,0,3,11:53 PM,11:27,,,Mozgov REBOUND (Off:2 Def:2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,284,1,1,3,11:53 PM,11:21,,,Gallinari 18' Jump Shot (9 PTS),53 - 51,-2,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,285,2,1,3,11:54 PM,11:00,MISS Crawford  3PT Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,286,4,0,3,11:54 PM,10:59,,,Foye REBOUND (Off:0 Def:3),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,287,1,1,3,11:54 PM,10:52,,,Afflalo 26' 3PT Jump Shot (9 PTS) (Foye 4 AST),56 - 51,-5,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,288,2,1,3,11:54 PM,10:26,MISS Ingles  3PT Jump Shot,,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,289,4,0,3,11:54 PM,10:24,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,290,6,3,3,11:54 PM,10:24,,,Mozgov L.B.FOUL (P3.T1),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,291,1,79,3,11:55 PM,10:11,Paul 14' Pullup Jump Shot (11 PTS),,,56 - 53,-3,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,292,6,1,3,11:55 PM,10:01,Ingles P.FOUL (P2.T1),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,293,1,42,3,11:55 PM,9:52,,,Mozgov 1' Driving Layup (6 PTS),58 - 53,-5,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,294,6,2,3,11:55 PM,9:52,Griffin S.FOUL (P4.T2),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,295,3,10,3,11:56 PM,9:52,,,Mozgov Free Throw 1 of 1 (7 PTS),59 - 53,-6,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,296,6,2,3,11:56 PM,9:40,,,Mozgov S.FOUL (P4.T2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,297,3,11,3,11:56 PM,9:40,Griffin Free Throw 1 of 2 (11 PTS),,,59 - 54,-5,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,299,3,12,3,11:57 PM,9:40,Griffin Free Throw 2 of 2 (12 PTS),,,59 - 55,-4,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,301,1,47,3,11:57 PM,9:28,,,Gallinari 7' Turnaround Jump Shot (11 PTS) (Foye 5 AST),61 - 55,-6,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,302,6,2,3,11:57 PM,9:28,Ingles S.FOUL (P3.T3),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,303,3,10,3,11:57 PM,9:28,,,Gallinari Free Throw 1 of 1 (12 PTS),62 - 55,-7,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,306,1,58,3,11:58 PM,9:08,Griffin 6' Turnaround Hook Shot (14 PTS),,,62 - 57,-5,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,307,2,80,3,11:58 PM,8:54,,,MISS Gallinari 22' Step Back Jump Shot,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,308,4,0,3,11:58 PM,8:50,,,Faried REBOUND (Off:2 Def:2),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,309,1,44,3,11:58 PM,8:48,,,Faried 1' Reverse Layup (10 PTS),64 - 57,-7,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,310,1,1,3,11:59 PM,8:36,Griffin 22' Jump Shot (16 PTS) (Paul 8 AST),,,64 - 59,-5,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,311,2,1,3,11:59 PM,8:10,,,MISS Faried 8' Jump Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,312,4,0,3,11:59 PM,8:09,,,Gallinari REBOUND (Off:1 Def:0),,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,313,6,3,3,11:59 PM,8:09,Ingles L.B.FOUL (P4.T4),,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,314,8,0,3,11:59 PM,8:09,,,SUB: Chandler FOR Gallinari,,,5,201568,Danilo Gallinari,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,315,8,0,3,11:59 PM,8:09,SUB: Barnes FOR Ingles,,,,,4,204060,Joe Ingles,1610612746.0,Los Angeles,Clippers,LAC,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,316,7,5,3,12:00 AM,8:06,Jordan Violation:Kicked Ball,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011400079,317,5,2,3,12:00 AM,8:01,Paul STEAL (2 STL),,Foye Lost Ball Turnover (P4.T8),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,318,1,52,3,12:00 AM,7:56,Griffin  Alley Oop Dunk (18 PTS) (Barnes 1 AST),,,64 - 61,-3,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,319,6,1,3,12:00 AM,7:39,Griffin P.FOUL (P5.PN),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,320,3,11,3,12:01 AM,7:39,,,MISS Faried Free Throw 1 of 2,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,321,4,1,3,12:01 AM,7:39,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,322,8,0,3,12:01 AM,7:39,SUB: Hawes FOR Griffin,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,323,3,12,3,12:01 AM,7:39,,,Faried Free Throw 2 of 2 (11 PTS),65 - 61,-4,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,326,2,1,3,12:01 AM,7:28,MISS Barnes  3PT Jump Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,327,4,0,3,12:01 AM,7:27,,,Faried REBOUND (Off:2 Def:3),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,328,2,5,3,12:01 AM,7:22,,,MISS Faried 2' Layup,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,329,4,0,3,12:01 AM,7:20,Jordan REBOUND (Off:1 Def:5),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,330,5,8,3,12:02 AM,7:01,Jordan 3 Second Violation Turnover (P2.T10),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011400079,332,6,1,3,12:02 AM,6:52,Crawford P.FOUL (P2.PN),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,333,3,11,3,12:02 AM,6:52,,,MISS Afflalo Free Throw 1 of 2,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,334,4,1,3,12:02 AM,6:52,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,335,3,12,3,12:03 AM,6:52,,,Afflalo Free Throw 2 of 2 (10 PTS),66 - 61,-5,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,337,2,1,3,12:03 AM,6:38,MISS Paul 12' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,338,4,0,3,12:03 AM,6:37,,,Chandler REBOUND (Off:0 Def:2),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,339,2,1,3,12:03 AM,6:27,,,MISS Mozgov 13' Jump Shot,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,340,4,0,3,12:04 AM,6:26,,,Faried REBOUND (Off:3 Def:3),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,341,1,5,3,12:04 AM,6:23,,,Faried 2' Layup (13 PTS),68 - 61,-7,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,342,6,2,3,12:04 AM,6:23,Paul S.FOUL (P1.PN),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,343,3,10,3,12:04 AM,6:23,,,Faried Free Throw 1 of 1 (14 PTS),69 - 61,-8,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,345,9,1,3,12:04 AM,6:23,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,349,2,1,3,12:07 AM,6:12,MISS Crawford 21' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,350,4,0,3,12:07 AM,6:11,Jordan REBOUND (Off:2 Def:5),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,351,2,1,3,12:07 AM,6:05,MISS Hawes 25' 3PT Jump Shot,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,352,4,0,3,12:07 AM,6:04,,,Afflalo REBOUND (Off:0 Def:2),,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,353,6,1,3,12:07 AM,5:51,Hawes P.FOUL (P3.PN),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,354,3,11,3,12:07 AM,5:51,,,MISS Faried Free Throw 1 of 2,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,355,4,1,3,12:07 AM,5:51,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,356,3,12,3,12:08 AM,5:51,,,Faried Free Throw 2 of 2 (15 PTS),70 - 61,-9,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,358,2,1,3,12:08 AM,5:39,MISS Crawford 10' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,359,4,0,3,12:08 AM,5:39,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,360,6,3,3,12:08 AM,5:39,,,Chandler L.B.FOUL (P2.T3),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,361,5,4,3,12:09 AM,5:22,Barnes Traveling Turnover (P3.T11),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011400079,362,7,1,3,12:09 AM,5:22,CLIPPERS Violation: Delay of game Violation,,,,,2,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400079,364,2,1,3,12:09 AM,5:02,,,MISS Mozgov 23' Jump Shot,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,365,4,0,3,12:09 AM,5:01,Jordan REBOUND (Off:2 Def:6),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,366,5,1,3,12:09 AM,4:53,Crawford Bad Pass Turnover (P3.T12),,Foye STEAL (1 STL),,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,367,1,75,3,12:10 AM,4:50,,,Foye 2' Driving Finger Roll Layup (9 PTS),72 - 61,-11,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,368,1,52,3,12:10 AM,4:43,Jordan  Alley Oop Dunk (8 PTS) (Crawford 2 AST),,,72 - 63,-9,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,369,5,2,3,12:10 AM,4:27,Hawes STEAL (1 STL),,Mozgov Lost Ball Turnover (P2.T9),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,370,2,1,3,12:10 AM,4:13,MISS Barnes  3PT Jump Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,371,4,0,3,12:10 AM,4:12,Hawes REBOUND (Off:2 Def:2),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,372,6,1,3,12:10 AM,4:05,,,Afflalo P.FOUL (P2.T4),,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,374,2,1,3,12:11 AM,4:05,MISS Paul 19' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,375,4,0,3,12:11 AM,4:04,,,Foye REBOUND (Off:0 Def:4),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,376,2,1,3,12:11 AM,3:50,,,MISS Foye 26' 3PT Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,377,4,0,3,12:11 AM,3:48,Jordan REBOUND (Off:2 Def:7),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,378,5,1,3,12:11 AM,3:37,Paul Bad Pass Turnover (P2.T13),,Mozgov STEAL (1 STL),,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,379,6,2,3,12:11 AM,3:31,Crawford S.FOUL (P3.PN),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,380,3,11,3,12:11 AM,3:31,,,Afflalo Free Throw 1 of 2 (11 PTS),73 - 63,-10,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,382,8,0,3,12:12 AM,3:31,,,SUB: Arthur FOR Faried,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,383,3,12,3,12:12 AM,3:31,,,Afflalo Free Throw 2 of 2 (12 PTS),74 - 63,-11,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,385,5,40,3,12:12 AM,3:11,Hawes Out of Bounds Lost Ball Turnover (P2.T14),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,386,8,0,3,12:13 AM,3:11,SUB: Turkoglu FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,2045,Hedo Turkoglu,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,387,1,78,3,12:13 AM,3:01,,,Foye 7' Floating Jump Shot (11 PTS),76 - 63,-13,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,388,6,1,3,12:13 AM,2:43,,,Afflalo P.FOUL (P3.PN),,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,389,9,1,3,12:13 AM,2:43,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,391,8,0,3,12:16 AM,2:43,,,SUB: Hickson FOR Mozgov,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,393,3,11,3,12:16 AM,2:43,Crawford Free Throw 1 of 2 (17 PTS),,,76 - 64,-12,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,395,3,12,3,12:16 AM,2:43,Crawford Free Throw 2 of 2 (18 PTS),,,76 - 65,-11,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,397,1,58,3,12:17 AM,2:24,,,Hickson 8' Turnaround Hook Shot (7 PTS),78 - 65,-13,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,398,2,1,3,12:17 AM,1:59,MISS Paul  3PT Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,399,4,0,3,12:17 AM,1:58,,,Arthur REBOUND (Off:1 Def:2),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,400,2,80,3,12:17 AM,1:43,,,MISS Hickson 19' Step Back Jump Shot,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,401,4,0,3,12:17 AM,1:41,Barnes REBOUND (Off:1 Def:2),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,402,2,3,3,12:17 AM,1:34,MISS Hawes 7' Hook Shot,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,403,4,0,3,12:17 AM,1:32,,,Hickson REBOUND (Off:0 Def:4),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,404,2,1,3,12:18 AM,1:26,,,MISS Foye 25' 3PT Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,405,4,0,3,12:18 AM,1:24,Hawes REBOUND (Off:2 Def:3),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,406,6,1,3,12:18 AM,1:19,,,Hickson P.FOUL (P2.PN),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,407,3,11,3,12:18 AM,1:19,Crawford Free Throw 1 of 2 (19 PTS),,,78 - 66,-12,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,409,8,0,3,12:18 AM,1:19,,,SUB: Robinson FOR Foye,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,410,8,0,3,12:18 AM,1:19,,,SUB: Harris FOR Afflalo,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,411,8,0,3,12:18 AM,1:19,SUB: Cunningham FOR Paul,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,412,3,12,3,12:18 AM,1:19,Crawford Free Throw 2 of 2 (20 PTS),,,78 - 67,-11,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,414,2,80,3,12:19 AM,1:19,,,MISS Arthur 17' Step Back Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,415,4,0,3,12:19 AM,1:17,Barnes REBOUND (Off:1 Def:3),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,416,6,1,3,12:19 AM,0:50,,,Arthur P.FOUL (P2.PN),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,417,3,11,3,12:19 AM,0:50,Cunningham Free Throw 1 of 2 (1 PTS),,,78 - 68,-10,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,419,3,12,3,12:19 AM,0:50,Cunningham Free Throw 2 of 2 (2 PTS),,,78 - 69,-9,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,421,1,1,3,12:20 AM,0:36,,,Chandler 20' Jump Shot (9 PTS),80 - 69,-11,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,422,6,1,3,12:20 AM,0:17,,,Harris P.FOUL (P2.PN),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,423,3,11,3,12:20 AM,0:17,Hawes Free Throw 1 of 2 (5 PTS),,,80 - 70,-10,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,425,8,0,3,12:21 AM,0:17,SUB: Wilcox FOR Crawford,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,203912,C.J. Wilcox,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,426,3,12,3,12:21 AM,0:17,Hawes Free Throw 2 of 2 (6 PTS),,,80 - 71,-9,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,428,6,2,3,12:21 AM,0:02,Hawes S.FOUL (P4.PN),,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,430,3,11,3,12:22 AM,0:02,,,Hickson Free Throw 1 of 2 (8 PTS),81 - 71,-10,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,432,8,0,3,12:22 AM,0:02,SUB: Crawford FOR Hawes,,,,,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,433,3,12,3,12:22 AM,0:02,,,MISS Hickson Free Throw 2 of 2,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,435,4,0,3,12:22 AM,0:02,,,Arthur REBOUND (Off:2 Def:2),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,436,2,1,3,12:22 AM,0:02,,,MISS Hickson 10' Jump Shot,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,437,4,0,3,12:22 AM,0:00,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,438,13,0,3,12:22 AM,0:00,,End of 3rd Period (12:22 AM EST),,81 - 71,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,440,12,0,4,12:25 AM,12:00,,Start of 4th Period (12:25 AM EST),,81 - 71,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,441,6,2,4,12:25 AM,11:39,,,Hickson S.FOUL (P3.T1),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,442,3,11,4,12:25 AM,11:39,MISS Griffin Free Throw 1 of 2,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,443,4,1,4,12:25 AM,11:39,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,444,3,12,4,12:25 AM,11:39,MISS Griffin Free Throw 2 of 2,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,446,4,0,4,12:26 AM,11:39,,,Arthur REBOUND (Off:2 Def:3),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,447,2,1,4,12:26 AM,11:22,,,MISS Robinson 25' 3PT Jump Shot,,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,448,4,0,4,12:26 AM,11:21,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,449,6,3,4,12:26 AM,11:21,,,Hickson L.B.FOUL (P4.T2),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,450,6,1,4,12:27 AM,11:03,,,Gee P.FOUL (P1.T3),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,451,2,1,4,12:27 AM,10:51,MISS Barnes 26' 3PT Jump Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,452,4,0,4,12:27 AM,10:50,,,Hickson REBOUND (Off:0 Def:5),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,453,1,1,4,12:27 AM,10:41,,,Arthur 15' Jump Shot (2 PTS) (Robinson 3 AST),83 - 71,-12,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,454,1,1,4,12:28 AM,10:20,Cunningham  3PT Jump Shot (5 PTS) (Barnes 2 AST),,,83 - 74,-9,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,455,2,5,4,12:28 AM,10:05,,,MISS Hickson 2' Layup,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,456,4,0,4,12:28 AM,10:04,,,Hickson REBOUND (Off:1 Def:5),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,457,1,5,4,12:28 AM,10:02,,,Hickson 2' Layup (10 PTS),85 - 74,-11,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,458,6,1,4,12:28 AM,9:47,,,Hickson P.FOUL (P5.T4),,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,459,2,1,4,12:29 AM,9:33,MISS Griffin 5' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,460,4,0,4,12:29 AM,9:32,Griffin REBOUND (Off:1 Def:2),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,462,7,2,4,12:29 AM,9:29,,,Hickson Violation:Defensive Goaltending,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400079,461,1,3,4,12:29 AM,9:29,Griffin 4' Hook Shot (20 PTS),,,85 - 76,-9,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,463,2,1,4,12:29 AM,9:19,,,MISS Arthur 15' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,464,4,0,4,12:29 AM,9:18,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,465,6,1,4,12:29 AM,9:16,,,Robinson P.FOUL (P2.PN),,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,466,3,11,4,12:30 AM,9:16,Cunningham Free Throw 1 of 2 (6 PTS),,,85 - 77,-8,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,468,3,12,4,12:30 AM,9:16,Cunningham Free Throw 2 of 2 (7 PTS),,,85 - 78,-7,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,470,5,1,4,12:30 AM,9:04,,,Robinson Bad Pass Turnover (P1.T10),,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,471,5,1,4,12:31 AM,8:54,Turkoglu Bad Pass Turnover (P1.T15),,Hickson STEAL (2 STL),,,4,2045,Hedo Turkoglu,1610612746.0,Los Angeles,Clippers,LAC,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,472,2,1,4,12:31 AM,8:48,,,MISS Harris 24' 3PT Jump Shot,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,473,4,0,4,12:31 AM,8:46,Griffin REBOUND (Off:1 Def:3),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,474,5,2,4,12:31 AM,8:44,Griffin Lost Ball Turnover (P1.T16),,Robinson STEAL (1 STL),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,475,6,2,4,12:31 AM,8:39,Cunningham S.FOUL (P1.T1),,,,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,476,9,4,4,12:31 AM,8:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,478,8,0,4,12:33 AM,8:39,,,SUB: Nurkic FOR Hickson,,,5,201581,JJ Hickson,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,480,3,11,4,12:33 AM,8:39,,,Robinson Free Throw 1 of 2 (4 PTS),86 - 78,-8,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,482,3,12,4,12:34 AM,8:39,,,Robinson Free Throw 2 of 2 (5 PTS),87 - 78,-9,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,484,6,1,4,12:34 AM,8:29,,,Nurkic P.FOUL (P2.PN),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,485,3,11,4,12:34 AM,8:29,Griffin Free Throw 1 of 2 (21 PTS),,,87 - 79,-8,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,486,8,0,4,12:35 AM,8:29,SUB: Jordan FOR Turkoglu,,,,,4,2045,Hedo Turkoglu,1610612746.0,Los Angeles,Clippers,LAC,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,487,3,12,4,12:35 AM,8:29,Griffin Free Throw 2 of 2 (22 PTS),,,87 - 80,-7,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,489,2,80,4,12:35 AM,8:16,,,MISS Harris 17' Step Back Jump Shot,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,490,4,0,4,12:35 AM,8:14,,,Robinson REBOUND (Off:1 Def:0),,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,491,2,1,4,12:35 AM,8:10,,,MISS Robinson 26' 3PT Jump Shot,,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,492,4,0,4,12:35 AM,8:08,Barnes REBOUND (Off:1 Def:4),,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,493,5,1,4,12:35 AM,8:03,Griffin Bad Pass Turnover (P2.T17),,Robinson STEAL (2 STL),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,494,5,40,4,12:36 AM,7:55,,,Gee Out of Bounds Lost Ball Turnover (P1.T11),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,495,8,0,4,12:36 AM,7:55,,,SUB: Foye FOR Robinson,,,5,101126,Nate Robinson,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,496,2,1,4,12:36 AM,7:32,MISS Griffin 9' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,497,4,0,4,12:36 AM,7:31,,,Nurkic REBOUND (Off:2 Def:4),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,498,2,1,4,12:36 AM,7:25,,,MISS Harris  3PT Jump Shot,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,499,4,0,4,12:36 AM,7:23,Cunningham REBOUND (Off:0 Def:1),,,,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,500,6,11,4,12:37 AM,7:23,Jordan T.FOUL (P2.T1),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011400079,501,3,16,4,12:37 AM,7:23,,,Foye Free Throw Technical (12 PTS),88 - 80,-8,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,504,2,1,4,12:37 AM,7:10,MISS Wilcox 25' 3PT Jump Shot,,,,,4,203912,C.J. Wilcox,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,505,4,0,4,12:37 AM,7:09,Jordan REBOUND (Off:3 Def:7),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,506,2,1,4,12:38 AM,7:07,MISS Barnes 25' 3PT Jump Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,507,4,0,4,12:38 AM,7:06,Griffin REBOUND (Off:2 Def:3),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,508,2,5,4,12:38 AM,6:59,MISS Cunningham 2' Layup,,Gee BLOCK (1 BLK),,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0
+0011400079,509,4,0,4,12:38 AM,6:58,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,510,8,0,4,12:38 AM,6:56,SUB: Crawford FOR Wilcox,,,,,4,203912,C.J. Wilcox,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,511,8,0,4,12:38 AM,6:56,SUB: Paul FOR Cunningham,,,,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,512,8,0,4,12:38 AM,6:56,,,SUB: Faried FOR Arthur,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,513,8,0,4,12:38 AM,6:56,,,SUB: Afflalo FOR Harris,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,514,2,1,4,12:39 AM,6:44,MISS Griffin 18' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,515,4,0,4,12:39 AM,6:43,,,Nurkic REBOUND (Off:2 Def:5),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,516,6,1,4,12:39 AM,6:43,Paul P.FOUL (P2.T2),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,517,6,2,4,12:39 AM,6:33,Jordan S.FOUL (P3.T3),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400079,518,3,11,4,12:39 AM,6:33,,,Nurkic Free Throw 1 of 2 (3 PTS),89 - 80,-9,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,520,3,12,4,12:40 AM,6:33,,,Nurkic Free Throw 2 of 2 (4 PTS),90 - 80,-10,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,522,2,1,4,12:40 AM,6:11,MISS Crawford 25' 3PT Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,523,4,0,4,12:40 AM,6:10,,,Nurkic REBOUND (Off:2 Def:6),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,524,1,5,4,12:40 AM,5:54,,,Faried 3' Layup (17 PTS) (Nurkic 1 AST),92 - 80,-12,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,525,9,1,4,12:41 AM,5:48,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,529,1,52,4,12:43 AM,5:40,Griffin  Alley Oop Dunk (24 PTS) (Paul 9 AST),,,92 - 82,-10,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,530,5,1,4,12:43 AM,5:27,Crawford STEAL (2 STL),,Foye Bad Pass Turnover (P5.T12),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,531,1,42,4,12:43 AM,5:23,Paul 2' Driving Layup (13 PTS) (Crawford 3 AST),,,92 - 84,-8,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,532,1,79,4,12:44 AM,5:07,,,Foye 22' Pullup Jump Shot (14 PTS),94 - 84,-10,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,533,6,1,4,12:44 AM,4:51,,,Gee P.FOUL (P2.PN),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,534,3,11,4,12:44 AM,4:51,Griffin Free Throw 1 of 2 (25 PTS),,,94 - 85,-9,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,536,3,12,4,12:44 AM,4:51,Griffin Free Throw 2 of 2 (26 PTS),,,94 - 86,-8,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,538,2,3,4,12:45 AM,4:33,,,MISS Faried 5' Hook Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,539,4,0,4,12:45 AM,4:31,Jordan REBOUND (Off:3 Def:8),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,540,6,2,4,12:45 AM,4:20,,,Gee S.FOUL (P3.PN),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,541,3,11,4,12:45 AM,4:20,MISS Griffin Free Throw 1 of 2,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,542,4,1,4,12:45 AM,4:20,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,543,3,12,4,12:46 AM,4:20,Griffin Free Throw 2 of 2 (27 PTS),,,94 - 87,-7,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,545,2,78,4,12:47 AM,4:05,,,MISS Faried 6' Floating Jump Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,546,4,0,4,12:47 AM,4:03,Jordan REBOUND (Off:3 Def:9),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,547,2,1,4,12:47 AM,3:55,MISS Barnes  3PT Jump Shot,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,548,4,0,4,12:47 AM,3:54,,,Nurkic REBOUND (Off:2 Def:7),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,549,1,79,4,12:47 AM,3:50,,,Afflalo 17' Pullup Jump Shot (14 PTS) (Faried 2 AST),96 - 87,-9,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,550,2,1,4,12:47 AM,3:29,MISS Griffin  3PT Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,551,4,0,4,12:47 AM,3:27,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,552,1,1,4,12:48 AM,3:12,,,Gee 13' Jump Shot (2 PTS),98 - 87,-11,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,553,9,1,4,12:48 AM,3:10,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,557,6,2,4,12:50 AM,2:57,,,Nurkic S.FOUL (P3.PN),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,558,3,13,4,12:51 AM,2:57,Crawford Free Throw 1 of 3 (21 PTS),,,98 - 88,-10,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,560,3,14,4,12:51 AM,2:57,Crawford Free Throw 2 of 3 (22 PTS),,,98 - 89,-9,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,562,3,15,4,12:51 AM,2:57,Crawford Free Throw 3 of 3 (23 PTS),,,98 - 90,-8,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,564,1,80,4,12:52 AM,2:35,,,Afflalo 18' Step Back Jump Shot (16 PTS),100 - 90,-10,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,565,5,2,4,12:52 AM,2:20,Griffin Lost Ball Turnover (P3.T18),,Faried STEAL (2 STL),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,566,1,8,4,12:52 AM,2:15,,,Gee  Slam Dunk (4 PTS) (Faried 3 AST),102 - 90,-12,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,567,2,80,4,12:52 AM,1:58,MISS Paul 20' Step Back Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,568,4,0,4,12:52 AM,1:56,,,Faried REBOUND (Off:3 Def:4),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,569,1,8,4,12:53 AM,1:38,,,Faried  Slam Dunk (19 PTS) (Nurkic 2 AST),104 - 90,-14,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,570,6,2,4,12:53 AM,1:24,,,Gee S.FOUL (P4.PN),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,571,3,11,4,12:53 AM,1:24,MISS Jordan Free Throw 1 of 2,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,572,4,1,4,12:53 AM,1:24,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,573,8,0,4,12:54 AM,1:24,SUB: Wilcox FOR Griffin,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,203912,C.J. Wilcox,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,574,8,0,4,12:54 AM,1:24,SUB: Udoh FOR Crawford,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,202327,Ekpe Udoh,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,575,8,0,4,12:54 AM,1:24,SUB: Bullock FOR Paul,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,576,8,0,4,12:54 AM,1:24,SUB: Cunningham FOR Barnes,,,,,4,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,577,8,0,4,12:54 AM,1:24,,,SUB: Green FOR Faried,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,578,8,0,4,12:54 AM,1:24,,,SUB: Williams FOR Afflalo,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,201173,Marcus Williams,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,579,8,0,4,12:54 AM,1:24,,,SUB: Benimon FOR Foye,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,580,3,12,4,12:54 AM,1:24,MISS Jordan Free Throw 2 of 2,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,582,4,0,4,12:54 AM,1:24,,,Gee REBOUND (Off:0 Def:1),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,583,2,1,4,12:54 AM,1:08,,,MISS Nurkic 20' Jump Shot,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,584,4,0,4,12:54 AM,1:07,Cunningham REBOUND (Off:0 Def:2),,,,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,585,6,2,4,12:55 AM,1:01,,,Benimon S.FOUL (P1.PN),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,586,3,11,4,12:55 AM,1:01,Cunningham Free Throw 1 of 2 (8 PTS),,,104 - 91,-13,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,588,8,0,4,12:55 AM,1:01,SUB: Hawes FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201150,Spencer Hawes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011400079,589,8,0,4,12:55 AM,1:01,,,SUB: Harris FOR Gee,,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,590,3,12,4,12:55 AM,1:01,Cunningham Free Throw 2 of 2 (9 PTS),,,104 - 92,-12,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,593,5,41,4,12:55 AM,0:47,,,Benimon Poss Lost Ball Turnover (P1.T13),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,594,5,2,4,12:56 AM,0:43,Cunningham Lost Ball Turnover (P1.T19),,Williams STEAL (1 STL),,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,5,201173,Marcus Williams,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400079,595,2,1,4,12:56 AM,0:19,,,MISS Harris  3PT Jump Shot,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400079,596,4,0,4,12:56 AM,0:18,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,597,6,2,4,12:56 AM,0:03,,,Benimon S.FOUL (P2.PN),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011400079,598,3,13,4,12:56 AM,0:03,MISS Cunningham Free Throw 1 of 3,,,,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,599,4,1,4,12:56 AM,0:03,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,600,3,14,4,12:57 AM,0:03,MISS Cunningham Free Throw 2 of 3,,,,,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,601,4,1,4,12:57 AM,0:03,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400079,602,3,15,4,12:57 AM,0:03,Cunningham Free Throw 3 of 3 (10 PTS),,,104 - 93,-11,4,203099,Jared Cunningham,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011400079,604,13,0,4,12:57 AM,0:00,,End of 4th Period (12:57 AM EST),,104 - 93,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

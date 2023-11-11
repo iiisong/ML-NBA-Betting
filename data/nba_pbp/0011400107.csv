@@ -1,0 +1,433 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400107,0,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,1,10,0,1,7:11 PM,12:00,Jump Ball Jefferson vs. Hibbert: Tip to Scola,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0
+0011400107,2,2,1,1,7:11 PM,11:42,,,MISS Hibbert 16' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,3,4,0,1,7:11 PM,11:41,Williams REBOUND (Off:0 Def:1),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,4,1,42,1,7:11 PM,11:27,Kidd-Gilchrist 1' Driving Layup (2 PTS) (Roberts 1 AST),,,0 - 2,2,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,5,1,1,1,7:12 PM,11:06,,,Miles 26' 3PT Jump Shot (3 PTS) (Scola 1 AST),3 - 2,-1,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,6,1,1,1,7:12 PM,10:40,Kidd-Gilchrist 18' Jump Shot (4 PTS) (Neal 1 AST),,,3 - 4,1,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,7,1,42,1,7:13 PM,10:16,,,Sloan 1' Driving Layup (2 PTS) (Miles 1 AST),5 - 4,-1,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,8,6,1,1,7:13 PM,10:00,,,Miles P.FOUL (P1.T1),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,9,6,2,1,7:13 PM,9:54,,,Miles S.FOUL (P2.T2),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,10,3,11,1,7:14 PM,9:54,Neal Free Throw 1 of 2 (1 PTS),,,5 - 5,TIE,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,12,8,0,1,7:14 PM,9:54,,,SUB: Copeland FOR Miles,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,13,3,12,1,7:14 PM,9:54,Neal Free Throw 2 of 2 (2 PTS),,,5 - 6,1,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,15,1,58,1,7:14 PM,9:36,,,Hibbert 15' Turnaround Hook Shot (2 PTS),7 - 6,-1,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,16,6,2,1,7:15 PM,9:25,,,S. Hill S.FOUL (P1.T3),,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,17,3,11,1,7:15 PM,9:25,Neal Free Throw 1 of 2 (3 PTS),,,7 - 7,TIE,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,19,3,12,1,7:15 PM,9:25,Neal Free Throw 2 of 2 (4 PTS),,,7 - 8,1,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,21,6,1,1,7:16 PM,9:18,Jefferson P.FOUL (P1.T1),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,22,2,5,1,7:16 PM,9:07,,,MISS Sloan 3' Layup,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,23,4,0,1,7:16 PM,9:07,,,Scola REBOUND (Off:1 Def:0),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,24,6,2,1,7:16 PM,9:07,Williams S.FOUL (P1.T2),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,25,3,11,1,7:16 PM,9:07,,,Scola Free Throw 1 of 2 (1 PTS),8 - 8,TIE,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,27,3,12,1,7:17 PM,9:07,,,MISS Scola Free Throw 2 of 2,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,29,4,0,1,7:17 PM,9:04,Neal REBOUND (Off:0 Def:1),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,30,6,4,1,7:17 PM,8:56,Kidd-Gilchrist OFF.Foul (P1),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,31,5,5,1,7:17 PM,8:56,Kidd-Gilchrist Foul Turnover (P1.T1),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,32,1,1,1,7:17 PM,8:47,,,Scola 18' Jump Shot (3 PTS) (Sloan 1 AST),10 - 8,-2,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,33,2,5,1,7:18 PM,8:21,MISS Jefferson 1' Layup,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,34,4,0,1,7:18 PM,8:19,,,Hibbert REBOUND (Off:0 Def:1),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,35,1,1,1,7:18 PM,8:02,,,Scola 20' Jump Shot (5 PTS) (Sloan 2 AST),12 - 8,-4,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,36,2,1,1,7:18 PM,7:46,MISS Roberts 17' Jump Shot,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,37,4,0,1,7:18 PM,7:45,,,Hibbert REBOUND (Off:0 Def:2),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,38,5,1,1,7:18 PM,7:38,,,Hibbert Bad Pass Turnover (P1.T1),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,39,2,5,1,7:19 PM,7:15,MISS Neal 3' Layup,,Scola BLOCK (1 BLK),,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0
+0011400107,40,4,0,1,7:19 PM,7:09,,,S. Hill REBOUND (Off:0 Def:1),,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,41,2,1,1,7:19 PM,7:00,Jefferson BLOCK (1 BLK),,MISS Hibbert 16' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,42,4,0,1,7:19 PM,6:58,,,Hibbert REBOUND (Off:1 Def:2),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,43,1,3,1,7:19 PM,6:55,,,Hibbert 13' Hook Shot (4 PTS),14 - 8,-6,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,44,5,1,1,7:20 PM,6:41,Roberts Bad Pass Turnover (P1.T2),,Copeland STEAL (1 STL),,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,45,2,1,1,7:20 PM,6:35,,,MISS Copeland 25' 3PT Jump Shot,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,46,4,0,1,7:20 PM,6:33,Jefferson REBOUND (Off:0 Def:1),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,47,2,1,1,7:20 PM,6:21,MISS Neal 20' Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,48,4,0,1,7:20 PM,6:20,,,Scola REBOUND (Off:1 Def:1),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,49,2,1,1,7:20 PM,6:07,,,MISS S. Hill 26' 3PT Jump Shot,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,50,4,0,1,7:20 PM,6:06,,,Scola REBOUND (Off:2 Def:1),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,51,2,1,1,7:20 PM,6:01,,,MISS Scola 16' Jump Shot,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,52,4,0,1,7:20 PM,6:00,Neal REBOUND (Off:0 Def:2),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,53,1,1,1,7:20 PM,5:51,Williams 22' Jump Shot (2 PTS) (Neal 2 AST),,,14 - 10,-4,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,54,1,1,1,7:21 PM,5:34,,,Scola 18' Jump Shot (7 PTS) (Sloan 3 AST),16 - 10,-6,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,55,1,1,1,7:21 PM,5:10,Jefferson 14' Jump Shot (2 PTS) (Kidd-Gilchrist 1 AST),,,16 - 12,-4,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,56,2,42,1,7:21 PM,5:00,,,MISS Sloan 2' Driving Layup,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,57,4,0,1,7:21 PM,4:59,Kidd-Gilchrist REBOUND (Off:0 Def:1),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,58,1,5,1,7:21 PM,4:54,Kidd-Gilchrist 2' Layup (6 PTS),,,16 - 14,-2,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,59,9,1,1,7:21 PM,4:54,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,61,8,0,1,7:24 PM,4:54,,,SUB: Mahinmi FOR Hibbert,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,62,8,0,1,7:24 PM,4:54,SUB: Zeller FOR Williams,,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,63,2,5,1,7:24 PM,4:35,,,MISS Scola 2' Layup,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,64,4,0,1,7:24 PM,4:34,Jefferson REBOUND (Off:0 Def:2),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,66,2,5,1,7:25 PM,4:16,MISS Neal 1' Layup,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,67,4,0,1,7:25 PM,4:15,,,Scola REBOUND (Off:2 Def:2),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,68,1,1,1,7:25 PM,3:53,,,Scola 19' Jump Shot (9 PTS) (Sloan 4 AST),18 - 14,-4,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,69,5,2,1,7:25 PM,3:41,Zeller Lost Ball Turnover (P1.T3),,Scola STEAL (1 STL),,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,70,1,5,1,7:25 PM,3:36,,,Sloan 1' Layup (4 PTS) (Scola 2 AST),20 - 14,-6,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,71,6,2,1,7:26 PM,3:23,,,Mahinmi S.FOUL (P1.T4),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,72,3,11,1,7:26 PM,3:23,Jefferson Free Throw 1 of 2 (3 PTS),,,20 - 15,-5,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,74,8,0,1,7:26 PM,3:23,SUB: Hairston FOR Kidd-Gilchrist,,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,75,3,12,1,7:26 PM,3:23,Jefferson Free Throw 2 of 2 (4 PTS),,,20 - 16,-4,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,77,6,2,1,7:27 PM,3:08,Hairston S.FOUL (P1.T3),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,78,3,11,1,7:27 PM,3:08,,,Copeland Free Throw 1 of 2 (1 PTS),21 - 16,-5,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,80,3,12,1,7:27 PM,3:08,,,Copeland Free Throw 2 of 2 (2 PTS),22 - 16,-6,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,82,2,1,1,7:27 PM,2:54,MISS Neal 26' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,83,4,0,1,7:27 PM,2:52,,,Sloan REBOUND (Off:0 Def:1),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,84,1,3,1,7:28 PM,2:40,,,Scola 5' Hook Shot (11 PTS) (Sloan 5 AST),24 - 16,-8,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,85,6,1,1,7:28 PM,2:26,,,Scola P.FOUL (P1.PN),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,86,9,1,1,7:28 PM,2:26,HORNETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,88,8,0,1,7:30 PM,2:26,,,SUB: Thomas FOR Sloan,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,89,8,0,1,7:31 PM,2:26,SUB: Biyombo FOR Jefferson,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,90,8,0,1,7:31 PM,2:26,SUB: Pargo FOR Neal,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,91,3,11,1,7:31 PM,2:26,Zeller Free Throw 1 of 2 (1 PTS),,,24 - 17,-7,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,93,3,12,1,7:31 PM,2:26,Zeller Free Throw 2 of 2 (2 PTS),,,24 - 18,-6,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,95,1,5,1,7:31 PM,2:12,,,Scola 2' Layup (13 PTS) (Copeland 1 AST),26 - 18,-8,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,96,2,1,1,7:32 PM,1:57,MISS Roberts 20' Jump Shot,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,97,4,0,1,7:32 PM,1:56,,,Thomas REBOUND (Off:0 Def:1),,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,98,1,3,1,7:32 PM,1:35,,,Copeland 5' Hook Shot (4 PTS) (Thomas 1 AST),28 - 18,-10,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,99,2,1,1,7:32 PM,1:18,MISS Hairston 26' 3PT Jump Shot,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,100,4,0,1,7:32 PM,1:17,,,Scola REBOUND (Off:2 Def:3),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,101,2,47,1,7:33 PM,0:57,,,MISS Thomas 12' Turnaround Jump Shot,,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,102,4,0,1,7:33 PM,0:56,Biyombo REBOUND (Off:0 Def:1),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,103,2,1,1,7:33 PM,0:40,MISS Pargo 26' 3PT Jump Shot,,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,104,4,0,1,7:33 PM,0:39,,,Scola REBOUND (Off:2 Def:4),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,105,2,1,1,7:33 PM,0:26,,,MISS Scola 20' Jump Shot,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,106,4,0,1,7:33 PM,0:25,Pargo REBOUND (Off:0 Def:1),,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,107,2,1,1,7:33 PM,0:01,MISS Pargo 27' 3PT Jump Shot,,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,108,4,0,1,7:33 PM,0:01,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,109,5,11,1,7:34 PM,0:01,HORNETS Turnover: Shot Clock (T#4),,,,,2,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400107,110,5,1,1,7:34 PM,0:01,,,Scola Bad Pass Turnover (P1.T2),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,111,2,1,1,7:34 PM,0:00,MISS Roberts 25' 3PT Jump Shot,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,113,4,0,1,7:34 PM,0:00,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,112,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,28 - 18,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,115,12,0,2,7:37 PM,12:00,,Start of 2nd Period (7:37 PM EST),,28 - 18,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,116,5,1,2,7:37 PM,11:48,Pargo Bad Pass Turnover (P1.T5),,Rudez STEAL (1 STL),,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,117,6,2,2,7:38 PM,11:30,Pargo S.FOUL (P1.T1),,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,118,3,11,2,7:38 PM,11:30,,,Miles Free Throw 1 of 2 (4 PTS),29 - 18,-11,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,120,3,12,2,7:38 PM,11:30,,,Miles Free Throw 2 of 2 (5 PTS),30 - 18,-12,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,122,2,1,2,7:38 PM,11:08,MISS Pargo 18' Jump Shot,,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,123,4,0,2,7:38 PM,11:07,,,Rudez REBOUND (Off:0 Def:1),,,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,124,6,2,2,7:39 PM,10:57,Biyombo S.FOUL (P1.T2),,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,125,3,11,2,7:39 PM,10:57,,,MISS Mahinmi Free Throw 1 of 2,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,126,4,1,2,7:39 PM,10:57,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,127,3,12,2,7:39 PM,10:57,,,Mahinmi Free Throw 2 of 2 (1 PTS),31 - 18,-13,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,129,6,1,2,7:40 PM,10:49,,,Allen P.FOUL (P1.T1),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,130,2,78,2,7:40 PM,10:34,MISS Cobbs 7' Floating Jump Shot,,,,,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,131,4,0,2,7:40 PM,10:30,Cobbs REBOUND (Off:1 Def:0),,,,,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,132,5,1,2,7:40 PM,10:29,Cobbs Bad Pass Turnover (P1.T6),,,,,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,133,1,1,2,7:41 PM,10:09,,,Rudez 24' 3PT Jump Shot (3 PTS) (Allen 1 AST),34 - 18,-16,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,134,2,1,2,7:41 PM,9:55,MISS Pargo 4' Jump Shot,,Allen BLOCK (1 BLK),,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0
+0011400107,135,4,0,2,7:41 PM,9:53,,,Miles REBOUND (Off:0 Def:1),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,136,2,1,2,7:41 PM,9:48,,,MISS Thomas 26' 3PT Jump Shot,,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,138,4,0,2,7:41 PM,9:46,,,Allen REBOUND (Off:1 Def:0),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,137,1,72,2,7:41 PM,9:46,,,Allen 1' Putback Layup (2 PTS),36 - 18,-18,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,139,9,1,2,7:41 PM,9:46,HORNETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,140,8,0,2,7:43 PM,9:46,SUB: Neal FOR Hairston,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,141,8,0,2,7:43 PM,9:46,SUB: Jefferson FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,142,8,0,2,7:43 PM,9:46,SUB: Kidd-Gilchrist FOR Pargo,,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,143,8,0,2,7:43 PM,9:46,SUB: Roberts FOR Cobbs,,,,,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,145,6,2,2,7:44 PM,9:33,,,Mahinmi S.FOUL (P2.T2),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,146,3,11,2,7:44 PM,9:33,MISS Jefferson Free Throw 1 of 2,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,147,4,1,2,7:44 PM,9:33,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,148,3,12,2,7:44 PM,9:33,Jefferson Free Throw 2 of 2 (5 PTS),,,36 - 19,-17,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,150,1,1,2,7:45 PM,9:19,,,Miles 18' Jump Shot (7 PTS) (Thomas 2 AST),38 - 19,-19,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,151,2,3,2,7:45 PM,8:59,MISS Jefferson 8' Hook Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,152,4,0,2,7:45 PM,8:58,,,Allen REBOUND (Off:1 Def:1),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,153,2,1,2,7:45 PM,8:50,,,MISS Allen 20' Jump Shot,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,154,4,0,2,7:45 PM,8:49,Kidd-Gilchrist REBOUND (Off:0 Def:2),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,155,2,1,2,7:45 PM,8:40,MISS Jefferson 18' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,156,4,0,2,7:45 PM,8:39,,,Allen REBOUND (Off:1 Def:2),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,157,1,1,2,7:46 PM,8:20,,,Miles 27' 3PT Jump Shot (10 PTS) (Rudez 1 AST),41 - 19,-22,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,158,1,1,2,7:46 PM,7:59,Roberts 21' Jump Shot (2 PTS) (Neal 3 AST),,,41 - 21,-20,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,159,1,46,2,7:46 PM,7:38,,,Miles 9' Running Jump Shot (12 PTS) (Mahinmi 1 AST),43 - 21,-22,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,160,5,4,2,7:47 PM,7:19,Neal Traveling Turnover (P1.T7),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,161,5,1,2,7:47 PM,7:01,,,Miles Bad Pass Turnover (P1.T3),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,162,1,5,2,7:47 PM,6:45,Jefferson 1' Layup (7 PTS),,,43 - 23,-20,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,163,9,1,2,7:48 PM,6:45,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,165,8,0,2,7:50 PM,6:45,SUB: Williams FOR Zeller,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,166,8,0,2,7:50 PM,6:45,,,SUB: Hibbert FOR Mahinmi,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,167,8,0,2,7:50 PM,6:45,,,SUB: Sloan FOR Thomas,,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,168,5,1,2,7:50 PM,6:28,Roberts STEAL (1 STL),,Rudez Bad Pass Turnover (P1.T4),,,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,169,1,5,2,7:50 PM,6:24,Roberts 1' Layup (4 PTS),,,43 - 25,-18,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,170,6,4,2,7:51 PM,6:13,,,Allen OFF.Foul (P2),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,171,5,5,2,7:51 PM,6:13,,,Allen Foul Turnover (P1.T5),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011400107,172,2,1,2,7:51 PM,5:55,MISS Jefferson 15' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,173,4,0,2,7:51 PM,5:54,,,Miles REBOUND (Off:0 Def:2),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,174,1,1,2,7:51 PM,5:39,,,Miles 27' 3PT Jump Shot (15 PTS) (Sloan 6 AST),46 - 25,-21,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,175,6,4,2,7:52 PM,5:30,Neal OFF.Foul (P1),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,176,5,5,2,7:52 PM,5:30,Neal Foul Turnover (P2.T8),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,177,2,47,2,7:52 PM,5:07,,,MISS Hibbert 10' Turnaround Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,178,4,0,2,7:52 PM,5:04,Neal REBOUND (Off:0 Def:3),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,179,1,42,2,7:52 PM,4:53,Kidd-Gilchrist  Driving Layup (8 PTS) (Roberts 2 AST),,,46 - 27,-19,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,180,2,1,2,7:53 PM,4:33,,,MISS Miles 19' Jump Shot,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,181,4,0,2,7:53 PM,4:32,Williams REBOUND (Off:0 Def:2),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,182,5,39,2,7:53 PM,4:32,Williams Step Out of Bounds Turnover (P1.T9),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,183,7,1,2,7:53 PM,4:32,HORNETS Violation: Delay of game Violation,,,,,2,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400107,184,5,4,2,7:53 PM,4:22,,,Hibbert Traveling Turnover (P2.T6),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011400107,185,1,78,2,7:54 PM,4:10,Roberts 13' Floating Jump Shot (6 PTS),,,46 - 29,-17,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,186,1,1,2,7:54 PM,3:53,,,Hibbert 19' Jump Shot (6 PTS) (Sloan 7 AST),48 - 29,-19,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,187,1,5,2,7:54 PM,3:40,Roberts 2' Layup (8 PTS) (Neal 4 AST),,,48 - 31,-17,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,188,2,1,2,7:54 PM,3:23,,,MISS Hibbert 18' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,189,4,0,2,7:55 PM,3:22,Williams REBOUND (Off:0 Def:3),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,190,2,1,2,7:55 PM,3:09,MISS Jefferson 16' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,191,4,0,2,7:55 PM,3:08,,,Sloan REBOUND (Off:0 Def:2),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,192,1,78,2,7:55 PM,2:57,,,Miles 13' Floating Jump Shot (17 PTS) (Rudez 2 AST),50 - 31,-19,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,193,1,1,2,7:55 PM,2:38,Neal 20' Jump Shot (6 PTS) (Williams 1 AST),,,50 - 33,-17,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,194,5,2,2,7:56 PM,2:20,Williams STEAL (1 STL),,Sloan Lost Ball Turnover (P1.T7),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,195,6,1,2,7:56 PM,2:20,,,Hibbert P.FOUL (P1.T3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,196,9,4,2,7:56 PM,2:20,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,199,8,0,2,7:58 PM,2:20,,,SUB: Copeland FOR Miles,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,200,8,0,2,7:58 PM,2:20,,,SUB: S. Hill FOR Rudez,,,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,201,2,1,2,7:58 PM,2:06,MISS Williams 25' 3PT Jump Shot,,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,202,4,0,2,7:58 PM,2:05,,,Copeland REBOUND (Off:0 Def:1),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,203,1,77,2,7:59 PM,1:50,,,Sloan 3' Driving Jump Shot (6 PTS),52 - 33,-19,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,204,2,1,2,7:59 PM,1:34,MISS Neal 11' Jump Shot,,Hibbert BLOCK (1 BLK),,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
+0011400107,205,4,0,2,7:59 PM,1:32,,,S. Hill REBOUND (Off:0 Def:2),,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,206,1,43,2,7:59 PM,1:24,,,Allen 2' Alley Oop Layup (4 PTS) (Hibbert 1 AST),54 - 33,-21,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,207,9,2,2,7:59 PM,1:24,HORNETS Timeout: Short (Full 2 Short 1),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,210,1,58,2,8:00 PM,1:05,Jefferson 6' Turnaround Hook Shot (9 PTS),,,54 - 35,-19,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,211,2,3,2,8:01 PM,0:43,,,MISS Hibbert 6' Hook Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,212,4,0,2,8:01 PM,0:42,Jefferson REBOUND (Off:0 Def:3),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,213,2,1,2,8:01 PM,0:23,MISS Kidd-Gilchrist 5' Jump Shot,,Copeland BLOCK (1 BLK),,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0
+0011400107,214,4,0,2,8:01 PM,0:21,,,Allen REBOUND (Off:1 Def:3),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,215,9,2,2,8:01 PM,0:12,,,Pacers Timeout: Short (Reg.2 Short 1),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,217,8,0,2,8:03 PM,0:12,,,SUB: Miles FOR Allen,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,219,2,42,2,8:03 PM,0:06,,,MISS Sloan 2' Driving Layup,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,220,4,0,2,8:03 PM,0:04,Williams REBOUND (Off:0 Def:4),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,221,2,1,2,8:03 PM,0:00,MISS Neal 32' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,223,4,0,2,8:03 PM,0:00,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,222,13,0,2,8:03 PM,0:00,,End of 2nd Period (8:03 PM EST),,54 - 35,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,225,12,0,3,8:19 PM,12:00,,Start of 3rd Period (8:19 PM EST),,54 - 35,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,226,2,78,3,8:19 PM,11:42,MISS Neal 11' Floating Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,227,4,0,3,8:19 PM,11:38,,,Miles REBOUND (Off:0 Def:3),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,228,2,1,3,8:19 PM,11:17,,,MISS Miles 8' Jump Shot,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,229,4,0,3,8:19 PM,11:16,Jefferson REBOUND (Off:0 Def:4),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,230,1,1,3,8:19 PM,11:11,Roberts 26' 3PT Jump Shot (11 PTS) (Neal 5 AST),,,54 - 38,-16,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,231,5,2,3,8:20 PM,10:49,Williams STEAL (2 STL),,Scola Lost Ball Turnover (P2.T8),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,232,6,1,3,8:20 PM,10:48,,,Sloan P.FOUL (P1.T1),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,233,5,1,3,8:20 PM,10:40,Roberts Bad Pass Turnover (P2.T10),,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,234,2,1,3,8:21 PM,10:19,Jefferson BLOCK (2 BLK),,MISS Hibbert 8' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,235,4,0,3,8:21 PM,10:19,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,236,2,1,3,8:21 PM,10:03,MISS Jefferson 9' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,237,4,0,3,8:21 PM,10:02,,,Hibbert REBOUND (Off:1 Def:3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,238,1,1,3,8:22 PM,9:43,,,Scola 19' Jump Shot (15 PTS) (Sloan 8 AST),56 - 38,-18,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,239,6,1,3,8:22 PM,9:35,,,Hibbert P.FOUL (P2.T2),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,240,1,1,3,8:22 PM,9:28,Roberts 26' 3PT Jump Shot (14 PTS) (Williams 2 AST),,,56 - 41,-15,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,242,2,1,3,8:23 PM,9:04,,,MISS Sloan 27' 3PT Jump Shot,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,243,4,0,3,8:23 PM,9:03,Jefferson REBOUND (Off:0 Def:5),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,244,6,2,3,8:23 PM,8:57,,,Hibbert S.FOUL (P3.T3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,245,9,1,3,8:23 PM,8:57,,,Pacers Timeout: Regular (Reg.3 Short 1),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,249,3,11,3,8:26 PM,8:57,MISS Kidd-Gilchrist Free Throw 1 of 2,,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,250,4,1,3,8:26 PM,8:57,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,251,3,12,3,8:26 PM,8:57,MISS Kidd-Gilchrist Free Throw 2 of 2,,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,253,4,0,3,8:26 PM,8:56,,,Scola REBOUND (Off:2 Def:5),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,254,6,2,3,8:27 PM,8:37,Jefferson S.FOUL (P2.T1),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,255,3,11,3,8:27 PM,8:37,,,S. Hill Free Throw 1 of 2 (1 PTS),57 - 41,-16,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,257,3,12,3,8:27 PM,8:37,,,S. Hill Free Throw 2 of 2 (2 PTS),58 - 41,-17,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,259,2,1,3,8:28 PM,8:19,MISS Neal 19' Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,260,4,0,3,8:28 PM,8:17,,,Sloan REBOUND (Off:0 Def:3),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,261,1,3,3,8:28 PM,8:03,,,Hibbert 7' Hook Shot (8 PTS),60 - 41,-19,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,262,1,1,3,8:28 PM,7:44,Jefferson 3' Jump Shot (11 PTS) (Neal 6 AST),,,60 - 43,-17,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,263,5,4,3,8:28 PM,7:34,,,Sloan Traveling Turnover (P2.T9),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011400107,264,2,1,3,8:29 PM,7:20,MISS Williams 15' Jump Shot,,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,265,4,0,3,8:29 PM,7:18,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,266,9,2,3,8:29 PM,6:59,,,Pacers Timeout: Short (Reg.3 Short 2),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,270,2,1,3,8:31 PM,6:55,Jefferson BLOCK (3 BLK),,MISS Hibbert 6' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,271,4,0,3,8:31 PM,6:54,,,Hibbert REBOUND (Off:2 Def:3),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,272,1,3,3,8:31 PM,6:51,,,Hibbert 9' Hook Shot (10 PTS),62 - 43,-19,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,273,1,1,3,8:31 PM,6:35,Jefferson 16' Jump Shot (13 PTS) (Roberts 3 AST),,,62 - 45,-17,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,274,5,1,3,8:32 PM,6:10,Roberts STEAL (2 STL),,S. Hill Bad Pass Turnover (P1.T10),,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,275,6,1,3,8:32 PM,6:03,,,Sloan P.FOUL (P2.T4),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,276,2,1,3,8:32 PM,5:52,MISS Jefferson 6' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,277,4,0,3,8:32 PM,5:51,,,Scola REBOUND (Off:2 Def:6),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,278,2,1,3,8:32 PM,5:29,Williams BLOCK (1 BLK),,MISS S. Hill 5' Jump Shot,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,279,4,0,3,8:32 PM,5:27,Jefferson REBOUND (Off:0 Def:6),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,280,2,1,3,8:33 PM,5:22,MISS Neal 26' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,281,4,0,3,8:33 PM,5:20,,,Hibbert REBOUND (Off:2 Def:4),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,282,1,1,3,8:33 PM,5:05,,,Miles 21' Jump Shot (19 PTS),64 - 45,-19,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,283,1,42,3,8:33 PM,4:44,Kidd-Gilchrist 3' Driving Layup (10 PTS),,,64 - 47,-17,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,284,6,1,3,8:33 PM,4:34,Williams P.FOUL (P2.T2),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,285,8,0,3,8:34 PM,4:34,SUB: Zeller FOR Williams,,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,286,8,0,3,8:34 PM,4:34,,,SUB: Copeland FOR Hibbert,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,287,8,0,3,8:34 PM,4:34,,,SUB: Mahinmi FOR S. Hill,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,288,2,5,3,8:34 PM,4:26,,,MISS Sloan 1' Layup,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,289,4,0,3,8:34 PM,4:25,Kidd-Gilchrist REBOUND (Off:0 Def:3),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,290,6,2,3,8:34 PM,4:22,,,Scola S.FOUL (P2.PN),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,291,3,11,3,8:35 PM,4:22,Kidd-Gilchrist Free Throw 1 of 2 (11 PTS),,,64 - 48,-16,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,293,8,0,3,8:35 PM,4:22,SUB: Maxiell FOR Jefferson,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,294,3,12,3,8:35 PM,4:22,Kidd-Gilchrist Free Throw 2 of 2 (12 PTS),,,64 - 49,-15,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,296,5,1,3,8:35 PM,4:08,Kidd-Gilchrist STEAL (1 STL),,Sloan Bad Pass Turnover (P3.T11),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,297,2,1,3,8:35 PM,4:03,MISS Neal 26' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,298,4,0,3,8:35 PM,4:02,,,Sloan REBOUND (Off:0 Def:4),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,299,2,5,3,8:36 PM,3:47,,,MISS Scola 3' Layup,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,300,4,0,3,8:36 PM,3:47,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,301,6,3,3,8:36 PM,3:47,,,Mahinmi L.B.FOUL (P3.PN),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,302,3,11,3,8:36 PM,3:47,Maxiell Free Throw 1 of 2 (1 PTS),,,64 - 50,-14,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,304,8,0,3,8:37 PM,3:47,SUB: Hairston FOR Neal,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,305,3,12,3,8:37 PM,3:47,Maxiell Free Throw 2 of 2 (2 PTS),,,64 - 51,-13,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,307,2,1,3,8:37 PM,3:28,,,MISS Sloan 25' 3PT Jump Shot,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,308,4,0,3,8:37 PM,3:27,Zeller REBOUND (Off:0 Def:1),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,309,2,1,3,8:37 PM,3:09,MISS Kidd-Gilchrist 21' Jump Shot,,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,310,4,0,3,8:37 PM,3:07,,,Copeland REBOUND (Off:0 Def:2),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,311,2,79,3,8:38 PM,2:49,,,MISS Miles 19' Pullup Jump Shot,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,312,4,0,3,8:38 PM,2:48,Kidd-Gilchrist REBOUND (Off:0 Def:4),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,313,6,2,3,8:38 PM,2:39,,,Miles S.FOUL (P3.PN),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,314,9,1,3,8:38 PM,2:39,HORNETS Timeout: Regular (Full 3 Short 1),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,317,8,0,3,8:40 PM,2:39,,,SUB: Thomas FOR Scola,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,318,8,0,3,8:40 PM,2:39,,,SUB: Allen FOR Sloan,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,319,3,11,3,8:41 PM,2:39,MISS Maxiell Free Throw 1 of 2,,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,320,4,1,3,8:41 PM,2:39,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,321,3,12,3,8:41 PM,2:39,Maxiell Free Throw 2 of 2 (3 PTS),,,64 - 52,-12,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,323,1,1,3,8:41 PM,2:26,,,Copeland 26' 3PT Jump Shot (7 PTS) (Miles 2 AST),67 - 52,-15,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,324,1,1,3,8:42 PM,2:08,Zeller 19' Jump Shot (4 PTS) (Roberts 4 AST),,,67 - 54,-13,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,325,2,1,3,8:42 PM,1:50,,,MISS Thomas 18' Jump Shot,,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,326,4,0,3,8:42 PM,1:49,Kidd-Gilchrist REBOUND (Off:0 Def:5),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,327,2,1,3,8:42 PM,1:41,MISS Roberts 20' Jump Shot,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,328,4,0,3,8:42 PM,1:40,,,Mahinmi REBOUND (Off:0 Def:1),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,329,2,1,3,8:42 PM,1:17,,,MISS Allen 19' Jump Shot,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,330,4,0,3,8:42 PM,1:16,,,Mahinmi REBOUND (Off:1 Def:1),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,331,2,1,3,8:43 PM,1:08,,,MISS Miles 26' 3PT Jump Shot,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,332,4,0,3,8:43 PM,1:07,Zeller REBOUND (Off:0 Def:2),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,333,2,1,3,8:43 PM,1:00,MISS Hairston 28' 3PT Jump Shot,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,334,4,0,3,8:43 PM,0:59,,,Miles REBOUND (Off:0 Def:4),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,335,6,3,3,8:43 PM,0:37,Hairston L.B.FOUL (P2.T3),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,336,6,1,3,8:44 PM,0:28,Zeller P.FOUL (P1.PN),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,337,3,11,3,8:44 PM,0:28,,,MISS Mahinmi Free Throw 1 of 2,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,338,4,1,3,8:44 PM,0:28,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,339,3,12,3,8:44 PM,0:28,,,Mahinmi Free Throw 2 of 2 (2 PTS),68 - 54,-14,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,341,6,2,3,8:45 PM,0:18,,,Mahinmi S.FOUL (P4.PN),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,342,3,11,3,8:45 PM,0:18,Roberts Free Throw 1 of 2 (15 PTS),,,68 - 55,-13,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,344,3,12,3,8:45 PM,0:18,Roberts Free Throw 2 of 2 (16 PTS),,,68 - 56,-12,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,346,1,1,3,8:46 PM,0:00,,,Copeland 12' Jump Shot (9 PTS),70 - 56,-14,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,348,18,0,3,8:46 PM,0:00,,Support Ruling,,,,0,346,Doug Edwards,,,,,0,0,,,,,,1,0,,,,,,0
+0011400107,347,13,0,3,8:46 PM,0:00,,End of 3rd Period (8:46 PM EST),,70 - 56,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,349,12,0,4,8:49 PM,12:00,,Start of 4th Period (8:49 PM EST),,70 - 56,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,350,5,1,4,8:49 PM,11:45,,,Mahinmi Bad Pass Turnover (P1.T12),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,351,6,4,4,8:50 PM,11:29,Maxiell OFF.Foul (P1),,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,352,5,5,4,8:50 PM,11:29,Maxiell Foul Turnover (P1.T11),,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,353,2,1,4,8:50 PM,11:12,,,MISS Mahinmi 6' Jump Shot,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,354,4,0,4,8:50 PM,11:12,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,355,6,3,4,8:50 PM,11:12,Neal L.B.FOUL (P2.T1),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,356,6,1,4,8:50 PM,11:07,Neal P.FOUL (P3.T2),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,357,6,11,4,8:51 PM,11:07,Neal T.FOUL (P3.T2),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,358,6,11,4,8:51 PM,11:07,Neal T.FOUL (P3.T2),,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,375,11,1,4,8:51 PM,11:07,Neal Ejection:Second Technical,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400107,400,8,0,4,8:51 PM,11:07,SUB: Cobbs FOR Neal,,,,,4,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,359,3,16,4,8:51 PM,11:07,,,Copeland Free Throw Technical (10 PTS),71 - 56,-15,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,361,3,16,4,8:51 PM,11:07,,,Copeland Free Throw Technical (11 PTS),72 - 56,-16,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,363,2,5,4,8:51 PM,10:59,Hairston BLOCK (1 BLK),,MISS Copeland 2' Layup,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,364,4,0,4,8:52 PM,10:58,Maxiell REBOUND (Off:0 Def:1),,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,365,6,2,4,8:52 PM,10:49,,,Copeland S.FOUL (P1.T1),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,366,3,13,4,8:52 PM,10:49,Hairston Free Throw 1 of 3 (1 PTS),,,72 - 57,-15,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,368,3,14,4,8:52 PM,10:49,Hairston Free Throw 2 of 3 (2 PTS),,,72 - 58,-14,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,370,3,15,4,8:52 PM,10:49,Hairston Free Throw 3 of 3 (3 PTS),,,72 - 59,-13,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,372,6,2,4,8:53 PM,10:32,Maxiell S.FOUL (P2.T3),,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,373,3,11,4,8:53 PM,10:32,,,Mahinmi Free Throw 1 of 2 (3 PTS),73 - 59,-14,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,376,3,12,4,8:54 PM,10:32,,,MISS Mahinmi Free Throw 2 of 2,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,378,4,0,4,8:54 PM,10:30,Maxiell REBOUND (Off:0 Def:2),,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,379,2,1,4,8:54 PM,10:15,MISS Hairston 27' 3PT Jump Shot,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,380,4,0,4,8:54 PM,10:13,Maxiell REBOUND (Off:1 Def:2),,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,381,6,3,4,8:54 PM,10:08,,,Thomas L.B.FOUL (P1.T2),,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,383,2,56,4,8:55 PM,9:59,MISS Zeller 4' Running Hook Shot,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,384,4,0,4,8:55 PM,9:58,,,Thomas REBOUND (Off:0 Def:2),,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,385,5,2,4,8:55 PM,9:50,Hairston STEAL (1 STL),,Copeland Lost Ball Turnover (P1.T13),,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,386,6,1,4,8:55 PM,9:41,,,Mahinmi P.FOUL (P5.T3),,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,387,8,0,4,8:55 PM,9:41,,,SUB: Sloan FOR Thomas,,,5,203519,Adonis Thomas,1610612754.0,Indiana,Pacers,IND,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,388,2,1,4,8:55 PM,9:34,MISS Zeller 4' Jump Shot,,Mahinmi BLOCK (1 BLK),,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0
+0011400107,389,4,0,4,8:56 PM,9:34,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,390,1,1,4,8:56 PM,9:31,Pargo 16' Jump Shot (2 PTS) (Hairston 1 AST),,,73 - 61,-12,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,391,1,42,4,8:56 PM,9:13,,,Sloan 2' Driving Layup (8 PTS),75 - 61,-14,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,392,1,5,4,8:56 PM,9:02,Hairston 3' Layup (5 PTS) (Pargo 1 AST),,,75 - 63,-12,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,393,6,2,4,8:56 PM,9:02,,,Allen S.FOUL (P3.T4),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,394,8,0,4,8:57 PM,9:02,,,SUB: Hibbert FOR Mahinmi,,,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,395,3,10,4,8:57 PM,9:02,Hairston Free Throw 1 of 1 (6 PTS),,,75 - 64,-11,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,397,2,1,4,8:57 PM,8:43,Hairston BLOCK (2 BLK),,MISS Sloan 27' 3PT Jump Shot,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,398,4,0,4,8:57 PM,8:42,Pargo REBOUND (Off:0 Def:2),,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,399,1,1,4,8:57 PM,8:37,Cobbs 17' Jump Shot (2 PTS) (Pargo 2 AST),,,75 - 66,-9,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,402,9,1,4,8:58 PM,8:36,,,Pacers Timeout: Regular (Reg.4 Short 2),,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,405,8,0,4,9:00 PM,8:36,,,SUB: S. Hill FOR Copeland,,,5,203142,Chris Copeland,1610612754.0,Indiana,Pacers,IND,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,406,5,4,4,9:00 PM,8:20,,,Hibbert Traveling Turnover (P3.T14),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011400107,407,8,0,4,9:00 PM,8:20,SUB: Jefferson FOR Maxiell,,,,,4,101131,Jason Maxiell,1610612766.0,Charlotte,Hornets,CHA,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,408,2,1,4,9:01 PM,8:08,MISS Pargo 17' Jump Shot,,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,409,4,0,4,9:01 PM,8:07,,,Sloan REBOUND (Off:0 Def:5),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,410,5,1,4,9:01 PM,7:57,,,Rudez Bad Pass Turnover (P2.T15),,,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,411,2,3,4,9:01 PM,7:37,MISS Jefferson 10' Hook Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,412,4,0,4,9:01 PM,7:36,,,Allen REBOUND (Off:1 Def:4),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,414,6,1,4,9:02 PM,7:28,Zeller P.FOUL (P2.T4),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,415,8,0,4,9:02 PM,7:28,SUB: Roberts FOR Cobbs,,,,,4,203965,Justin Cobbs,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,416,8,0,4,9:02 PM,7:28,,,SUB: Miles FOR Rudez,,,5,204014,Damjan Rudez,1610612754.0,Indiana,Pacers,IND,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,417,2,1,4,9:02 PM,7:17,,,MISS Miles 17' Jump Shot,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,418,4,0,4,9:02 PM,7:16,Hairston REBOUND (Off:0 Def:1),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,419,2,1,4,9:03 PM,7:03,MISS Hairston 27' 3PT Jump Shot,,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,420,4,0,4,9:03 PM,7:00,Pargo REBOUND (Off:1 Def:2),,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,421,1,1,4,9:03 PM,6:54,Pargo 21' Jump Shot (4 PTS),,,75 - 68,-7,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,422,5,2,4,9:03 PM,6:44,Hairston STEAL (2 STL),,Allen Lost Ball Turnover (P2.T16),,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,423,1,7,4,9:03 PM,6:40,Hairston  Dunk (8 PTS),,,75 - 70,-5,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,424,2,1,4,9:03 PM,6:17,,,MISS Hibbert 19' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,425,4,0,4,9:03 PM,6:15,,,Sloan REBOUND (Off:1 Def:5),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,426,2,47,4,9:04 PM,6:04,,,MISS Allen 15' Turnaround Jump Shot,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,427,4,0,4,9:04 PM,6:03,Zeller REBOUND (Off:0 Def:3),,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,428,2,5,4,9:04 PM,5:45,MISS Pargo 2' Layup,,Allen BLOCK (2 BLK),,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,0
+0011400107,429,4,0,4,9:04 PM,5:43,,,Hibbert REBOUND (Off:2 Def:5),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,430,5,2,4,9:04 PM,5:41,Jefferson STEAL (1 STL),,Sloan Lost Ball Turnover (P4.T17),,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,431,1,1,4,9:04 PM,5:33,Hairston 26' 3PT Jump Shot (11 PTS) (Pargo 3 AST),,,75 - 73,-2,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,432,6,1,4,9:04 PM,5:13,Hairston P.FOUL (P3.PN),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,433,9,4,4,9:05 PM,5:13,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,435,8,0,4,9:07 PM,5:13,,,SUB: Scola FOR Allen,,,5,202730,Lavoy Allen,1610612754.0,Indiana,Pacers,IND,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,436,8,0,4,9:07 PM,5:13,SUB: Kidd-Gilchrist FOR Zeller,,,,,4,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,437,8,0,4,9:07 PM,5:13,SUB: Williams FOR Pargo,,,,,4,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,438,3,11,4,9:07 PM,5:13,,,S. Hill Free Throw 1 of 2 (3 PTS),76 - 73,-3,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,440,3,12,4,9:07 PM,5:13,,,S. Hill Free Throw 2 of 2 (4 PTS),77 - 73,-4,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,442,2,46,4,9:08 PM,5:01,MISS Roberts 9' Running Jump Shot,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,443,4,0,4,9:08 PM,4:59,,,Hibbert REBOUND (Off:2 Def:6),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,444,6,4,4,9:08 PM,4:49,,,Hibbert OFF.Foul (P4),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,445,5,5,4,9:08 PM,4:49,,,Hibbert Foul Turnover (P4.T18),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+0011400107,446,2,1,4,9:09 PM,4:29,MISS Jefferson 6' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,447,4,0,4,9:09 PM,4:28,,,Miles REBOUND (Off:0 Def:5),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,448,1,42,4,9:09 PM,4:10,,,Miles 1' Driving Layup (21 PTS),79 - 73,-6,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,450,1,1,4,9:10 PM,3:48,Jefferson 17' Jump Shot (15 PTS) (Roberts 5 AST),,,79 - 75,-4,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400107,451,2,1,4,9:10 PM,3:33,Jefferson BLOCK (4 BLK),,MISS Sloan 4' Jump Shot,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,452,4,0,4,9:10 PM,3:33,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,453,1,1,4,9:10 PM,3:32,,,S. Hill 15' Jump Shot (6 PTS) (Miles 3 AST),81 - 75,-6,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+0011400107,454,6,2,4,9:10 PM,3:32,Hairston S.FOUL (P4.PN),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,455,3,10,4,9:10 PM,3:32,,,MISS S. Hill Free Throw 1 of 1,,,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,457,4,0,4,9:11 PM,3:30,Jefferson REBOUND (Off:0 Def:7),,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,458,2,1,4,9:11 PM,3:08,MISS Kidd-Gilchrist 18' Jump Shot,,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,459,4,0,4,9:11 PM,3:07,,,Scola REBOUND (Off:2 Def:7),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,460,2,5,4,9:11 PM,2:49,Jefferson BLOCK (5 BLK),,MISS Miles 2' Layup,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,461,4,0,4,9:11 PM,2:49,,,Scola REBOUND (Off:3 Def:7),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,462,6,2,4,9:11 PM,2:49,Williams S.FOUL (P3.PN),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,463,9,1,4,9:12 PM,2:49,HORNETS Timeout: Regular (Full 4 Short 1),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,467,3,11,4,9:14 PM,2:49,,,MISS Scola Free Throw 1 of 2,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,468,4,1,4,9:14 PM,2:49,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,469,3,12,4,9:14 PM,2:49,,,MISS Scola Free Throw 2 of 2,,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,471,4,0,4,9:14 PM,2:48,Kidd-Gilchrist REBOUND (Off:0 Def:6),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,472,5,11,4,9:15 PM,2:25,HORNETS Turnover: Shot Clock (T#12),,,,,2,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400107,473,6,1,4,9:16 PM,2:13,Williams P.FOUL (P4.PN),,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,474,3,11,4,9:16 PM,2:13,,,Miles Free Throw 1 of 2 (22 PTS),82 - 75,-7,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,476,3,12,4,9:16 PM,2:13,,,Miles Free Throw 2 of 2 (23 PTS),83 - 75,-8,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,478,2,1,4,9:16 PM,1:56,MISS Roberts 26' 3PT Jump Shot,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,479,4,0,4,9:16 PM,1:54,,,Scola REBOUND (Off:3 Def:8),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,480,2,1,4,9:17 PM,1:34,Jefferson BLOCK (6 BLK),,MISS Hibbert 8' Jump Shot,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0
+0011400107,481,4,0,4,9:17 PM,1:34,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,482,6,3,4,9:17 PM,1:34,,,Miles L.B.FOUL (P4.PN),,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400107,483,3,11,4,9:17 PM,1:34,MISS Kidd-Gilchrist Free Throw 1 of 2,,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,484,4,1,4,9:17 PM,1:34,HORNETS Rebound,,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,485,3,12,4,9:17 PM,1:34,Kidd-Gilchrist Free Throw 2 of 2 (13 PTS),,,83 - 76,-7,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,487,2,80,4,9:18 PM,1:15,,,MISS Miles 16' Step Back Jump Shot,,,5,101139,CJ Miles,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,488,4,0,4,9:18 PM,1:12,Hairston REBOUND (Off:0 Def:2),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,489,2,1,4,9:18 PM,0:51,MISS Jefferson 16' Jump Shot,,,,,4,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,490,4,0,4,9:18 PM,0:50,,,Scola REBOUND (Off:3 Def:9),,,5,2449,Luis Scola,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,491,1,42,4,9:19 PM,0:36,,,Sloan 2' Driving Layup (10 PTS),85 - 76,-9,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,492,9,1,4,9:19 PM,0:36,HORNETS Timeout: Regular (Full 5 Short 1),,,,,2,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,496,2,1,4,9:21 PM,0:29,MISS Williams 24' 3PT Jump Shot,,,,,4,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,497,4,0,4,9:21 PM,0:29,,,Pacers Rebound,,,3,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400107,499,6,1,4,9:21 PM,0:18,Hairston P.FOUL (P5.PN),,,,,4,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,500,3,11,4,9:22 PM,0:18,,,Sloan Free Throw 1 of 2 (11 PTS),86 - 76,-10,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,502,3,12,4,9:22 PM,0:18,,,MISS Sloan Free Throw 2 of 2,,,5,202388,Donald Sloan,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,504,4,0,4,9:22 PM,0:17,Kidd-Gilchrist REBOUND (Off:0 Def:7),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,505,1,1,4,9:22 PM,0:09,Roberts 27' 3PT Jump Shot (19 PTS),,,86 - 79,-7,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,506,6,1,4,9:22 PM,0:07,Kidd-Gilchrist P.FOUL (P2.PN),,,,,4,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+0011400107,507,3,11,4,9:23 PM,0:07,,,S. Hill Free Throw 1 of 2 (7 PTS),87 - 79,-8,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,509,3,12,4,9:23 PM,0:07,,,S. Hill Free Throw 2 of 2 (8 PTS),88 - 79,-9,5,203524,Solomon Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,511,2,5,4,9:23 PM,0:01,MISS Roberts 2' Layup,,,,,4,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400107,512,4,0,4,9:23 PM,0:00,,,Hibbert REBOUND (Off:2 Def:7),,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+0011400107,513,13,0,4,9:23 PM,0:00,,End of 4th Period (9:23 PM EST),,88 - 79,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

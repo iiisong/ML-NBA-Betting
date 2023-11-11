@@ -1,0 +1,459 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200035,2,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,4,10,0,1,8:41 PM,12:00,Jump Ball McGee vs. Carter Jr.: Tip to Doncic,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1
+0012200035,7,2,44,1,8:41 PM,11:37,MISS Finney-Smith 2' Reverse Layup,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,8,4,0,1,8:41 PM,11:34,,,Anthony REBOUND (Off:0 Def:1),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,9,2,50,1,8:41 PM,11:31,Doncic BLOCK (1 BLK),,MISS Banchero 7' Running Dunk,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1
+0012200035,11,4,0,1,8:41 PM,11:31,Bullock REBOUND (Off:0 Def:1),,,,,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,12,1,101,1,8:41 PM,11:25,Doncic 5' Driving Floating Jump Shot (2 PTS) (Bullock 1 AST),,,0 - 2,2,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,13,1,57,1,8:42 PM,11:05,,,Banchero 4' Driving Hook Shot (2 PTS),2 - 2,TIE,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,14,2,1,1,8:42 PM,10:53,MISS Hardy 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,15,4,0,1,8:42 PM,10:51,,,Ross REBOUND (Off:0 Def:1),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,16,6,1,1,8:42 PM,10:42,Hardy P.FOUL (P1.T1) (S.Wright),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,18,1,101,1,8:43 PM,10:35,,,Anthony 12' Driving Floating Jump Shot (2 PTS),4 - 2,-2,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,19,1,1,1,8:43 PM,10:18,Bullock 3PT Jump Shot (3 PTS) (Doncic 1 AST),,,4 - 5,1,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,21,1,6,1,8:43 PM,10:09,,,Okeke 2' Driving Layup (2 PTS) (Anthony 1 AST),6 - 5,-1,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,23,1,80,1,8:43 PM,10:01,Doncic 25' 3PT Step Back Jump Shot (5 PTS),,,6 - 8,2,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,24,2,6,1,8:43 PM,9:52,,,MISS Anthony 2' Driving Layup,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,25,4,0,1,8:43 PM,9:50,McGee REBOUND (Off:0 Def:1),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,26,6,2,1,8:43 PM,9:46,,,Banchero S.FOUL (P1.T1) (J.Reneau),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,28,3,11,1,8:44 PM,9:46,Finney-Smith Free Throw 1 of 2 (1 PTS),,,6 - 9,3,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,29,3,12,1,8:44 PM,9:46,Finney-Smith Free Throw 2 of 2 (2 PTS),,,6 - 10,4,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,30,1,108,1,8:44 PM,9:36,,,Banchero 1' Cutting Dunk Shot (4 PTS) (Carter Jr. 1 AST),8 - 10,2,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,32,1,102,1,8:45 PM,9:17,Doncic 7' Driving Floating Bank Jump Shot (7 PTS),,,8 - 12,4,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,33,1,80,1,8:45 PM,9:09,,,Okeke 23' Step Back Jump Shot (4 PTS) (Banchero 1 AST),10 - 12,2,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,35,1,80,1,8:45 PM,8:44,Doncic 28' 3PT Step Back Jump Shot (10 PTS),,,10 - 15,5,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,36,2,80,1,8:46 PM,8:27,,,MISS Carter Jr. 19' Step Back Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,37,4,0,1,8:46 PM,8:25,McGee REBOUND (Off:0 Def:2),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,38,6,1,1,8:46 PM,8:21,,,Okeke P.FOUL (P1.T2) (S.Wright),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,40,2,80,1,8:46 PM,8:08,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,41,4,0,1,8:46 PM,8:05,,,Banchero REBOUND (Off:0 Def:1),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,42,5,45,1,8:46 PM,8:01,,,Banchero Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,43,1,52,1,8:47 PM,7:51,McGee 1' Alley Oop Dunk (2 PTS) (Doncic 2 AST),,,10 - 17,7,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,45,2,63,1,8:47 PM,7:29,,,MISS Banchero 12' Fadeaway Jumper,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,46,4,0,1,8:47 PM,7:27,McGee REBOUND (Off:0 Def:3),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,47,2,1,1,8:47 PM,7:18,MISS Hardy 3PT Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,48,4,0,1,8:47 PM,7:15,,,Ross REBOUND (Off:0 Def:2),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,49,2,79,1,8:47 PM,6:58,,,MISS Carter Jr. 19' Pullup Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,50,4,0,1,8:48 PM,6:56,Hardy REBOUND (Off:0 Def:1),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,51,2,103,1,8:48 PM,6:51,MISS Hardy 25' 3PT Running Pull-Up Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,52,4,0,1,8:48 PM,6:48,,,Carter Jr. REBOUND (Off:0 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,53,2,101,1,8:48 PM,6:42,,,MISS Anthony 6' Driving Floating Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,54,4,0,1,8:48 PM,6:39,,,Carter Jr. REBOUND (Off:1 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,55,2,1,1,8:48 PM,6:36,,,MISS Banchero 25' 3PT Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,56,4,0,1,8:48 PM,6:34,Doncic REBOUND (Off:0 Def:1),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,57,2,1,1,8:48 PM,6:24,MISS Bullock 3PT Jump Shot,,,,,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,58,4,0,1,8:48 PM,6:21,,,Carter Jr. REBOUND (Off:1 Def:2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,59,2,1,1,8:48 PM,6:13,,,MISS Carter Jr. 25' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,60,4,0,1,8:48 PM,6:11,Doncic REBOUND (Off:0 Def:2),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,61,2,1,1,8:48 PM,5:57,MISS McGee 3PT Jump Shot,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,62,4,0,1,8:49 PM,5:53,,,Banchero REBOUND (Off:0 Def:2),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,63,6,4,1,8:49 PM,5:40,,,Carter Jr. OFF.Foul (P1) (S.Twardoski),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,65,5,37,1,8:49 PM,5:40,,,Carter Jr. Offensive Foul Turnover (P1.T2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,66,9,1,1,8:49 PM,5:40,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,68,8,0,1,8:51 PM,5:40,SUB: Wood FOR McGee,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,69,8,0,1,8:51 PM,5:40,,,SUB: Suggs FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,72,1,5,1,8:52 PM,5:24,Wood 1' Layup (2 PTS) (Doncic 3 AST),,,10 - 19,9,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,74,6,4,1,8:53 PM,5:05,,,Suggs OFF.Foul (P1) (S.Wright),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,76,5,37,1,8:53 PM,5:05,,,Suggs Offensive Foul Turnover (P1.T3),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,77,8,0,1,8:53 PM,5:05,SUB: Dinwiddie FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,78,8,0,1,8:53 PM,5:05,SUB: Hardaway Jr. FOR Bullock,,,,,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,82,2,80,1,8:53 PM,4:44,MISS Doncic 26' 3PT Step Back Jump Shot,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,83,4,0,1,8:54 PM,4:40,,,Ross REBOUND (Off:0 Def:3),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,84,2,79,1,8:54 PM,4:28,,,MISS Carter Jr. 13' Pullup Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,85,4,0,1,8:54 PM,4:26,Doncic REBOUND (Off:0 Def:3),,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,86,1,2,1,8:54 PM,4:22,Finney-Smith 3PT Running Jump Shot (5 PTS) (Dinwiddie 1 AST),,,10 - 22,12,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,88,6,1,1,8:54 PM,4:02,Dinwiddie P.FOUL (P1.T2) (S.Wright),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,90,9,1,1,8:55 PM,4:02,,,Magic Timeout: Regular (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,91,8,0,1,8:55 PM,4:02,SUB: Kleber FOR Finney-Smith,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,92,8,0,1,8:55 PM,4:02,,,SUB: Bol FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,93,8,0,1,8:55 PM,4:02,,,SUB: Hampton FOR Banchero,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,94,8,0,1,8:55 PM,4:02,,,SUB: Bamba FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,95,8,0,1,8:55 PM,4:02,,,SUB: Houstan FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,101,2,1,1,8:58 PM,3:50,,,MISS Houstan 25' 3PT Jump Shot,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,102,4,0,1,8:58 PM,3:47,,,Bol REBOUND (Off:1 Def:0),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,103,2,1,1,8:58 PM,3:44,,,MISS Hampton 25' 3PT Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,104,4,0,1,8:58 PM,3:40,Hardaway Jr. REBOUND (Off:0 Def:1),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,105,2,43,1,8:58 PM,3:29,MISS Wood 2' Alley Oop Layup,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,106,4,0,1,8:58 PM,3:27,,,Bol REBOUND (Off:1 Def:1),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,107,5,1,1,8:59 PM,3:07,Kleber STEAL (1 STL),,Houstan Bad Pass Turnover (P1.T4),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,109,2,103,1,8:59 PM,3:03,MISS Kleber 25' 3PT Running Pull-Up Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,110,4,0,1,8:59 PM,3:00,,,Bol REBOUND (Off:1 Def:2),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,111,5,1,1,8:59 PM,2:47,Doncic STEAL (1 STL),,Hampton Bad Pass Turnover (P1.T5),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,113,5,1,1,8:59 PM,2:43,Doncic Bad Pass Turnover (P1.T1),,Hampton STEAL (1 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,115,2,102,1,8:59 PM,2:40,,,MISS Hampton 4' Driving Floating Bank Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,116,4,0,1,8:59 PM,2:38,Hardaway Jr. REBOUND (Off:0 Def:2),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,117,2,2,1,8:59 PM,2:34,MISS Wood 25' 3PT Running Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,118,4,0,1,8:59 PM,2:31,,,Bol REBOUND (Off:1 Def:3),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,119,2,98,1,9:00 PM,2:11,,,MISS Okeke 2' Cutting Layup Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,120,4,0,1,9:00 PM,2:08,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,122,7,5,1,9:00 PM,1:56,,,Bol Violation:Kicked Ball (J.Reneau),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0012200035,123,1,9,1,9:01 PM,1:52,Hardaway Jr. 1' Driving Dunk (2 PTS) (Dinwiddie 2 AST),,,10 - 24,14,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,125,2,1,1,9:01 PM,1:37,,,MISS Okeke 25' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,126,4,0,1,9:01 PM,1:36,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,128,1,108,1,9:01 PM,1:23,Kleber 1' Cutting Dunk Shot (2 PTS) (Doncic 4 AST),,,10 - 26,16,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,130,2,1,1,9:02 PM,1:08,,,MISS Bamba 25' 3PT Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,131,4,0,1,9:02 PM,1:05,Kleber REBOUND (Off:0 Def:1),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,132,1,6,1,9:02 PM,1:00,Doncic 3' Driving Layup (12 PTS),,,10 - 28,18,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,133,1,1,1,9:02 PM,0:44,,,Bamba 14' Jump Shot (2 PTS) (Hampton 1 AST),12 - 28,16,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,136,2,1,1,9:02 PM,0:32,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,137,4,0,1,9:02 PM,0:32,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,139,6,6,1,9:03 PM,0:32,,,Houstan AWAY.FROM.PLAY.FOUL (P1.T3) (S.Twardoski),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,141,3,10,1,9:03 PM,0:32,Hardaway Jr. Free Throw 1 of 1 (3 PTS),,,12 - 29,17,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,142,6,2,1,9:03 PM,0:31,,,Bol S.FOUL (P1.PN) (J.Reneau),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,144,3,11,1,9:04 PM,0:31,Wood Free Throw 1 of 2 (3 PTS),,,12 - 30,18,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,145,3,12,1,9:04 PM,0:31,Wood Free Throw 2 of 2 (4 PTS),,,12 - 31,19,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,146,2,1,1,9:04 PM,0:15,,,MISS Okeke 24' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,147,4,0,1,9:04 PM,0:12,,,Bamba REBOUND (Off:1 Def:0),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,148,1,1,1,9:04 PM,0:10,,,Okeke 24' 3PT Jump Shot (7 PTS) (Bamba 1 AST),15 - 31,16,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,151,6,2,1,9:05 PM,0:02,,,Bamba S.FOUL (P1.PN) (S.Twardoski),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,153,3,11,1,9:05 PM,0:02,Wood Free Throw 1 of 2 (5 PTS),,,15 - 32,17,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,154,3,12,1,9:06 PM,0:02,Wood Free Throw 2 of 2 (6 PTS),,,15 - 33,18,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,155,13,0,1,9:06 PM,0:00,,End of 1st Period (9:06 PM EST),,15 - 33,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200035,160,12,0,2,9:09 PM,12:00,,Start of 2nd Period (9:09 PM EST),,15 - 33,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,161,2,80,2,9:09 PM,11:40,,,MISS Bamba 19' Step Back Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,162,4,0,2,9:09 PM,11:35,Green REBOUND (Off:0 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,163,1,1,2,9:09 PM,11:28,Wood 3PT Jump Shot (9 PTS) (Green 1 AST),,,15 - 36,21,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,165,1,101,2,9:10 PM,11:03,,,Hampton 8' Driving Floating Jump Shot (2 PTS),17 - 36,19,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,166,5,1,2,9:10 PM,10:51,Dinwiddie Bad Pass Turnover (P1.T2),,Bamba STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,168,2,2,2,9:10 PM,10:45,,,MISS Hampton 6' Running Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,169,4,0,2,9:10 PM,10:42,,,Bamba REBOUND (Off:2 Def:0),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,170,6,2,2,9:10 PM,10:38,Kleber S.FOUL (P1.T1) (J.Reneau),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,172,3,11,2,9:11 PM,10:38,,,Anthony Free Throw 1 of 2 (3 PTS),18 - 36,18,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,173,3,12,2,9:11 PM,10:38,,,Anthony Free Throw 2 of 2 (4 PTS),19 - 36,17,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,174,1,5,2,9:11 PM,10:25,Wood 2' Layup (11 PTS) (Hardaway Jr. 1 AST),,,19 - 38,19,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,176,6,2,2,9:12 PM,10:00,Kleber S.FOUL (P2.T2) (S.Twardoski),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,178,3,11,2,9:12 PM,10:00,,,Bol Free Throw 1 of 2 (1 PTS),20 - 38,18,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,179,3,12,2,9:12 PM,10:00,,,MISS Bol Free Throw 2 of 2,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,180,4,0,2,9:12 PM,9:57,Wood REBOUND (Off:0 Def:1),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,181,1,1,2,9:13 PM,9:46,Kleber 3PT Jump Shot (5 PTS) (Dinwiddie 3 AST),,,20 - 41,21,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,183,2,1,2,9:13 PM,9:32,,,MISS Anthony 25' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,184,4,0,2,9:13 PM,9:31,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,186,2,1,2,9:13 PM,9:17,MISS Hardaway Jr. 26' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,187,4,0,2,9:13 PM,9:14,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,189,2,1,2,9:14 PM,9:07,MISS Hardaway Jr. 27' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,190,4,0,2,9:14 PM,9:05,,,Anthony REBOUND (Off:0 Def:2),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,191,2,1,2,9:14 PM,8:56,,,MISS Houstan 25' 3PT Jump Shot,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,192,4,0,2,9:14 PM,8:54,Hardaway Jr. REBOUND (Off:0 Def:3),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,193,5,1,2,9:14 PM,8:46,Hardaway Jr. Bad Pass Turnover (P1.T3),,Bol STEAL (1 STL),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,195,1,1,2,9:14 PM,8:33,,,Bamba 3PT Jump Shot (5 PTS) (Hampton 2 AST),23 - 41,18,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,197,1,80,2,9:14 PM,8:22,Wood 25' 3PT Step Back Jump Shot (14 PTS),,,23 - 44,21,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,198,1,1,2,9:15 PM,7:58,,,Bamba 24' 3PT Jump Shot (8 PTS) (Hampton 3 AST),26 - 44,18,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,200,2,1,2,9:15 PM,7:46,MISS Hardaway Jr. 28' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,201,4,0,2,9:15 PM,7:44,,,Bamba REBOUND (Off:2 Def:1),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,202,6,1,2,9:15 PM,7:44,Green P.FOUL (P1.T3) (J.Reneau),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,204,8,0,2,9:15 PM,7:44,SUB: McGee FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,205,8,0,2,9:15 PM,7:44,SUB: Bullock FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,208,2,102,2,9:16 PM,7:32,,,MISS Anthony 5' Driving Floating Bank Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,209,4,0,2,9:16 PM,7:30,,,Bamba REBOUND (Off:3 Def:1),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,210,1,97,2,9:16 PM,7:29,,,Bamba 1' Tip Layup Shot (10 PTS),28 - 44,16,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,211,2,75,2,9:16 PM,7:21,MISS Green 5' Driving Finger Roll Layup,,Bamba BLOCK (1 BLK),,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012200035,213,4,0,2,9:16 PM,7:21,,,Hampton REBOUND (Off:0 Def:1),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,214,1,41,2,9:16 PM,7:15,,,Hampton 3' Running Layup (4 PTS),30 - 44,14,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,215,7,2,2,9:16 PM,7:15,McGee Violation:Defensive Goaltending (J.Reneau),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012200035,216,6,1,2,9:17 PM,7:02,,,Bamba P.FOUL (P2.T1) (S.Wright),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,218,8,0,2,9:17 PM,7:02,SUB: Finney-Smith FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,220,2,1,2,9:17 PM,6:53,MISS Finney-Smith 3PT Jump Shot,,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,221,4,0,2,9:17 PM,6:51,,,Bamba REBOUND (Off:3 Def:2),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,223,5,2,2,9:17 PM,6:51,Green STEAL (1 STL),,Bamba Lost Ball Turnover (P1.T6),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,225,6,2,2,9:18 PM,6:36,,,Houstan S.FOUL (P2.T2) (S.Wright),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,227,9,1,2,9:18 PM,6:36,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,228,8,0,2,9:20 PM,6:36,,,SUB: Ross FOR Houstan,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,229,8,0,2,9:20 PM,6:36,,,SUB: Banchero FOR Bol,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,230,8,0,2,9:20 PM,6:36,,,SUB: K. Harris FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,231,8,0,2,9:20 PM,6:36,,,SUB: Carter Jr. FOR Hampton,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,236,3,11,2,9:21 PM,6:36,MISS McGee Free Throw 1 of 2,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,237,4,1,2,9:21 PM,6:36,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,238,3,12,2,9:21 PM,6:36,MISS McGee Free Throw 2 of 2,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,239,4,0,2,9:21 PM,6:33,,,Carter Jr. REBOUND (Off:1 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,240,6,1,2,9:21 PM,6:26,McGee P.FOUL (P1.T4) (S.Twardoski),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,242,1,1,2,9:22 PM,6:23,,,Carter Jr. 25' 3PT Jump Shot (3 PTS) (Anthony 2 AST),33 - 44,11,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,244,2,80,2,9:22 PM,6:04,MISS Dinwiddie 25' 3PT Step Back Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,245,4,0,2,9:22 PM,6:02,Green REBOUND (Off:1 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,246,5,1,2,9:22 PM,5:59,Green Bad Pass Turnover (P1.T4),,Ross STEAL (1 STL),,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,248,6,1,2,9:22 PM,5:48,Dinwiddie P.FOUL (P2.PN) (S.Wright),,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,250,3,11,2,9:23 PM,5:48,,,Carter Jr. Free Throw 1 of 2 (4 PTS),34 - 44,10,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,251,8,0,2,9:23 PM,5:48,SUB: Doncic FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,253,3,12,2,9:23 PM,5:48,,,Carter Jr. Free Throw 2 of 2 (5 PTS),35 - 44,9,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,254,2,79,2,9:24 PM,5:30,MISS Green 19' Pullup Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,255,4,0,2,9:24 PM,5:28,,,Carter Jr. REBOUND (Off:1 Def:4),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,256,6,1,2,9:24 PM,5:20,McGee P.FOUL (P2.PN) (S.Twardoski),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,258,3,11,2,9:24 PM,5:20,,,Banchero Free Throw 1 of 2 (5 PTS),36 - 44,8,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,261,3,12,2,9:24 PM,5:20,,,MISS Banchero Free Throw 2 of 2,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200035,259,8,0,2,9:24 PM,5:20,SUB: Hardaway Jr. FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,262,4,0,2,9:24 PM,5:17,McGee REBOUND (Off:0 Def:4),,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0012200035,263,1,98,2,9:25 PM,5:08,Bullock 2' Cutting Layup Shot (5 PTS) (Doncic 5 AST),,,36 - 46,10,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,265,7,1,2,9:25 PM,5:08,MAVERICKS Violation: Delay of game Violation,,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200035,266,1,1,2,9:25 PM,4:56,,,Banchero 26' 3PT Jump Shot (8 PTS) (Anthony 3 AST),39 - 46,7,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,268,1,9,2,9:25 PM,4:43,McGee 1' Driving Dunk (4 PTS),,,39 - 48,9,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,270,2,105,2,9:26 PM,4:32,,,MISS Anthony 9' Turnaround Fadeaway Bank Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200035,271,4,0,2,9:26 PM,4:32,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,274,6,18,2,9:26 PM,4:31,MAVERICKS Delay,,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200035,275,3,16,2,9:26 PM,4:31,,,Anthony Free Throw Technical (5 PTS),40 - 48,8,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,276,6,2,2,9:27 PM,4:18,Finney-Smith S.FOUL (P1.PN) (S.Twardoski),,,,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,278,3,11,2,9:27 PM,4:18,,,Anthony Free Throw 1 of 2 (6 PTS),41 - 48,7,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,279,3,12,2,9:27 PM,4:18,,,Anthony Free Throw 2 of 2 (7 PTS),42 - 48,6,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200035,280,2,47,2,9:28 PM,4:01,MISS McGee 5' Turnaround Jump Shot,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,281,4,0,2,9:28 PM,3:59,,,Carter Jr. REBOUND (Off:1 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,282,1,71,2,9:28 PM,3:49,,,Banchero 5' Finger Roll Layup (10 PTS),44 - 48,4,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,283,2,79,2,9:28 PM,3:28,MISS Bullock 28' 3PT Pullup Jump Shot,,,,,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,284,4,0,2,9:28 PM,3:26,,,Carter Jr. REBOUND (Off:1 Def:6),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,285,6,2,2,9:28 PM,3:18,Bullock S.FOUL (P1.PN) (J.Reneau),,,,,4,203493,Reggie Bullock,1610612742.0,Dallas,Mavericks,DAL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,287,3,11,2,9:29 PM,3:18,,,Ross Free Throw 1 of 2 (1 PTS),45 - 48,3,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,288,8,0,2,9:29 PM,3:18,SUB: Kleber FOR McGee,,,,,4,201580,JaVale McGee,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,290,3,12,2,9:29 PM,3:18,,,Ross Free Throw 2 of 2 (2 PTS),46 - 48,2,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,291,5,2,2,9:30 PM,3:01,Doncic Lost Ball Turnover (P2.T5),,Anthony STEAL (1 STL),,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,293,1,2,2,9:30 PM,2:57,,,Ross 9' Running Jump Shot (4 PTS) (Anthony 4 AST),48 - 48,TIE,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,295,1,79,2,9:30 PM,2:42,Hardaway Jr. 26' 3PT Pullup Jump Shot (6 PTS),,,48 - 51,3,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,296,2,1,2,9:30 PM,2:17,,,MISS Carter Jr. 15' Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,297,4,0,2,9:30 PM,2:15,Hardaway Jr. REBOUND (Off:0 Def:4),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,298,6,2,2,9:30 PM,2:09,,,Anthony S.FOUL (P1.T3) (J.Reneau),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,300,9,1,2,9:31 PM,2:09,,,Magic Timeout: Regular (Reg.2 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,301,3,11,2,9:34 PM,2:09,Hardaway Jr. Free Throw 1 of 2 (7 PTS),,,48 - 52,4,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,302,3,12,2,9:34 PM,2:09,Hardaway Jr. Free Throw 2 of 2 (8 PTS),,,48 - 53,5,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,303,6,2,2,9:34 PM,1:50,Kleber S.FOUL (P3.PN) (J.Reneau),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,305,3,11,2,9:35 PM,1:50,,,Banchero Free Throw 1 of 2 (11 PTS),49 - 53,4,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,306,3,12,2,9:35 PM,1:50,,,Banchero Free Throw 2 of 2 (12 PTS),50 - 53,3,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200035,307,6,1,2,9:35 PM,1:41,,,K. Harris P.FOUL (P1.T4) (S.Wright),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,309,6,1,2,9:36 PM,1:38,,,K. Harris P.FOUL (P2.PN) (S.Twardoski),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,311,3,11,2,9:36 PM,1:38,Doncic Free Throw 1 of 2 (13 PTS),,,50 - 54,4,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,312,3,12,2,9:36 PM,1:38,MISS Doncic Free Throw 2 of 2,,,,,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,313,4,0,2,9:36 PM,1:36,,,Carter Jr. REBOUND (Off:1 Def:7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,314,1,79,2,9:37 PM,1:20,,,Ross 15' Pullup Jump Shot (6 PTS) (Anthony 5 AST),52 - 54,2,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,316,1,1,2,9:37 PM,1:07,Finney-Smith 3PT Jump Shot (8 PTS) (Kleber 1 AST),,,52 - 57,5,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,318,1,1,2,9:37 PM,0:51,,,Ross 25' 3PT Jump Shot (9 PTS) (Carter Jr. 2 AST),55 - 57,2,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,320,1,1,2,9:38 PM,0:33,Doncic 30' 3PT Jump Shot (16 PTS) (Hardaway Jr. 2 AST),,,55 - 60,5,4,1629029,Luka Doncic,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,322,5,2,2,9:38 PM,0:08,Finney-Smith STEAL (1 STL),,K. Harris Lost Ball Turnover (P1.T7),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,324,5,1,2,9:38 PM,0:05,Finney-Smith Bad Pass Turnover (P1.T6),,Banchero STEAL (1 STL),,,4,1627827,Dorian Finney-Smith,1610612742.0,Dallas,Mavericks,DAL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,326,2,1,2,9:38 PM,0:01,,,MISS Carter Jr. 24' 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,327,4,0,2,9:38 PM,0:01,,,K. Harris REBOUND (Off:1 Def:0),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,328,13,0,2,9:38 PM,0:00,,End of 2nd Period (9:38 PM EST),,55 - 60,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200035,341,12,0,3,9:54 PM,12:00,,Start of 3rd Period (9:54 PM EST),,55 - 60,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,342,1,1,3,9:54 PM,11:46,,,Ross 3PT Jump Shot (12 PTS) (Carter Jr. 3 AST),58 - 60,2,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,344,2,79,3,9:54 PM,11:26,MISS Hardy 18' Pullup Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,345,4,0,3,9:54 PM,11:23,,,Anthony REBOUND (Off:0 Def:3),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,346,1,80,3,9:55 PM,11:11,,,Banchero 20' Step Back Jump Shot (14 PTS),60 - 60,TIE,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,347,2,93,3,9:55 PM,10:58,MISS Dinwiddie 7' Driving Bank Hook Shot,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,348,4,0,3,9:55 PM,10:56,Powell REBOUND (Off:1 Def:0),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,349,1,1,3,9:55 PM,10:53,Hardy 25' 3PT Jump Shot (3 PTS) (Wood 1 AST),,,60 - 63,3,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,351,1,101,3,9:55 PM,10:35,,,Anthony 10' Driving Floating Jump Shot (9 PTS) (Carter Jr. 4 AST),62 - 63,1,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,353,2,63,3,9:56 PM,10:08,MISS Hardy 19' Fadeaway Jumper,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,354,4,0,3,9:56 PM,10:07,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,355,5,11,3,9:56 PM,10:07,MAVERICKS Turnover: Shot Clock (T#7),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200035,356,2,79,3,9:56 PM,9:57,,,MISS Ross 11' Pullup Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,357,4,0,3,9:56 PM,9:55,Wood REBOUND (Off:0 Def:2),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,358,2,1,3,9:56 PM,9:45,MISS Green 3PT Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,359,4,0,3,9:56 PM,9:45,,,Anthony REBOUND (Off:0 Def:4),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,360,2,1,3,9:57 PM,9:29,,,MISS Ross 25' 3PT Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,361,4,0,3,9:57 PM,9:27,Powell REBOUND (Off:1 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,362,1,2,3,9:57 PM,9:22,Wood 25' 3PT Running Jump Shot (17 PTS) (Dinwiddie 4 AST),,,62 - 66,4,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,364,1,79,3,9:57 PM,9:06,,,Banchero 26' 3PT Pullup Jump Shot (17 PTS),65 - 66,1,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,365,1,86,3,9:57 PM,8:51,Wood 11' Turnaround Fadeaway (19 PTS),,,65 - 68,3,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,366,1,101,3,9:57 PM,8:39,,,Anthony 11' Driving Floating Jump Shot (11 PTS),67 - 68,1,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,367,6,2,3,9:57 PM,8:39,Hardy S.FOUL (P2.T1) (J.Reneau),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,369,3,10,3,9:58 PM,8:39,,,Anthony Free Throw 1 of 1 (12 PTS),68 - 68,TIE,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,370,6,1,3,9:58 PM,8:23,,,Okeke P.FOUL (P2.T1) (S.Wright),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,372,6,2,3,9:59 PM,8:17,,,Okeke S.FOUL (P3.T2) (J.Reneau),,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,374,3,11,3,9:59 PM,8:17,Dinwiddie Free Throw 1 of 2 (1 PTS),,,68 - 69,1,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,375,3,12,3,9:59 PM,8:17,Dinwiddie Free Throw 2 of 2 (2 PTS),,,68 - 70,2,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,376,2,79,3,9:59 PM,8:06,,,MISS Banchero 20' Pullup Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,377,4,0,3,9:59 PM,8:03,Hardy REBOUND (Off:0 Def:2),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,378,2,101,3,10:00 PM,7:55,MISS Hardy 6' Driving Floating Jump Shot,,Ross BLOCK (1 BLK),,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1
+0012200035,380,4,0,3,10:00 PM,7:53,,,Ross REBOUND (Off:0 Def:4),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,381,6,2,3,10:00 PM,7:51,Wood S.FOUL (P1.T2) (J.Reneau),,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,383,3,11,3,10:00 PM,7:51,,,Banchero Free Throw 1 of 2 (18 PTS),69 - 70,1,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200035,384,3,12,3,10:00 PM,7:51,,,Banchero Free Throw 2 of 2 (19 PTS),70 - 70,TIE,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,385,1,75,3,10:01 PM,7:32,Dinwiddie 9' Driving Finger Roll Layup (4 PTS),,,70 - 72,2,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,386,2,1,3,10:01 PM,7:19,,,MISS Banchero 25' 3PT Jump Shot,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,387,4,0,3,10:01 PM,7:16,Powell REBOUND (Off:1 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,388,1,106,3,10:01 PM,7:12,Green Running Alley Oop Dunk Shot (2 PTS) (Hardy 1 AST),,,70 - 74,4,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,390,9,1,3,10:01 PM,7:12,,,Magic Timeout: Regular (Reg.3 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,391,1,44,3,10:05 PM,6:57,,,Ross 2' Reverse Layup (14 PTS) (Carter Jr. 5 AST),72 - 74,2,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,393,5,2,3,10:05 PM,6:48,Green Lost Ball Turnover (P2.T8),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,395,7,5,3,10:05 PM,6:46,Green Violation:Kicked Ball (J.Reneau),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0012200035,396,2,1,3,10:05 PM,6:35,,,MISS Okeke 26' 3PT Jump Shot,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,397,4,0,3,10:05 PM,6:32,Green REBOUND (Off:1 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,398,2,2,3,10:06 PM,6:28,MISS Hardy 24' 3PT Running Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,399,4,0,3,10:06 PM,6:28,,,Banchero REBOUND (Off:0 Def:3),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,400,2,41,3,10:06 PM,6:20,Dinwiddie BLOCK (1 BLK),,MISS Banchero 6' Running Layup,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,1
+0012200035,402,4,0,3,10:06 PM,6:18,,,Banchero REBOUND (Off:1 Def:3),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,403,5,1,3,10:06 PM,6:13,Dinwiddie STEAL (1 STL),,Banchero Bad Pass Turnover (P2.T8),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,405,2,2,3,10:06 PM,6:07,MISS Wood 25' 3PT Running Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,406,4,0,3,10:06 PM,6:05,,,Ross REBOUND (Off:0 Def:5),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,407,6,1,3,10:06 PM,5:59,Hardy P.FOUL (P3.T3) (J.Reneau),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,409,8,0,3,10:06 PM,5:59,SUB: Ntilikina FOR Hardy,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,410,8,0,3,10:06 PM,5:59,,,SUB: M. Wagner FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,413,2,6,3,10:07 PM,5:44,,,MISS Banchero 3' Driving Layup,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,414,4,0,3,10:07 PM,5:44,,,Banchero REBOUND (Off:2 Def:3),,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,415,18,1,3,10:07 PM,5:44,,Instant Replay3rd Period (10:07 PM EST),,72 - 74,2,0,419,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200035,419,5,11,3,10:09 PM,5:44,,,Magic Turnover: Shot Clock (T#9),,,3,1610612753,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200035,420,8,0,3,10:09 PM,5:43,,,SUB: Hampton FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,422,1,79,3,10:10 PM,5:27,Wood 8' Pullup Jump Shot (21 PTS),,,72 - 76,4,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,423,7,5,3,10:10 PM,5:14,Green Violation:Kicked Ball (J.Reneau),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0012200035,424,8,0,3,10:10 PM,5:14,SUB: Pinson FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,425,8,0,3,10:10 PM,5:14,SUB: Wright IV FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612742.0,Dallas,Mavericks,DAL,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,426,8,0,3,10:10 PM,5:14,,,SUB: Bamba FOR Banchero,,,5,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,430,2,1,3,10:10 PM,4:58,,,MISS Hampton 25' 3PT Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,431,4,0,3,10:11 PM,4:55,Wright IV REBOUND (Off:0 Def:1),,,,,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,432,2,41,3,10:11 PM,4:50,MISS Ntilikina 5' Running Layup,,Bamba BLOCK (2 BLK),,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012200035,434,4,0,3,10:11 PM,4:48,,,Bamba REBOUND (Off:3 Def:3),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,435,1,79,3,10:11 PM,4:36,,,Ross 21' Pullup Jump Shot (16 PTS),74 - 76,2,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,436,1,1,3,10:11 PM,4:15,Wood 17' Jump Shot (23 PTS) (Pinson 1 AST),,,74 - 78,4,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,438,6,4,3,10:12 PM,3:58,,,M. Wagner OFF.Foul (P1) (J.Reneau),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,440,5,37,3,10:12 PM,3:58,,,M. Wagner Offensive Foul Turnover (P1.T10),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,441,8,0,3,10:12 PM,3:58,SUB: Dorsey FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,442,8,0,3,10:12 PM,3:58,,,SUB: Houstan FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,445,5,1,3,10:12 PM,3:35,Wood Bad Pass Turnover (P1.T9),,M. Wagner STEAL (1 STL),,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,447,2,1,3,10:12 PM,3:24,,,MISS Houstan 3PT Jump Shot,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,448,4,0,3,10:12 PM,3:22,Dorsey REBOUND (Off:0 Def:1),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,449,2,1,3,10:13 PM,3:13,MISS Wood 3PT Jump Shot,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,450,4,0,3,10:13 PM,3:11,,,Hampton REBOUND (Off:0 Def:2),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,451,2,1,3,10:13 PM,3:04,,,MISS M. Wagner 25' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,452,4,0,3,10:13 PM,3:01,Dorsey REBOUND (Off:0 Def:2),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,453,1,1,3,10:13 PM,2:46,Dorsey 24' 3PT Jump Shot (3 PTS) (Pinson 2 AST),,,74 - 81,7,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,455,1,6,3,10:13 PM,2:29,,,M. Wagner 2' Driving Layup (2 PTS),76 - 81,5,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,456,6,2,3,10:13 PM,2:29,Pinson S.FOUL (P1.T4) (J.Reneau),,,,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,459,9,1,3,10:14 PM,2:29,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,460,8,0,3,10:16 PM,2:29,SUB: Powell FOR Wood,,,,,4,1626174,Christian Wood,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,461,8,0,3,10:16 PM,2:29,,,SUB: K. Harris FOR Okeke,,,5,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,464,3,10,3,10:17 PM,2:29,,,M. Wagner Free Throw 1 of 1 (3 PTS),77 - 81,4,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,465,1,79,3,10:17 PM,2:11,Ntilikina 17' Pullup Jump Shot (2 PTS) (Pinson 3 AST),,,77 - 83,6,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,467,1,79,3,10:17 PM,1:51,,,Houstan 18' Pullup Jump Shot (2 PTS) (Hampton 4 AST),79 - 83,4,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,469,6,17,3,10:18 PM,1:34,,,Magic T.Foul (Def. 3 Sec K. Harris ) (S.Twardoski),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,470,3,16,3,10:18 PM,1:34,Pinson Free Throw Technical (1 PTS),,,79 - 84,5,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,471,2,80,3,10:18 PM,1:24,MISS Ntilikina 25' 3PT Step Back Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,472,4,0,3,10:18 PM,1:23,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,474,6,1,3,10:19 PM,1:06,Dorsey P.FOUL (P1.PN) (S.Wright),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,476,3,11,3,10:20 PM,1:06,,,Hampton Free Throw 1 of 2 (5 PTS),80 - 84,4,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,477,3,12,3,10:20 PM,1:06,,,Hampton Free Throw 2 of 2 (6 PTS),81 - 84,3,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,478,2,1,3,10:20 PM,0:52,MISS Ntilikina 3PT Jump Shot,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,479,4,0,3,10:20 PM,0:51,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,481,2,1,3,10:20 PM,0:34,,,MISS M. Wagner 25' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,482,4,0,3,10:21 PM,0:31,Powell REBOUND (Off:1 Def:3),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,483,2,1,3,10:21 PM,0:23,MISS Dorsey 3PT Jump Shot,,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,484,4,0,3,10:21 PM,0:21,,,Houstan REBOUND (Off:0 Def:1),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,485,1,79,3,10:21 PM,0:00,,,Hampton 5' Pullup Jump Shot (8 PTS),83 - 84,1,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,486,18,0,3,10:21 PM,0:00,,Instant Replay3rd Period (10:21 PM EST),,83 - 84,1,0,485,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200035,487,13,0,3,10:22 PM,0:00,,End of 3rd Period (10:22 PM EST),,83 - 84,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200035,488,12,0,4,10:24 PM,12:00,,Start of 4th Period (10:24 PM EST),,83 - 84,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,489,2,1,4,10:24 PM,11:44,MISS Wright IV 26' 3PT Jump Shot,,,,,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,490,4,0,4,10:24 PM,11:41,,,Hampton REBOUND (Off:0 Def:3),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,491,2,98,4,10:24 PM,11:31,,,MISS M. Wagner 5' Cutting Layup Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,492,4,0,4,10:24 PM,11:29,,,K. Harris REBOUND (Off:2 Def:0),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,493,2,72,4,10:24 PM,11:27,,,MISS K. Harris 2' Putback Layup,,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,494,4,0,4,10:24 PM,11:27,,,K. Harris REBOUND (Off:3 Def:0),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,495,6,1,4,10:24 PM,11:27,Pinson P.FOUL (P2.T1) (S.Twardoski),,,,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,497,1,1,4,10:25 PM,11:19,,,Bamba 25' 3PT Jump Shot (13 PTS) (Houstan 1 AST),86 - 84,-2,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,499,5,4,4,10:25 PM,10:54,Ntilikina Traveling Turnover (P1.T10),,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012200035,500,6,4,4,10:26 PM,10:43,,,M. Wagner OFF.Foul (P2) (S.Twardoski),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,502,5,37,4,10:26 PM,10:43,,,M. Wagner Offensive Foul Turnover (P2.T11),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,503,2,1,4,10:26 PM,10:29,MISS Dorsey 25' 3PT Jump Shot,,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,504,4,0,4,10:26 PM,10:27,,,K. Harris REBOUND (Off:3 Def:1),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,505,2,103,4,10:26 PM,10:24,,,MISS K. Harris 25' 3PT Running Pull-Up Jump Shot,,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,506,4,0,4,10:26 PM,10:24,Dorsey REBOUND (Off:0 Def:3),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,507,6,1,4,10:26 PM,10:21,,,K. Harris P.FOUL (P3.T1) (S.Twardoski),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,509,8,0,4,10:27 PM,10:21,SUB: Hall FOR Wright IV,,,,,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,510,8,0,4,10:27 PM,10:21,,,SUB: Bol FOR M. Wagner,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,513,2,1,4,10:27 PM,10:09,MISS Hall 25' 3PT Jump Shot,,,,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,514,4,0,4,10:27 PM,10:06,,,Bol REBOUND (Off:1 Def:4),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,515,2,80,4,10:27 PM,9:56,,,MISS Hampton 25' 3PT Step Back Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,516,4,0,4,10:27 PM,9:52,Pinson REBOUND (Off:0 Def:1),,,,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,517,2,74,4,10:27 PM,9:47,MISS Dorsey 1' Running Reverse Layup,,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,518,4,0,4,10:27 PM,9:46,,,Bamba REBOUND (Off:3 Def:4),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,520,6,1,4,10:28 PM,9:34,Dorsey P.FOUL (P2.T2) (S.Wright),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,522,8,0,4,10:28 PM,9:34,,,SUB: Ford FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,524,5,1,4,10:28 PM,9:31,Pinson STEAL (1 STL),,K. Harris Bad Pass Turnover (P2.T12),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,526,5,1,4,10:28 PM,9:26,Ntilikina Bad Pass Turnover (P2.T11),,Hampton STEAL (2 STL),,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,528,6,26,4,10:28 PM,9:23,,,Houstan Offensive Charge Foul (P3) (J.Reneau),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,530,5,37,4,10:28 PM,9:23,,,Houstan Offensive Foul Turnover (P2.T13),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,531,9,1,4,10:29 PM,9:23,,,Magic Timeout: Regular (Reg.4 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,532,18,6,4,10:29 PM,9:23,,Instant Replay4th Period (10:29 PM EST),,86 - 84,-2,0,528,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200035,533,2,3,4,10:32 PM,9:07,MISS Powell 5' Hook Shot,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,534,4,0,4,10:32 PM,9:05,,,K. Harris REBOUND (Off:3 Def:2),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,535,2,1,4,10:32 PM,8:45,,,MISS Ford 3PT Jump Shot,,,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,536,4,0,4,10:32 PM,8:43,,,Ford REBOUND (Off:1 Def:0),,,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,537,5,11,4,10:32 PM,8:43,,,Magic Turnover: Shot Clock (T#14),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200035,538,8,0,4,10:32 PM,8:43,SUB: Gueye FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1631338,Mouhamadou Gueye,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,540,2,1,4,10:33 PM,8:30,MISS Pinson 24' 3PT Jump Shot,,,,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,541,4,0,4,10:33 PM,8:25,,,Houstan REBOUND (Off:0 Def:2),,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,542,1,108,4,10:33 PM,8:19,,,K. Harris 2' Cutting Dunk Shot (2 PTS) (Bol 1 AST),88 - 84,-4,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,544,1,1,4,10:33 PM,8:04,Ntilikina 25' 3PT Jump Shot (5 PTS) (Hall 1 AST),,,88 - 87,-1,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,546,2,6,4,10:34 PM,7:47,Pinson BLOCK (1 BLK),,MISS Hampton 5' Driving Layup,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,1
+0012200035,548,4,0,4,10:34 PM,7:44,Hall REBOUND (Off:0 Def:1),,,,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,549,5,1,4,10:34 PM,7:40,Pinson Bad Pass Turnover (P1.T12),,Bol STEAL (2 STL),,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,551,2,103,4,10:34 PM,7:35,Gueye BLOCK (1 BLK),,MISS Bol 8' Running Pull-Up Jump Shot,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1631338,Mouhamadou Gueye,1610612742.0,Dallas,Mavericks,DAL,1
+0012200035,553,4,0,4,10:34 PM,7:33,,,Bol REBOUND (Off:2 Def:4),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,554,1,72,4,10:34 PM,7:32,,,Bol 1' Putback Layup (3 PTS),90 - 87,-3,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,555,2,75,4,10:34 PM,7:16,MISS Dorsey 4' Driving Finger Roll Layup,,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,556,4,0,4,10:34 PM,7:13,,,Bol REBOUND (Off:2 Def:5),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,557,1,103,4,10:34 PM,7:10,,,Bol 20' Running Pull-Up Jump Shot (5 PTS),92 - 87,-5,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,558,6,2,4,10:34 PM,6:57,,,Bol S.FOUL (P2.T2) (S.Wright),,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,560,3,11,4,10:35 PM,6:57,Ntilikina Free Throw 1 of 2 (6 PTS),,,92 - 88,-4,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,561,8,0,4,10:35 PM,6:57,SUB: Wright IV FOR Dorsey,,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,562,8,0,4,10:35 PM,6:57,,,SUB: Cannady FOR Houstan,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,563,8,0,4,10:35 PM,6:57,,,SUB: Simpson FOR Hampton,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,567,3,12,4,10:35 PM,6:57,Ntilikina Free Throw 2 of 2 (7 PTS),,,92 - 89,-3,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,568,6,17,4,10:36 PM,6:42,MAVERICKS T.Foul (Def. 3 Sec Gueye ) (S.Wright),,,,,4,1631338,Mouhamadou Gueye,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012200035,569,8,0,4,10:36 PM,6:42,SUB: Hardy FOR Ntilikina,,,,,4,1628373,Frank Ntilikina,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,571,3,16,4,10:36 PM,6:42,,,Cannady Free Throw Technical (1 PTS),93 - 89,-4,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,572,5,6,4,10:36 PM,6:34,,,Simpson Double Dribble Turnover (P1.T15),,,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,573,2,80,4,10:37 PM,6:13,MISS Hardy 14' Step Back Jump Shot,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,574,4,0,4,10:37 PM,6:11,,,K. Harris REBOUND (Off:3 Def:3),,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,575,1,6,4,10:37 PM,6:01,,,K. Harris 1' Driving Layup (4 PTS),95 - 89,-6,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,576,5,2,4,10:37 PM,5:42,Hall Lost Ball Turnover (P1.T13),,K. Harris STEAL (1 STL),,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,578,6,1,4,10:38 PM,5:42,Hall P.FOUL (P1.T3) (J.Reneau),,,,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,580,8,0,4,10:38 PM,5:42,SUB: Dorsey FOR Pinson,,,,,4,1629033,Theo Pinson,1610612742.0,Dallas,Mavericks,DAL,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012200035,582,1,6,4,10:38 PM,5:28,,,Bol 4' Driving Layup (7 PTS),97 - 89,-8,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,583,2,1,4,10:38 PM,5:06,MISS Hall 24' 3PT Jump Shot,,,,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,584,4,0,4,10:38 PM,5:04,,,Cannady REBOUND (Off:0 Def:1),,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,585,6,1,4,10:39 PM,4:57,Hardy P.FOUL (P4.T4) (S.Wright),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,587,2,79,4,10:39 PM,4:41,,,MISS K. Harris 25' 3PT Pullup Jump Shot,,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,588,4,0,4,10:39 PM,4:38,Wright IV REBOUND (Off:0 Def:2),,,,,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,589,2,1,4,10:39 PM,4:29,MISS Hall 3PT Jump Shot,,,,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,590,4,0,4,10:39 PM,4:27,,,Simpson REBOUND (Off:0 Def:1),,,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,591,6,4,4,10:39 PM,4:20,,,Simpson OFF.Foul (P1) (S.Wright),,,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,593,5,37,4,10:39 PM,4:20,,,Simpson Offensive Foul Turnover (P2.T16),,,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,594,8,0,4,10:40 PM,4:20,,,SUB: Houstan FOR Bol,,,5,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,596,5,45,4,10:40 PM,4:05,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012200035,597,5,13,4,10:40 PM,3:54,,,Ford Backcourt Turnover (P1.T17),,,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,598,1,6,4,10:41 PM,3:45,Hardy 2' Driving Layup (5 PTS) (Wright IV 1 AST),,,97 - 91,-6,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,600,1,1,4,10:41 PM,3:28,,,Houstan 3PT Jump Shot (5 PTS) (Simpson 1 AST),100 - 91,-9,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,602,2,79,4,10:41 PM,3:19,MISS Dorsey 16' Pullup Jump Shot,,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,603,4,0,4,10:41 PM,3:15,,,Cannady REBOUND (Off:0 Def:2),,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,604,1,108,4,10:41 PM,3:08,,,K. Harris 1' Cutting Dunk Shot (6 PTS) (Simpson 2 AST),102 - 91,-11,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,606,1,1,4,10:42 PM,2:56,Hall 3PT Jump Shot (3 PTS) (Wright IV 2 AST),,,102 - 94,-8,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,608,9,1,4,10:42 PM,2:49,,,Magic Timeout: Regular (Reg.5 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,609,8,0,4,10:42 PM,2:49,,,SUB: M. Wagner FOR K. Harris,,,5,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200035,611,1,1,4,10:45 PM,2:44,,,Simpson 3PT Jump Shot (3 PTS) (Cannady 1 AST),105 - 94,-11,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,613,6,1,4,10:45 PM,2:32,,,Cannady P.FOUL (P1.T3) (J.Reneau),,,5,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,615,2,1,4,10:45 PM,2:28,MISS Hall 3PT Jump Shot,,,,,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,616,4,0,4,10:45 PM,2:26,Dorsey REBOUND (Off:1 Def:3),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,617,2,79,4,10:45 PM,2:16,MISS Wright IV 20' Pullup Jump Shot,,,,,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,618,4,0,4,10:45 PM,2:14,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200035,620,2,1,4,10:46 PM,2:04,Gueye BLOCK (2 BLK),,MISS M. Wagner 25' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1631338,Mouhamadou Gueye,1610612742.0,Dallas,Mavericks,DAL,1
+0012200035,622,4,0,4,10:46 PM,2:04,Hardy REBOUND (Off:0 Def:3),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,623,6,2,4,10:46 PM,1:55,,,M. Wagner S.FOUL (P3.T4) (S.Twardoski),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,625,18,3,4,10:46 PM,1:55,,Instant Replay4th Period (10:46 PM EST),,105 - 94,-11,0,623,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200035,626,3,11,4,10:49 PM,1:55,MISS Hardy Free Throw 1 of 2,,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,627,4,1,4,10:49 PM,1:55,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,628,3,12,4,10:49 PM,1:55,Hardy Free Throw 2 of 2 (6 PTS),,,105 - 95,-10,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,629,2,1,4,10:49 PM,1:43,,,MISS Houstan 3PT Jump Shot,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,630,4,0,4,10:49 PM,1:41,,,Ford REBOUND (Off:2 Def:0),,,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,631,1,107,4,10:49 PM,1:41,,,Ford Tip Dunk Shot (2 PTS),107 - 95,-12,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,632,6,1,4,10:49 PM,1:27,,,Ford P.FOUL (P1.PN) (S.Wright),,,5,1630758,Aleem Ford,1610612753.0,Orlando,Magic,ORL,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,634,3,11,4,10:50 PM,1:27,Dorsey Free Throw 1 of 2 (4 PTS),,,107 - 96,-11,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0012200035,635,3,12,4,10:50 PM,1:27,Dorsey Free Throw 2 of 2 (5 PTS),,,107 - 97,-10,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,636,2,6,4,10:50 PM,1:12,,,MISS M. Wagner 2' Driving Layup,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,637,4,0,4,10:50 PM,1:09,Wright IV REBOUND (Off:0 Def:3),,,,,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,638,1,1,4,10:50 PM,1:02,Hall 3PT Jump Shot (6 PTS) (Gueye 1 AST),,,107 - 100,-7,4,1629788,Tyler Hall,1610612742.0,Dallas,Mavericks,DAL,4,1631338,Mouhamadou Gueye,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,640,6,4,4,10:51 PM,0:58,,,Simpson OFF.Foul (P2) (S.Twardoski),,,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012200035,642,5,37,4,10:51 PM,0:58,,,Simpson Offensive Foul Turnover (P3.T18),,,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200035,643,1,101,4,10:51 PM,0:48,Wright IV 8' Driving Floating Jump Shot (2 PTS) (Hardy 2 AST),,,107 - 102,-5,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,645,1,1,4,10:51 PM,0:29,,,M. Wagner 25' 3PT Jump Shot (6 PTS) (Simpson 3 AST),110 - 102,-8,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630285,Zavier Simpson,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200035,647,1,79,4,10:52 PM,0:20,Dorsey 3PT Pullup Jump Shot (8 PTS) (Wright IV 3 AST),,,110 - 105,-5,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,4,1630593,McKinley Wright IV,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012200035,649,6,28,4,10:52 PM,0:06,Hardy Personal Take Foul (P5.PN) (J.Reneau),,,,,4,1630702,Jaden Hardy,1610612742.0,Dallas,Mavericks,DAL,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200035,651,3,11,4,10:52 PM,0:06,,,MISS Houstan Free Throw 1 of 2,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,652,4,1,4,10:52 PM,0:06,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200035,653,3,12,4,10:52 PM,0:06,,,MISS Houstan Free Throw 2 of 2,,,5,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200035,654,4,0,4,10:52 PM,0:03,Dorsey REBOUND (Off:1 Def:4),,,,,4,1628416,Tyler Dorsey,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012200035,655,13,0,4,10:53 PM,0:00,,End of 4th Period (10:53 PM EST),,110 - 105,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

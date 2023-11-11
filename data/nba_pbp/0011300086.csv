@@ -1,0 +1,505 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300086,0,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,1,10,0,1,8:11 PM,12:00,Jump Ball Gibson vs. Sanders: Tip to Butler,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,2,2,1,1,8:12 PM,11:39,,,MISS Neal 6' Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,3,4,0,1,8:12 PM,11:38,Boozer REBOUND (Off:0 Def:1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,4,1,1,1,8:12 PM,11:30,Deng 24' 3PT Jump Shot (3 PTS) (Boozer 1 AST),,,0 - 3,3,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,5,2,1,1,8:12 PM,11:04,,,MISS Butler 24' 3PT Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,6,4,0,1,8:12 PM,11:03,Rose REBOUND (Off:0 Def:1),,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,7,1,1,1,8:13 PM,10:42,Boozer 16' Jump Shot (2 PTS) (Rose 1 AST),,,0 - 5,5,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,8,1,3,1,8:13 PM,10:24,,,Sanders 5' Hook Shot (2 PTS),2 - 5,3,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,9,2,1,1,8:13 PM,10:08,MISS Boozer 16' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,11,4,0,1,8:13 PM,10:05,Boozer REBOUND (Off:1 Def:1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,10,2,72,1,8:13 PM,10:05,MISS Boozer 1' Putback Layup,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,13,4,0,1,8:13 PM,10:04,Boozer REBOUND (Off:2 Def:1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,12,1,4,1,8:13 PM,10:04,Boozer 2' Tip Shot (4 PTS),,,2 - 7,5,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,14,5,4,1,8:14 PM,9:44,,,Knight Traveling Turnover (P1.T1),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,16,5,40,1,8:14 PM,9:30,Deng Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,17,5,1,1,8:14 PM,9:15,Deng STEAL (1 STL),,Neal Bad Pass Turnover (P1.T2),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,18,1,44,1,8:14 PM,9:10,Rose 1' Reverse Layup (2 PTS) (Deng 1 AST),,,2 - 9,7,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,19,2,1,1,8:15 PM,8:57,,,MISS Middleton 25' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,20,4,0,1,8:15 PM,8:55,Boozer REBOUND (Off:2 Def:2),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,21,1,44,1,8:15 PM,8:46,Gibson 1' Reverse Layup (2 PTS) (Rose 2 AST),,,2 - 11,9,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,22,9,1,1,8:15 PM,8:38,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,23,5,1,1,8:17 PM,8:32,Boozer STEAL (1 STL),,Butler Bad Pass Turnover (P1.T3),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,24,1,8,1,8:18 PM,8:28,Deng 1' Slam Dunk (5 PTS) (Rose 3 AST),,,2 - 13,11,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,25,5,4,1,8:18 PM,8:16,,,Neal Traveling Turnover (P2.T4),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,26,1,85,1,8:18 PM,8:00,Gibson 6' Turnaround Bank Shot (4 PTS) (Boozer 2 AST),,,2 - 15,13,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,27,1,1,1,8:18 PM,7:40,,,Knight 16' Jump Shot (2 PTS),4 - 15,11,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,28,5,40,1,8:19 PM,7:23,Gibson Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,29,2,5,1,8:19 PM,7:16,Boozer BLOCK (1 BLK),,MISS Knight 1' Layup,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0
+0011300086,30,4,0,1,8:19 PM,7:14,Dunleavy REBOUND (Off:0 Def:1),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,31,1,1,1,8:19 PM,7:08,Rose 25' 3PT Jump Shot (5 PTS),,,4 - 18,14,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,32,2,1,1,8:19 PM,6:50,,,MISS Middleton 22' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,33,4,0,1,8:19 PM,6:49,Dunleavy REBOUND (Off:0 Def:2),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,34,2,5,1,8:20 PM,6:38,MISS Gibson 1' Layup,,Butler BLOCK (1 BLK),,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,35,4,0,1,8:20 PM,6:36,,,Sanders REBOUND (Off:0 Def:1),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,36,2,1,1,8:20 PM,6:25,,,MISS Neal 19' Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,37,4,0,1,8:20 PM,6:25,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,38,8,0,1,8:20 PM,6:25,,,SUB: Henson FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,39,1,1,1,8:20 PM,6:09,Boozer 14' Jump Shot (6 PTS) (Dunleavy 1 AST),,,4 - 20,16,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,40,1,1,1,8:20 PM,6:01,,,Henson 4' Jump Shot (2 PTS) (Neal 1 AST),6 - 20,14,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,41,6,2,1,8:20 PM,6:01,Boozer S.FOUL (P1.T1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,42,8,0,1,8:21 PM,6:01,SUB: Mohammed FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,43,3,10,1,8:21 PM,6:01,,,Henson Free Throw 1 of 1 (3 PTS),7 - 20,13,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,45,6,2,1,8:21 PM,5:49,,,Sanders S.FOUL (P1.T1),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,46,3,11,1,8:21 PM,5:49,Rose Free Throw 1 of 2 (6 PTS),,,7 - 21,14,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,48,3,12,1,8:22 PM,5:49,MISS Rose Free Throw 2 of 2,,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,50,4,0,1,8:22 PM,5:47,Mohammed REBOUND (Off:1 Def:0),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,51,2,1,1,8:22 PM,5:37,MISS Boozer 14' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,52,4,0,1,8:22 PM,5:36,,,Henson REBOUND (Off:0 Def:1),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,53,5,1,1,8:22 PM,5:35,Deng STEAL (2 STL),,Henson Bad Pass Turnover (P1.T5),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,54,6,2,1,8:22 PM,5:22,,,Butler S.FOUL (P1.T2),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,55,3,11,1,8:23 PM,5:22,Deng Free Throw 1 of 2 (6 PTS),,,7 - 22,15,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,58,8,0,1,8:23 PM,5:22,,,SUB: Ridnour FOR Knight,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,59,3,12,1,8:23 PM,5:22,Deng Free Throw 2 of 2 (7 PTS),,,7 - 23,16,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,61,1,1,1,8:24 PM,4:59,,,Neal 32' 3PT Jump Shot (3 PTS) (Butler 1 AST),10 - 23,13,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,62,1,42,1,8:24 PM,4:38,Rose 1' Driving Layup (8 PTS) (Mohammed 1 AST),,,10 - 25,15,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,63,2,1,1,8:24 PM,4:18,,,MISS Butler 22' Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,64,4,0,1,8:24 PM,4:17,Boozer REBOUND (Off:2 Def:3),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,65,2,5,1,8:24 PM,4:04,MISS Boozer 1' Layup,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,66,4,0,1,8:25 PM,4:02,Rose REBOUND (Off:1 Def:1),,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,67,2,1,1,8:25 PM,4:00,MISS Rose 25' 3PT Jump Shot,,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,68,4,0,1,8:25 PM,4:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,69,6,3,1,8:25 PM,4:00,Boozer L.B.FOUL (P2.T2),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,71,8,0,1,8:25 PM,4:00,,,SUB: Pachulia FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,126,8,0,1,8:25 PM,4:00,,,SUB: Knight FOR Neal,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,70,8,0,1,8:25 PM,4:00,,,SUB: Antetokounmpo FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,73,8,0,1,8:25 PM,4:00,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,74,6,2,1,8:26 PM,3:40,Mohammed S.FOUL (P1.T3),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,75,3,11,1,8:26 PM,3:40,,,Pachulia Free Throw 1 of 2 (1 PTS),11 - 25,14,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,77,3,12,1,8:26 PM,3:40,,,MISS Pachulia Free Throw 2 of 2,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,79,4,0,1,8:26 PM,3:39,Deng REBOUND (Off:0 Def:1),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,80,1,5,1,8:26 PM,3:24,Gibson 2' Layup (6 PTS),,,11 - 27,16,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,82,2,5,1,8:27 PM,3:12,,,MISS Knight 3' Layup,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,84,4,0,1,8:27 PM,3:11,,,Henson REBOUND (Off:1 Def:1),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,83,1,92,1,8:27 PM,3:11,,,Henson 1' Putback Slam Dunk (5 PTS),13 - 27,14,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,85,6,26,1,8:27 PM,2:48,Deng Offensive Charge Foul (P1.T4),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,86,5,5,1,8:27 PM,2:48,Deng Foul Turnover (P2.T3),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300086,87,9,1,1,8:27 PM,2:48,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,89,8,0,1,8:30 PM,2:48,SUB: Snell FOR Dunleavy,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,90,2,3,1,8:30 PM,2:30,,,MISS Henson 5' Hook Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,91,4,0,1,8:30 PM,2:28,Mohammed REBOUND (Off:1 Def:1),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,92,5,40,1,8:30 PM,2:15,Mohammed Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,93,6,2,1,8:31 PM,2:03,Mohammed S.FOUL (P2.PN),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,94,3,11,1,8:31 PM,2:03,,,MISS Antetokounmpo Free Throw 1 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,95,4,1,1,8:31 PM,2:03,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,96,3,12,1,8:31 PM,2:03,,,MISS Antetokounmpo Free Throw 2 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,98,4,0,1,8:31 PM,2:02,Mohammed REBOUND (Off:1 Def:2),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,99,2,1,1,8:31 PM,1:46,MISS Rose 17' Jump Shot,,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,100,4,0,1,8:31 PM,1:45,Mohammed REBOUND (Off:2 Def:2),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,101,2,1,1,8:32 PM,1:29,MISS Mohammed 13' Jump Shot,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,102,4,0,1,8:32 PM,1:29,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,103,6,3,1,8:32 PM,1:29,Gibson L.B.FOUL (P1.PN),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,104,3,11,1,8:32 PM,1:29,,,MISS Henson Free Throw 1 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,105,4,1,1,8:32 PM,1:29,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,106,8,0,1,8:32 PM,1:29,SUB: Teague FOR Rose,,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,107,3,12,1,8:33 PM,1:29,,,Henson Free Throw 2 of 2 (6 PTS),14 - 27,13,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,109,5,1,1,8:33 PM,1:10,Snell Bad Pass Turnover (P1.T5),,Antetokounmpo STEAL (1 STL),,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,110,1,1,1,8:33 PM,0:58,,,Pachulia 16' Jump Shot (3 PTS),16 - 27,11,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,111,2,1,1,8:34 PM,0:38,MISS Deng 15' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,112,4,0,1,8:34 PM,0:37,,,Antetokounmpo REBOUND (Off:0 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,113,6,2,1,8:34 PM,0:34,Teague S.FOUL (P1.PN),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,114,3,11,1,8:34 PM,0:34,,,Knight Free Throw 1 of 2 (3 PTS),17 - 27,10,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,116,8,0,1,8:34 PM,0:34,SUB: James FOR Deng,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,117,3,12,1,8:34 PM,0:34,,,MISS Knight Free Throw 2 of 2,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,119,4,0,1,8:34 PM,0:32,Mohammed REBOUND (Off:2 Def:3),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,120,2,1,1,8:35 PM,0:11,MISS Teague 6' Jump Shot,,Ridnour BLOCK (1 BLK),,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,121,4,0,1,8:35 PM,0:07,,,Henson REBOUND (Off:1 Def:2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,122,1,5,1,8:35 PM,0:07,,,Knight 1' Layup (5 PTS) (Henson 1 AST),19 - 27,8,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,123,1,1,1,8:35 PM,0:00,Gibson 15' Jump Shot (8 PTS) (Teague 1 AST),,,19 - 29,10,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,124,13,0,1,8:35 PM,0:00,,End of 1st Period (8:35 PM EST),,19 - 29,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,127,12,0,2,8:38 PM,12:00,,Start of 2nd Period (8:38 PM EST),,19 - 29,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,129,5,1,2,8:39 PM,11:49,Teague Bad Pass Turnover (P1.T6),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,130,2,3,2,8:39 PM,11:29,,,MISS Henson 9' Hook Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,131,4,0,2,8:40 PM,11:27,Mohammed REBOUND (Off:2 Def:4),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,133,2,1,2,8:40 PM,11:13,MISS Mohammed 10' Jump Shot,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,135,4,0,2,8:40 PM,11:10,Gibson REBOUND (Off:1 Def:0),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,134,2,5,2,8:40 PM,11:10,MISS Gibson 2' Layup,,Antetokounmpo BLOCK (1 BLK),,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,136,4,0,2,8:40 PM,11:10,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,137,2,1,2,8:40 PM,10:58,MISS Gibson 18' Jump Shot,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,138,4,0,2,8:41 PM,10:57,,,Pachulia REBOUND (Off:0 Def:1),,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,139,6,1,2,8:41 PM,10:52,Mohammed P.FOUL (P3.T1),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,140,8,0,2,8:41 PM,10:52,SUB: Murphy FOR Mohammed,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,141,2,1,2,8:41 PM,10:48,,,MISS Ridnour 20' Jump Shot,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,142,4,0,2,8:41 PM,10:48,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,143,6,3,2,8:42 PM,10:48,,,Pachulia L.B.FOUL (P1.T1),,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,144,1,1,2,8:42 PM,10:29,Teague 18' Jump Shot (2 PTS) (James 1 AST),,,19 - 31,12,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,145,2,1,2,8:42 PM,10:20,,,MISS Ridnour 15' Jump Shot,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,146,4,0,2,8:42 PM,10:20,Gibson REBOUND (Off:1 Def:1),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,147,6,1,2,8:42 PM,10:20,,,Pachulia P.FOUL (P2.T2),,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,148,1,42,2,8:43 PM,10:09,Teague 3' Driving Layup (4 PTS),,,19 - 33,14,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,149,5,4,2,8:43 PM,9:58,,,Henson Traveling Turnover (P2.T6),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,151,1,1,2,8:43 PM,9:40,Snell  3PT Jump Shot (3 PTS) (James 2 AST),,,19 - 36,17,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,152,9,1,2,8:43 PM,9:32,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,153,6,2,2,8:46 PM,9:13,James S.FOUL (P1.T2),,,,,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,155,3,13,2,8:47 PM,9:13,,,Pachulia Free Throw 1 of 3 (4 PTS),20 - 36,16,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,157,3,14,2,8:47 PM,9:13,,,MISS Pachulia Free Throw 2 of 3,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,158,4,1,2,8:47 PM,9:13,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,159,8,0,2,8:47 PM,9:13,,,SUB: Butler FOR Henson,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,160,3,15,2,8:47 PM,9:13,,,Pachulia Free Throw 3 of 3 (5 PTS),21 - 36,15,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,162,5,1,2,8:48 PM,8:53,Teague Bad Pass Turnover (P2.T7),,Butler STEAL (1 STL),,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,163,2,1,2,8:48 PM,8:34,,,MISS Antetokounmpo 26' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,164,4,0,2,8:48 PM,8:33,Teague REBOUND (Off:0 Def:1),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,165,1,1,2,8:48 PM,8:20,Teague 25' 3PT Jump Shot (7 PTS) (Snell 1 AST),,,21 - 39,18,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,166,6,1,2,8:49 PM,8:05,James P.FOUL (P2.T3),,,,,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,167,8,0,2,8:49 PM,8:05,,,SUB: Neal FOR Ridnour,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,168,8,0,2,8:49 PM,8:05,,,SUB: Sanders FOR Pachulia,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,169,8,0,2,8:49 PM,8:05,,,SUB: Middleton FOR Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,170,1,1,2,8:49 PM,7:58,,,Knight 23' Jump Shot (7 PTS),23 - 39,16,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,171,1,42,2,8:49 PM,7:42,Teague 4' Driving Layup (9 PTS),,,23 - 41,18,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,172,7,1,2,8:50 PM,7:41,BULLS Violation: Delay of game Violation,,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300086,173,2,5,2,8:50 PM,7:27,Gibson BLOCK (1 BLK),,MISS Sanders 1' Layup,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0
+0011300086,174,4,0,2,8:50 PM,7:24,Snell REBOUND (Off:0 Def:1),,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,175,2,1,2,8:50 PM,7:18,MISS Teague 25' 3PT Jump Shot,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,176,4,0,2,8:50 PM,7:17,James REBOUND (Off:1 Def:0),,,,,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,177,1,78,2,8:50 PM,7:17,James 8' Floating Jump Shot (2 PTS),,,23 - 43,20,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,178,6,16,2,8:52 PM,7:17,,"Double Technical - Gibson, Knight",,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,180,8,0,2,8:53 PM,7:17,SUB: Rose FOR James,,,,,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,182,1,84,2,8:54 PM,7:04,,,Sanders 5' Running Bank Shot (4 PTS),25 - 43,18,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,183,6,2,2,8:54 PM,7:04,Gibson S.FOUL (P2.T4),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,184,8,0,2,8:54 PM,7:04,SUB: Boozer FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,185,3,10,2,8:54 PM,7:04,,,Sanders Free Throw 1 of 1 (5 PTS),26 - 43,17,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,188,6,17,2,8:55 PM,6:52,,,Bucks T.Foul (Def. 3 Sec Sanders ),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,189,3,16,2,8:55 PM,6:52,Rose Free Throw Technical (9 PTS),,,26 - 44,18,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,191,1,1,2,8:55 PM,6:43,Boozer 14' Jump Shot (8 PTS) (Snell 2 AST),,,26 - 46,20,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,192,5,2,2,8:55 PM,6:26,Boozer STEAL (2 STL),,Sanders Lost Ball Turnover (P1.T7),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,193,2,1,2,8:56 PM,6:15,MISS Rose  3PT Jump Shot,,Sanders BLOCK (1 BLK),,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,194,4,0,2,8:56 PM,6:13,Murphy REBOUND (Off:1 Def:0),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,195,2,1,2,8:56 PM,6:09,MISS Snell 24' 3PT Jump Shot,,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,196,4,0,2,8:56 PM,6:09,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,197,6,3,2,8:56 PM,6:09,,,Neal L.B.FOUL (P1.T3),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,198,8,0,2,8:56 PM,6:09,,,SUB: Ridnour FOR Knight,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,199,6,2,2,8:56 PM,5:58,,,Middleton S.FOUL (P1.T4),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,200,9,1,2,8:57 PM,5:58,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,203,3,11,2,8:59 PM,5:58,Teague Free Throw 1 of 2 (10 PTS),,,26 - 47,21,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,205,3,12,2,8:59 PM,5:58,MISS Teague Free Throw 2 of 2,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,207,4,0,2,8:59 PM,5:58,,,Middleton REBOUND (Off:0 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,208,2,1,2,9:00 PM,5:28,,,MISS Middleton 18' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,209,4,0,2,9:00 PM,5:27,Murphy REBOUND (Off:1 Def:1),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,210,6,1,2,9:00 PM,5:23,,,Middleton P.FOUL (P2.PN),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,211,3,11,2,9:00 PM,5:23,Rose Free Throw 1 of 2 (10 PTS),,,26 - 48,22,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,213,3,12,2,9:00 PM,5:23,Rose Free Throw 2 of 2 (11 PTS),,,26 - 49,23,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,215,5,1,2,9:01 PM,5:08,,,Neal Bad Pass Turnover (P3.T8),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,216,1,42,2,9:01 PM,4:59,Rose 2' Driving Layup (13 PTS),,,26 - 51,25,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,217,1,1,2,9:02 PM,4:32,,,Neal 6' Jump Shot (5 PTS),28 - 51,23,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,218,5,1,2,9:02 PM,4:28,Boozer Bad Pass Turnover (P1.T8),,Sanders STEAL (1 STL),,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,219,1,3,2,9:02 PM,4:26,,,Sanders 2' Hook Shot (7 PTS),30 - 51,21,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,220,2,1,2,9:02 PM,4:06,MISS Boozer 16' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,221,4,0,2,9:02 PM,4:05,,,Butler REBOUND (Off:0 Def:1),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,222,5,2,2,9:02 PM,4:00,Rose STEAL (1 STL),,Ridnour Lost Ball Turnover (P1.T9),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,223,5,41,2,9:02 PM,3:54,Rose Poss Lost Ball Turnover (P1.T9),,Ridnour STEAL (1 STL),,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,225,1,5,2,9:02 PM,3:43,,,Middleton 1' Layup (2 PTS) (Neal 2 AST),32 - 51,19,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,226,2,1,2,9:03 PM,3:22,MISS Rose 25' 3PT Jump Shot,,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,227,4,0,2,9:03 PM,3:21,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,228,8,0,2,9:03 PM,3:21,SUB: Dunleavy FOR Teague,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,229,6,2,2,9:04 PM,3:02,Boozer S.FOUL (P3.PN),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,230,3,11,2,9:04 PM,3:02,,,Sanders Free Throw 1 of 2 (8 PTS),33 - 51,18,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,232,8,0,2,9:04 PM,3:02,SUB: Deng FOR Snell,,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,233,8,0,2,9:04 PM,3:02,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,234,3,12,2,9:04 PM,3:02,,,MISS Sanders Free Throw 2 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,236,4,0,2,9:04 PM,2:59,Murphy REBOUND (Off:1 Def:2),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,237,2,1,2,9:05 PM,2:45,MISS Dunleavy 22' Jump Shot,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,238,4,0,2,9:05 PM,2:44,,,Middleton REBOUND (Off:0 Def:2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,239,2,1,2,9:05 PM,2:36,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,240,4,0,2,9:05 PM,2:35,Gibson REBOUND (Off:1 Def:2),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,241,6,2,2,9:05 PM,2:17,,,Ridnour S.FOUL (P1.PN),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,242,9,1,2,9:05 PM,2:17,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,244,3,11,2,9:08 PM,2:17,Rose Free Throw 1 of 2 (14 PTS),,,33 - 52,19,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,246,3,12,2,9:08 PM,2:17,Rose Free Throw 2 of 2 (15 PTS),,,33 - 53,20,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,248,6,4,2,9:08 PM,2:07,,,Butler OFF.Foul (P2),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,249,5,5,2,9:08 PM,2:07,,,Butler Foul Turnover (P2.T10),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,250,8,0,2,9:09 PM,2:07,,,SUB: Henson FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,251,2,1,2,9:09 PM,1:54,MISS Murphy 24' 3PT Jump Shot,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,252,4,0,2,9:09 PM,1:53,,,Middleton REBOUND (Off:0 Def:3),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,253,1,1,2,9:09 PM,1:38,,,Neal 25' 3PT Jump Shot (8 PTS),36 - 53,17,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,254,1,1,2,9:10 PM,1:17,Rose 14' Jump Shot (17 PTS),,,36 - 55,19,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,255,1,1,2,9:10 PM,1:11,,,Middleton 17' Jump Shot (4 PTS),38 - 55,17,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,256,1,1,2,9:10 PM,0:57,Dunleavy 25' 3PT Jump Shot (3 PTS) (Rose 4 AST),,,38 - 58,20,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,257,6,2,2,9:10 PM,0:47,Gibson S.FOUL (P3.PN),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,258,3,11,2,9:10 PM,0:47,,,Henson Free Throw 1 of 2 (7 PTS),39 - 58,19,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,260,3,12,2,9:11 PM,0:47,,,MISS Henson Free Throw 2 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,262,4,0,2,9:11 PM,0:45,Murphy REBOUND (Off:1 Def:3),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,263,6,1,2,9:11 PM,0:34,,,Neal P.FOUL (P2.PN),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,264,3,11,2,9:11 PM,0:34,Deng Free Throw 1 of 2 (8 PTS),,,39 - 59,20,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,266,8,0,2,9:12 PM,0:34,SUB: Pittman FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,267,3,12,2,9:12 PM,0:34,Deng Free Throw 2 of 2 (9 PTS),,,39 - 60,21,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,271,2,5,2,9:12 PM,0:21,,,MISS Ridnour 2' Layup,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,272,4,0,2,9:13 PM,0:21,Dunleavy REBOUND (Off:0 Def:3),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,273,6,1,2,9:13 PM,0:21,,,Ridnour P.FOUL (P2.PN),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,274,3,11,2,9:13 PM,0:21,Dunleavy Free Throw 1 of 2 (4 PTS),,,39 - 61,22,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,277,8,0,2,9:13 PM,0:21,SUB: Teague FOR Murphy,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,278,8,0,2,9:13 PM,0:21,,,SUB: Knight FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,279,3,12,2,9:14 PM,0:21,Dunleavy Free Throw 2 of 2 (5 PTS),,,39 - 62,23,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,282,2,1,2,9:14 PM,0:01,,,MISS Middleton 26' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,283,4,0,2,9:14 PM,0:00,Teague REBOUND (Off:0 Def:2),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,284,2,1,2,9:14 PM,0:00,MISS Teague 57' 3PT Jump Shot,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,286,4,0,2,9:14 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,285,13,0,2,9:14 PM,0:00,,End of 2nd Period (9:14 PM EST),,39 - 62,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,288,12,0,3,9:30 PM,12:00,,Start of 3rd Period (9:30 PM EST),,39 - 62,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,289,5,1,3,9:31 PM,11:45,Rose Bad Pass Turnover (P2.T10),,Sanders STEAL (2 STL),,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,290,6,1,3,9:31 PM,11:43,Deng P.FOUL (P2.T1),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,291,2,1,3,9:31 PM,11:30,,,MISS Butler 15' Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,292,4,0,3,9:31 PM,11:28,Deng REBOUND (Off:0 Def:2),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,293,1,1,3,9:31 PM,11:17,Boozer 10' Jump Shot (10 PTS) (Deng 2 AST),,,39 - 64,25,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,294,1,77,3,9:32 PM,10:58,,,Knight 3' Driving Jump Shot (9 PTS),41 - 64,23,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,295,6,2,3,9:32 PM,10:58,Boozer S.FOUL (P4.T2),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,296,3,10,3,9:32 PM,10:58,,,Knight Free Throw 1 of 1 (10 PTS),42 - 64,22,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,298,6,17,3,9:33 PM,10:39,,,Bucks T.Foul (Def. 3 Sec Sanders ),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,299,3,16,3,9:33 PM,10:39,MISS Dunleavy Free Throw Technical,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,300,4,1,3,9:33 PM,10:39,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,301,1,5,3,9:33 PM,10:27,Boozer 1' Layup (12 PTS),,,42 - 66,24,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,302,1,5,3,9:33 PM,10:16,,,Sanders 2' Layup (10 PTS) (Knight 1 AST),44 - 66,22,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,303,6,2,3,9:33 PM,10:16,Gibson S.FOUL (P4.T3),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,304,3,10,3,9:34 PM,10:16,,,MISS Sanders Free Throw 1 of 1,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,306,4,0,3,9:34 PM,10:16,Gibson REBOUND (Off:1 Def:3),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,307,2,47,3,9:34 PM,10:01,MISS Boozer 16' Turnaround Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,308,4,0,3,9:34 PM,10:00,,,Middleton REBOUND (Off:0 Def:4),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,309,5,1,3,9:34 PM,9:55,Gibson STEAL (1 STL),,Knight Bad Pass Turnover (P2.T11),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,310,1,90,3,9:34 PM,9:51,Gibson 1' Running Slam Dunk (10 PTS) (Dunleavy 2 AST),,,44 - 68,24,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,311,2,1,3,9:35 PM,9:36,,,MISS Neal 10' Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,312,4,0,3,9:35 PM,9:35,Dunleavy REBOUND (Off:0 Def:4),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,313,6,1,3,9:35 PM,9:30,,,Neal P.FOUL (P3.T1),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,314,1,5,3,9:35 PM,9:22,Dunleavy 1' Layup (7 PTS) (Boozer 3 AST),,,44 - 70,26,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,315,6,2,3,9:35 PM,9:22,,,Butler S.FOUL (P3.T2),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,316,3,10,3,9:35 PM,9:22,Dunleavy Free Throw 1 of 1 (8 PTS),,,44 - 71,27,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,319,2,44,3,9:36 PM,9:01,,,MISS Middleton 3' Reverse Layup,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,320,4,0,3,9:36 PM,9:00,Boozer REBOUND (Off:2 Def:4),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,323,6,1,3,9:36 PM,8:48,,,Middleton P.FOUL (P3.T3),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,324,2,1,3,9:36 PM,8:41,MISS Dunleavy 26' 3PT Jump Shot,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,325,4,0,3,9:36 PM,8:40,,,Sanders REBOUND (Off:0 Def:2),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,326,1,1,3,9:37 PM,8:28,,,Knight 25' 3PT Jump Shot (13 PTS) (Middleton 1 AST),47 - 71,24,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,327,2,1,3,9:37 PM,8:11,MISS Deng 18' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,328,4,0,3,9:37 PM,8:10,,,Sanders REBOUND (Off:0 Def:3),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,329,1,1,3,9:37 PM,8:04,,,Butler 22' Jump Shot (2 PTS) (Knight 2 AST),49 - 71,22,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,330,9,1,3,9:37 PM,8:03,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,334,5,8,3,9:40 PM,7:53,Gibson 3 Second Violation Turnover (P2.T11),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300086,335,1,1,3,9:40 PM,7:34,,,Neal 25' 3PT Jump Shot (11 PTS),52 - 71,19,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,336,1,1,3,9:41 PM,7:16,Boozer 19' Jump Shot (14 PTS) (Dunleavy 3 AST),,,52 - 73,21,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,337,2,1,3,9:41 PM,6:51,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,338,4,0,3,9:41 PM,6:50,Deng REBOUND (Off:0 Def:3),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,339,6,2,3,9:41 PM,6:40,,,Middleton S.FOUL (P4.T4),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,340,3,11,3,9:41 PM,6:40,Rose Free Throw 1 of 2 (18 PTS),,,52 - 74,22,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,342,8,0,3,9:42 PM,6:40,,,SUB: Antetokounmpo FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,343,3,12,3,9:42 PM,6:40,Rose Free Throw 2 of 2 (19 PTS),,,52 - 75,23,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,345,6,1,3,9:42 PM,6:32,Rose P.FOUL (P1.T4),,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,346,8,0,3,9:43 PM,6:29,SUB: Murphy FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,347,6,2,3,9:43 PM,6:18,Rose S.FOUL (P2.PN),,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,348,3,11,3,9:43 PM,6:18,,,Neal Free Throw 1 of 2 (12 PTS),53 - 75,22,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,350,3,12,3,9:43 PM,6:18,,,MISS Neal Free Throw 2 of 2,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,352,4,0,3,9:44 PM,6:18,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,353,6,3,3,9:44 PM,6:18,Murphy L.B.FOUL (P1.PN),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,354,3,11,3,9:44 PM,6:18,,,MISS Sanders Free Throw 1 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,355,4,1,3,9:44 PM,6:18,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,356,3,12,3,9:44 PM,6:18,,,Sanders Free Throw 2 of 2 (11 PTS),54 - 75,21,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,359,5,1,3,9:45 PM,6:06,Rose Bad Pass Turnover (P3.T12),,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,360,2,1,3,9:45 PM,5:52,,,MISS Neal 25' 3PT Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,361,4,0,3,9:45 PM,5:51,Rose REBOUND (Off:1 Def:2),,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,362,2,1,3,9:45 PM,5:43,MISS Murphy 12' Jump Shot,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,364,4,0,3,9:45 PM,5:42,Boozer REBOUND (Off:3 Def:4),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,363,2,4,3,9:45 PM,5:42,MISS Boozer 2' Tip Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,365,4,0,3,9:45 PM,5:41,,,Sanders REBOUND (Off:0 Def:4),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,366,2,1,3,9:45 PM,5:31,,,MISS Knight 12' Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,367,4,0,3,9:45 PM,5:29,Boozer REBOUND (Off:3 Def:5),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,368,6,2,3,9:45 PM,5:26,,,Butler S.FOUL (P4.PN),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,369,3,11,3,9:46 PM,5:26,Rose Free Throw 1 of 2 (20 PTS),,,54 - 76,22,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,371,8,0,3,9:46 PM,5:26,,,SUB: Ridnour FOR Knight,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,372,8,0,3,9:46 PM,5:26,,,SUB: Henson FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,373,3,12,3,9:46 PM,5:26,Rose Free Throw 2 of 2 (21 PTS),,,54 - 77,23,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,375,5,1,3,9:46 PM,5:16,Deng STEAL (3 STL),,Sanders Bad Pass Turnover (P2.T12),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,376,6,2,3,9:47 PM,5:14,,,Sanders S.FOUL (P2.PN),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,377,3,11,3,9:47 PM,5:14,Deng Free Throw 1 of 2 (10 PTS),,,54 - 78,24,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,379,3,12,3,9:47 PM,5:14,Deng Free Throw 2 of 2 (11 PTS),,,54 - 79,25,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,381,5,1,3,9:47 PM,5:02,,,Neal Bad Pass Turnover (P4.T13),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,382,6,1,3,9:48 PM,4:51,,,Neal P.FOUL (P4.PN),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,383,3,11,3,9:48 PM,4:51,Deng Free Throw 1 of 2 (12 PTS),,,54 - 80,26,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,385,8,0,3,9:48 PM,4:51,,,SUB: Pachulia FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,386,3,12,3,9:48 PM,4:51,Deng Free Throw 2 of 2 (13 PTS),,,54 - 81,27,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,388,2,78,3,9:49 PM,4:41,,,MISS Ridnour 15' Floating Jump Shot,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,389,4,0,3,9:49 PM,4:40,Boozer REBOUND (Off:3 Def:6),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,390,2,1,3,9:49 PM,4:25,MISS Boozer 14' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,391,4,0,3,9:49 PM,4:24,,,Ridnour REBOUND (Off:0 Def:1),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,394,5,40,3,9:49 PM,4:07,,,Pachulia Out of Bounds Lost Ball Turnover (P1.T14),,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,395,1,1,3,9:50 PM,3:45,Rose 25' 3PT Jump Shot (24 PTS),,,54 - 84,30,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,396,6,2,3,9:50 PM,3:32,Murphy S.FOUL (P2.PN),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,397,3,11,3,9:50 PM,3:32,,,MISS Henson Free Throw 1 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,398,4,1,3,9:50 PM,3:32,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,399,8,0,3,9:50 PM,3:32,,,SUB: Middleton FOR Neal,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,400,3,12,3,9:50 PM,3:32,,,MISS Henson Free Throw 2 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,402,4,0,3,9:51 PM,3:30,Boozer REBOUND (Off:3 Def:7),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,403,5,1,3,9:51 PM,3:08,Rose Bad Pass Turnover (P4.T13),,Antetokounmpo STEAL (2 STL),,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,404,6,2,3,9:51 PM,3:04,Dunleavy S.FOUL (P1.PN),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,405,3,11,3,9:51 PM,3:04,,,Middleton Free Throw 1 of 2 (5 PTS),55 - 84,29,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,407,3,12,3,9:52 PM,3:04,,,Middleton Free Throw 2 of 2 (6 PTS),56 - 84,28,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,409,6,1,3,9:52 PM,2:56,,,Middleton P.FOUL (P5.PN),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,410,9,1,3,9:52 PM,2:56,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,412,3,11,3,9:54 PM,2:56,Deng Free Throw 1 of 2 (14 PTS),,,56 - 85,29,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,414,3,12,3,9:55 PM,2:56,MISS Deng Free Throw 2 of 2,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,416,4,0,3,9:55 PM,2:54,,,Henson REBOUND (Off:1 Def:3),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,417,5,1,3,9:55 PM,2:36,,,Middleton Bad Pass Turnover (P1.T15),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,418,5,2,3,9:56 PM,2:25,Dunleavy Lost Ball Turnover (P1.T14),,Middleton STEAL (1 STL),,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,419,6,1,3,9:56 PM,2:25,Dunleavy P.FOUL (P2.PN),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,420,3,11,3,9:56 PM,2:25,,,Middleton Free Throw 1 of 2 (7 PTS),57 - 85,28,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,422,8,0,3,9:56 PM,2:25,SUB: Teague FOR Rose,,,,,4,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,423,3,12,3,9:56 PM,2:25,,,Middleton Free Throw 2 of 2 (8 PTS),58 - 85,27,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,425,1,44,3,9:57 PM,2:07,Boozer 1' Reverse Layup (16 PTS) (Teague 2 AST),,,58 - 87,29,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,426,1,1,3,9:57 PM,1:51,,,Pachulia 18' Jump Shot (7 PTS) (Antetokounmpo 1 AST),60 - 87,27,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,427,2,5,3,9:57 PM,1:45,MISS Teague 2' Layup,,Henson BLOCK (1 BLK),,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,428,4,0,3,9:57 PM,1:45,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,431,6,2,3,9:58 PM,1:37,,,Antetokounmpo S.FOUL (P1.PN),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,432,3,11,3,9:58 PM,1:37,Deng Free Throw 1 of 2 (15 PTS),,,60 - 88,28,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,434,3,12,3,9:58 PM,1:37,MISS Deng Free Throw 2 of 2,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,436,4,0,3,9:58 PM,1:35,,,Henson REBOUND (Off:1 Def:4),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,437,2,78,3,9:58 PM,1:20,,,MISS Antetokounmpo 12' Floating Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,438,4,0,3,9:59 PM,1:20,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,439,6,3,3,9:59 PM,1:20,Boozer L.B.FOUL (P5.PN),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,440,3,11,3,9:59 PM,1:20,,,Pachulia Free Throw 1 of 2 (8 PTS),61 - 88,27,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,442,8,0,3,9:59 PM,1:20,SUB: Mohammed FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,443,3,12,3,9:59 PM,1:20,,,MISS Pachulia Free Throw 2 of 2,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,445,4,0,3,9:59 PM,1:18,Deng REBOUND (Off:0 Def:4),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,446,2,1,3,10:00 PM,1:03,MISS Deng 20' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,447,4,0,3,10:00 PM,1:02,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,448,2,78,3,10:00 PM,0:48,,,MISS Ridnour 8' Floating Jump Shot,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,449,4,0,3,10:00 PM,0:46,Murphy REBOUND (Off:1 Def:4),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,450,2,1,3,10:00 PM,0:34,MISS Murphy  3PT Jump Shot,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,451,4,0,3,10:00 PM,0:33,,,Middleton REBOUND (Off:0 Def:5),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,452,2,1,3,10:00 PM,0:23,,,MISS Antetokounmpo 25' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,453,4,0,3,10:00 PM,0:22,Dunleavy REBOUND (Off:0 Def:5),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,454,6,27,3,10:00 PM,0:20,,,Antetokounmpo Personal Block Foul (P2.PN),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,455,3,11,3,10:01 PM,0:20,Dunleavy Free Throw 1 of 2 (9 PTS),,,61 - 89,28,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,457,8,0,3,10:01 PM,0:20,SUB: Snell FOR Deng,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,458,3,12,3,10:01 PM,0:20,Dunleavy Free Throw 2 of 2 (10 PTS),,,61 - 90,29,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,460,1,5,3,10:01 PM,0:00,,,Antetokounmpo 2' Layup (2 PTS) (Ridnour 1 AST),63 - 90,27,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,461,13,0,3,10:02 PM,0:00,,End of 3rd Period (10:02 PM EST),,63 - 90,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,463,12,0,4,10:04 PM,12:00,,Start of 4th Period (10:04 PM EST),,63 - 90,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,464,6,2,4,10:05 PM,11:39,Murphy S.FOUL (P3.T1),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,465,3,11,4,10:05 PM,11:39,,,Henson Free Throw 1 of 2 (8 PTS),64 - 90,26,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,467,3,12,4,10:05 PM,11:39,,,Henson Free Throw 2 of 2 (9 PTS),65 - 90,25,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,469,2,5,4,10:06 PM,11:27,MISS Dunleavy 3' Layup,,Henson BLOCK (2 BLK),,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,470,4,0,4,10:06 PM,11:25,,,Antetokounmpo REBOUND (Off:0 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,471,2,5,4,10:06 PM,11:21,Snell BLOCK (1 BLK),,MISS Middleton 2' Layup,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0
+0011300086,472,4,0,4,10:06 PM,11:21,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,473,5,1,4,10:06 PM,11:08,Mohammed STEAL (1 STL),,Henson Bad Pass Turnover (P3.T16),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,475,1,1,4,10:07 PM,10:49,Murphy 24' 3PT Jump Shot (3 PTS) (Dunleavy 4 AST),,,65 - 93,28,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,476,1,3,4,10:07 PM,10:31,,,Henson 4' Hook Shot (11 PTS) (Middleton 2 AST),67 - 93,26,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,477,2,1,4,10:07 PM,10:04,MISS Dunleavy 25' 3PT Jump Shot,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,478,4,0,4,10:07 PM,10:04,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,479,5,11,4,10:08 PM,10:04,BULLS Turnover: Shot Clock (T#15),,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300086,480,6,17,4,10:08 PM,9:52,BULLS T.Foul (Def. 3 Sec Dunleavy ),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300086,481,3,16,4,10:08 PM,9:52,,,Middleton Free Throw Technical (9 PTS),68 - 93,25,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,483,2,3,4,10:08 PM,9:44,,,MISS Henson 10' Hook Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,484,4,0,4,10:08 PM,9:43,,,Wolters REBOUND (Off:1 Def:0),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,485,5,1,4,10:09 PM,9:37,,,Henson Bad Pass Turnover (P4.T17),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,486,2,1,4,10:09 PM,9:16,MISS Mohammed 6' Jump Shot,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,488,4,0,4,10:09 PM,9:12,Murphy REBOUND (Off:2 Def:4),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,487,2,5,4,10:09 PM,9:12,MISS Murphy 2' Layup,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,489,4,0,4,10:09 PM,9:11,,,Pachulia REBOUND (Off:0 Def:2),,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,490,2,78,4,10:09 PM,8:57,,,MISS Middleton 6' Floating Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,491,4,0,4,10:09 PM,8:54,Dunleavy REBOUND (Off:0 Def:6),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,492,2,3,4,10:10 PM,8:44,MISS Mohammed 7' Hook Shot,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,493,4,0,4,10:10 PM,8:43,,,Wolters REBOUND (Off:1 Def:1),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,494,6,1,4,10:10 PM,8:38,Mohammed P.FOUL (P4.T2),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,495,9,1,4,10:10 PM,8:38,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,496,8,0,4,10:12 PM,8:38,,,SUB: Neal FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,497,2,1,4,10:12 PM,8:28,Mohammed BLOCK (1 BLK),,MISS Pachulia 8' Jump Shot,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0
+0011300086,498,4,0,4,10:12 PM,8:26,Dunleavy REBOUND (Off:0 Def:7),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,499,2,3,4,10:13 PM,8:05,MISS Murphy 5' Hook Shot,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,500,4,0,4,10:13 PM,8:04,Mohammed REBOUND (Off:3 Def:4),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,501,2,1,4,10:13 PM,8:02,MISS Mohammed 4' Jump Shot,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,502,4,0,4,10:13 PM,8:01,,,Henson REBOUND (Off:1 Def:5),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,503,5,1,4,10:13 PM,7:55,,,Wolters Bad Pass Turnover (P1.T18),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,504,8,0,4,10:13 PM,7:55,,,SUB: Sanders FOR Pachulia,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,505,6,26,4,10:13 PM,7:45,Mohammed Offensive Charge Foul (P5.T3),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,506,5,5,4,10:13 PM,7:45,Mohammed Foul Turnover (P2.T16),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300086,507,6,1,4,10:14 PM,7:33,Teague P.FOUL (P2.T4),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,508,2,1,4,10:14 PM,7:25,,,MISS Wolters 18' Jump Shot,,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,509,4,0,4,10:14 PM,7:24,,,Henson REBOUND (Off:2 Def:5),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,510,2,5,4,10:14 PM,7:14,Mohammed BLOCK (2 BLK),,MISS Antetokounmpo 2' Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0
+0011300086,511,4,0,4,10:14 PM,7:12,,,Antetokounmpo REBOUND (Off:1 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,512,2,5,4,10:14 PM,7:08,,,MISS Neal 1' Layup,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,513,4,0,4,10:14 PM,7:07,Mohammed REBOUND (Off:3 Def:5),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,514,1,46,4,10:15 PM,7:04,Snell 7' Running Jump Shot (5 PTS),,,68 - 95,27,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,515,6,2,4,10:15 PM,7:04,,,Wolters S.FOUL (P1.T1),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,516,3,10,4,10:15 PM,7:04,Snell Free Throw 1 of 1 (6 PTS),,,68 - 96,28,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,519,1,1,4,10:15 PM,6:44,,,Neal 20' Jump Shot (14 PTS),70 - 96,26,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,520,2,1,4,10:16 PM,6:24,MISS Dunleavy 20' Jump Shot,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,521,4,0,4,10:16 PM,6:22,,,Henson REBOUND (Off:2 Def:6),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,522,5,2,4,10:16 PM,6:11,Dunleavy STEAL (1 STL),,Neal Lost Ball Turnover (P5.T19),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,523,1,5,4,10:16 PM,6:07,Teague 2' Layup (12 PTS) (Dunleavy 5 AST),,,70 - 98,28,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,525,6,1,4,10:16 PM,5:57,Dunleavy P.FOUL (P3.PN),,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,526,9,1,4,10:17 PM,5:57,BULLS Timeout: Regular (Full 4 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,527,8,0,4,10:19 PM,5:57,,,SUB: Butler FOR Henson,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,528,6,2,4,10:19 PM,5:49,Murphy S.FOUL (P4.PN),,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,529,3,11,4,10:19 PM,5:49,,,Antetokounmpo Free Throw 1 of 2 (3 PTS),71 - 98,27,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,531,3,12,4,10:20 PM,5:49,,,Antetokounmpo Free Throw 2 of 2 (4 PTS),72 - 98,26,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,533,1,1,4,10:20 PM,5:34,Dunleavy 19' Jump Shot (12 PTS) (Teague 3 AST),,,72 - 100,28,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,534,6,2,4,10:21 PM,5:15,Mohammed S.FOUL (P6.PN),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,535,8,0,4,10:21 PM,5:15,SUB: Pittman FOR Mohammed,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,536,3,11,4,10:21 PM,5:15,,,MISS Sanders Free Throw 1 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,537,4,1,4,10:21 PM,5:15,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,538,3,12,4,10:22 PM,5:15,,,Sanders Free Throw 2 of 2 (12 PTS),73 - 100,27,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,540,6,4,4,10:22 PM,5:05,Pittman OFF.Foul (P1),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,541,5,5,4,10:22 PM,5:05,Pittman Foul Turnover (P1.T17),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300086,542,2,1,4,10:22 PM,4:48,,,MISS Sanders 16' Jump Shot,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,543,4,0,4,10:22 PM,4:47,Snell REBOUND (Off:0 Def:2),,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,544,2,5,4,10:23 PM,4:41,MISS Snell 2' Layup,,Antetokounmpo BLOCK (2 BLK),,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300086,545,4,0,4,10:23 PM,4:41,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,546,6,2,4,10:23 PM,4:28,Teague S.FOUL (P3.PN),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,547,3,11,4,10:23 PM,4:28,,,Wolters Free Throw 1 of 2 (1 PTS),74 - 100,26,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,549,8,0,4,10:24 PM,4:28,,,SUB: Raduljica FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,550,8,0,4,10:24 PM,4:28,,,SUB: Graham FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,551,3,12,4,10:24 PM,4:28,,,Wolters Free Throw 2 of 2 (2 PTS),75 - 100,25,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,554,2,5,4,10:24 PM,4:17,MISS Teague 2' Layup,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,555,4,0,4,10:24 PM,4:15,,,Antetokounmpo REBOUND (Off:1 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,557,6,26,4,10:24 PM,4:13,,,Antetokounmpo Offensive Charge Foul (P3.T2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,558,5,5,4,10:24 PM,4:13,,,Antetokounmpo Foul Turnover (P1.T20),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,559,8,0,4,10:25 PM,4:13,,,SUB: McKinney Jones FOR Neal,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,560,2,1,4,10:25 PM,3:58,MISS Murphy 25' 3PT Jump Shot,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,561,4,0,4,10:25 PM,3:58,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,562,6,3,4,10:25 PM,3:58,,,Raduljica L.B.FOUL (P1.T3),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,563,8,0,4,10:25 PM,3:58,SUB: James FOR Dunleavy,,,,,4,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,2229,Mike James,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,564,2,1,4,10:26 PM,3:43,MISS Teague 20' Jump Shot,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,565,4,0,4,10:26 PM,3:42,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,566,6,3,4,10:26 PM,3:42,Pittman L.B.FOUL (P2.PN),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,567,3,11,4,10:26 PM,3:42,,,Raduljica Free Throw 1 of 2 (1 PTS),76 - 100,24,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,569,3,12,4,10:26 PM,3:42,,,Raduljica Free Throw 2 of 2 (2 PTS),77 - 100,23,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,571,1,1,4,10:27 PM,3:25,Snell  3PT Jump Shot (9 PTS) (Teague 4 AST),,,77 - 103,26,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,572,5,6,4,10:27 PM,3:06,,,Graham Double Dribble Turnover (P1.T21),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300086,573,2,1,4,10:28 PM,2:45,MISS Snell 22' Jump Shot,,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,574,4,0,4,10:28 PM,2:44,,,Antetokounmpo REBOUND (Off:1 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,575,2,1,4,10:28 PM,2:28,,,MISS Wolters 7' Jump Shot,,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,576,4,0,4,10:28 PM,2:27,Teague REBOUND (Off:0 Def:3),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,577,2,5,4,10:28 PM,2:21,MISS Teague 1' Layup,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,579,4,0,4,10:28 PM,2:20,Pittman REBOUND (Off:1 Def:0),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,578,1,92,4,10:28 PM,2:20,Pittman  Putback Slam Dunk (2 PTS),,,77 - 105,28,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,580,2,1,4,10:28 PM,2:10,,,MISS Raduljica 15' Jump Shot,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,581,4,0,4,10:28 PM,2:08,Teague REBOUND (Off:0 Def:4),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,582,2,1,4,10:28 PM,2:00,MISS Murphy 20' Jump Shot,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,583,4,0,4,10:28 PM,2:00,,,McKinney Jones REBOUND (Off:0 Def:1),,,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,584,6,1,4,10:29 PM,2:00,Pittman P.FOUL (P3.PN),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,585,9,1,4,10:29 PM,2:00,,,Bucks Timeout: Regular (Reg.4 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,587,8,0,4,10:31 PM,2:00,SUB: White FOR Murphy,,,,,4,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,4,201591,DJ White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300086,588,3,11,4,10:31 PM,2:00,,,MISS McKinney Jones Free Throw 1 of 2,,,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,589,4,1,4,10:31 PM,2:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,590,3,12,4,10:31 PM,2:00,,,MISS McKinney Jones Free Throw 2 of 2,,,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,592,4,0,4,10:31 PM,1:57,Pittman REBOUND (Off:1 Def:1),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,594,6,1,4,10:32 PM,1:44,,,Antetokounmpo P.FOUL (P4.T4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300086,597,2,1,4,10:32 PM,1:28,MISS Teague 25' 3PT Jump Shot,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,598,4,0,4,10:32 PM,1:27,,,Antetokounmpo REBOUND (Off:1 Def:5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,599,2,1,4,10:32 PM,1:19,,,MISS Graham 26' 3PT Jump Shot,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,600,4,0,4,10:32 PM,1:18,Pittman REBOUND (Off:1 Def:2),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,601,2,1,4,10:33 PM,0:56,MISS White 18' Jump Shot,,,,,4,201591,DJ White,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,602,4,0,4,10:33 PM,0:55,,,Graham REBOUND (Off:0 Def:1),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,603,1,5,4,10:33 PM,0:49,,,Raduljica 2' Layup (4 PTS) (McKinney Jones 1 AST),79 - 105,26,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,604,6,2,4,10:33 PM,0:49,White S.FOUL (P1.PN),,,,,4,201591,DJ White,1610612741.0,Chicago,Bulls,CHI,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,605,3,10,4,10:33 PM,0:49,,,Raduljica Free Throw 1 of 1 (5 PTS),80 - 105,25,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,608,2,1,4,10:34 PM,0:26,MISS Snell 25' 3PT Jump Shot,,,,,4,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300086,609,4,0,4,10:34 PM,0:26,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300086,610,6,3,4,10:34 PM,0:26,Pittman L.B.FOUL (P4.PN),,,,,4,202354,Dexter Pittman,1610612741.0,Chicago,Bulls,CHI,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,611,3,11,4,10:34 PM,0:26,,,Antetokounmpo Free Throw 1 of 2 (5 PTS),81 - 105,24,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,613,3,12,4,10:34 PM,0:26,,,Antetokounmpo Free Throw 2 of 2 (6 PTS),82 - 105,23,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,615,5,2,4,10:35 PM,0:18,Teague Lost Ball Turnover (P3.T18),,Graham STEAL (1 STL),,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300086,616,6,3,4,10:35 PM,0:18,Teague L.B.FOUL (P4.PN),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300086,617,3,11,4,10:35 PM,0:18,,,Graham Free Throw 1 of 2 (1 PTS),83 - 105,22,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,619,3,12,4,10:35 PM,0:18,,,Graham Free Throw 2 of 2 (2 PTS),84 - 105,21,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300086,622,13,0,4,10:36 PM,0:00,,End of 4th Period (10:36 PM EST),,84 - 105,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

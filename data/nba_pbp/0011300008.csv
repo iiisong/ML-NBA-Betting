@@ -1,0 +1,526 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300008,1,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,2,10,0,1,8:11 PM,12:00,Jump Ball Pekovic vs. Kaun: Tip to Rubio,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,3,2,46,1,8:12 PM,11:34,MISS Martin 5' Running Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,4,4,0,1,8:12 PM,11:33,,,Kaun REBOUND (Off:0 Def:1),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,5,1,47,1,8:12 PM,11:24,,,Micov 7' Turnaround Jump Shot (2 PTS) (Khryapa 1 AST),2 - 0,-2,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,6,5,1,1,8:12 PM,11:11,Brewer Bad Pass Turnover (P1.T1),,Khryapa STEAL (1 STL),,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,7,1,42,1,8:12 PM,11:07,,,Fridzon 2' Driving Layup (2 PTS) (Khryapa 2 AST),4 - 0,-4,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,8,2,1,1,8:13 PM,10:47,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,9,4,0,1,8:13 PM,10:45,,,Khryapa REBOUND (Off:0 Def:1),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,10,2,5,1,8:13 PM,10:28,,,MISS Kaun 2' Layup,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,11,4,0,1,8:13 PM,10:27,Pekovic REBOUND (Off:0 Def:1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,12,2,79,1,8:13 PM,10:19,MISS Martin 15' Pullup Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,13,4,0,1,8:13 PM,10:18,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,14,6,3,1,8:13 PM,10:18,,,Khryapa L.B.FOUL (P1.T1),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,15,2,1,1,8:13 PM,10:10,MISS Martin 24' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,16,4,0,1,8:14 PM,10:09,,,Kaun REBOUND (Off:0 Def:2),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,17,5,2,1,8:14 PM,9:57,Love STEAL (1 STL),,Khryapa Lost Ball Turnover (P1.T1),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,18,6,2,1,8:14 PM,9:52,,,Khryapa S.FOUL (P2.T2),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,19,3,11,1,8:14 PM,9:52,Martin Free Throw 1 of 2 (1 PTS),,,4 - 1,-3,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,21,8,0,1,8:14 PM,9:52,,,SUB: Krstic FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,22,3,12,1,8:15 PM,9:52,Martin Free Throw 2 of 2 (2 PTS),,,4 - 2,-2,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,24,1,79,1,8:15 PM,9:38,,,Fridzon 16' Pullup Jump Shot (4 PTS),6 - 2,-4,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,25,2,1,1,8:15 PM,9:25,MISS Rubio 5' Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,26,4,0,1,8:15 PM,9:23,,,Fridzon REBOUND (Off:0 Def:1),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,27,2,1,1,8:15 PM,9:13,,,MISS Fridzon 25' 3PT Jump Shot,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,28,4,0,1,8:15 PM,9:11,Rubio REBOUND (Off:0 Def:1),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,29,2,5,1,8:15 PM,9:08,MISS Martin 3' Layup,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,30,4,0,1,8:15 PM,9:07,,,Fridzon REBOUND (Off:0 Def:2),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,31,2,1,1,8:16 PM,8:52,,,MISS Krstic 21' Jump Shot,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,32,4,0,1,8:16 PM,8:51,Martin REBOUND (Off:0 Def:1),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,33,2,65,1,8:16 PM,8:45,MISS Love 7' Jump Hook Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,34,4,0,1,8:16 PM,8:45,,,Kaun REBOUND (Off:0 Def:3),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,35,6,2,1,8:16 PM,8:31,Pekovic S.FOUL (P1.T1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,36,3,11,1,8:17 PM,8:31,,,MISS Pargo Free Throw 1 of 2,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,37,4,1,1,8:17 PM,8:31,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,38,3,12,1,8:17 PM,8:31,,,MISS Pargo Free Throw 2 of 2,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,40,4,0,1,8:17 PM,8:31,Pekovic REBOUND (Off:0 Def:2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,41,1,75,1,8:17 PM,8:24,Rubio 2' Driving Finger Roll Layup (2 PTS),,,6 - 4,-2,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,42,5,2,1,8:17 PM,8:06,Brewer STEAL (1 STL),,Pargo Lost Ball Turnover (P1.T2),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,43,1,7,1,8:17 PM,8:02,Brewer 1' Dunk (2 PTS) (Rubio 1 AST),,,6 - 6,TIE,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,44,6,4,1,8:18 PM,7:46,,,Kaun OFF.Foul (P1),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,45,5,5,1,8:18 PM,7:46,,,Kaun Foul Turnover (P1.T3),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,46,8,0,1,8:18 PM,7:46,,,SUB: Teodosic FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,47,8,0,1,8:18 PM,7:46,,,SUB: Jackson FOR Pargo,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,48,1,1,1,8:18 PM,7:27,Martin 24' 3PT Jump Shot (5 PTS) (Love 1 AST),,,6 - 9,3,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,49,1,65,1,8:19 PM,7:07,,,Krstic 7' Jump Hook Shot (2 PTS),8 - 9,1,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,50,6,2,1,8:19 PM,7:02,,,Jackson S.FOUL (P1.T3),,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,51,3,11,1,8:19 PM,7:02,Rubio Free Throw 1 of 2 (3 PTS),,,8 - 10,2,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,53,3,12,1,8:19 PM,7:02,MISS Rubio Free Throw 2 of 2,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,55,4,0,1,8:19 PM,7:02,,,Kaun REBOUND (Off:0 Def:4),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,58,1,1,1,8:20 PM,6:41,,,Krstic 21' Jump Shot (4 PTS) (Teodosic 1 AST),10 - 10,TIE,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,59,1,63,1,8:20 PM,6:23,Martin 12' Fadeaway Jumper (7 PTS),,,10 - 12,2,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,60,6,1,1,8:21 PM,6:09,Martin P.FOUL (P1.T2),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,61,8,0,1,8:21 PM,6:09,,,SUB: Hines FOR Kaun,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,62,1,1,1,8:21 PM,6:04,,,Teodosic 25' 3PT Jump Shot (3 PTS) (Micov 1 AST),13 - 12,-1,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,63,7,5,1,8:21 PM,5:51,,,Jackson Violation:Kicked Ball,,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,64,9,1,1,8:22 PM,5:51,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,66,6,17,1,8:24 PM,5:43,,,CSKA T.Foul (Def. 3 Sec Krstic ),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,67,3,16,1,8:24 PM,5:43,MISS Love Free Throw Technical,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,68,4,1,1,8:24 PM,5:43,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,69,2,63,1,8:25 PM,5:32,MISS Rubio 13' Fadeaway Jumper,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,70,4,0,1,8:25 PM,5:31,,,Micov REBOUND (Off:0 Def:1),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,71,2,1,1,8:25 PM,5:22,,,MISS Teodosic 26' 3PT Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,72,4,0,1,8:25 PM,5:21,Martin REBOUND (Off:0 Def:2),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,73,2,5,1,8:25 PM,5:18,MISS Brewer 2' Layup,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,74,4,0,1,8:25 PM,5:17,,,Teodosic REBOUND (Off:0 Def:1),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,75,7,5,1,8:25 PM,5:11,Rubio Violation:Kicked Ball,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300008,76,8,0,1,8:25 PM,5:11,,,SUB: Pargo FOR Jackson,,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,78,1,1,1,8:26 PM,5:00,,,Hines 11' Jump Shot (2 PTS) (Micov 2 AST),15 - 12,-3,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,79,2,58,1,8:26 PM,4:36,MISS Pekovic 8' Turnaround Hook Shot,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,80,4,0,1,8:26 PM,4:35,,,Krstic REBOUND (Off:0 Def:1),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,81,1,79,1,8:27 PM,4:20,,,Teodosic 20' Pullup Jump Shot (5 PTS),17 - 12,-5,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,82,7,5,1,8:27 PM,4:00,,,Pargo Violation:Kicked Ball,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,83,2,1,1,8:27 PM,3:58,MISS Martin 25' 3PT Jump Shot,,Micov BLOCK (1 BLK),,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0
+0011300008,84,4,0,1,8:27 PM,3:56,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,85,6,3,1,8:27 PM,3:56,Martin L.B.FOUL (P2.T3),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,86,8,0,1,8:27 PM,3:56,,,SUB: Fridzon FOR Micov,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,87,1,1,1,8:28 PM,3:43,,,Fridzon 25' 3PT Jump Shot (7 PTS) (Teodosic 2 AST),20 - 12,-8,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,88,2,1,1,8:28 PM,3:24,MISS Martin 14' Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,89,4,0,1,8:28 PM,3:23,,,Hines REBOUND (Off:0 Def:1),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,90,2,1,1,8:28 PM,3:14,,,MISS Fridzon  3PT Jump Shot,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,91,4,0,1,8:28 PM,3:13,Love REBOUND (Off:0 Def:1),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,92,2,1,1,8:28 PM,3:06,MISS Brewer 24' 3PT Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,93,4,0,1,8:28 PM,3:05,Love REBOUND (Off:1 Def:1),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,94,2,5,1,8:28 PM,3:01,MISS Love 2' Layup,,Hines BLOCK (1 BLK),,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0
+0011300008,95,4,0,1,8:28 PM,3:00,,,Krstic REBOUND (Off:0 Def:2),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,96,1,5,1,8:29 PM,2:55,,,Krstic 2' Layup (6 PTS) (Pargo 1 AST),22 - 12,-10,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,97,1,79,1,8:29 PM,2:36,Rubio 20' Pullup Jump Shot (5 PTS),,,22 - 14,-8,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,98,6,2,1,8:29 PM,2:36,,,Hines S.FOUL (P1.T4),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,105,9,1,1,8:30 PM,2:36,,,CSKA Timeout: Regular (Reg.1 Short 0),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,100,8,0,1,8:31 PM,2:36,SUB: Shved FOR Martin,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,101,8,0,1,8:31 PM,2:36,SUB: Williams FOR Brewer,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,102,8,0,1,8:31 PM,2:36,SUB: Turiaf FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,103,3,10,1,8:32 PM,2:36,Rubio Free Throw 1 of 1 (6 PTS),,,22 - 15,-7,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,106,2,1,1,8:32 PM,2:19,,,MISS Hines 16' Jump Shot,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,107,4,0,1,8:32 PM,2:18,Williams REBOUND (Off:0 Def:1),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,108,5,1,1,8:32 PM,2:08,Rubio Bad Pass Turnover (P1.T2),,Teodosic STEAL (1 STL),,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,109,5,1,1,8:32 PM,2:02,Rubio STEAL (1 STL),,Teodosic Bad Pass Turnover (P1.T4),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,112,2,1,1,8:33 PM,1:55,MISS Shved 18' Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,113,4,0,1,8:33 PM,1:54,,,Teodosic REBOUND (Off:0 Def:2),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,115,6,2,1,8:33 PM,1:36,Williams S.FOUL (P1.T4),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,116,3,11,1,8:33 PM,1:36,,,Teodosic Free Throw 1 of 2 (6 PTS),23 - 15,-8,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,118,8,0,1,8:34 PM,1:36,SUB: Hummel FOR Love,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,119,8,0,1,8:34 PM,1:36,SUB: Muhammad FOR Rubio,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,120,3,12,1,8:34 PM,1:36,,,Teodosic Free Throw 2 of 2 (7 PTS),24 - 15,-9,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,122,5,1,1,8:34 PM,1:29,Shved Bad Pass Turnover (P1.T3),,Fridzon STEAL (1 STL),,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,124,8,0,1,8:34 PM,1:28,,,SUB: Micov FOR Teodosic,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,125,6,1,1,8:35 PM,1:19,Hummel P.FOUL (P1.PN),,,,,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,126,3,11,1,8:35 PM,1:19,,,MISS Krstic Free Throw 1 of 2,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,127,4,1,1,8:35 PM,1:19,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,128,3,12,1,8:35 PM,1:19,,,Krstic Free Throw 2 of 2 (7 PTS),25 - 15,-10,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,130,6,26,1,8:36 PM,1:06,Muhammad Offensive Charge Foul (P1.PN),,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,131,5,5,1,8:36 PM,1:06,Muhammad Foul Turnover (P1.T4),,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300008,132,2,1,1,8:36 PM,0:49,Shved BLOCK (1 BLK),,MISS Pargo 17' Jump Shot,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,133,4,0,1,8:36 PM,0:47,Williams REBOUND (Off:0 Def:2),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,134,1,1,1,8:37 PM,0:38,Hummel 17' Jump Shot (2 PTS) (Shved 1 AST),,,25 - 17,-8,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,135,2,1,1,8:37 PM,0:21,Turiaf BLOCK (1 BLK),,MISS Micov 3' Jump Shot,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,136,4,0,1,8:37 PM,0:20,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,137,2,44,1,8:37 PM,0:19,Turiaf BLOCK (2 BLK),,MISS Micov 3' Reverse Layup,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,138,4,0,1,8:37 PM,0:16,Williams REBOUND (Off:0 Def:3),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,139,2,1,1,8:38 PM,0:00,MISS Hummel 26' 3PT Jump Shot,,,,,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,140,4,0,1,8:38 PM,0:00,,,Fridzon REBOUND (Off:0 Def:3),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,141,13,0,1,8:38 PM,0:00,,End of 1st Period (8:38 PM EST),,25 - 17,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,143,12,0,2,8:41 PM,12:00,,Start of 2nd Period (8:41 PM EST),,25 - 17,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,144,10,0,2,8:41 PM,11:53,Jump Ball Shved vs. Pargo: Tip to Kaun,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0
+0011300008,146,1,1,2,8:42 PM,11:37,,,Kaun 4' Jump Shot (2 PTS) (Pargo 2 AST),27 - 17,-10,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,147,2,5,2,8:42 PM,11:14,MISS Shved 2' Layup,,Kaun BLOCK (1 BLK),,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0
+0011300008,148,4,0,2,8:42 PM,11:13,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,149,1,1,2,8:43 PM,10:57,,,Khryapa 14' Jump Shot (2 PTS) (Pargo 3 AST),29 - 17,-12,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,150,1,1,2,8:43 PM,10:40,Hummel 25' 3PT Jump Shot (5 PTS) (Shved 2 AST),,,29 - 20,-9,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,151,1,1,2,8:43 PM,10:21,,,Khryapa 21' Jump Shot (4 PTS) (Micov 3 AST),31 - 20,-11,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,152,2,1,2,8:44 PM,10:05,MISS Muhammad 25' 3PT Jump Shot,,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,153,4,0,2,8:44 PM,10:04,,,Khryapa REBOUND (Off:0 Def:2),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,154,6,2,2,8:44 PM,9:49,Muhammad S.FOUL (P2.T1),,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,155,3,11,2,8:44 PM,9:49,,,Fridzon Free Throw 1 of 2 (8 PTS),32 - 20,-12,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,157,3,12,2,8:44 PM,9:49,,,Fridzon Free Throw 2 of 2 (9 PTS),33 - 20,-13,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,159,6,2,2,8:45 PM,9:42,,,Fridzon S.FOUL (P1.T1),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,160,3,11,2,8:45 PM,9:42,MISS Shved Free Throw 1 of 2,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,161,4,1,2,8:45 PM,9:42,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,162,3,12,2,8:45 PM,9:42,Shved Free Throw 2 of 2 (1 PTS),,,33 - 21,-12,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,164,2,1,2,8:45 PM,9:29,,,MISS Micov 25' 3PT Jump Shot,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,165,4,0,2,8:46 PM,9:28,Turiaf REBOUND (Off:0 Def:1),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,166,1,5,2,8:46 PM,9:19,Williams 2' Layup (2 PTS) (Shved 3 AST),,,33 - 23,-10,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,167,6,2,2,8:46 PM,8:59,Muhammad S.FOUL (P3.T2),,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,168,9,1,2,8:46 PM,8:59,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,170,3,11,2,8:48 PM,8:59,,,Fridzon Free Throw 1 of 2 (10 PTS),34 - 23,-11,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,172,3,12,2,8:49 PM,8:59,,,Fridzon Free Throw 2 of 2 (11 PTS),35 - 23,-12,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,175,8,0,2,8:49 PM,8:46,,,SUB: Teodosic FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,176,2,5,2,8:50 PM,8:36,MISS Shved 2' Layup,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,177,4,0,2,8:50 PM,8:34,,,Kaun REBOUND (Off:0 Def:5),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,179,7,2,2,8:50 PM,8:20,Williams Violation:Defensive Goaltending,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300008,178,1,77,2,8:50 PM,8:20,,,Micov 5' Driving Jump Shot (4 PTS),37 - 23,-14,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,180,2,1,2,8:50 PM,8:06,MISS Muhammad 25' 3PT Jump Shot,,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,181,4,0,2,8:50 PM,8:05,,,Khryapa REBOUND (Off:0 Def:3),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,182,1,1,2,8:50 PM,7:58,,,Teodosic 25' 3PT Jump Shot (10 PTS),40 - 23,-17,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,183,6,2,2,8:51 PM,7:36,,,Micov S.FOUL (P1.T2),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,184,3,11,2,8:51 PM,7:36,MISS Williams Free Throw 1 of 2,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,185,4,1,2,8:51 PM,7:36,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,186,8,0,2,8:52 PM,7:36,SUB: Rubio FOR Shved,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,187,8,0,2,8:52 PM,7:36,SUB: Pekovic FOR Turiaf,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,188,8,0,2,8:52 PM,7:36,SUB: Martin FOR Muhammad,,,,,4,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,189,8,0,2,8:52 PM,7:36,SUB: Love FOR Hummel,,,,,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,190,8,0,2,8:52 PM,7:36,,,SUB: Jackson FOR Pargo,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,191,3,12,2,8:52 PM,7:36,Williams Free Throw 2 of 2 (3 PTS),,,40 - 24,-16,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,193,2,1,2,8:52 PM,7:19,,,MISS Khryapa 21' Jump Shot,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,194,4,0,2,8:52 PM,7:17,Williams REBOUND (Off:0 Def:4),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,195,2,5,2,8:52 PM,6:59,MISS Pekovic 3' Layup,,Khryapa BLOCK (1 BLK),,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0
+0011300008,196,4,0,2,8:52 PM,6:57,,,Jackson REBOUND (Off:0 Def:1),,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,197,1,75,2,8:52 PM,6:48,,,Teodosic 3' Driving Finger Roll Layup (12 PTS),42 - 24,-18,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,198,1,46,2,8:53 PM,6:42,Martin 9' Running Jump Shot (9 PTS),,,42 - 26,-16,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,199,6,2,2,8:53 PM,6:42,,,Micov S.FOUL (P2.T3),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,201,8,0,2,8:53 PM,6:42,,,SUB: Zozulin FOR Micov,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42588,Aleksey Zozulin,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,202,8,0,2,8:53 PM,6:42,,,SUB: Hines FOR Kaun,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,203,3,10,2,8:53 PM,6:42,Martin Free Throw 1 of 1 (10 PTS),,,42 - 27,-15,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,205,6,4,2,8:54 PM,6:34,,,Hines OFF.Foul (P2),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,206,5,5,2,8:54 PM,6:34,,,Hines Foul Turnover (P1.T5),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,207,8,0,2,8:54 PM,6:34,,,SUB: Krstic FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,208,6,2,2,8:54 PM,6:21,,,Krstic S.FOUL (P1.T4),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,209,3,11,2,8:54 PM,6:21,Love Free Throw 1 of 2 (1 PTS),,,42 - 28,-14,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,211,3,12,2,8:55 PM,6:21,Love Free Throw 2 of 2 (2 PTS),,,42 - 29,-13,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,213,2,1,2,8:55 PM,6:09,,,MISS Krstic 21' Jump Shot,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,214,4,0,2,8:55 PM,6:08,,,Krstic REBOUND (Off:1 Def:2),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,215,2,5,2,8:55 PM,6:07,Williams BLOCK (1 BLK),,MISS Krstic 1' Layup,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,216,4,0,2,8:55 PM,6:06,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,217,2,79,2,8:56 PM,5:55,,,MISS Teodosic 18' Pullup Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,218,4,0,2,8:56 PM,5:53,Williams REBOUND (Off:0 Def:5),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,219,5,1,2,8:56 PM,5:43,Rubio Bad Pass Turnover (P2.T5),,Jackson STEAL (1 STL),,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,220,1,8,2,8:56 PM,5:38,,,Hines 1' Slam Dunk (4 PTS) (Teodosic 3 AST),44 - 29,-15,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,221,1,65,2,8:56 PM,5:15,Pekovic 2' Jump Hook Shot (2 PTS) (Love 2 AST),,,44 - 31,-13,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,222,1,1,2,8:57 PM,4:53,,,Teodosic 27' 3PT Jump Shot (15 PTS) (Jackson 1 AST),47 - 31,-16,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,223,1,5,2,8:57 PM,4:43,Pekovic 2' Layup (4 PTS) (Martin 1 AST),,,47 - 33,-14,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,224,2,79,2,8:57 PM,4:20,,,MISS Jackson 19' Pullup Jump Shot,,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,225,4,0,2,8:57 PM,4:19,Love REBOUND (Off:1 Def:2),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,226,6,2,2,8:57 PM,4:08,,,Zozulin S.FOUL (P1.PN),,,5,42588,Aleksey Zozulin,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,227,9,1,2,8:58 PM,4:08,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,229,8,0,2,9:00 PM,4:08,,,SUB: Khryapa FOR Zozulin,,,5,42588,Aleksey Zozulin,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,230,3,11,2,9:00 PM,4:08,Williams Free Throw 1 of 2 (4 PTS),,,47 - 34,-13,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,232,3,12,2,9:00 PM,4:08,Williams Free Throw 2 of 2 (5 PTS),,,47 - 35,-12,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,234,1,1,2,9:01 PM,3:47,,,Teodosic 20' Jump Shot (17 PTS),49 - 35,-14,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,235,6,1,2,9:01 PM,3:35,,,Teodosic P.FOUL (P1.PN),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,236,3,11,2,9:01 PM,3:35,MISS Martin Free Throw 1 of 2,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,237,4,1,2,9:01 PM,3:35,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,239,8,0,2,9:02 PM,3:35,SUB: Brewer FOR Williams,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,240,3,12,2,9:02 PM,3:35,Martin Free Throw 2 of 2 (11 PTS),,,49 - 36,-13,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,242,6,4,2,9:02 PM,3:19,,,Khryapa OFF.Foul (P3),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,243,5,5,2,9:02 PM,3:19,,,Khryapa Foul Turnover (P2.T6),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,244,8,0,2,9:02 PM,3:19,,,SUB: Kaun FOR Hines,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,245,2,5,2,9:02 PM,3:09,MISS Martin 2' Layup,,Teodosic BLOCK (1 BLK),,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0
+0011300008,246,4,0,2,9:03 PM,3:08,Pekovic REBOUND (Off:1 Def:2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,247,1,5,2,9:03 PM,3:06,Pekovic 2' Layup (6 PTS),,,49 - 38,-11,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,248,6,1,2,9:03 PM,2:58,Martin P.FOUL (P3.T3),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,249,9,1,2,9:03 PM,2:58,,,CSKA Timeout: Regular (Reg.2 Short 0),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,251,8,0,2,9:05 PM,2:58,,,SUB: Micov FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,252,1,44,2,9:05 PM,2:43,,,Kaun 3' Reverse Layup (4 PTS) (Teodosic 4 AST),51 - 38,-13,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,253,1,5,2,9:06 PM,2:26,Love 3' Layup (4 PTS) (Rubio 2 AST),,,51 - 40,-11,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,254,6,2,2,9:06 PM,2:26,,,Krstic S.FOUL (P2.PN),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,256,3,10,2,9:06 PM,2:26,Love Free Throw 1 of 1 (5 PTS),,,51 - 41,-10,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,258,1,46,2,9:06 PM,2:11,,,Krstic 5' Running Jump Shot (9 PTS),53 - 41,-12,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,259,1,46,2,9:06 PM,2:02,Rubio 7' Running Jump Shot (8 PTS),,,53 - 43,-10,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,260,2,1,2,9:07 PM,1:46,,,MISS Krstic 18' Jump Shot,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,261,4,0,2,9:07 PM,1:44,Rubio REBOUND (Off:0 Def:2),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,262,1,1,2,9:07 PM,1:36,Brewer  3PT Jump Shot (5 PTS) (Martin 2 AST),,,53 - 46,-7,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,263,2,5,2,9:07 PM,1:09,,,MISS Micov 2' Layup,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,264,4,0,2,9:07 PM,1:08,Pekovic REBOUND (Off:1 Def:3),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,265,1,46,2,9:07 PM,1:01,Martin 7' Running Jump Shot (13 PTS) (Rubio 3 AST),,,53 - 48,-5,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,266,6,2,2,9:07 PM,1:01,,,Teodosic S.FOUL (P2.PN),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,267,8,0,2,9:08 PM,1:01,,,SUB: Pargo FOR Jackson,,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,268,8,0,2,9:08 PM,1:01,,,SUB: Fridzon FOR Teodosic,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,269,3,10,2,9:08 PM,1:01,MISS Martin Free Throw 1 of 1,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,271,4,0,2,9:08 PM,1:01,,,Krstic REBOUND (Off:1 Def:3),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,273,2,1,2,9:08 PM,0:40,,,MISS Micov 27' 3PT Jump Shot,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,276,4,0,2,9:08 PM,0:39,Love REBOUND (Off:1 Def:3),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,277,1,5,2,9:08 PM,0:36,Brewer 1' Layup (7 PTS) (Love 3 AST),,,53 - 50,-3,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,279,5,4,2,9:09 PM,0:19,,,Micov Traveling Turnover (P1.T7),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,281,9,2,2,9:09 PM,0:19,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,283,2,1,2,9:10 PM,0:04,MISS Rubio 21' Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,284,4,0,2,9:10 PM,0:03,,,Fridzon REBOUND (Off:0 Def:4),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,285,2,1,2,9:11 PM,0:01,,,MISS Fridzon 38' 3PT Jump Shot,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,286,4,0,2,9:11 PM,0:00,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,287,13,0,2,9:11 PM,0:00,,End of 2nd Period (9:11 PM EST),,53 - 50,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,289,12,0,3,9:26 PM,12:00,,Start of 3rd Period (9:26 PM EST),,53 - 50,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,290,5,1,3,9:27 PM,11:47,,,Pargo Bad Pass Turnover (P2.T8),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,291,2,1,3,9:27 PM,11:36,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,292,4,0,3,9:27 PM,11:35,,,Micov REBOUND (Off:0 Def:2),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,293,2,1,3,9:27 PM,11:12,,,MISS Fridzon 22' Jump Shot,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,294,4,0,3,9:27 PM,11:10,Martin REBOUND (Off:0 Def:3),,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,295,5,1,3,9:28 PM,11:00,Rubio Bad Pass Turnover (P3.T6),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,296,1,65,3,9:28 PM,10:45,,,Kaun 5' Jump Hook Shot (6 PTS) (Khryapa 3 AST),55 - 50,-5,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,297,2,79,3,9:28 PM,10:29,MISS Rubio 18' Pullup Jump Shot,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,298,4,0,3,9:28 PM,10:28,,,Khryapa REBOUND (Off:0 Def:4),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,299,1,79,3,9:28 PM,10:18,,,Pargo 20' Pullup Jump Shot (2 PTS),57 - 50,-7,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,300,5,1,3,9:29 PM,10:02,Martin Bad Pass Turnover (P1.T7),,Fridzon STEAL (2 STL),,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,301,2,1,3,9:29 PM,9:47,,,MISS Micov 21' Jump Shot,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,302,4,0,3,9:29 PM,9:45,Love REBOUND (Off:1 Def:4),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,303,5,1,3,9:29 PM,9:44,Love Bad Pass Turnover (P1.T8),,Khryapa STEAL (2 STL),,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,304,6,3,3,9:29 PM,9:43,Brewer L.B.FOUL (P1.T1),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,305,1,1,3,9:29 PM,9:32,,,Pargo 15' Jump Shot (4 PTS),59 - 50,-9,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,306,2,46,3,9:30 PM,9:13,MISS Pekovic 8' Running Jump Shot,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,307,4,0,3,9:30 PM,9:12,Love REBOUND (Off:2 Def:4),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,308,1,5,3,9:30 PM,9:10,Love 1' Layup (7 PTS),,,59 - 52,-7,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,309,5,1,3,9:30 PM,8:53,,,Pargo Bad Pass Turnover (P3.T9),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,310,2,1,3,9:30 PM,8:42,MISS Martin 24' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,311,4,0,3,9:30 PM,8:41,,,Kaun REBOUND (Off:0 Def:6),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,313,5,40,3,9:31 PM,8:26,,,Khryapa Out of Bounds Lost Ball Turnover (P3.T10),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,314,9,1,3,9:31 PM,8:26,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,316,6,1,3,9:34 PM,8:13,,,Pargo P.FOUL (P1.T1),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,317,1,65,3,9:34 PM,8:10,Love 11' Jump Hook Shot (9 PTS) (Brewer 1 AST),,,59 - 54,-5,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,318,6,1,3,9:34 PM,7:57,Love P.FOUL (P1.T2),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,319,1,1,3,9:34 PM,7:46,,,Khryapa 19' Jump Shot (6 PTS) (Pargo 4 AST),61 - 54,-7,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,320,1,42,3,9:35 PM,7:26,Rubio 2' Driving Layup (10 PTS),,,61 - 56,-5,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,321,2,42,3,9:35 PM,7:12,,,MISS Pargo  Driving Layup,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,322,4,0,3,9:35 PM,7:11,Love REBOUND (Off:2 Def:5),,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,323,5,40,3,9:35 PM,7:01,Pekovic Out of Bounds Lost Ball Turnover (P1.T9),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,324,6,4,3,9:36 PM,6:55,,,Fridzon OFF.Foul (P2),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,325,5,5,3,9:36 PM,6:55,,,Fridzon Foul Turnover (P1.T11),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,326,6,2,3,9:36 PM,6:38,,,Fridzon S.FOUL (P3.T2),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,327,3,11,3,9:36 PM,6:38,Martin Free Throw 1 of 2 (14 PTS),,,61 - 57,-4,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,329,3,12,3,9:37 PM,6:38,MISS Martin Free Throw 2 of 2,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,331,4,0,3,9:37 PM,6:37,,,Khryapa REBOUND (Off:0 Def:5),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,332,5,1,3,9:37 PM,6:24,Brewer STEAL (2 STL),,Khryapa Bad Pass Turnover (P4.T12),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,333,2,42,3,9:37 PM,6:19,MISS Brewer 1' Driving Layup,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,334,4,0,3,9:37 PM,6:18,Rubio REBOUND (Off:1 Def:2),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,335,1,66,3,9:37 PM,6:11,Brewer 9' Jump Bank Shot (9 PTS) (Love 4 AST),,,61 - 59,-2,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,336,1,1,3,9:37 PM,5:57,,,Khryapa 18' Jump Shot (8 PTS) (Pargo 5 AST),63 - 59,-4,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,337,6,1,3,9:38 PM,5:50,,,Khryapa P.FOUL (P4.T3),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,338,8,0,3,9:38 PM,5:50,,,SUB: Teodosic FOR Micov,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,339,8,0,3,9:38 PM,5:50,,,SUB: Krstic FOR Kaun,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,340,8,0,3,9:38 PM,5:50,,,SUB: Hines FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,341,2,5,3,9:38 PM,5:45,MISS Martin 1' Layup,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,342,4,0,3,9:38 PM,5:44,Pekovic REBOUND (Off:2 Def:3),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,343,2,5,3,9:38 PM,5:42,MISS Pekovic 2' Layup,,Hines BLOCK (2 BLK),,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0
+0011300008,344,4,0,3,9:38 PM,5:41,,,Fridzon REBOUND (Off:0 Def:5),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,345,1,1,3,9:38 PM,5:25,,,Pargo 25' 3PT Jump Shot (7 PTS) (Hines 1 AST),66 - 59,-7,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,346,2,1,3,9:38 PM,5:15,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,347,4,0,3,9:38 PM,5:13,,,Teodosic REBOUND (Off:0 Def:3),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,348,2,1,3,9:39 PM,5:05,,,MISS Krstic 3' Jump Shot,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,349,4,0,3,9:39 PM,5:04,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,351,6,1,3,9:39 PM,4:57,Brewer P.FOUL (P2.T3),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,352,9,2,3,9:40 PM,4:57,,,CSKA Timeout: Short (Reg.2 Short 1),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,354,2,5,3,9:41 PM,4:50,,,MISS Hines 1' Layup,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,355,4,0,3,9:41 PM,4:49,Pekovic REBOUND (Off:2 Def:4),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,356,1,42,3,9:41 PM,4:40,Martin 2' Driving Layup (16 PTS) (Love 5 AST),,,66 - 61,-5,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,357,1,1,3,9:41 PM,4:18,,,Teodosic 22' Jump Shot (19 PTS) (Krstic 1 AST),68 - 61,-7,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,358,2,1,3,9:42 PM,4:06,MISS Brewer  3PT Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,359,4,0,3,9:42 PM,4:05,Brewer REBOUND (Off:1 Def:0),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,360,2,5,3,9:42 PM,4:03,MISS Brewer  Layup,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,362,4,0,3,9:42 PM,4:02,Pekovic REBOUND (Off:3 Def:4),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,361,1,4,3,9:42 PM,4:02,Pekovic 3' Tip Shot (8 PTS),,,68 - 63,-5,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,363,1,1,3,9:42 PM,3:44,,,Krstic 19' Jump Shot (11 PTS) (Teodosic 5 AST),70 - 63,-7,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,364,2,1,3,9:42 PM,3:26,MISS Martin 16' Jump Shot,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,365,4,0,3,9:42 PM,3:24,,,Teodosic REBOUND (Off:0 Def:4),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,366,6,2,3,9:42 PM,3:20,Rubio S.FOUL (P1.T4),,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,367,3,11,3,9:43 PM,3:20,,,Fridzon Free Throw 1 of 2 (12 PTS),71 - 63,-8,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,369,3,12,3,9:43 PM,3:20,,,Fridzon Free Throw 2 of 2 (13 PTS),72 - 63,-9,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,371,6,2,3,9:43 PM,3:07,,,Teodosic S.FOUL (P3.T4),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,372,3,11,3,9:43 PM,3:07,MISS Brewer Free Throw 1 of 2,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,373,4,1,3,9:43 PM,3:07,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,374,8,0,3,9:44 PM,3:07,SUB: Turiaf FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,375,8,0,3,9:44 PM,3:07,SUB: Jeffers FOR Martin,,,,,4,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,379,8,0,3,9:44 PM,3:07,,,SUB: Jackson FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,376,3,12,3,9:44 PM,3:07,MISS Brewer Free Throw 2 of 2,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,378,4,0,3,9:44 PM,3:06,,,Jackson REBOUND (Off:0 Def:2),,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,380,2,1,3,9:45 PM,2:43,,,MISS Teodosic 19' Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,381,4,0,3,9:45 PM,2:42,Brewer REBOUND (Off:1 Def:1),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,382,1,5,3,9:45 PM,2:37,Jeffers 1' Layup (2 PTS) (Brewer 2 AST),,,72 - 65,-7,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,383,6,1,3,9:45 PM,2:26,Jeffers P.FOUL (P1.PN),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,385,9,1,3,9:45 PM,2:26,,,CSKA Timeout: Regular (Reg.3 Short 1),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,387,8,0,3,9:47 PM,2:26,SUB: Shved FOR Brewer,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,388,8,0,3,9:47 PM,2:26,SUB: Williams FOR Love,,,,,4,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,389,8,0,3,9:47 PM,2:26,SUB: Price FOR Rubio,,,,,4,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,390,3,11,3,9:48 PM,2:26,,,MISS Teodosic Free Throw 1 of 2,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,391,4,1,3,9:48 PM,2:26,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,392,3,12,3,9:48 PM,2:26,,,Teodosic Free Throw 2 of 2 (20 PTS),73 - 65,-8,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,394,2,1,3,9:48 PM,2:07,MISS Williams 14' Jump Shot,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,395,4,0,3,9:48 PM,2:06,,,Hines REBOUND (Off:0 Def:2),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,396,6,2,3,9:48 PM,2:01,Shved S.FOUL (P1.PN),,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,397,3,11,3,9:49 PM,2:01,,,Pargo Free Throw 1 of 2 (8 PTS),74 - 65,-9,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,399,3,12,3,9:49 PM,2:01,,,Pargo Free Throw 2 of 2 (9 PTS),75 - 65,-10,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,401,2,1,3,9:49 PM,1:36,MISS Price  3PT Jump Shot,,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,402,4,0,3,9:49 PM,1:34,,,Pargo REBOUND (Off:0 Def:1),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,403,1,1,3,9:50 PM,1:15,,,Krstic 17' Jump Shot (13 PTS) (Pargo 6 AST),77 - 65,-12,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,404,1,1,3,9:50 PM,0:56,Williams 17' Jump Shot (7 PTS),,,77 - 67,-10,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,405,2,1,3,9:50 PM,0:40,,,MISS Pargo 25' 3PT Jump Shot,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,406,4,0,3,9:50 PM,0:38,Price REBOUND (Off:0 Def:1),,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,407,2,1,3,9:51 PM,0:24,MISS Williams 6' Jump Shot,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,408,4,0,3,9:51 PM,0:23,Turiaf REBOUND (Off:1 Def:1),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,409,2,1,3,9:51 PM,0:03,MISS Shved 25' 3PT Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,410,4,0,3,9:51 PM,0:02,Jeffers REBOUND (Off:1 Def:0),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,411,1,5,3,9:51 PM,0:01,Jeffers 2' Layup (4 PTS),,,77 - 69,-8,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,412,13,0,3,9:51 PM,0:00,,End of 3rd Period (9:51 PM EST),,77 - 69,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,414,12,0,4,9:54 PM,12:00,,Start of 4th Period (9:54 PM EST),,77 - 69,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,415,2,5,4,9:54 PM,11:45,MISS Jeffers  Layup,,Kaun BLOCK (2 BLK),,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0
+0011300008,416,4,0,4,9:54 PM,11:44,,,Micov REBOUND (Off:0 Def:3),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,417,5,1,4,9:55 PM,11:24,,,Pargo Bad Pass Turnover (P4.T13),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,418,1,1,4,9:55 PM,11:09,Price 19' Jump Shot (2 PTS),,,77 - 71,-6,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,419,6,2,4,9:55 PM,10:54,Jeffers S.FOUL (P2.T1),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,420,3,11,4,9:56 PM,10:54,,,MISS Micov Free Throw 1 of 2,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,421,4,1,4,9:56 PM,10:54,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,422,3,12,4,9:56 PM,10:54,,,Micov Free Throw 2 of 2 (5 PTS),78 - 71,-7,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,424,2,1,4,9:56 PM,10:42,MISS Price 8' Jump Shot,,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,426,4,0,4,9:56 PM,10:40,Turiaf REBOUND (Off:2 Def:1),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,425,2,5,4,9:56 PM,10:40,MISS Turiaf 3' Layup,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,428,4,0,4,9:56 PM,10:39,Turiaf REBOUND (Off:3 Def:1),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,427,1,4,4,9:56 PM,10:39,Turiaf 1' Tip Shot (2 PTS),,,78 - 73,-5,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,429,5,1,4,9:57 PM,10:20,Turiaf STEAL (1 STL),,Khryapa Bad Pass Turnover (P5.T14),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,430,6,26,4,9:57 PM,10:16,Turiaf Offensive Charge Foul (P1.T2),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,431,5,5,4,9:57 PM,10:16,Turiaf Foul Turnover (P1.T10),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300008,432,8,0,4,9:57 PM,10:16,,,SUB: Krstic FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,433,5,1,4,9:57 PM,10:04,Shved STEAL (1 STL),,Pargo Bad Pass Turnover (P5.T15),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,434,2,5,4,9:57 PM,9:56,MISS Williams 2' Layup,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,435,4,0,4,9:58 PM,9:54,Williams REBOUND (Off:1 Def:5),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,436,2,1,4,9:58 PM,9:49,MISS Shved 25' 3PT Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,437,4,0,4,9:58 PM,9:48,,,Krstic REBOUND (Off:1 Def:4),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,438,2,79,4,9:58 PM,9:35,,,MISS Pargo 20' Pullup Jump Shot,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,439,4,0,4,9:58 PM,9:34,Turiaf REBOUND (Off:3 Def:2),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,440,1,43,4,9:58 PM,9:28,Shved 1' Alley Oop Layup (3 PTS) (Price 1 AST),,,78 - 75,-3,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,441,9,1,4,9:58 PM,9:23,,,CSKA Timeout: Regular (Reg.4 Short 1),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,443,8,0,4,10:00 PM,9:23,,,SUB: Jackson FOR Pargo,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,444,2,1,4,10:01 PM,9:15,,,MISS Fridzon 24' 3PT Jump Shot,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,445,4,0,4,10:01 PM,9:14,Williams REBOUND (Off:1 Def:6),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,446,2,1,4,10:01 PM,8:56,MISS Jeffers 5' Jump Shot,,Kaun BLOCK (3 BLK),,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0
+0011300008,447,4,0,4,10:01 PM,8:55,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,448,8,0,4,10:01 PM,8:55,,,SUB: Teodosic FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,449,8,0,4,10:01 PM,8:55,,,SUB: Hines FOR Kaun,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,450,2,1,4,10:01 PM,8:52,MISS Williams 13' Jump Shot,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,451,4,0,4,10:01 PM,8:51,,,Teodosic REBOUND (Off:0 Def:5),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,452,2,1,4,10:02 PM,8:34,Williams BLOCK (2 BLK),,MISS Teodosic 6' Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,453,4,0,4,10:02 PM,8:33,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,454,2,1,4,10:02 PM,8:31,Shved BLOCK (2 BLK),,MISS Teodosic 13' Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,455,4,0,4,10:02 PM,8:30,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,456,2,1,4,10:02 PM,8:27,,,MISS Jackson 15' Jump Shot,,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,457,4,0,4,10:02 PM,8:25,,,Micov REBOUND (Off:1 Def:3),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,458,1,1,4,10:02 PM,8:03,,,Micov 15' Jump Shot (7 PTS) (Teodosic 6 AST),80 - 75,-5,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,459,1,1,4,10:03 PM,7:51,Price 15' Jump Shot (4 PTS),,,80 - 77,-3,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,460,6,1,4,10:03 PM,7:37,Jeffers P.FOUL (P3.T3),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,461,2,1,4,10:03 PM,7:25,,,MISS Hines 18' Jump Shot,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,462,4,0,4,10:03 PM,7:24,Shved REBOUND (Off:0 Def:1),,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,463,1,5,4,10:04 PM,7:16,Williams  Layup (9 PTS) (Shved 4 AST),,,80 - 79,-1,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,464,6,2,4,10:04 PM,7:16,,,Hines S.FOUL (P3.T1),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,465,3,10,4,10:04 PM,7:16,MISS Williams Free Throw 1 of 1,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,467,4,0,4,10:04 PM,7:15,,,Krstic REBOUND (Off:1 Def:5),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,468,2,1,4,10:04 PM,6:55,,,MISS Teodosic 26' 3PT Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,469,4,0,4,10:04 PM,6:54,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,470,1,1,4,10:05 PM,6:36,Price 16' Jump Shot (6 PTS),,,80 - 81,1,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,471,6,2,4,10:05 PM,6:36,,,Jackson S.FOUL (P2.T2),,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,472,8,0,4,10:05 PM,6:36,,,SUB: Khryapa FOR Micov,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,473,3,10,4,10:05 PM,6:36,Price Free Throw 1 of 1 (7 PTS),,,80 - 82,2,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,475,1,1,4,10:06 PM,6:13,,,Jackson 20' Jump Shot (2 PTS) (Khryapa 4 AST),82 - 82,TIE,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,476,2,5,4,10:06 PM,5:58,MISS Williams 2' Layup,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,477,4,0,4,10:06 PM,5:57,,,Krstic REBOUND (Off:1 Def:6),,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,478,1,42,4,10:06 PM,5:42,,,Hines 2' Driving Layup (6 PTS) (Teodosic 7 AST),84 - 82,-2,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,479,1,8,4,10:07 PM,5:14,Jeffers 2' Slam Dunk (6 PTS),,,84 - 84,TIE,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,480,1,43,4,10:07 PM,5:07,,,Khryapa 1' Alley Oop Layup (10 PTS) (Teodosic 8 AST),86 - 84,-2,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,481,2,1,4,10:07 PM,4:44,MISS Shved 6' Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,482,4,0,4,10:07 PM,4:43,,,Hines REBOUND (Off:0 Def:3),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,483,6,4,4,10:08 PM,4:31,,,Hines OFF.Foul (P4),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,484,5,5,4,10:08 PM,4:31,,,Hines Foul Turnover (P2.T16),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,485,9,1,4,10:08 PM,4:31,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,487,1,42,4,10:10 PM,4:17,Williams 1' Driving Layup (11 PTS),,,86 - 86,TIE,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,488,6,2,4,10:10 PM,4:17,,,Hines S.FOUL (P5.T3),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,489,3,10,4,10:11 PM,4:17,Williams Free Throw 1 of 1 (12 PTS),,,86 - 87,1,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,491,1,5,4,10:11 PM,3:56,,,Hines 2' Layup (8 PTS) (Krstic 2 AST),88 - 87,-1,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,492,2,1,4,10:12 PM,3:30,MISS Shved 25' 3PT Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,493,4,0,4,10:12 PM,3:28,,,Khryapa REBOUND (Off:0 Def:6),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,494,5,8,4,10:12 PM,3:16,,,Hines 3 Second Violation Turnover (P3.T17),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,1,0,,,,,,0
+0011300008,495,8,0,4,10:12 PM,3:16,,,SUB: Kaun FOR Hines,,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,496,8,0,4,10:12 PM,3:16,,,SUB: Pargo FOR Jackson,,,5,42577,Aaron Jackson,12308.0,Moscow,CSKA,MOS,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,497,8,0,4,10:12 PM,3:16,,,SUB: Micov FOR Krstic,,,5,42580,Nenad Krstic,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,498,9,1,4,10:12 PM,3:16,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,500,1,42,4,10:15 PM,3:01,Williams 2' Driving Layup (14 PTS),,,88 - 89,1,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,501,2,1,4,10:15 PM,2:38,,,MISS Teodosic 26' 3PT Jump Shot,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,502,4,0,4,10:15 PM,2:37,Jeffers REBOUND (Off:1 Def:1),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,503,2,5,4,10:15 PM,2:22,MISS Turiaf 3' Layup,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,504,4,0,4,10:15 PM,2:20,,,Khryapa REBOUND (Off:0 Def:7),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,505,2,1,4,10:16 PM,2:02,,,MISS Pargo 20' Jump Shot,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,506,4,0,4,10:16 PM,2:01,Jeffers REBOUND (Off:1 Def:2),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,507,2,1,4,10:16 PM,1:39,MISS Williams 7' Jump Shot,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,508,4,0,4,10:16 PM,1:38,Williams REBOUND (Off:2 Def:6),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,509,1,1,4,10:16 PM,1:17,Shved 26' 3PT Jump Shot (6 PTS),,,88 - 92,4,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,510,9,1,4,10:16 PM,1:16,,,CSKA Timeout: Regular (Reg.5 Short 1),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,511,1,1,4,10:19 PM,1:08,,,Teodosic 25' 3PT Jump Shot (23 PTS) (Micov 4 AST),91 - 92,1,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,512,2,1,4,10:19 PM,0:54,MISS Shved 25' 3PT Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,513,4,0,4,10:19 PM,0:52,Williams REBOUND (Off:3 Def:6),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,514,2,7,4,10:19 PM,0:52,MISS Williams 1' Dunk,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,515,4,0,4,10:19 PM,0:49,,,Pargo REBOUND (Off:0 Def:2),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,516,6,2,4,10:20 PM,0:49,Price S.FOUL (P1.T4),,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,517,3,11,4,10:20 PM,0:49,,,Khryapa Free Throw 1 of 2 (11 PTS),92 - 92,TIE,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,519,3,12,4,10:20 PM,0:49,,,MISS Khryapa Free Throw 2 of 2,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,521,4,0,4,10:20 PM,0:47,Turiaf REBOUND (Off:3 Def:3),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,522,1,46,4,10:20 PM,0:34,Williams 6' Running Jump Shot (16 PTS),,,92 - 94,2,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,523,6,2,4,10:20 PM,0:34,,,Khryapa S.FOUL (P5.T4),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,524,3,10,4,10:21 PM,0:34,Williams Free Throw 1 of 1 (17 PTS),,,92 - 95,3,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,526,9,2,4,10:21 PM,0:34,,,CSKA Timeout: Short (Reg.5 Short 2),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,527,1,5,4,10:23 PM,0:19,,,Kaun 1' Layup (8 PTS) (Teodosic 9 AST),94 - 95,1,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,528,6,28,4,10:23 PM,0:16,,,Teodosic Personal Take Foul (P4.PN),,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,529,3,11,4,10:23 PM,0:16,Price Free Throw 1 of 2 (8 PTS),,,94 - 96,2,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,531,8,0,4,10:23 PM,0:16,,,SUB: Fridzon FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,532,3,12,4,10:23 PM,0:16,MISS Price Free Throw 2 of 2,,,,,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,534,4,0,4,10:24 PM,0:15,,,Kaun REBOUND (Off:0 Def:7),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,535,6,1,4,10:24 PM,0:07,Shved P.FOUL (P2.PN),,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,536,3,11,4,10:24 PM,0:07,,,Teodosic Free Throw 1 of 2 (24 PTS),95 - 96,1,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,538,8,0,4,10:25 PM,0:07,,,SUB: Khryapa FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,539,3,12,4,10:25 PM,0:07,,,Teodosic Free Throw 2 of 2 (25 PTS),96 - 96,TIE,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,541,9,1,4,10:25 PM,0:07,TIMBERWOLVES Timeout: Regular (Full 5 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,543,8,0,4,10:27 PM,0:07,,,SUB: Hines FOR Teodosic,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,544,2,5,4,10:27 PM,0:01,MISS Williams 2' Layup,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,545,4,0,4,10:27 PM,0:00,,,Khryapa REBOUND (Off:0 Def:8),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,546,13,0,4,10:27 PM,0:00,,End of 4th Period (10:27 PM EST),,96 - 96,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,548,12,0,5,10:30 PM,5:00,,Start of 1st OT (10:30 PM EST),,96 - 96,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,549,10,0,5,10:30 PM,5:00,Jump Ball Turiaf vs. Kaun: Tip to Price,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300008,551,6,2,5,10:31 PM,4:43,,,Fridzon S.FOUL (P4.T1),,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,553,3,11,5,10:31 PM,4:43,Price Free Throw 1 of 2 (9 PTS),,,96 - 97,1,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,555,3,12,5,10:31 PM,4:43,Price Free Throw 2 of 2 (10 PTS),,,96 - 98,2,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,558,1,1,5,10:32 PM,4:29,,,Micov 25' 3PT Jump Shot (10 PTS) (Khryapa 5 AST),99 - 98,-1,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,559,5,2,5,10:32 PM,4:14,Turiaf Lost Ball Turnover (P2.T11),,Kaun STEAL (1 STL),,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,560,1,7,5,10:32 PM,3:56,,,Kaun 1' Dunk (10 PTS) (Khryapa 6 AST),101 - 98,-3,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,561,2,1,5,10:32 PM,3:37,MISS Jeffers 7' Jump Shot,,Micov BLOCK (2 BLK),,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0
+0011300008,562,4,0,5,10:32 PM,3:35,,,Kaun REBOUND (Off:0 Def:8),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,563,2,46,5,10:33 PM,3:18,,,MISS Pargo 9' Running Jump Shot,,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,564,4,0,5,10:33 PM,3:17,Turiaf REBOUND (Off:3 Def:4),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,565,1,5,5,10:33 PM,3:02,Williams 1' Layup (19 PTS) (Price 2 AST),,,101 - 100,-1,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,566,6,2,5,10:33 PM,3:02,,,Khryapa S.FOUL (P6.T2),,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,568,8,0,5,10:33 PM,3:02,,,SUB: Hines FOR Khryapa,,,5,42579,Victor Khryapa,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,569,3,10,5,10:33 PM,3:02,Williams Free Throw 1 of 1 (20 PTS),,,101 - 101,TIE,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,571,9,1,5,10:34 PM,3:02,,,CSKA Timeout: Regular (Reg.6 Short 2),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,573,2,5,5,10:36 PM,2:41,,,MISS Micov 2' Layup,,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,574,4,0,5,10:36 PM,2:40,Jeffers REBOUND (Off:1 Def:3),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,575,1,46,5,10:36 PM,2:31,Price 9' Running Jump Shot (12 PTS),,,101 - 103,2,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,576,2,5,5,10:37 PM,2:05,,,MISS Kaun 3' Layup,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,578,4,0,5,10:37 PM,2:03,,,Hines REBOUND (Off:1 Def:3),,,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,577,1,4,5,10:37 PM,2:03,,,Hines 1' Tip Shot (10 PTS),103 - 103,TIE,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,579,9,1,5,10:37 PM,1:52,TIMBERWOLVES Timeout: Regular (Full 6 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,581,2,1,5,10:39 PM,1:37,MISS Shved 29' 3PT Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,582,4,0,5,10:39 PM,1:35,,,Kaun REBOUND (Off:0 Def:9),,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,583,1,7,5,10:40 PM,1:21,,,Kaun  Dunk (12 PTS) (Hines 2 AST),105 - 103,-2,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42576,Kyle Hines,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,584,6,2,5,10:40 PM,1:11,,,Micov S.FOUL (P3.T3),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,585,3,11,5,10:40 PM,1:11,MISS Williams Free Throw 1 of 2,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,586,4,1,5,10:40 PM,1:11,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,587,3,12,5,10:40 PM,1:11,MISS Williams Free Throw 2 of 2,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,589,4,0,5,10:41 PM,1:11,Turiaf REBOUND (Off:4 Def:4),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,590,1,1,5,10:41 PM,0:57,Price 18' Jump Shot (14 PTS),,,105 - 105,TIE,4,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,591,1,42,5,10:41 PM,0:36,,,Pargo 1' Driving Layup (11 PTS),107 - 105,-2,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,593,6,1,5,10:42 PM,0:18,,,Pargo P.FOUL (P2.PN),,,5,42582,Jeremy Pargo,12308.0,Moscow,CSKA,MOS,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300008,594,3,11,5,10:42 PM,0:18,Williams Free Throw 1 of 2 (21 PTS),,,107 - 106,-1,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,600,8,0,5,10:42 PM,0:18,,,SUB: Teodosic FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,596,3,12,5,10:42 PM,0:18,MISS Williams Free Throw 2 of 2,,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,598,4,0,5,10:43 PM,0:17,,,Micov REBOUND (Off:1 Def:4),,,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,599,6,28,5,10:43 PM,0:14,Turiaf Personal Take Foul (P2.T1),,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,42581,Vladimir Micov,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,601,9,1,5,10:43 PM,0:13,,,CSKA Timeout: Regular (Reg.7 Short 2),,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,603,8,0,5,10:45 PM,0:13,,,SUB: Fridzon FOR Kaun,,,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,604,8,0,5,10:45 PM,0:13,SUB: Hummel FOR Turiaf,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,605,6,28,5,10:46 PM,0:09,Williams Personal Take Foul (P2.PN),,,,,4,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,1,0,,,,,,0
+0011300008,606,3,11,5,10:46 PM,0:09,,,MISS Teodosic Free Throw 1 of 2,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,607,4,1,5,10:46 PM,0:09,,,CSKA Rebound,,,3,12308,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,609,8,0,5,10:46 PM,0:09,SUB: Turiaf FOR Jeffers,,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,610,8,0,5,10:46 PM,0:09,,,SUB: Kaun FOR Fridzon,,,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,5,42578,Sasha Kaun,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,611,3,12,5,10:46 PM,0:09,,,Teodosic Free Throw 2 of 2 (26 PTS),108 - 106,-2,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0,0,,,,,,0
+0011300008,613,9,2,5,10:47 PM,0:09,TIMBERWOLVES Timeout: Short (Full 6 Short 2),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,615,8,0,5,10:48 PM,0:09,SUB: Jeffers FOR Turiaf,,,,,4,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300008,616,8,0,5,10:48 PM,0:09,,,SUB: Fridzon FOR Teodosic,,,5,42584,Milos Teodosic,12308.0,Moscow,CSKA,MOS,5,42575,Vitaly Fridzon,12308.0,Moscow,CSKA,MOS,0,0,,,,,,0
+0011300008,617,2,1,5,10:48 PM,0:02,MISS Shved 10' Jump Shot,,,,,4,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,618,4,0,5,10:48 PM,0:01,Jeffers REBOUND (Off:2 Def:3),,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,619,2,5,5,10:48 PM,0:01,MISS Jeffers 1' Layup,,,,,4,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300008,620,4,0,5,10:48 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300008,622,13,0,5,10:48 PM,0:00,,End of 1st OT (10:48 PM EST),,108 - 106,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

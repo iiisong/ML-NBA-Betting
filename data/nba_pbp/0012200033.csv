@@ -1,0 +1,495 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200033,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,4,10,0,1,8:11 PM,12:00,Jump Ball Adams vs. O. Robinson: Tip to Bane,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1
+0012200033,7,1,41,1,8:11 PM,11:55,Bane 4' Running Layup (2 PTS) (Adams 1 AST),,,0 - 2,2,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,9,2,5,1,8:11 PM,11:38,,,MISS O. Robinson 2' Layup,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,11,4,0,1,8:11 PM,11:31,Morant REBOUND (Off:0 Def:1),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,12,5,1,1,8:12 PM,11:21,Aldama Bad Pass Turnover (P1.T1),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,13,2,79,1,8:12 PM,11:08,,,MISS D. Robinson 25' 3PT Pullup Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,14,4,0,1,8:12 PM,11:04,Aldama REBOUND (Off:0 Def:1),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,17,6,2,1,8:12 PM,10:50,,,Highsmith S.FOUL (P1.T1) (E.Malloy),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,19,3,13,1,8:13 PM,10:50,MISS Aldama Free Throw 1 of 3,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,20,4,1,1,8:13 PM,10:50,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,21,3,14,1,8:13 PM,10:50,Aldama Free Throw 2 of 3 (1 PTS),,,0 - 3,3,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,22,3,15,1,8:13 PM,10:50,Aldama Free Throw 3 of 3 (2 PTS),,,0 - 4,4,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,23,2,79,1,8:14 PM,10:33,,,MISS Vincent 3PT Pullup Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,24,4,0,1,8:14 PM,10:30,Brooks REBOUND (Off:0 Def:1),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,25,5,4,1,8:14 PM,10:27,Morant Traveling Turnover (P1.T2),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012200033,26,1,79,1,8:14 PM,10:13,,,Highsmith 26' 3PT Pullup Jump Shot (3 PTS) (O. Robinson 1 AST),3 - 4,1,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,28,6,2,1,8:14 PM,10:01,,,D. Robinson S.FOUL (P1.T2) (M.Kallio),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,30,3,11,1,8:15 PM,10:01,Brooks Free Throw 1 of 2 (1 PTS),,,3 - 5,2,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,31,3,12,1,8:15 PM,10:01,MISS Brooks Free Throw 2 of 2,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,32,4,0,1,8:15 PM,9:58,Adams REBOUND (Off:1 Def:0),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,33,5,1,1,8:15 PM,9:56,Adams Bad Pass Turnover (P1.T3),,Vincent STEAL (1 STL),,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,35,2,5,1,8:15 PM,9:49,,,MISS O. Robinson 1' Layup,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,36,4,0,1,8:15 PM,9:46,Aldama REBOUND (Off:0 Def:2),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,37,1,6,1,8:15 PM,9:40,Morant Driving Layup (2 PTS),,,3 - 7,4,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,39,2,1,1,8:16 PM,9:18,,,MISS D. Robinson 25' 3PT Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,40,4,0,1,8:16 PM,9:13,,,Garrett REBOUND (Off:1 Def:0),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,41,1,101,1,8:16 PM,9:03,,,Highsmith 7' Driving Floating Jump Shot (5 PTS),5 - 7,2,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,42,1,79,1,8:16 PM,8:51,Morant 25' 3PT Pullup Jump Shot (5 PTS),,,5 - 10,5,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,43,2,5,1,8:17 PM,8:35,,,MISS O. Robinson 2' Layup,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,44,4,0,1,8:17 PM,8:32,Adams REBOUND (Off:1 Def:1),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,45,6,2,1,8:17 PM,8:31,,,Garrett S.FOUL (P1.T3) (E.Malloy),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,47,3,11,1,8:17 PM,8:31,Morant Free Throw 1 of 2 (6 PTS),,,5 - 11,6,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,48,3,12,1,8:17 PM,8:31,MISS Morant Free Throw 2 of 2,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,49,4,0,1,8:17 PM,8:28,,,Highsmith REBOUND (Off:0 Def:1),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,50,5,2,1,8:18 PM,8:19,Bane STEAL (1 STL),,Garrett Lost Ball Turnover (P1.T1),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,52,1,41,1,8:18 PM,8:14,Brooks 1' Running Layup (3 PTS) (Bane 1 AST),,,5 - 13,8,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,54,9,1,1,8:18 PM,8:14,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,56,2,1,1,8:21 PM,7:58,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,57,4,0,1,8:21 PM,7:55,,,Garrett REBOUND (Off:2 Def:0),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,58,2,6,1,8:21 PM,7:44,Aldama BLOCK (1 BLK),,MISS O. Robinson 5' Driving Layup,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1
+0012200033,60,4,0,1,8:21 PM,7:41,Adams REBOUND (Off:1 Def:2),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,61,6,2,1,8:21 PM,7:28,,,Garrett S.FOUL (P2.T4) (E.Malloy),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,63,3,11,1,8:22 PM,7:28,Bane Free Throw 1 of 2 (3 PTS),,,5 - 14,9,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,64,8,0,1,8:22 PM,7:28,,,SUB: Smith FOR Garrett,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,66,3,12,1,8:22 PM,7:28,Bane Free Throw 2 of 2 (4 PTS),,,5 - 15,10,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,67,5,4,1,8:23 PM,7:17,,,D. Robinson Traveling Turnover (P1.T2),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,68,5,1,1,8:23 PM,7:11,Brooks Bad Pass Turnover (P1.T4),,O. Robinson STEAL (1 STL),,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,70,2,1,1,8:23 PM,7:02,,,MISS O. Robinson 25' 3PT Jump Shot,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,71,4,0,1,8:23 PM,7:00,Aldama REBOUND (Off:0 Def:3),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,72,2,103,1,8:23 PM,6:56,MISS Bane 25' 3PT Running Pull-Up Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,73,4,0,1,8:23 PM,6:50,,,Highsmith REBOUND (Off:0 Def:2),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,74,6,1,1,8:23 PM,6:40,Bane P.FOUL (P1.T1) (M.Kallio),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,76,8,0,1,8:23 PM,6:40,SUB: Tillman FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,77,8,0,1,8:23 PM,6:40,SUB: Williams FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,80,2,1,1,8:24 PM,6:30,,,MISS Highsmith 26' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,81,4,0,1,8:24 PM,6:26,,,O. Robinson REBOUND (Off:1 Def:0),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,82,1,72,1,8:24 PM,6:25,,,O. Robinson 1' Putback Layup (2 PTS),7 - 15,8,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,83,6,2,1,8:24 PM,6:10,,,Highsmith S.FOUL (P2.PN) (M.Kallio),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,85,3,11,1,8:25 PM,6:10,MISS Tillman Free Throw 1 of 2,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,86,4,1,1,8:25 PM,6:10,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,87,8,0,1,8:25 PM,6:10,,,SUB: Cain FOR Highsmith,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,89,3,12,1,8:25 PM,6:10,Tillman Free Throw 2 of 2 (1 PTS),,,7 - 16,9,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,90,2,1,1,8:25 PM,5:55,Williams BLOCK (1 BLK),,MISS Smith 3PT Jump Shot,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,1
+0012200033,92,4,0,1,8:25 PM,5:55,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200033,94,2,1,1,8:26 PM,5:50,,,MISS Cain 26' 3PT Jump Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,95,4,0,1,8:26 PM,5:47,Adams REBOUND (Off:1 Def:3),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,96,1,3,1,8:26 PM,5:31,Adams 5' Hook Shot (2 PTS),,,7 - 18,11,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,97,2,1,1,8:26 PM,5:18,,,MISS Smith 27' 3PT Jump Shot,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,98,4,0,1,8:26 PM,5:17,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,100,6,1,1,8:27 PM,5:02,,,Smith P.FOUL (P1.PN) (E.Malloy),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,102,3,11,1,8:27 PM,5:02,MISS Adams Free Throw 1 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,103,4,1,1,8:27 PM,5:02,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,108,3,12,1,8:27 PM,5:02,MISS Adams Free Throw 2 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,104,8,0,1,8:27 PM,5:02,SUB: Roddy FOR Morant,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,105,8,0,1,8:27 PM,5:02,SUB: Jones FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,109,4,0,1,8:27 PM,5:00,,,O. Robinson REBOUND (Off:1 Def:1),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,110,2,1,1,8:28 PM,4:49,,,MISS Vincent 27' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,111,4,0,1,8:28 PM,4:46,Williams REBOUND (Off:0 Def:1),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,112,6,1,1,8:28 PM,4:41,,,Vincent P.FOUL (P1.PN) (D.Richardson),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,114,3,11,1,8:29 PM,4:41,Williams Free Throw 1 of 2 (1 PTS),,,7 - 19,12,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0012200033,115,8,0,1,8:29 PM,4:41,SUB: Clarke FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,116,8,0,1,8:29 PM,4:41,,,SUB: Jovic FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,117,8,0,1,8:29 PM,4:41,,,SUB: Bouyea FOR O. Robinson,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,121,3,12,1,8:29 PM,4:41,Williams Free Throw 2 of 2 (2 PTS),,,7 - 20,13,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,122,6,2,1,8:30 PM,4:24,Williams S.FOUL (P1.T2) (E.Malloy),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,124,3,13,1,8:30 PM,4:24,,,D. Robinson Free Throw 1 of 3 (1 PTS),8 - 20,12,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,125,3,14,1,8:30 PM,4:24,,,D. Robinson Free Throw 2 of 3 (2 PTS),9 - 20,11,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,126,3,15,1,8:30 PM,4:24,,,D. Robinson Free Throw 3 of 3 (3 PTS),10 - 20,10,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,127,6,1,1,8:31 PM,4:11,,,Smith P.FOUL (P2.PN) (E.Malloy),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,129,3,11,1,8:31 PM,4:11,MISS Tillman Free Throw 1 of 2,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,130,4,1,1,8:31 PM,4:11,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,131,3,12,1,8:31 PM,4:11,MISS Tillman Free Throw 2 of 2,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,132,4,0,1,8:31 PM,4:09,,,D. Robinson REBOUND (Off:0 Def:1),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,133,1,2,1,8:32 PM,4:03,,,D. Robinson 29' 3PT Running Jump Shot (6 PTS) (Bouyea 1 AST),13 - 20,7,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,135,9,1,1,8:32 PM,4:01,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,136,2,1,1,8:35 PM,3:45,MISS Roddy 3PT Jump Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,137,4,0,1,8:35 PM,3:43,,,Cain REBOUND (Off:0 Def:1),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,138,5,6,1,8:35 PM,3:40,,,Bouyea Double Dribble Turnover (P1.T3),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,139,1,108,1,8:36 PM,3:26,Tillman 1' Cutting Dunk Shot (3 PTS) (Clarke 1 AST),,,13 - 22,9,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,141,2,80,1,8:36 PM,3:07,,,MISS Jovic 26' 3PT Step Back Jump Shot,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,142,4,0,1,8:36 PM,3:04,Roddy REBOUND (Off:0 Def:1),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,143,2,103,1,8:36 PM,3:00,MISS Jones 26' 3PT Running Pull-Up Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,144,4,0,1,8:36 PM,2:55,,,Bouyea REBOUND (Off:0 Def:1),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,145,2,102,1,8:36 PM,2:43,,,MISS D. Robinson 10' Driving Floating Bank Jump Shot,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,146,4,0,1,8:36 PM,2:38,Tillman REBOUND (Off:0 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,147,5,2,1,8:36 PM,2:37,Jones Lost Ball Turnover (P1.T5),,Jovic STEAL (1 STL),,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,149,1,50,1,8:36 PM,2:34,,,Jovic 1' Running Dunk (2 PTS) (Smith 1 AST),15 - 22,7,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,150,5,1,1,8:37 PM,2:06,Tillman Bad Pass Turnover (P1.T6),,Smith STEAL (1 STL),,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,152,1,2,1,8:37 PM,2:01,,,Cain 3PT Running Jump Shot (3 PTS) (Smith 2 AST),18 - 22,4,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,154,2,102,1,8:37 PM,1:43,MISS Tillman 7' Driving Floating Bank Jump Shot,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,155,4,0,1,8:37 PM,1:39,Roddy REBOUND (Off:1 Def:1),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,156,1,75,1,8:37 PM,1:38,Roddy 5' Driving Finger Roll Layup (2 PTS),,,18 - 24,6,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,157,2,6,1,8:37 PM,1:28,,,MISS D. Robinson 2' Driving Layup,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,158,4,0,1,8:38 PM,1:24,Roddy REBOUND (Off:1 Def:2),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,159,6,2,1,8:38 PM,1:23,,,Smith S.FOUL (P3.PN) (D.Richardson),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,161,3,11,1,8:38 PM,1:23,Roddy Free Throw 1 of 2 (3 PTS),,,18 - 25,7,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,162,8,0,1,8:38 PM,1:23,SUB: Aldama FOR Tillman,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,163,8,0,1,8:38 PM,1:23,SUB: Bane FOR Williams,,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,164,8,0,1,8:38 PM,1:23,,,SUB: Days FOR D. Robinson,,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,168,3,12,1,8:39 PM,1:23,Roddy Free Throw 2 of 2 (4 PTS),,,18 - 26,8,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,169,1,1,1,8:39 PM,1:12,,,Cain 3PT Jump Shot (6 PTS) (Smith 3 AST),21 - 26,5,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,171,1,1,1,8:39 PM,1:00,Roddy 3PT Jump Shot (7 PTS) (Bane 2 AST),,,21 - 29,8,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,173,2,79,1,8:39 PM,0:55,,,MISS Smith 27' 3PT Pullup Jump Shot,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,174,4,0,1,8:39 PM,0:52,Clarke REBOUND (Off:0 Def:1),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,175,2,78,1,8:39 PM,0:47,MISS Clarke 4' Floating Jump Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,176,4,0,1,8:39 PM,0:47,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200033,177,6,3,1,8:39 PM,0:47,Clarke L.B.FOUL (P1.T3) (E.Malloy),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,179,2,1,1,8:40 PM,0:36,,,MISS Days 24' 3PT Jump Shot,,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,180,4,0,1,8:40 PM,0:33,Jones REBOUND (Off:0 Def:1),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,181,2,1,1,8:40 PM,0:25,MISS Roddy 25' 3PT Jump Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,182,4,0,1,8:40 PM,0:19,,,Jovic REBOUND (Off:0 Def:1),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,183,2,80,1,8:40 PM,0:02,,,MISS Smith 26' 3PT Step Back Jump Shot,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,184,4,0,1,8:40 PM,0:02,Clarke REBOUND (Off:0 Def:2),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,185,13,0,1,8:40 PM,0:00,,End of 1st Period (8:40 PM EST),,21 - 29,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200033,189,12,0,2,8:43 PM,12:00,,Start of 2nd Period (8:43 PM EST),,21 - 29,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,190,1,52,2,8:43 PM,11:45,,,Cain 1' Alley Oop Dunk (8 PTS) (Jovic 1 AST),23 - 29,6,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,192,1,52,2,8:44 PM,11:31,Aldama 1' Alley Oop Dunk (4 PTS) (Clarke 2 AST),,,23 - 31,8,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,194,2,3,2,8:44 PM,11:09,,,MISS Cain 4' Hook Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,195,4,0,2,8:44 PM,11:04,Aldama REBOUND (Off:0 Def:4),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,196,6,2,2,8:44 PM,11:02,,,Days S.FOUL (P1.T1) (E.Malloy),,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,198,3,11,2,8:45 PM,11:02,Bane Free Throw 1 of 2 (5 PTS),,,23 - 32,9,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,199,3,12,2,8:45 PM,11:02,MISS Bane Free Throw 2 of 2,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,200,4,0,2,8:45 PM,10:58,,,Days REBOUND (Off:0 Def:1),,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,201,5,45,2,8:45 PM,10:43,,,Vincent Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,202,6,1,2,8:45 PM,10:33,,,Vincent P.FOUL (P2.T2) (D.Richardson),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,204,8,0,2,8:46 PM,10:33,,,SUB: Garrett FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,206,1,98,2,8:46 PM,10:30,Clarke 2' Cutting Layup Shot (2 PTS) (Aldama 1 AST),,,23 - 34,11,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,208,2,1,2,8:46 PM,10:13,,,MISS Jovic 26' 3PT Jump Shot,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,209,4,0,2,8:46 PM,10:10,Clarke REBOUND (Off:0 Def:3),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,210,2,41,2,8:46 PM,10:04,MISS Clarke 2' Running Layup,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,211,4,0,2,8:46 PM,10:00,,,Days REBOUND (Off:0 Def:2),,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,212,6,1,2,8:46 PM,9:59,Roddy P.FOUL (P1.T1) (M.Kallio),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,214,9,1,2,8:47 PM,9:59,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,215,1,1,2,8:50 PM,9:52,,,Jovic 27' 3PT Jump Shot (5 PTS) (Bouyea 2 AST),26 - 34,8,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,217,2,5,2,8:50 PM,9:27,MISS Clarke 4' Layup,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,218,4,0,2,8:50 PM,9:27,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,220,2,1,2,8:51 PM,9:03,,,MISS Jovic 31' 3PT Jump Shot,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,221,4,0,2,8:51 PM,9:00,Jones REBOUND (Off:0 Def:2),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,222,1,75,2,8:51 PM,8:43,Bane 6' Driving Finger Roll Layup (7 PTS),,,26 - 36,10,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,223,2,1,2,8:51 PM,8:31,,,MISS Garrett 25' 3PT Jump Shot,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,224,4,0,2,8:51 PM,8:28,,,Jovic REBOUND (Off:1 Def:1),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,225,1,44,2,8:51 PM,8:21,,,Cain 1' Reverse Layup (10 PTS) (Garrett 1 AST),28 - 36,8,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,227,6,1,2,8:52 PM,8:09,,,Garrett P.FOUL (P3.T3) (D.Richardson),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,229,8,0,2,8:52 PM,8:09,,,SUB: O. Robinson FOR Jovic,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,230,8,0,2,8:52 PM,8:09,,,SUB: Vincent FOR Garrett,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,233,2,79,2,8:52 PM,7:48,MISS Bane 25' 3PT Pullup Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,234,4,0,2,8:52 PM,7:46,,,Cain REBOUND (Off:0 Def:2),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,235,1,103,2,8:53 PM,7:42,,,Bouyea 13' Running Pull-Up Jump Shot (2 PTS) (Vincent 1 AST),30 - 36,6,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,237,1,52,2,8:53 PM,7:34,Aldama 1' Alley Oop Dunk (6 PTS) (Jones 1 AST),,,30 - 38,8,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,239,2,1,2,8:53 PM,7:15,,,MISS Days 26' 3PT Jump Shot,,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,240,4,0,2,8:53 PM,7:11,Clarke REBOUND (Off:0 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,241,2,79,2,8:53 PM,7:05,MISS Jones 26' 3PT Pullup Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,242,4,0,2,8:53 PM,7:01,Clarke REBOUND (Off:1 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,243,6,2,2,8:53 PM,7:01,,,Days S.FOUL (P2.T4) (M.Kallio),,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,245,3,11,2,8:54 PM,7:01,Clarke Free Throw 1 of 2 (3 PTS),,,30 - 39,9,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,246,8,0,2,8:54 PM,7:01,SUB: Morant FOR Roddy,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,247,8,0,2,8:54 PM,7:01,SUB: Brooks FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,248,8,0,2,8:54 PM,7:01,,,SUB: Highsmith FOR Days,,,5,1630620,Darius Days,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,252,3,12,2,8:54 PM,7:01,Clarke Free Throw 2 of 2 (4 PTS),,,30 - 40,10,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,254,5,1,2,8:54 PM,6:46,Morant STEAL (1 STL),,Bouyea Bad Pass Turnover (P2.T5),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,256,1,106,2,8:55 PM,6:42,Morant Running Alley Oop Dunk Shot (8 PTS) (Clarke 3 AST),,,30 - 42,12,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,258,5,1,2,8:55 PM,6:34,Aldama STEAL (1 STL),,Cain Bad Pass Turnover (P1.T6),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,260,1,106,2,8:55 PM,6:28,Aldama 1' Running Alley Oop Dunk Shot (8 PTS) (Bane 3 AST),,,30 - 44,14,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,262,1,80,2,8:55 PM,6:03,,,Vincent 26' 3PT Step Back Jump Shot (3 PTS),33 - 44,11,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,263,1,41,2,8:55 PM,5:56,Bane 2' Running Layup (9 PTS) (Morant 1 AST),,,33 - 46,13,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,264,6,2,2,8:56 PM,5:56,,,Highsmith S.FOUL (P3.PN) (D.Richardson),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,266,8,0,2,8:56 PM,5:56,SUB: Tillman FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,267,8,0,2,8:56 PM,5:56,SUB: Adams FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,268,8,0,2,8:56 PM,5:56,,,SUB: D. Robinson FOR Highsmith,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,273,3,10,2,8:56 PM,5:56,Bane Free Throw 1 of 1 (10 PTS),,,33 - 47,14,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,274,1,101,2,8:56 PM,5:43,,,D. Robinson 5' Driving Floating Jump Shot (8 PTS),35 - 47,12,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,275,5,1,2,8:57 PM,5:31,Brooks Bad Pass Turnover (P2.T7),,Cain STEAL (1 STL),,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,277,5,1,2,8:57 PM,5:27,Morant STEAL (2 STL),,Vincent Bad Pass Turnover (P2.T7),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,279,1,2,2,8:57 PM,5:22,Brooks 25' 3PT Running Jump Shot (6 PTS) (Morant 2 AST),,,35 - 50,15,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,281,2,80,2,8:57 PM,4:56,,,MISS Bouyea 26' 3PT Step Back Jump Shot,,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,282,4,0,2,8:57 PM,4:53,Bane REBOUND (Off:0 Def:1),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,283,5,1,2,8:57 PM,4:46,Bane Bad Pass Turnover (P1.T8),,Vincent STEAL (2 STL),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,285,1,58,2,8:58 PM,4:32,,,O. Robinson 6' Turnaround Hook Shot (4 PTS) (Vincent 2 AST),37 - 50,13,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,287,9,1,2,8:58 PM,4:31,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,288,8,0,2,9:00 PM,4:31,SUB: Williams FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,290,2,101,2,9:01 PM,4:15,MISS Brooks 6' Driving Floating Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,291,4,0,2,9:01 PM,4:07,Adams REBOUND (Off:3 Def:3),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,292,2,97,2,9:01 PM,4:07,MISS Adams Tip Layup Shot,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,293,4,0,2,9:01 PM,4:07,Adams REBOUND (Off:3 Def:3),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,294,1,87,2,9:01 PM,4:06,Adams Putback Dunk (4 PTS),,,37 - 52,15,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,295,2,1,2,9:01 PM,3:52,,,MISS Cain 3PT Jump Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,296,4,0,2,9:02 PM,3:48,Williams REBOUND (Off:0 Def:2),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,297,2,1,2,9:02 PM,3:35,MISS Williams 25' 3PT Jump Shot,,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,298,4,0,2,9:02 PM,3:32,Adams REBOUND (Off:4 Def:3),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,299,2,1,2,9:02 PM,3:30,MISS Brooks 25' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,300,4,0,2,9:02 PM,3:26,Tillman REBOUND (Off:1 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,301,2,1,2,9:02 PM,3:25,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,302,4,0,2,9:02 PM,3:22,Adams REBOUND (Off:5 Def:3),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,303,6,1,2,9:02 PM,3:20,,,Cain P.FOUL (P1.PN) (E.Malloy),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,305,3,11,2,9:02 PM,3:20,MISS Adams Free Throw 1 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,306,4,1,2,9:02 PM,3:20,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,307,3,12,2,9:02 PM,3:20,MISS Adams Free Throw 2 of 2,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,308,4,0,2,9:03 PM,3:17,,,Cain REBOUND (Off:0 Def:3),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,309,1,1,2,9:03 PM,3:04,,,Vincent 26' 3PT Jump Shot (6 PTS) (O. Robinson 2 AST),40 - 52,12,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,310,1,6,2,9:03 PM,2:54,Morant 2' Driving Layup (10 PTS),,,40 - 54,14,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,311,6,2,2,9:03 PM,2:54,,,Cain S.FOUL (P2.PN) (M.Kallio),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,313,3,10,2,9:04 PM,2:54,MISS Morant Free Throw 1 of 1,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,314,4,0,2,9:04 PM,2:52,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,316,1,1,2,9:04 PM,2:41,,,D. Robinson 26' 3PT Jump Shot (11 PTS) (Vincent 3 AST),43 - 54,11,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,320,1,108,2,9:04 PM,2:26,Morant Cutting Dunk Shot (12 PTS) (Adams 2 AST),,,43 - 56,13,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,322,2,1,2,9:05 PM,2:13,,,MISS Bouyea 26' 3PT Jump Shot,,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,323,4,0,2,9:05 PM,2:10,Williams REBOUND (Off:0 Def:3),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,324,5,2,2,9:05 PM,2:08,Morant Lost Ball Turnover (P2.T9),,Cain STEAL (2 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,326,2,1,2,9:05 PM,2:01,,,MISS Cain 3PT Jump Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,327,4,0,2,9:05 PM,1:57,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,329,1,44,2,9:05 PM,1:46,,,Cain 2' Reverse Layup (12 PTS) (Vincent 4 AST),45 - 56,11,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,331,5,2,2,9:06 PM,1:26,Brooks Lost Ball Turnover (P3.T10),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,332,6,3,2,9:06 PM,1:26,Brooks L.B.FOUL (P1.T2) (D.Richardson),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,334,6,1,2,9:06 PM,1:15,Brooks P.FOUL (P2.PN) (D.Richardson),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,336,3,11,2,9:07 PM,1:15,,,Vincent Free Throw 1 of 2 (7 PTS),46 - 56,10,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,337,3,12,2,9:07 PM,1:15,,,Vincent Free Throw 2 of 2 (8 PTS),47 - 56,9,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,338,6,2,2,9:07 PM,1:05,,,O. Robinson S.FOUL (P1.PN) (D.Richardson),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,340,3,11,2,9:08 PM,1:05,MISS Morant Free Throw 1 of 2,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,341,4,1,2,9:08 PM,1:05,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,342,3,12,2,9:08 PM,1:05,Morant Free Throw 2 of 2 (13 PTS),,,47 - 57,10,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,343,6,1,2,9:08 PM,0:58,Williams P.FOUL (P2.PN) (E.Malloy),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,345,6,11,2,9:08 PM,0:58,,Taylor Jenkins Foul:T.FOUL (E.Malloy),,,,6,203624,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200033,346,3,16,2,9:09 PM,0:58,,,D. Robinson Free Throw Technical (12 PTS),48 - 57,9,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,347,3,11,2,9:09 PM,0:58,,,D. Robinson Free Throw 1 of 2 (13 PTS),49 - 57,8,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,348,3,12,2,9:09 PM,0:58,,,D. Robinson Free Throw 2 of 2 (14 PTS),50 - 57,7,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,349,2,101,2,9:09 PM,0:39,MISS Morant 5' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,350,4,0,2,9:09 PM,0:36,,,Bouyea REBOUND (Off:0 Def:2),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,351,1,76,2,9:10 PM,0:30,,,O. Robinson 2' Running Finger Roll Layup (6 PTS) (Vincent 5 AST),52 - 57,5,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,353,2,1,2,9:10 PM,0:08,MISS Morant 26' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,354,4,0,2,9:10 PM,0:04,,,D. Robinson REBOUND (Off:0 Def:2),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,355,1,103,2,9:10 PM,0:00,,,Bouyea 24' 3PT Running Pull-Up Jump Shot (5 PTS) (Vincent 6 AST),55 - 57,2,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,357,18,0,2,9:11 PM,0:00,,Instant Replay2nd Period (9:11 PM EST),,55 - 57,2,0,355,Vincent Askew,,,,,0,0,,,,,,1,0,,,,,,0
+0012200033,358,13,0,2,9:12 PM,0:00,,End of 2nd Period (9:12 PM EST),,55 - 57,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200033,367,6,11,3,9:26 PM,12:00,Morant T.FOUL (P0.T0) (E.Malloy),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0012200033,368,3,16,3,9:26 PM,12:00,,,D. Robinson Free Throw Technical (15 PTS),56 - 57,1,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,369,12,0,3,9:26 PM,12:00,,Start of 3rd Period (9:26 PM EST),,56 - 57,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,370,2,79,3,9:26 PM,11:45,,,MISS Vincent 27' 3PT Pullup Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,372,2,97,3,9:27 PM,11:37,,,MISS Garrett Tip Layup Shot,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,373,4,0,3,9:27 PM,11:37,Morant REBOUND (Off:0 Def:2),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,371,4,0,3,9:27 PM,11:37,,,Garrett REBOUND (Off:3 Def:0),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,374,6,26,3,9:27 PM,11:35,Bane Offensive Charge Foul (P2) (M.Kallio),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,376,5,37,3,9:27 PM,11:35,Bane Offensive Foul Turnover (P2.T11),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012200033,377,6,2,3,9:27 PM,11:26,Bane S.FOUL (P3.T1) (E.Malloy),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,379,3,13,3,9:28 PM,11:26,,,D. Robinson Free Throw 1 of 3 (16 PTS),57 - 57,TIE,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,380,3,14,3,9:28 PM,11:26,,,D. Robinson Free Throw 2 of 3 (17 PTS),58 - 57,-1,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,381,3,15,3,9:28 PM,11:26,,,D. Robinson Free Throw 3 of 3 (18 PTS),59 - 57,-2,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,382,2,58,3,9:28 PM,11:08,MISS Adams 2' Turnaround Hook Shot,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,383,4,0,3,9:29 PM,11:04,,,Vincent REBOUND (Off:0 Def:1),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,384,1,98,3,9:29 PM,10:53,,,Garrett 3' Cutting Layup Shot (2 PTS) (Vincent 7 AST),61 - 57,-4,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,386,6,2,3,9:29 PM,10:40,,,Garrett S.FOUL (P4.T1) (E.Malloy),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,388,3,11,3,9:29 PM,10:40,Morant Free Throw 1 of 2 (14 PTS),,,61 - 58,-3,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,389,8,0,3,9:30 PM,10:40,,,SUB: Bouyea FOR Garrett,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,391,3,12,3,9:30 PM,10:40,Morant Free Throw 2 of 2 (15 PTS),,,61 - 59,-2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,392,2,1,3,9:30 PM,10:29,,,MISS Highsmith 25' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,393,4,0,3,9:30 PM,10:26,Brooks REBOUND (Off:0 Def:2),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,394,1,5,3,9:30 PM,10:15,Adams 2' Layup (6 PTS) (Morant 3 AST),,,61 - 61,TIE,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,396,2,1,3,9:30 PM,10:00,,,MISS O. Robinson 17' Jump Shot,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,397,4,0,3,9:31 PM,9:58,Aldama REBOUND (Off:0 Def:5),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,398,2,1,3,9:31 PM,9:35,MISS Bane 29' 3PT Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,399,4,0,3,9:31 PM,9:33,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,401,5,1,3,9:31 PM,9:19,Adams STEAL (1 STL),,Vincent Bad Pass Turnover (P3.T8),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,403,2,1,3,9:32 PM,9:04,MISS Aldama 24' 3PT Jump Shot,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,404,4,0,3,9:32 PM,8:59,,,O. Robinson REBOUND (Off:1 Def:2),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,405,2,1,3,9:32 PM,8:52,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,406,4,0,3,9:32 PM,8:49,Morant REBOUND (Off:0 Def:3),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,407,2,2,3,9:32 PM,8:43,MISS Bane 27' 3PT Running Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,408,4,0,3,9:32 PM,8:38,,,Bouyea REBOUND (Off:0 Def:3),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,409,5,4,3,9:32 PM,8:28,,,Vincent Traveling Turnover (P4.T9),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,411,5,1,3,9:35 PM,8:15,Bane Bad Pass Turnover (P3.T12),,Bouyea STEAL (1 STL),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,413,1,2,3,9:35 PM,8:09,,,D. Robinson 26' 3PT Running Jump Shot (21 PTS) (Bouyea 3 AST),64 - 61,-3,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,415,9,1,3,9:35 PM,8:08,GRIZZLIES Timeout: Regular (Full 3 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,416,5,45,3,9:38 PM,7:54,Adams Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012200033,418,5,2,3,9:38 PM,7:39,Adams STEAL (2 STL),,O. Robinson Lost Ball Turnover (P1.T10),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,420,6,2,3,9:38 PM,7:34,,,Highsmith S.FOUL (P4.T2) (D.Richardson),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,422,3,11,3,9:39 PM,7:34,Morant Free Throw 1 of 2 (16 PTS),,,64 - 62,-2,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,423,8,0,3,9:39 PM,7:34,,,SUB: Cain FOR Highsmith,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,425,3,12,3,9:39 PM,7:34,Morant Free Throw 2 of 2 (17 PTS),,,64 - 63,-1,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,426,1,1,3,9:39 PM,7:22,,,D. Robinson 25' 3PT Jump Shot (24 PTS) (Bouyea 4 AST),67 - 63,-4,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,428,2,1,3,9:40 PM,7:07,MISS Morant 28' 3PT Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,429,4,0,3,9:40 PM,7:02,,,Vincent REBOUND (Off:0 Def:2),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,430,2,1,3,9:40 PM,6:52,,,MISS Vincent 26' 3PT Jump Shot,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,431,4,0,3,9:40 PM,6:49,Morant REBOUND (Off:0 Def:4),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,432,6,1,3,9:40 PM,6:47,,,Vincent P.FOUL (P3.T3) (E.Malloy),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,434,1,1,3,9:40 PM,6:37,Aldama 26' 3PT Jump Shot (11 PTS) (Brooks 1 AST),,,67 - 66,-1,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,436,1,6,3,9:41 PM,6:08,,,Bouyea 3' Driving Layup (7 PTS) (Cain 1 AST),69 - 66,-3,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,437,6,1,3,9:41 PM,5:58,,,Vincent P.FOUL (P4.T4) (M.Kallio),,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,439,8,0,3,9:41 PM,5:58,SUB: Tillman FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,440,8,0,3,9:41 PM,5:58,SUB: Williams FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,444,1,98,3,9:42 PM,5:49,Williams 3' Cutting Layup Shot (4 PTS) (Morant 4 AST),,,69 - 68,-1,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,446,2,75,3,9:42 PM,5:36,,,MISS Vincent 5' Driving Finger Roll Layup,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,448,1,97,3,9:42 PM,5:32,,,O. Robinson Tip Layup Shot (8 PTS),71 - 68,-3,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,447,4,0,3,9:42 PM,5:32,,,O. Robinson REBOUND (Off:2 Def:2),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,449,1,1,3,9:42 PM,5:23,Brooks 25' 3PT Jump Shot (9 PTS) (Adams 3 AST),,,71 - 71,TIE,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,451,9,1,3,9:42 PM,5:23,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,452,2,80,3,9:46 PM,4:57,,,MISS Bouyea 21' Step Back Jump Shot,,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,453,4,0,3,9:46 PM,4:56,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,455,2,101,3,9:46 PM,4:45,MISS Morant 11' Driving Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,456,4,0,3,9:46 PM,4:44,,,O. Robinson REBOUND (Off:2 Def:3),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,457,6,1,3,9:46 PM,4:44,Morant P.FOUL (P1.T2) (D.Richardson),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,459,8,0,3,9:46 PM,4:44,SUB: Bane FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,460,8,0,3,9:46 PM,4:44,SUB: Jones FOR Morant,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,461,8,0,3,9:46 PM,4:44,SUB: Clarke FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,462,8,0,3,9:46 PM,4:44,,,SUB: Smith FOR Vincent,,,5,1629216,Gabe Vincent,1610612748.0,Miami,Heat,MIA,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,467,6,4,3,9:47 PM,4:34,,,O. Robinson OFF.Foul (P2) (E.Malloy),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,469,5,37,3,9:47 PM,4:34,,,O. Robinson Offensive Foul Turnover (P2.T11),,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,470,6,4,3,9:47 PM,4:24,Tillman OFF.Foul (P1) (D.Richardson),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,472,5,37,3,9:47 PM,4:24,Tillman Offensive Foul Turnover (P2.T14),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012200033,473,1,1,3,9:48 PM,4:10,,,D. Robinson 27' 3PT Jump Shot (27 PTS) (O. Robinson 3 AST),74 - 71,-3,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,475,2,101,3,9:48 PM,3:43,MISS Clarke 5' Driving Floating Jump Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,476,4,0,3,9:48 PM,3:42,Tillman REBOUND (Off:2 Def:1),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,477,2,72,3,9:48 PM,3:42,MISS Tillman 3' Putback Layup,,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,478,4,0,3,9:48 PM,3:42,Clarke REBOUND (Off:2 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,484,5,11,3,9:48 PM,3:42,GRIZZLIES Turnover: Shot Clock (T#15),,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200033,480,6,4,3,9:49 PM,3:29,,,Smith OFF.Foul (P4) (M.Kallio),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,482,5,37,3,9:49 PM,3:29,,,Smith Offensive Foul Turnover (P1.T12),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,483,6,4,3,9:49 PM,3:21,Clarke OFF.Foul (P2) (E.Malloy),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,486,5,37,3,9:49 PM,3:21,Clarke Offensive Foul Turnover (P1.T16),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012200033,487,6,2,3,9:49 PM,3:10,Bane S.FOUL (P4.T3) (D.Richardson),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,489,3,11,3,9:50 PM,3:10,,,O. Robinson Free Throw 1 of 2 (9 PTS),75 - 71,-4,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,490,3,12,3,9:50 PM,3:10,,,MISS O. Robinson Free Throw 2 of 2,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,491,4,0,3,9:50 PM,3:06,Williams REBOUND (Off:0 Def:4),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,492,1,1,3,9:50 PM,2:54,Williams 3PT Jump Shot (7 PTS) (Jones 2 AST),,,75 - 74,-1,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,494,1,6,3,9:50 PM,2:46,,,Smith 5' Driving Layup (2 PTS) (Bouyea 5 AST),77 - 74,-3,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,496,6,2,3,9:51 PM,2:34,,,Smith S.FOUL (P5.PN) (E.Malloy),,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,498,3,11,3,9:51 PM,2:34,Bane Free Throw 1 of 2 (11 PTS),,,77 - 75,-2,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,499,8,0,3,9:51 PM,2:34,,,SUB: Garrett FOR O. Robinson,,,5,1631115,Orlando Robinson,1610612748.0,Miami,Heat,MIA,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,500,8,0,3,9:51 PM,2:34,,,SUB: Jovic FOR Smith,,,5,1630696,Dru Smith,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0012200033,503,3,12,3,9:52 PM,2:34,Bane Free Throw 2 of 2 (12 PTS),,,77 - 76,-1,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,504,6,4,3,9:52 PM,2:27,,,D. Robinson OFF.Foul (P2) (E.Malloy),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,506,5,37,3,9:52 PM,2:27,,,D. Robinson Offensive Foul Turnover (P2.T13),,,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,507,1,5,3,9:52 PM,2:11,Clarke 3' Layup (6 PTS) (Williams 1 AST),,,77 - 78,1,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,510,1,79,3,9:53 PM,1:52,,,D. Robinson 18' Pullup Jump Shot (29 PTS),79 - 78,-1,5,1629130,Duncan Robinson,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,511,6,26,3,9:53 PM,1:45,Tillman Offensive Charge Foul (P2) (D.Richardson),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,513,5,37,3,9:53 PM,1:45,Tillman Offensive Foul Turnover (P3.T17),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,1
+0012200033,514,6,2,3,9:54 PM,1:30,Tillman S.FOUL (P3.T4) (E.Malloy),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,516,3,11,3,9:54 PM,1:30,,,Jovic Free Throw 1 of 2 (6 PTS),80 - 78,-2,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,517,3,12,3,9:54 PM,1:30,,,Jovic Free Throw 2 of 2 (7 PTS),81 - 78,-3,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,518,2,1,3,9:55 PM,1:16,MISS Williams 25' 3PT Jump Shot,,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,519,4,0,3,9:55 PM,1:11,,,Cain REBOUND (Off:0 Def:4),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,520,2,1,3,9:55 PM,0:49,,,MISS Garrett 3PT Jump Shot,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,521,4,0,3,9:55 PM,0:47,,,Cain REBOUND (Off:1 Def:4),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,522,1,98,3,9:55 PM,0:46,,,Garrett 3' Cutting Layup Shot (4 PTS) (Cain 2 AST),83 - 78,-5,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,524,2,101,3,9:55 PM,0:33,MISS Jones 10' Driving Floating Jump Shot,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,525,4,0,3,9:55 PM,0:31,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,527,2,43,3,9:56 PM,0:12,,,MISS Jovic 2' Alley Oop Layup,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,528,4,0,3,9:56 PM,0:05,Tillman REBOUND (Off:2 Def:2),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,529,2,2,3,9:56 PM,0:05,MISS Bane 28' 3PT Running Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,530,4,0,3,9:56 PM,0:00,,,Jovic REBOUND (Off:1 Def:2),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,531,2,1,3,9:56 PM,0:00,,,MISS Jovic 59' 3PT Jump Shot,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,532,4,0,3,9:56 PM,0:00,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200033,533,13,0,3,9:56 PM,0:00,,End of 3rd Period (9:56 PM EST),,83 - 78,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200033,540,12,0,4,9:59 PM,12:00,,Start of 4th Period (9:59 PM EST),,83 - 78,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,541,1,80,4,9:59 PM,11:42,Bane 26' 3PT Step Back Jump Shot (15 PTS) (Jones 3 AST),,,83 - 81,-2,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,543,1,52,4,10:00 PM,11:28,,,Cain 1' Alley Oop Dunk (14 PTS) (Jovic 2 AST),85 - 81,-4,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,545,1,101,4,10:00 PM,11:13,Bane 7' Driving Floating Jump Shot (17 PTS) (Jones 4 AST),,,85 - 83,-2,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,547,1,1,4,10:00 PM,10:57,,,Bouyea 26' 3PT Jump Shot (10 PTS) (Cain 3 AST),88 - 83,-5,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,548,2,79,4,10:00 PM,10:45,MISS Bane 26' 3PT Pullup Jump Shot,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,549,4,0,4,10:00 PM,10:42,,,Highsmith REBOUND (Off:0 Def:3),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,550,5,1,4,10:01 PM,10:34,Clarke STEAL (1 STL),,Highsmith Bad Pass Turnover (P1.T14),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,552,10,0,4,10:01 PM,10:23,Jump Ball Bane vs. Highsmith: Tip to Cain,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0
+0012200033,555,5,2,4,10:01 PM,10:23,Bane Lost Ball Turnover (P4.T18),,Highsmith STEAL (1 STL),,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,557,2,78,4,10:02 PM,10:07,,,MISS Cain 13' Floating Jump Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,558,4,0,4,10:02 PM,10:03,Bane REBOUND (Off:0 Def:2),,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,559,1,101,4,10:02 PM,9:49,Clarke 5' Driving Floating Jump Shot (8 PTS) (Bane 4 AST),,,88 - 85,-3,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,560,6,2,4,10:02 PM,9:49,,,Cain S.FOUL (P3.T1) (D.Richardson),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,562,3,10,4,10:02 PM,9:49,Clarke Free Throw 1 of 1 (9 PTS),,,88 - 86,-2,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,563,2,6,4,10:03 PM,9:28,Aldama BLOCK (2 BLK),,MISS Jovic 4' Driving Layup,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,1
+0012200033,565,4,0,4,10:03 PM,9:23,Jones REBOUND (Off:0 Def:3),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,566,6,2,4,10:03 PM,9:23,,,Highsmith S.FOUL (P5.T2) (M.Kallio),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,568,3,11,4,10:03 PM,9:23,MISS Roddy Free Throw 1 of 2,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,569,4,1,4,10:03 PM,9:23,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,570,3,12,4,10:04 PM,9:23,Roddy Free Throw 2 of 2 (8 PTS),,,88 - 87,-1,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,571,1,1,4,10:04 PM,9:06,,,Cain 26' 3PT Jump Shot (17 PTS) (Bouyea 6 AST),91 - 87,-4,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,573,5,2,4,10:04 PM,8:45,Aldama Lost Ball Turnover (P2.T19),,Garrett STEAL (1 STL),,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,575,2,100,4,10:04 PM,8:41,,,MISS Cain 1' Running Alley Oop Layup Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,576,4,0,4,10:04 PM,8:41,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,579,8,0,4,10:04 PM,8:41,SUB: Brooks FOR Bane,,,,,4,1630217,Desmond Bane,1610612763.0,Memphis,Grizzlies,MEM,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,580,8,0,4,10:04 PM,8:41,SUB: Morant FOR Roddy,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,583,1,80,4,10:05 PM,8:25,Brooks 17' Step Back Jump Shot (11 PTS),,,91 - 89,-2,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,584,1,79,4,10:05 PM,7:59,,,Jovic 25' 3PT Pullup Jump Shot (10 PTS),94 - 89,-5,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,586,2,78,4,10:06 PM,7:42,MISS Morant 4' Floating Jump Shot,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,587,4,0,4,10:06 PM,7:35,Clarke REBOUND (Off:3 Def:4),,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,588,2,97,4,10:06 PM,7:35,MISS Clarke Tip Layup Shot,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,589,4,0,4,10:06 PM,7:35,,,Jovic REBOUND (Off:1 Def:3),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,590,6,1,4,10:06 PM,7:33,Brooks P.FOUL (P3.T1) (M.Kallio),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,592,1,1,4,10:06 PM,7:27,,,Jovic 28' 3PT Jump Shot (13 PTS) (Highsmith 1 AST),97 - 89,-8,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,594,9,1,4,10:07 PM,7:26,GRIZZLIES Timeout: Regular (Full 4 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,595,2,78,4,10:10 PM,7:07,MISS Aldama 4' Floating Jump Shot,,Jovic BLOCK (1 BLK),,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,1
+0012200033,597,4,0,4,10:10 PM,7:01,,,Jovic REBOUND (Off:1 Def:4),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,598,2,1,4,10:10 PM,6:59,,,MISS Highsmith 26' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,599,4,0,4,10:10 PM,6:55,Jones REBOUND (Off:0 Def:4),,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,600,1,2,4,10:10 PM,6:50,Brooks 25' 3PT Running Jump Shot (14 PTS) (Jones 5 AST),,,97 - 92,-5,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,602,6,1,4,10:11 PM,6:32,Aldama P.FOUL (P1.T2) (M.Kallio),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,604,8,0,4,10:11 PM,6:32,SUB: Adams FOR Clarke,,,,,4,1629634,Brandon Clarke,1610612763.0,Memphis,Grizzlies,MEM,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,605,8,0,4,10:11 PM,6:32,SUB: Williams FOR Jones,,,,,4,1626145,Tyus Jones,1610612763.0,Memphis,Grizzlies,MEM,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,608,5,9,4,10:11 PM,6:32,,,Heat Turnover: 5 Second Violation (T#15),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200033,609,6,2,4,10:11 PM,6:20,,,Jovic S.FOUL (P1.T3) (D.Richardson),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,611,3,13,4,10:12 PM,6:20,Brooks Free Throw 1 of 3 (15 PTS),,,97 - 93,-4,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,612,3,14,4,10:12 PM,6:20,Brooks Free Throw 2 of 3 (16 PTS),,,97 - 94,-3,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,613,3,15,4,10:12 PM,6:20,MISS Brooks Free Throw 3 of 3,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0012200033,614,4,0,4,10:12 PM,6:17,Aldama REBOUND (Off:1 Def:5),,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,615,2,1,4,10:12 PM,6:15,MISS Brooks 26' 3PT Jump Shot,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,616,4,0,4,10:12 PM,6:11,,,Cain REBOUND (Off:1 Def:5),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,617,6,2,4,10:13 PM,5:58,Brooks S.FOUL (P4.T3) (D.Richardson),,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,619,3,11,4,10:13 PM,5:58,,,Cain Free Throw 1 of 2 (18 PTS),98 - 94,-4,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,620,3,12,4,10:13 PM,5:58,,,Cain Free Throw 2 of 2 (19 PTS),99 - 94,-5,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0012200033,621,1,75,4,10:14 PM,5:40,Brooks 3' Driving Finger Roll Layup (18 PTS),,,99 - 96,-3,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,622,1,79,4,10:14 PM,5:26,,,Bouyea 15' Pullup Jump Shot (12 PTS) (Jovic 3 AST),101 - 96,-5,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,624,5,1,4,10:15 PM,5:10,Brooks Bad Pass Turnover (P4.T20),,Bouyea STEAL (2 STL),,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,626,1,2,4,10:15 PM,5:06,,,Highsmith 25' 3PT Running Jump Shot (8 PTS) (Bouyea 7 AST),104 - 96,-8,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,628,9,1,4,10:15 PM,5:03,GRIZZLIES Timeout: Regular (Full 5 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,630,8,0,4,10:17 PM,5:03,SUB: Roddy FOR Aldama,,,,,4,1630583,Santi Aldama,1610612763.0,Memphis,Grizzlies,MEM,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,632,2,101,4,10:18 PM,4:49,MISS Morant 7' Driving Floating Jump Shot,,Jovic BLOCK (2 BLK),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,1
+0012200033,634,4,0,4,10:18 PM,4:48,Morant REBOUND (Off:1 Def:4),,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,635,6,2,4,10:18 PM,4:48,,,Bouyea S.FOUL (P1.T4) (E.Malloy),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,637,3,11,4,10:19 PM,4:48,Adams Free Throw 1 of 2 (7 PTS),,,104 - 97,-7,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,638,3,12,4,10:19 PM,4:48,Adams Free Throw 2 of 2 (8 PTS),,,104 - 98,-6,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0012200033,639,2,6,4,10:19 PM,4:35,,,MISS Garrett 2' Driving Layup,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,640,4,0,4,10:19 PM,4:33,,,Bouyea REBOUND (Off:1 Def:3),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,641,2,1,4,10:19 PM,4:31,,,MISS Highsmith 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,642,4,0,4,10:19 PM,4:27,Williams REBOUND (Off:0 Def:5),,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,643,5,2,4,10:19 PM,4:22,Morant Lost Ball Turnover (P3.T21),,Garrett STEAL (2 STL),,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,645,5,13,4,10:20 PM,4:09,,,Bouyea Backcourt Turnover (P3.T16),,,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,646,8,0,4,10:20 PM,4:09,SUB: Chandler FOR Adams,,,,,4,203500,Steven Adams,1610612763.0,Memphis,Grizzlies,MEM,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,647,8,0,4,10:20 PM,4:09,SUB: Williams Jr. FOR Morant,,,,,4,1629630,Ja Morant,1610612763.0,Memphis,Grizzlies,MEM,4,1631246,Vince Williams Jr.,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,648,8,0,4,10:20 PM,4:09,SUB: Tillman FOR Brooks,,,,,4,1628415,Dillon Brooks,1610612763.0,Memphis,Grizzlies,MEM,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0012200033,653,1,78,4,10:21 PM,3:44,Tillman 6' Floating Jump Shot (5 PTS),,,104 - 100,-4,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,654,9,1,4,10:21 PM,3:43,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,655,2,1,4,10:23 PM,3:24,,,MISS Jovic 3PT Jump Shot,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,656,4,0,4,10:23 PM,3:22,Chandler REBOUND (Off:0 Def:1),,,,,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,657,2,41,4,10:23 PM,3:18,MISS Roddy 3' Running Layup,,Garrett BLOCK (1 BLK),,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,1
+0012200033,659,4,0,4,10:23 PM,3:14,,,Jovic REBOUND (Off:1 Def:5),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,660,1,2,4,10:23 PM,3:11,,,Highsmith 25' 3PT Running Jump Shot (11 PTS) (Bouyea 8 AST),107 - 100,-7,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,5,1631123,Jamaree Bouyea,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1
+0012200033,662,9,1,4,10:23 PM,3:09,GRIZZLIES Timeout: Regular (Full 6 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,663,2,1,4,10:25 PM,2:45,MISS Chandler 25' 3PT Jump Shot,,,,,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,664,4,0,4,10:25 PM,2:45,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,665,5,11,4,10:25 PM,2:45,GRIZZLIES Turnover: Shot Clock (T#22),,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200033,666,5,2,4,10:25 PM,2:28,Tillman STEAL (1 STL),,Highsmith Lost Ball Turnover (P2.T17),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,668,2,74,4,10:26 PM,2:23,MISS Chandler 3' Running Reverse Layup,,Jovic BLOCK (3 BLK),,,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,1
+0012200033,670,4,0,4,10:26 PM,2:20,,,Jovic REBOUND (Off:1 Def:6),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,671,5,45,4,10:26 PM,2:20,,,Jovic Out of Bounds - Bad Pass Turnover Turnover (P1.T18),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,1
+0012200033,673,6,2,4,10:26 PM,2:08,,,Cain S.FOUL (P4.PN) (M.Kallio),,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,1
+0012200033,675,3,11,4,10:27 PM,2:08,Williams Free Throw 1 of 2 (8 PTS),,,107 - 101,-6,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,676,3,12,4,10:27 PM,2:08,Williams Free Throw 2 of 2 (9 PTS),,,107 - 102,-5,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,677,6,2,4,10:27 PM,1:55,Tillman S.FOUL (P4.T4) (D.Richardson),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,679,3,11,4,10:28 PM,1:55,,,MISS Jovic Free Throw 1 of 2,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,680,4,1,4,10:28 PM,1:55,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,681,3,12,4,10:28 PM,1:55,,,MISS Jovic Free Throw 2 of 2,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,682,4,0,4,10:28 PM,1:52,Tillman REBOUND (Off:2 Def:3),,,,,4,1630214,Xavier Tillman,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,683,1,79,4,10:28 PM,1:41,Williams 28' 3PT Pullup Jump Shot (12 PTS) (Chandler 1 AST),,,107 - 105,-2,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,685,2,104,4,10:29 PM,1:19,,,MISS Jovic 29' 3PT Step Back Bank Jump Shot,,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,686,4,0,4,10:29 PM,1:19,,,Highsmith REBOUND (Off:1 Def:3),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,687,1,72,4,10:29 PM,1:15,,,Highsmith Putback Layup (13 PTS),109 - 105,-4,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,688,2,80,4,10:29 PM,1:05,MISS Williams 26' 3PT Step Back Jump Shot,,Highsmith BLOCK (1 BLK),,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1
+0012200033,690,4,0,4,10:29 PM,0:58,,,Jovic REBOUND (Off:1 Def:7),,,5,1631107,Nikola Jovic,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,691,2,1,4,10:29 PM,0:44,,,MISS Highsmith 28' 3PT Jump Shot,,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,692,4,0,4,10:29 PM,0:39,,,Garrett REBOUND (Off:4 Def:0),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,693,2,1,4,10:29 PM,0:38,,,MISS Cain 3PT Jump Shot,,,5,1631288,Jamal Cain,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,694,4,0,4,10:29 PM,0:33,Chandler REBOUND (Off:0 Def:2),,,,,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,695,2,1,4,10:29 PM,0:31,MISS Roddy 24' 3PT Jump Shot,,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,696,4,0,4,10:29 PM,0:26,,,Garrett REBOUND (Off:4 Def:1),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,697,5,1,4,10:29 PM,0:25,Roddy STEAL (1 STL),,Garrett Bad Pass Turnover (P2.T19),,,5,1630585,Marcus Garrett,1610612748.0,Miami,Heat,MIA,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,699,1,1,4,10:30 PM,0:23,Williams Jr. 26' 3PT Jump Shot (3 PTS) (Chandler 2 AST),,,109 - 108,-1,4,1631246,Vince Williams Jr.,1610612763.0,Memphis,Grizzlies,MEM,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1
+0012200033,701,9,1,4,10:30 PM,0:23,,,Heat Timeout: Regular (Reg.5 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,702,6,1,4,10:32 PM,0:14,Roddy P.FOUL (P2.PN) (E.Malloy),,,,,4,1631223,David Roddy,1610612763.0,Memphis,Grizzlies,MEM,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,1,0,,,,,,1
+0012200033,704,3,11,4,10:32 PM,0:14,,,Highsmith Free Throw 1 of 2 (14 PTS),110 - 108,-2,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,705,3,12,4,10:33 PM,0:14,,,Highsmith Free Throw 2 of 2 (15 PTS),111 - 108,-3,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,706,9,1,4,10:33 PM,0:14,GRIZZLIES Timeout: Regular (Full 7 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200033,708,2,79,4,10:35 PM,0:09,MISS Williams 28' 3PT Pullup Jump Shot,,,,,4,1630533,Ziaire Williams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,709,4,0,4,10:35 PM,0:05,Chandler REBOUND (Off:1 Def:2),,,,,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,710,2,79,4,10:35 PM,0:03,MISS Chandler 28' 3PT Pullup Jump Shot,,,,,4,1631113,Kennedy Chandler,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,1
+0012200033,711,4,0,4,10:35 PM,0:03,,,Highsmith REBOUND (Off:1 Def:4),,,5,1629312,Haywood Highsmith,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,1
+0012200033,712,13,0,4,10:35 PM,0:00,,End of 4th Period (10:35 PM EST),,111 - 108,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

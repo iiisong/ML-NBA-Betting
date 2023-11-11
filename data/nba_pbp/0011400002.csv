@@ -1,0 +1,478 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400002,0,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,1,10,0,1,7:12 PM,12:00,Jump Ball Valanciunas vs. Thompson: Tip to Johnson,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0
+0011400002,2,6,2,1,7:12 PM,11:39,,,Collison S.FOUL (P1.T1),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,3,3,11,1,7:12 PM,11:39,Lowry Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,5,3,12,1,7:12 PM,11:39,Lowry Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,7,5,4,1,7:13 PM,11:18,,,Cousins Traveling Turnover (P1.T1),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,9,2,79,1,7:14 PM,11:03,MISS DeRozan 15' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,10,4,0,1,7:14 PM,11:00,,,Thompson REBOUND (Off:0 Def:1),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,11,1,1,1,7:14 PM,10:49,,,Cousins 18' Jump Shot (2 PTS) (Collison 1 AST),2 - 2,TIE,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,12,1,58,1,7:14 PM,10:27,Valanciunas 6' Turnaround Hook Shot (2 PTS),,,2 - 4,2,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,13,2,1,1,7:14 PM,10:10,,,MISS Gay 25' 3PT Jump Shot,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,14,4,0,1,7:15 PM,10:09,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,15,1,79,1,7:15 PM,10:00,Valanciunas 8' Pullup Jump Shot (4 PTS) (Lowry 1 AST),,,2 - 6,4,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,31,2,40,1,7:15 PM,9:55,,,MISS Cousins 2' Layup,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,16,4,0,1,7:15 PM,9:53,Valanciunas REBOUND (Off:0 Def:2),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,17,2,1,1,7:15 PM,9:16,MISS Ross 20' Jump Shot,,Gay BLOCK (1 BLK),,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0
+0011400002,18,4,0,1,7:15 PM,9:15,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,19,5,11,1,7:15 PM,9:11,RAPTORS Turnover: Shot Clock (T#1),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400002,21,6,2,1,7:16 PM,8:58,Ross S.FOUL (P1.T1),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,22,3,11,1,7:16 PM,8:58,,,MISS Thompson Free Throw 1 of 2,,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,23,4,1,1,7:16 PM,8:58,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,24,3,12,1,7:16 PM,8:58,,,Thompson Free Throw 2 of 2 (1 PTS),3 - 6,3,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,26,1,42,1,7:17 PM,8:47,DeRozan 2' Driving Layup (2 PTS) (Johnson 1 AST),,,3 - 8,5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,27,2,1,1,7:17 PM,8:27,,,MISS Gay 19' Jump Shot,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,28,4,0,1,7:17 PM,8:26,,,Collison REBOUND (Off:1 Def:0),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,30,1,1,1,7:18 PM,8:13,,,Thompson 16' Jump Shot (3 PTS) (Collison 2 AST),5 - 8,3,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,32,6,4,1,7:18 PM,7:56,Valanciunas OFF.Foul (P1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,33,5,5,1,7:18 PM,7:56,Valanciunas Foul Turnover (P1.T2),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,34,1,42,1,7:18 PM,7:42,,,Gay 2' Driving Layup (2 PTS),7 - 8,1,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,35,2,1,1,7:19 PM,7:30,MISS DeRozan 25' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,36,4,0,1,7:19 PM,7:29,Johnson REBOUND (Off:1 Def:0),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,37,5,8,1,7:19 PM,7:23,Johnson 3 Second Violation Turnover (P1.T3),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,38,5,1,1,7:19 PM,7:14,Johnson STEAL (1 STL),,McLemore Bad Pass Turnover (P1.T2),,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,39,2,5,1,7:19 PM,7:09,MISS Johnson 2' Layup,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,40,4,0,1,7:19 PM,7:08,,,Cousins REBOUND (Off:0 Def:1),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,41,6,2,1,7:19 PM,7:01,Lowry S.FOUL (P1.T2),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,42,3,11,1,7:20 PM,7:01,,,MISS Collison Free Throw 1 of 2,,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,43,4,1,1,7:20 PM,7:01,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,44,3,12,1,7:20 PM,7:01,,,Collison Free Throw 2 of 2 (1 PTS),8 - 8,TIE,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,46,6,2,1,7:20 PM,6:45,,,Cousins S.FOUL (P1.T2),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,47,3,11,1,7:21 PM,6:45,Valanciunas Free Throw 1 of 2 (5 PTS),,,8 - 9,1,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,49,3,12,1,7:21 PM,6:45,Valanciunas Free Throw 2 of 2 (6 PTS),,,8 - 10,2,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,51,2,1,1,7:21 PM,6:31,,,MISS McLemore 25' 3PT Jump Shot,,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,52,4,0,1,7:21 PM,6:30,Ross REBOUND (Off:0 Def:1),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,53,5,1,1,7:21 PM,6:24,Ross Bad Pass Turnover (P1.T4),,McLemore STEAL (1 STL),,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,54,2,1,1,7:22 PM,6:15,,,MISS McLemore 21' Jump Shot,,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,55,4,0,1,7:22 PM,6:14,Valanciunas REBOUND (Off:0 Def:3),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,56,5,39,1,7:22 PM,6:08,Johnson Step Out of Bounds Turnover (P2.T5),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,57,6,26,1,7:22 PM,5:49,,,Collison Offensive Charge Foul (P2.T3),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,58,5,5,1,7:22 PM,5:49,,,Collison Foul Turnover (P1.T3),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,59,9,1,1,7:22 PM,5:49,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,61,8,0,1,7:24 PM,5:49,SUB: Stiemsma FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,62,8,0,1,7:24 PM,5:49,SUB: Williams FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,63,8,0,1,7:24 PM,5:49,,,SUB: Sessions FOR Collison,,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,64,6,2,1,7:25 PM,5:39,,,Gay S.FOUL (P1.T4),,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,65,3,11,1,7:25 PM,5:39,MISS DeRozan Free Throw 1 of 2,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,66,4,1,1,7:25 PM,5:39,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,67,3,12,1,7:25 PM,5:39,DeRozan Free Throw 2 of 2 (3 PTS),,,8 - 11,3,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,69,2,66,1,7:26 PM,5:23,,,MISS Gay 5' Jump Bank Shot,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,70,4,0,1,7:26 PM,5:22,Johnson REBOUND (Off:1 Def:1),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,71,1,5,1,7:26 PM,5:08,DeRozan 2' Layup (5 PTS) (Lowry 2 AST),,,8 - 13,5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,72,2,1,1,7:26 PM,4:51,,,MISS Thompson 19' Jump Shot,,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,73,4,0,1,7:26 PM,4:50,Lowry REBOUND (Off:0 Def:1),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,74,2,1,1,7:27 PM,4:40,MISS DeRozan 16' Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,75,4,0,1,7:27 PM,4:39,DeRozan REBOUND (Off:1 Def:0),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,76,1,73,1,7:27 PM,4:33,DeRozan 2' Driving Reverse Layup (7 PTS),,,8 - 15,7,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,77,9,1,1,7:27 PM,4:29,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,78,8,0,1,7:29 PM,4:29,SUB: Johnson FOR Johnson,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,79,8,0,1,7:29 PM,4:29,SUB: Vasquez FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,80,8,0,1,7:29 PM,4:29,SUB: Hansbrough FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,81,8,0,1,7:29 PM,4:29,,,SUB: Stauskas FOR McLemore,,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,82,2,78,1,7:29 PM,4:14,,,MISS Sessions 5' Floating Jump Shot,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,83,4,0,1,7:29 PM,4:14,Vasquez REBOUND (Off:0 Def:1),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,84,2,1,1,7:30 PM,3:59,MISS Williams 20' Jump Shot,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,85,4,0,1,7:30 PM,3:58,,,Cousins REBOUND (Off:0 Def:2),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,86,5,1,1,7:30 PM,3:49,,,Sessions Bad Pass Turnover (P1.T4),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,87,8,0,1,7:30 PM,3:49,,,SUB: Evans FOR Thompson,,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,88,2,79,1,7:30 PM,3:33,MISS Vasquez 19' Pullup Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,89,4,0,1,7:30 PM,3:33,,,Evans REBOUND (Off:0 Def:1),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,90,6,1,1,7:31 PM,3:18,Hansbrough P.FOUL (P1.T3),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,91,1,42,1,7:31 PM,3:18,,,Sessions 1' Driving Layup (2 PTS),10 - 15,5,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,92,6,1,1,7:31 PM,2:56,,,Sessions P.FOUL (P1.PN),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,95,2,1,1,7:33 PM,2:43,MISS Williams 26' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,96,4,0,1,7:33 PM,2:42,Johnson REBOUND (Off:1 Def:0),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,97,2,53,1,7:33 PM,2:41,MISS Johnson 4' Tip Shot,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,98,4,0,1,7:33 PM,2:40,Stiemsma REBOUND (Off:1 Def:0),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,99,1,4,1,7:33 PM,2:38,Stiemsma 3' Tip Shot (2 PTS),,,10 - 17,7,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,100,6,1,1,7:33 PM,2:27,Vasquez P.FOUL (P1.T4),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,101,6,1,1,7:34 PM,2:27,Hansbrough P.FOUL (P2.PN),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,102,3,11,1,7:34 PM,2:27,,,Cousins Free Throw 1 of 2 (3 PTS),11 - 17,6,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,106,7,3,1,7:34 PM,2:27,Vasquez Violation:Lane,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,108,3,12,1,7:35 PM,2:27,,,Cousins Free Throw 2 of 2 (4 PTS),12 - 17,5,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,110,6,4,1,7:35 PM,2:16,Stiemsma OFF.Foul (P1),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,111,5,5,1,7:35 PM,2:16,Stiemsma Foul Turnover (P1.T6),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,112,5,8,1,7:35 PM,2:02,,,Evans 3 Second Violation Turnover (P1.T5),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,113,2,1,1,7:36 PM,1:38,MISS Williams 8' Jump Shot,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,114,4,0,1,7:36 PM,1:36,,,Evans REBOUND (Off:0 Def:2),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,116,8,0,1,7:36 PM,1:28,,,SUB: Landry FOR Cousins,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,117,1,42,1,7:37 PM,1:23,,,Sessions 3' Driving Layup (4 PTS),14 - 17,3,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,118,2,1,1,7:37 PM,1:07,MISS Vasquez 27' 3PT Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,119,4,0,1,7:37 PM,1:06,Stiemsma REBOUND (Off:2 Def:0),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,120,2,4,1,7:37 PM,1:05,MISS Stiemsma 2' Tip Shot,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,121,4,0,1,7:37 PM,1:04,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,122,6,3,1,7:37 PM,1:04,,,Landry L.B.FOUL (P1.PN),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,123,3,11,1,7:37 PM,1:04,Hansbrough Free Throw 1 of 2 (1 PTS),,,14 - 18,4,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,125,3,12,1,7:38 PM,1:04,Hansbrough Free Throw 2 of 2 (2 PTS),,,14 - 19,5,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,127,1,1,1,7:38 PM,0:46,,,Stauskas 24' 3PT Jump Shot (3 PTS) (Sessions 1 AST),17 - 19,2,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,128,6,1,1,7:38 PM,0:34,,,Stauskas P.FOUL (P1.PN),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,129,3,11,1,7:39 PM,0:34,MISS Williams Free Throw 1 of 2,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,130,4,1,1,7:39 PM,0:34,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,131,3,12,1,7:39 PM,0:34,Williams Free Throw 2 of 2 (1 PTS),,,17 - 20,3,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,133,5,11,1,7:39 PM,0:10,,,Kings Turnover: Shot Clock (T#6),,,3,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400002,134,2,1,1,7:40 PM,0:00,MISS Williams 18' Jump Shot,,Gay BLOCK (2 BLK),,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0
+0011400002,135,4,0,1,7:40 PM,0:00,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,136,13,0,1,7:40 PM,0:00,,End of 1st Period (7:40 PM EST),,17 - 20,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,138,12,0,2,7:42 PM,12:00,,Start of 2nd Period (7:42 PM EST),,17 - 20,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,139,5,1,2,7:43 PM,11:48,Ross STEAL (1 STL),,Stauskas Bad Pass Turnover (P1.T7),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,140,1,88,2,7:43 PM,11:45,Ross  Driving Slam Dunk (2 PTS),,,17 - 22,5,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,141,5,40,2,7:43 PM,11:36,,,Sessions Out of Bounds Lost Ball Turnover (P2.T8),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,142,1,77,2,7:43 PM,11:24,Johnson 4' Driving Jump Shot (2 PTS) (Williams 1 AST),,,17 - 24,7,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,143,5,1,2,7:44 PM,11:07,Johnson STEAL (1 STL),,Landry Bad Pass Turnover (P1.T9),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,144,5,1,2,7:44 PM,11:00,Johnson Bad Pass Turnover (P1.T7),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,145,6,1,2,7:44 PM,10:50,Johnson P.FOUL (P1.T1),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,146,5,4,2,7:45 PM,10:44,,,Stauskas Traveling Turnover (P2.T10),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,147,2,1,2,7:45 PM,10:30,MISS Ross 24' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,148,4,0,2,7:45 PM,10:30,,,Evans REBOUND (Off:0 Def:3),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,149,2,42,2,7:45 PM,10:17,,,MISS Sessions 2' Driving Layup,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,150,4,0,2,7:45 PM,10:16,,,Evans REBOUND (Off:1 Def:3),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,151,1,54,2,7:45 PM,10:15,,,Evans 3' Running Tip Shot (2 PTS),19 - 24,5,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,152,2,1,2,7:46 PM,9:56,MISS Vasquez 27' 3PT Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,153,4,0,2,7:46 PM,9:55,,,Landry REBOUND (Off:0 Def:1),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,154,1,58,2,7:46 PM,9:44,,,Landry 3' Turnaround Hook Shot (2 PTS) (Sessions 2 AST),21 - 24,3,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,155,9,1,2,7:46 PM,9:34,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,158,8,0,2,7:48 PM,9:34,SUB: Hamilton FOR Williams,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,159,1,1,2,7:49 PM,9:24,Ross 21' Jump Shot (4 PTS) (Vasquez 1 AST),,,21 - 26,5,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,160,5,1,2,7:49 PM,9:10,,,Sessions Bad Pass Turnover (P3.T11),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,162,1,1,2,7:49 PM,8:58,Ross 19' Jump Shot (6 PTS) (Vasquez 2 AST),,,21 - 28,7,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,163,9,1,2,7:49 PM,8:58,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,167,7,2,2,7:52 PM,8:42,Johnson Violation:Defensive Goaltending,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,166,1,42,2,7:52 PM,8:42,,,Williams 5' Driving Layup (2 PTS),23 - 28,5,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,168,5,36,2,7:53 PM,8:31,Johnson Illegal Screen Turnover (P2.T8),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,169,1,5,2,7:53 PM,8:17,,,Landry 1' Layup (4 PTS) (Sessions 3 AST),25 - 28,3,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,170,5,1,2,7:53 PM,8:05,Ross Bad Pass Turnover (P2.T9),,Stauskas STEAL (1 STL),,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,171,1,1,2,7:53 PM,7:53,,,Stauskas 27' 3PT Jump Shot (6 PTS) (Williams 1 AST),28 - 28,TIE,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,173,1,1,2,7:54 PM,7:34,Ross 19' Jump Shot (8 PTS) (Johnson 1 AST),,,28 - 30,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,174,6,2,2,7:54 PM,7:11,Hamilton S.FOUL (P1.T2),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,175,3,11,2,7:54 PM,7:11,,,Williams Free Throw 1 of 2 (3 PTS),29 - 30,1,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,177,8,0,2,7:54 PM,7:11,SUB: Lowry FOR Vasquez,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,178,3,12,2,7:55 PM,7:11,,,Williams Free Throw 2 of 2 (4 PTS),30 - 30,TIE,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,180,2,1,2,7:55 PM,7:01,MISS Ross 20' Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,181,4,0,2,7:55 PM,7:01,,,Williams REBOUND (Off:0 Def:1),,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,182,5,39,2,7:55 PM,6:45,,,Stauskas Step Out of Bounds Turnover (P3.T12),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,183,1,66,2,7:56 PM,6:30,Hamilton 27' 3PT Jump Bank Shot (3 PTS) (Johnson 2 AST),,,30 - 33,3,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,184,2,1,2,7:57 PM,6:08,,,MISS Williams 27' 3PT Jump Shot,,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,185,4,0,2,7:57 PM,6:07,Hayes REBOUND (Off:0 Def:1),,,,,4,101236,Chuck Hayes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,186,2,86,2,7:57 PM,5:59,MISS Lowry 14' Turnaround Fadeaway Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,187,4,0,2,7:57 PM,5:59,,,Landry REBOUND (Off:0 Def:2),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,188,1,42,2,7:57 PM,5:51,,,Sessions 3' Driving Layup (6 PTS) (Landry 1 AST),32 - 33,1,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,189,6,2,2,7:57 PM,5:51,Hamilton S.FOUL (P2.T3),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,190,8,0,2,7:57 PM,5:51,SUB: Johnson FOR Johnson,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,192,3,10,2,7:57 PM,5:51,,,Sessions Free Throw 1 of 1 (7 PTS),33 - 33,TIE,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,194,1,1,2,7:58 PM,5:41,Lowry 26' 3PT Jump Shot (5 PTS) (Johnson 2 AST),,,33 - 36,3,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,195,6,2,2,7:58 PM,5:27,Hayes S.FOUL (P1.T4),,,,,4,101236,Chuck Hayes,1610612761.0,Toronto,Raptors,TOR,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,196,3,11,2,7:58 PM,5:27,,,Evans Free Throw 1 of 2 (3 PTS),34 - 36,2,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,198,8,0,2,7:58 PM,5:27,,,SUB: Thompson FOR Landry,,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,199,8,0,2,7:58 PM,5:27,,,SUB: Collison FOR Sessions,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,200,8,0,2,7:58 PM,5:27,SUB: DeRozan FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,203,7,3,2,7:59 PM,5:27,Johnson Violation:Lane,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,205,3,12,2,7:59 PM,5:27,,,MISS Evans Free Throw 2 of 2,,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,207,4,0,2,7:59 PM,5:27,Hayes REBOUND (Off:0 Def:2),,,,,4,101236,Chuck Hayes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,208,1,5,2,7:59 PM,5:11,Hayes 1' Layup (2 PTS) (Hamilton 1 AST),,,34 - 38,4,4,101236,Chuck Hayes,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,209,1,1,2,8:00 PM,4:56,,,Stauskas 21' Jump Shot (8 PTS) (Collison 3 AST),36 - 38,2,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,210,2,1,2,8:00 PM,4:40,MISS Lowry 18' Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,211,4,0,2,8:00 PM,4:39,,,Evans REBOUND (Off:1 Def:4),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,212,2,1,2,8:00 PM,4:24,,,MISS Stauskas 24' 3PT Jump Shot,,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,213,4,0,2,8:00 PM,4:20,,,Thompson REBOUND (Off:1 Def:1),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,214,6,2,2,8:00 PM,4:20,Johnson S.FOUL (P1.PN),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,215,3,11,2,8:01 PM,4:20,,,Thompson Free Throw 1 of 2 (4 PTS),37 - 38,1,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,217,8,0,2,8:01 PM,4:20,,,SUB: Hollins FOR Evans,,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,218,8,0,2,8:01 PM,4:20,SUB: Valanciunas FOR Hayes,,,,,4,101236,Chuck Hayes,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,219,3,12,2,8:01 PM,4:20,,,Thompson Free Throw 2 of 2 (5 PTS),38 - 38,TIE,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,221,6,1,2,8:01 PM,4:08,,,Stauskas P.FOUL (P2.T1),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,222,3,11,2,8:02 PM,4:08,DeRozan Free Throw 1 of 2 (8 PTS),,,38 - 39,1,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,224,8,0,2,8:02 PM,4:08,SUB: Williams FOR Hamilton,,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,225,8,0,2,8:02 PM,4:08,,,SUB: McLemore FOR Stauskas,,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,226,3,12,2,8:02 PM,4:08,DeRozan Free Throw 2 of 2 (9 PTS),,,38 - 40,2,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,228,5,1,2,8:03 PM,3:49,DeRozan STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T13),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,229,1,42,2,8:03 PM,3:44,DeRozan 3' Driving Layup (11 PTS) (Williams 2 AST),,,38 - 42,4,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,230,6,2,2,8:03 PM,3:44,,,Collison S.FOUL (P3.T2),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,231,3,10,2,8:03 PM,3:44,DeRozan Free Throw 1 of 1 (12 PTS),,,38 - 43,5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,233,2,77,2,8:03 PM,3:27,Valanciunas BLOCK (1 BLK),,MISS Williams 7' Driving Jump Shot,,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0
+0011400002,234,4,0,2,8:03 PM,3:25,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,235,5,4,2,8:04 PM,3:22,,,Thompson Traveling Turnover (P2.T14),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,236,6,2,2,8:04 PM,3:02,,,Williams S.FOUL (P1.T3),,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,237,3,11,2,8:04 PM,3:02,Valanciunas Free Throw 1 of 2 (7 PTS),,,38 - 44,6,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,239,3,12,2,8:05 PM,3:02,Valanciunas Free Throw 2 of 2 (8 PTS),,,38 - 45,7,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,242,9,4,2,8:05 PM,2:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,244,8,0,2,8:07 PM,2:46,,,SUB: Sessions FOR Williams,,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,245,1,1,2,8:08 PM,2:39,,,McLemore 26' 3PT Jump Shot (3 PTS) (Collison 4 AST),41 - 45,4,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,246,2,1,2,8:08 PM,2:17,MISS Valanciunas 5' Jump Shot,,Hollins BLOCK (1 BLK),,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0
+0011400002,247,4,0,2,8:08 PM,2:16,Johnson REBOUND (Off:2 Def:1),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,248,5,11,2,8:08 PM,2:10,RAPTORS Turnover: Shot Clock (T#10),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400002,249,5,4,2,8:09 PM,1:57,,,Thompson Traveling Turnover (P3.T15),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,250,5,2,2,8:09 PM,1:42,Valanciunas Lost Ball Turnover (P2.T11),,Hollins STEAL (1 STL),,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,251,2,1,2,8:09 PM,1:34,,,MISS McLemore 4' Jump Shot,,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,252,4,0,2,8:09 PM,1:32,,,Hollins REBOUND (Off:1 Def:0),,,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,253,6,2,2,8:09 PM,1:32,Valanciunas S.FOUL (P2.PN),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,254,3,11,2,8:10 PM,1:32,,,MISS Hollins Free Throw 1 of 2,,,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,255,4,1,2,8:10 PM,1:32,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,256,3,12,2,8:10 PM,1:32,,,MISS Hollins Free Throw 2 of 2,,,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,258,4,0,2,8:10 PM,1:32,Lowry REBOUND (Off:0 Def:2),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,259,2,1,2,8:10 PM,1:13,MISS DeRozan 22' Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,260,4,0,2,8:10 PM,1:12,,,Hollins REBOUND (Off:1 Def:1),,,5,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,261,2,44,2,8:10 PM,0:53,,,MISS McLemore 2' Reverse Layup,,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,278,4,0,2,8:10 PM,0:53,Johnson REBOUND (Off:2 Def:2),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,262,2,1,2,8:11 PM,0:48,MISS Lowry 28' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,263,4,0,2,8:11 PM,0:47,,,Thompson REBOUND (Off:1 Def:2),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,264,6,2,2,8:11 PM,0:41,DeRozan S.FOUL (P1.PN),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,265,3,11,2,8:11 PM,0:41,,,Sessions Free Throw 1 of 2 (8 PTS),42 - 45,3,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,268,3,12,2,8:11 PM,0:41,,,MISS Sessions Free Throw 2 of 2,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,270,4,0,2,8:11 PM,0:41,Johnson REBOUND (Off:2 Def:3),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,271,2,1,2,8:12 PM,0:25,MISS DeRozan 5' Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,272,4,0,2,8:12 PM,0:24,DeRozan REBOUND (Off:2 Def:0),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,273,1,66,2,8:12 PM,0:21,DeRozan 2' Jump Bank Shot (14 PTS),,,42 - 47,5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,274,2,1,2,8:12 PM,0:00,,,MISS Thompson 20' Jump Shot,,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,275,4,0,2,8:12 PM,0:00,Williams REBOUND (Off:0 Def:1),,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,276,13,0,2,8:12 PM,0:00,,End of 2nd Period (8:12 PM EST),,42 - 47,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,279,12,0,3,8:28 PM,12:00,,Start of 3rd Period (8:28 PM EST),,42 - 47,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,280,6,27,3,8:29 PM,11:49,Johnson Personal Block Foul (P2.T1),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,281,2,65,3,8:29 PM,11:42,,,MISS Cousins 2' Jump Hook Shot,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,282,4,0,3,8:29 PM,11:41,Lowry REBOUND (Off:0 Def:3),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,283,6,1,3,8:29 PM,11:35,,,Cousins P.FOUL (P2.T1),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,284,2,5,3,8:30 PM,11:23,MISS DeRozan 3' Layup,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,285,4,0,3,8:30 PM,11:22,,,McLemore REBOUND (Off:0 Def:1),,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,286,5,8,3,8:30 PM,11:06,,,Thompson 3 Second Violation Turnover (P4.T16),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,287,2,1,3,8:31 PM,10:48,MISS Lowry 27' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,288,4,0,3,8:31 PM,10:48,,,McLemore REBOUND (Off:0 Def:2),,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,289,2,42,3,8:31 PM,10:31,,,MISS Cousins 2' Driving Layup,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,290,4,0,3,8:31 PM,10:31,,,Thompson REBOUND (Off:2 Def:2),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,291,1,54,3,8:31 PM,10:29,,,Thompson 2' Running Tip Shot (7 PTS),44 - 47,3,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,292,2,1,3,8:31 PM,10:09,MISS Ross 24' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,293,4,0,3,8:31 PM,10:09,,,Thompson REBOUND (Off:2 Def:3),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,294,1,8,3,8:32 PM,9:52,,,Cousins  Slam Dunk (6 PTS) (Gay 1 AST),46 - 47,1,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,295,2,1,3,8:32 PM,9:38,MISS DeRozan 19' Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,296,4,0,3,8:32 PM,9:37,,,Collison REBOUND (Off:1 Def:1),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,297,2,1,3,8:32 PM,9:30,,,MISS Gay 26' 3PT Jump Shot,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,298,4,0,3,8:32 PM,9:25,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,299,6,1,3,8:33 PM,9:10,,,Gay P.FOUL (P2.T2),,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,300,2,86,3,8:33 PM,9:04,MISS DeRozan 12' Turnaround Fadeaway Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,301,4,0,3,8:33 PM,9:04,,,Thompson REBOUND (Off:2 Def:4),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,302,1,1,3,8:33 PM,8:51,,,Collison 23' Jump Shot (3 PTS) (Thompson 1 AST),48 - 47,-1,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,303,6,2,3,8:33 PM,8:34,,,Gay S.FOUL (P3.T3),,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,304,3,11,3,8:34 PM,8:34,Valanciunas Free Throw 1 of 2 (9 PTS),,,48 - 48,TIE,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,306,3,12,3,8:34 PM,8:34,Valanciunas Free Throw 2 of 2 (10 PTS),,,48 - 49,1,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,308,5,1,3,8:34 PM,8:27,Johnson STEAL (2 STL),,Thompson Bad Pass Turnover (P5.T17),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,309,2,1,3,8:34 PM,8:17,MISS Ross  3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,310,4,0,3,8:34 PM,8:17,,,Collison REBOUND (Off:1 Def:2),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,311,1,75,3,8:35 PM,8:11,,,Collison 2' Driving Finger Roll Layup (5 PTS),50 - 49,-1,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,312,6,1,3,8:35 PM,8:01,,,Collison P.FOUL (P4.T4),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,313,1,84,3,8:35 PM,7:53,DeRozan 6' Running Bank Shot (16 PTS) (Lowry 3 AST),,,50 - 51,1,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,314,6,2,3,8:35 PM,7:53,,,Cousins S.FOUL (P3.PN),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,315,3,10,3,8:35 PM,7:53,DeRozan Free Throw 1 of 1 (17 PTS),,,50 - 52,2,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,317,6,1,3,8:36 PM,7:45,Johnson P.FOUL (P3.T2),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,318,1,47,3,8:36 PM,7:37,,,Gay 9' Turnaround Jump Shot (4 PTS),52 - 52,TIE,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,319,6,29,3,8:37 PM,7:21,,,Thompson Shooting Block Foul (P1.PN),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,320,3,11,3,8:37 PM,7:21,MISS DeRozan Free Throw 1 of 2,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,321,4,1,3,8:37 PM,7:21,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,322,3,12,3,8:37 PM,7:21,DeRozan Free Throw 2 of 2 (18 PTS),,,52 - 53,1,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,324,1,1,3,8:37 PM,7:09,,,McLemore 19' Jump Shot (5 PTS) (Collison 5 AST),54 - 53,-1,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,325,5,1,3,8:38 PM,6:55,Ross Bad Pass Turnover (P3.T12),,Cousins STEAL (1 STL),,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,326,5,2,3,8:38 PM,6:51,Ross STEAL (2 STL),,Cousins Lost Ball Turnover (P2.T18),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,327,6,2,3,8:38 PM,6:44,,,McLemore S.FOUL (P1.PN),,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,328,3,11,3,8:38 PM,6:44,Valanciunas Free Throw 1 of 2 (11 PTS),,,54 - 54,TIE,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,330,3,12,3,8:39 PM,6:44,Valanciunas Free Throw 2 of 2 (12 PTS),,,54 - 55,1,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,332,1,86,3,8:39 PM,6:26,,,Gay 16' Turnaround Fadeaway (6 PTS),56 - 55,-1,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,333,2,1,3,8:39 PM,6:07,MISS Johnson 21' Jump Shot,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,334,4,0,3,8:40 PM,6:06,,,Cousins REBOUND (Off:0 Def:3),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,335,2,63,3,8:40 PM,5:51,,,MISS Gay 18' Fadeaway Jumper,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,336,4,0,3,8:40 PM,5:49,,,Cousins REBOUND (Off:1 Def:3),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,337,2,87,3,8:40 PM,5:47,,,MISS Cousins  Putback Dunk,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,338,4,0,3,8:40 PM,5:47,Valanciunas REBOUND (Off:0 Def:4),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,339,1,1,3,8:40 PM,5:33,DeRozan 24' 3PT Jump Shot (21 PTS) (Valanciunas 1 AST),,,56 - 58,2,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,340,1,65,3,8:40 PM,5:24,,,Cousins 3' Jump Hook Shot (8 PTS) (Gay 2 AST),58 - 58,TIE,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,341,9,1,3,8:40 PM,5:17,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,343,8,0,3,8:42 PM,5:17,SUB: Hansbrough FOR Johnson,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,344,8,0,3,8:42 PM,5:17,SUB: Stiemsma FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,346,1,79,3,8:43 PM,4:56,Ross 20' Pullup Jump Shot (10 PTS) (DeRozan 1 AST),,,58 - 60,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,347,6,29,3,8:44 PM,4:45,Stiemsma Shooting Block Foul (P2.T3),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,348,3,11,3,8:44 PM,4:45,,,Gay Free Throw 1 of 2 (7 PTS),59 - 60,1,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,350,3,12,3,8:44 PM,4:45,,,Gay Free Throw 2 of 2 (8 PTS),60 - 60,TIE,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,352,2,1,3,8:45 PM,4:23,MISS DeRozan 28' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,353,4,0,3,8:45 PM,4:23,,,Thompson REBOUND (Off:2 Def:5),,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,354,6,2,3,8:45 PM,4:09,Ross S.FOUL (P2.T4),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,355,3,11,3,8:45 PM,4:09,,,MISS Gay Free Throw 1 of 2,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,356,4,1,3,8:45 PM,4:09,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,357,8,0,3,8:46 PM,4:09,SUB: Vasquez FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,358,8,0,3,8:46 PM,4:09,SUB: Johnson FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,359,8,0,3,8:46 PM,4:09,,,SUB: Evans FOR Thompson,,,5,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,360,3,12,3,8:46 PM,4:09,,,Gay Free Throw 2 of 2 (9 PTS),61 - 60,-1,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,362,5,2,3,8:46 PM,3:57,DeRozan Lost Ball Turnover (P1.T13),,Gay STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,363,6,2,3,8:46 PM,3:53,Johnson S.FOUL (P2.PN),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,364,3,11,3,8:47 PM,3:53,,,McLemore Free Throw 1 of 2 (6 PTS),62 - 60,-2,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,366,8,0,3,8:47 PM,3:53,SUB: Williams FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,367,3,12,3,8:47 PM,3:53,,,McLemore Free Throw 2 of 2 (7 PTS),63 - 60,-3,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,369,6,4,3,8:47 PM,3:40,Stiemsma OFF.Foul (P3),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,370,5,5,3,8:47 PM,3:40,Stiemsma Foul Turnover (P2.T14),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,371,1,88,3,8:48 PM,3:31,,,McLemore  Driving Slam Dunk (9 PTS) (Gay 3 AST),65 - 60,-5,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,372,2,1,3,8:48 PM,3:18,MISS Johnson 5' Jump Shot,,Cousins BLOCK (1 BLK),,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0
+0011400002,373,4,0,3,8:48 PM,3:17,,,Cousins REBOUND (Off:1 Def:4),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,374,2,88,3,8:48 PM,3:13,,,MISS Gay  Driving Slam Dunk,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,375,4,0,3,8:48 PM,3:12,,,Cousins REBOUND (Off:2 Def:4),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,376,5,40,3,8:48 PM,3:09,,,Cousins Out of Bounds Lost Ball Turnover (P3.T19),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,377,5,1,3,8:48 PM,2:55,Johnson Bad Pass Turnover (P3.T15),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,378,9,1,3,8:49 PM,2:55,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,381,5,2,3,8:51 PM,2:46,Stiemsma STEAL (1 STL),,Cousins Lost Ball Turnover (P4.T20),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,382,5,1,3,8:51 PM,2:42,Stiemsma Bad Pass Turnover (P3.T16),,Cousins STEAL (2 STL),,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,383,1,1,3,8:51 PM,2:38,,,Cousins 7' Jump Shot (10 PTS),67 - 60,-7,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,384,1,1,3,8:51 PM,2:21,Johnson 24' 3PT Jump Shot (5 PTS) (Stiemsma 1 AST),,,67 - 63,-4,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,385,1,1,3,8:52 PM,2:04,,,Collison 25' 3PT Jump Shot (8 PTS),70 - 63,-7,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,386,1,1,3,8:52 PM,1:49,Vasquez 26' 3PT Jump Shot (3 PTS),,,70 - 66,-4,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,387,7,5,3,8:52 PM,1:35,Johnson Violation:Kicked Ball,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,388,8,0,3,8:52 PM,1:35,,,SUB: Stauskas FOR McLemore,,,5,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,389,1,44,3,8:53 PM,1:32,,,Cousins 4' Reverse Layup (12 PTS),72 - 66,-6,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,390,6,2,3,8:53 PM,1:32,Stiemsma S.FOUL (P4.PN),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,391,8,0,3,8:53 PM,1:32,,,SUB: Sessions FOR Collison,,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,392,3,10,3,8:53 PM,1:32,,,Cousins Free Throw 1 of 1 (13 PTS),73 - 66,-7,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,394,6,1,3,8:53 PM,1:19,,,Cousins P.FOUL (P4.PN),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,395,3,11,3,8:54 PM,1:19,Stiemsma Free Throw 1 of 2 (3 PTS),,,73 - 67,-6,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,397,3,12,3,8:54 PM,1:19,MISS Stiemsma Free Throw 2 of 2,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,399,4,0,3,8:54 PM,1:19,,,Evans REBOUND (Off:1 Def:5),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,400,6,4,3,8:54 PM,1:08,,,Cousins OFF.Foul (P5),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,401,5,5,3,8:54 PM,1:08,,,Cousins Foul Turnover (P5.T21),,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,402,8,0,3,8:54 PM,1:08,,,SUB: Landry FOR Cousins,,,5,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,403,2,46,3,8:55 PM,0:54,MISS Vasquez 11' Running Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,404,4,0,3,8:55 PM,0:54,,,Evans REBOUND (Off:1 Def:6),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,405,2,1,3,8:55 PM,0:37,Johnson BLOCK (1 BLK),,MISS Gay 16' Jump Shot,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0
+0011400002,406,4,0,3,8:55 PM,0:35,,,Evans REBOUND (Off:2 Def:6),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,407,5,41,3,8:55 PM,0:31,,,Evans Poss Lost Ball Turnover (P2.T22),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,408,6,3,3,8:56 PM,0:31,,,Evans L.B.FOUL (P1.PN),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,409,3,11,3,8:56 PM,0:31,MISS Johnson Free Throw 1 of 2,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,410,4,1,3,8:56 PM,0:31,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,411,3,12,3,8:56 PM,0:31,Johnson Free Throw 2 of 2 (6 PTS),,,73 - 68,-5,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,413,6,5,3,8:56 PM,0:31,Vasquez IN.FOUL (P2.PN),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,414,3,11,3,8:56 PM,0:31,,,Sessions Free Throw 1 of 2 (9 PTS),74 - 68,-6,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,416,3,12,3,8:57 PM,0:31,,,Sessions Free Throw 2 of 2 (10 PTS),75 - 68,-7,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,418,2,80,3,8:57 PM,0:21,MISS Johnson 18' Step Back Jump Shot,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,419,4,0,3,8:57 PM,0:20,,,Evans REBOUND (Off:2 Def:7),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,420,2,1,3,8:57 PM,0:02,,,MISS Gay 19' Jump Shot,,,5,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,421,4,0,3,8:57 PM,0:01,Vasquez REBOUND (Off:0 Def:2),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,422,13,0,3,8:57 PM,0:00,,End of 3rd Period (8:57 PM EST),,75 - 68,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,424,12,0,4,9:00 PM,12:00,,Start of 4th Period (9:00 PM EST),,75 - 68,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,425,1,79,4,9:00 PM,11:46,Williams 20' Pullup Jump Shot (3 PTS),,,75 - 70,-5,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,426,2,79,4,9:01 PM,11:18,,,MISS Sessions 20' Pullup Jump Shot,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,427,4,0,4,9:01 PM,11:17,Johnson REBOUND (Off:1 Def:1),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,428,2,82,4,9:01 PM,11:11,MISS Vasquez 4' Driving Bank Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,429,4,0,4,9:01 PM,11:10,,,Evans REBOUND (Off:2 Def:8),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,430,2,73,4,9:01 PM,10:57,,,MISS Landry 2' Driving Reverse Layup,,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,431,4,0,4,9:01 PM,10:56,Hansbrough REBOUND (Off:0 Def:1),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,432,2,1,4,9:02 PM,10:39,MISS Williams 22' Jump Shot,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,433,4,0,4,9:02 PM,10:38,,,Casspi REBOUND (Off:0 Def:1),,,5,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,434,6,1,4,9:02 PM,10:24,Hansbrough P.FOUL (P3.T1),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,435,6,26,4,9:02 PM,10:15,,,Evans Offensive Charge Foul (P2.T1),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,436,5,5,4,9:02 PM,10:15,,,Evans Foul Turnover (P3.T23),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,437,1,77,4,9:03 PM,9:57,Vasquez 6' Driving Jump Shot (5 PTS),,,75 - 72,-3,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,438,5,2,4,9:03 PM,9:35,Williams STEAL (1 STL),,Stauskas Lost Ball Turnover (P4.T24),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,439,2,42,4,9:03 PM,9:30,MISS Williams 3' Driving Layup,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,440,4,0,4,9:03 PM,9:29,,,Evans REBOUND (Off:2 Def:9),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,441,6,26,4,9:03 PM,9:23,,,Casspi Offensive Charge Foul (P1.T2),,,5,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,442,5,5,4,9:03 PM,9:23,,,Casspi Foul Turnover (P1.T25),,,5,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,443,9,1,4,9:04 PM,9:23,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,446,1,1,4,9:06 PM,9:09,Hansbrough 24' 3PT Jump Shot (5 PTS) (Vasquez 3 AST),,,75 - 75,TIE,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,447,5,39,4,9:06 PM,8:43,,,Sessions Step Out of Bounds Turnover (P4.T26),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400002,452,2,42,4,9:06 PM,8:33,MISS Johnson 4' Driving Layup,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,448,4,0,4,9:07 PM,8:31,,,Landry REBOUND (Off:0 Def:3),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,449,7,5,4,9:07 PM,8:26,Johnson Violation:Kicked Ball,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400002,450,2,1,4,9:08 PM,8:20,,,MISS Casspi 25' 3PT Jump Shot,,,5,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,451,4,0,4,9:08 PM,8:19,Hansbrough REBOUND (Off:0 Def:2),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,453,1,1,4,9:08 PM,8:09,Hansbrough 16' Jump Shot (7 PTS) (Vasquez 4 AST),,,75 - 77,2,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,454,6,2,4,9:08 PM,7:46,Stiemsma S.FOUL (P5.T2),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,455,3,11,4,9:09 PM,7:46,,,Evans Free Throw 1 of 2 (4 PTS),76 - 77,1,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,457,3,12,4,9:09 PM,7:46,,,MISS Evans Free Throw 2 of 2,,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,459,4,0,4,9:09 PM,7:46,Hansbrough REBOUND (Off:0 Def:3),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,461,2,1,4,9:09 PM,7:41,MISS Vasquez 26' 3PT Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,462,4,0,4,9:09 PM,7:41,,,Evans REBOUND (Off:2 Def:10),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,464,5,1,4,9:10 PM,7:13,Williams STEAL (2 STL),,Casspi Bad Pass Turnover (P2.T27),,,5,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,465,1,42,4,9:10 PM,7:08,Williams 3' Driving Layup (5 PTS) (Vasquez 5 AST),,,76 - 79,3,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,466,6,2,4,9:10 PM,7:08,,,Evans S.FOUL (P3.T3),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,468,8,0,4,9:10 PM,7:08,SUB: Lowry FOR Stiemsma,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,469,8,0,4,9:10 PM,7:08,SUB: Ross FOR Vasquez,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,470,3,10,4,9:10 PM,7:08,MISS Williams Free Throw 1 of 1,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,472,4,0,4,9:10 PM,7:08,,,Landry REBOUND (Off:0 Def:4),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,474,5,11,4,9:10 PM,6:44,,,Kings Turnover: Shot Clock (T#28),,,3,1610612758,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400002,475,2,47,4,9:11 PM,6:26,MISS Hansbrough 9' Turnaround Jump Shot,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,476,4,0,4,9:11 PM,6:25,,,Evans REBOUND (Off:2 Def:11),,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,477,6,1,4,9:11 PM,6:15,Lowry P.FOUL (P2.T3),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,478,8,0,4,9:11 PM,6:15,,,SUB: Williams FOR Evans,,,5,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,479,2,1,4,9:12 PM,6:06,,,MISS Sessions 9' Jump Shot,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,480,4,0,4,9:12 PM,6:06,,,Sessions REBOUND (Off:1 Def:0),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,481,6,2,4,9:12 PM,6:02,Johnson S.FOUL (P3.T4),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,482,3,11,4,9:12 PM,6:02,,,Landry Free Throw 1 of 2 (5 PTS),77 - 79,2,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,484,3,12,4,9:13 PM,6:02,,,MISS Landry Free Throw 2 of 2,,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,486,4,0,4,9:13 PM,6:02,Johnson REBOUND (Off:1 Def:2),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,487,1,63,4,9:13 PM,5:44,Williams 14' Fadeaway Jumper (7 PTS),,,77 - 81,4,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,488,1,42,4,9:13 PM,5:27,,,Stauskas 3' Driving Layup (10 PTS) (Landry 2 AST),79 - 81,2,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,489,2,1,4,9:14 PM,5:20,MISS Williams 11' Jump Shot,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,490,4,0,4,9:14 PM,5:19,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,491,6,3,4,9:14 PM,5:19,Williams L.B.FOUL (P1.PN),,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,492,9,4,4,9:14 PM,5:19,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,494,8,0,4,9:16 PM,5:19,,,SUB: Collison FOR Casspi,,,5,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,495,3,11,4,9:16 PM,5:19,,,MISS Landry Free Throw 1 of 2,,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,496,4,1,4,9:16 PM,5:19,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,497,3,12,4,9:17 PM,5:19,,,Landry Free Throw 2 of 2 (6 PTS),80 - 81,1,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,499,2,77,4,9:17 PM,5:05,MISS Lowry 3' Driving Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,500,4,0,4,9:17 PM,5:02,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,501,6,1,4,9:18 PM,4:49,Hansbrough P.FOUL (P4.PN),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,502,3,11,4,9:18 PM,4:49,,,Sessions Free Throw 1 of 2 (11 PTS),81 - 81,TIE,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,504,3,12,4,9:18 PM,4:49,,,Sessions Free Throw 2 of 2 (12 PTS),82 - 81,-1,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,506,6,2,4,9:19 PM,4:29,,,Collison S.FOUL (P5.T4),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,507,3,13,4,9:19 PM,4:29,MISS Ross Free Throw 1 of 3,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,508,4,1,4,9:19 PM,4:29,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,509,3,14,4,9:19 PM,4:29,MISS Ross Free Throw 2 of 3,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,510,4,1,4,9:19 PM,4:29,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,511,8,0,4,9:20 PM,4:29,SUB: Vasquez FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,512,3,15,4,9:20 PM,4:29,Ross Free Throw 3 of 3 (11 PTS),,,82 - 82,TIE,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,514,2,1,4,9:21 PM,4:13,,,MISS Sessions 17' Jump Shot,,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,515,4,0,4,9:21 PM,4:13,,,Williams REBOUND (Off:1 Def:1),,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,516,1,75,4,9:21 PM,4:07,,,Collison 3' Driving Finger Roll Layup (10 PTS) (Williams 2 AST),84 - 82,-2,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,517,1,42,4,9:21 PM,3:48,Williams 2' Driving Layup (9 PTS),,,84 - 84,TIE,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,518,1,1,4,9:21 PM,3:32,,,Williams 20' Jump Shot (6 PTS) (Collison 6 AST),86 - 84,-2,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,519,2,1,4,9:22 PM,3:15,MISS Williams 27' 3PT Jump Shot,,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,520,4,0,4,9:22 PM,3:14,,,Stauskas REBOUND (Off:0 Def:1),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,521,6,29,4,9:22 PM,3:08,Williams Shooting Block Foul (P2.PN),,,,,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,522,9,1,4,9:22 PM,3:08,RAPTORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,524,8,0,4,9:24 PM,3:08,SUB: Hamilton FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,525,8,0,4,9:24 PM,3:08,SUB: Stiemsma FOR Hansbrough,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,526,3,11,4,9:25 PM,3:08,,,Sessions Free Throw 1 of 2 (13 PTS),87 - 84,-3,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,528,3,12,4,9:25 PM,3:08,,,Sessions Free Throw 2 of 2 (14 PTS),88 - 84,-4,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,530,1,42,4,9:25 PM,2:48,Vasquez 4' Driving Layup (7 PTS),,,88 - 86,-2,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,531,2,1,4,9:26 PM,2:33,,,MISS Stauskas 26' 3PT Jump Shot,,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,532,4,0,4,9:26 PM,2:33,Vasquez REBOUND (Off:0 Def:3),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,533,1,43,4,9:26 PM,2:22,Johnson 2' Alley Oop Layup (8 PTS) (Vasquez 6 AST),,,88 - 88,TIE,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,534,2,1,4,9:26 PM,2:04,,,MISS Williams 12' Jump Shot,,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,535,4,0,4,9:26 PM,2:03,,,Collison REBOUND (Off:2 Def:2),,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,536,2,1,4,9:26 PM,2:01,Stiemsma BLOCK (1 BLK),,MISS Collison 4' Jump Shot,,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0
+0011400002,537,4,0,4,9:26 PM,2:00,,,Stauskas REBOUND (Off:1 Def:1),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,538,2,1,4,9:26 PM,1:58,,,MISS Stauskas 16' Jump Shot,,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,539,4,0,4,9:26 PM,1:55,,,Landry REBOUND (Off:1 Def:4),,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,540,6,2,4,9:26 PM,1:55,Stiemsma S.FOUL (P6.PN),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,543,8,0,4,9:26 PM,1:55,SUB: Hansbrough FOR Stiemsma,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,544,3,11,4,9:27 PM,1:55,,,MISS Landry Free Throw 1 of 2,,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,545,4,1,4,9:27 PM,1:55,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,546,3,12,4,9:28 PM,1:55,,,Landry Free Throw 2 of 2 (7 PTS),89 - 88,-1,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,549,6,2,4,9:28 PM,1:40,,,Stauskas S.FOUL (P3.PN),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,550,3,11,4,9:28 PM,1:40,Hansbrough Free Throw 1 of 2 (8 PTS),,,89 - 89,TIE,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,552,3,12,4,9:29 PM,1:40,Hansbrough Free Throw 2 of 2 (9 PTS),,,89 - 90,1,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,554,5,2,4,9:29 PM,1:17,Williams STEAL (3 STL),,Williams Lost Ball Turnover (P1.T29),,,5,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,555,1,42,4,9:29 PM,1:12,Williams 2' Driving Layup (11 PTS),,,89 - 92,3,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,556,6,2,4,9:29 PM,1:12,,,Sessions S.FOUL (P2.PN),,,5,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,557,9,2,4,9:30 PM,1:12,RAPTORS Timeout: Short (Full 4 Short 1),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,560,3,10,4,9:31 PM,1:12,Williams Free Throw 1 of 1 (12 PTS),,,89 - 93,4,4,101150,Lou Williams,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,562,2,78,4,9:32 PM,0:58,,,MISS Collison 5' Floating Jump Shot,,,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,563,4,0,4,9:32 PM,0:57,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,564,1,41,4,9:32 PM,0:45,Hansbrough 2' Running Layup (11 PTS) (Vasquez 7 AST),,,89 - 95,6,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,565,9,1,4,9:32 PM,0:45,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,568,2,1,4,9:34 PM,0:39,,,MISS Stauskas  3PT Jump Shot,,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,569,4,0,4,9:34 PM,0:38,Vasquez REBOUND (Off:0 Def:4),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,570,1,5,4,9:34 PM,0:34,Hamilton 2' Layup (5 PTS) (Vasquez 8 AST),,,89 - 97,8,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400002,571,1,1,4,9:34 PM,0:20,,,Collison 27' 3PT Jump Shot (13 PTS) (Stauskas 1 AST),92 - 97,5,5,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,572,6,1,4,9:35 PM,0:19,,,Stauskas P.FOUL (P4.PN),,,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400002,573,3,11,4,9:35 PM,0:19,Vasquez Free Throw 1 of 2 (8 PTS),,,92 - 98,6,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,575,8,0,4,9:35 PM,0:19,,,SUB: Bhullar FOR Landry,,,5,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,5,204021,Sim Bhullar,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400002,576,3,12,4,9:35 PM,0:19,Vasquez Free Throw 2 of 2 (9 PTS),,,92 - 99,7,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400002,578,9,2,4,9:35 PM,0:19,,,Kings Timeout: Short (Reg.5 Short 1),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400002,581,6,2,4,9:37 PM,0:12,Hamilton S.FOUL (P3.PN),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400002,582,3,11,4,9:37 PM,0:12,,,Stauskas Free Throw 1 of 2 (11 PTS),93 - 99,6,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,584,3,12,4,9:37 PM,0:12,,,Stauskas Free Throw 2 of 2 (12 PTS),94 - 99,5,5,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400002,586,13,0,4,9:38 PM,0:00,,End of 4th Period (9:38 PM EST),,94 - 99,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

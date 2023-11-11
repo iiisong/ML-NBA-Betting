@@ -1,0 +1,478 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012100046,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,4,10,0,1,7:11 PM,12:00,Jump Ball Gafford vs. Achiuwa: Tip to Dragic,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,1
+0012100046,7,6,2,1,7:11 PM,11:49,Gafford S.FOUL (P1.T1) (B.Adair),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,9,3,11,1,7:11 PM,11:49,,,Achiuwa Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,10,3,12,1,7:11 PM,11:49,,,Achiuwa Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,11,5,1,1,7:12 PM,11:28,Beal Bad Pass Turnover (P1.T1),,Trent Jr. STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,13,1,5,1,7:12 PM,11:16,,,Bonga 3' Layup (2 PTS) (Barnes 1 AST),4 - 0,-4,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,14,1,7,1,7:12 PM,11:06,Gafford 3' Dunk (2 PTS) (Dinwiddie 1 AST),,,4 - 2,-2,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,16,2,6,1,7:12 PM,10:58,,,MISS Barnes 6' Driving Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,17,4,0,1,7:12 PM,10:54,Gafford REBOUND (Off:0 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,18,1,1,1,7:13 PM,10:43,Caldwell-Pope 3PT Jump Shot (3 PTS) (Beal 1 AST),,,4 - 5,1,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,20,1,5,1,7:13 PM,10:33,,,Dragic 3' Layup (2 PTS),6 - 5,-1,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,21,1,1,1,7:13 PM,10:20,Kuzma 24' 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),,,6 - 8,2,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,23,2,79,1,7:13 PM,10:09,,,MISS Dragic 22' Pullup Jump Shot,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,24,4,0,1,7:13 PM,10:06,Kuzma REBOUND (Off:0 Def:1),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,25,5,1,1,7:13 PM,10:04,Kuzma Bad Pass Turnover (P1.T2),,Trent Jr. STEAL (2 STL),,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,27,2,1,1,7:13 PM,9:59,Caldwell-Pope BLOCK (1 BLK),,MISS Trent Jr. 5' Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1
+0012100046,29,4,0,1,7:13 PM,9:59,Dinwiddie REBOUND (Off:0 Def:1),,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,30,6,28,1,7:14 PM,9:59,,,Bonga Personal Take Foul (P1.T1) (D.Mosher),,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,33,2,5,1,7:14 PM,9:46,MISS Dinwiddie 5' Layup,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,61,4,0,1,7:14 PM,9:46,Gafford REBOUND (Off:1 Def:1),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,35,1,5,1,7:14 PM,9:44,Gafford 2' Layup (4 PTS),,,6 - 10,4,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,36,6,2,1,7:14 PM,9:44,,,Dragic S.FOUL (P1.T2) (D.Mosher),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,38,3,10,1,7:14 PM,9:44,MISS Gafford Free Throw 1 of 1,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,39,4,0,1,7:14 PM,9:37,,,Achiuwa REBOUND (Off:0 Def:1),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,40,1,5,1,7:15 PM,9:36,,,Achiuwa 2' Layup (4 PTS),8 - 10,2,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,41,5,2,1,7:15 PM,9:21,Dinwiddie Lost Ball Turnover (P1.T3),,Achiuwa STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,43,2,5,1,7:15 PM,9:14,,,MISS Barnes 4' Layup,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,44,4,0,1,7:15 PM,9:09,,,Achiuwa REBOUND (Off:1 Def:1),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,45,1,72,1,7:15 PM,9:09,,,Achiuwa Putback Layup (6 PTS),10 - 10,TIE,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,46,1,1,1,7:15 PM,9:03,Gafford 2' Jump Shot (6 PTS) (Dinwiddie 3 AST),,,10 - 12,2,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,47,6,2,1,7:15 PM,9:03,,,Barnes S.FOUL (P1.T3) (B.Adair),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,49,3,10,1,7:16 PM,9:03,MISS Gafford Free Throw 1 of 1,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,50,4,0,1,7:16 PM,8:58,,,Achiuwa REBOUND (Off:1 Def:2),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,51,2,1,1,7:16 PM,8:52,,,MISS Trent Jr. 27' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,52,4,0,1,7:16 PM,8:52,Beal REBOUND (Off:0 Def:1),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,53,2,1,1,7:16 PM,8:44,MISS Beal 22' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,54,4,0,1,7:16 PM,8:40,,,Trent Jr. REBOUND (Off:0 Def:1),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,55,2,1,1,7:16 PM,8:31,,,MISS Trent Jr. 27' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,56,4,0,1,7:16 PM,8:27,Kuzma REBOUND (Off:0 Def:2),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,57,2,1,1,7:16 PM,8:13,MISS Beal 24' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,58,4,0,1,7:16 PM,8:10,Caldwell-Pope REBOUND (Off:1 Def:0),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,59,1,1,1,7:17 PM,8:02,Kuzma 28' 3PT Jump Shot (6 PTS) (Dinwiddie 4 AST),,,10 - 15,5,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,62,10,0,1,7:17 PM,7:43,Jump Ball Beal vs. Dragic: Tip to Gafford,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0012100046,65,5,2,1,7:17 PM,7:43,Beal STEAL (1 STL),,Dragic Lost Ball Turnover (P1.T1),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,67,6,2,1,7:17 PM,7:40,,,Bonga S.FOUL (P2.T4) (B.Adair),,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,69,3,11,1,7:18 PM,7:40,Dinwiddie Free Throw 1 of 2 (1 PTS),,,10 - 16,6,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,70,3,12,1,7:18 PM,7:40,Dinwiddie Free Throw 2 of 2 (2 PTS),,,10 - 17,7,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,71,2,5,1,7:18 PM,7:22,Gafford BLOCK (1 BLK),,MISS Bonga 6' Layup,,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1
+0012100046,73,4,0,1,7:18 PM,7:19,Caldwell-Pope REBOUND (Off:1 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,74,5,2,1,7:18 PM,7:16,Beal Lost Ball Turnover (P2.T4),,Bonga STEAL (1 STL),,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,76,1,1,1,7:19 PM,7:10,,,Dragic 26' 3PT Jump Shot (5 PTS) (Bonga 1 AST),13 - 17,4,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,78,1,1,1,7:19 PM,6:52,Dinwiddie 28' 3PT Jump Shot (5 PTS) (Beal 2 AST),,,13 - 20,7,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,80,2,1,1,7:19 PM,6:40,,,MISS Dragic 26' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,81,4,0,1,7:19 PM,6:38,,,Dragic REBOUND (Off:1 Def:0),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,82,2,1,1,7:19 PM,6:35,,,MISS Achiuwa 3PT Jump Shot,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,83,4,0,1,7:19 PM,6:31,Beal REBOUND (Off:0 Def:2),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,84,2,1,1,7:19 PM,6:25,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,85,4,0,1,7:19 PM,6:22,,,Achiuwa REBOUND (Off:1 Def:3),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,86,1,6,1,7:20 PM,6:14,,,Trent Jr. 4' Driving Layup (2 PTS),15 - 20,5,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,87,9,1,1,7:20 PM,6:14,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,88,8,0,1,7:22 PM,6:14,SUB: Avdija FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,89,8,0,1,7:22 PM,6:14,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,90,8,0,1,7:22 PM,6:14,,,SUB: Mykhailiuk FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,91,8,0,1,7:22 PM,6:14,,,SUB: Birch FOR Bonga,,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,96,5,2,1,7:23 PM,6:03,Caldwell-Pope Lost Ball Turnover (P1.T5),,Trent Jr. STEAL (3 STL),,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,98,5,2,1,7:23 PM,6:00,Avdija STEAL (1 STL),,Trent Jr. Lost Ball Turnover (P1.T2),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,100,2,1,1,7:23 PM,5:51,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,101,4,0,1,7:23 PM,5:48,,,Trent Jr. REBOUND (Off:0 Def:2),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,102,2,1,1,7:23 PM,5:31,,,MISS Barnes 26' 3PT Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,103,4,0,1,7:23 PM,5:28,Gafford REBOUND (Off:1 Def:2),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,104,2,1,1,7:23 PM,5:24,MISS Kispert 28' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,105,4,0,1,7:24 PM,5:20,,,Dragic REBOUND (Off:1 Def:1),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,106,2,1,1,7:24 PM,5:11,,,MISS Barnes 17' Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,107,4,0,1,7:24 PM,5:08,Kispert REBOUND (Off:0 Def:1),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,108,1,7,1,7:24 PM,4:57,Gafford 3' Dunk (8 PTS) (Kispert 1 AST),,,15 - 22,7,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,110,2,1,1,7:24 PM,4:41,,,MISS Mykhailiuk 26' 3PT Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,111,4,0,1,7:24 PM,4:37,Gafford REBOUND (Off:1 Def:3),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,112,1,79,1,7:25 PM,4:19,Caldwell-Pope 24' 3PT Pullup Jump Shot (6 PTS) (Avdija 1 AST),,,15 - 25,10,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,114,2,1,1,7:25 PM,4:05,,,MISS Dragic 14' Jump Shot,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,115,4,0,1,7:25 PM,4:03,Gafford REBOUND (Off:1 Def:4),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,116,6,1,1,7:25 PM,3:56,,,Dragic P.FOUL (P2.PN) (D.Mosher),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,118,3,11,1,7:26 PM,3:56,Avdija Free Throw 1 of 2 (1 PTS),,,15 - 26,11,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,119,8,0,1,7:26 PM,3:56,SUB: Harrell FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,120,8,0,1,7:26 PM,3:56,SUB: Bertans FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,121,8,0,1,7:26 PM,3:56,,,SUB: Champagnie FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,122,8,0,1,7:26 PM,3:56,,,SUB: Flynn FOR Dragic,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,127,3,12,1,7:26 PM,3:56,MISS Avdija Free Throw 2 of 2,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,128,4,0,1,7:26 PM,3:47,,,Birch REBOUND (Off:0 Def:1),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,129,2,1,1,7:26 PM,3:35,,,MISS Trent Jr. 24' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,130,4,0,1,7:26 PM,3:33,Bertans REBOUND (Off:0 Def:1),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,131,6,2,1,7:27 PM,3:24,,,Flynn S.FOUL (P1.PN) (B.Adair),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,133,3,11,1,7:27 PM,3:24,Beal Free Throw 1 of 2 (1 PTS),,,15 - 27,12,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,134,3,12,1,7:27 PM,3:24,Beal Free Throw 2 of 2 (2 PTS),,,15 - 28,13,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,135,2,5,1,7:27 PM,3:13,Beal BLOCK (1 BLK),,MISS Trent Jr. 9' Layup,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1
+0012100046,137,4,0,1,7:28 PM,3:09,Avdija REBOUND (Off:0 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,138,2,5,1,7:28 PM,3:07,MISS Kispert 4' Layup,,Birch BLOCK (1 BLK),,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0012100046,140,4,0,1,7:28 PM,3:07,,,Champagnie REBOUND (Off:0 Def:1),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,141,2,1,1,7:28 PM,3:00,,,MISS Flynn 27' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,142,4,0,1,7:28 PM,2:57,Harrell REBOUND (Off:0 Def:1),,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,143,2,5,1,7:28 PM,2:44,MISS Harrell 2' Layup,,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,144,4,0,1,7:28 PM,2:41,Avdija REBOUND (Off:1 Def:1),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,145,2,80,1,7:28 PM,2:32,MISS Beal 16' Step Back Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,146,4,0,1,7:28 PM,2:30,,,Birch REBOUND (Off:0 Def:2),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,147,2,5,1,7:28 PM,2:26,,,MISS Birch 7' Layup,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,148,4,0,1,7:28 PM,2:23,,,Champagnie REBOUND (Off:1 Def:1),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,149,1,72,1,7:28 PM,2:21,,,Champagnie 2' Putback Layup (2 PTS),17 - 28,11,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,150,2,79,1,7:29 PM,2:04,MISS Bertans 29' 3PT Pullup Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,151,4,0,1,7:29 PM,2:01,,,Birch REBOUND (Off:0 Def:3),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,152,9,1,1,7:29 PM,1:57,,,Raptors Timeout: Regular (Reg.1 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,153,8,0,1,7:29 PM,1:57,SUB: Kuzma FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,154,8,0,1,7:29 PM,1:57,SUB: Dinwiddie FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,155,8,0,1,7:29 PM,1:57,,,SUB: Banton FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,159,1,78,1,7:32 PM,1:41,,,Birch 8' Floating Jump Shot (2 PTS) (Banton 1 AST),19 - 28,9,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,161,2,6,1,7:32 PM,1:23,MISS Kuzma 6' Driving Layup,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,162,4,0,1,7:32 PM,1:20,,,Champagnie REBOUND (Off:1 Def:2),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,163,1,1,1,7:32 PM,1:07,,,Birch 24' 3PT Jump Shot (5 PTS) (Mykhailiuk 1 AST),22 - 28,6,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,165,2,1,1,7:33 PM,0:58,MISS Avdija 24' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,166,4,0,1,7:33 PM,0:56,,,Champagnie REBOUND (Off:1 Def:3),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,167,2,79,1,7:33 PM,0:37,,,MISS Flynn 12' Pullup Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,168,4,0,1,7:33 PM,0:33,Harrell REBOUND (Off:0 Def:2),,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,169,1,6,1,7:33 PM,0:31,Dinwiddie 5' Driving Layup (7 PTS),,,22 - 30,8,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,170,1,6,1,7:33 PM,0:20,,,Banton 3' Driving Layup (2 PTS),24 - 30,6,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,171,5,2,1,7:34 PM,0:03,Dinwiddie Lost Ball Turnover (P2.T6),,Flynn STEAL (1 STL),,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,173,1,5,1,7:34 PM,0:00,,,Flynn 4' Layup (2 PTS) (Banton 2 AST),26 - 30,4,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,179,2,1,1,7:34 PM,0:00,MISS Bertans 68' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0012100046,180,4,0,1,7:34 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,178,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,26 - 30,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100046,185,12,0,2,7:37 PM,12:00,,Start of 2nd Period (7:37 PM EST),,26 - 30,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,186,2,80,2,7:37 PM,11:38,MISS Dinwiddie 27' 3PT Step Back Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,187,4,0,2,7:37 PM,11:36,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,188,1,98,2,7:37 PM,11:21,,,Champagnie 3' Cutting Layup Shot (4 PTS) (Banton 3 AST),28 - 30,2,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,190,2,1,2,7:38 PM,11:06,MISS Neto 27' 3PT Jump Shot,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,191,4,0,2,7:38 PM,11:01,,,Achiuwa REBOUND (Off:1 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,192,5,2,2,7:38 PM,10:41,Harrell STEAL (1 STL),,Champagnie Lost Ball Turnover (P1.T3),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,194,5,40,2,7:38 PM,10:33,Neto Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,195,2,1,2,7:39 PM,10:13,,,MISS Champagnie 3PT Jump Shot,,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,196,4,0,2,7:39 PM,10:11,,,Achiuwa REBOUND (Off:2 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,197,5,2,2,7:39 PM,10:06,,,Achiuwa Lost Ball Turnover (P1.T4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,199,6,3,2,7:39 PM,10:06,,,Champagnie L.B.FOUL (P1.T1) (D.Mosher),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,201,6,2,2,7:39 PM,9:55,,,Flynn S.FOUL (P2.T2) (C.Blair),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,203,3,11,2,7:40 PM,9:55,MISS Dinwiddie Free Throw 1 of 2,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,204,4,1,2,7:40 PM,9:55,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,205,3,12,2,7:40 PM,9:55,Dinwiddie Free Throw 2 of 2 (8 PTS),,,28 - 31,3,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,206,2,5,2,7:40 PM,9:31,Harrell BLOCK (1 BLK),,MISS Champagnie 7' Layup,,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,1
+0012100046,208,4,0,2,7:40 PM,9:27,,,Achiuwa REBOUND (Off:3 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,209,2,5,2,7:40 PM,9:26,,,MISS Achiuwa 5' Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,210,4,0,2,7:40 PM,9:24,Neto REBOUND (Off:0 Def:1),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,361,6,2,2,7:41 PM,9:21,,,Champagnie S.FOUL (P2.T3) (B.Adair),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0012100046,215,3,11,2,7:41 PM,9:21,Harrell Free Throw 1 of 2 (1 PTS),,,28 - 32,4,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,216,3,12,2,7:41 PM,9:21,Harrell Free Throw 2 of 2 (2 PTS),,,28 - 33,5,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,217,6,4,2,7:42 PM,9:09,,,Champagnie OFF.Foul (P3) (B.Adair),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,219,5,37,2,7:42 PM,9:09,,,Champagnie Offensive Foul Turnover (P2.T5),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100046,220,1,1,2,7:42 PM,8:49,Bertans 28' 3PT Jump Shot (3 PTS) (Dinwiddie 5 AST),,,28 - 36,8,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,222,2,5,2,7:42 PM,8:38,Bertans BLOCK (1 BLK),,MISS Achiuwa 7' Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,1
+0012100046,224,4,0,2,7:43 PM,8:32,Kuzma REBOUND (Off:0 Def:3),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,225,1,7,2,7:43 PM,8:32,Harrell 1' Dunk (4 PTS) (Kuzma 1 AST),,,28 - 38,10,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,227,9,1,2,7:43 PM,8:32,,,Raptors Timeout: Regular (Reg.2 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,228,8,0,2,7:44 PM,8:32,SUB: Avdija FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,229,8,0,2,7:44 PM,8:32,SUB: Beal FOR Bertans,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,230,8,0,2,7:44 PM,8:32,,,SUB: Barnes FOR Champagnie,,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,234,2,1,2,7:46 PM,8:09,,,MISS Flynn 26' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,235,4,0,2,7:46 PM,8:06,,,Achiuwa REBOUND (Off:4 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,236,2,5,2,7:46 PM,8:05,Harrell BLOCK (2 BLK),,MISS Achiuwa 2' Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,1
+0012100046,238,4,0,2,7:46 PM,8:05,,,Achiuwa REBOUND (Off:5 Def:4),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,243,1,7,2,7:47 PM,7:45,,,Mykhailiuk 4' Dunk (2 PTS),30 - 38,8,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,244,5,2,2,7:47 PM,7:32,Neto Lost Ball Turnover (P2.T8),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0012100046,245,6,2,2,7:47 PM,7:32,Kuzma S.FOUL (P1.T1) (C.Blair),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,247,3,13,2,7:48 PM,7:32,,,Flynn Free Throw 1 of 3 (3 PTS),31 - 38,7,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,248,3,14,2,7:48 PM,7:32,,,Flynn Free Throw 2 of 3 (4 PTS),32 - 38,6,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,249,3,15,2,7:48 PM,7:32,,,Flynn Free Throw 3 of 3 (5 PTS),33 - 38,5,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,250,5,40,2,7:48 PM,7:21,Neto Out of Bounds Lost Ball Turnover (P3.T9),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,251,8,0,2,7:48 PM,7:21,SUB: Gafford FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,252,8,0,2,7:48 PM,7:21,,,SUB: Dragic FOR Mykhailiuk,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,255,5,1,2,7:48 PM,7:09,Neto STEAL (1 STL),,Banton Bad Pass Turnover (P1.T6),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,257,1,5,2,7:48 PM,7:04,Avdija 2' Layup (3 PTS) (Neto 1 AST),,,33 - 40,7,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,259,2,5,2,7:49 PM,6:52,,,MISS Achiuwa 4' Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,260,4,0,2,7:49 PM,6:50,Kuzma REBOUND (Off:0 Def:4),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,261,1,1,2,7:49 PM,6:33,Kuzma 27' 3PT Jump Shot (9 PTS) (Avdija 2 AST),,,33 - 43,10,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,263,1,1,2,7:49 PM,6:12,,,Dragic 27' 3PT Jump Shot (8 PTS) (Flynn 1 AST),36 - 43,7,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,265,1,1,2,7:50 PM,5:56,Kuzma 28' 3PT Jump Shot (12 PTS) (Neto 2 AST),,,36 - 46,10,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,268,8,0,2,7:50 PM,5:41,SUB: Caldwell-Pope FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,269,8,0,2,7:50 PM,5:41,,,SUB: Birch FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,270,8,0,2,7:50 PM,5:41,,,SUB: Trent Jr. FOR Banton,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,274,1,5,2,7:50 PM,5:40,,,Barnes 3' Layup (2 PTS) (Dragic 1 AST),38 - 46,8,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,276,6,2,2,7:50 PM,5:40,Avdija S.FOUL (P1.T2) (C.Blair),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,278,8,0,2,7:51 PM,5:40,,,SUB: Wainright FOR Flynn,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,280,3,10,2,7:51 PM,5:40,,,Barnes Free Throw 1 of 1 (3 PTS),39 - 46,7,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,281,2,5,2,7:51 PM,5:27,MISS Neto 4' Layup,,Barnes BLOCK (1 BLK),,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0012100046,283,4,0,2,7:52 PM,5:23,,,Birch REBOUND (Off:0 Def:4),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,284,1,47,2,7:52 PM,5:14,,,Trent Jr. 16' Turnaround Jump Shot (4 PTS) (Barnes 2 AST),41 - 46,5,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,286,1,79,2,7:52 PM,5:03,Caldwell-Pope 26' 3PT Pullup Jump Shot (9 PTS),,,41 - 49,8,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,287,2,79,2,7:52 PM,4:49,,,MISS Wainright 13' Pullup Jump Shot,,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,288,4,0,2,7:52 PM,4:47,Gafford REBOUND (Off:1 Def:5),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,289,2,79,2,7:52 PM,4:38,MISS Caldwell-Pope 28' 3PT Pullup Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,290,4,0,2,7:52 PM,4:37,,,Dragic REBOUND (Off:1 Def:2),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,293,6,28,2,7:53 PM,4:34,Neto Personal Take Foul (P1.T3) (B.Adair),,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0012100046,295,6,2,2,7:53 PM,4:19,Gafford S.FOUL (P2.T4) (D.Mosher),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,297,3,11,2,7:53 PM,4:19,,,Birch Free Throw 1 of 2 (6 PTS),42 - 49,7,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,298,8,0,2,7:54 PM,4:19,SUB: Harrell FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,300,3,12,2,7:54 PM,4:19,,,MISS Birch Free Throw 2 of 2,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,301,4,0,2,7:54 PM,4:17,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,302,5,45,2,7:54 PM,4:01,Caldwell-Pope Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,303,1,78,2,7:55 PM,3:44,,,Barnes 12' Floating Jump Shot (5 PTS),44 - 49,5,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,304,9,1,2,7:55 PM,3:43,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,306,8,0,2,7:55 PM,3:43,SUB: Dinwiddie FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,307,8,0,2,7:55 PM,3:43,SUB: Kuzma FOR Neto,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,310,1,7,2,7:58 PM,3:23,Harrell 3' Dunk (6 PTS) (Beal 3 AST),,,44 - 51,7,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,312,1,1,2,7:58 PM,3:06,,,Wainright 3PT Jump Shot (3 PTS) (Birch 1 AST),47 - 51,4,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,314,1,1,2,7:58 PM,2:58,Caldwell-Pope 24' 3PT Jump Shot (12 PTS) (Kuzma 2 AST),,,47 - 54,7,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,316,1,79,2,7:59 PM,2:43,,,Barnes 20' Pullup Jump Shot (7 PTS) (Dragic 2 AST),49 - 54,5,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,318,2,52,2,7:59 PM,2:30,MISS Harrell 2' Alley Oop Dunk,,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,319,4,0,2,7:59 PM,2:28,,,Trent Jr. REBOUND (Off:0 Def:3),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,320,6,2,2,7:59 PM,2:25,Caldwell-Pope S.FOUL (P1.PN) (B.Adair),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,322,3,11,2,7:59 PM,2:25,,,Dragic Free Throw 1 of 2 (9 PTS),50 - 54,4,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,323,3,12,2,8:00 PM,2:25,,,Dragic Free Throw 2 of 2 (10 PTS),51 - 54,3,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,324,2,1,2,8:00 PM,2:13,MISS Beal 26' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,325,4,0,2,8:00 PM,2:11,,,Trent Jr. REBOUND (Off:0 Def:4),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,326,5,2,2,8:00 PM,2:04,Dinwiddie STEAL (1 STL),,Birch Lost Ball Turnover (P1.T7),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,328,2,1,2,8:00 PM,2:00,MISS Dinwiddie 27' 3PT Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,329,4,0,2,8:00 PM,1:55,,,Dragic REBOUND (Off:1 Def:3),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,330,1,79,2,8:00 PM,1:51,,,Barnes 21' Pullup Jump Shot (9 PTS),53 - 54,1,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,331,2,79,2,8:01 PM,1:38,MISS Beal 26' 3PT Pullup Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,332,4,0,2,8:01 PM,1:35,,,Trent Jr. REBOUND (Off:0 Def:5),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,333,1,1,2,8:01 PM,1:23,,,Dragic 28' 3PT Jump Shot (13 PTS) (Barnes 3 AST),56 - 54,-2,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,335,1,78,2,8:01 PM,1:05,Dinwiddie 10' Floating Jump Shot (10 PTS),,,56 - 56,TIE,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,374,5,2,2,8:01 PM,0:59,,,Dragic Lost Ball Turnover (P2.T8),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,338,6,3,2,8:01 PM,0:59,,,Dragic L.B.FOUL (P3.T4) (B.Adair),,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,340,5,2,2,8:02 PM,0:44,Harrell Lost Ball Turnover (P1.T11),,Dragic STEAL (1 STL),,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,342,2,5,2,8:02 PM,0:38,Caldwell-Pope BLOCK (2 BLK),,MISS Birch 6' Layup,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,1
+0012100046,344,4,0,2,8:02 PM,0:33,Kuzma REBOUND (Off:0 Def:5),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,345,2,1,2,8:02 PM,0:32,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,346,4,0,2,8:02 PM,0:29,,,Wainright REBOUND (Off:0 Def:1),,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,347,6,1,2,8:02 PM,0:27,Caldwell-Pope P.FOUL (P2.PN) (D.Mosher),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,349,3,11,2,8:03 PM,0:27,,,Trent Jr. Free Throw 1 of 2 (5 PTS),57 - 56,-1,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,350,8,0,2,8:03 PM,0:27,,,SUB: Mykhailiuk FOR Dragic,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,352,3,12,2,8:03 PM,0:27,,,Trent Jr. Free Throw 2 of 2 (6 PTS),58 - 56,-2,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,353,6,2,2,8:03 PM,0:09,,,Birch S.FOUL (P1.PN) (D.Mosher),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,355,3,11,2,8:04 PM,0:09,Beal Free Throw 1 of 2 (3 PTS),,,58 - 57,-1,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,356,3,12,2,8:04 PM,0:09,Beal Free Throw 2 of 2 (4 PTS),,,58 - 58,TIE,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,357,2,101,2,8:04 PM,0:00,,,MISS Birch 15' Driving Floating Jump Shot,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,358,4,0,2,8:04 PM,0:00,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100046,359,13,0,2,8:05 PM,0:00,,End of 2nd Period (8:05 PM EST),,58 - 58,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100046,371,12,0,3,8:20 PM,12:00,,Start of 3rd Period (8:20 PM EST),,58 - 58,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,373,6,1,3,8:21 PM,11:45,,,Bonga P.FOUL (P3.T1) (C.Blair),,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,376,2,5,3,8:21 PM,11:37,MISS Beal 7' Layup,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,378,4,0,3,8:21 PM,11:33,,,Barnes REBOUND (Off:0 Def:1),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,379,1,1,3,8:21 PM,11:31,,,Dragic 27' 3PT Jump Shot (16 PTS) (Barnes 4 AST),61 - 58,-3,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,381,5,39,3,8:21 PM,11:21,Kuzma Step Out of Bounds Turnover (P2.T12),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,382,6,2,3,8:22 PM,11:14,Beal S.FOUL (P1.T1) (D.Mosher),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,384,3,11,3,8:22 PM,11:14,,,Achiuwa Free Throw 1 of 2 (7 PTS),62 - 58,-4,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,385,3,12,3,8:22 PM,11:14,,,MISS Achiuwa Free Throw 2 of 2,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,386,4,0,3,8:22 PM,11:07,Kuzma REBOUND (Off:0 Def:6),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,387,6,2,3,8:23 PM,11:03,,,Bonga S.FOUL (P4.T2) (C.Blair),,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,389,3,13,3,8:23 PM,11:03,Kuzma Free Throw 1 of 3 (13 PTS),,,62 - 59,-3,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,390,3,14,3,8:23 PM,11:03,MISS Kuzma Free Throw 2 of 3,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,391,4,1,3,8:23 PM,11:03,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,392,3,15,3,8:24 PM,11:03,Kuzma Free Throw 3 of 3 (14 PTS),,,62 - 60,-2,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,393,2,1,3,8:24 PM,10:48,,,MISS Trent Jr. 16' Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,394,4,0,3,8:24 PM,10:45,Gafford REBOUND (Off:1 Def:6),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,395,1,44,3,8:24 PM,10:38,Gafford 2' Reverse Layup (10 PTS) (Beal 4 AST),,,62 - 62,TIE,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,397,2,79,3,8:24 PM,10:28,,,MISS Barnes 20' Pullup Jump Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,398,4,0,3,8:24 PM,10:25,Beal REBOUND (Off:0 Def:3),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,399,2,101,3,8:24 PM,10:19,MISS Dinwiddie 6' Driving Floating Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,400,4,0,3,8:25 PM,10:16,,,Achiuwa REBOUND (Off:5 Def:5),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,401,2,1,3,8:25 PM,10:11,,,MISS Dragic 23' Jump Shot,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,402,4,0,3,8:25 PM,10:08,Beal REBOUND (Off:0 Def:4),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,403,2,5,3,8:25 PM,9:57,MISS Gafford 6' Layup,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,404,4,0,3,8:25 PM,9:54,,,Barnes REBOUND (Off:0 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,405,1,44,3,8:25 PM,9:50,,,Achiuwa 2' Reverse Layup (9 PTS) (Barnes 5 AST),64 - 62,-2,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,407,1,86,3,8:25 PM,9:26,Kuzma 16' Turnaround Fadeaway (16 PTS),,,64 - 64,TIE,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,408,2,1,3,8:26 PM,9:09,,,MISS Trent Jr. 26' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,409,4,0,3,8:26 PM,9:07,Gafford REBOUND (Off:1 Def:7),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,410,2,5,3,8:26 PM,8:46,MISS Dinwiddie 4' Layup,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,411,4,0,3,8:26 PM,8:44,Gafford REBOUND (Off:2 Def:7),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,412,1,7,3,8:26 PM,8:43,Gafford Dunk (12 PTS),,,64 - 66,2,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,413,6,11,3,8:26 PM,8:43,Dinwiddie T.FOUL (P0.T1) (D.Mosher),,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,414,3,16,3,8:27 PM,8:43,,,Trent Jr. Free Throw Technical (7 PTS),65 - 66,1,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,415,5,1,3,8:27 PM,8:24,Kuzma STEAL (1 STL),,Achiuwa Bad Pass Turnover (P2.T9),,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,417,2,5,3,8:27 PM,8:19,MISS Kuzma 3' Layup,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,418,4,0,3,8:27 PM,8:17,,,Bonga REBOUND (Off:0 Def:1),,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,419,2,5,3,8:27 PM,8:12,,,MISS Achiuwa 3' Layup,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,420,4,0,3,8:27 PM,8:12,,,Barnes REBOUND (Off:1 Def:2),,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,693,2,97,3,8:28 PM,8:11,,,MISS Barnes 1' Tip Layup Shot,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,694,4,0,3,8:28 PM,8:11,Beal REBOUND (Off:0 Def:5),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0012100046,421,2,1,3,8:28 PM,7:49,MISS Gafford 11' Jump Shot,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,422,4,0,3,8:28 PM,7:47,,,Trent Jr. REBOUND (Off:0 Def:6),,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,423,1,78,3,8:28 PM,7:38,,,Trent Jr. 8' Floating Jump Shot (9 PTS) (Barnes 6 AST),67 - 66,-1,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,425,9,1,3,8:28 PM,7:38,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,426,1,1,3,8:31 PM,7:20,Kuzma 25' 3PT Jump Shot (19 PTS) (Beal 5 AST),,,67 - 69,2,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,428,6,2,3,8:32 PM,7:01,Beal S.FOUL (P2.T2) (C.Blair),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,430,3,11,3,8:32 PM,7:01,,,Bonga Free Throw 1 of 2 (3 PTS),68 - 69,1,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,431,3,12,3,8:32 PM,7:01,,,MISS Bonga Free Throw 2 of 2,,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,432,4,0,3,8:32 PM,6:58,Gafford REBOUND (Off:2 Def:8),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,433,1,1,3,8:33 PM,6:38,Beal 26' 3PT Jump Shot (7 PTS) (Caldwell-Pope 1 AST),,,68 - 72,4,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,435,2,1,3,8:33 PM,6:18,,,MISS Trent Jr. 24' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,436,4,0,3,8:33 PM,6:14,Caldwell-Pope REBOUND (Off:1 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,437,2,1,3,8:33 PM,6:10,MISS Beal 28' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,438,4,0,3,8:33 PM,6:03,Kuzma REBOUND (Off:1 Def:6),,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,439,1,72,3,8:33 PM,6:03,Kuzma Putback Layup (21 PTS),,,68 - 74,6,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,440,1,1,3,8:33 PM,5:56,,,Trent Jr. 28' 3PT Jump Shot (12 PTS) (Barnes 7 AST),71 - 74,3,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,442,1,1,3,8:34 PM,5:40,Caldwell-Pope 25' 3PT Jump Shot (15 PTS) (Beal 6 AST),,,71 - 77,6,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,444,2,1,3,8:34 PM,5:15,,,MISS Trent Jr. 27' 3PT Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,445,4,0,3,8:34 PM,5:14,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,446,5,11,3,8:34 PM,5:14,,,Raptors Turnover: Shot Clock (T#10),,,3,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100046,447,8,0,3,8:34 PM,5:14,SUB: Avdija FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,448,8,0,3,8:34 PM,5:14,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,449,8,0,3,8:34 PM,5:14,,,SUB: Mykhailiuk FOR Dragic,,,5,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,450,8,0,3,8:34 PM,5:14,,,SUB: Birch FOR Achiuwa,,,5,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,455,2,101,3,8:35 PM,4:54,MISS Beal 8' Driving Floating Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,456,4,0,3,8:35 PM,4:52,,,Birch REBOUND (Off:0 Def:5),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,457,2,1,3,8:35 PM,4:43,,,MISS Mykhailiuk 17' Jump Shot,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,458,4,0,3,8:35 PM,4:38,Avdija REBOUND (Off:1 Def:2),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,459,2,1,3,8:35 PM,4:33,MISS Beal 10' Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,460,4,0,3,8:35 PM,4:29,Gafford REBOUND (Off:3 Def:8),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,695,2,5,3,8:35 PM,4:28,MISS Gafford 2' Layup,,Mykhailiuk BLOCK (1 BLK),,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0
+0012100046,697,4,0,3,8:35 PM,4:28,,,Mykhailiuk REBOUND (Off:0 Def:1),,,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,463,2,6,3,8:35 PM,4:16,,,MISS Birch 15' Driving Layup,,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,464,4,0,3,8:35 PM,4:14,,,Birch REBOUND (Off:1 Def:5),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,465,2,1,3,8:36 PM,4:11,,,MISS Trent Jr. 19' Jump Shot,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,466,4,0,3,8:36 PM,4:08,Gafford REBOUND (Off:3 Def:9),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,467,1,6,3,8:36 PM,4:00,Kispert 6' Driving Layup (2 PTS) (Caldwell-Pope 2 AST),,,71 - 79,8,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,469,9,1,3,8:36 PM,4:00,,,Raptors Timeout: Regular (Reg.3 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,470,8,0,3,8:38 PM,4:00,SUB: Harrell FOR Gafford,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,471,8,0,3,8:38 PM,4:00,,,SUB: Dekker FOR Barnes,,,5,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,472,8,0,3,8:38 PM,4:00,,,SUB: Flynn FOR Bonga,,,5,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,473,8,0,3,8:38 PM,4:00,,,SUB: Champagnie FOR Trent Jr.,,,5,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,478,5,4,3,8:39 PM,3:51,,,Champagnie Traveling Turnover (P3.T11),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100046,479,6,4,3,8:39 PM,3:32,Caldwell-Pope OFF.Foul (P3) (B.Adair),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,481,5,37,3,8:39 PM,3:32,Caldwell-Pope Offensive Foul Turnover (P3.T13),,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,529,8,0,3,8:40 PM,3:32,SUB: Bertans FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,482,2,1,3,8:40 PM,3:23,,,MISS Champagnie 6' Jump Shot,,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,484,4,0,3,8:40 PM,3:12,Bertans REBOUND (Off:0 Def:2),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,485,1,5,3,8:40 PM,3:12,Harrell 2' Layup (8 PTS),,,71 - 81,10,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,487,6,1,3,8:40 PM,3:12,,,Flynn P.FOUL (P3.T3) (D.Mosher),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,489,3,10,3,8:40 PM,3:12,Harrell Free Throw 1 of 1 (9 PTS),,,71 - 82,11,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,492,6,2,3,8:41 PM,2:57,Beal S.FOUL (P3.T3) (B.Adair),,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,494,3,11,3,8:41 PM,2:57,,,MISS Flynn Free Throw 1 of 2,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,495,4,1,3,8:41 PM,2:57,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,496,3,12,3,8:41 PM,2:57,,,Flynn Free Throw 2 of 2 (6 PTS),72 - 82,10,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,497,2,1,3,8:42 PM,2:45,MISS Beal 27' 3PT Jump Shot,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,498,4,0,3,8:42 PM,2:40,Avdija REBOUND (Off:2 Def:2),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,499,2,1,3,8:42 PM,2:37,MISS Kispert 27' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,500,4,0,3,8:42 PM,2:36,,,Champagnie REBOUND (Off:1 Def:4),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,501,1,1,3,8:42 PM,2:31,,,Dekker 26' 3PT Jump Shot (3 PTS) (Champagnie 1 AST),75 - 82,7,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,503,1,52,3,8:42 PM,2:12,Harrell 2' Alley Oop Dunk (11 PTS) (Bertans 1 AST),,,75 - 84,9,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,505,2,1,3,8:43 PM,1:51,,,MISS Flynn 26' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,506,4,0,3,8:43 PM,1:47,Avdija REBOUND (Off:2 Def:3),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,507,1,3,3,8:43 PM,1:36,Harrell 7' Hook Shot (13 PTS),,,75 - 86,11,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,509,6,26,3,8:43 PM,1:28,,,Birch Offensive Charge Foul (P2) (C.Blair),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,511,5,37,3,8:43 PM,1:28,,,Birch Offensive Foul Turnover (P2.T12),,,5,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100046,512,8,0,3,8:43 PM,1:28,SUB: Dinwiddie FOR Beal,,,,,4,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,513,8,0,3,8:43 PM,1:28,SUB: Kuzma FOR Kispert,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,516,1,1,3,8:44 PM,1:14,Avdija 24' 3PT Jump Shot (6 PTS),,,75 - 89,14,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,517,1,1,3,8:44 PM,0:57,,,Dekker 26' 3PT Jump Shot (6 PTS) (Mykhailiuk 2 AST),78 - 89,11,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,518,2,1,3,8:44 PM,0:38,MISS Dinwiddie 15' Jump Shot,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,519,4,0,3,8:44 PM,0:38,,,Dekker REBOUND (Off:0 Def:1),,,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,520,1,1,3,8:44 PM,0:32,,,Flynn 28' 3PT Jump Shot (9 PTS) (Dekker 1 AST),81 - 89,8,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,522,6,1,3,8:45 PM,0:20,,,Champagnie P.FOUL (P4.T4) (D.Mosher),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,524,2,1,3,8:45 PM,0:07,MISS Avdija 21' Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,525,4,0,3,8:45 PM,0:05,,,Champagnie REBOUND (Off:1 Def:5),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,526,2,78,3,8:45 PM,0:00,,,MISS Flynn 8' Floating Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,527,4,0,3,8:45 PM,0:00,Avdija REBOUND (Off:2 Def:4),,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,528,13,0,3,8:45 PM,0:00,,End of 3rd Period (8:45 PM EST),,81 - 89,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100046,537,12,0,4,8:48 PM,12:00,,Start of 4th Period (8:48 PM EST),,81 - 89,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,538,2,44,4,8:48 PM,11:45,,,MISS Dekker 2' Reverse Layup,,,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,539,4,0,4,8:48 PM,11:43,,,Champagnie REBOUND (Off:2 Def:5),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,540,1,1,4,8:48 PM,11:39,,,Flynn 28' 3PT Jump Shot (12 PTS) (Champagnie 2 AST),84 - 89,5,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,542,1,1,4,8:49 PM,11:18,Kuzma 24' 3PT Jump Shot (24 PTS) (Dinwiddie 6 AST),,,84 - 92,8,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,544,1,1,4,8:49 PM,11:06,,,Dekker 26' 3PT Jump Shot (9 PTS) (Champagnie 3 AST),87 - 92,5,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,546,1,98,4,8:49 PM,10:50,Harrell 4' Cutting Layup Shot (15 PTS) (Dinwiddie 7 AST),,,87 - 94,7,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,548,1,9,4,8:49 PM,10:41,,,Dekker 2' Driving Dunk (11 PTS) (Flynn 2 AST),89 - 94,5,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,549,2,1,4,8:49 PM,10:27,MISS Kuzma 27' 3PT Jump Shot,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,550,4,0,4,8:50 PM,10:23,Bertans REBOUND (Off:1 Def:2),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,551,1,7,4,8:50 PM,10:18,Harrell 3' Dunk (17 PTS) (Neto 3 AST),,,89 - 96,7,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,553,1,1,4,8:50 PM,10:01,,,Dekker 21' Jump Shot (13 PTS),91 - 96,5,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,555,9,1,4,8:50 PM,10:00,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,556,8,0,4,8:53 PM,10:00,SUB: Holiday FOR Dinwiddie,,,,,4,203915,Spencer Dinwiddie,1610612764.0,Washington,Wizards,WAS,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,558,1,1,4,8:53 PM,9:39,Bertans 29' 3PT Jump Shot (6 PTS) (Neto 4 AST),,,91 - 99,8,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,560,2,1,4,8:54 PM,9:16,,,MISS Wainright 28' 3PT Jump Shot,,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,561,4,0,4,8:54 PM,9:13,,,Champagnie REBOUND (Off:3 Def:5),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,562,2,1,4,8:54 PM,9:04,,,MISS Flynn 28' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,563,4,0,4,8:54 PM,8:57,Holiday REBOUND (Off:0 Def:1),,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,566,2,1,4,8:54 PM,8:51,MISS Bertans 24' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,567,4,0,4,8:54 PM,8:48,,,Wainright REBOUND (Off:0 Def:2),,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,569,8,0,4,8:54 PM,8:45,SUB: Kispert FOR Kuzma,,,,,4,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,571,1,1,4,8:55 PM,8:41,,,Dekker 20' Jump Shot (15 PTS) (Flynn 3 AST),93 - 99,6,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,573,2,44,4,8:55 PM,8:30,MISS Neto 4' Reverse Layup,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,574,4,0,4,8:55 PM,8:26,,,Champagnie REBOUND (Off:3 Def:6),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,575,2,5,4,8:55 PM,8:25,,,MISS Dekker 3' Layup,,,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,576,4,0,4,8:55 PM,8:13,,,Gillespie REBOUND (Off:1 Def:0),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,577,2,87,4,8:55 PM,8:13,,,MISS Gillespie Putback Dunk,,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,578,4,0,4,8:55 PM,8:13,Holiday REBOUND (Off:0 Def:2),,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,579,2,1,4,8:55 PM,8:06,MISS Bertans 28' 3PT Jump Shot,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,580,4,0,4,8:55 PM,8:03,,,Champagnie REBOUND (Off:3 Def:7),,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,581,1,1,4,8:55 PM,7:58,,,Dekker 27' 3PT Jump Shot (18 PTS) (Wainright 1 AST),96 - 99,3,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,583,6,2,4,8:55 PM,7:58,Kispert S.FOUL (P1.T1) (D.Mosher),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,585,8,0,4,8:56 PM,7:58,,,SUB: Banton FOR Champagnie,,,5,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,587,3,10,4,8:56 PM,7:58,,,MISS Dekker Free Throw 1 of 1,,,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,588,4,0,4,8:56 PM,7:55,Holiday REBOUND (Off:0 Def:3),,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,589,5,40,4,8:56 PM,7:51,Holiday Out of Bounds Lost Ball Turnover (P1.T14),,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012100046,590,6,2,4,8:56 PM,7:43,Kispert S.FOUL (P2.T2) (C.Blair),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,592,3,11,4,8:57 PM,7:43,,,Flynn Free Throw 1 of 2 (13 PTS),97 - 99,2,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,595,3,12,4,8:57 PM,7:43,,,Flynn Free Throw 2 of 2 (14 PTS),98 - 99,1,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,593,8,0,4,8:57 PM,7:43,SUB: Gafford FOR Harrell,,,,,4,1626149,Montrezl Harrell,1610612764.0,Washington,Wizards,WAS,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,698,5,2,4,8:57 PM,7:29,Gafford Lost Ball Turnover (P1.T15),,Flynn STEAL (2 STL),,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100046,598,6,28,4,8:58 PM,7:29,Bertans Personal Take Foul (P1.T3) (D.Mosher),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,600,2,79,4,8:58 PM,7:13,,,MISS Flynn 15' Pullup Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,601,4,0,4,8:58 PM,7:08,Bertans REBOUND (Off:1 Def:3),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,602,2,1,4,8:58 PM,7:00,MISS Kispert 24' 3PT Jump Shot,,Banton BLOCK (1 BLK),,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1
+0012100046,604,4,0,4,8:58 PM,6:58,,,Gillespie REBOUND (Off:1 Def:1),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,605,6,28,4,8:58 PM,6:58,Bertans Personal Take Foul (P2.T4) (C.Blair),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,607,1,1,4,8:59 PM,6:46,,,Flynn 32' 3PT Jump Shot (17 PTS) (Banton 4 AST),101 - 99,-2,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,609,6,2,4,8:59 PM,6:34,,,Gillespie S.FOUL (P1.T1) (C.Blair),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012100046,611,3,11,4,9:00 PM,6:34,Gafford Free Throw 1 of 2 (13 PTS),,,101 - 100,-1,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,612,8,0,4,9:00 PM,6:34,SUB: Avdija FOR Neto,,,,,4,203526,Raul Neto,1610612764.0,Washington,Wizards,WAS,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,614,3,12,4,9:00 PM,6:34,Gafford Free Throw 2 of 2 (14 PTS),,,101 - 101,TIE,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,615,2,1,4,9:00 PM,6:16,,,MISS Banton 28' 3PT Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,616,4,0,4,9:01 PM,6:12,Gafford REBOUND (Off:3 Def:10),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,617,1,1,4,9:01 PM,5:52,Bertans 25' 3PT Jump Shot (9 PTS) (Kispert 2 AST),,,101 - 104,3,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,619,2,1,4,9:01 PM,5:37,,,MISS Dekker 29' 3PT Jump Shot,,,5,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,620,4,0,4,9:01 PM,5:33,Holiday REBOUND (Off:0 Def:4),,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,621,2,5,4,9:01 PM,5:28,MISS Holiday 6' Layup,,Gillespie BLOCK (1 BLK),,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,1
+0012100046,623,4,0,4,9:01 PM,5:24,,,Wainright REBOUND (Off:0 Def:3),,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,624,1,5,4,9:01 PM,5:20,,,Flynn 2' Layup (19 PTS),103 - 104,1,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,626,2,5,4,9:02 PM,4:57,MISS Gafford 3' Layup,,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,627,4,0,4,9:02 PM,4:55,Gafford REBOUND (Off:4 Def:10),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,690,2,1,4,9:02 PM,4:51,MISS Gafford 4' Jump Shot,,Flynn BLOCK (1 BLK),,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0
+0012100046,692,4,0,4,9:02 PM,4:51,,,Flynn REBOUND (Off:0 Def:1),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100046,630,2,1,4,9:02 PM,4:44,,,MISS Flynn 26' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,631,4,0,4,9:02 PM,4:39,,,Gillespie REBOUND (Off:2 Def:1),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,632,2,1,4,9:02 PM,4:36,,,MISS Banton 8' Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,633,4,0,4,9:02 PM,4:29,Bertans REBOUND (Off:1 Def:4),,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,634,2,1,4,9:02 PM,4:17,MISS Kispert 29' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,635,4,0,4,9:02 PM,4:16,,,Gillespie REBOUND (Off:2 Def:2),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,636,9,1,4,9:03 PM,4:16,,,Raptors Timeout: Regular (Reg.4 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,637,8,0,4,9:05 PM,4:16,SUB: Gill FOR Bertans,,,,,4,202722,Davis Bertans,1610612764.0,Washington,Wizards,WAS,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,639,2,101,4,9:06 PM,3:52,,,MISS Banton 7' Driving Floating Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,640,4,0,4,9:06 PM,3:52,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,641,5,11,4,9:06 PM,3:52,,,Raptors Turnover: Shot Clock (T#13),,,3,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100046,642,2,1,4,9:06 PM,3:35,MISS Avdija 28' 3PT Jump Shot,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,643,4,0,4,9:06 PM,3:32,,,Flynn REBOUND (Off:0 Def:2),,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,644,1,1,4,9:07 PM,3:24,,,Wainright 24' 3PT Jump Shot (6 PTS) (Banton 5 AST),106 - 104,-2,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100046,646,9,1,4,9:07 PM,3:18,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,647,8,0,4,9:08 PM,3:18,SUB: Goodwin FOR Avdija,,,,,4,1630166,Deni Avdija,1610612764.0,Washington,Wizards,WAS,4,1630692,Jordan Goodwin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012100046,649,1,101,4,9:09 PM,3:12,Holiday 9' Driving Floating Jump Shot (2 PTS),,,106 - 106,TIE,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,650,6,1,4,9:09 PM,3:03,Holiday P.FOUL (P1.PN) (D.Mosher),,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,652,3,11,4,9:09 PM,3:03,,,Gillespie Free Throw 1 of 2 (1 PTS),107 - 106,-1,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,653,3,12,4,9:09 PM,3:03,,,MISS Gillespie Free Throw 2 of 2,,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,654,4,0,4,9:09 PM,3:00,Gafford REBOUND (Off:4 Def:11),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,655,5,11,4,9:10 PM,2:39,WIZARDS Turnover: Shot Clock (T#16),,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100046,656,1,58,4,9:10 PM,2:25,,,Gillespie 5' Turnaround Hook Shot (3 PTS),109 - 106,-3,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,657,2,1,4,9:11 PM,2:10,MISS Kispert 27' 3PT Jump Shot,,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,658,4,0,4,9:11 PM,2:08,,,Gillespie REBOUND (Off:2 Def:3),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,659,2,1,4,9:11 PM,1:55,,,MISS Flynn 24' 3PT Jump Shot,,,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,660,4,0,4,9:11 PM,1:52,Gafford REBOUND (Off:4 Def:12),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,661,2,1,4,9:11 PM,1:38,MISS Gill 24' 3PT Jump Shot,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,662,4,0,4,9:11 PM,1:36,,,Wainright REBOUND (Off:0 Def:4),,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,663,2,1,4,9:12 PM,1:13,,,MISS Banton 21' Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,665,4,0,4,9:12 PM,1:09,,,Banton REBOUND (Off:1 Def:0),,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,666,2,1,4,9:12 PM,1:07,,,MISS Banton 8' Jump Shot,,,5,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,667,4,0,4,9:12 PM,1:05,Gafford REBOUND (Off:4 Def:13),,,,,4,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,668,2,79,4,9:12 PM,0:56,MISS Holiday 17' Pullup Jump Shot,,,,,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,669,4,0,4,9:12 PM,0:53,,,Gillespie REBOUND (Off:2 Def:4),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,670,9,1,4,9:12 PM,0:44,,,Raptors Timeout: Regular (Reg.5 Short 0),,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,672,1,6,4,9:14 PM,0:33,,,Flynn 2' Driving Layup (21 PTS),111 - 106,-5,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,673,6,2,4,9:14 PM,0:33,Kispert S.FOUL (P3.PN) (C.Blair),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,675,3,10,4,9:14 PM,0:33,,,Flynn Free Throw 1 of 1 (22 PTS),112 - 106,-6,5,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,676,9,1,4,9:14 PM,0:33,WIZARDS Timeout: Regular (Full 6 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,677,1,79,4,9:16 PM,0:27,Holiday 18' Pullup Jump Shot (4 PTS) (Kispert 3 AST),,,112 - 108,-4,4,1628988,Aaron Holiday,1610612764.0,Washington,Wizards,WAS,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012100046,679,6,1,4,9:16 PM,0:24,Kispert P.FOUL (P4.PN) (B.Adair),,,,,4,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100046,681,3,11,4,9:17 PM,0:24,,,MISS Wainright Free Throw 1 of 2,,,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,682,4,1,4,9:17 PM,0:24,,,Raptors Rebound,,,3,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100046,683,3,12,4,9:17 PM,0:24,,,Wainright Free Throw 2 of 2 (7 PTS),113 - 108,-5,5,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,685,2,1,4,9:17 PM,0:19,MISS Gill 26' 3PT Jump Shot,,,,,4,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012100046,686,4,0,4,9:17 PM,0:15,,,Gillespie REBOUND (Off:2 Def:5),,,5,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100046,688,13,0,4,9:18 PM,0:00,,End of 4th Period (9:18 PM EST),,113 - 108,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

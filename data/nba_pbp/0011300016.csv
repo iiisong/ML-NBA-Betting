@@ -1,0 +1,536 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300016,0,12,0,1,7:13 PM,12:00,,Start of 1st Period (7:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,1,10,0,1,7:13 PM,12:00,Jump Ball Thompson vs. Sanders: Tip to Knight,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,2,2,1,1,7:13 PM,11:40,,,MISS Mayo 19' Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,3,4,0,1,7:13 PM,11:39,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,4,2,47,1,7:14 PM,11:24,MISS Waiters 17' Turnaround Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,5,4,0,1,7:14 PM,11:22,,,Ilyasova REBOUND (Off:0 Def:1),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,8,6,1,1,7:14 PM,11:15,Waiters P.FOUL (P1.T1),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,9,1,1,1,7:14 PM,11:08,,,Mayo 21' Jump Shot (2 PTS) (Knight 1 AST),2 - 0,-2,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,10,1,63,1,7:14 PM,10:45,Varejao 13' Fadeaway Jumper (2 PTS) (Thompson 1 AST),,,2 - 2,TIE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,11,5,1,1,7:15 PM,10:35,Varejao STEAL (1 STL),,Butler Bad Pass Turnover (P1.T1),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,12,5,2,1,7:15 PM,10:35,Clark Lost Ball Turnover (P1.T1),,Butler STEAL (1 STL),,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,13,6,3,1,7:15 PM,10:35,Clark L.B.FOUL (P1.T2),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,14,5,1,1,7:15 PM,10:22,Varejao STEAL (2 STL),,Butler Bad Pass Turnover (P2.T2),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,15,2,5,1,7:15 PM,10:18,MISS Varejao 1' Layup,,Sanders BLOCK (1 BLK),,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,16,4,0,1,7:15 PM,10:15,,,Mayo REBOUND (Off:0 Def:1),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,17,2,42,1,7:15 PM,10:04,,,MISS Ilyasova 2' Driving Layup,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,18,4,0,1,7:15 PM,10:02,Clark REBOUND (Off:0 Def:1),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,19,2,78,1,7:16 PM,9:49,MISS Thompson 8' Floating Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,20,4,0,1,7:16 PM,9:46,Varejao REBOUND (Off:1 Def:0),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,21,6,26,1,7:16 PM,9:43,Irving Offensive Charge Foul (P1.T3),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,22,5,5,1,7:16 PM,9:43,Irving Foul Turnover (P1.T2),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,23,1,1,1,7:16 PM,9:24,,,Ilyasova 21' Jump Shot (2 PTS) (Mayo 1 AST),4 - 2,-2,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,24,2,5,1,7:17 PM,9:10,MISS Waiters 1' Layup,,Sanders BLOCK (2 BLK),,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,25,4,0,1,7:17 PM,9:05,Thompson REBOUND (Off:1 Def:0),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,26,1,7,1,7:17 PM,9:04,Thompson  Dunk (2 PTS),,,4 - 4,TIE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,67,5,11,1,7:18 PM,8:35,,,Bucks Turnover: Shot Clock (T#3),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300016,30,1,5,1,7:18 PM,8:12,Thompson 2' Layup (4 PTS) (Clark 1 AST),,,4 - 6,2,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,31,2,1,1,7:18 PM,7:58,,,MISS Sanders 16' Jump Shot,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,32,4,0,1,7:18 PM,7:55,Clark REBOUND (Off:0 Def:2),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,33,2,1,1,7:18 PM,7:48,MISS Irving 18' Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,34,4,0,1,7:18 PM,7:46,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,36,1,1,1,7:19 PM,7:33,Irving 16' Jump Shot (2 PTS) (Varejao 1 AST),,,4 - 8,4,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,37,2,46,1,7:19 PM,7:14,,,MISS Mayo 7' Running Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,38,4,0,1,7:19 PM,7:10,Varejao REBOUND (Off:1 Def:1),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,39,6,1,1,7:19 PM,6:59,,,Ilyasova P.FOUL (P1.T1),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,41,1,1,1,7:20 PM,6:47,Waiters 20' Jump Shot (2 PTS),,,4 - 10,6,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,42,6,1,1,7:20 PM,6:38,Waiters P.FOUL (P2.T4),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,43,8,0,1,7:20 PM,6:38,,,SUB: Ridnour FOR Knight,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,44,8,0,1,7:20 PM,6:38,,,SUB: Henson FOR Ilyasova,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,45,5,1,1,7:21 PM,6:29,Irving STEAL (1 STL),,Butler Bad Pass Turnover (P3.T4),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,46,6,2,1,7:21 PM,6:26,,,Ridnour S.FOUL (P1.T2),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,47,3,11,1,7:21 PM,6:26,Irving Free Throw 1 of 2 (3 PTS),,,4 - 11,7,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,49,3,12,1,7:21 PM,6:26,Irving Free Throw 2 of 2 (4 PTS),,,4 - 12,8,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,51,2,1,1,7:22 PM,6:07,,,MISS Mayo 25' 3PT Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,52,4,0,1,7:22 PM,6:06,,,Henson REBOUND (Off:1 Def:0),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,53,6,1,1,7:22 PM,6:00,Thompson P.FOUL (P1.PN),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,54,2,1,1,7:23 PM,5:46,,,MISS Mayo 26' 3PT Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,55,4,0,1,7:23 PM,5:45,Varejao REBOUND (Off:1 Def:2),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,56,1,1,1,7:23 PM,5:35,Irving 26' 3PT Jump Shot (7 PTS),,,4 - 15,11,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,57,9,1,1,7:23 PM,5:30,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,60,18,1,1,7:24 PM,5:30,,Overturn Ruling,,,,0,67,Tom Hammonds,,,,,0,0,,,,,,1,0,,,,,,0
+0011300016,62,8,0,1,7:26 PM,5:30,,,SUB: Neal FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,63,8,0,1,7:26 PM,5:30,,,SUB: Antetokounmpo FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,64,8,0,1,7:26 PM,5:30,,,SUB: Raduljica FOR Mayo,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,65,1,65,1,7:26 PM,5:13,,,Henson 7' Jump Hook Shot (2 PTS) (Raduljica 1 AST),6 - 15,9,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,66,1,1,1,7:27 PM,4:43,Waiters 19' Jump Shot (4 PTS),,,6 - 17,11,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,68,2,1,1,7:27 PM,4:26,,,MISS Antetokounmpo 18' Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,69,4,0,1,7:27 PM,4:25,Waiters REBOUND (Off:0 Def:1),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,70,2,1,1,7:27 PM,4:10,MISS Clark 17' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,72,4,0,1,7:27 PM,4:08,Thompson REBOUND (Off:2 Def:0),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,71,1,87,1,7:27 PM,4:08,Thompson  Putback Dunk (6 PTS),,,6 - 19,13,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,73,5,2,1,7:28 PM,3:46,Irving STEAL (2 STL),,Ridnour Lost Ball Turnover (P1.T5),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,74,1,7,1,7:28 PM,3:41,Thompson  Dunk (8 PTS) (Irving 1 AST),,,6 - 21,15,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,76,8,0,1,7:28 PM,3:30,SUB: Jack FOR Waiters,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,77,8,0,1,7:28 PM,3:30,SUB: Bennett FOR Thompson,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,79,2,1,1,7:28 PM,3:18,,,MISS Ridnour 29' 3PT Jump Shot,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,80,4,0,1,7:29 PM,3:17,Jack REBOUND (Off:0 Def:1),,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,81,2,1,1,7:29 PM,3:13,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,82,4,0,1,7:29 PM,3:10,,,Henson REBOUND (Off:1 Def:1),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,83,2,5,1,7:29 PM,3:03,,,MISS Neal 2' Layup,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,84,4,0,1,7:29 PM,3:02,,,Ridnour REBOUND (Off:1 Def:0),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,85,1,1,1,7:29 PM,2:58,,,Neal 25' 3PT Jump Shot (3 PTS) (Ridnour 1 AST),9 - 21,12,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,86,9,1,1,7:29 PM,2:58,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,88,8,0,1,7:31 PM,2:58,SUB: Sims FOR Clark,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,89,8,0,1,7:31 PM,2:58,SUB: Felix FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,90,8,0,1,7:31 PM,2:58,SUB: Miles FOR Irving,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,93,1,46,1,7:32 PM,2:37,Miles 12' Running Jump Shot (2 PTS) (Jack 1 AST),,,9 - 23,14,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,94,2,1,1,7:32 PM,2:26,,,MISS Neal 21' Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,95,4,0,1,7:32 PM,2:25,Miles REBOUND (Off:0 Def:1),,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,96,2,1,1,7:32 PM,2:19,MISS Bennett 26' 3PT Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,97,4,0,1,7:32 PM,2:18,,,Antetokounmpo REBOUND (Off:0 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,98,5,4,1,7:32 PM,2:12,,,Antetokounmpo Traveling Turnover (P1.T6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,100,6,2,1,7:33 PM,2:00,,,Ridnour S.FOUL (P2.T3),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,102,3,11,1,7:33 PM,2:00,Jack Free Throw 1 of 2 (1 PTS),,,9 - 24,15,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,107,5,17,1,7:33 PM,2:00,Bennett Lane Violation Turnover (P1.T3),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,109,1,1,1,7:34 PM,1:43,,,Antetokounmpo 26' 3PT Jump Shot (3 PTS) (Neal 1 AST),12 - 24,12,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,110,9,2,1,7:34 PM,1:43,CAVALIERS Timeout: Short (Full 1 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,114,2,1,1,7:35 PM,1:27,MISS Miles 25' 3PT Jump Shot,,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,115,4,0,1,7:35 PM,1:26,,,Ridnour REBOUND (Off:1 Def:1),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,116,7,5,1,7:36 PM,1:16,Jack Violation:Kicked Ball,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,122,6,1,1,7:36 PM,1:13,Miles P.FOUL (P1.PN),,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,124,3,11,1,7:37 PM,1:13,,,Antetokounmpo Free Throw 1 of 2 (4 PTS),13 - 24,11,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,126,3,12,1,7:37 PM,1:13,,,Antetokounmpo Free Throw 2 of 2 (5 PTS),14 - 24,10,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,129,2,1,1,7:37 PM,0:58,MISS Sims 9' Jump Shot,,Henson BLOCK (1 BLK),,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,130,4,0,1,7:37 PM,0:58,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,133,1,1,1,7:37 PM,0:56,Jack 14' Jump Shot (3 PTS) (Miles 1 AST),,,14 - 26,12,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,134,5,1,1,7:38 PM,0:39,Miles STEAL (1 STL),,Neal Bad Pass Turnover (P1.T7),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,135,2,1,1,7:38 PM,0:31,MISS Bennett 17' Jump Shot,,Raduljica BLOCK (1 BLK),,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,136,4,0,1,7:38 PM,0:29,,,Ridnour REBOUND (Off:1 Def:2),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,137,1,5,1,7:38 PM,0:27,,,Neal 1' Layup (5 PTS) (Ridnour 2 AST),16 - 26,10,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,138,6,1,1,7:38 PM,0:18,,,Neal P.FOUL (P1.PN),,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,140,3,11,1,7:38 PM,0:18,Sims Free Throw 1 of 2 (1 PTS),,,16 - 27,11,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,145,3,12,1,7:40 PM,0:18,Sims Free Throw 2 of 2 (2 PTS),,,16 - 28,12,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,148,5,21,1,7:42 PM,0:01,,,Raduljica Palming Turnover (P1.T8),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,149,2,1,1,7:42 PM,0:00,MISS Jack 66' 3PT Jump Shot,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,150,4,0,1,7:42 PM,0:00,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,151,13,0,1,7:42 PM,0:00,,End of 1st Period (7:42 PM EST),,16 - 28,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,153,12,0,2,7:45 PM,12:00,,Start of 2nd Period (7:45 PM EST),,16 - 28,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,154,1,1,2,7:45 PM,11:47,Miles 25' 3PT Jump Shot (5 PTS) (Felix 1 AST),,,16 - 31,15,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,155,2,78,2,7:45 PM,11:34,,,MISS Neal 17' Floating Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,156,4,0,2,7:45 PM,11:31,Bennett REBOUND (Off:0 Def:1),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,157,6,1,2,7:46 PM,11:25,,,Raduljica P.FOUL (P1.T1),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,158,8,0,2,7:46 PM,11:25,,,SUB: Sanders FOR Raduljica,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,159,6,2,2,7:46 PM,11:15,,,Antetokounmpo S.FOUL (P1.T2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,160,3,11,2,7:47 PM,11:15,MISS Bennett Free Throw 1 of 2,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,161,4,1,2,7:47 PM,11:15,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,162,3,12,2,7:47 PM,11:15,Bennett Free Throw 2 of 2 (1 PTS),,,16 - 32,16,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,164,1,1,2,7:47 PM,10:49,,,Ilyasova 9' Jump Shot (4 PTS) (Antetokounmpo 1 AST),18 - 32,14,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,165,2,63,2,7:48 PM,10:34,MISS Jack 9' Fadeaway Jumper,,Knight BLOCK (1 BLK),,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,166,4,0,2,7:48 PM,10:32,,,Antetokounmpo REBOUND (Off:0 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,167,2,1,2,7:48 PM,10:26,,,MISS Neal 25' 3PT Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,168,4,0,2,7:48 PM,10:23,,,Knight REBOUND (Off:1 Def:0),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,169,2,78,2,7:48 PM,10:19,,,MISS Knight 12' Floating Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,171,4,0,2,7:48 PM,10:18,,,Sanders REBOUND (Off:1 Def:0),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,170,1,87,2,7:48 PM,10:18,,,Sanders 1' Putback Dunk (2 PTS),20 - 32,12,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,172,9,1,2,7:48 PM,10:18,CAVALIERS Timeout: Regular (Full 2 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,174,8,0,2,7:50 PM,10:18,,,SUB: Mayo FOR Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,175,8,0,2,7:50 PM,10:18,,,SUB: Butler FOR Neal,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,177,2,1,2,7:51 PM,10:06,MISS Bennett 7' Jump Shot,,Ilyasova BLOCK (1 BLK),,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,178,4,0,2,7:51 PM,10:04,,,Mayo REBOUND (Off:0 Def:2),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,179,2,5,2,7:51 PM,10:00,,,MISS Knight 2' Layup,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,181,4,0,2,7:51 PM,9:58,,,Sanders REBOUND (Off:2 Def:0),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,180,1,7,2,7:51 PM,9:58,,,Sanders 1' Dunk (4 PTS),22 - 32,10,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,182,9,1,2,7:51 PM,9:58,CAVALIERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,185,1,1,2,7:53 PM,9:41,Miles 18' Jump Shot (7 PTS) (Jack 2 AST),,,22 - 34,12,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,187,2,1,2,7:54 PM,9:20,,,MISS Knight 27' 3PT Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,188,4,0,2,7:54 PM,9:20,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,189,6,3,2,7:54 PM,9:20,,,Sanders L.B.FOUL (P1.T3),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,190,2,1,2,7:54 PM,9:07,MISS Bennett 26' 3PT Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,192,4,0,2,7:54 PM,9:05,Sims REBOUND (Off:1 Def:0),,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,191,1,5,2,7:54 PM,9:05,Sims 1' Layup (4 PTS),,,22 - 36,14,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,194,2,1,2,7:55 PM,8:39,,,MISS Mayo 25' 3PT Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,195,4,0,2,7:55 PM,8:39,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,197,5,1,2,7:55 PM,8:28,Jack Bad Pass Turnover (P1.T4),,Knight STEAL (1 STL),,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,198,6,1,2,7:55 PM,8:28,Felix P.FOUL (P1.T1),,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,200,8,0,2,7:56 PM,8:28,SUB: Waiters FOR Felix,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,201,8,0,2,7:56 PM,8:28,SUB: Thompson FOR Sims,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,202,1,1,2,7:56 PM,8:11,,,Ilyasova 20' Jump Shot (6 PTS) (Butler 1 AST),24 - 36,12,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,204,1,1,2,7:56 PM,7:55,Thompson 7' Jump Shot (10 PTS) (Jack 3 AST),,,24 - 38,14,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,205,5,1,2,7:56 PM,7:46,Miles STEAL (2 STL),,Sanders Bad Pass Turnover (P1.T9),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,206,2,5,2,7:56 PM,7:40,MISS Miles 3' Layup,,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,207,4,0,2,7:56 PM,7:39,Jack REBOUND (Off:1 Def:1),,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,208,1,5,2,7:57 PM,7:39,Bennett 1' Layup (3 PTS) (Jack 4 AST),,,24 - 40,16,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,209,9,1,2,7:57 PM,7:39,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,212,8,0,2,8:00 PM,7:39,,,SUB: Graham FOR Ilyasova,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,213,5,1,2,8:00 PM,7:26,,,Knight Bad Pass Turnover (P1.T10),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,214,1,1,2,8:00 PM,7:12,Miles 26' 3PT Jump Shot (10 PTS),,,24 - 43,19,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,215,9,2,2,8:01 PM,7:11,,,Bucks Timeout: Short (Reg.2 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,218,2,1,2,8:02 PM,6:53,,,MISS Butler 10' Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,219,4,0,2,8:02 PM,6:52,Waiters REBOUND (Off:0 Def:2),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,220,2,42,2,8:02 PM,6:39,MISS Waiters  Driving Layup,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,222,4,0,2,8:02 PM,6:37,Thompson REBOUND (Off:3 Def:0),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,221,2,4,2,8:02 PM,6:37,MISS Thompson 1' Tip Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,223,4,0,2,8:02 PM,6:36,,,Knight REBOUND (Off:1 Def:1),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,224,6,29,2,8:02 PM,6:36,Jack Shooting Block Foul (P1.T2),,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,225,3,11,2,8:02 PM,6:36,,,Knight Free Throw 1 of 2 (1 PTS),25 - 43,18,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,227,3,12,2,8:02 PM,6:36,,,MISS Knight Free Throw 2 of 2,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,229,4,0,2,8:03 PM,6:33,Bennett REBOUND (Off:0 Def:2),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,230,5,1,2,8:03 PM,6:20,Bennett Bad Pass Turnover (P2.T5),,Knight STEAL (2 STL),,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,231,1,5,2,8:03 PM,6:17,,,Knight  Layup (3 PTS),27 - 43,16,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,232,6,2,2,8:03 PM,6:17,Jack S.FOUL (P2.T3),,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,233,8,0,2,8:03 PM,6:17,SUB: Varejao FOR Jack,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,234,8,0,2,8:03 PM,6:17,SUB: Irving FOR Bennett,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,235,8,0,2,8:03 PM,6:17,SUB: Clark FOR Miles,,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,236,3,10,2,8:03 PM,6:17,,,Knight Free Throw 1 of 1 (4 PTS),28 - 43,15,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,238,1,42,2,8:04 PM,5:59,Irving 1' Driving Layup (9 PTS),,,28 - 45,17,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,240,2,1,2,8:04 PM,5:52,,,MISS Mayo 14' Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,241,4,0,2,8:04 PM,5:52,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,242,6,3,2,8:04 PM,5:52,,,Graham L.B.FOUL (P1.T4),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,244,2,1,2,8:04 PM,5:37,MISS Waiters 13' Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,245,4,0,2,8:04 PM,5:36,,,Butler REBOUND (Off:0 Def:1),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,246,2,1,2,8:04 PM,5:31,Irving BLOCK (1 BLK),,MISS Graham 5' Jump Shot,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300016,248,4,0,2,8:05 PM,5:28,,,Graham REBOUND (Off:1 Def:0),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,249,2,5,2,8:05 PM,5:26,Varejao BLOCK (1 BLK),,MISS Graham 2' Layup,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300016,250,4,0,2,8:05 PM,5:24,,,Graham REBOUND (Off:2 Def:0),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,251,2,1,2,8:05 PM,5:21,,,MISS Knight 25' 3PT Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,252,4,0,2,8:05 PM,5:20,Clark REBOUND (Off:0 Def:3),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,254,5,1,2,8:05 PM,5:09,Clark Bad Pass Turnover (P2.T6),,Butler STEAL (2 STL),,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,256,5,39,2,8:05 PM,5:09,,,Butler Step Out of Bounds Turnover (P4.T11),,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,257,8,0,2,8:05 PM,5:09,SUB: Felix FOR Waiters,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,258,5,2,2,8:05 PM,5:04,Thompson Lost Ball Turnover (P1.T7),,Knight STEAL (3 STL),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,259,6,2,2,8:06 PM,4:59,Clark S.FOUL (P2.T4),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,260,3,11,2,8:06 PM,4:59,,,MISS Sanders Free Throw 1 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,261,4,1,2,8:06 PM,4:59,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,262,8,0,2,8:06 PM,4:59,SUB: Waiters FOR Felix,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,266,7,3,2,8:06 PM,4:59,Waiters Violation:Lane,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,268,3,12,2,8:07 PM,4:59,,,Sanders Free Throw 2 of 2 (5 PTS),29 - 45,16,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,270,2,1,2,8:07 PM,4:41,MISS Varejao 11' Jump Shot,,Sanders BLOCK (3 BLK),,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,271,4,0,2,8:07 PM,4:39,,,Knight REBOUND (Off:1 Def:2),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,272,6,2,2,8:07 PM,4:38,Clark S.FOUL (P3.PN),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,274,3,11,2,8:08 PM,4:38,,,Sanders Free Throw 1 of 2 (6 PTS),30 - 45,15,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,276,3,12,2,8:08 PM,4:38,,,MISS Sanders Free Throw 2 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,278,4,0,2,8:08 PM,4:37,Thompson REBOUND (Off:3 Def:1),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,280,1,44,2,8:08 PM,4:26,Varejao 2' Reverse Layup (4 PTS) (Waiters 1 AST),,,30 - 47,17,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,282,8,0,2,8:09 PM,4:14,,,SUB: Henson FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,283,5,41,2,8:09 PM,4:10,,,Mayo Poss Lost Ball Turnover (P1.T12),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,284,1,1,2,8:09 PM,4:00,Clark 25' 3PT Jump Shot (3 PTS) (Irving 2 AST),,,30 - 50,20,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,285,6,1,2,8:10 PM,3:48,Clark P.FOUL (P4.PN),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,287,3,11,2,8:10 PM,3:48,,,Butler Free Throw 1 of 2 (1 PTS),31 - 50,19,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,289,8,0,2,8:10 PM,3:48,,,SUB: Neal FOR Mayo,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,290,3,12,2,8:11 PM,3:48,,,Butler Free Throw 2 of 2 (2 PTS),32 - 50,18,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,293,5,1,2,8:11 PM,3:39,Waiters Bad Pass Turnover (P1.T8),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,294,8,0,2,8:11 PM,3:39,,,SUB: Ridnour FOR Knight,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,295,8,0,2,8:11 PM,3:39,,,SUB: Antetokounmpo FOR Graham,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,296,2,1,2,8:12 PM,3:16,,,MISS Antetokounmpo  3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,297,4,0,2,8:12 PM,3:15,Varejao REBOUND (Off:1 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,298,2,1,2,8:12 PM,2:56,MISS Clark 18' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,299,4,0,2,8:12 PM,2:55,,,Ridnour REBOUND (Off:1 Def:3),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,300,1,80,2,8:12 PM,2:44,,,Antetokounmpo 14' Step Back Jump Shot (7 PTS),34 - 50,16,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,303,6,4,2,8:13 PM,2:23,Irving OFF.Foul (P2),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,304,5,5,2,8:13 PM,2:23,Irving Foul Turnover (P2.T9),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,305,2,1,2,8:13 PM,2:02,,,MISS Butler 21' Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,306,4,0,2,8:13 PM,2:01,Thompson REBOUND (Off:3 Def:2),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,307,5,39,2,8:14 PM,1:47,Irving Step Out of Bounds Turnover (P3.T10),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,308,2,1,2,8:14 PM,1:33,,,MISS Butler 19' Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,309,4,0,2,8:14 PM,1:32,Thompson REBOUND (Off:3 Def:3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,310,2,1,2,8:14 PM,1:20,MISS Clark 24' 3PT Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,312,4,0,2,8:14 PM,1:18,Varejao REBOUND (Off:2 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,311,2,4,2,8:14 PM,1:18,MISS Varejao 2' Tip Shot,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,313,4,0,2,8:14 PM,1:15,Varejao REBOUND (Off:3 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,314,2,1,2,8:14 PM,1:11,MISS Irving 24' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,315,4,0,2,8:14 PM,1:10,,,Ridnour REBOUND (Off:1 Def:4),,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,316,1,65,2,8:15 PM,1:02,,,Henson 7' Jump Hook Shot (4 PTS),36 - 50,14,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,318,2,1,2,8:15 PM,0:40,MISS Clark 21' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,319,4,0,2,8:15 PM,0:39,Thompson REBOUND (Off:4 Def:3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,320,1,49,2,8:15 PM,0:23,Waiters 1' Driving Dunk (6 PTS),,,36 - 52,16,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,321,6,1,2,8:16 PM,0:03,Varejao P.FOUL (P1.PN),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,322,3,11,2,8:17 PM,0:03,,,Ridnour Free Throw 1 of 2 (1 PTS),37 - 52,15,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,324,8,0,2,8:17 PM,0:03,,,SUB: Graham FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,325,3,12,2,8:17 PM,0:03,,,Ridnour Free Throw 2 of 2 (2 PTS),38 - 52,14,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,327,2,1,2,8:18 PM,0:00,MISS Waiters 35' 3PT Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,328,4,0,2,8:18 PM,0:00,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,330,13,0,2,8:18 PM,0:00,,End of 2nd Period (8:18 PM EST),,38 - 52,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,334,12,0,3,8:34 PM,12:00,,Start of 3rd Period (8:34 PM EST),,38 - 52,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,335,1,1,3,8:35 PM,11:41,Waiters 25' 3PT Jump Shot (9 PTS) (Thompson 2 AST),,,38 - 55,17,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,336,1,5,3,8:35 PM,11:20,,,Mayo 1' Layup (4 PTS) (Henson 1 AST),40 - 55,15,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,337,7,1,3,8:35 PM,11:19,,,Bucks Violation: Delay of game Violation,,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300016,338,1,1,3,8:35 PM,11:01,Irving 24' 3PT Jump Shot (12 PTS) (Thompson 3 AST),,,40 - 58,18,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,339,2,46,3,8:36 PM,10:38,,,MISS Knight 9' Running Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,341,4,0,3,8:36 PM,10:35,,,Henson REBOUND (Off:2 Def:1),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,340,1,4,3,8:36 PM,10:35,,,Henson 1' Tip Shot (6 PTS),42 - 58,16,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,342,1,52,3,8:36 PM,10:24,Thompson 1' Alley Oop Dunk (12 PTS) (Irving 3 AST),,,42 - 60,18,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,343,1,1,3,8:36 PM,10:14,,,Mayo 25' 3PT Jump Shot (7 PTS) (Knight 2 AST),45 - 60,15,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,344,2,1,3,8:37 PM,9:55,MISS Irving 3' Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,345,4,0,3,8:37 PM,9:54,,,Mayo REBOUND (Off:0 Def:3),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,346,6,26,3,8:37 PM,9:51,,,Mayo Offensive Charge Foul (P1.T1),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,347,5,5,3,8:37 PM,9:51,,,Mayo Foul Turnover (P2.T13),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,348,6,2,3,8:37 PM,9:40,,,Henson S.FOUL (P1.T2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,349,3,11,3,8:37 PM,9:40,Thompson Free Throw 1 of 2 (13 PTS),,,45 - 61,16,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,351,3,12,3,8:38 PM,9:40,Thompson Free Throw 2 of 2 (14 PTS),,,45 - 62,17,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,353,2,1,3,8:38 PM,9:18,Thompson BLOCK (1 BLK),,MISS Henson 6' Jump Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300016,354,4,0,3,8:38 PM,9:14,Varejao REBOUND (Off:3 Def:4),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,355,2,1,3,8:39 PM,9:02,MISS Thompson 17' Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,356,4,0,3,8:39 PM,9:02,Varejao REBOUND (Off:4 Def:4),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,358,2,5,3,8:39 PM,8:54,MISS Waiters 1' Layup,,Henson BLOCK (2 BLK),,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,359,4,0,3,8:39 PM,8:51,Thompson REBOUND (Off:5 Def:3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,360,1,5,3,8:39 PM,8:50,Thompson 1' Layup (16 PTS),,,45 - 64,19,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,361,1,1,3,8:39 PM,8:34,,,Butler 20' Jump Shot (4 PTS) (Mayo 2 AST),47 - 64,17,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,362,9,2,3,8:40 PM,8:33,CAVALIERS Timeout: Short (Full 3 Short 2),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,370,6,2,3,8:41 PM,8:20,,,Mayo S.FOUL (P2.T3),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,371,3,11,3,8:42 PM,8:20,Waiters Free Throw 1 of 2 (10 PTS),,,47 - 65,18,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,373,3,12,3,8:42 PM,8:20,Waiters Free Throw 2 of 2 (11 PTS),,,47 - 66,19,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,376,6,1,3,8:42 PM,8:01,Miles P.FOUL (P2.T1),,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,379,2,1,3,8:43 PM,7:49,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,380,4,0,3,8:43 PM,7:47,,,Sanders REBOUND (Off:3 Def:0),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,381,2,1,3,8:43 PM,7:31,Irving BLOCK (2 BLK),,MISS Knight 8' Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300016,382,4,0,3,8:43 PM,7:31,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,384,2,1,3,8:43 PM,7:26,,,MISS Henson 21' Jump Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,385,4,0,3,8:43 PM,7:26,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,386,6,3,3,8:43 PM,7:26,,,Sanders L.B.FOUL (P2.T4),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,387,6,11,3,8:43 PM,7:26,,,Sanders T.FOUL (P2.T4),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,388,3,16,3,8:44 PM,7:26,Waiters Free Throw Technical (12 PTS),,,47 - 67,20,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,391,1,1,3,8:44 PM,7:18,Irving 17' Jump Shot (14 PTS) (Waiters 2 AST),,,47 - 69,22,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,394,2,1,3,8:45 PM,7:00,,,MISS Mayo 25' 3PT Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,395,4,0,3,8:45 PM,6:59,Varejao REBOUND (Off:4 Def:5),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,396,2,1,3,8:45 PM,6:49,MISS Miles 26' 3PT Jump Shot,,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,397,4,0,3,8:45 PM,6:48,,,Sanders REBOUND (Off:3 Def:1),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,398,2,1,3,8:45 PM,6:35,,,MISS Sanders 18' Jump Shot,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,399,4,0,3,8:45 PM,6:34,Varejao REBOUND (Off:4 Def:6),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,400,2,1,3,8:45 PM,6:27,MISS Waiters 22' Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,401,4,0,3,8:45 PM,6:26,,,Sanders REBOUND (Off:3 Def:2),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,402,5,1,3,8:45 PM,6:21,Waiters STEAL (1 STL),,Knight Bad Pass Turnover (P2.T14),,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,403,5,39,3,8:45 PM,6:21,Waiters Step Out of Bounds Turnover (P2.T11),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,404,9,1,3,8:46 PM,6:21,CAVALIERS Timeout: Regular (Full 4 Short 2),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,406,8,0,3,8:48 PM,6:21,,,SUB: Antetokounmpo FOR Butler,,,5,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,407,8,0,3,8:48 PM,6:21,,,SUB: Graham FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,409,1,5,3,8:48 PM,6:10,,,Graham  Layup (2 PTS) (Henson 2 AST),49 - 69,20,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,410,6,2,3,8:49 PM,5:53,,,Mayo S.FOUL (P3.PN),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,411,3,11,3,8:49 PM,5:53,MISS Thompson Free Throw 1 of 2,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,412,4,1,3,8:49 PM,5:53,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,413,8,0,3,8:49 PM,5:53,SUB: Bennett FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,414,8,0,3,8:49 PM,5:53,,,SUB: Neal FOR Mayo,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,415,3,12,3,8:49 PM,5:53,Thompson Free Throw 2 of 2 (17 PTS),,,49 - 70,21,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,417,2,65,3,8:50 PM,5:42,,,MISS Henson 1' Jump Hook Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,418,4,0,3,8:50 PM,5:38,Bennett REBOUND (Off:0 Def:3),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,419,2,1,3,8:50 PM,5:28,MISS Bennett 17' Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,420,4,0,3,8:50 PM,5:26,,,Henson REBOUND (Off:2 Def:2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,421,2,1,3,8:50 PM,5:20,,,MISS Knight 27' 3PT Jump Shot,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,422,4,0,3,8:50 PM,5:19,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,423,6,3,3,8:50 PM,5:19,Bennett L.B.FOUL (P1.T2),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,424,8,0,3,8:51 PM,5:19,,,SUB: Ridnour FOR Knight,,,5,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,425,2,1,3,8:51 PM,5:14,,,MISS Neal 21' Jump Shot,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,426,4,0,3,8:51 PM,5:13,Miles REBOUND (Off:0 Def:2),,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,427,5,1,3,8:51 PM,5:09,Irving Bad Pass Turnover (P4.T12),,Neal STEAL (1 STL),,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,428,6,1,3,8:51 PM,5:07,Waiters P.FOUL (P3.T3),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,429,8,0,3,8:51 PM,5:07,SUB: Jack FOR Waiters,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,431,2,46,3,8:52 PM,4:49,,,MISS Ridnour 11' Running Jump Shot,,,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,433,4,0,3,8:52 PM,4:47,,,Graham REBOUND (Off:3 Def:0),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,432,1,4,3,8:52 PM,4:47,,,Graham  Tip Shot (4 PTS),51 - 70,19,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,434,6,2,3,8:52 PM,4:38,,,Henson S.FOUL (P2.PN),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,435,3,11,3,8:52 PM,4:38,MISS Bennett Free Throw 1 of 2,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,436,4,1,3,8:52 PM,4:38,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,437,8,0,3,8:53 PM,4:38,,,SUB: Raduljica FOR Henson,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,438,3,12,3,8:53 PM,4:38,Bennett Free Throw 2 of 2 (4 PTS),,,51 - 71,20,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,440,2,1,3,8:53 PM,4:22,,,MISS Graham 17' Jump Shot,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,441,4,0,3,8:53 PM,4:21,Miles REBOUND (Off:0 Def:3),,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,442,5,1,3,8:53 PM,4:12,Irving Bad Pass Turnover (P5.T13),,Raduljica STEAL (1 STL),,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,443,6,29,3,8:53 PM,4:08,Miles Shooting Block Foul (P3.T4),,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,444,3,11,3,8:54 PM,4:08,,,MISS Antetokounmpo Free Throw 1 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,445,4,1,3,8:54 PM,4:08,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,446,8,0,3,8:54 PM,4:08,SUB: Kadji FOR Thompson,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,447,3,12,3,8:54 PM,4:08,,,Antetokounmpo Free Throw 2 of 2 (8 PTS),52 - 71,19,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,449,2,1,3,8:54 PM,3:56,MISS Irving 15' Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,450,4,0,3,8:54 PM,3:55,Bennett REBOUND (Off:1 Def:3),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,451,6,2,3,8:54 PM,3:55,,,Raduljica S.FOUL (P2.PN),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,452,3,11,3,8:55 PM,3:55,MISS Bennett Free Throw 1 of 2,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,453,4,1,3,8:55 PM,3:55,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,454,8,0,3,8:55 PM,3:55,SUB: Karasev FOR Irving,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,455,3,12,3,8:55 PM,3:55,MISS Bennett Free Throw 2 of 2,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,457,4,0,3,8:55 PM,3:55,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,458,5,4,3,8:56 PM,3:36,,,Antetokounmpo Traveling Turnover (P2.T15),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,459,5,1,3,8:56 PM,3:19,Jack Bad Pass Turnover (P2.T14),,Graham STEAL (1 STL),,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,462,6,2,3,8:57 PM,3:16,Kadji S.FOUL (P1.PN),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,463,3,11,3,8:57 PM,3:16,,,Graham Free Throw 1 of 2 (5 PTS),53 - 71,18,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,465,3,12,3,8:57 PM,3:16,,,Graham Free Throw 2 of 2 (6 PTS),54 - 71,17,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,467,1,7,3,8:57 PM,3:01,Kadji  Dunk (2 PTS) (Karasev 1 AST),,,54 - 73,19,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,468,5,1,3,8:58 PM,2:40,Karasev STEAL (1 STL),,Antetokounmpo Bad Pass Turnover (P3.T16),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,469,5,2,3,8:58 PM,2:37,Karasev Lost Ball Turnover (P1.T15),,Neal STEAL (2 STL),,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,470,1,1,3,8:58 PM,2:32,,,Ridnour 25' 3PT Jump Shot (5 PTS) (Neal 2 AST),57 - 73,16,5,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,471,6,2,3,8:58 PM,2:22,,,Antetokounmpo S.FOUL (P2.PN),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,472,9,1,3,8:58 PM,2:22,,,Bucks Timeout: Regular (Reg.3 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,476,3,11,3,9:01 PM,2:22,Miles Free Throw 1 of 2 (11 PTS),,,57 - 74,17,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,478,3,12,3,9:01 PM,2:22,Miles Free Throw 2 of 2 (12 PTS),,,57 - 75,18,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,481,2,1,3,9:02 PM,1:59,,,MISS Antetokounmpo 25' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,482,4,0,3,9:02 PM,1:58,Bennett REBOUND (Off:1 Def:4),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,485,8,0,3,9:02 PM,1:46,SUB: Clark FOR Miles,,,,,4,101139,CJ Miles,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,486,2,1,3,9:03 PM,1:32,MISS Karasev 26' 3PT Jump Shot,,,,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,487,4,0,3,9:03 PM,1:32,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,489,1,52,3,9:03 PM,1:13,Bennett  Alley Oop Dunk (6 PTS) (Karasev 2 AST),,,57 - 77,20,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,490,6,2,3,9:04 PM,0:57,Clark S.FOUL (P5.PN),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,491,3,11,3,9:04 PM,0:57,,,Graham Free Throw 1 of 2 (7 PTS),58 - 77,19,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,493,3,12,3,9:04 PM,0:57,,,Graham Free Throw 2 of 2 (8 PTS),59 - 77,18,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,496,6,2,3,9:04 PM,0:51,,,Graham S.FOUL (P2.PN),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,497,3,11,3,9:05 PM,0:51,Bennett Free Throw 1 of 2 (7 PTS),,,59 - 78,19,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,499,3,12,3,9:05 PM,0:51,MISS Bennett Free Throw 2 of 2,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,501,4,0,3,9:05 PM,0:49,,,Raduljica REBOUND (Off:0 Def:1),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,502,6,1,3,9:05 PM,0:38,Clark P.FOUL (P6.PN),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,503,8,0,3,9:06 PM,0:38,SUB: Felix FOR Clark,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,504,3,11,3,9:06 PM,0:38,,,MISS Antetokounmpo Free Throw 1 of 2,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,505,4,1,3,9:06 PM,0:38,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,508,7,3,3,9:06 PM,0:38,Kadji Violation:Lane,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,513,5,17,3,9:07 PM,0:38,,,Raduljica Lane Violation Turnover (P2.T17),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,515,2,5,3,9:07 PM,0:20,MISS Kadji 1' Layup,,Raduljica BLOCK (2 BLK),,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,516,4,0,3,9:07 PM,0:18,Kadji REBOUND (Off:1 Def:0),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,517,2,5,3,9:07 PM,0:16,MISS Kadji 1' Layup,,Antetokounmpo BLOCK (1 BLK),,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,519,4,0,3,9:07 PM,0:13,Kadji REBOUND (Off:2 Def:0),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,518,1,5,3,9:07 PM,0:13,Kadji 1' Layup (4 PTS),,,59 - 80,21,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,520,2,1,3,9:08 PM,0:00,,,MISS Graham 20' Jump Shot,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,521,4,0,3,9:08 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,522,13,0,3,9:08 PM,0:00,,End of 3rd Period (9:08 PM EST),,59 - 80,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,524,12,0,4,9:11 PM,12:00,,Start of 4th Period (9:11 PM EST),,59 - 80,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,525,6,2,4,9:11 PM,11:48,Karasev S.FOUL (P1.T1),,,,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,526,3,11,4,9:11 PM,11:48,,,MISS Raduljica Free Throw 1 of 2,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,527,4,1,4,9:11 PM,11:48,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,528,3,12,4,9:11 PM,11:48,,,MISS Raduljica Free Throw 2 of 2,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,530,4,0,4,9:11 PM,11:47,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,531,6,3,4,9:12 PM,11:47,,,Graham L.B.FOUL (P3.T1),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,533,5,1,4,9:12 PM,11:31,Jack Bad Pass Turnover (P3.T16),,Raduljica STEAL (2 STL),,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,534,6,1,4,9:12 PM,11:31,Jack P.FOUL (P3.T2),,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,535,1,65,4,9:13 PM,11:15,,,Raduljica 6' Jump Hook Shot (2 PTS),61 - 80,19,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,537,1,1,4,9:13 PM,11:01,Karasev 24' 3PT Jump Shot (3 PTS) (Jack 5 AST),,,61 - 83,22,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,538,2,47,4,9:13 PM,10:45,,,MISS Antetokounmpo 13' Turnaround Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,539,4,0,4,9:13 PM,10:42,Bennett REBOUND (Off:1 Def:5),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,540,5,1,4,9:13 PM,10:37,Jack Bad Pass Turnover (P4.T17),,Antetokounmpo STEAL (1 STL),,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,541,6,29,4,9:13 PM,10:34,Karasev Shooting Block Foul (P2.T3),,,,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,542,3,11,4,9:14 PM,10:34,,,Antetokounmpo Free Throw 1 of 2 (9 PTS),62 - 83,21,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,544,3,12,4,9:14 PM,10:34,,,Antetokounmpo Free Throw 2 of 2 (10 PTS),63 - 83,20,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,546,5,1,4,9:14 PM,10:23,Karasev Bad Pass Turnover (P2.T18),,Wolters STEAL (1 STL),,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,547,2,1,4,9:14 PM,10:16,,,MISS Wolters 20' Jump Shot,,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,548,4,0,4,9:15 PM,10:16,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,549,8,0,4,9:15 PM,10:16,SUB: Dellavedova FOR Jack,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,550,5,1,4,9:15 PM,10:11,Bennett Bad Pass Turnover (P3.T19),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,551,1,46,4,9:15 PM,9:53,,,Neal 6' Running Jump Shot (7 PTS) (Wolters 1 AST),65 - 83,18,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,552,9,1,4,9:15 PM,9:52,CAVALIERS Timeout: Regular (Full 5 Short 2),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,554,8,0,4,9:18 PM,9:52,,,SUB: Middleton FOR Neal,,,5,202390,Gary Neal,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,556,2,1,4,9:18 PM,9:35,MISS Bennett 14' Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,557,4,0,4,9:18 PM,9:33,,,Antetokounmpo REBOUND (Off:0 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,558,1,67,4,9:19 PM,9:20,,,Raduljica 9' Hook Bank Shot (4 PTS) (Antetokounmpo 2 AST),67 - 83,16,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,559,2,1,4,9:19 PM,9:03,MISS Felix 24' 3PT Jump Shot,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,560,4,0,4,9:19 PM,9:02,Bennett REBOUND (Off:2 Def:5),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,561,2,1,4,9:19 PM,9:00,MISS Bennett 10' Jump Shot,,Graham BLOCK (1 BLK),,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,562,4,0,4,9:19 PM,8:58,,,Graham REBOUND (Off:3 Def:1),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,563,5,39,4,9:19 PM,8:58,,,Antetokounmpo Step Out of Bounds Turnover (P4.T18),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,564,1,5,4,9:20 PM,8:45,Kadji 1' Layup (6 PTS) (Bennett 1 AST),,,67 - 85,18,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,565,2,47,4,9:20 PM,8:21,,,MISS Middleton 11' Turnaround Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,566,4,0,4,9:20 PM,8:19,Kadji REBOUND (Off:2 Def:1),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,567,2,1,4,9:20 PM,8:13,MISS Kadji 25' 3PT Jump Shot,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,568,4,0,4,9:20 PM,8:11,,,Antetokounmpo REBOUND (Off:0 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,569,9,2,4,9:20 PM,8:07,,,Bucks Timeout: Short (Reg.3 Short 2),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,572,2,1,4,9:22 PM,7:55,,,MISS Graham 19' Jump Shot,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,573,4,0,4,9:22 PM,7:54,,,Raduljica REBOUND (Off:1 Def:1),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,574,6,2,4,9:22 PM,7:54,Dellavedova S.FOUL (P1.T4),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,576,3,11,4,9:22 PM,7:54,,,MISS Raduljica Free Throw 1 of 2,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,577,4,1,4,9:22 PM,7:54,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,578,3,12,4,9:22 PM,7:54,,,MISS Raduljica Free Throw 2 of 2,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,580,4,0,4,9:22 PM,7:52,Bennett REBOUND (Off:2 Def:6),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,582,6,2,4,9:23 PM,7:48,,,Graham S.FOUL (P4.T2),,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,583,3,11,4,9:23 PM,7:48,MISS Felix Free Throw 1 of 2,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,584,4,1,4,9:23 PM,7:48,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,585,3,12,4,9:23 PM,7:48,MISS Felix Free Throw 2 of 2,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,587,4,0,4,9:23 PM,7:46,,,Raduljica REBOUND (Off:1 Def:2),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,588,2,1,4,9:24 PM,7:30,,,MISS Middleton 17' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,589,4,0,4,9:24 PM,7:28,,,Raduljica REBOUND (Off:2 Def:2),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,590,6,1,4,9:24 PM,7:26,Bennett P.FOUL (P2.PN),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,591,3,11,4,9:24 PM,7:26,,,Raduljica Free Throw 1 of 2 (5 PTS),68 - 85,17,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,593,3,12,4,9:24 PM,7:26,,,Raduljica Free Throw 2 of 2 (6 PTS),69 - 85,16,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,595,2,1,4,9:25 PM,7:15,MISS Bennett 25' 3PT Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,596,4,0,4,9:25 PM,7:13,,,Wolters REBOUND (Off:0 Def:1),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,597,5,6,4,9:25 PM,7:11,,,Wolters Double Dribble Turnover (P1.T19),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,598,6,2,4,9:25 PM,6:56,,,Raduljica S.FOUL (P3.T3),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,599,3,11,4,9:26 PM,6:56,MISS Kadji Free Throw 1 of 2,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,600,4,1,4,9:26 PM,6:56,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,601,3,12,4,9:26 PM,6:56,Kadji Free Throw 2 of 2 (7 PTS),,,69 - 86,17,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,603,6,4,4,9:26 PM,6:46,,,Antetokounmpo OFF.Foul (P3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,604,5,5,4,9:26 PM,6:46,,,Antetokounmpo Foul Turnover (P5.T20),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,605,2,1,4,9:27 PM,6:27,MISS Kadji 13' Jump Shot,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,606,4,0,4,9:27 PM,6:26,Bennett REBOUND (Off:3 Def:6),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,607,2,5,4,9:27 PM,6:24,MISS Bennett 2' Layup,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,609,4,0,4,9:27 PM,6:21,Bennett REBOUND (Off:4 Def:6),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,608,2,5,4,9:27 PM,6:21,MISS Bennett 1' Layup,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,610,4,0,4,9:27 PM,6:18,Kadji REBOUND (Off:3 Def:1),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,611,2,1,4,9:27 PM,6:11,MISS Karasev 19' Jump Shot,,,,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,612,4,0,4,9:27 PM,6:10,,,Middleton REBOUND (Off:0 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,613,5,2,4,9:27 PM,6:08,Kadji STEAL (1 STL),,Middleton Lost Ball Turnover (P1.T21),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,614,2,5,4,9:27 PM,6:04,MISS Kadji 3' Layup,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,616,4,0,4,9:27 PM,6:02,Kadji REBOUND (Off:4 Def:1),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,615,1,5,4,9:27 PM,6:02,Kadji  Layup (9 PTS),,,69 - 88,19,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,617,1,5,4,9:27 PM,5:52,,,Graham 1' Layup (10 PTS),71 - 88,17,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,618,6,2,4,9:27 PM,5:52,Bennett S.FOUL (P3.PN),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,619,9,4,4,9:28 PM,5:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,623,3,10,4,9:30 PM,5:52,,,Graham Free Throw 1 of 1 (11 PTS),72 - 88,16,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,625,6,1,4,9:30 PM,5:45,,,Raduljica P.FOUL (P4.T4),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,626,6,4,4,9:31 PM,5:43,Bennett OFF.Foul (P4),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,627,5,5,4,9:31 PM,5:43,Bennett Foul Turnover (P4.T20),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,629,2,1,4,9:31 PM,5:27,,,MISS Middleton 24' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,630,4,0,4,9:31 PM,5:26,Dellavedova REBOUND (Off:0 Def:1),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,631,5,1,4,9:31 PM,5:22,Dellavedova Bad Pass Turnover (P1.T21),,Middleton STEAL (1 STL),,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,632,5,2,4,9:31 PM,5:17,Felix STEAL (1 STL),,Middleton Lost Ball Turnover (P2.T22),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,634,7,2,4,9:32 PM,5:15,,,Graham Violation:Defensive Goaltending,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,633,1,1,4,9:32 PM,5:15,Kadji 21' Jump Shot (11 PTS),,,72 - 90,18,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,635,1,5,4,9:32 PM,4:58,,,Antetokounmpo 1' Layup (12 PTS) (Middleton 1 AST),74 - 90,16,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,636,6,2,4,9:32 PM,4:58,Bennett S.FOUL (P5.PN),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,637,3,10,4,9:32 PM,4:58,,,MISS Antetokounmpo Free Throw 1 of 1,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,639,4,0,4,9:32 PM,4:57,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,640,6,3,4,9:33 PM,4:57,,,Raduljica L.B.FOUL (P5.PN),,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,641,3,11,4,9:33 PM,4:57,Kadji Free Throw 1 of 2 (12 PTS),,,74 - 91,17,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,643,8,0,4,9:33 PM,4:57,,,SUB: Czyz FOR Raduljica,,,5,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,644,3,12,4,9:33 PM,4:57,Kadji Free Throw 2 of 2 (13 PTS),,,74 - 92,18,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,647,2,1,4,9:34 PM,4:44,,,MISS Middleton 10' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,648,4,0,4,9:34 PM,4:43,Dellavedova REBOUND (Off:0 Def:2),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,649,5,1,4,9:34 PM,4:37,Karasev Bad Pass Turnover (P3.T22),,Antetokounmpo STEAL (2 STL),,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,650,1,1,4,9:34 PM,4:30,,,Graham 12' Jump Shot (13 PTS),76 - 92,16,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,651,6,1,4,9:34 PM,4:21,,,Wolters P.FOUL (P1.PN),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,652,3,11,4,9:34 PM,4:21,Dellavedova Free Throw 1 of 2 (1 PTS),,,76 - 93,17,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,654,8,0,4,9:35 PM,4:21,SUB: Lee FOR Bennett,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,203588,Michael Lee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,655,3,12,4,9:35 PM,4:21,Dellavedova Free Throw 2 of 2 (2 PTS),,,76 - 94,18,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,658,5,2,4,9:35 PM,4:06,Felix STEAL (2 STL),,Middleton Lost Ball Turnover (P3.T23),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,659,1,5,4,9:35 PM,4:00,Kadji 3' Layup (15 PTS) (Felix 2 AST),,,76 - 96,20,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,660,1,42,4,9:36 PM,3:39,,,Czyz 2' Driving Layup (2 PTS),78 - 96,18,5,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,661,6,2,4,9:36 PM,3:39,Kadji S.FOUL (P2.PN),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,5,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,662,8,0,4,9:36 PM,3:39,SUB: Williams FOR Kadji,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,663,8,0,4,9:36 PM,3:39,SUB: Diop FOR Karasev,,,,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,4,2205,DeSagana Diop,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,664,8,0,4,9:36 PM,3:39,SUB: Taylor FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,665,3,10,4,9:36 PM,3:39,,,MISS Czyz Free Throw 1 of 1,,,5,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,667,4,0,4,9:36 PM,3:31,Diop REBOUND (Off:0 Def:1),,,,,4,2205,DeSagana Diop,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,669,2,1,4,9:36 PM,3:24,MISS Taylor 4' Jump Shot,,Antetokounmpo BLOCK (2 BLK),,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,670,4,0,4,9:36 PM,3:21,,,Czyz REBOUND (Off:0 Def:1),,,5,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,671,1,1,4,9:37 PM,3:16,,,Graham 17' Jump Shot (15 PTS) (Wolters 2 AST),80 - 96,16,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,672,5,1,4,9:37 PM,3:03,Taylor Bad Pass Turnover (P1.T23),,Middleton STEAL (2 STL),,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,674,2,5,4,9:37 PM,2:58,Felix BLOCK (1 BLK),,MISS Middleton 1' Layup,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300016,675,4,0,4,9:37 PM,2:58,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,677,9,1,4,9:37 PM,2:58,,,Bucks Timeout: Regular (Reg.4 Short 2),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,680,8,0,4,9:39 PM,2:58,,,SUB: McKinney Jones FOR Graham,,,5,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,681,2,1,4,9:40 PM,2:42,,,MISS Wolters 27' 3PT Jump Shot,,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,682,4,0,4,9:40 PM,2:41,Felix REBOUND (Off:0 Def:1),,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,683,5,4,4,9:40 PM,2:25,Diop Traveling Turnover (P1.T24),,,,,4,2205,DeSagana Diop,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,684,6,4,4,9:41 PM,2:09,,,McKinney Jones OFF.Foul (P1),,,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,685,5,5,4,9:41 PM,2:09,,,McKinney Jones Foul Turnover (P1.T24),,,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300016,686,8,0,4,9:41 PM,2:09,SUB: Karasev FOR Felix,,,,,4,203467,Carrick Felix,1610612739.0,Cleveland,Cavaliers,CLE,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300016,688,6,2,4,9:41 PM,1:54,,,Antetokounmpo S.FOUL (P4.PN),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,689,3,11,4,9:42 PM,1:54,Williams Free Throw 1 of 2 (1 PTS),,,80 - 97,17,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,691,3,12,4,9:42 PM,1:54,MISS Williams Free Throw 2 of 2,,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,693,4,0,4,9:42 PM,1:53,,,Wolters REBOUND (Off:0 Def:2),,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,694,6,2,4,9:42 PM,1:48,Diop S.FOUL (P1.PN),,,,,4,2205,DeSagana Diop,1610612739.0,Cleveland,Cavaliers,CLE,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,695,3,11,4,9:42 PM,1:48,,,MISS McKinney Jones Free Throw 1 of 2,,,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,696,4,1,4,9:42 PM,1:48,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,697,3,12,4,9:42 PM,1:48,,,McKinney Jones Free Throw 2 of 2 (1 PTS),81 - 97,16,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,699,5,1,4,9:43 PM,1:36,Williams Bad Pass Turnover (P1.T25),,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,701,6,2,4,9:43 PM,1:28,Lee S.FOUL (P1.PN),,,,,4,203588,Michael Lee,1610612739.0,Cleveland,Cavaliers,CLE,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,702,9,1,4,9:43 PM,1:28,CAVALIERS Timeout: Regular (Full 6 Short 2),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,706,3,11,4,9:45 PM,1:28,,,Wolters Free Throw 1 of 2 (1 PTS),82 - 97,15,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,708,3,12,4,9:45 PM,1:28,,,Wolters Free Throw 2 of 2 (2 PTS),83 - 97,14,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,711,2,1,4,9:46 PM,1:13,MISS Karasev 25' 3PT Jump Shot,,Antetokounmpo BLOCK (3 BLK),,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300016,712,4,0,4,9:46 PM,1:13,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300016,715,6,3,4,9:46 PM,1:13,Karasev L.B.FOUL (P3.PN),,,,,4,203508,Sergey Karasev,1610612739.0,Cleveland,Cavaliers,CLE,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300016,716,3,11,4,9:46 PM,1:13,,,Antetokounmpo Free Throw 1 of 2 (13 PTS),84 - 97,13,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,718,3,12,4,9:47 PM,1:13,,,Antetokounmpo Free Throw 2 of 2 (14 PTS),85 - 97,12,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,720,6,2,4,9:47 PM,0:59,,,Antetokounmpo S.FOUL (P5.PN),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300016,721,3,11,4,9:47 PM,0:59,Taylor Free Throw 1 of 2 (1 PTS),,,85 - 98,13,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,723,3,12,4,9:47 PM,0:59,Taylor Free Throw 2 of 2 (2 PTS),,,85 - 99,14,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,726,1,1,4,9:48 PM,0:45,,,McKinney Jones 18' Jump Shot (3 PTS) (Wolters 3 AST),87 - 99,12,5,203590,Trey McKinney-Jones,1610612749.0,Milwaukee,Bucks,MIL,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300016,728,5,6,4,9:48 PM,0:36,Williams Double Dribble Turnover (P2.T26),,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300016,729,2,71,4,9:49 PM,0:17,,,MISS Wolters 3' Finger Roll Layup,,,5,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300016,730,4,0,4,9:49 PM,0:15,Diop REBOUND (Off:0 Def:2),,,,,4,2205,DeSagana Diop,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300016,731,13,0,4,9:49 PM,0:00,,End of 4th Period (9:49 PM EST),,87 - 99,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

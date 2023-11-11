@@ -1,0 +1,487 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400039,0,12,0,1,8:05 PM,12:00,,Start of 1st Period (8:05 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,1,10,0,1,8:06 PM,12:00,Jump Ball Thompson vs. Lopez: Tip to Garnett,,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,2,1,1,1,8:06 PM,11:50,,,Garnett 18' Jump Shot (2 PTS) (D. Williams 1 AST),2 - 0,-2,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,3,6,1,1,8:06 PM,11:37,,,Lopez P.FOUL (P1.T1),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,4,1,1,1,8:07 PM,11:28,Collison 24' 3PT Jump Shot (3 PTS) (Cousins 1 AST),,,2 - 3,1,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,5,2,1,1,8:07 PM,11:06,,,MISS Bogdanovic 25' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,6,4,0,1,8:07 PM,11:05,Gay REBOUND (Off:0 Def:1),,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,7,2,1,1,8:07 PM,10:54,MISS Cousins 18' Jump Shot,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,8,4,0,1,8:07 PM,10:53,,,Johnson REBOUND (Off:0 Def:1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,9,1,3,1,8:07 PM,10:38,,,Lopez 11' Hook Shot (2 PTS),4 - 3,-1,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,10,6,1,1,8:08 PM,10:23,,,Garnett P.FOUL (P1.T2),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,11,2,1,1,8:08 PM,10:12,MISS Collison 21' Jump Shot,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,12,4,0,1,8:08 PM,10:11,,,Garnett REBOUND (Off:0 Def:1),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,13,2,5,1,8:08 PM,10:02,,,MISS D. Williams 2' Layup,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,14,4,0,1,8:08 PM,10:01,,,Lopez REBOUND (Off:1 Def:0),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,15,1,4,1,8:08 PM,10:00,,,Lopez 2' Tip Shot (4 PTS),6 - 3,-3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,16,2,1,1,8:09 PM,9:44,MISS Cousins 10' Jump Shot,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,17,4,0,1,8:09 PM,9:42,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,18,6,1,1,8:09 PM,9:36,Thompson P.FOUL (P1.T1),,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,19,1,63,1,8:09 PM,9:22,,,Johnson 10' Fadeaway Jumper (2 PTS),8 - 3,-5,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,20,1,42,1,8:09 PM,9:19,Collison 1' Driving Layup (5 PTS),,,8 - 5,-3,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,21,6,2,1,8:09 PM,9:13,Cousins S.FOUL (P1.T2),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,22,3,11,1,8:10 PM,9:13,,,Lopez Free Throw 1 of 2 (5 PTS),9 - 5,-4,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,24,3,12,1,8:10 PM,9:13,,,Lopez Free Throw 2 of 2 (6 PTS),10 - 5,-5,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,26,2,1,1,8:10 PM,8:56,MISS Gay 12' Jump Shot,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,27,4,0,1,8:10 PM,8:55,,,Garnett REBOUND (Off:0 Def:2),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,29,1,1,1,8:11 PM,8:45,,,Johnson 26' 3PT Jump Shot (5 PTS) (D. Williams 2 AST),13 - 5,-8,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,30,5,1,1,8:11 PM,8:30,Cousins Bad Pass Turnover (P1.T1),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,31,2,3,1,8:11 PM,8:11,,,MISS Lopez 6' Hook Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,32,4,0,1,8:12 PM,8:09,Cousins REBOUND (Off:0 Def:1),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,33,1,1,1,8:12 PM,7:54,McLemore 25' 3PT Jump Shot (3 PTS) (Collison 1 AST),,,13 - 8,-5,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,34,1,3,1,8:12 PM,7:45,,,Lopez 12' Hook Shot (8 PTS) (Johnson 1 AST),15 - 8,-7,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,35,2,63,1,8:12 PM,7:25,MISS Gay 11' Fadeaway Jumper,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,36,4,0,1,8:12 PM,7:24,,,Garnett REBOUND (Off:0 Def:3),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,37,2,1,1,8:12 PM,7:18,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,38,4,0,1,8:12 PM,7:17,Cousins REBOUND (Off:0 Def:2),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,39,2,1,1,8:13 PM,7:02,MISS Cousins 4' Jump Shot,,Lopez BLOCK (1 BLK),,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,40,4,0,1,8:13 PM,6:59,Thompson REBOUND (Off:1 Def:0),,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,41,1,7,1,8:13 PM,6:52,Gay  Dunk (2 PTS) (McLemore 1 AST),,,15 - 10,-5,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,42,9,1,1,8:13 PM,6:48,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,44,8,0,1,8:16 PM,6:48,,,SUB: Plumlee FOR Garnett,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,46,1,42,1,8:16 PM,6:37,,,Plumlee 2' Driving Layup (2 PTS),17 - 10,-7,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,47,6,2,1,8:16 PM,6:18,,,Plumlee S.FOUL (P1.T3),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,48,3,11,1,8:17 PM,6:18,Thompson Free Throw 1 of 2 (1 PTS),,,17 - 11,-6,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,50,3,12,1,8:17 PM,6:18,Thompson Free Throw 2 of 2 (2 PTS),,,17 - 12,-5,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,52,2,63,1,8:17 PM,5:55,,,MISS Lopez 14' Fadeaway Jumper,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,53,4,0,1,8:17 PM,5:52,Gay REBOUND (Off:0 Def:2),,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,55,5,15,1,8:18 PM,5:47,Cousins Offensive Goaltending Turnover (P2.T2),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400039,56,5,1,1,8:18 PM,5:41,Cousins STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,57,1,5,1,8:18 PM,5:38,Cousins 2' Layup (2 PTS),,,17 - 14,-3,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,58,6,1,1,8:18 PM,5:23,Cousins P.FOUL (P2.T3),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,59,8,0,1,8:19 PM,5:23,SUB: Evans FOR Cousins,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,60,2,1,1,8:19 PM,5:11,,,MISS Bogdanovic 20' Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,61,4,0,1,8:19 PM,5:10,Gay REBOUND (Off:0 Def:3),,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,62,2,1,1,8:19 PM,5:00,MISS Collison 17' Jump Shot,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,63,4,0,1,8:19 PM,4:59,,,Lopez REBOUND (Off:1 Def:1),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,64,5,2,1,8:19 PM,4:39,Gay STEAL (1 STL),,Bogdanovic Lost Ball Turnover (P1.T2),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,65,6,2,1,8:20 PM,4:30,,,Bogdanovic S.FOUL (P1.T4),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,66,3,11,1,8:20 PM,4:30,Gay Free Throw 1 of 2 (3 PTS),,,17 - 15,-2,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,68,8,0,1,8:20 PM,4:30,,,SUB: Kirilenko FOR Johnson,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,69,3,12,1,8:20 PM,4:30,Gay Free Throw 2 of 2 (4 PTS),,,17 - 16,-1,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,72,8,0,1,8:21 PM,4:20,SUB: Casspi FOR Gay,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,73,1,84,1,8:21 PM,4:15,,,D. Williams 10' Running Bank Shot (2 PTS),19 - 16,-3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,75,8,0,1,8:21 PM,4:02,,,SUB: Jack FOR D. Williams,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,76,5,1,1,8:22 PM,3:53,Casspi Bad Pass Turnover (P1.T3),,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,77,6,1,1,8:22 PM,3:44,Thompson P.FOUL (P2.T4),,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,78,8,0,1,8:22 PM,3:44,SUB: Landry FOR Thompson,,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,79,2,1,1,8:23 PM,3:43,,,MISS Lopez 19' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,80,4,0,1,8:23 PM,3:42,Casspi REBOUND (Off:0 Def:1),,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,81,1,5,1,8:23 PM,3:29,Casspi 2' Layup (2 PTS) (Collison 2 AST),,,19 - 18,-1,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,82,2,1,1,8:23 PM,3:19,,,MISS Lopez 8' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,83,4,0,1,8:23 PM,3:18,Evans REBOUND (Off:0 Def:1),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,84,2,1,1,8:23 PM,3:09,MISS Collison 17' Jump Shot,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,85,4,0,1,8:23 PM,3:08,,,Kirilenko REBOUND (Off:0 Def:1),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,86,6,17,1,8:24 PM,2:51,KINGS T.Foul (Def. 3 Sec Collison ),,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400039,87,9,1,1,8:24 PM,2:51,KINGS Timeout: Regular (Full 1 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,91,8,0,1,8:26 PM,2:51,SUB: Sessions FOR Collison,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,92,3,16,1,8:26 PM,2:51,,,Jack Free Throw Technical (1 PTS),20 - 18,-2,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,94,1,5,1,8:26 PM,2:45,,,Lopez 1' Layup (10 PTS) (Jack 1 AST),22 - 18,-4,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,95,6,2,1,8:27 PM,2:28,,,Plumlee S.FOUL (P2.PN),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,96,3,11,1,8:27 PM,2:28,Landry Free Throw 1 of 2 (1 PTS),,,22 - 19,-3,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,98,8,0,1,8:27 PM,2:28,SUB: Stauskas FOR McLemore,,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,99,8,0,1,8:28 PM,2:28,,,SUB: Teletovic FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,100,3,12,1,8:28 PM,2:28,Landry Free Throw 2 of 2 (2 PTS),,,22 - 20,-2,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,102,2,1,1,8:28 PM,2:15,,,MISS Jack 14' Jump Shot,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,103,4,0,1,8:28 PM,2:14,Casspi REBOUND (Off:0 Def:2),,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,104,2,1,1,8:28 PM,2:02,MISS Stauskas 25' 3PT Jump Shot,,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,105,4,0,1,8:28 PM,2:01,,,Kirilenko REBOUND (Off:0 Def:2),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,106,1,1,1,8:28 PM,1:57,,,Jack 11' Jump Shot (3 PTS),24 - 20,-4,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,107,2,1,1,8:29 PM,1:35,MISS Sessions 25' 3PT Jump Shot,,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,108,4,0,1,8:29 PM,1:33,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,109,6,3,1,8:29 PM,1:33,Evans L.B.FOUL (P1.PN),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,110,3,11,1,8:29 PM,1:33,,,MISS Lopez Free Throw 1 of 2,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,111,4,1,1,8:29 PM,1:33,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,112,3,12,1,8:29 PM,1:33,,,Lopez Free Throw 2 of 2 (11 PTS),25 - 20,-5,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,114,2,1,1,8:30 PM,1:20,MISS Casspi 8' Jump Shot,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,115,4,0,1,8:30 PM,1:19,,,Kirilenko REBOUND (Off:0 Def:3),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,116,1,5,1,8:30 PM,1:13,,,Bogdanovic 2' Layup (2 PTS) (Jack 2 AST),27 - 20,-7,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,117,9,1,1,8:30 PM,1:11,KINGS Timeout: Regular (Full 2 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,118,1,42,1,8:33 PM,0:49,Sessions 3' Driving Layup (2 PTS),,,27 - 22,-5,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,119,5,1,1,8:33 PM,0:42,,,Jack Bad Pass Turnover (P1.T3),,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,120,5,41,1,8:33 PM,0:31,Sessions Poss Lost Ball Turnover (P1.T4),,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,121,1,1,1,8:33 PM,0:18,,,Jack 21' Jump Shot (5 PTS),29 - 22,-7,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,122,1,42,1,8:34 PM,0:03,Sessions 4' Driving Layup (4 PTS),,,29 - 24,-5,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,123,6,2,1,8:34 PM,0:03,,,Lopez S.FOUL (P2.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,124,3,10,1,8:34 PM,0:03,Sessions Free Throw 1 of 1 (5 PTS),,,29 - 25,-4,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,126,2,1,1,8:34 PM,0:00,,,MISS Jack 47' 3PT Jump Shot,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,127,4,0,1,8:34 PM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,128,13,0,1,8:35 PM,0:00,,End of 1st Period (8:35 PM EST),,29 - 25,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,130,12,0,2,8:37 PM,12:00,,Start of 2nd Period (8:37 PM EST),,29 - 25,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,131,2,1,2,8:37 PM,11:48,MISS Landry 13' Jump Shot,,,,,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,132,4,0,2,8:37 PM,11:47,Evans REBOUND (Off:1 Def:1),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,133,1,72,2,8:37 PM,11:46,Evans 3' Putback Layup (2 PTS),,,29 - 27,-2,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,134,6,1,2,8:38 PM,11:32,Landry P.FOUL (P1.T1),,,,,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,136,5,2,2,8:38 PM,11:24,Evans STEAL (1 STL),,Plumlee Lost Ball Turnover (P1.T4),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,137,5,1,2,8:38 PM,11:20,Casspi Bad Pass Turnover (P2.T5),,Kirilenko STEAL (1 STL),,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,138,6,2,2,8:39 PM,11:05,Stauskas S.FOUL (P1.T2),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,139,3,11,2,8:39 PM,11:05,,,Kirilenko Free Throw 1 of 2 (1 PTS),30 - 27,-3,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,141,3,12,2,8:39 PM,11:05,,,MISS Kirilenko Free Throw 2 of 2,,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,143,4,0,2,8:39 PM,11:04,Evans REBOUND (Off:1 Def:2),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,144,2,3,2,8:39 PM,10:43,MISS Landry 4' Hook Shot,,,,,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,145,4,0,2,8:39 PM,10:38,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,146,2,78,2,8:40 PM,10:34,MISS Sessions 4' Floating Jump Shot,,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,147,4,0,2,8:40 PM,10:33,,,Kirilenko REBOUND (Off:0 Def:4),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,148,1,3,2,8:40 PM,10:20,,,Plumlee 7' Hook Shot (4 PTS),32 - 27,-5,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,149,2,1,2,8:40 PM,9:54,MISS Casspi 25' 3PT Jump Shot,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,150,4,0,2,8:40 PM,9:54,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,151,6,3,2,8:41 PM,9:52,,,Plumlee L.B.FOUL (P3.T1),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,152,8,0,2,8:41 PM,9:52,,,SUB: Jordan FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,167,8,0,2,8:41 PM,9:52,SUB: Williams FOR Landry,,,,,4,201171,Carl Landry,1610612758.0,Sacramento,Kings,SAC,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,153,2,46,2,8:41 PM,9:42,MISS Casspi 3' Running Jump Shot,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,154,4,0,2,8:41 PM,9:41,,,Jordan REBOUND (Off:0 Def:1),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,155,1,42,2,8:41 PM,9:37,,,Teague 3' Driving Layup (2 PTS),34 - 27,-7,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,156,2,5,2,8:41 PM,9:13,MISS Evans 3' Layup,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,157,4,0,2,8:41 PM,9:12,,,Jack REBOUND (Off:0 Def:1),,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,158,2,1,2,8:42 PM,9:08,,,MISS Jack 22' Jump Shot,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,159,4,0,2,8:42 PM,9:07,Evans REBOUND (Off:1 Def:3),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,160,1,5,2,8:42 PM,8:56,Sessions 2' Layup (7 PTS),,,34 - 29,-5,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,161,2,63,2,8:42 PM,8:34,,,MISS Teletovic 8' Fadeaway Jumper,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,162,4,0,2,8:42 PM,8:33,Evans REBOUND (Off:1 Def:4),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,166,6,2,2,8:43 PM,8:22,,,Teletovic S.FOUL (P1.T2),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,165,9,4,2,8:43 PM,8:22,,,Nets Timeout: Official (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,171,3,11,2,8:45 PM,8:22,MISS Williams Free Throw 1 of 2,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,172,4,1,2,8:45 PM,8:22,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,173,3,12,2,8:45 PM,8:22,MISS Williams Free Throw 2 of 2,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,175,4,0,2,8:45 PM,8:22,,,Kirilenko REBOUND (Off:0 Def:5),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,176,2,1,2,8:46 PM,8:08,,,MISS Teletovic 26' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,177,4,0,2,8:46 PM,8:07,Sessions REBOUND (Off:0 Def:1),,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,178,1,1,2,8:46 PM,7:49,Sessions 24' 3PT Jump Shot (10 PTS) (Evans 1 AST),,,34 - 32,-2,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,179,1,1,2,8:46 PM,7:35,,,Teletovic 26' 3PT Jump Shot (3 PTS) (Teague 1 AST),37 - 32,-5,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,180,2,1,2,8:46 PM,7:19,MISS Stauskas 25' 3PT Jump Shot,,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,181,4,0,2,8:46 PM,7:18,,,Teague REBOUND (Off:0 Def:1),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,182,6,2,2,8:47 PM,7:10,Evans S.FOUL (P2.T3),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,183,3,11,2,8:47 PM,7:10,,,Teague Free Throw 1 of 2 (3 PTS),38 - 32,-6,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,185,8,0,2,8:47 PM,7:10,,,SUB: Johnson FOR Kirilenko,,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,186,8,0,2,8:47 PM,7:10,SUB: Hollins FOR Evans,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,187,3,12,2,8:47 PM,7:10,,,Teague Free Throw 2 of 2 (4 PTS),39 - 32,-7,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,189,2,1,2,8:47 PM,6:56,MISS Stauskas 20' Jump Shot,,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,190,4,0,2,8:47 PM,6:55,,,Jordan REBOUND (Off:0 Def:2),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,191,1,1,2,8:48 PM,6:45,,,Johnson 24' 3PT Jump Shot (8 PTS) (Jack 3 AST),42 - 32,-10,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,192,9,1,2,8:48 PM,6:40,KINGS Timeout: Regular (Full 3 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,194,8,0,2,8:50 PM,6:40,SUB: Collison FOR Stauskas,,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,195,6,2,2,8:50 PM,6:29,,,Jordan S.FOUL (P1.T3),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,196,3,11,2,8:51 PM,6:29,Casspi Free Throw 1 of 2 (3 PTS),,,42 - 33,-9,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,198,3,12,2,8:51 PM,6:29,Casspi Free Throw 2 of 2 (4 PTS),,,42 - 34,-8,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,200,2,1,2,8:51 PM,6:17,,,MISS Teletovic 26' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,201,4,0,2,8:51 PM,6:15,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,202,2,1,2,8:52 PM,5:55,MISS Williams 25' 3PT Jump Shot,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,203,4,0,2,8:52 PM,5:54,,,Johnson REBOUND (Off:0 Def:2),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,204,1,1,2,8:52 PM,5:44,,,Teletovic 5' Jump Shot (5 PTS) (Teague 2 AST),44 - 34,-10,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,205,6,2,2,8:52 PM,5:44,Williams S.FOUL (P1.T4),,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,206,8,0,2,8:52 PM,5:44,,,SUB: D. Williams FOR Jack,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,207,8,0,2,8:52 PM,5:44,SUB: Gay FOR Casspi,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,208,3,10,2,8:52 PM,5:44,,,MISS Teletovic Free Throw 1 of 1,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,210,4,0,2,8:52 PM,5:43,Williams REBOUND (Off:0 Def:1),,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,211,1,5,2,8:53 PM,5:22,Williams 1' Layup (2 PTS) (Sessions 1 AST),,,44 - 36,-8,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,212,2,1,2,8:53 PM,4:57,Collison BLOCK (1 BLK),,MISS D. Williams 8' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0
+0011400039,213,4,0,2,8:53 PM,4:56,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,214,5,11,2,8:53 PM,4:56,,,Nets Turnover: Shot Clock (T#5),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400039,215,6,2,2,8:54 PM,4:49,,,D. Williams S.FOUL (P1.T4),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,216,3,11,2,8:54 PM,4:49,MISS Collison Free Throw 1 of 2,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,217,4,1,2,8:54 PM,4:49,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,218,3,12,2,8:54 PM,4:49,Collison Free Throw 2 of 2 (6 PTS),,,44 - 37,-7,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,220,1,5,2,8:54 PM,4:40,,,Jordan 1' Layup (2 PTS) (D. Williams 3 AST),46 - 37,-9,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,221,6,2,2,8:54 PM,4:40,Sessions S.FOUL (P1.PN),,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,222,8,0,2,8:55 PM,4:40,,,SUB: Brown FOR Teague,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,5,203900,Markel Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,223,3,10,2,8:55 PM,4:40,,,MISS Jordan Free Throw 1 of 1,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,225,4,0,2,8:55 PM,4:39,Hollins REBOUND (Off:0 Def:1),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,226,1,1,2,8:55 PM,4:20,Sessions 26' 3PT Jump Shot (13 PTS) (Collison 3 AST),,,46 - 40,-6,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,227,6,2,2,8:56 PM,4:05,Hollins S.FOUL (P1.PN),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,228,3,11,2,8:56 PM,4:05,,,Jordan Free Throw 1 of 2 (3 PTS),47 - 40,-7,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,230,8,0,2,8:56 PM,4:05,,,SUB: Karasev FOR Johnson,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,231,8,0,2,8:56 PM,4:05,SUB: McLemore FOR Williams,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,232,3,12,2,8:56 PM,4:05,,,MISS Jordan Free Throw 2 of 2,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,234,4,0,2,8:56 PM,4:03,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,235,6,2,2,8:57 PM,3:52,,,Jordan S.FOUL (P2.PN),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,236,3,11,2,8:57 PM,3:52,MISS Collison Free Throw 1 of 2,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,237,4,1,2,8:57 PM,3:52,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,238,3,12,2,8:57 PM,3:52,MISS Collison Free Throw 2 of 2,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,240,4,0,2,8:57 PM,3:51,,,Teletovic REBOUND (Off:0 Def:1),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,241,2,1,2,8:58 PM,3:32,,,MISS Teletovic 20' Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,242,4,0,2,8:58 PM,3:31,,,Jordan REBOUND (Off:1 Def:2),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,243,2,1,2,8:58 PM,3:30,,,MISS Jordan 4' Jump Shot,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,244,4,0,2,8:58 PM,3:30,Hollins REBOUND (Off:0 Def:2),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,245,5,1,2,8:58 PM,3:25,Sessions Bad Pass Turnover (P2.T6),,Karasev STEAL (1 STL),,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,246,2,1,2,8:58 PM,3:21,,,MISS D. Williams 24' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,247,4,0,2,8:58 PM,3:20,Hollins REBOUND (Off:0 Def:3),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,248,5,1,2,8:58 PM,3:16,Hollins Bad Pass Turnover (P1.T7),,D. Williams STEAL (1 STL),,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,249,6,1,2,8:58 PM,3:14,Collison P.FOUL (P1.PN),,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,250,3,11,2,8:58 PM,3:14,,,D. Williams Free Throw 1 of 2 (3 PTS),48 - 40,-8,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,252,3,12,2,8:59 PM,3:14,,,D. Williams Free Throw 2 of 2 (4 PTS),49 - 40,-9,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,254,2,5,2,8:59 PM,3:06,MISS Gay 1' Layup,,Jordan BLOCK (1 BLK),,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,255,4,0,2,8:59 PM,3:04,McLemore REBOUND (Off:1 Def:0),,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,256,2,5,2,8:59 PM,2:55,MISS McLemore 3' Layup,,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,257,4,0,2,8:59 PM,2:54,Hollins REBOUND (Off:1 Def:3),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,258,1,72,2,8:59 PM,2:53,Hollins 1' Putback Layup (2 PTS),,,49 - 42,-7,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,259,2,47,2,8:59 PM,2:44,,,MISS D. Williams 23' Turnaround Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,260,4,0,2,8:59 PM,2:43,Hollins REBOUND (Off:1 Def:4),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,261,1,5,2,9:00 PM,2:38,Collison 2' Layup (8 PTS),,,49 - 44,-5,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,262,6,2,2,9:00 PM,2:38,,,D. Williams S.FOUL (P2.PN),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,263,9,1,2,9:00 PM,2:38,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,266,8,0,2,9:02 PM,2:38,,,SUB: Teague FOR D. Williams,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,268,3,10,2,9:02 PM,2:38,Collison Free Throw 1 of 1 (9 PTS),,,49 - 45,-4,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,269,5,1,2,9:02 PM,2:21,Sessions STEAL (1 STL),,Brown Bad Pass Turnover (P1.T6),,,5,203900,Markel Brown,1610612751.0,Brooklyn,Nets,BKN,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,270,1,5,2,9:03 PM,2:17,Collison 3' Layup (11 PTS),,,49 - 47,-2,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,271,2,5,2,9:03 PM,2:13,Hollins BLOCK (1 BLK),,MISS Teague 2' Layup,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0
+0011400039,272,4,0,2,9:03 PM,2:12,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,274,2,78,2,9:03 PM,2:09,,,MISS Teletovic 12' Floating Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,275,4,0,2,9:03 PM,2:08,,,Jordan REBOUND (Off:2 Def:2),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,276,1,72,2,9:03 PM,2:06,,,Jordan 2' Putback Layup (5 PTS),51 - 47,-4,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,277,2,5,2,9:04 PM,1:48,MISS Gay 2' Layup,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,278,4,0,2,9:04 PM,1:47,,,Teletovic REBOUND (Off:0 Def:2),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,279,5,1,2,9:04 PM,1:39,,,Teague Bad Pass Turnover (P1.T7),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,280,2,1,2,9:04 PM,1:26,MISS McLemore 25' 3PT Jump Shot,,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,281,4,0,2,9:04 PM,1:25,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,282,5,2,2,9:05 PM,1:10,Gay STEAL (2 STL),,Teletovic Lost Ball Turnover (P1.T8),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,283,2,5,2,9:05 PM,1:03,MISS Gay 1' Layup,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,284,4,0,2,9:05 PM,1:02,Hollins REBOUND (Off:2 Def:4),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,285,1,87,2,9:05 PM,0:59,Hollins  Putback Dunk (4 PTS),,,51 - 49,-2,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,286,6,2,2,9:05 PM,0:43,Collison S.FOUL (P2.PN),,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,287,3,11,2,9:06 PM,0:43,,,Teague Free Throw 1 of 2 (5 PTS),52 - 49,-3,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,289,3,12,2,9:06 PM,0:43,,,Teague Free Throw 2 of 2 (6 PTS),53 - 49,-4,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,291,1,7,2,9:06 PM,0:32,Hollins  Dunk (6 PTS) (Collison 4 AST),,,53 - 51,-2,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,292,1,1,2,9:06 PM,0:20,,,Karasev 21' Jump Shot (2 PTS) (Teletovic 1 AST),55 - 51,-4,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,293,2,1,2,9:07 PM,0:00,MISS Collison 9' Jump Shot,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,294,4,0,2,9:07 PM,0:00,,,Teague REBOUND (Off:0 Def:2),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,295,13,0,2,9:07 PM,0:00,,End of 2nd Period (9:07 PM EST),,55 - 51,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,297,12,0,3,9:24 PM,12:00,,Start of 3rd Period (9:24 PM EST),,55 - 51,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,298,1,5,3,9:25 PM,11:46,Collison 3' Layup (13 PTS) (Cousins 2 AST),,,55 - 53,-2,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,300,1,1,3,9:25 PM,11:24,,,Bogdanovic 14' Jump Shot (4 PTS),57 - 53,-4,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,301,1,1,3,9:25 PM,11:07,McLemore 14' Jump Shot (5 PTS) (Cousins 3 AST),,,57 - 55,-2,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,302,2,1,3,9:26 PM,10:55,,,MISS D. Williams 19' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,303,4,0,3,9:26 PM,10:54,Cousins REBOUND (Off:0 Def:3),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,305,7,2,3,9:26 PM,10:30,,,Garnett Violation:Defensive Goaltending,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400039,304,1,1,3,9:26 PM,10:30,Gay 10' Jump Shot (6 PTS),,,57 - 57,TIE,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,306,1,1,3,9:27 PM,10:14,,,Garnett 18' Jump Shot (4 PTS) (Johnson 2 AST),59 - 57,-2,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,307,1,77,3,9:27 PM,9:56,Gay 6' Driving Jump Shot (8 PTS),,,59 - 59,TIE,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,308,5,1,3,9:27 PM,9:37,McLemore STEAL (1 STL),,Johnson Bad Pass Turnover (P2.T9),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,309,6,1,3,9:27 PM,9:31,,,Johnson P.FOUL (P1.T1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,310,5,1,3,9:28 PM,9:18,Cousins Bad Pass Turnover (P3.T8),,D. Williams STEAL (2 STL),,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,311,6,1,3,9:28 PM,9:15,Cousins P.FOUL (P3.T1),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,312,5,1,3,9:28 PM,9:03,,,Garnett Bad Pass Turnover (P1.T10),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,313,2,46,3,9:29 PM,8:47,MISS Gay 6' Running Jump Shot,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,314,4,0,3,9:29 PM,8:46,,,Garnett REBOUND (Off:0 Def:4),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,315,5,2,3,9:29 PM,8:37,McLemore STEAL (2 STL),,Lopez Lost Ball Turnover (P1.T11),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,316,1,5,3,9:29 PM,8:33,Collison 2' Layup (15 PTS) (Cousins 4 AST),,,59 - 61,2,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,317,2,5,3,9:29 PM,8:14,Cousins BLOCK (1 BLK),,MISS Lopez 1' Layup,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0
+0011400039,318,4,0,3,9:30 PM,8:13,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,319,2,1,3,9:30 PM,8:09,,,MISS Johnson 25' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,320,4,0,3,9:30 PM,8:08,Collison REBOUND (Off:0 Def:1),,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,321,6,2,3,9:30 PM,7:57,,,Lopez S.FOUL (P3.T2),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,322,3,11,3,9:30 PM,7:57,Cousins Free Throw 1 of 2 (3 PTS),,,59 - 62,3,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,324,3,12,3,9:30 PM,7:57,MISS Cousins Free Throw 2 of 2,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,326,4,0,3,9:31 PM,7:56,,,Lopez REBOUND (Off:1 Def:2),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,327,1,42,3,9:31 PM,7:38,,,Lopez 3' Driving Layup (13 PTS),61 - 62,1,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,328,6,2,3,9:31 PM,7:38,McLemore S.FOUL (P1.T2),,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,329,3,10,3,9:31 PM,7:38,,,Lopez Free Throw 1 of 1 (14 PTS),62 - 62,TIE,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,331,1,3,3,9:32 PM,7:18,Cousins 5' Hook Shot (5 PTS) (Gay 1 AST),,,62 - 64,2,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,332,1,1,3,9:32 PM,7:01,,,Garnett 16' Jump Shot (6 PTS) (D. Williams 4 AST),64 - 64,TIE,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,333,2,77,3,9:32 PM,6:48,MISS McLemore 9' Driving Jump Shot,,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,334,4,0,3,9:32 PM,6:47,,,Lopez REBOUND (Off:1 Def:3),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,335,2,1,3,9:32 PM,6:40,,,MISS Garnett 19' Jump Shot,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,336,4,0,3,9:33 PM,6:39,Collison REBOUND (Off:0 Def:2),,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,337,6,2,3,9:33 PM,6:31,,,Lopez S.FOUL (P4.T3),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,338,3,11,3,9:33 PM,6:31,MISS Cousins Free Throw 1 of 2,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,339,4,1,3,9:33 PM,6:31,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,340,8,0,3,9:33 PM,6:31,,,SUB: Kirilenko FOR Garnett,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,341,8,0,3,9:34 PM,6:31,,,SUB: Plumlee FOR Lopez,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,342,3,12,3,9:34 PM,6:31,Cousins Free Throw 2 of 2 (6 PTS),,,64 - 65,1,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,344,5,1,3,9:34 PM,6:22,,,D. Williams Bad Pass Turnover (P1.T12),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,345,1,5,3,9:34 PM,6:06,Cousins 1' Layup (8 PTS),,,64 - 67,3,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,346,1,5,3,9:35 PM,5:50,,,Plumlee 1' Layup (6 PTS) (Kirilenko 1 AST),66 - 67,1,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,347,6,2,3,9:35 PM,5:35,,,Kirilenko S.FOUL (P1.T4),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,348,9,1,3,9:35 PM,5:35,KINGS Timeout: Regular (Full 4 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,350,3,11,3,9:37 PM,5:35,MISS Cousins Free Throw 1 of 2,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,351,4,1,3,9:37 PM,5:35,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,352,3,12,3,9:38 PM,5:35,Cousins Free Throw 2 of 2 (9 PTS),,,66 - 68,2,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,354,6,4,3,9:38 PM,5:28,,,Plumlee OFF.Foul (P4),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,355,5,5,3,9:38 PM,5:28,,,Plumlee Foul Turnover (P2.T13),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400039,356,6,2,3,9:39 PM,5:07,,,Bogdanovic S.FOUL (P2.PN),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,357,3,11,3,9:39 PM,5:07,McLemore Free Throw 1 of 2 (6 PTS),,,66 - 69,3,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,359,8,0,3,9:39 PM,5:07,,,SUB: Lopez FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,360,3,12,3,9:39 PM,5:07,McLemore Free Throw 2 of 2 (7 PTS),,,66 - 70,4,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,362,2,5,3,9:40 PM,4:55,,,MISS Lopez 2' Layup,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,571,4,0,3,9:40 PM,4:54,,,Kirilenko REBOUND (Off:1 Def:5),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,572,2,53,3,9:40 PM,4:53,,,MISS Kirilenko 1' Tip Shot,,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,363,4,0,3,9:40 PM,4:52,Thompson REBOUND (Off:1 Def:1),,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,364,6,1,3,9:40 PM,4:44,,,Johnson P.FOUL (P2.PN),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,365,3,11,3,9:40 PM,4:44,Gay Free Throw 1 of 2 (9 PTS),,,66 - 71,5,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,367,8,0,3,9:40 PM,4:44,,,SUB: Jack FOR Bogdanovic,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,368,6,11,3,9:41 PM,4:44,Cousins T.FOUL (P3.T2),,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400039,369,3,16,3,9:41 PM,4:44,,,MISS Johnson Free Throw Technical,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,370,4,1,3,9:41 PM,4:44,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,372,8,0,3,9:42 PM,4:44,SUB: Evans FOR Cousins,,,,,4,202326,DeMarcus Cousins,1610612758.0,Sacramento,Kings,SAC,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,373,3,12,3,9:42 PM,4:44,MISS Gay Free Throw 2 of 2,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,375,4,0,3,9:42 PM,4:43,,,Kirilenko REBOUND (Off:1 Def:6),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,376,6,2,3,9:42 PM,4:30,Thompson S.FOUL (P3.T3),,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,377,3,11,3,9:42 PM,4:30,,,Lopez Free Throw 1 of 2 (15 PTS),67 - 71,4,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,379,3,12,3,9:43 PM,4:30,,,Lopez Free Throw 2 of 2 (16 PTS),68 - 71,3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,381,5,2,3,9:43 PM,4:13,Gay Lost Ball Turnover (P1.T9),,Johnson STEAL (1 STL),,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,382,5,4,3,9:44 PM,3:57,,,Johnson Traveling Turnover (P3.T14),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400039,383,8,0,3,9:44 PM,3:57,SUB: Casspi FOR Thompson,,,,,4,201574,Jason Thompson,1610612758.0,Sacramento,Kings,SAC,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,385,2,5,3,9:44 PM,3:36,MISS McLemore 2' Layup,,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,386,4,0,3,9:44 PM,3:35,Evans REBOUND (Off:2 Def:4),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,387,1,4,3,9:45 PM,3:34,Evans 1' Tip Shot (4 PTS),,,68 - 73,5,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,388,1,5,3,9:45 PM,3:20,,,Kirilenko 2' Layup (3 PTS),70 - 73,3,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,389,2,1,3,9:45 PM,3:07,MISS Gay 13' Jump Shot,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,390,4,0,3,9:45 PM,3:06,,,Kirilenko REBOUND (Off:1 Def:7),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,391,1,1,3,9:45 PM,2:57,,,Jack 26' 3PT Jump Shot (8 PTS) (D. Williams 5 AST),73 - 73,TIE,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,392,9,1,3,9:45 PM,2:56,KINGS Timeout: Regular (Full 5 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,394,8,0,3,9:47 PM,2:56,,,SUB: Teletovic FOR Johnson,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,395,8,0,3,9:47 PM,2:56,,,SUB: Bogdanovic FOR D. Williams,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,396,8,0,3,9:47 PM,2:56,SUB: Sessions FOR Gay,,,,,4,200752,Rudy Gay,1610612758.0,Sacramento,Kings,SAC,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,397,8,0,3,9:47 PM,2:56,SUB: Williams FOR McLemore,,,,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,398,2,5,3,9:48 PM,2:37,MISS Evans 3' Layup,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,399,4,0,3,9:48 PM,2:36,,,Lopez REBOUND (Off:1 Def:4),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,400,2,1,3,9:48 PM,2:15,,,MISS Jack 24' Jump Shot,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,401,4,0,3,9:48 PM,2:14,Collison REBOUND (Off:0 Def:3),,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,402,2,1,3,9:48 PM,2:11,MISS Casspi 4' Jump Shot,,Jack BLOCK (1 BLK),,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,403,4,0,3,9:48 PM,2:09,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,404,2,1,3,9:49 PM,1:59,MISS Collison 17' Jump Shot,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,405,4,0,3,9:49 PM,1:58,,,Kirilenko REBOUND (Off:1 Def:8),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,406,1,47,3,9:49 PM,1:40,,,Bogdanovic 9' Turnaround Jump Shot (6 PTS),75 - 73,-2,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,407,6,2,3,9:49 PM,1:22,,,Teletovic S.FOUL (P2.PN),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,408,3,11,3,9:50 PM,1:22,Williams Free Throw 1 of 2 (3 PTS),,,75 - 74,-1,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,410,8,0,3,9:50 PM,1:22,SUB: Stauskas FOR Collison,,,,,4,201954,Darren Collison,1610612758.0,Sacramento,Kings,SAC,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,411,3,12,3,9:50 PM,1:22,MISS Williams Free Throw 2 of 2,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,413,4,0,3,9:50 PM,1:21,,,Lopez REBOUND (Off:1 Def:5),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,414,5,4,3,9:50 PM,1:05,,,Lopez Traveling Turnover (P2.T15),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400039,415,2,1,3,9:51 PM,0:44,MISS Sessions 19' Jump Shot,,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,416,4,0,3,9:51 PM,0:43,,,Teletovic REBOUND (Off:0 Def:3),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,417,2,1,3,9:51 PM,0:36,,,MISS Kirilenko 18' Jump Shot,,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,418,4,0,3,9:51 PM,0:35,,,Bogdanovic REBOUND (Off:1 Def:0),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,419,2,1,3,9:51 PM,0:21,,,MISS Bogdanovic 25' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,420,4,0,3,9:51 PM,0:20,Evans REBOUND (Off:2 Def:5),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,421,1,1,3,9:51 PM,0:03,Stauskas 20' Jump Shot (2 PTS) (Sessions 2 AST),,,75 - 76,1,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,422,2,1,3,9:52 PM,0:00,,,MISS Jack 54' 3PT Jump Shot,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,423,4,0,3,9:52 PM,0:00,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,424,13,0,3,9:52 PM,0:00,,End of 3rd Period (9:52 PM EST),,75 - 76,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,426,12,0,4,9:54 PM,12:00,,Start of 4th Period (9:54 PM EST),,75 - 76,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,427,1,5,4,9:55 PM,11:47,,,Lopez 2' Layup (18 PTS) (Johnson 3 AST),77 - 76,-1,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,428,2,5,4,9:55 PM,11:31,MISS Stauskas 3' Layup,,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,429,4,0,4,9:55 PM,11:30,,,Teletovic REBOUND (Off:0 Def:4),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,430,2,1,4,9:55 PM,11:19,,,MISS Lopez 8' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,431,4,0,4,9:55 PM,11:18,Evans REBOUND (Off:2 Def:6),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,432,1,77,4,9:55 PM,11:04,Casspi 9' Driving Jump Shot (6 PTS) (Sessions 3 AST),,,77 - 78,1,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,433,1,1,4,9:56 PM,10:44,,,D. Williams 26' 3PT Jump Shot (7 PTS) (Teletovic 2 AST),80 - 78,-2,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,434,1,77,4,9:56 PM,10:27,Williams 5' Driving Jump Shot (5 PTS) (Sessions 4 AST),,,80 - 80,TIE,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,435,5,1,4,9:56 PM,10:02,Evans STEAL (2 STL),,D. Williams Bad Pass Turnover (P2.T16),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,436,1,42,4,9:57 PM,9:57,Casspi  Driving Layup (8 PTS) (Evans 2 AST),,,80 - 82,2,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,437,1,1,4,9:57 PM,9:45,,,D. Williams 25' 3PT Jump Shot (10 PTS) (Johnson 4 AST),83 - 82,-1,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,438,6,2,4,9:57 PM,9:28,,,Teletovic S.FOUL (P3.T1),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,439,3,11,4,9:57 PM,9:28,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,440,4,1,4,9:57 PM,9:28,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,442,8,0,4,9:58 PM,9:28,,,SUB: Plumlee FOR Lopez,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,443,3,12,4,9:58 PM,9:28,MISS Evans Free Throw 2 of 2,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,445,4,0,4,9:58 PM,9:27,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,446,1,5,4,9:58 PM,9:13,,,Teletovic 2' Layup (7 PTS) (Bogdanovic 1 AST),85 - 82,-3,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,447,2,1,4,9:58 PM,8:59,MISS Williams 3' Jump Shot,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,448,4,0,4,9:58 PM,8:58,,,Teletovic REBOUND (Off:0 Def:5),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,449,2,1,4,9:59 PM,8:46,,,MISS D. Williams 20' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,450,4,0,4,9:59 PM,8:45,,,Plumlee REBOUND (Off:1 Def:1),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,451,2,5,4,9:59 PM,8:41,,,MISS Plumlee 2' Layup,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,452,4,0,4,9:59 PM,8:40,Evans REBOUND (Off:2 Def:7),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,453,6,1,4,9:59 PM,8:31,,,Plumlee P.FOUL (P5.T2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,454,9,4,4,9:59 PM,8:31,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,457,8,0,4,10:01 PM,8:31,,,SUB: Jordan FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,458,8,0,4,10:01 PM,8:31,,,SUB: Kirilenko FOR Teletovic,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,459,2,42,4,10:01 PM,8:18,MISS Casspi 2' Driving Layup,,Kirilenko BLOCK (1 BLK),,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,460,4,0,4,10:02 PM,8:17,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,461,2,1,4,10:02 PM,8:02,,,MISS Johnson 20' Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,462,4,0,4,10:02 PM,8:01,Sessions REBOUND (Off:0 Def:2),,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,463,1,63,4,10:02 PM,7:47,Sessions 18' Fadeaway Jumper (15 PTS),,,85 - 84,-1,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,464,1,63,4,10:02 PM,7:33,,,D. Williams 12' Fadeaway Jumper (12 PTS) (Bogdanovic 2 AST),87 - 84,-3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,465,2,5,4,10:03 PM,7:17,MISS Casspi 2' Layup,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,466,4,0,4,10:03 PM,7:16,Evans REBOUND (Off:3 Def:7),,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,467,6,2,4,10:03 PM,7:13,,,Kirilenko S.FOUL (P2.T3),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,468,3,11,4,10:03 PM,7:13,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,469,4,1,4,10:03 PM,7:13,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,470,3,12,4,10:03 PM,7:13,Evans Free Throw 2 of 2 (5 PTS),,,87 - 85,-2,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,472,2,5,4,10:04 PM,6:55,,,MISS Jordan 2' Layup,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,473,4,0,4,10:04 PM,6:54,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,474,2,1,4,10:04 PM,6:41,,,MISS D. Williams 26' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,475,4,0,4,10:04 PM,6:40,Stauskas REBOUND (Off:0 Def:1),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,476,5,4,4,10:04 PM,6:33,Stauskas Traveling Turnover (P1.T10),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,0
+0011400039,477,8,0,4,10:05 PM,6:33,,,SUB: Jack FOR Bogdanovic,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,478,1,1,4,10:05 PM,6:11,,,Jack 19' Jump Shot (10 PTS) (D. Williams 6 AST),89 - 85,-4,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,479,2,1,4,10:05 PM,5:51,MISS Williams 16' Jump Shot,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,480,4,0,4,10:05 PM,5:50,,,Jordan REBOUND (Off:2 Def:3),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,481,2,1,4,10:05 PM,5:43,,,MISS D. Williams 25' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,482,4,0,4,10:06 PM,5:42,Williams REBOUND (Off:0 Def:2),,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,483,6,2,4,10:06 PM,5:29,,,Jordan S.FOUL (P3.T4),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,484,9,1,4,10:06 PM,5:29,KINGS Timeout: Regular (Full 6 Short 0),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,486,8,0,4,10:08 PM,5:29,,,SUB: Teague FOR Johnson,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,487,8,0,4,10:08 PM,5:29,,,SUB: Teletovic FOR D. Williams,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,489,3,11,4,10:09 PM,5:29,Evans Free Throw 1 of 2 (6 PTS),,,89 - 86,-3,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,491,3,12,4,10:09 PM,5:29,Evans Free Throw 2 of 2 (7 PTS),,,89 - 87,-2,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,493,5,4,4,10:10 PM,5:12,,,Kirilenko Traveling Turnover (P1.T17),,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400039,494,8,0,4,10:10 PM,5:12,SUB: Hollins FOR Evans,,,,,4,2501,Reggie Evans,1610612758.0,Sacramento,Kings,SAC,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,495,2,1,4,10:10 PM,5:06,MISS Casspi 25' 3PT Jump Shot,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,496,4,0,4,10:10 PM,5:05,,,Jordan REBOUND (Off:2 Def:4),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,497,2,47,4,10:10 PM,4:46,,,MISS Jordan 13' Turnaround Jump Shot,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,498,4,0,4,10:11 PM,4:44,Casspi REBOUND (Off:0 Def:3),,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,499,6,1,4,10:11 PM,4:41,,,Jack P.FOUL (P1.PN),,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,0
+0011400039,500,3,11,4,10:11 PM,4:41,MISS Casspi Free Throw 1 of 2,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,501,4,1,4,10:11 PM,4:41,KINGS Rebound,,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,502,8,0,4,10:11 PM,4:41,,,SUB: Plumlee FOR Kirilenko,,,5,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,503,3,12,4,10:11 PM,4:41,Casspi Free Throw 2 of 2 (9 PTS),,,89 - 88,-1,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,505,2,3,4,10:12 PM,4:21,,,MISS Plumlee 8' Hook Shot,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,506,4,0,4,10:12 PM,4:20,,,Jordan REBOUND (Off:3 Def:4),,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,507,1,87,4,10:12 PM,4:18,,,Jordan  Putback Dunk (7 PTS),91 - 88,-3,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,508,6,2,4,10:12 PM,4:18,Casspi S.FOUL (P1.T1),,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,509,8,0,4,10:12 PM,4:18,SUB: Moreland FOR Casspi,,,,,4,201956,Omri Casspi,1610612758.0,Sacramento,Kings,SAC,4,203961,Eric Moreland,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,510,3,10,4,10:12 PM,4:18,,,MISS Jordan Free Throw 1 of 1,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,512,4,0,4,10:12 PM,4:17,Sessions REBOUND (Off:0 Def:3),,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,513,1,1,4,10:12 PM,4:03,Sessions 25' 3PT Jump Shot (18 PTS),,,91 - 91,TIE,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,514,2,1,4,10:13 PM,3:52,,,MISS Jack 20' Jump Shot,,,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,515,4,0,4,10:13 PM,3:51,Moreland REBOUND (Off:0 Def:1),,,,,4,203961,Eric Moreland,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,516,2,5,4,10:13 PM,3:39,MISS Sessions 3' Layup,,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,517,4,0,4,10:13 PM,3:38,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,518,6,3,4,10:13 PM,3:38,Moreland L.B.FOUL (P1.T2),,,,,4,203961,Eric Moreland,1610612758.0,Sacramento,Kings,SAC,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,519,6,2,4,10:13 PM,3:31,Stauskas S.FOUL (P2.T3),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,520,3,11,4,10:14 PM,3:31,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,521,4,1,4,10:14 PM,3:31,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,522,8,0,4,10:14 PM,3:31,,,SUB: Karasev FOR Jordan,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,523,3,12,4,10:14 PM,3:31,,,MISS Plumlee Free Throw 2 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,525,4,0,4,10:14 PM,3:30,Williams REBOUND (Off:0 Def:3),,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,526,2,63,4,10:14 PM,3:10,MISS Williams 14' Fadeaway Jumper,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,527,4,0,4,10:14 PM,3:09,,,Plumlee REBOUND (Off:1 Def:2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,528,2,1,4,10:14 PM,3:03,,,MISS Teletovic 25' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,529,4,0,4,10:15 PM,3:02,Stauskas REBOUND (Off:0 Def:2),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,530,1,3,4,10:15 PM,2:53,Hollins 7' Hook Shot (8 PTS),,,91 - 93,2,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,531,6,2,4,10:15 PM,2:39,Hollins S.FOUL (P2.T4),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,532,9,1,4,10:16 PM,2:39,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,534,3,11,4,10:17 PM,2:39,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,535,4,1,4,10:17 PM,2:39,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,536,3,12,4,10:18 PM,2:39,,,MISS Plumlee Free Throw 2 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,538,4,0,4,10:18 PM,2:38,Moreland REBOUND (Off:0 Def:2),,,,,4,203961,Eric Moreland,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,539,1,1,4,10:18 PM,2:23,Stauskas 18' Jump Shot (4 PTS) (Williams 1 AST),,,91 - 95,4,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,540,2,1,4,10:19 PM,2:01,,,MISS Karasev 24' 3PT Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,541,4,0,4,10:19 PM,2:00,Hollins REBOUND (Off:2 Def:5),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,542,5,1,4,10:19 PM,1:57,Hollins Bad Pass Turnover (P2.T11),,Teague STEAL (1 STL),,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,543,6,2,4,10:19 PM,1:54,Stauskas S.FOUL (P3.PN),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,544,3,11,4,10:19 PM,1:54,,,Teague Free Throw 1 of 2 (7 PTS),92 - 95,3,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,546,3,12,4,10:19 PM,1:54,,,Teague Free Throw 2 of 2 (8 PTS),93 - 95,2,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,548,2,5,4,10:20 PM,1:34,MISS Moreland 2' Layup,,Plumlee BLOCK (1 BLK),,,4,203961,Eric Moreland,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,549,4,0,4,10:20 PM,1:33,,,Teletovic REBOUND (Off:0 Def:6),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,550,6,1,4,10:20 PM,1:27,Stauskas P.FOUL (P4.PN),,,,,4,203917,Nik Stauskas,1610612758.0,Sacramento,Kings,SAC,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400039,551,3,11,4,10:20 PM,1:27,,,MISS Teague Free Throw 1 of 2,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,552,4,1,4,10:20 PM,1:27,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,553,3,12,4,10:20 PM,1:27,,,Teague Free Throw 2 of 2 (9 PTS),94 - 95,1,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,555,2,1,4,10:21 PM,1:08,MISS Sessions 26' 3PT Jump Shot,,,,,4,201196,Ramon Sessions,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,556,4,0,4,10:21 PM,1:07,,,Teletovic REBOUND (Off:0 Def:7),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,557,1,1,4,10:21 PM,0:56,,,Teletovic 25' 3PT Jump Shot (10 PTS) (Jack 4 AST),97 - 95,-2,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,101127,Jarrett Jack,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400039,558,9,2,4,10:21 PM,0:56,KINGS Timeout: Short (Full 6 Short 1),,,,,2,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,560,8,0,4,10:22 PM,0:56,SUB: McLemore FOR Moreland,,,,,4,203961,Eric Moreland,1610612758.0,Sacramento,Kings,SAC,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0011400039,561,2,1,4,10:23 PM,0:48,MISS Williams 22' Jump Shot,,,,,4,202682,Derrick Williams,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,562,4,0,4,10:23 PM,0:47,,,Karasev REBOUND (Off:0 Def:1),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,563,2,1,4,10:23 PM,0:25,Hollins BLOCK (2 BLK),,MISS Teletovic 6' Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0
+0011400039,564,4,0,4,10:23 PM,0:24,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,565,9,1,4,10:23 PM,0:24,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400039,566,2,1,4,10:25 PM,0:23,,,MISS Karasev 20' Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,567,4,0,4,10:25 PM,0:22,Hollins REBOUND (Off:2 Def:6),,,,,4,200797,Ryan Hollins,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0011400039,568,2,1,4,10:25 PM,0:01,MISS McLemore 7' Jump Shot,,Karasev BLOCK (1 BLK),,,4,203463,Ben McLemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0
+0011400039,569,4,0,4,10:25 PM,0:00,,,Teletovic REBOUND (Off:0 Def:8),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400039,570,13,0,4,10:26 PM,0:00,,End of 4th Period (10:26 PM EST),,97 - 95,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

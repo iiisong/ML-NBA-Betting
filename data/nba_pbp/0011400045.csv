@@ -1,0 +1,507 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400045,0,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,3,7,1,1,8:11 PM,12:00,ROCKETS Violation: Delay of game Violation,,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400045,1,10,0,1,8:11 PM,12:00,Jump Ball Dorsey vs. Plumlee: Tip to Beverley,,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0
+0011400045,2,2,1,1,8:12 PM,11:40,MISS Jones 13' Jump Shot,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,4,4,0,1,8:12 PM,11:38,Dorsey REBOUND (Off:1 Def:0),,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,5,6,1,1,8:12 PM,11:29,,,Mark Morris P.FOUL (P1.T1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,7,2,1,1,8:12 PM,11:21,MISS Jones 4' Jump Shot,,Plumlee BLOCK (1 BLK),,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0
+0011400045,8,4,0,1,8:12 PM,11:17,,,Mark Morris REBOUND (Off:0 Def:1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,9,1,5,1,8:12 PM,11:13,,,Dragic 2' Layup (2 PTS) (Mark Morris 1 AST),2 - 0,-2,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,10,2,1,1,8:13 PM,10:53,MISS Papanikolaou  3PT Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,11,4,0,1,8:13 PM,10:52,Ariza REBOUND (Off:1 Def:0),,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,12,5,1,1,8:13 PM,10:51,Ariza Bad Pass Turnover (P1.T1),,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,13,1,1,1,8:13 PM,10:32,,,Dragic 25' 3PT Jump Shot (5 PTS) (Bledsoe 1 AST),5 - 0,-5,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,14,1,3,1,8:13 PM,10:18,Jones 4' Hook Shot (2 PTS) (Beverley 1 AST),,,5 - 2,-3,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,15,5,4,1,8:14 PM,9:59,,,Mark Morris Traveling Turnover (P1.T1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,16,1,78,1,8:14 PM,9:48,Papanikolaou 8' Floating Jump Shot (2 PTS),,,5 - 4,-1,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,17,5,1,1,8:14 PM,9:40,Ariza STEAL (1 STL),,Plumlee Bad Pass Turnover (P1.T2),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,18,2,1,1,8:14 PM,9:34,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,19,4,0,1,8:14 PM,9:34,Ariza REBOUND (Off:2 Def:0),,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,20,6,1,1,8:15 PM,9:34,,,Dragic P.FOUL (P1.T2),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,21,2,1,1,8:15 PM,9:23,MISS Jones 25' 3PT Jump Shot,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,23,4,0,1,8:15 PM,9:19,,,Dragic REBOUND (Off:0 Def:1),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,24,2,1,1,8:15 PM,9:14,,,MISS Dragic 24' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,25,4,0,1,8:15 PM,9:10,,,Tucker REBOUND (Off:1 Def:0),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,26,2,63,1,8:15 PM,9:06,,,MISS Tucker 9' Fadeaway Jumper,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,27,4,0,1,8:15 PM,9:02,Jones REBOUND (Off:0 Def:1),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,28,2,1,1,8:15 PM,8:48,MISS Papanikolaou 26' 3PT Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,29,4,0,1,8:15 PM,8:46,,,Mark Morris REBOUND (Off:0 Def:2),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,30,2,43,1,8:16 PM,8:33,,,MISS Plumlee 2' Alley Oop Layup,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,31,4,0,1,8:16 PM,8:32,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,32,2,1,1,8:16 PM,8:25,MISS Papanikolaou  3PT Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,33,4,0,1,8:16 PM,8:23,Ariza REBOUND (Off:3 Def:0),,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,34,2,1,1,8:16 PM,8:18,MISS Ariza 26' 3PT Jump Shot,,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,35,4,0,1,8:16 PM,8:17,,,Mark Morris REBOUND (Off:0 Def:3),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,36,5,1,1,8:16 PM,8:12,Beverley STEAL (1 STL),,Bledsoe Bad Pass Turnover (P1.T3),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,37,2,1,1,8:16 PM,8:05,MISS Beverley  3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,38,4,0,1,8:16 PM,8:04,,,Bledsoe REBOUND (Off:0 Def:1),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,39,6,2,1,8:16 PM,8:01,Papanikolaou S.FOUL (P1.T1),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,40,3,11,1,8:17 PM,8:01,,,MISS Dragic Free Throw 1 of 2,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,41,4,1,1,8:17 PM,8:01,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,42,3,12,1,8:17 PM,8:01,,,MISS Dragic Free Throw 2 of 2,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,44,4,0,1,8:17 PM,8:01,Jones REBOUND (Off:0 Def:2),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,46,6,2,1,8:17 PM,7:37,,,Plumlee S.FOUL (P1.T3),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,47,3,11,1,8:18 PM,7:37,Ariza Free Throw 1 of 2 (1 PTS),,,5 - 5,TIE,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,80,7,6,1,8:18 PM,7:37,,,Tucker Violation:Double Lane,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,53,3,12,1,8:18 PM,7:37,Ariza Free Throw 2 of 2 (2 PTS),,,5 - 6,1,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,56,5,4,1,8:19 PM,7:20,,,Mark Morris Traveling Turnover (P2.T4),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,58,6,2,1,8:19 PM,7:01,,,Mark Morris S.FOUL (P2.T4),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,60,3,11,1,8:20 PM,7:01,Jones Free Throw 1 of 2 (3 PTS),,,5 - 7,2,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,62,3,12,1,8:20 PM,7:01,MISS Jones Free Throw 2 of 2,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,64,4,0,1,8:20 PM,6:58,,,Mark Morris REBOUND (Off:0 Def:4),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,67,6,2,1,8:20 PM,6:47,Jones S.FOUL (P1.T2),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,68,3,11,1,8:21 PM,6:47,,,Bledsoe Free Throw 1 of 2 (1 PTS),6 - 7,1,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,71,3,12,1,8:21 PM,6:47,,,MISS Bledsoe Free Throw 2 of 2,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,73,4,0,1,8:21 PM,6:47,Jones REBOUND (Off:0 Def:3),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,75,5,1,1,8:21 PM,6:27,Ariza Bad Pass Turnover (P2.T2),,Plumlee STEAL (1 STL),,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,76,5,1,1,8:21 PM,6:23,,,Bledsoe Bad Pass Turnover (P2.T5),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,77,1,42,1,8:22 PM,6:13,Papanikolaou 3' Driving Layup (4 PTS),,,6 - 9,3,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,79,1,1,1,8:22 PM,5:50,,,Bledsoe 6' Jump Shot (3 PTS),8 - 9,1,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,81,2,1,1,8:23 PM,5:26,MISS Papanikolaou 43' 3PT Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,82,4,0,1,8:23 PM,5:26,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,83,5,11,1,8:23 PM,5:26,ROCKETS Turnover: Shot Clock (T#3),,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400045,85,9,1,1,8:23 PM,5:26,ROCKETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,89,1,1,1,8:26 PM,5:10,,,Mark Morris 8' Jump Shot (2 PTS),10 - 9,-1,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,90,6,29,1,8:26 PM,5:10,Papanikolaou Shooting Block Foul (P2.T3),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,91,3,10,1,8:26 PM,5:10,,,Mark Morris Free Throw 1 of 1 (3 PTS),11 - 9,-2,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,93,6,2,1,8:26 PM,4:47,,,Mark Morris S.FOUL (P3.PN),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,94,3,11,1,8:27 PM,4:47,MISS Jones Free Throw 1 of 2,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,95,4,1,1,8:27 PM,4:47,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,96,8,0,1,8:27 PM,4:47,,,SUB: Tolliver FOR Mark Morris,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,97,3,12,1,8:27 PM,4:47,Jones Free Throw 2 of 2 (4 PTS),,,11 - 10,-1,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,99,2,1,1,8:28 PM,4:21,,,MISS Dragic 27' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,100,4,0,1,8:28 PM,4:20,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,101,8,0,1,8:28 PM,4:20,SUB: Adrien FOR Jones,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,102,8,0,1,8:28 PM,4:20,SUB: Smith FOR Dorsey,,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,103,8,0,1,8:28 PM,4:20,SUB: Motiejunas FOR Beverley,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,104,6,1,1,8:28 PM,4:16,Papanikolaou P.FOUL (P3.T4),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,105,1,42,1,8:29 PM,4:09,,,Bledsoe 2' Driving Layup (5 PTS),13 - 10,-3,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,107,2,1,1,8:29 PM,3:46,MISS Motiejunas 11' Jump Shot,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,108,4,0,1,8:29 PM,3:45,,,Dragic REBOUND (Off:0 Def:2),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,109,6,2,1,8:29 PM,3:43,Papanikolaou S.FOUL (P4.PN),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,110,3,11,1,8:30 PM,3:43,,,MISS Dragic Free Throw 1 of 2,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,111,4,1,1,8:30 PM,3:43,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,112,8,0,1,8:30 PM,3:43,,,SUB: Marc Morris FOR Tucker,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,113,8,0,1,8:30 PM,3:43,,,SUB: Randolph FOR Plumlee,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,114,8,0,1,8:30 PM,3:43,SUB: Johnson FOR Papanikolaou,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,115,8,0,1,8:30 PM,3:43,SUB: Garcia FOR Ariza,,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,117,3,12,1,8:30 PM,3:43,,,MISS Dragic Free Throw 2 of 2,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,120,4,0,1,8:30 PM,3:41,Smith REBOUND (Off:0 Def:1),,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,122,5,1,1,8:31 PM,3:27,Motiejunas Bad Pass Turnover (P1.T4),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,123,8,0,1,8:31 PM,3:27,,,SUB: Thomas FOR Dragic,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,124,5,4,1,8:31 PM,3:27,,,Tolliver Traveling Turnover (P1.T6),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,125,6,4,1,8:31 PM,3:26,Motiejunas OFF.Foul (P1),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,126,5,5,1,8:31 PM,3:26,Motiejunas Foul Turnover (P2.T5),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400045,127,6,2,1,8:32 PM,3:13,Smith S.FOUL (P1.PN),,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,128,3,11,1,8:32 PM,3:13,,,Thomas Free Throw 1 of 2 (1 PTS),14 - 10,-4,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,130,3,12,1,8:32 PM,3:13,,,Thomas Free Throw 2 of 2 (2 PTS),15 - 10,-5,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,132,1,1,1,8:33 PM,2:51,Motiejunas 4' Jump Shot (2 PTS) (Johnson 1 AST),,,15 - 12,-3,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,133,5,2,1,8:33 PM,2:38,Johnson STEAL (1 STL),,Randolph Lost Ball Turnover (P1.T7),,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,135,2,1,1,8:33 PM,2:28,MISS Johnson 11' Jump Shot,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,137,4,0,1,8:33 PM,2:26,Motiejunas REBOUND (Off:1 Def:0),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,138,1,1,1,8:33 PM,2:21,Motiejunas 5' Jump Shot (4 PTS),,,15 - 14,-1,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,140,6,1,1,8:33 PM,2:06,Johnson P.FOUL (P1.PN),,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,141,9,1,1,8:34 PM,2:06,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,145,3,11,1,8:36 PM,2:06,,,Thomas Free Throw 1 of 2 (3 PTS),16 - 14,-2,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,148,3,12,1,8:36 PM,2:06,,,Thomas Free Throw 2 of 2 (4 PTS),17 - 14,-3,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,151,2,1,1,8:37 PM,1:42,MISS Motiejunas 5' Jump Shot,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,152,4,0,1,8:37 PM,1:41,,,Randolph REBOUND (Off:0 Def:1),,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,153,5,1,1,8:37 PM,1:28,Garcia STEAL (1 STL),,Thomas Bad Pass Turnover (P1.T8),,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,154,1,1,1,8:37 PM,1:11,Adrien 15' Jump Shot (2 PTS) (Johnson 2 AST),,,17 - 16,-1,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,155,2,1,1,8:37 PM,0:53,,,MISS Bledsoe 12' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,156,4,0,1,8:37 PM,0:52,Motiejunas REBOUND (Off:1 Def:1),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,157,2,1,1,8:37 PM,0:46,MISS Smith 10' Jump Shot,,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,158,4,0,1,8:37 PM,0:45,,,Randolph REBOUND (Off:0 Def:2),,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,159,1,42,1,8:38 PM,0:34,,,Bledsoe 2' Driving Layup (7 PTS),19 - 16,-3,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,160,6,2,1,8:38 PM,0:29,,,Bledsoe S.FOUL (P1.PN),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,161,3,11,1,8:38 PM,0:29,MISS Smith Free Throw 1 of 2,,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,162,4,1,1,8:38 PM,0:29,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,163,3,12,1,8:38 PM,0:29,Smith Free Throw 2 of 2 (1 PTS),,,19 - 17,-2,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,165,5,2,1,8:39 PM,0:15,Motiejunas STEAL (1 STL),,Randolph Lost Ball Turnover (P2.T9),,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,166,6,1,1,8:39 PM,0:15,,,Randolph P.FOUL (P1.PN),,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,167,3,11,1,8:39 PM,0:15,Motiejunas Free Throw 1 of 2 (5 PTS),,,19 - 18,-1,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,169,3,12,1,8:39 PM,0:15,Motiejunas Free Throw 2 of 2 (6 PTS),,,19 - 19,TIE,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,171,2,1,1,8:40 PM,0:00,,,MISS Thomas 26' 3PT Jump Shot,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,172,4,0,1,8:40 PM,0:00,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,173,13,0,1,8:41 PM,0:00,,End of 1st Period (8:41 PM EST),,19 - 19,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,175,12,0,2,8:43 PM,12:00,,Start of 2nd Period (8:43 PM EST),,19 - 19,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,176,2,73,2,8:43 PM,11:45,,,MISS Green 1' Driving Reverse Layup,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,177,4,0,2,8:43 PM,11:44,Adrien REBOUND (Off:0 Def:1),,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,178,5,1,2,8:43 PM,11:35,Adrien Bad Pass Turnover (P1.T6),,Thomas STEAL (1 STL),,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,179,6,2,2,8:43 PM,11:31,Johnson S.FOUL (P2.T1),,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,180,3,11,2,8:44 PM,11:31,,,Green Free Throw 1 of 2 (1 PTS),20 - 19,-1,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,182,3,12,2,8:44 PM,11:31,,,Green Free Throw 2 of 2 (2 PTS),21 - 19,-2,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,185,2,3,2,8:44 PM,11:15,MISS Adrien 6' Hook Shot,,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,186,4,0,2,8:44 PM,11:13,,,Tolliver REBOUND (Off:0 Def:1),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,187,1,1,2,8:44 PM,11:04,,,Thomas 11' Jump Shot (6 PTS),23 - 19,-4,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,189,6,29,2,8:45 PM,10:53,,,Randolph Shooting Block Foul (P2.T1),,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,190,3,11,2,8:45 PM,10:53,Garcia Free Throw 1 of 2 (1 PTS),,,23 - 20,-3,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,192,8,0,2,8:45 PM,10:53,,,SUB: Barron FOR Randolph,,,5,101183,Shavlik Randolph,1610612756.0,Phoenix,Suns,PHX,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,193,3,12,2,8:46 PM,10:53,Garcia Free Throw 2 of 2 (2 PTS),,,23 - 21,-2,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,195,1,1,2,8:46 PM,10:34,,,Barron 20' Jump Shot (2 PTS) (Marc Morris 1 AST),25 - 21,-4,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,196,1,44,2,8:46 PM,10:26,Adrien  Reverse Layup (4 PTS) (Smith 1 AST),,,25 - 23,-2,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,197,6,2,2,8:46 PM,10:19,Adrien S.FOUL (P1.T2),,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,198,3,11,2,8:47 PM,10:19,,,Tolliver Free Throw 1 of 2 (1 PTS),26 - 23,-3,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,201,8,0,2,8:47 PM,10:19,SUB: Black FOR Adrien,,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,202,3,12,2,8:47 PM,10:19,,,MISS Tolliver Free Throw 2 of 2,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,204,4,0,2,8:47 PM,10:19,Motiejunas REBOUND (Off:1 Def:2),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,205,2,1,2,8:47 PM,9:59,MISS Garcia 8' Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,206,4,0,2,8:47 PM,9:57,,,Barron REBOUND (Off:0 Def:1),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,207,2,1,2,8:48 PM,9:49,,,MISS Tolliver 25' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,208,4,0,2,8:48 PM,9:47,Garcia REBOUND (Off:0 Def:1),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,209,2,1,2,8:48 PM,9:35,MISS Garcia 25' 3PT Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,210,4,0,2,8:48 PM,9:33,,,Tolliver REBOUND (Off:0 Def:2),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,211,6,17,2,8:48 PM,9:24,ROCKETS T.Foul (Def. 3 Sec Black ),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400045,212,3,16,2,8:48 PM,9:24,,,Green Free Throw Technical (3 PTS),27 - 23,-4,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,214,2,1,2,8:49 PM,9:18,,,MISS Green 25' 3PT Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,215,4,0,2,8:49 PM,9:17,Motiejunas REBOUND (Off:1 Def:3),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,216,6,1,2,8:49 PM,9:11,,,Marc Morris P.FOUL (P1.T2),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,217,6,11,2,8:49 PM,9:11,,,Marc Morris T.FOUL (P1.T2),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,218,3,16,2,8:49 PM,9:11,MISS Garcia Free Throw Technical,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,219,4,1,2,8:49 PM,9:11,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,220,2,1,2,8:50 PM,9:04,MISS Johnson 25' 3PT Jump Shot,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,221,4,0,2,8:50 PM,9:02,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,222,2,1,2,8:50 PM,8:43,,,MISS Thomas 26' 3PT Jump Shot,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,223,4,0,2,8:50 PM,8:41,Garcia REBOUND (Off:0 Def:2),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,224,5,1,2,8:50 PM,8:37,Smith Bad Pass Turnover (P1.T7),,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,225,9,4,2,8:50 PM,8:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,229,6,1,2,8:53 PM,8:36,Garcia P.FOUL (P1.T3),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,230,2,1,2,8:53 PM,8:13,,,MISS Marc Morris 17' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,231,4,0,2,8:53 PM,8:12,Black REBOUND (Off:0 Def:1),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,232,1,5,2,8:54 PM,7:55,Motiejunas 2' Layup (8 PTS) (Garcia 1 AST),,,27 - 25,-2,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,233,2,1,2,8:54 PM,7:32,,,MISS Barron 7' Jump Shot,,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,234,4,0,2,8:54 PM,7:31,Johnson REBOUND (Off:0 Def:1),,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,235,2,1,2,8:54 PM,7:25,MISS Garcia 25' 3PT Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,236,4,0,2,8:54 PM,7:21,,,Marc Morris REBOUND (Off:0 Def:1),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,237,2,1,2,8:54 PM,7:16,Garcia BLOCK (1 BLK),,MISS Thomas 6' Jump Shot,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0
+0011400045,238,4,0,2,8:54 PM,7:11,,,Thomas REBOUND (Off:1 Def:0),,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,239,1,63,2,8:54 PM,7:10,,,Green 19' Fadeaway Jumper (5 PTS),29 - 25,-4,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,240,1,42,2,8:55 PM,6:59,Smith 2' Driving Layup (3 PTS),,,29 - 27,-2,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,241,2,1,2,8:55 PM,6:45,Garcia BLOCK (2 BLK),,MISS Marc Morris 4' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0
+0011400045,242,4,0,2,8:55 PM,6:42,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,243,8,0,2,8:55 PM,6:42,,,SUB: Jackson FOR Thomas,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,244,2,1,2,8:55 PM,6:39,,,MISS Green 27' 3PT Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,245,4,0,2,8:55 PM,6:37,,,Barron REBOUND (Off:1 Def:1),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,247,8,0,2,8:56 PM,6:29,SUB: Beverley FOR Smith,,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,248,8,0,2,8:56 PM,6:29,SUB: Ariza FOR Garcia,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,250,6,4,2,8:57 PM,6:25,,,Green OFF.Foul (P1),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,251,5,5,2,8:57 PM,6:25,,,Green Foul Turnover (P1.T10),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,252,1,79,2,8:57 PM,6:11,Ariza 16' Pullup Jump Shot (4 PTS),,,29 - 29,TIE,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,253,5,1,2,8:57 PM,5:59,Ariza STEAL (2 STL),,Jackson Bad Pass Turnover (P1.T11),,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,254,1,49,2,8:57 PM,5:54,Ariza  Driving Dunk (6 PTS),,,29 - 31,2,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,256,2,1,2,8:58 PM,5:34,,,MISS Green 20' Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,257,4,0,2,8:58 PM,5:32,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,258,2,3,2,8:58 PM,5:17,MISS Motiejunas 12' Hook Shot,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,259,4,0,2,8:58 PM,5:13,,,Jackson REBOUND (Off:0 Def:1),,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,260,2,1,2,8:58 PM,5:10,Black BLOCK (1 BLK),,MISS Jackson 4' Jump Shot,,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0
+0011400045,261,4,0,2,8:58 PM,5:09,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,262,9,1,2,8:58 PM,5:09,ROCKETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,264,8,0,2,9:00 PM,5:09,,,SUB: Goodwin FOR Green,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,265,8,0,2,9:00 PM,5:09,,,SUB: Plumlee FOR Barron,,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,266,1,42,2,9:01 PM,4:53,,,Jackson 2' Driving Layup (2 PTS),31 - 31,TIE,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,267,2,1,2,9:01 PM,4:41,MISS Ariza 25' 3PT Jump Shot,,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,268,4,0,2,9:01 PM,4:40,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,269,2,42,2,9:01 PM,4:30,Black BLOCK (2 BLK),,MISS Goodwin 1' Driving Layup,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0
+0011400045,270,4,0,2,9:01 PM,4:28,Ariza REBOUND (Off:3 Def:1),,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,271,2,44,2,9:02 PM,4:19,MISS Black 1' Reverse Layup,,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,272,4,0,2,9:02 PM,4:18,,,Tolliver REBOUND (Off:0 Def:3),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,273,2,1,2,9:02 PM,4:07,,,MISS Tolliver 26' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,274,4,0,2,9:02 PM,4:06,Ariza REBOUND (Off:3 Def:2),,,,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,275,1,1,2,9:02 PM,3:53,Beverley 3' Jump Shot (2 PTS),,,31 - 33,2,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,276,6,1,2,9:02 PM,3:39,Beverley P.FOUL (P1.T4),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,277,8,0,2,9:02 PM,3:39,,,SUB: Warren FOR Tolliver,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,278,8,0,2,9:02 PM,3:39,SUB: Jones FOR Motiejunas,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,279,2,1,2,9:03 PM,3:33,,,MISS Jackson 9' Jump Shot,,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,280,4,0,2,9:03 PM,3:30,Beverley REBOUND (Off:0 Def:3),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,281,6,1,2,9:03 PM,3:30,,,Marc Morris P.FOUL (P2.T3),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,282,18,1,2,9:04 PM,3:30,,Overturn Ruling,,,,0,281,Scott Williams,,,,,0,0,,,,,,1,0,,,,,,0
+0011400045,285,9,2,2,9:06 PM,3:23,ROCKETS Timeout: Short (Full 2 Short 1),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,287,8,0,2,9:07 PM,3:23,,,SUB: Tucker FOR Marc Morris,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,288,5,1,2,9:07 PM,3:20,Ariza Bad Pass Turnover (P3.T8),,Plumlee STEAL (2 STL),,,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,289,6,1,2,9:08 PM,3:20,Johnson P.FOUL (P3.PN),,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,290,3,11,2,9:08 PM,3:20,,,MISS Jackson Free Throw 1 of 2,,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,291,4,1,2,9:08 PM,3:20,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,292,3,12,2,9:08 PM,3:20,,,MISS Jackson Free Throw 2 of 2,,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,294,4,0,2,9:08 PM,3:19,Jones REBOUND (Off:0 Def:4),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,295,2,77,2,9:08 PM,3:11,MISS Beverley 6' Driving Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,296,4,0,2,9:08 PM,3:07,,,Jackson REBOUND (Off:0 Def:2),,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,297,2,5,2,9:08 PM,3:03,,,MISS Goodwin 2' Layup,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,298,4,0,2,9:08 PM,3:02,,,Goodwin REBOUND (Off:1 Def:0),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,299,1,5,2,9:08 PM,2:59,,,Goodwin 2' Layup (2 PTS),33 - 33,TIE,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,300,1,42,2,9:09 PM,2:53,Beverley 4' Driving Layup (4 PTS),,,33 - 35,2,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,301,6,2,2,9:09 PM,2:53,,,Jackson S.FOUL (P1.T4),,,5,204061,Joe Jackson,1610612756.0,Phoenix,Suns,PHX,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,302,9,1,2,9:09 PM,2:53,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,304,3,10,2,9:11 PM,2:53,Beverley Free Throw 1 of 1 (5 PTS),,,33 - 36,3,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,307,1,3,2,9:11 PM,2:30,,,Plumlee 9' Hook Shot (2 PTS),35 - 36,1,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,308,1,47,2,9:12 PM,2:01,Jones 12' Turnaround Jump Shot (6 PTS),,,35 - 38,3,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,310,1,1,2,9:13 PM,1:36,,,Tucker 27' 3PT Jump Shot (3 PTS) (Warren 1 AST),38 - 38,TIE,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,311,5,1,2,9:13 PM,1:23,Beverley Bad Pass Turnover (P1.T9),,Plumlee STEAL (3 STL),,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,312,1,7,2,9:13 PM,1:21,,,Warren  Dunk (2 PTS) (Plumlee 1 AST),40 - 38,-2,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,313,1,1,2,9:13 PM,0:52,Johnson  3PT Jump Shot (3 PTS) (Ariza 1 AST),,,40 - 41,1,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,314,5,1,2,9:14 PM,0:30,Jones STEAL (1 STL),,Plumlee Bad Pass Turnover (P2.T12),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,315,1,1,2,9:14 PM,0:25,Johnson 24' 3PT Jump Shot (6 PTS) (Ariza 2 AST),,,40 - 44,4,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,4,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,316,2,1,2,9:14 PM,0:02,Jones BLOCK (1 BLK),,MISS Goodwin 7' Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0
+0011400045,317,4,0,2,9:14 PM,0:02,Beverley REBOUND (Off:0 Def:4),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,318,2,1,2,9:15 PM,0:00,MISS Johnson 28' 3PT Jump Shot,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,319,4,0,2,9:15 PM,0:00,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,321,13,0,2,9:15 PM,0:00,,End of 2nd Period (9:15 PM EST),,40 - 44,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,323,12,0,3,9:31 PM,12:00,,Start of 3rd Period (9:31 PM EST),,40 - 44,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,324,1,3,3,9:32 PM,11:37,,,Tucker 8' Hook Shot (5 PTS) (Bledsoe 2 AST),42 - 44,2,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,325,6,4,3,9:32 PM,11:29,Dorsey OFF.Foul (P1),,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,326,5,5,3,9:32 PM,11:29,Dorsey Foul Turnover (P1.T10),,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400045,327,6,4,3,9:32 PM,11:19,,,Mark Morris OFF.Foul (P4),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,328,5,5,3,9:32 PM,11:19,,,Mark Morris Foul Turnover (P3.T13),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,329,2,1,3,9:33 PM,11:00,MISS Smith 7' Jump Shot,,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,330,4,0,3,9:33 PM,10:58,,,Mark Morris REBOUND (Off:0 Def:5),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,332,2,5,3,9:33 PM,10:52,,,MISS Plumlee 3' Layup,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,333,4,0,3,9:33 PM,10:51,Jones REBOUND (Off:0 Def:5),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,334,1,42,3,9:33 PM,10:44,Jones 3' Driving Layup (8 PTS),,,42 - 46,4,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,335,2,1,3,9:33 PM,10:24,,,MISS Bledsoe 15' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,336,4,0,3,9:33 PM,10:24,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,337,2,1,3,9:33 PM,10:14,MISS Papanikolaou 7' Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,338,4,0,3,9:33 PM,10:12,Jones REBOUND (Off:1 Def:5),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,339,2,84,3,9:34 PM,10:01,MISS Jones 11' Running Bank Shot,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,340,4,0,3,9:34 PM,9:59,,,Tucker REBOUND (Off:1 Def:1),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,341,1,42,3,9:34 PM,9:57,,,Dragic 1' Driving Layup (7 PTS) (Tucker 1 AST),44 - 46,2,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,342,6,2,3,9:34 PM,9:57,Daniels S.FOUL (P1.T1),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,343,3,10,3,9:34 PM,9:57,,,Dragic Free Throw 1 of 1 (8 PTS),45 - 46,1,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,345,6,26,3,9:35 PM,9:40,Papanikolaou Offensive Charge Foul (P5.T2),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,346,5,5,3,9:35 PM,9:40,Papanikolaou Foul Turnover (P1.T11),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400045,347,8,0,3,9:35 PM,9:40,SUB: Johnson FOR Papanikolaou,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,348,2,1,3,9:35 PM,9:24,,,MISS Mark Morris 26' 3PT Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,349,4,0,3,9:35 PM,9:20,Dorsey REBOUND (Off:1 Def:1),,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,350,1,1,3,9:35 PM,9:11,Jones 3' Jump Shot (10 PTS) (Smith 2 AST),,,45 - 48,3,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,351,1,79,3,9:36 PM,8:57,,,Dragic 12' Pullup Jump Shot (10 PTS),47 - 48,1,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,352,2,1,3,9:36 PM,8:28,MISS Jones 26' 3PT Jump Shot,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,353,4,0,3,9:36 PM,8:27,Daniels REBOUND (Off:1 Def:0),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,354,2,1,3,9:36 PM,8:23,MISS Daniels  3PT Jump Shot,,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,355,4,0,3,9:36 PM,8:22,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,356,5,1,3,9:37 PM,8:15,Daniels Bad Pass Turnover (P1.T12),,Plumlee STEAL (4 STL),,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,357,1,5,3,9:37 PM,8:08,,,Dragic  Layup (12 PTS) (Plumlee 2 AST),49 - 48,-1,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,358,2,1,3,9:37 PM,7:59,MISS Smith 26' 3PT Jump Shot,,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,359,4,0,3,9:37 PM,7:56,,,Mark Morris REBOUND (Off:0 Def:6),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,360,2,1,3,9:37 PM,7:49,,,MISS Bledsoe 26' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,361,4,0,3,9:37 PM,7:48,,,Plumlee REBOUND (Off:1 Def:0),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,362,2,3,3,9:37 PM,7:45,,,MISS Plumlee 8' Hook Shot,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,364,4,0,3,9:37 PM,7:45,,,Tucker REBOUND (Off:2 Def:1),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,363,1,5,3,9:37 PM,7:45,,,Tucker 1' Layup (7 PTS),51 - 48,-3,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,365,9,1,3,9:37 PM,7:45,ROCKETS Timeout: Regular (Full 3 Short 1),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,367,8,0,3,9:39 PM,7:45,SUB: Motiejunas FOR Jones,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,368,8,0,3,9:39 PM,7:45,SUB: Black FOR Dorsey,,,,,4,201595,Joey Dorsey,1610612745.0,Houston,Rockets,HOU,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,370,5,2,3,9:40 PM,7:24,Motiejunas Lost Ball Turnover (P3.T13),,Mark Morris STEAL (1 STL),,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,371,2,43,3,9:40 PM,7:20,,,MISS Mark Morris 1' Alley Oop Layup,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,372,4,0,3,9:40 PM,7:18,Black REBOUND (Off:0 Def:2),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,373,2,1,3,9:40 PM,7:10,MISS Johnson 26' 3PT Jump Shot,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,374,4,0,3,9:40 PM,7:09,,,Dragic REBOUND (Off:0 Def:3),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,375,5,1,3,9:40 PM,7:00,Smith STEAL (1 STL),,Dragic Bad Pass Turnover (P1.T14),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,376,6,2,3,9:40 PM,6:56,,,Plumlee S.FOUL (P2.T1),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,377,3,11,3,9:41 PM,6:56,MISS Motiejunas Free Throw 1 of 2,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,378,4,1,3,9:41 PM,6:56,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,379,3,12,3,9:41 PM,6:56,MISS Motiejunas Free Throw 2 of 2,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,381,4,0,3,9:41 PM,6:56,,,Tucker REBOUND (Off:2 Def:2),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,382,6,27,3,9:41 PM,6:39,Motiejunas Personal Block Foul (P2.T3),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,383,6,2,3,9:42 PM,6:30,Smith S.FOUL (P2.T4),,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,384,3,11,3,9:42 PM,6:30,,,MISS Bledsoe Free Throw 1 of 2,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,385,4,1,3,9:42 PM,6:30,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,386,3,12,3,9:42 PM,6:30,,,Bledsoe Free Throw 2 of 2 (8 PTS),52 - 48,-4,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,388,2,1,3,9:43 PM,6:22,MISS Daniels 26' 3PT Jump Shot,,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,389,4,0,3,9:43 PM,6:20,,,Mark Morris REBOUND (Off:0 Def:7),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,391,7,2,3,9:43 PM,6:17,Johnson Violation:Defensive Goaltending,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400045,390,1,5,3,9:43 PM,6:17,,,Bledsoe 3' Layup (10 PTS),54 - 48,-6,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,392,6,2,3,9:43 PM,6:17,Motiejunas S.FOUL (P3.PN),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,396,8,0,3,9:43 PM,6:17,,,SUB: Barron FOR Plumlee,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,393,3,10,3,9:43 PM,6:17,,,Bledsoe Free Throw 1 of 1 (11 PTS),55 - 48,-7,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,395,5,1,3,9:43 PM,6:09,Smith Bad Pass Turnover (P2.T14),,Mark Morris STEAL (2 STL),,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,397,1,5,3,9:44 PM,6:04,,,Bledsoe 2' Layup (13 PTS) (Mark Morris 2 AST),57 - 48,-9,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,398,9,1,3,9:44 PM,6:01,ROCKETS Timeout: Regular (Full 4 Short 1),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,400,8,0,3,9:46 PM,6:01,SUB: Canaan FOR Smith,,,,,4,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,401,2,47,3,9:46 PM,5:42,MISS Motiejunas 10' Turnaround Jump Shot,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,402,4,0,3,9:46 PM,5:40,,,Tucker REBOUND (Off:2 Def:3),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,403,2,1,3,9:47 PM,5:16,,,MISS Dragic 24' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,404,4,0,3,9:47 PM,5:15,Canaan REBOUND (Off:0 Def:1),,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,405,2,79,3,9:47 PM,5:09,MISS Johnson 16' Pullup Jump Shot,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,406,4,0,3,9:47 PM,5:08,Motiejunas REBOUND (Off:2 Def:3),,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,407,6,2,3,9:47 PM,5:08,,,Dragic S.FOUL (P2.T2),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,408,3,11,3,9:47 PM,5:08,Motiejunas Free Throw 1 of 2 (9 PTS),,,57 - 49,-8,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,410,8,0,3,9:47 PM,5:08,,,SUB: Warren FOR Tucker,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,411,3,12,3,9:47 PM,5:08,MISS Motiejunas Free Throw 2 of 2,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,413,4,0,3,9:48 PM,5:06,,,Bledsoe REBOUND (Off:0 Def:2),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,414,1,79,3,9:48 PM,4:50,,,Mark Morris 11' Pullup Jump Shot (5 PTS),59 - 49,-10,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,418,6,2,3,9:48 PM,4:38,,,Barron S.FOUL (P1.T3),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,419,3,11,3,9:48 PM,4:38,MISS Black Free Throw 1 of 2,,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,420,4,1,3,9:48 PM,4:38,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,421,3,12,3,9:49 PM,4:38,Black Free Throw 2 of 2 (1 PTS),,,59 - 50,-9,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,423,6,4,3,9:49 PM,4:30,,,Bledsoe OFF.Foul (P2),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,424,5,5,3,9:49 PM,4:30,,,Bledsoe Foul Turnover (P3.T15),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,425,8,0,3,9:49 PM,4:30,,,SUB: Prather FOR Bledsoe,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,204062,Casey Prather,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,426,8,0,3,9:49 PM,4:30,,,SUB: Tolliver FOR Mark Morris,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,427,1,1,3,9:50 PM,4:23,Daniels 26' 3PT Jump Shot (3 PTS) (Canaan 1 AST),,,59 - 53,-6,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,428,5,1,3,9:50 PM,4:03,Daniels STEAL (1 STL),,Tolliver Bad Pass Turnover (P2.T16),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,429,1,42,3,9:50 PM,3:58,Canaan 2' Driving Layup (2 PTS) (Motiejunas 1 AST),,,59 - 55,-4,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,430,6,4,3,9:50 PM,3:45,,,Dragic OFF.Foul (P3),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,431,5,5,3,9:50 PM,3:45,,,Dragic Foul Turnover (P2.T17),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,432,6,2,3,9:51 PM,3:41,,,Dragic S.FOUL (P4.T4),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,433,3,11,3,9:51 PM,3:41,Canaan Free Throw 1 of 2 (3 PTS),,,59 - 56,-3,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,435,3,12,3,9:51 PM,3:41,Canaan Free Throw 2 of 2 (4 PTS),,,59 - 57,-2,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,437,2,1,3,9:52 PM,3:22,,,MISS Tolliver 26' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,438,4,0,3,9:52 PM,3:20,Daniels REBOUND (Off:1 Def:1),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,439,1,79,3,9:52 PM,3:15,Daniels 28' 3PT Pullup Jump Shot (6 PTS),,,59 - 60,1,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,440,9,1,3,9:52 PM,3:13,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,442,8,0,3,9:54 PM,3:13,,,SUB: Thomas FOR Dragic,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,443,2,63,3,9:54 PM,2:54,,,MISS Warren 19' Fadeaway Jumper,,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,444,4,0,3,9:54 PM,2:53,Daniels REBOUND (Off:1 Def:2),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,445,6,1,3,9:55 PM,2:45,,,Warren P.FOUL (P1.PN),,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,446,3,11,3,9:55 PM,2:45,Black Free Throw 1 of 2 (2 PTS),,,59 - 61,2,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,448,3,12,3,9:55 PM,2:45,Black Free Throw 2 of 2 (3 PTS),,,59 - 62,3,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,450,5,1,3,9:56 PM,2:29,Johnson STEAL (2 STL),,Tolliver Bad Pass Turnover (P3.T18),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,451,2,1,3,9:56 PM,2:24,MISS Motiejunas 8' Jump Shot,,,,,4,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,452,4,0,3,9:56 PM,2:20,,,Barron REBOUND (Off:1 Def:2),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,453,1,3,3,9:56 PM,2:17,,,Warren 5' Hook Shot (4 PTS) (Thomas 1 AST),61 - 62,1,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,454,5,39,3,9:56 PM,2:00,Black Step Out of Bounds Turnover (P1.T15),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,455,2,1,3,9:57 PM,1:38,,,MISS Thomas 13' Jump Shot,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,456,4,0,3,9:57 PM,1:36,,,Warren REBOUND (Off:1 Def:0),,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,457,1,5,3,9:57 PM,1:32,,,Warren 1' Layup (6 PTS),63 - 62,-1,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,458,2,1,3,9:57 PM,1:24,MISS Canaan 25' 3PT Jump Shot,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,459,4,0,3,9:57 PM,1:23,,,Tolliver REBOUND (Off:0 Def:4),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,460,1,1,3,9:57 PM,1:13,,,Tolliver 26' 3PT Jump Shot (4 PTS) (Thomas 2 AST),66 - 62,-4,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,461,1,78,3,9:57 PM,1:00,Johnson 12' Floating Jump Shot (8 PTS),,,66 - 64,-2,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,462,1,79,3,9:58 PM,0:49,,,Thomas 15' Pullup Jump Shot (8 PTS),68 - 64,-4,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,463,5,1,3,9:58 PM,0:26,Johnson Bad Pass Turnover (P1.T16),,Thomas STEAL (2 STL),,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,464,1,5,3,9:58 PM,0:23,,,Warren  Layup (8 PTS) (Thomas 3 AST),70 - 64,-6,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,465,2,1,3,9:59 PM,0:01,MISS Johnson 25' 3PT Jump Shot,,,,,4,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,466,4,0,3,9:59 PM,0:00,,,Barron REBOUND (Off:1 Def:3),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,467,13,0,3,9:59 PM,0:00,,End of 3rd Period (9:59 PM EST),,70 - 64,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,469,12,0,4,10:01 PM,12:00,,Start of 4th Period (10:01 PM EST),,70 - 64,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,470,2,5,4,10:02 PM,11:40,MISS Jones 2' Layup,,Warren BLOCK (1 BLK),,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0
+0011400045,471,4,0,4,10:02 PM,11:35,,,Thomas REBOUND (Off:1 Def:1),,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,472,1,5,4,10:02 PM,11:30,,,Goodwin 1' Layup (4 PTS) (Thomas 4 AST),72 - 64,-8,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,473,2,1,4,10:02 PM,11:19,MISS Canaan 26' 3PT Jump Shot,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,474,4,0,4,10:02 PM,11:18,Adrien REBOUND (Off:1 Def:1),,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,475,1,1,4,10:02 PM,11:09,Daniels 27' 3PT Jump Shot (9 PTS) (Canaan 2 AST),,,72 - 67,-5,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,476,2,1,4,10:03 PM,10:44,,,MISS Warren 25' 3PT Jump Shot,,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,477,4,0,4,10:03 PM,10:42,Daniels REBOUND (Off:1 Def:3),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,478,5,1,4,10:03 PM,10:38,Papanikolaou Bad Pass Turnover (P2.T17),,Warren STEAL (1 STL),,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,479,6,1,4,10:03 PM,10:24,Daniels P.FOUL (P2.T1),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,480,1,1,4,10:04 PM,10:10,,,Tolliver 26' 3PT Jump Shot (7 PTS) (Thomas 5 AST),75 - 67,-8,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,481,1,5,4,10:04 PM,9:52,Jones 1' Layup (12 PTS) (Adrien 1 AST),,,75 - 69,-6,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,482,5,2,4,10:04 PM,9:43,Jones STEAL (2 STL),,Thomas Lost Ball Turnover (P2.T19),,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,483,1,42,4,10:04 PM,9:38,Jones 2' Driving Layup (14 PTS),,,75 - 71,-4,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,484,1,1,4,10:04 PM,9:29,,,Tolliver 26' 3PT Jump Shot (10 PTS) (Thomas 6 AST),78 - 71,-7,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,485,6,2,4,10:05 PM,9:16,,,Goodwin S.FOUL (P1.T1),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,486,3,11,4,10:05 PM,9:16,Daniels Free Throw 1 of 2 (10 PTS),,,78 - 72,-6,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,488,3,12,4,10:05 PM,9:16,MISS Daniels Free Throw 2 of 2,,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,490,4,0,4,10:05 PM,9:16,,,Barron REBOUND (Off:1 Def:4),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,492,9,4,4,10:06 PM,8:59,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,496,2,1,4,10:08 PM,8:52,,,MISS Tolliver 29' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,497,4,0,4,10:08 PM,8:51,,,Barron REBOUND (Off:2 Def:4),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,498,1,42,4,10:08 PM,8:45,,,Goodwin 3' Driving Layup (6 PTS) (Barron 1 AST),80 - 72,-8,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,499,6,2,4,10:09 PM,8:28,,,Barron S.FOUL (P2.T2),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,500,3,11,4,10:09 PM,8:28,MISS Adrien Free Throw 1 of 2,,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,502,4,1,4,10:09 PM,8:28,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,503,3,12,4,10:09 PM,8:28,MISS Adrien Free Throw 2 of 2,,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,506,4,0,4,10:09 PM,8:27,,,Barron REBOUND (Off:2 Def:5),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,507,2,79,4,10:09 PM,8:17,,,MISS Thomas 26' 3PT Pullup Jump Shot,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,508,4,0,4,10:09 PM,8:15,Adrien REBOUND (Off:1 Def:2),,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,509,5,1,4,10:10 PM,8:07,Daniels Bad Pass Turnover (P2.T18),,Thomas STEAL (3 STL),,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,510,5,40,4,10:10 PM,8:03,,,Goodwin Out of Bounds Lost Ball Turnover (P1.T20),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,511,2,1,4,10:10 PM,7:47,MISS Jones 12' Jump Shot,,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,512,4,0,4,10:10 PM,7:47,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,513,6,3,4,10:10 PM,7:47,,,Barron L.B.FOUL (P3.T3),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,514,1,73,4,10:11 PM,7:40,Canaan 1' Driving Reverse Layup (6 PTS),,,80 - 74,-6,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,515,1,77,4,10:11 PM,7:21,,,Thomas 5' Driving Jump Shot (10 PTS),82 - 74,-8,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,517,1,42,4,10:11 PM,7:09,Canaan 2' Driving Layup (8 PTS) (Papanikolaou 1 AST),,,82 - 76,-6,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,519,7,4,4,10:12 PM,6:58,,,Thomas Violation:Jump Ball,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,520,5,18,4,10:12 PM,6:58,,,Thomas Jump Ball Violation Turnover (P3.T21),,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,518,10,0,4,10:12 PM,6:58,Jump Ball Canaan vs. Thomas: Tip to,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,2,1610612745,,,,,,0
+0011400045,525,6,1,4,10:12 PM,6:52,,,Goodwin P.FOUL (P2.T4),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,527,6,26,4,10:13 PM,6:42,Daniels Offensive Charge Foul (P3.T2),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,528,5,5,4,10:13 PM,6:42,Daniels Foul Turnover (P3.T19),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400045,530,6,26,4,10:13 PM,6:26,,,Goodwin Offensive Charge Foul (P3.PN),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,531,5,5,4,10:13 PM,6:26,,,Goodwin Foul Turnover (P2.T22),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011400045,532,8,0,4,10:14 PM,6:26,SUB: Black FOR Adrien,,,,,4,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,534,2,1,4,10:14 PM,6:10,MISS Daniels 20' Jump Shot,,Goodwin BLOCK (1 BLK),,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0
+0011400045,535,4,0,4,10:14 PM,6:06,,,Warren REBOUND (Off:1 Def:1),,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,536,2,1,4,10:14 PM,6:03,,,MISS Goodwin 14' Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,538,4,0,4,10:14 PM,6:03,,,Barron REBOUND (Off:3 Def:5),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,537,1,4,4,10:14 PM,6:02,,,Barron 1' Tip Shot (4 PTS),84 - 76,-8,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,539,7,1,4,10:14 PM,6:02,,,Suns Violation: Delay of game Violation,,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400045,541,2,1,4,10:15 PM,5:39,MISS Canaan 26' 3PT Jump Shot,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,542,4,0,4,10:15 PM,5:38,,,Barron REBOUND (Off:3 Def:6),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,544,2,1,4,10:15 PM,5:26,,,MISS Tolliver 26' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,545,4,0,4,10:15 PM,5:24,,,Tolliver REBOUND (Off:1 Def:4),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,546,2,5,4,10:15 PM,5:18,,,MISS Tolliver 1' Layup,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,547,4,0,4,10:15 PM,5:17,Papanikolaou REBOUND (Off:0 Def:1),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,548,1,1,4,10:15 PM,5:13,Jones 3' Jump Shot (16 PTS),,,84 - 78,-6,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,550,5,2,4,10:16 PM,4:56,Daniels STEAL (2 STL),,Goodwin Lost Ball Turnover (P3.T23),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,551,2,42,4,10:16 PM,4:51,MISS Papanikolaou 2' Driving Layup,,Tolliver BLOCK (1 BLK),,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0
+0011400045,552,4,0,4,10:16 PM,4:50,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,553,9,1,4,10:16 PM,4:50,ROCKETS Timeout: Regular (Full 5 Short 1),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,558,2,1,4,10:19 PM,4:33,MISS Canaan 4' Jump Shot,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,559,4,0,4,10:19 PM,4:32,Black REBOUND (Off:1 Def:2),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,560,1,87,4,10:19 PM,4:32,Black  Putback Dunk (5 PTS),,,84 - 80,-4,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,561,2,1,4,10:19 PM,4:27,,,MISS Thomas 25' 3PT Jump Shot,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,562,4,0,4,10:19 PM,4:26,Black REBOUND (Off:1 Def:3),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,563,1,5,4,10:19 PM,4:21,Canaan 1' Layup (10 PTS) (Black 1 AST),,,84 - 82,-2,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,564,6,2,4,10:19 PM,4:21,,,Goodwin S.FOUL (P4.PN),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,565,8,0,4,10:19 PM,4:21,,,SUB: Ennis FOR Thomas,,,5,202738,Isaiah Thomas,1610612756.0,Phoenix,Suns,PHX,5,203898,Tyler Ennis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,566,3,10,4,10:19 PM,4:21,Canaan Free Throw 1 of 1 (11 PTS),,,84 - 83,-1,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,568,2,1,4,10:20 PM,4:06,,,MISS Ennis 7' Jump Shot,,,5,203898,Tyler Ennis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,569,4,0,4,10:20 PM,4:04,,,Barron REBOUND (Off:4 Def:6),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,570,2,4,4,10:20 PM,4:02,,,MISS Barron  Tip Shot,,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,572,4,0,4,10:20 PM,4:00,,,Barron REBOUND (Off:5 Def:6),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,571,1,4,4,10:20 PM,4:00,,,Barron  Tip Shot (6 PTS),86 - 83,-3,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,573,1,7,4,10:20 PM,3:43,Black  Dunk (7 PTS) (Canaan 3 AST),,,86 - 85,-1,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,575,6,2,4,10:20 PM,3:31,Daniels S.FOUL (P4.T3),,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011400045,576,3,11,4,10:20 PM,3:31,,,Goodwin Free Throw 1 of 2 (7 PTS),87 - 85,-2,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,578,3,12,4,10:21 PM,3:31,,,Goodwin Free Throw 2 of 2 (8 PTS),88 - 85,-3,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,580,1,42,4,10:21 PM,3:16,Jones 3' Driving Layup (18 PTS) (Papanikolaou 2 AST),,,88 - 87,-1,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,581,2,80,4,10:21 PM,3:00,,,MISS Warren 17' Step Back Jump Shot,,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,582,4,0,4,10:21 PM,2:58,Jones REBOUND (Off:1 Def:6),,,,,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,583,1,78,4,10:22 PM,2:51,Daniels 11' Floating Jump Shot (12 PTS) (Jones 1 AST),,,88 - 89,1,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,584,2,1,4,10:22 PM,2:37,,,MISS Tolliver 6' Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,585,4,0,4,10:22 PM,2:33,Canaan REBOUND (Off:0 Def:2),,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,586,2,1,4,10:22 PM,2:31,MISS Canaan 4' Jump Shot,,Goodwin BLOCK (2 BLK),,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0
+0011400045,587,4,0,4,10:22 PM,2:31,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,588,9,1,4,10:22 PM,2:31,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,589,2,1,4,10:25 PM,2:16,,,MISS Tolliver 27' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,590,4,0,4,10:25 PM,2:14,Black REBOUND (Off:1 Def:4),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,591,2,79,4,10:25 PM,2:04,MISS Canaan 21' Pullup Jump Shot,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,592,4,0,4,10:25 PM,2:02,,,Barron REBOUND (Off:5 Def:7),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,593,1,58,4,10:25 PM,1:52,,,Barron 8' Turnaround Hook Shot (8 PTS),90 - 89,-1,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,594,2,1,4,10:25 PM,1:35,MISS Papanikolaou 26' 3PT Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,595,4,0,4,10:25 PM,1:33,,,Barron REBOUND (Off:5 Def:8),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,596,2,1,4,10:26 PM,1:16,,,MISS Barron 19' Jump Shot,,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,597,4,0,4,10:26 PM,1:15,Canaan REBOUND (Off:0 Def:3),,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,598,2,1,4,10:26 PM,1:06,MISS Daniels 26' 3PT Jump Shot,,,,,4,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,599,4,0,4,10:26 PM,1:04,Black REBOUND (Off:2 Def:4),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,600,6,2,4,10:26 PM,1:02,,,Barron S.FOUL (P4.PN),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,601,3,11,4,10:26 PM,1:02,Black Free Throw 1 of 2 (8 PTS),,,90 - 90,TIE,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,603,3,12,4,10:27 PM,1:02,MISS Black Free Throw 2 of 2,,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,605,4,0,4,10:27 PM,1:02,,,Goodwin REBOUND (Off:1 Def:1),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,606,5,2,4,10:27 PM,0:46,Jones STEAL (3 STL),,Goodwin Lost Ball Turnover (P4.T24),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,608,2,1,4,10:27 PM,0:38,MISS Canaan 24' 3PT Jump Shot,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,609,4,0,4,10:27 PM,0:37,Papanikolaou REBOUND (Off:1 Def:1),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,610,2,1,4,10:27 PM,0:34,MISS Papanikolaou 12' Jump Shot,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,611,4,0,4,10:27 PM,0:32,Black REBOUND (Off:3 Def:4),,,,,4,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,612,1,5,4,10:27 PM,0:29,Canaan 1' Layup (13 PTS) (Jones 2 AST),,,90 - 92,2,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,613,6,2,4,10:27 PM,0:29,,,Barron S.FOUL (P5.PN),,,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,614,3,10,4,10:28 PM,0:29,Canaan Free Throw 1 of 1 (14 PTS),,,90 - 93,3,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,616,9,1,4,10:28 PM,0:29,,,Suns Timeout: Regular (Reg.5 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,620,2,1,4,10:30 PM,0:12,,,MISS Goodwin 27' 3PT Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,621,4,0,4,10:30 PM,0:10,Papanikolaou REBOUND (Off:1 Def:2),,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,622,6,1,4,10:30 PM,0:08,,,Goodwin P.FOUL (P5.PN),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,623,3,11,4,10:30 PM,0:08,MISS Canaan Free Throw 1 of 2,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,624,4,1,4,10:30 PM,0:08,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,625,3,12,4,10:31 PM,0:08,Canaan Free Throw 2 of 2 (15 PTS),,,90 - 94,4,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,627,9,2,4,10:31 PM,0:08,,,Suns Timeout: Short (Reg.5 Short 1),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,631,2,1,4,10:32 PM,0:05,Papanikolaou BLOCK (1 BLK),,MISS Ennis 25' 3PT Jump Shot,,,5,203898,Tyler Ennis,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0
+0011400045,632,4,0,4,10:32 PM,0:05,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,633,9,2,4,10:33 PM,0:05,,,Suns Timeout: Short (Reg.5 Short 2),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400045,636,1,8,4,10:34 PM,0:04,,,Barron  Slam Dunk (10 PTS) (Goodwin 1 AST),92 - 94,2,5,2853,Earl Barron,1610612756.0,Phoenix,Suns,PHX,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011400045,637,6,1,4,10:34 PM,0:02,,,Warren P.FOUL (P2.PN),,,5,203933,T.J. Warren,1610612756.0,Phoenix,Suns,PHX,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400045,638,3,11,4,10:34 PM,0:02,Canaan Free Throw 1 of 2 (16 PTS),,,92 - 95,3,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,640,3,12,4,10:35 PM,0:02,MISS Canaan Free Throw 2 of 2,,,,,4,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400045,642,4,0,4,10:35 PM,0:02,,,Tolliver REBOUND (Off:1 Def:5),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011400045,643,5,1,4,10:35 PM,0:00,Papanikolaou STEAL (1 STL),,Tolliver Bad Pass Turnover (P4.T25),,,5,201229,Anthony Tolliver,1610612756.0,Phoenix,Suns,PHX,4,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400045,644,13,0,4,10:35 PM,0:00,,End of 4th Period (10:35 PM EST),,92 - 95,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,515 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200058,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,4,10,0,1,10:11 PM,12:00,Jump Ball Landale vs. Sabonis: Tip to Okogie,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,7,5,1,1,10:11 PM,11:46,Washington Jr. Bad Pass Turnover (P1.T1),,Sabonis STEAL (1 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,9,1,1,1,10:11 PM,11:41,,,Huerter 25' 3PT Jump Shot (3 PTS) (Lyles 1 AST),3 - 0,-3,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,11,1,1,1,10:11 PM,11:25,Craig 28' 3PT Jump Shot (3 PTS) (D. Lee 1 AST),,,3 - 3,TIE,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,13,1,6,1,10:11 PM,11:16,,,Fox Driving Layup (2 PTS),5 - 3,-2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,14,6,2,1,10:11 PM,11:16,Washington Jr. S.FOUL (P1.T1) (J.Goble),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,16,3,10,1,10:12 PM,11:16,,,MISS Fox Free Throw 1 of 1,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,17,4,0,1,10:12 PM,11:11,Craig REBOUND (Off:0 Def:1),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,18,5,1,1,10:12 PM,10:59,Okogie Bad Pass Turnover (P1.T2),,Sabonis STEAL (2 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,20,1,50,1,10:12 PM,10:55,,,Sabonis 1' Running Dunk (2 PTS),7 - 3,-4,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,21,2,1,1,10:12 PM,10:48,MISS Washington Jr. 21' Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,22,4,0,1,10:12 PM,10:48,,,Sabonis REBOUND (Off:0 Def:1),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,24,7,5,1,10:13 PM,10:38,Landale Violation:Kicked Ball (M.Smith),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0012200058,25,6,1,1,10:13 PM,10:33,D. Lee P.FOUL (P1.T2) (M.Smith),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,27,6,2,1,10:13 PM,10:25,Okogie S.FOUL (P1.T3) (J.Conley),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,29,3,11,1,10:14 PM,10:25,,,Sabonis Free Throw 1 of 2 (3 PTS),8 - 3,-5,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,30,3,12,1,10:14 PM,10:25,,,MISS Sabonis Free Throw 2 of 2,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,31,4,0,1,10:14 PM,10:23,D. Lee REBOUND (Off:0 Def:1),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,32,2,6,1,10:14 PM,10:16,MISS Craig 2' Driving Layup,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,33,4,0,1,10:14 PM,10:13,,,Sabonis REBOUND (Off:0 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,34,5,1,1,10:15 PM,10:01,Landale STEAL (1 STL),,Huerter Bad Pass Turnover (P1.T1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,36,1,1,1,10:15 PM,9:56,Landale 27' 3PT Jump Shot (3 PTS) (D. Lee 2 AST),,,8 - 6,-2,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,38,9,1,1,10:15 PM,9:54,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,39,2,1,1,10:18 PM,9:39,,,MISS Lyles 3PT Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,40,4,0,1,10:18 PM,9:38,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,41,6,3,1,10:18 PM,9:38,Landale L.B.FOUL (P1.T4) (M.Smith),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,43,5,1,1,10:19 PM,9:31,Washington Jr. STEAL (1 STL),,Fox Bad Pass Turnover (P1.T2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,45,2,3,1,10:19 PM,9:23,MISS Landale 5' Hook Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,46,4,0,1,10:19 PM,9:20,,,Sabonis REBOUND (Off:0 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,47,5,39,1,10:19 PM,9:15,,,Barnes Step Out of Bounds Turnover (P1.T3),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,48,6,2,1,10:20 PM,9:01,,,Huerter S.FOUL (P1.T1) (M.Smith),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,50,3,11,1,10:20 PM,9:01,D. Lee Free Throw 1 of 2 (1 PTS),,,8 - 7,-1,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,51,3,12,1,10:20 PM,9:01,D. Lee Free Throw 2 of 2 (2 PTS),,,8 - 8,TIE,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,52,2,80,1,10:21 PM,8:41,,,MISS Fox 16' Step Back Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,53,4,0,1,10:21 PM,8:36,D. Lee REBOUND (Off:0 Def:2),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,54,1,3,1,10:21 PM,8:29,Landale 7' Hook Shot (5 PTS) (Washington Jr. 1 AST),,,8 - 10,2,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,56,1,80,1,10:21 PM,8:16,,,Huerter 25' 3PT Step Back Jump Shot (6 PTS) (Sabonis 1 AST),11 - 10,-1,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,58,2,1,1,10:22 PM,8:01,MISS Landale 26' 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,59,4,0,1,10:22 PM,7:58,,,Huerter REBOUND (Off:0 Def:1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,60,2,5,1,10:22 PM,7:53,Landale BLOCK (1 BLK),,MISS Barnes 3' Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,62,4,0,1,10:22 PM,7:49,Craig REBOUND (Off:0 Def:2),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,63,1,58,1,10:22 PM,7:43,Landale 5' Turnaround Hook Shot (7 PTS) (Craig 1 AST),,,11 - 12,1,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,65,2,1,1,10:22 PM,7:30,,,MISS Sabonis 24' 3PT Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,66,4,0,1,10:22 PM,7:28,Landale REBOUND (Off:0 Def:1),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,67,2,78,1,10:22 PM,7:17,MISS Landale 14' Floating Jump Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,68,4,0,1,10:22 PM,7:15,,,Lyles REBOUND (Off:0 Def:1),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,69,5,2,1,10:22 PM,7:10,Washington Jr. STEAL (2 STL),,Huerter Lost Ball Turnover (P2.T4),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,71,6,1,1,10:23 PM,7:07,,,Fox P.FOUL (P1.T2) (M.Smith),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,73,8,0,1,10:23 PM,7:07,SUB: Luwawu-Cabarrot FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,74,8,0,1,10:23 PM,7:07,,,SUB: Davis FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,75,8,0,1,10:23 PM,7:07,,,SUB: Len FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,79,6,1,1,10:23 PM,7:06,,,Lyles P.FOUL (P1.T3) (M.Smith),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,81,1,1,1,10:24 PM,7:00,Washington Jr. 18' Jump Shot (2 PTS) (Landale 1 AST),,,11 - 14,3,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,83,2,1,1,10:24 PM,6:43,,,MISS Lyles 3PT Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,84,4,0,1,10:24 PM,6:42,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,86,6,1,1,10:24 PM,6:35,,,Davis P.FOUL (P1.T4) (J.Conley),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,88,1,98,1,10:25 PM,6:27,Landale 2' Cutting Layup Shot (9 PTS) (Washington Jr. 2 AST),,,11 - 16,5,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,90,2,6,1,10:25 PM,6:16,,,MISS Fox 1' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,91,4,0,1,10:25 PM,6:14,D. Lee REBOUND (Off:0 Def:3),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,92,5,1,1,10:25 PM,6:09,D. Lee Bad Pass Turnover (P1.T3),,Len STEAL (1 STL),,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,94,2,98,1,10:25 PM,6:04,,,MISS Lyles Cutting Layup Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,95,4,0,1,10:25 PM,6:02,Craig REBOUND (Off:0 Def:3),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,96,2,79,1,10:25 PM,5:59,MISS Craig 26' 3PT Pullup Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,97,4,0,1,10:25 PM,5:54,,,Lyles REBOUND (Off:0 Def:2),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,98,6,2,1,10:26 PM,5:53,Craig S.FOUL (P1.PN) (J.Conley),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,100,3,11,1,10:26 PM,5:53,,,Fox Free Throw 1 of 2 (3 PTS),12 - 16,4,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,101,8,0,1,10:26 PM,5:53,SUB: Biyombo FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,102,8,0,1,10:26 PM,5:53,SUB: Wainright FOR Landale,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,105,3,12,1,10:26 PM,5:53,,,Fox Free Throw 2 of 2 (4 PTS),13 - 16,3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,106,6,2,1,10:26 PM,5:39,,,Len S.FOUL (P1.PN) (J.Goble),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,108,3,11,1,10:27 PM,5:39,Washington Jr. Free Throw 1 of 2 (3 PTS),,,13 - 17,4,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,109,3,12,1,10:27 PM,5:39,Washington Jr. Free Throw 2 of 2 (4 PTS),,,13 - 18,5,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,110,6,14,1,10:27 PM,5:29,Luwawu-Cabarrot FLAGRANT.FOUL.TYPE1 (P1.PN) (M.Smith),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,112,18,1,1,10:28 PM,5:29,,Instant Replay1st Period (10:28 PM EST),,13 - 18,5,0,110,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200058,113,3,27,1,10:30 PM,5:29,,,Huerter Free Throw Flagrant 1 of 3 (7 PTS),14 - 18,4,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,114,3,28,1,10:30 PM,5:29,,,MISS Huerter Free Throw Flagrant 2 of 3,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,115,4,1,1,10:30 PM,5:29,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,116,3,29,1,10:30 PM,5:29,,,Huerter Free Throw Flagrant 3 of 3 (8 PTS),15 - 18,3,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,117,2,1,1,10:31 PM,5:19,,,MISS Fox 24' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,118,4,0,1,10:31 PM,5:16,Luwawu-Cabarrot REBOUND (Off:0 Def:1),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,119,6,1,1,10:31 PM,5:12,,,Huerter P.FOUL (P2.PN) (J.Conley),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,121,3,11,1,10:32 PM,5:12,MISS Washington Jr. Free Throw 1 of 2,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,122,4,1,1,10:32 PM,5:12,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,123,8,0,1,10:32 PM,5:12,,,SUB: Monk FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,124,8,0,1,10:32 PM,5:12,,,SUB: Barnes FOR Lyles,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,127,3,12,1,10:32 PM,5:12,Washington Jr. Free Throw 2 of 2 (5 PTS),,,15 - 19,4,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,128,1,1,1,10:32 PM,5:00,,,Barnes 25' 3PT Jump Shot (3 PTS) (Fox 1 AST),18 - 19,1,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,130,1,79,1,10:32 PM,4:46,Washington Jr. 27' 3PT Pullup Jump Shot (8 PTS) (Biyombo 1 AST),,,18 - 22,4,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,131,2,1,1,10:33 PM,4:33,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,132,4,0,1,10:33 PM,4:31,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,133,6,3,1,10:33 PM,4:31,,,Barnes L.B.FOUL (P1.PN) (J.Conley),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,135,3,11,1,10:33 PM,4:31,Luwawu-Cabarrot Free Throw 1 of 2 (1 PTS),,,18 - 23,5,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,136,3,12,1,10:33 PM,4:31,MISS Luwawu-Cabarrot Free Throw 2 of 2,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,137,4,0,1,10:33 PM,4:28,,,Len REBOUND (Off:0 Def:1),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,138,1,6,1,10:34 PM,4:17,,,Barnes 5' Driving Layup (5 PTS),20 - 23,3,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,139,9,1,1,10:34 PM,4:15,SUNS Timeout: Regular (Full 1 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,140,8,0,1,10:34 PM,4:15,SUB: Craig FOR D. Lee,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,142,6,2,1,10:37 PM,3:57,,,Len S.FOUL (P2.PN) (J.Goble),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,144,3,11,1,10:37 PM,3:57,Biyombo Free Throw 1 of 2 (1 PTS),,,20 - 24,4,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,145,8,0,1,10:38 PM,3:57,SUB: Okogie FOR Washington Jr.,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,147,3,12,1,10:38 PM,3:57,Biyombo Free Throw 2 of 2 (2 PTS),,,20 - 25,5,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,148,6,2,1,10:38 PM,3:51,Craig S.FOUL (P2.PN) (J.Conley),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,150,3,11,1,10:39 PM,3:51,,,MISS Davis Free Throw 1 of 2,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,151,4,1,1,10:39 PM,3:51,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,152,3,12,1,10:39 PM,3:51,,,Davis Free Throw 2 of 2 (1 PTS),21 - 25,4,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,153,1,6,1,10:39 PM,3:44,Luwawu-Cabarrot 1' Driving Layup (3 PTS),,,21 - 27,6,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,154,6,2,1,10:39 PM,3:44,,,Barnes S.FOUL (P2.PN) (J.Conley),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,156,3,10,1,10:39 PM,3:44,Luwawu-Cabarrot Free Throw 1 of 1 (4 PTS),,,21 - 28,7,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0012200058,157,5,8,1,10:40 PM,3:27,,,Len 3 Second Violation Turnover (P1.T5),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,158,2,1,1,10:40 PM,3:09,MISS Craig 24' 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,159,4,0,1,10:40 PM,3:02,Luwawu-Cabarrot REBOUND (Off:1 Def:1),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,160,2,72,1,10:40 PM,3:02,MISS Luwawu-Cabarrot Putback Layup,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,161,4,0,1,10:40 PM,3:00,,,Len REBOUND (Off:0 Def:2),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,162,2,1,1,10:40 PM,2:58,,,MISS Barnes 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,163,4,0,1,10:40 PM,2:57,,,Barnes REBOUND (Off:1 Def:0),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,164,6,1,1,10:40 PM,2:57,Wainright P.FOUL (P1.PN) (J.Goble),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,166,3,11,1,10:41 PM,2:57,,,Barnes Free Throw 1 of 2 (6 PTS),22 - 28,6,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,169,3,12,1,10:41 PM,2:57,,,MISS Barnes Free Throw 2 of 2,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,167,8,0,1,10:41 PM,2:57,,,SUB: Sabonis FOR Len,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,178,8,0,1,10:42 PM,2:57,,,SUB: Mitchell FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,170,4,0,1,10:41 PM,2:55,Craig REBOUND (Off:0 Def:4),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,171,1,3,1,10:42 PM,2:43,Biyombo 6' Hook Shot (4 PTS) (Luwawu-Cabarrot 1 AST),,,22 - 30,8,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,173,2,1,1,10:42 PM,2:27,,,MISS Monk 25' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,174,4,0,1,10:42 PM,2:22,Biyombo REBOUND (Off:0 Def:1),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,175,2,1,1,10:42 PM,2:17,MISS Craig 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,176,4,0,1,10:42 PM,2:08,,,Mitchell REBOUND (Off:0 Def:1),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,180,2,5,1,10:43 PM,2:02,,,MISS Monk 1' Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,181,4,0,1,10:43 PM,2:00,,,Barnes REBOUND (Off:3 Def:0),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,182,2,72,1,10:43 PM,2:00,,,MISS Barnes Putback Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,183,4,0,1,10:43 PM,2:00,,,Barnes REBOUND (Off:3 Def:0),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0012200058,185,1,5,1,10:43 PM,1:55,,,Monk 1' Layup (2 PTS) (Mitchell 1 AST),24 - 30,6,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,187,2,1,1,10:43 PM,1:34,MISS Biyombo 7' Jump Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,188,4,0,1,10:43 PM,1:31,,,Sabonis REBOUND (Off:0 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,189,2,98,1,10:43 PM,1:24,,,MISS Sabonis Cutting Layup Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,190,4,0,1,10:43 PM,1:22,,,Sabonis REBOUND (Off:1 Def:4),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,191,2,72,1,10:43 PM,1:21,,,MISS Sabonis 1' Putback Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,192,4,0,1,10:43 PM,1:20,Biyombo REBOUND (Off:0 Def:2),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,193,2,63,1,10:44 PM,1:06,MISS Craig 8' Fadeaway Jumper,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,194,4,0,1,10:44 PM,1:03,,,Sabonis REBOUND (Off:1 Def:5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,195,5,1,1,10:44 PM,0:58,Wainright STEAL (1 STL),,Davis Bad Pass Turnover (P1.T6),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,197,1,50,1,10:44 PM,0:54,Okogie 1' Running Dunk (2 PTS) (Wainright 1 AST),,,24 - 32,8,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,199,6,1,1,10:44 PM,0:41,Luwawu-Cabarrot P.FOUL (P2.PN) (M.Smith),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,201,3,11,1,10:45 PM,0:41,,,MISS Mitchell Free Throw 1 of 2,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,202,4,1,1,10:45 PM,0:41,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,205,3,12,1,10:45 PM,0:41,,,MISS Mitchell Free Throw 2 of 2,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,203,8,0,1,10:45 PM,0:41,SUB: Washington Jr. FOR Wainright,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,206,4,0,1,10:45 PM,0:39,Craig REBOUND (Off:0 Def:5),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,207,2,80,1,10:45 PM,0:30,MISS Washington Jr. 13' Step Back Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,208,4,0,1,10:45 PM,0:27,,,Sabonis REBOUND (Off:1 Def:6),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,209,2,1,1,10:46 PM,0:08,,,MISS Sabonis 17' Jump Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,210,4,0,1,10:46 PM,0:05,Biyombo REBOUND (Off:0 Def:3),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,211,2,1,1,10:46 PM,0:00,MISS Washington Jr. 47' 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,212,4,0,1,10:46 PM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,213,13,0,1,10:46 PM,0:00,,End of 1st Period (10:46 PM EST),,24 - 32,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,218,12,0,2,10:49 PM,12:00,,Start of 2nd Period (10:49 PM EST),,24 - 32,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,220,1,80,2,10:49 PM,11:35,,,Mitchell 25' 3PT Step Back Jump Shot (3 PTS),27 - 32,5,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,221,1,3,2,10:50 PM,11:11,Biyombo 7' Hook Shot (6 PTS),,,27 - 34,7,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,222,6,1,2,10:50 PM,10:59,Biyombo P.FOUL (P1.T1) (J.Conley),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,224,2,80,2,10:50 PM,10:47,,,MISS Monk 26' 3PT Step Back Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,225,4,0,2,10:50 PM,10:41,Washington Jr. REBOUND (Off:0 Def:1),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,226,2,1,2,10:51 PM,10:33,MISS Luwawu-Cabarrot 26' 3PT Jump Shot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,227,4,0,2,10:51 PM,10:30,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,242,8,0,2,10:52 PM,10:30,SUB: Landale FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,228,10,0,2,10:52 PM,10:30, ,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,3,1610612758,,,,,,0
+0012200058,266,6,3,2,10:52 PM,10:29,Biyombo L.B.FOUL (P2.T2) (J.Goble),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,233,2,1,2,10:52 PM,10:13,,,MISS Barnes 25' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,234,4,0,2,10:52 PM,10:10,Biyombo REBOUND (Off:0 Def:4),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,235,1,5,2,10:52 PM,10:02,Landale 2' Layup (11 PTS) (Washington Jr. 3 AST),,,27 - 36,9,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,237,7,2,2,10:52 PM,10:02,,,Metu Violation:Defensive Goaltending (J.Goble),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,238,1,5,2,10:52 PM,9:54,,,Barnes 2' Layup (8 PTS) (Mitchell 2 AST),29 - 36,7,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,240,1,78,2,10:53 PM,9:42,Biyombo 8' Floating Jump Shot (8 PTS) (Washington Jr. 4 AST),,,29 - 38,9,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,244,6,4,2,10:53 PM,9:27,,,Sabonis OFF.Foul (P1) (M.Smith),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,246,5,37,2,10:53 PM,9:27,,,Sabonis Offensive Foul Turnover (P1.T7),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,247,2,1,2,10:53 PM,9:15,MISS Landale 27' 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,248,4,0,2,10:53 PM,9:12,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,249,2,98,2,10:53 PM,9:05,,,MISS Sabonis 1' Cutting Layup Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,250,4,0,2,10:53 PM,9:04,Biyombo REBOUND (Off:0 Def:5),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,251,6,2,2,10:54 PM,8:55,,,Sabonis S.FOUL (P2.T1) (J.Goble),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,253,3,11,2,10:54 PM,8:55,Biyombo Free Throw 1 of 2 (9 PTS),,,29 - 39,10,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,254,8,0,2,10:54 PM,8:55,,,SUB: Len FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,255,8,0,2,10:54 PM,8:55,,,SUB: Davis FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,258,8,0,2,10:54 PM,8:55,SUB: D. Lee FOR Luwawu-Cabarrot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,260,3,12,2,10:55 PM,8:55,Biyombo Free Throw 2 of 2 (10 PTS),,,29 - 40,11,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,261,1,1,2,10:55 PM,8:40,,,Metu 25' 3PT Jump Shot (3 PTS) (Monk 1 AST),32 - 40,8,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,263,5,1,2,10:55 PM,8:19,Washington Jr. Bad Pass Turnover (P2.T4),,Davis STEAL (1 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,265,1,1,2,10:55 PM,8:13,,,Metu 26' 3PT Jump Shot (6 PTS) (Monk 2 AST),35 - 40,5,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,270,6,2,2,10:56 PM,7:58,,,Monk S.FOUL (P1.T2) (J.Goble),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,272,3,11,2,10:56 PM,7:58,D. Lee Free Throw 1 of 2 (3 PTS),,,35 - 41,6,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,275,3,12,2,10:56 PM,7:58,D. Lee Free Throw 2 of 2 (4 PTS),,,35 - 42,7,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,397,8,0,2,10:57 PM,7:58,SUB: Okogie FOR Biyombo,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,276,2,5,2,10:57 PM,7:47,Landale BLOCK (2 BLK),,MISS Mitchell 7' Layup,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,278,4,0,2,10:57 PM,7:43,Okogie REBOUND (Off:0 Def:1),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,279,5,1,2,10:57 PM,7:40,Okogie Bad Pass Turnover (P2.T5),,Monk STEAL (1 STL),,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,281,5,1,2,10:57 PM,7:35,Landale STEAL (2 STL),,Monk Bad Pass Turnover (P1.T8),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,283,1,50,2,10:57 PM,7:32,D. Lee 1' Running Dunk (6 PTS) (Landale 2 AST),,,35 - 44,9,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,285,6,4,2,10:57 PM,7:25,,,Len OFF.Foul (P3) (M.Smith),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,287,5,37,2,10:57 PM,7:25,,,Len Offensive Foul Turnover (P2.T9),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,288,5,40,2,10:58 PM,7:18,Wainright Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,289,1,98,2,10:58 PM,6:59,,,Monk 1' Cutting Layup Shot (4 PTS) (Len 1 AST),37 - 44,7,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,291,2,1,2,10:58 PM,6:46,MISS D. Lee 26' 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,292,4,0,2,10:58 PM,6:43,,,Metu REBOUND (Off:0 Def:1),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,293,2,79,2,10:58 PM,6:38,,,MISS Davis 25' 3PT Pullup Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,294,4,0,2,10:59 PM,6:35,Wainright REBOUND (Off:0 Def:1),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,295,6,2,2,10:59 PM,6:28,,,Davis S.FOUL (P2.T3) (M.Smith),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,297,9,1,2,10:59 PM,6:28,SUNS Timeout: Regular (Full 2 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,298,8,0,2,11:01 PM,6:28,,,SUB: Lyles FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,299,8,0,2,11:01 PM,6:28,,,SUB: Huerter FOR Metu,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,300,8,0,2,11:01 PM,6:28,,,SUB: Fox FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,304,3,11,2,11:02 PM,6:28,Washington Jr. Free Throw 1 of 2 (9 PTS),,,37 - 45,8,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,305,3,12,2,11:02 PM,6:28,Washington Jr. Free Throw 2 of 2 (10 PTS),,,37 - 46,9,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,306,5,1,2,11:02 PM,6:11,Wainright STEAL (2 STL),,Huerter Bad Pass Turnover (P3.T10),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,308,1,108,2,11:03 PM,6:06,Washington Jr. 2' Cutting Dunk Shot (12 PTS) (D. Lee 3 AST),,,37 - 48,11,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,310,1,73,2,11:03 PM,5:47,,,Len 1' Driving Reverse Layup (2 PTS),39 - 48,9,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,311,5,4,2,11:03 PM,5:37,D. Lee Traveling Turnover (P2.T7),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,312,2,1,2,11:03 PM,5:21,,,MISS Huerter 15' Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,313,4,0,2,11:04 PM,5:18,Landale REBOUND (Off:0 Def:2),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,314,1,6,2,11:04 PM,5:02,Okogie 8' Driving Layup (4 PTS),,,39 - 50,11,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,315,2,79,2,11:04 PM,4:53,,,MISS Davis 25' 3PT Pullup Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,316,4,0,2,11:04 PM,4:49,Landale REBOUND (Off:0 Def:3),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,317,5,1,2,11:04 PM,4:45,Washington Jr. Bad Pass Turnover (P3.T8),,Lyles STEAL (1 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,320,8,0,2,11:04 PM,4:45,,,SUB: Sabonis FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,321,8,0,2,11:04 PM,4:45,,,SUB: Barnes FOR Len,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,324,10,0,2,11:05 PM,4:35,Jump Ball Okogie vs. Fox: Tip to Huerter,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0
+0012200058,327,2,1,2,11:05 PM,4:29,,,MISS Fox 24' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,328,4,0,2,11:05 PM,4:26,Washington Jr. REBOUND (Off:0 Def:2),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,329,2,1,2,11:05 PM,4:19,MISS Wainright 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,330,4,0,2,11:05 PM,4:15,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,331,5,1,2,11:05 PM,4:08,Wainright STEAL (3 STL),,Fox Bad Pass Turnover (P2.T11),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,333,1,6,2,11:06 PM,4:02,Washington Jr. 2' Driving Layup (14 PTS),,,39 - 52,13,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,334,6,2,2,11:06 PM,4:02,,,Huerter S.FOUL (P3.T4) (M.Smith),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,336,3,10,2,11:06 PM,4:02,Washington Jr. Free Throw 1 of 1 (15 PTS),,,39 - 53,14,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,337,2,5,2,11:06 PM,3:49,,,MISS Fox 5' Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,338,4,0,2,11:06 PM,3:49,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,339,6,3,2,11:07 PM,3:49,Wainright L.B.FOUL (P2.T3) (J.Goble),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,341,6,2,2,11:07 PM,3:42,Landale S.FOUL (P2.T4) (J.Conley),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,343,3,11,2,11:07 PM,3:42,,,Huerter Free Throw 1 of 2 (9 PTS),40 - 53,13,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,344,3,12,2,11:08 PM,3:42,,,Huerter Free Throw 2 of 2 (10 PTS),41 - 53,12,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,345,6,4,2,11:08 PM,3:30,Okogie OFF.Foul (P2) (J.Goble),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,347,5,37,2,11:08 PM,3:30,Okogie Offensive Foul Turnover (P3.T9),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,348,2,5,2,11:08 PM,3:16,Landale BLOCK (3 BLK),,MISS Sabonis 5' Layup,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,350,4,0,2,11:08 PM,3:16,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,352,5,1,2,11:09 PM,3:14,Landale STEAL (3 STL),,Fox Bad Pass Turnover (P3.T12),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,355,1,108,2,11:09 PM,3:03,Landale 1' Cutting Dunk Shot (13 PTS) (Okogie 1 AST),,,41 - 55,14,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,357,2,1,2,11:09 PM,2:53,,,MISS Huerter 25' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,358,4,0,2,11:09 PM,2:50,Landale REBOUND (Off:0 Def:4),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,359,2,1,2,11:10 PM,2:37,MISS Wainright 27' 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,360,4,0,2,11:10 PM,2:35,,,Huerter REBOUND (Off:0 Def:2),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,361,2,44,2,11:10 PM,2:28,,,MISS Lyles Reverse Layup,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,362,4,0,2,11:10 PM,2:28,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,364,9,1,2,11:10 PM,2:28,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,365,8,0,2,11:12 PM,2:28,SUB: Luwawu-Cabarrot FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,367,1,98,2,11:13 PM,2:21,,,Fox 1' Cutting Layup Shot (6 PTS) (Sabonis 2 AST),43 - 55,12,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,369,6,4,2,11:13 PM,2:07,Washington Jr. OFF.Foul (P2) (J.Goble),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,371,5,37,2,11:13 PM,2:07,Washington Jr. Offensive Foul Turnover (P4.T10),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,372,1,79,2,11:14 PM,1:55,,,Fox 18' Pullup Jump Shot (8 PTS) (Sabonis 3 AST),45 - 55,10,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,374,5,1,2,11:14 PM,1:39,Washington Jr. Bad Pass Turnover (P5.T11),,Sabonis STEAL (3 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,376,1,98,2,11:14 PM,1:31,,,Sabonis 1' Cutting Layup Shot (5 PTS) (Huerter 1 AST),47 - 55,8,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,378,1,98,2,11:14 PM,1:16,Washington Jr. 1' Cutting Layup Shot (17 PTS),,,47 - 57,10,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,379,1,6,2,11:14 PM,1:08,,,Fox 1' Driving Layup (10 PTS),49 - 57,8,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,380,5,4,2,11:15 PM,0:56,Luwawu-Cabarrot Traveling Turnover (P1.T12),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,381,1,1,2,11:15 PM,0:48,,,Lyles 3PT Jump Shot (3 PTS) (Huerter 2 AST),52 - 57,5,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,383,2,1,2,11:15 PM,0:31,MISS Washington Jr. 29' 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,384,4,0,2,11:15 PM,0:27,D. Lee REBOUND (Off:1 Def:3),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,385,2,72,2,11:15 PM,0:26,MISS D. Lee 2' Putback Layup,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,386,4,0,2,11:15 PM,0:24,,,Sabonis REBOUND (Off:1 Def:7),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,387,2,5,2,11:16 PM,0:11,Landale BLOCK (4 BLK),,MISS Fox 1' Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,389,4,0,2,11:16 PM,0:10,,,Fox REBOUND (Off:1 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,390,1,72,2,11:16 PM,0:10,,,Fox 1' Putback Layup (12 PTS),54 - 57,3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,391,2,1,2,11:16 PM,0:02,MISS D. Lee 26' 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,392,4,0,2,11:16 PM,0:02,Wainright REBOUND (Off:1 Def:1),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,393,2,72,2,11:16 PM,0:00,MISS Wainright Putback Layup,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,394,4,0,2,11:16 PM,0:00,,,Huerter REBOUND (Off:0 Def:3),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,395,13,0,2,11:16 PM,0:00,,End of 2nd Period (11:16 PM EST),,54 - 57,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,403,12,0,3,11:32 PM,12:00,,Start of 3rd Period (11:32 PM EST),,54 - 57,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,404,1,98,3,11:32 PM,11:51,,,Sabonis 2' Cutting Layup Shot (7 PTS) (Fox 2 AST),56 - 57,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,406,2,1,3,11:32 PM,11:31,MISS Landale 25' 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,407,4,0,3,11:32 PM,11:28,,,Huerter REBOUND (Off:0 Def:4),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,410,6,4,3,11:33 PM,11:17,,,Lyles OFF.Foul (P2) (M.Smith),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0012200058,412,5,37,3,11:33 PM,11:17,,,Lyles Offensive Foul Turnover (P1.T13),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,413,1,6,3,11:33 PM,11:00,Washington Jr. 1' Driving Layup (19 PTS),,,56 - 59,3,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,414,1,44,3,11:33 PM,10:43,,,Barnes 2' Reverse Layup (10 PTS),58 - 59,1,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,415,6,2,3,11:34 PM,10:43,Landale S.FOUL (P3.T1) (J.Conley),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,417,3,10,3,11:34 PM,10:43,,,MISS Barnes Free Throw 1 of 1,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,418,4,0,3,11:34 PM,10:41,Craig REBOUND (Off:0 Def:6),,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,419,1,6,3,11:34 PM,10:31,Washington Jr. 1' Driving Layup (21 PTS),,,58 - 61,3,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,420,6,2,3,11:34 PM,10:20,D. Lee S.FOUL (P2.T2) (J.Goble),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,422,9,1,3,11:35 PM,10:20,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,424,3,11,3,11:38 PM,10:20,,,Fox Free Throw 1 of 2 (13 PTS),59 - 61,2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,425,3,12,3,11:38 PM,10:20,,,Fox Free Throw 2 of 2 (14 PTS),60 - 61,1,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0012200058,426,6,2,3,11:38 PM,10:01,,,Sabonis S.FOUL (P3.T1) (M.Smith),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,428,9,1,3,11:39 PM,10:01,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,429,18,6,3,11:39 PM,10:01,,Instant Replay3rd Period (11:39 PM EST),,60 - 61,1,0,426,Terry Davis,,,,,0,0,,,,,,1,0,,,,,,0
+0012200058,430,3,11,3,11:42 PM,10:01,Okogie Free Throw 1 of 2 (5 PTS),,,60 - 62,2,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,431,3,12,3,11:42 PM,10:01,Okogie Free Throw 2 of 2 (6 PTS),,,60 - 63,3,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,432,5,39,3,11:43 PM,9:53,,,Lyles Step Out of Bounds Turnover (P2.T14),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,433,6,1,3,11:43 PM,9:40,,,Huerter P.FOUL (P4.T2) (J.Conley),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,435,2,1,3,11:44 PM,9:27,MISS Okogie 17' Jump Shot,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,436,4,0,3,11:44 PM,9:26,Landale REBOUND (Off:1 Def:4),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,437,5,11,3,11:44 PM,9:26,SUNS Turnover: Shot Clock (T#13),,,,,2,1610612756,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200058,438,2,5,3,11:44 PM,9:10,,,MISS Barnes 2' Layup,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,440,1,97,3,11:44 PM,9:03,,,Sabonis Tip Layup Shot (9 PTS),62 - 63,1,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,439,4,0,3,11:44 PM,9:03,,,Sabonis REBOUND (Off:2 Def:7),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,441,2,1,3,11:44 PM,8:57,MISS Craig 25' 3PT Jump Shot,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,442,4,0,3,11:44 PM,8:53,D. Lee REBOUND (Off:2 Def:3),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,443,2,1,3,11:44 PM,8:51,MISS D. Lee 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,444,4,0,3,11:44 PM,8:49,,,Barnes REBOUND (Off:3 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,445,2,5,3,11:44 PM,8:43,,,MISS Fox 2' Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,446,4,0,3,11:44 PM,8:41,Landale REBOUND (Off:1 Def:5),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,447,5,45,3,11:44 PM,8:38,Washington Jr. Out of Bounds - Bad Pass Turnover Turnover (P6.T14),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,448,2,1,3,11:45 PM,8:27,,,MISS Lyles 24' 3PT Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,449,4,0,3,11:45 PM,8:25,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,451,1,63,3,11:45 PM,8:07,Washington Jr. 9' Fadeaway Jumper (23 PTS),,,62 - 65,3,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,452,6,1,3,11:46 PM,7:53,Okogie P.FOUL (P3.T3) (M.Smith),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,454,1,98,3,11:46 PM,7:47,,,Lyles 1' Cutting Layup Shot (5 PTS) (Sabonis 4 AST),64 - 65,1,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,456,6,2,3,11:46 PM,7:47,Okogie S.FOUL (P4.T4) (J.Goble),,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,458,3,10,3,11:47 PM,7:47,,,Lyles Free Throw 1 of 1 (6 PTS),65 - 65,TIE,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,459,5,4,3,11:47 PM,7:31,Landale Traveling Turnover (P1.T15),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,460,6,4,3,11:47 PM,7:24,,,Fox OFF.Foul (P2) (J.Conley),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,462,5,37,3,11:47 PM,7:24,,,Fox Offensive Foul Turnover (P4.T15),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,463,2,1,3,11:48 PM,7:00,MISS D. Lee 23' Jump Shot,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,464,4,0,3,11:48 PM,6:56,Landale REBOUND (Off:2 Def:5),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,465,2,5,3,11:48 PM,6:55,MISS Landale 1' Layup,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,466,4,0,3,11:48 PM,6:53,,,Sabonis REBOUND (Off:2 Def:8),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,467,6,2,3,11:48 PM,6:53,Washington Jr. S.FOUL (P3.PN) (J.Goble),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,469,3,11,3,11:48 PM,6:53,,,Barnes Free Throw 1 of 2 (11 PTS),66 - 65,-1,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,470,8,0,3,11:48 PM,6:53,SUB: Luwawu-Cabarrot FOR Okogie,,,,,4,1629006,Josh Okogie,1610612756.0,Phoenix,Suns,PHX,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,472,3,12,3,11:49 PM,6:53,,,Barnes Free Throw 2 of 2 (12 PTS),67 - 65,-2,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,473,6,4,3,11:49 PM,6:37,Landale OFF.Foul (P4) (M.Smith),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,475,5,37,3,11:49 PM,6:37,Landale Offensive Foul Turnover (P2.T16),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,476,6,1,3,11:49 PM,6:34,Washington Jr. P.FOUL (P4.PN) (J.Conley),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,478,3,11,3,11:50 PM,6:34,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,479,4,1,3,11:50 PM,6:34,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,480,8,0,3,11:50 PM,6:34,SUB: Biyombo FOR Landale,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,482,3,12,3,11:50 PM,6:34,,,Fox Free Throw 2 of 2 (15 PTS),68 - 65,-3,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0012200058,483,2,80,3,11:50 PM,6:18,MISS Washington Jr. 19' Step Back Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,484,4,0,3,11:50 PM,6:14,,,Barnes REBOUND (Off:3 Def:2),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,485,2,1,3,11:50 PM,6:04,,,MISS Fox 26' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,486,4,0,3,11:51 PM,6:02,Luwawu-Cabarrot REBOUND (Off:1 Def:2),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,487,1,58,3,11:51 PM,5:52,Luwawu-Cabarrot 4' Turnaround Hook Shot (6 PTS),,,68 - 67,-1,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,488,1,1,3,11:51 PM,5:42,,,Huerter 29' 3PT Jump Shot (13 PTS) (Sabonis 5 AST),71 - 67,-4,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,490,5,2,3,11:51 PM,5:29,Washington Jr. Lost Ball Turnover (P7.T17),,Sabonis STEAL (4 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,492,2,1,3,11:51 PM,5:21,,,MISS Fox 13' Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,493,4,0,3,11:51 PM,5:17,D. Lee REBOUND (Off:2 Def:4),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,494,2,1,3,11:51 PM,5:10,MISS Washington Jr. 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,495,4,0,3,11:51 PM,5:07,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,497,8,0,3,11:52 PM,5:07,,,SUB: Len FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,498,8,0,3,11:52 PM,5:07,,,SUB: Davis FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,499,8,0,3,11:52 PM,5:07,,,SUB: Mitchell FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,503,5,1,3,11:52 PM,4:56,Washington Jr. Bad Pass Turnover (P8.T18),,Len STEAL (2 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,505,2,1,3,11:52 PM,4:48,,,MISS Huerter 27' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,506,4,0,3,11:52 PM,4:48,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,508,9,1,3,11:52 PM,4:48,SUNS Timeout: Regular (Full 3 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,509,8,0,3,11:54 PM,4:48,SUB: Wainright FOR Washington Jr.,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,510,8,0,3,11:54 PM,4:48,,,SUB: Monk FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,511,8,0,3,11:54 PM,4:48,,,SUB: Metu FOR Lyles,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,515,2,6,3,11:54 PM,4:37,MISS Craig 3' Driving Layup,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,516,4,0,3,11:54 PM,4:34,,,Davis REBOUND (Off:0 Def:1),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,517,5,45,3,11:54 PM,4:31,,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,518,2,1,3,11:55 PM,4:11,MISS Wainright 24' 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,519,4,0,3,11:55 PM,4:08,Biyombo REBOUND (Off:1 Def:5),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,520,6,2,3,11:55 PM,4:04,,,Davis S.FOUL (P3.T3) (J.Goble),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,523,3,11,3,11:57 PM,4:04,Craig Free Throw 1 of 2 (4 PTS),,,71 - 68,-3,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,524,3,12,3,11:57 PM,4:04,Craig Free Throw 2 of 2 (5 PTS),,,71 - 69,-2,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,525,1,80,3,11:57 PM,3:44,,,Davis 27' 3PT Step Back Jump Shot (4 PTS),74 - 69,-5,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,526,2,75,3,11:57 PM,3:26,MISS D. Lee 5' Driving Finger Roll Layup,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,527,4,0,3,11:57 PM,3:24,D. Lee REBOUND (Off:3 Def:4),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,528,2,72,3,11:57 PM,3:23,MISS D. Lee 1' Putback Layup,,Len BLOCK (1 BLK),,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,1
+0012200058,530,4,0,3,11:58 PM,3:20,,,Monk REBOUND (Off:0 Def:2),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,531,1,1,3,11:58 PM,3:15,,,Davis 27' 3PT Jump Shot (7 PTS) (Monk 3 AST),77 - 69,-8,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,533,2,1,3,11:58 PM,2:58,MISS Luwawu-Cabarrot 3PT Jump Shot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,534,4,0,3,11:58 PM,2:55,,,Len REBOUND (Off:0 Def:3),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,535,2,5,3,11:58 PM,2:50,,,MISS Davis 5' Layup,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,536,4,0,3,11:58 PM,2:48,Biyombo REBOUND (Off:1 Def:6),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,538,1,79,3,11:58 PM,2:40,Wainright 17' Pullup Jump Shot (2 PTS) (Craig 2 AST),,,77 - 71,-6,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,540,6,2,3,11:58 PM,2:24,Luwawu-Cabarrot S.FOUL (P3.PN) (J.Goble),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,542,3,11,3,11:59 PM,2:24,,,Monk Free Throw 1 of 2 (5 PTS),78 - 71,-7,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,545,3,12,3,11:59 PM,2:24,,,MISS Monk Free Throw 2 of 2,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,543,8,0,3,11:59 PM,2:24,SUB: S. Lee FOR Craig,,,,,4,1628470,Torrey Craig,1610612756.0,Phoenix,Suns,PHX,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,546,4,0,3,11:59 PM,2:21,Biyombo REBOUND (Off:1 Def:7),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,547,1,78,3,12:00 AM,2:02,S. Lee 6' Floating Jump Shot (2 PTS) (Wainright 2 AST),,,78 - 73,-5,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,550,2,75,3,12:00 AM,1:37,,,MISS Mitchell 3' Driving Finger Roll Layup,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,551,4,0,3,12:00 AM,1:34,D. Lee REBOUND (Off:3 Def:5),,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,560,2,5,3,12:01 AM,1:19,MISS S. Lee 2' Layup,,Davis BLOCK (1 BLK),,,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,1
+0012200058,562,4,0,3,12:01 AM,1:19,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,553,2,1,3,12:01 AM,1:17,MISS Luwawu-Cabarrot 8' Jump Shot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,554,4,0,3,12:01 AM,1:12,,,Mitchell REBOUND (Off:0 Def:2),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,555,2,1,3,12:01 AM,1:09,,,MISS Metu 27' 3PT Jump Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,556,4,0,3,12:01 AM,1:06,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,558,6,2,3,12:02 AM,1:02,Biyombo S.FOUL (P3.PN) (J.Conley),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,563,3,11,3,12:02 AM,1:02,,,Len Free Throw 1 of 2 (3 PTS),79 - 73,-6,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,564,8,0,3,12:02 AM,1:02,SUB: Landale FOR D. Lee,,,,,4,1627814,Damion Lee,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,566,3,12,3,12:03 AM,1:02,,,Len Free Throw 2 of 2 (4 PTS),80 - 73,-7,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,567,5,2,3,12:03 AM,0:46,Landale Lost Ball Turnover (P3.T19),,Metu STEAL (1 STL),,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,569,2,5,3,12:03 AM,0:42,Wainright BLOCK (1 BLK),,MISS Monk 3' Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,571,4,0,3,12:03 AM,0:37,,,Mitchell REBOUND (Off:1 Def:2),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,572,1,1,3,12:03 AM,0:34,,,Davis 28' 3PT Jump Shot (10 PTS) (Mitchell 3 AST),83 - 73,-10,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,574,2,1,3,12:04 AM,0:15,MISS Luwawu-Cabarrot 3PT Jump Shot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,575,4,0,3,12:04 AM,0:12,Biyombo REBOUND (Off:2 Def:7),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,576,1,1,3,12:04 AM,0:08,S. Lee 24' 3PT Jump Shot (5 PTS) (Landale 3 AST),,,83 - 76,-7,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,578,2,5,3,12:04 AM,0:00,Biyombo BLOCK (1 BLK),,MISS Davis 5' Layup,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,580,4,0,3,12:04 AM,0:00,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,582,13,0,3,12:04 AM,0:00,,End of 3rd Period (12:04 AM EST),,83 - 76,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,583,12,0,4,12:07 AM,12:00,,Start of 4th Period (12:07 AM EST),,83 - 76,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,584,5,45,4,12:07 AM,11:40,Wainright Out of Bounds - Bad Pass Turnover Turnover (P2.T20),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012200058,585,1,1,4,12:08 AM,11:28,,,Mitchell 27' 3PT Jump Shot (6 PTS) (Davis 1 AST),86 - 76,-10,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,587,1,78,4,12:08 AM,11:10,Biyombo 5' Floating Jump Shot (12 PTS) (S. Lee 1 AST),,,86 - 78,-8,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,589,5,2,4,12:08 AM,10:58,Biyombo STEAL (1 STL),,Metu Lost Ball Turnover (P1.T17),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,591,1,1,4,12:08 AM,10:50,Landale 3PT Jump Shot (16 PTS) (Luwawu-Cabarrot 2 AST),,,86 - 81,-5,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,593,6,2,4,12:08 AM,10:50,,,Len S.FOUL (P4.T1) (M.Smith),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,595,8,0,4,12:09 AM,10:50,SUB: Washington Jr. FOR Luwawu-Cabarrot,,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,597,3,10,4,12:09 AM,10:50,Landale Free Throw 1 of 1 (17 PTS),,,86 - 82,-4,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,598,2,6,4,12:09 AM,10:38,Wainright BLOCK (2 BLK),,MISS Davis 10' Driving Layup,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,600,4,0,4,12:09 AM,10:38,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,602,2,80,4,12:10 AM,10:29,,,MISS Mitchell 27' 3PT Step Back Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,603,4,0,4,12:10 AM,10:25,Biyombo REBOUND (Off:2 Def:8),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,604,2,3,4,12:10 AM,10:05,MISS Biyombo 6' Hook Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,605,4,0,4,12:10 AM,10:03,,,Davis REBOUND (Off:0 Def:2),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,606,1,73,4,12:10 AM,9:50,,,Davis 2' Driving Reverse Layup (12 PTS) (Metu 1 AST),88 - 82,-6,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,608,6,2,4,12:10 AM,9:38,,,Mitchell S.FOUL (P1.T2) (J.Conley),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,610,3,11,4,12:11 AM,9:38,Washington Jr. Free Throw 1 of 2 (24 PTS),,,88 - 83,-5,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,611,8,0,4,12:11 AM,9:38,,,SUB: Queta FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,612,8,0,4,12:11 AM,9:38,,,SUB: Cook FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,613,8,0,4,12:11 AM,9:38,,,SUB: Merrill FOR Len,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,617,3,12,4,12:11 AM,9:38,Washington Jr. Free Throw 2 of 2 (25 PTS),,,88 - 84,-4,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,618,2,1,4,12:12 AM,9:21,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,619,4,0,4,12:12 AM,9:18,Biyombo REBOUND (Off:2 Def:9),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,622,8,0,4,12:12 AM,9:04,,,SUB: Moneke FOR Metu,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,624,5,2,4,12:13 AM,8:58,Washington Jr. Lost Ball Turnover (P9.T21),,Monk STEAL (2 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,626,2,6,4,12:13 AM,8:53,Wainright BLOCK (3 BLK),,MISS Moneke 3' Driving Layup,,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,1
+0012200058,628,4,0,4,12:13 AM,8:50,S. Lee REBOUND (Off:0 Def:1),,,,,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,629,6,2,4,12:13 AM,8:49,,,Queta S.FOUL (P1.T3) (M.Smith),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,631,3,11,4,12:13 AM,8:49,MISS Biyombo Free Throw 1 of 2,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,632,4,1,4,12:13 AM,8:49,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,633,3,12,4,12:13 AM,8:49,MISS Biyombo Free Throw 2 of 2,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,634,4,0,4,12:13 AM,8:43,Wainright REBOUND (Off:2 Def:1),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,635,1,72,4,12:14 AM,8:43,Wainright Putback Layup (4 PTS),,,88 - 86,-2,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,636,2,80,4,12:14 AM,8:23,,,MISS Monk 30' 3PT Step Back Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,637,4,0,4,12:14 AM,8:20,Landale REBOUND (Off:2 Def:6),,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,638,1,78,4,12:14 AM,8:13,Washington Jr. 14' Floating Jump Shot (27 PTS),,,88 - 88,TIE,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,639,2,80,4,12:15 AM,7:53,,,MISS Cook 26' 3PT Step Back Jump Shot,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,640,4,0,4,12:15 AM,7:49,Wainright REBOUND (Off:2 Def:2),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,641,6,2,4,12:15 AM,7:46,,,Monk S.FOUL (P2.T4) (J.Conley),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,643,3,11,4,12:15 AM,7:46,S. Lee Free Throw 1 of 2 (6 PTS),,,88 - 89,1,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0012200058,644,8,0,4,12:15 AM,7:46,,,SUB: Ellis FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200058,646,3,12,4,12:15 AM,7:46,S. Lee Free Throw 2 of 2 (7 PTS),,,88 - 90,2,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,647,1,6,4,12:16 AM,7:36,,,Moneke 3' Driving Layup (2 PTS) (Cook 1 AST),90 - 90,TIE,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,649,5,1,4,12:16 AM,7:19,Washington Jr. Bad Pass Turnover (P10.T22),,Moneke STEAL (1 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,651,1,63,4,12:16 AM,7:15,,,Cook 6' Fadeaway Jumper (2 PTS) (Moneke 1 AST),92 - 90,-2,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,653,9,1,4,12:16 AM,7:14,SUNS Timeout: Regular (Full 4 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,654,6,1,4,12:19 AM,7:07,,,Merrill P.FOUL (P1.PN) (J.Goble),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,656,3,11,4,12:20 AM,7:07,Wainright Free Throw 1 of 2 (5 PTS),,,92 - 91,-1,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,657,3,12,4,12:20 AM,7:07,Wainright Free Throw 2 of 2 (6 PTS),,,92 - 92,TIE,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,658,2,1,4,12:20 AM,6:55,,,MISS Merrill 26' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,659,4,0,4,12:20 AM,6:52,Wainright REBOUND (Off:2 Def:3),,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,660,6,2,4,12:20 AM,6:35,,,Merrill S.FOUL (P2.PN) (J.Conley),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,662,3,11,4,12:21 AM,6:35,Washington Jr. Free Throw 1 of 2 (28 PTS),,,92 - 93,1,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,663,3,12,4,12:21 AM,6:35,Washington Jr. Free Throw 2 of 2 (29 PTS),,,92 - 94,2,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0012200058,664,1,79,4,12:21 AM,6:27,,,Cook 19' Pullup Jump Shot (4 PTS),94 - 94,TIE,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0012200058,665,2,1,4,12:22 AM,6:05,MISS Washington Jr. 27' 3PT Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,666,4,0,4,12:22 AM,6:04,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,668,5,9,4,12:22 AM,6:04,SUNS Turnover: 5 Second Violation (T#23),,,,,2,1610612756,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200058,669,5,1,4,12:22 AM,5:47,S. Lee STEAL (1 STL),,Merrill Bad Pass Turnover (P1.T18),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,671,2,1,4,12:23 AM,5:26,MISS Landale 3PT Jump Shot,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,672,4,0,4,12:23 AM,5:22,,,Queta REBOUND (Off:0 Def:1),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,673,1,5,4,12:23 AM,5:19,,,Moneke 1' Layup (4 PTS) (Queta 1 AST),96 - 94,-2,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,674,5,2,4,12:23 AM,5:03,Biyombo Lost Ball Turnover (P1.T24),,Queta STEAL (1 STL),,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,676,1,79,4,12:23 AM,4:54,,,Cook 16' Pullup Jump Shot (6 PTS),98 - 94,-4,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,677,2,1,4,12:24 AM,4:35,MISS Wainright 24' 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,678,4,0,4,12:24 AM,4:32,,,Moneke REBOUND (Off:0 Def:1),,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,679,1,1,4,12:24 AM,4:22,,,Cook 27' 3PT Jump Shot (9 PTS) (Queta 2 AST),101 - 94,-7,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,680,5,2,4,12:24 AM,4:11,Washington Jr. Lost Ball Turnover (P11.T25),,Ellis STEAL (1 STL),,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,682,6,31,4,12:24 AM,4:11,Washington Jr. Transition Take Foul (P4.T0) (J.Conley),,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,684,18,3,4,12:25 AM,4:11,,Instant Replay4th Period (12:25 AM EST),,101 - 94,-7,0,682,Bob Sura,,,,,0,0,,,,,,1,0,,,,,,0
+0012200058,685,3,10,4,12:27 AM,4:11,,,Cook Free Throw 1 of 1 (10 PTS),102 - 94,-8,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,686,5,4,4,12:28 AM,4:04,,,Moneke Traveling Turnover (P1.T19),,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,687,5,1,4,12:28 AM,3:49,Landale Bad Pass Turnover (P4.T26),,Moneke STEAL (2 STL),,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,689,2,1,4,12:28 AM,3:31,,,MISS Cook 26' 3PT Jump Shot,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,690,4,0,4,12:28 AM,3:27,,,Merrill REBOUND (Off:1 Def:0),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,691,2,1,4,12:29 AM,3:27,,,MISS Ellis 26' 3PT Jump Shot,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,692,4,0,4,12:29 AM,3:27,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,693,8,0,4,12:29 AM,3:27,SUB: Luwawu-Cabarrot FOR Landale,,,,,4,1629111,Jock Landale,1610612756.0,Phoenix,Suns,PHX,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012200058,695,10,0,4,12:29 AM,3:24,Jump Ball Washington Jr. vs. Moneke: Tip to Cook,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0
+0012200058,698,2,1,4,12:29 AM,3:19,,,MISS Merrill 19' Jump Shot,,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,699,4,0,4,12:29 AM,3:18,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,700,6,3,4,12:29 AM,3:18,Luwawu-Cabarrot L.B.FOUL (P4.T1) (J.Goble),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200058,702,2,5,4,12:30 AM,3:13,,,MISS Moneke 4' Layup,,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,703,4,0,4,12:30 AM,3:11,Luwawu-Cabarrot REBOUND (Off:1 Def:3),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,704,2,1,4,12:30 AM,3:01,MISS S. Lee 12' Jump Shot,,,,,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,705,4,0,4,12:30 AM,2:58,,,Cook REBOUND (Off:0 Def:1),,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,706,6,4,4,12:30 AM,2:56,,,Queta OFF.Foul (P2) (J.Conley),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,708,5,37,4,12:30 AM,2:56,,,Queta Offensive Foul Turnover (P1.T20),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,709,9,1,4,12:31 AM,2:56,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,712,6,2,4,12:34 AM,2:44,,,Ellis S.FOUL (P1.PN) (J.Goble),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,714,3,11,4,12:34 AM,2:44,S. Lee Free Throw 1 of 2 (8 PTS),,,102 - 95,-7,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,715,3,12,4,12:34 AM,2:44,S. Lee Free Throw 2 of 2 (9 PTS),,,102 - 96,-6,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,716,5,1,4,12:34 AM,2:27,Luwawu-Cabarrot STEAL (1 STL),,Queta Bad Pass Turnover (P2.T21),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,719,1,79,4,12:35 AM,2:15,Washington Jr. 19' Pullup Jump Shot (31 PTS) (S. Lee 2 AST),,,102 - 98,-4,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,721,1,1,4,12:35 AM,1:53,,,Merrill 24' 3PT Jump Shot (3 PTS) (Ellis 1 AST),105 - 98,-7,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200058,723,2,101,4,12:36 AM,1:36,MISS Washington Jr. 9' Driving Floating Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,724,4,0,4,12:36 AM,1:33,,,Queta REBOUND (Off:0 Def:2),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,725,2,1,4,12:36 AM,1:19,,,MISS Merrill 27' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200058,726,4,0,4,12:36 AM,1:15,Luwawu-Cabarrot REBOUND (Off:1 Def:4),,,,,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,727,1,1,4,12:36 AM,1:00,Wainright 25' 3PT Jump Shot (9 PTS) (S. Lee 3 AST),,,105 - 101,-4,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,729,6,4,4,12:37 AM,0:46,,,Queta OFF.Foul (P3) (M.Smith),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,4,1630240,Saben Lee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012200058,731,5,37,4,12:37 AM,0:46,,,Queta Offensive Foul Turnover (P3.T22),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200058,733,9,1,4,12:37 AM,0:36,SUNS Timeout: Regular (Full 5 Short 0),,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200058,734,1,1,4,12:39 AM,0:30,Luwawu-Cabarrot 25' 3PT Jump Shot (9 PTS) (Wainright 3 AST),,,105 - 104,-1,4,1627789,Timothe Luwawu-Cabarrot,1610612756.0,Phoenix,Suns,PHX,4,1630688,Ish Wainright,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,736,5,1,4,12:40 AM,0:07,Washington Jr. STEAL (3 STL),,Cook Bad Pass Turnover (P1.T23),,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012200058,738,2,79,4,12:40 AM,0:00,MISS Washington Jr. 14' Pullup Jump Shot,,,,,4,1630613,Duane Washington Jr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,739,4,0,4,12:40 AM,0:00,Biyombo REBOUND (Off:3 Def:9),,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,740,2,97,4,12:40 AM,0:00,MISS Biyombo Tip Layup Shot,,,,,4,202687,Bismack Biyombo,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012200058,741,4,0,4,12:40 AM,0:00,SUNS Rebound,,,,,2,1610612756,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200058,742,13,0,4,12:40 AM,0:00,,End of 4th Period (12:40 AM EST),,105 - 104,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

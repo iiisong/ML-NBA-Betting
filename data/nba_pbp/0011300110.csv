@@ -1,0 +1,502 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300110,0,12,0,1,8:12 PM,12:00,,Start of 1st Period (8:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,1,10,0,1,8:12 PM,12:00,Jump Ball Gasol vs. Howard: Tip to Beverley,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0
+0011300110,2,5,40,1,8:12 PM,11:49,,,Howard Out of Bounds Lost Ball Turnover (P1.T1),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,3,5,1,1,8:13 PM,11:35,Allen Bad Pass Turnover (P1.T1),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,4,2,56,1,8:13 PM,11:20,,,MISS Asik 4' Running Hook Shot,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,5,4,0,1,8:13 PM,11:18,Randolph REBOUND (Off:0 Def:1),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,6,2,1,1,8:13 PM,11:11,MISS Gasol 11' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,7,4,0,1,8:13 PM,11:10,,,Parsons REBOUND (Off:0 Def:1),,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,8,1,1,1,8:13 PM,10:59,,,Beverley  3PT Jump Shot (3 PTS) (Parsons 1 AST),3 - 0,-3,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,9,2,1,1,8:13 PM,10:46,MISS Conley 18' Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,10,4,0,1,8:13 PM,10:45,,,Harden REBOUND (Off:0 Def:1),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,11,5,1,1,8:14 PM,10:34,Allen STEAL (1 STL),,Asik Bad Pass Turnover (P1.T2),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,12,2,5,1,8:14 PM,10:29,MISS Allen 3' Layup,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,13,4,0,1,8:14 PM,10:27,,,Harden REBOUND (Off:0 Def:2),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,14,2,1,1,8:14 PM,10:14,,,MISS Beverley  3PT Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,15,4,0,1,8:14 PM,10:13,,,Howard REBOUND (Off:1 Def:0),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,16,2,1,1,8:14 PM,10:02,,,MISS Beverley 24' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,17,4,0,1,8:14 PM,10:02,Gasol REBOUND (Off:0 Def:1),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,18,5,41,1,8:14 PM,9:49,Prince Poss Lost Ball Turnover (P1.T2),,Beverley STEAL (1 STL),,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,19,1,5,1,8:14 PM,9:45,,,Beverley 2' Layup (5 PTS),5 - 0,-5,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,20,5,2,1,8:15 PM,9:22,Randolph Lost Ball Turnover (P1.T3),,Beverley STEAL (2 STL),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,21,1,7,1,8:15 PM,9:16,,,Asik 1' Dunk (2 PTS) (Howard 1 AST),7 - 0,-7,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,22,2,44,1,8:15 PM,9:04,MISS Allen 1' Reverse Layup,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,23,4,0,1,8:15 PM,9:00,Gasol REBOUND (Off:1 Def:1),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,24,2,1,1,8:15 PM,8:50,MISS Gasol 12' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,25,4,0,1,8:15 PM,8:49,,,Harden REBOUND (Off:0 Def:3),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,26,2,5,1,8:15 PM,8:44,,,MISS Harden 2' Layup,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,27,4,0,1,8:16 PM,8:44,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,28,6,3,1,8:16 PM,8:44,,,Howard L.B.FOUL (P1.T1),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,29,2,1,1,8:16 PM,8:24,MISS Allen 21' Jump Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,30,4,0,1,8:16 PM,8:24,,,Howard REBOUND (Off:1 Def:1),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,31,2,63,1,8:17 PM,7:59,,,MISS Parsons 20' Fadeaway Jumper,,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,32,4,0,1,8:17 PM,7:57,Gasol REBOUND (Off:1 Def:2),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,33,2,1,1,8:17 PM,7:45,MISS Prince 22' Jump Shot,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,34,4,0,1,8:17 PM,7:45,,,Howard REBOUND (Off:1 Def:2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,35,1,7,1,8:17 PM,7:32,,,Asik 3' Dunk (4 PTS) (Parsons 2 AST),9 - 0,-9,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,36,9,1,1,8:17 PM,7:32,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,38,6,17,1,8:20 PM,7:22,,,Rockets T.Foul (Def. 3 Sec Harden ),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,39,3,16,1,8:20 PM,7:22,MISS Conley Free Throw Technical,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,40,4,1,1,8:20 PM,7:22,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,42,1,1,1,8:21 PM,7:10,Randolph 10' Jump Shot (2 PTS) (Prince 1 AST),,,9 - 2,-7,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,43,1,46,1,8:21 PM,6:52,,,Harden 11' Running Jump Shot (2 PTS),11 - 2,-9,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,45,6,2,1,8:21 PM,6:38,,,Asik S.FOUL (P1.T2),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,46,3,11,1,8:21 PM,6:38,MISS Gasol Free Throw 1 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,47,4,1,1,8:21 PM,6:38,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,48,8,0,1,8:22 PM,6:38,SUB: Miller FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,49,3,12,1,8:22 PM,6:38,Gasol Free Throw 2 of 2 (1 PTS),,,11 - 3,-8,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,51,6,1,1,8:23 PM,6:18,Allen P.FOUL (P1.T1),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,52,8,0,1,8:23 PM,6:18,SUB: Pondexter FOR Allen,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,53,6,4,1,8:23 PM,6:15,,,Harden OFF.Foul (P1),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,54,5,5,1,8:23 PM,6:15,,,Harden Foul Turnover (P1.T3),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,55,5,40,1,8:23 PM,6:03,Conley Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,56,1,5,1,8:24 PM,5:48,,,Howard 1' Layup (2 PTS) (Parsons 3 AST),13 - 3,-10,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,57,2,1,1,8:24 PM,5:25,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,58,4,0,1,8:24 PM,5:24,,,Harden REBOUND (Off:0 Def:4),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,59,2,42,1,8:24 PM,5:16,,,MISS Harden 2' Driving Layup,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,60,4,0,1,8:24 PM,5:14,Miller REBOUND (Off:0 Def:1),,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,61,2,1,1,8:25 PM,5:00,MISS Gasol 13' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,62,4,0,1,8:25 PM,4:59,,,Beverley REBOUND (Off:0 Def:1),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,63,1,1,1,8:25 PM,4:35,,,Harden 25' 3PT Jump Shot (5 PTS) (Parsons 4 AST),16 - 3,-13,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,64,6,2,1,8:25 PM,4:35,Pondexter S.FOUL (P1.T2),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,66,8,0,1,8:26 PM,4:35,,,SUB: Casspi FOR Asik,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,67,3,10,1,8:26 PM,4:35,,,Harden Free Throw 1 of 1 (6 PTS),17 - 3,-14,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,69,6,1,1,8:27 PM,4:34,,,Beverley P.FOUL (P1.T3),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,70,8,0,1,8:27 PM,4:34,,,SUB: Lin FOR Harden,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,71,6,1,1,8:29 PM,4:13,,,Howard P.FOUL (P2.T4),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,72,18,2,1,8:30 PM,4:13,,Altercation Ruling,,,,0,72,Kenny Anderson,,,,,0,0,,,,,,1,0,,,,,,0
+0011300110,73,6,16,1,8:30 PM,4:13,,"Double Technical - Gasol, Howard",,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,74,6,1,1,8:31 PM,4:04,,,Casspi P.FOUL (P1.PN),,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,75,3,11,1,8:31 PM,4:04,Randolph Free Throw 1 of 2 (3 PTS),,,17 - 4,-13,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,77,3,12,1,8:32 PM,4:04,Randolph Free Throw 2 of 2 (4 PTS),,,17 - 5,-12,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,79,2,1,1,8:32 PM,3:49,,,MISS Casspi  3PT Jump Shot,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,81,4,0,1,8:32 PM,3:48,,,Howard REBOUND (Off:2 Def:2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,80,2,4,1,8:32 PM,3:48,,,MISS Howard 2' Tip Shot,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,82,4,0,1,8:32 PM,3:47,,,Howard REBOUND (Off:3 Def:2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,83,6,2,1,8:32 PM,3:47,Miller S.FOUL (P1.T3),,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,84,3,11,1,8:32 PM,3:47,,,Howard Free Throw 1 of 2 (3 PTS),18 - 5,-13,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,86,3,12,1,8:33 PM,3:47,,,MISS Howard Free Throw 2 of 2,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,88,4,0,1,8:33 PM,3:46,Randolph REBOUND (Off:0 Def:2),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,89,9,2,1,8:33 PM,3:31,GRIZZLIES Timeout: Short (Full 1 Short 1),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,90,5,1,1,8:34 PM,3:28,Randolph Bad Pass Turnover (P2.T5),,Parsons STEAL (1 STL),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,91,6,2,1,8:35 PM,3:20,Gasol S.FOUL (P1.T4),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,92,3,11,1,8:35 PM,3:20,,,Lin Free Throw 1 of 2 (1 PTS),19 - 5,-14,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,93,8,0,1,8:35 PM,3:20,SUB: Bayless FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,94,8,0,1,8:35 PM,3:20,SUB: Davis FOR Randolph,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,95,8,0,1,8:35 PM,3:20,,,SUB: Garcia FOR Beverley,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,96,3,12,1,8:35 PM,3:20,,,Lin Free Throw 2 of 2 (2 PTS),20 - 5,-15,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,98,2,1,1,8:36 PM,3:09,MISS Miller 24' 3PT Jump Shot,,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,99,4,0,1,8:36 PM,3:08,,,Howard REBOUND (Off:3 Def:3),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,100,6,1,1,8:36 PM,2:56,Miller P.FOUL (P2.PN),,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,101,9,1,1,8:36 PM,2:56,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,103,3,11,1,8:38 PM,2:56,,,Garcia Free Throw 1 of 2 (1 PTS),21 - 5,-16,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,105,3,12,1,8:38 PM,2:56,,,Garcia Free Throw 2 of 2 (2 PTS),22 - 5,-17,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,107,2,79,1,8:39 PM,2:43,MISS Bayless 21' Pullup Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,108,4,0,1,8:39 PM,2:41,,,Howard REBOUND (Off:3 Def:4),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,109,1,41,1,8:39 PM,2:34,,,Casspi 3' Running Layup (2 PTS) (Parsons 5 AST),24 - 5,-19,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,110,1,1,1,8:39 PM,2:17,Gasol 17' Jump Shot (3 PTS) (Davis 1 AST),,,24 - 7,-17,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,111,1,1,1,8:40 PM,2:02,,,Parsons 8' Jump Shot (2 PTS),26 - 7,-19,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,112,6,2,1,8:40 PM,1:36,,,Howard S.FOUL (P3.PN),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,113,3,11,1,8:40 PM,1:36,Gasol Free Throw 1 of 2 (4 PTS),,,26 - 8,-18,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,115,8,0,1,8:41 PM,1:36,,,SUB: Asik FOR Howard,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,116,3,12,1,8:41 PM,1:36,MISS Gasol Free Throw 2 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,118,4,0,1,8:41 PM,1:35,,,Asik REBOUND (Off:0 Def:1),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,119,1,42,1,8:41 PM,1:19,,,Lin 3' Driving Layup (4 PTS),28 - 8,-20,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,120,2,1,1,8:41 PM,1:05,MISS Gasol 11' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,121,4,0,1,8:41 PM,1:04,,,Casspi REBOUND (Off:0 Def:1),,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,122,1,66,1,8:42 PM,0:48,,,Parsons 8' Jump Bank Shot (4 PTS),30 - 8,-22,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,123,2,1,1,8:42 PM,0:40,MISS Bayless 17' Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,124,4,0,1,8:42 PM,0:40,,,Asik REBOUND (Off:0 Def:2),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,125,2,1,1,8:42 PM,0:21,,,MISS Parsons 25' 3PT Jump Shot,,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,126,4,0,1,8:42 PM,0:21,Davis REBOUND (Off:0 Def:1),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,127,1,5,1,8:42 PM,0:03,Gasol 2' Layup (6 PTS) (Pondexter 1 AST),,,30 - 10,-20,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,128,13,0,1,8:43 PM,0:00,,End of 1st Period (8:43 PM EST),,30 - 10,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,130,12,0,2,8:45 PM,12:00,,Start of 2nd Period (8:45 PM EST),,30 - 10,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,132,6,1,2,8:46 PM,11:43,,,Lin P.FOUL (P1.T1),,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,133,2,79,2,8:46 PM,11:36,MISS Pondexter 19' Pullup Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,134,4,0,2,8:46 PM,11:35,Davis REBOUND (Off:1 Def:1),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,135,2,1,2,8:47 PM,11:31,MISS Miller 24' 3PT Jump Shot,,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,136,4,0,2,8:47 PM,11:31,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,137,6,3,2,8:47 PM,11:31,Davis L.B.FOUL (P1.T1),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,138,2,46,2,8:47 PM,11:22,,,MISS Beverley 7' Running Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,139,4,0,2,8:47 PM,11:20,Davis REBOUND (Off:1 Def:2),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,140,2,79,2,8:47 PM,11:09,MISS Pondexter 6' Pullup Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,141,4,0,2,8:47 PM,11:07,Koufos REBOUND (Off:1 Def:0),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,142,2,5,2,8:47 PM,11:05,MISS Koufos 3' Layup,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,144,4,0,2,8:47 PM,11:03,Pondexter REBOUND (Off:1 Def:0),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,143,2,4,2,8:47 PM,11:03,MISS Pondexter 2' Tip Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,145,4,0,2,8:47 PM,11:01,,,Lin REBOUND (Off:0 Def:1),,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,146,2,1,2,8:47 PM,10:58,,,MISS Garcia 25' 3PT Jump Shot,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,148,4,0,2,8:47 PM,10:56,,,Asik REBOUND (Off:1 Def:2),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,147,2,5,2,8:47 PM,10:56,,,MISS Asik 2' Layup,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,149,4,0,2,8:47 PM,10:56,,,Asik REBOUND (Off:2 Def:2),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,150,6,2,2,8:48 PM,10:56,Davis S.FOUL (P2.T2),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,151,3,11,2,8:48 PM,10:56,,,MISS Asik Free Throw 1 of 2,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,153,4,0,2,8:48 PM,10:56,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,152,8,0,2,8:48 PM,10:56,SUB: Conley FOR Pondexter,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,156,7,3,2,8:48 PM,10:56,Davis Violation:Lane,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,158,3,12,2,8:49 PM,10:56,,,MISS Asik Free Throw 2 of 2,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,160,4,0,2,8:49 PM,10:54,Koufos REBOUND (Off:1 Def:1),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,161,1,42,2,8:49 PM,10:45,Conley 1' Driving Layup (2 PTS),,,30 - 12,-18,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,162,2,79,2,8:49 PM,10:23,,,MISS Garcia 19' Pullup Jump Shot,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,163,4,0,2,8:49 PM,10:21,,,Beverley REBOUND (Off:1 Def:1),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,164,2,1,2,8:49 PM,10:17,,,MISS Lin 24' 3PT Jump Shot,,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,165,4,0,2,8:49 PM,10:16,Davis REBOUND (Off:1 Def:3),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,166,6,3,2,8:49 PM,10:15,,,Beverley L.B.FOUL (P2.T2),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,167,6,1,2,8:50 PM,10:01,,,Casspi P.FOUL (P2.T3),,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,168,2,79,2,8:50 PM,9:53,MISS Bayless 14' Pullup Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,169,4,0,2,8:51 PM,9:51,Koufos REBOUND (Off:2 Def:1),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,170,6,2,2,8:51 PM,9:51,,,Asik S.FOUL (P2.T4),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,171,3,11,2,8:51 PM,9:51,Koufos Free Throw 1 of 2 (1 PTS),,,30 - 13,-17,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,173,3,12,2,8:51 PM,9:51,Koufos Free Throw 2 of 2 (2 PTS),,,30 - 14,-16,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,176,1,46,2,8:52 PM,9:27,,,Beverley 15' Running Jump Shot (7 PTS),32 - 14,-18,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,177,5,4,2,8:52 PM,9:18,Conley Traveling Turnover (P2.T6),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,178,2,1,2,8:53 PM,8:55,,,MISS Beverley 25' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,179,4,0,2,8:53 PM,8:54,Davis REBOUND (Off:1 Def:4),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,180,2,3,2,8:53 PM,8:38,MISS Koufos 7' Hook Shot,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,181,4,0,2,8:53 PM,8:36,,,Lin REBOUND (Off:0 Def:2),,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,182,6,27,2,8:53 PM,8:34,Conley Personal Block Foul (P1.T3),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,183,9,4,2,8:53 PM,8:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,185,8,0,2,8:55 PM,8:34,SUB: Randolph FOR Miller,,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,186,8,0,2,8:55 PM,8:34,SUB: Prince FOR Bayless,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,187,8,0,2,8:55 PM,8:34,SUB: Allen FOR Davis,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,188,2,1,2,8:56 PM,8:26,,,MISS Casspi 25' 3PT Jump Shot,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,189,4,0,2,8:56 PM,8:25,Prince REBOUND (Off:0 Def:1),,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,190,1,1,2,8:56 PM,8:06,Randolph 13' Jump Shot (6 PTS) (Prince 2 AST),,,32 - 16,-16,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,191,1,5,2,8:56 PM,7:45,,,Beverley 3' Layup (9 PTS) (Asik 1 AST),34 - 16,-18,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,192,5,2,2,8:57 PM,7:33,Prince Lost Ball Turnover (P2.T7),,Garcia STEAL (1 STL),,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,193,7,5,2,8:57 PM,7:32,Prince Violation:Kicked Ball,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,194,1,5,2,8:57 PM,7:26,,,Lin 2' Layup (6 PTS),36 - 16,-20,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,195,5,1,2,8:57 PM,7:08,Prince Bad Pass Turnover (P3.T8),,Beverley STEAL (3 STL),,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,197,8,0,2,8:58 PM,7:08,,,SUB: Howard FOR Casspi,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,198,1,42,2,8:58 PM,6:50,,,Lin 2' Driving Layup (8 PTS),38 - 16,-22,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,199,2,46,2,8:58 PM,6:31,MISS Randolph 4' Running Jump Shot,,Howard BLOCK (1 BLK),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0
+0011300110,200,4,0,2,8:58 PM,6:29,,,Beverley REBOUND (Off:1 Def:2),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,201,2,1,2,8:58 PM,6:24,,,MISS Beverley 25' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,202,4,0,2,8:58 PM,6:24,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,203,6,3,2,8:59 PM,6:24,,,Howard L.B.FOUL (P4.PN),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,204,3,11,2,8:59 PM,6:24,MISS Koufos Free Throw 1 of 2,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,205,4,1,2,8:59 PM,6:24,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,210,3,12,2,9:00 PM,6:24,Koufos Free Throw 2 of 2 (3 PTS),,,38 - 17,-21,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,215,6,1,2,9:01 PM,6:11,Koufos P.FOUL (P1.T4),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,216,8,0,2,9:01 PM,6:11,SUB: Gasol FOR Koufos,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,217,8,0,2,9:01 PM,6:11,,,SUB: Parsons FOR Garcia,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,218,2,46,2,9:01 PM,6:02,,,MISS Parsons 9' Running Jump Shot,,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,219,4,0,2,9:01 PM,6:00,,,Howard REBOUND (Off:4 Def:4),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,220,5,1,2,9:01 PM,5:57,Allen STEAL (2 STL),,Howard Bad Pass Turnover (P2.T4),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,221,6,1,2,9:01 PM,5:56,,,Beverley P.FOUL (P3.PN),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,254,9,1,2,9:01 PM,5:56,GRIZZLIES Timeout: Regular (Full 2 Short 1),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,223,3,11,2,9:04 PM,5:56,Allen Free Throw 1 of 2 (1 PTS),,,38 - 18,-20,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,225,3,12,2,9:04 PM,5:56,Allen Free Throw 2 of 2 (2 PTS),,,38 - 19,-19,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,227,2,47,2,9:05 PM,5:39,Gasol BLOCK (1 BLK),,MISS Howard 5' Turnaround Jump Shot,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300110,228,4,0,2,9:05 PM,5:39,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,229,2,78,2,9:05 PM,5:37,,,MISS Beverley 9' Floating Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,230,4,0,2,9:05 PM,5:35,Randolph REBOUND (Off:0 Def:3),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,231,2,1,2,9:05 PM,5:20,MISS Prince 20' Jump Shot,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,232,4,0,2,9:05 PM,5:20,,,Beverley REBOUND (Off:1 Def:3),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,233,2,1,2,9:05 PM,5:01,,,MISS Parsons 24' 3PT Jump Shot,,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,235,4,0,2,9:05 PM,5:00,,,Asik REBOUND (Off:3 Def:2),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,234,2,4,2,9:05 PM,5:00,,,MISS Asik 2' Tip Shot,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,236,4,0,2,9:05 PM,4:57,Randolph REBOUND (Off:0 Def:4),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,237,6,2,2,9:06 PM,4:49,,,Lin S.FOUL (P2.PN),,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,238,3,11,2,9:06 PM,4:49,Conley Free Throw 1 of 2 (3 PTS),,,38 - 20,-18,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,240,3,12,2,9:06 PM,4:49,MISS Conley Free Throw 2 of 2,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,242,4,0,2,9:06 PM,4:48,,,Howard REBOUND (Off:4 Def:5),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,243,2,46,2,9:07 PM,4:26,,,MISS Beverley 9' Running Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,244,4,0,2,9:07 PM,4:24,Conley REBOUND (Off:0 Def:1),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,245,6,1,2,9:07 PM,4:20,,,Asik P.FOUL (P3.PN),,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,246,3,11,2,9:07 PM,4:20,Randolph Free Throw 1 of 2 (7 PTS),,,38 - 21,-17,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,248,3,12,2,9:07 PM,4:20,Randolph Free Throw 2 of 2 (8 PTS),,,38 - 22,-16,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,250,6,2,2,9:08 PM,4:08,Gasol S.FOUL (P2.PN),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,251,3,11,2,9:08 PM,4:08,,,Howard Free Throw 1 of 2 (4 PTS),39 - 22,-17,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,253,3,12,2,9:08 PM,4:08,,,MISS Howard Free Throw 2 of 2,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,256,4,0,2,9:08 PM,4:08,,,Howard REBOUND (Off:5 Def:5),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,257,1,5,2,9:08 PM,4:04,,,Howard 1' Layup (6 PTS),41 - 22,-19,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,259,2,1,2,9:09 PM,3:44,MISS Gasol 17' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,260,4,0,2,9:09 PM,3:43,,,Beverley REBOUND (Off:1 Def:4),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,261,2,80,2,9:09 PM,3:34,,,MISS Lin 26' 3PT Step Back Jump Shot,,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,262,4,0,2,9:09 PM,3:31,Prince REBOUND (Off:0 Def:2),,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,263,2,5,2,9:09 PM,3:28,MISS Allen 2' Layup,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,264,4,0,2,9:09 PM,3:27,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,265,8,0,2,9:09 PM,3:27,SUB: Pondexter FOR Allen,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,266,8,0,2,9:09 PM,3:27,SUB: Bayless FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,267,2,5,2,9:10 PM,3:14,,,MISS Asik 2' Layup,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,268,4,0,2,9:10 PM,3:13,Randolph REBOUND (Off:0 Def:5),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,269,2,41,2,9:10 PM,3:00,MISS Randolph 3' Running Layup,,Howard BLOCK (2 BLK),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0
+0011300110,270,4,0,2,9:10 PM,2:57,Pondexter REBOUND (Off:2 Def:0),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,271,5,2,2,9:10 PM,2:54,Randolph Lost Ball Turnover (P3.T9),,Parsons STEAL (2 STL),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,272,2,1,2,9:10 PM,2:48,,,MISS Parsons 25' 3PT Jump Shot,,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,273,4,0,2,9:10 PM,2:46,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,274,9,1,2,9:10 PM,2:46,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,276,8,0,2,9:12 PM,2:46,,,SUB: Brooks FOR Parsons,,,5,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,277,8,0,2,9:12 PM,2:46,,,SUB: Smith FOR Howard,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,278,8,0,2,9:12 PM,2:46,,,SUB: Brewer FOR Asik,,,5,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,279,8,0,2,9:12 PM,2:46,,,SUB: Motiejunas FOR Beverley,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,280,8,0,2,9:12 PM,2:46,,,SUB: Garcia FOR Lin,,,5,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,281,8,0,2,9:12 PM,2:46,SUB: Miller FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,282,6,2,2,9:13 PM,2:27,,,Garcia S.FOUL (P1.PN),,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,283,3,11,2,9:13 PM,2:27,Gasol Free Throw 1 of 2 (7 PTS),,,41 - 23,-18,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,285,3,12,2,9:13 PM,2:27,Gasol Free Throw 2 of 2 (8 PTS),,,41 - 24,-17,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,287,5,39,2,9:14 PM,2:17,,,Garcia Step Out of Bounds Turnover (P1.T5),,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,288,2,85,2,9:14 PM,2:02,MISS Pondexter 4' Turnaround Bank Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,290,4,0,2,9:14 PM,1:58,Randolph REBOUND (Off:1 Def:5),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,289,1,5,2,9:14 PM,1:58,Randolph 1' Layup (10 PTS),,,41 - 26,-15,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,291,1,3,2,9:15 PM,1:42,,,Motiejunas 4' Hook Shot (2 PTS) (Brewer 1 AST),43 - 26,-17,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,292,6,2,2,9:15 PM,1:30,,,Smith S.FOUL (P1.PN),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,293,3,11,2,9:15 PM,1:30,Gasol Free Throw 1 of 2 (9 PTS),,,43 - 27,-16,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,295,3,12,2,9:15 PM,1:30,Gasol Free Throw 2 of 2 (10 PTS),,,43 - 28,-15,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,297,6,4,2,9:16 PM,1:20,,,Motiejunas OFF.Foul (P1),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,298,5,5,2,9:16 PM,1:20,,,Motiejunas Foul Turnover (P1.T6),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,299,2,1,2,9:16 PM,0:53,MISS Bayless 25' 3PT Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,300,4,0,2,9:16 PM,0:53,Miller REBOUND (Off:1 Def:1),,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,301,6,2,2,9:17 PM,0:47,,,Brewer S.FOUL (P1.PN),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,302,3,11,2,9:17 PM,0:47,Pondexter Free Throw 1 of 2 (1 PTS),,,43 - 29,-14,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,304,3,12,2,9:17 PM,0:47,MISS Pondexter Free Throw 2 of 2,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,306,4,0,2,9:17 PM,0:46,,,Motiejunas REBOUND (Off:0 Def:1),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,307,1,5,2,9:17 PM,0:39,,,Brooks 1' Layup (2 PTS),45 - 29,-16,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,308,1,5,2,9:18 PM,0:28,Pondexter 2' Layup (3 PTS),,,45 - 31,-14,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,309,6,2,2,9:18 PM,0:28,,,Smith S.FOUL (P2.PN),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,310,3,10,2,9:18 PM,0:28,Pondexter Free Throw 1 of 1 (4 PTS),,,45 - 32,-13,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,312,1,1,2,9:18 PM,0:08,,,Brooks 24' 3PT Jump Shot (5 PTS),48 - 32,-16,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,313,2,1,2,9:19 PM,0:00,MISS Gasol 25' 3PT Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,315,4,0,2,9:19 PM,0:00,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,314,13,0,2,9:19 PM,0:00,,End of 2nd Period (9:19 PM EST),,48 - 32,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,318,12,0,3,9:34 PM,12:00,,Start of 3rd Period (9:34 PM EST),,48 - 32,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,319,2,47,3,9:35 PM,11:42,MISS Gasol 10' Turnaround Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,320,4,0,3,9:35 PM,11:41,Allen REBOUND (Off:1 Def:0),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,321,6,2,3,9:35 PM,11:39,,,Smith S.FOUL (P3.T1),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,322,3,11,3,9:35 PM,11:39,Allen Free Throw 1 of 2 (3 PTS),,,48 - 33,-15,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,324,3,12,3,9:35 PM,11:39,Allen Free Throw 2 of 2 (4 PTS),,,48 - 34,-14,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,326,2,79,3,9:36 PM,11:23,,,MISS Garcia 19' Pullup Jump Shot,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,327,4,0,3,9:36 PM,11:19,Prince REBOUND (Off:0 Def:3),,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,328,5,1,3,9:36 PM,11:11,Allen Bad Pass Turnover (P2.T10),,Brewer STEAL (1 STL),,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,329,2,1,3,9:36 PM,11:04,,,MISS Brooks 3' Jump Shot,,,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,330,4,0,3,9:36 PM,11:01,,,Brewer REBOUND (Off:1 Def:0),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,331,2,1,3,9:36 PM,10:59,,,MISS Motiejunas 25' 3PT Jump Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,332,4,0,3,9:36 PM,10:58,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,333,2,58,3,9:37 PM,10:45,,,MISS Smith 8' Turnaround Hook Shot,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,334,4,0,3,9:37 PM,10:41,Randolph REBOUND (Off:1 Def:6),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,335,5,1,3,9:37 PM,10:37,Conley Bad Pass Turnover (P3.T11),,Garcia STEAL (2 STL),,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,336,6,1,3,9:37 PM,10:35,Allen P.FOUL (P2.T1),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,337,2,56,3,9:37 PM,10:21,,,MISS Motiejunas 5' Running Hook Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,338,4,0,3,9:37 PM,10:18,Gasol REBOUND (Off:1 Def:3),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,339,2,1,3,9:38 PM,10:06,MISS Allen 8' Jump Shot,,Smith BLOCK (1 BLK),,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0
+0011300110,340,4,0,3,9:38 PM,10:04,,,Smith REBOUND (Off:0 Def:1),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,341,2,5,3,9:38 PM,9:54,,,MISS Smith 2' Layup,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,342,4,0,3,9:38 PM,9:53,,,Smith REBOUND (Off:1 Def:1),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,343,2,1,3,9:38 PM,9:47,,,MISS Garcia 26' 3PT Jump Shot,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,344,4,0,3,9:38 PM,9:45,Randolph REBOUND (Off:1 Def:7),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,345,2,1,3,9:38 PM,9:34,MISS Prince 24' 3PT Jump Shot,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,346,4,0,3,9:38 PM,9:33,,,Garcia REBOUND (Off:0 Def:1),,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,347,2,5,3,9:38 PM,9:23,Gasol BLOCK (2 BLK),,MISS Brooks 2' Layup,,,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300110,348,4,0,3,9:38 PM,9:21,Gasol REBOUND (Off:1 Def:4),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,349,6,26,3,9:39 PM,9:16,Randolph Offensive Charge Foul (P1.T2),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,350,5,5,3,9:39 PM,9:16,Randolph Foul Turnover (P4.T12),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,351,5,1,3,9:39 PM,8:56,Allen STEAL (3 STL),,Brewer Bad Pass Turnover (P1.T7),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,352,6,2,3,9:39 PM,8:40,,,Smith S.FOUL (P4.T2),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,353,3,11,3,9:40 PM,8:40,Gasol Free Throw 1 of 2 (11 PTS),,,48 - 35,-13,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,355,3,12,3,9:40 PM,8:40,MISS Gasol Free Throw 2 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,357,4,0,3,9:40 PM,8:40,,,Motiejunas REBOUND (Off:0 Def:2),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,358,5,2,3,9:40 PM,8:20,Conley STEAL (1 STL),,Motiejunas Lost Ball Turnover (P2.T8),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,359,2,1,3,9:41 PM,8:09,MISS Conley 26' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,360,4,0,3,9:41 PM,8:08,,,Smith REBOUND (Off:1 Def:2),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,361,1,5,3,9:41 PM,7:56,,,Smith 2' Layup (2 PTS) (Garcia 1 AST),50 - 35,-15,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,362,5,1,3,9:41 PM,7:43,Gasol Bad Pass Turnover (P1.T13),,Brewer STEAL (2 STL),,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,363,1,5,3,9:41 PM,7:38,,,Garcia 1' Layup (4 PTS) (Brewer 2 AST),52 - 35,-17,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,364,9,1,3,9:41 PM,7:38,GRIZZLIES Timeout: Regular (Full 3 Short 1),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,366,8,0,3,9:43 PM,7:38,,,SUB: Casspi FOR Motiejunas,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,368,2,44,3,9:44 PM,7:26,MISS Gasol 1' Reverse Layup,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,369,4,0,3,9:44 PM,7:22,,,Smith REBOUND (Off:1 Def:3),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,370,6,1,3,9:44 PM,7:17,Conley P.FOUL (P2.T3),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,371,8,0,3,9:44 PM,7:17,SUB: Miller FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,372,2,79,3,9:44 PM,7:05,,,MISS Brooks 14' Pullup Jump Shot,,,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,373,4,0,3,9:44 PM,7:03,,,Smith REBOUND (Off:2 Def:3),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,375,1,5,3,9:45 PM,6:49,,,Casspi 3' Layup (4 PTS) (Garcia 2 AST),54 - 35,-19,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,376,6,2,3,9:45 PM,6:49,Randolph S.FOUL (P2.T4),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,377,3,10,3,9:45 PM,6:49,,,Casspi Free Throw 1 of 1 (5 PTS),55 - 35,-20,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,379,6,1,3,9:46 PM,6:36,,,Casspi P.FOUL (P3.T3),,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,380,2,1,3,9:46 PM,6:24,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,381,4,0,3,9:46 PM,6:23,,,Brewer REBOUND (Off:1 Def:1),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,382,1,80,3,9:46 PM,6:13,,,Casspi 17' Step Back Jump Shot (7 PTS),57 - 35,-22,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,383,2,1,3,9:47 PM,5:55,MISS Allen 21' Jump Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,384,4,0,3,9:47 PM,5:53,Randolph REBOUND (Off:2 Def:7),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,385,2,1,3,9:47 PM,5:44,MISS Allen 24' 3PT Jump Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,386,4,0,3,9:47 PM,5:43,Gasol REBOUND (Off:2 Def:4),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,387,5,2,3,9:47 PM,5:40,Gasol Lost Ball Turnover (P2.T14),,Smith STEAL (1 STL),,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,388,2,1,3,9:47 PM,5:33,,,MISS Brooks 25' 3PT Jump Shot,,,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,389,4,0,3,9:47 PM,5:32,Randolph REBOUND (Off:2 Def:8),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,390,9,2,3,9:47 PM,5:31,GRIZZLIES Timeout: Short (Full 3 Short 2),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,392,8,0,3,9:48 PM,5:31,SUB: Bayless FOR Randolph,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,393,1,5,3,9:49 PM,5:15,Gasol 2' Layup (13 PTS),,,57 - 37,-20,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,394,2,66,3,9:49 PM,4:57,,,MISS Casspi 11' Jump Bank Shot,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,395,4,0,3,9:49 PM,4:56,,,Smith REBOUND (Off:3 Def:3),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,396,1,79,3,9:49 PM,4:50,,,Brewer 20' Pullup Jump Shot (2 PTS) (Garcia 3 AST),59 - 37,-22,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,397,5,4,3,9:49 PM,4:39,Bayless Traveling Turnover (P1.T15),,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,398,8,0,3,9:49 PM,4:39,SUB: Pondexter FOR Allen,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,399,5,4,3,9:50 PM,4:23,,,Smith Traveling Turnover (P1.T9),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,400,2,1,3,9:50 PM,4:09,MISS Pondexter  3PT Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,401,4,0,3,9:50 PM,4:08,,,Garcia REBOUND (Off:0 Def:2),,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,402,1,44,3,9:50 PM,3:55,,,Casspi 2' Reverse Layup (9 PTS),61 - 37,-24,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,403,1,5,3,9:51 PM,3:40,Gasol 3' Layup (15 PTS) (Conley 1 AST),,,61 - 39,-22,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,404,2,1,3,9:51 PM,3:20,,,MISS Garcia 26' 3PT Jump Shot,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,405,4,0,3,9:51 PM,3:19,Gasol REBOUND (Off:2 Def:5),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,406,6,2,3,9:51 PM,3:08,,,Garcia S.FOUL (P2.T4),,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,407,3,11,3,9:51 PM,3:08,Gasol Free Throw 1 of 2 (16 PTS),,,61 - 40,-21,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,409,8,0,3,9:52 PM,3:08,,,SUB: Covington FOR Garcia,,,5,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,410,8,0,3,9:52 PM,3:08,SUB: Calathes FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,411,3,12,3,9:52 PM,3:08,Gasol Free Throw 2 of 2 (17 PTS),,,61 - 41,-20,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,413,2,79,3,9:52 PM,2:49,,,MISS Brewer 19' Pullup Jump Shot,,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,414,4,0,3,9:52 PM,2:47,Gasol REBOUND (Off:2 Def:6),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,415,1,1,3,9:53 PM,2:30,Bayless 25' 3PT Jump Shot (3 PTS) (Calathes 1 AST),,,61 - 44,-17,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,416,1,1,3,9:53 PM,2:14,,,Casspi 19' Jump Shot (11 PTS),63 - 44,-19,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,417,2,1,3,9:53 PM,1:58,MISS Gasol 14' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,418,4,0,3,9:53 PM,1:56,,,Covington REBOUND (Off:0 Def:1),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,419,5,1,3,9:53 PM,1:49,,,Brooks Bad Pass Turnover (P1.T10),,,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,421,9,1,3,9:53 PM,1:49,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,422,8,0,3,9:55 PM,1:49,,,SUB: Motiejunas FOR Smith,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,423,8,0,3,9:56 PM,1:49,SUB: Davis FOR Gasol,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,424,1,5,3,9:56 PM,1:30,Davis 2' Layup (2 PTS) (Calathes 2 AST),,,63 - 46,-17,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,425,6,2,3,9:56 PM,1:30,,,Brooks S.FOUL (P1.PN),,,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,426,3,10,3,9:56 PM,1:30,MISS Davis Free Throw 1 of 1,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,428,4,0,3,9:57 PM,1:29,,,Covington REBOUND (Off:0 Def:2),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,429,6,2,3,9:57 PM,1:15,Pondexter S.FOUL (P2.PN),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,430,3,11,3,9:57 PM,1:15,,,MISS Covington Free Throw 1 of 2,,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,431,4,1,3,9:57 PM,1:15,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,432,3,12,3,9:57 PM,1:15,,,Covington Free Throw 2 of 2 (1 PTS),64 - 46,-18,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,434,5,4,3,9:58 PM,1:05,Davis Traveling Turnover (P1.T16),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,435,1,1,3,9:58 PM,1:00,,,Covington 24' 3PT Jump Shot (4 PTS) (Brooks 1 AST),67 - 46,-21,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,436,2,1,3,9:58 PM,0:53,MISS Miller 25' 3PT Jump Shot,,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,437,4,0,3,9:58 PM,0:49,,,Motiejunas REBOUND (Off:0 Def:3),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,438,1,47,3,9:58 PM,0:40,,,Motiejunas 7' Turnaround Jump Shot (4 PTS) (Brewer 3 AST),69 - 46,-23,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,439,1,1,3,9:58 PM,0:31,Miller 26' 3PT Jump Shot (3 PTS) (Bayless 1 AST),,,69 - 49,-20,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,440,2,1,3,9:59 PM,0:16,,,MISS Casspi 26' 3PT Jump Shot,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,441,4,0,3,9:59 PM,0:15,,,Brewer REBOUND (Off:2 Def:1),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,442,1,79,3,9:59 PM,0:01,,,Brooks 21' Pullup Jump Shot (7 PTS),71 - 49,-22,5,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,444,13,0,3,9:59 PM,0:00,,End of 3rd Period (9:59 PM EST),,71 - 49,-22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,445,12,0,4,10:02 PM,12:00,,Start of 4th Period (10:02 PM EST),,71 - 49,-22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,446,2,80,4,10:02 PM,11:43,,,MISS Casspi 19' Step Back Jump Shot,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,447,4,0,4,10:02 PM,11:41,,,Motiejunas REBOUND (Off:1 Def:3),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,448,2,1,4,10:02 PM,11:37,,,MISS Canaan 26' 3PT Jump Shot,,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,449,4,0,4,10:02 PM,11:36,,,Covington REBOUND (Off:1 Def:2),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,450,6,1,4,10:02 PM,11:26,Miller P.FOUL (P3.T1),,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,451,5,40,4,10:03 PM,11:14,,,Brewer Out of Bounds Lost Ball Turnover (P2.T11),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,452,2,1,4,10:03 PM,10:56,MISS Davis 6' Jump Shot,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,453,4,0,4,10:03 PM,10:56,,,Casspi REBOUND (Off:0 Def:2),,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,454,6,1,4,10:03 PM,10:51,Miller P.FOUL (P4.T2),,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,455,5,4,4,10:04 PM,10:35,,,Canaan Traveling Turnover (P1.T12),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,456,8,0,4,10:04 PM,10:35,SUB: Leuer FOR Miller,,,,,4,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,457,5,2,4,10:04 PM,10:22,Pondexter Lost Ball Turnover (P1.T17),,Covington STEAL (1 STL),,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,458,5,2,4,10:04 PM,10:19,Pondexter STEAL (1 STL),,Brewer Lost Ball Turnover (P3.T13),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,459,1,5,4,10:04 PM,10:16,Leuer 3' Layup (2 PTS) (Davis 2 AST),,,71 - 51,-20,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,460,1,56,4,10:05 PM,9:57,,,Motiejunas 8' Running Hook Shot (6 PTS) (Casspi 1 AST),73 - 51,-22,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,461,1,1,4,10:05 PM,9:44,Leuer 22' Jump Shot (4 PTS) (Davis 3 AST),,,73 - 53,-20,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,462,5,1,4,10:05 PM,9:31,Calathes STEAL (1 STL),,Covington Bad Pass Turnover (P1.T14),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,463,6,2,4,10:05 PM,9:24,,,Covington S.FOUL (P1.T1),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,464,3,11,4,10:05 PM,9:24,Davis Free Throw 1 of 2 (3 PTS),,,73 - 54,-19,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,466,8,0,4,10:06 PM,9:24,,,SUB: Smith FOR Casspi,,,5,201956,Omri Casspi,1610612745.0,Houston,Rockets,HOU,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,467,3,12,4,10:06 PM,9:24,MISS Davis Free Throw 2 of 2,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,469,4,0,4,10:06 PM,9:23,,,Motiejunas REBOUND (Off:1 Def:4),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,470,6,2,4,10:06 PM,9:16,Bayless S.FOUL (P1.T3),,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,471,3,11,4,10:06 PM,9:16,,,Covington Free Throw 1 of 2 (5 PTS),74 - 54,-20,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,473,3,12,4,10:06 PM,9:16,,,MISS Covington Free Throw 2 of 2,,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,475,4,0,4,10:07 PM,9:15,,,Covington REBOUND (Off:2 Def:2),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,476,2,1,4,10:07 PM,9:12,Davis BLOCK (1 BLK),,MISS Covington 4' Jump Shot,,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300110,477,4,0,4,10:07 PM,9:10,Pondexter REBOUND (Off:2 Def:1),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,478,6,1,4,10:07 PM,9:08,,,Covington P.FOUL (P2.T2),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,479,9,1,4,10:07 PM,9:05,GRIZZLIES Timeout: Regular (Full 4 Short 2),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,483,6,1,4,10:10 PM,9:01,,,Covington P.FOUL (P3.T3),,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,484,6,4,4,10:10 PM,9:01,Pondexter OFF.Foul (P3),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,485,5,5,4,10:10 PM,9:01,Pondexter Foul Turnover (P2.T18),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,486,2,1,4,10:10 PM,8:44,,,MISS Brewer  3PT Jump Shot,,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,487,4,0,4,10:10 PM,8:43,,,Motiejunas REBOUND (Off:2 Def:4),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,488,6,15,4,10:11 PM,8:42,Davis FLAGRANT.FOUL.TYPE2 (P3.T4),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,489,18,0,4,10:11 PM,8:42,,Support Ruling,,,,0,488,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300110,490,11,3,4,10:12 PM,8:42,Davis Ejection:First Flagrant Type 2,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300110,491,8,0,4,10:12 PM,8:42,SUB: Koufos FOR Davis,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,492,3,18,4,10:12 PM,8:42,,,Motiejunas Free Throw Flagrant 1 of 2 (7 PTS),75 - 54,-21,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,494,3,19,4,10:12 PM,8:42,,,Motiejunas Free Throw Flagrant 2 of 2 (8 PTS),76 - 54,-22,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,496,6,2,4,10:13 PM,8:32,Koufos S.FOUL (P2.PN),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,497,3,11,4,10:13 PM,8:32,,,Smith Free Throw 1 of 2 (3 PTS),77 - 54,-23,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,499,3,12,4,10:13 PM,8:32,,,MISS Smith Free Throw 2 of 2,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,501,4,0,4,10:14 PM,8:29,Koufos REBOUND (Off:2 Def:2),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,502,1,46,4,10:14 PM,8:11,Calathes 4' Running Jump Shot (2 PTS),,,77 - 56,-21,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,503,1,5,4,10:14 PM,7:46,,,Smith 3' Layup (5 PTS) (Motiejunas 1 AST),79 - 56,-23,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,504,1,5,4,10:14 PM,7:37,Koufos  Layup (5 PTS) (Pondexter 2 AST),,,79 - 58,-21,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,505,6,2,4,10:14 PM,7:37,,,Brewer S.FOUL (P2.T4),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,506,3,10,4,10:15 PM,7:37,MISS Koufos Free Throw 1 of 1,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,508,4,0,4,10:15 PM,7:37,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,509,1,79,4,10:15 PM,7:16,,,Canaan 23' Pullup Jump Shot (2 PTS),81 - 58,-23,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,510,2,1,4,10:16 PM,7:04,MISS Leuer 24' 3PT Jump Shot,,,,,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,511,4,0,4,10:16 PM,7:03,,,Smith REBOUND (Off:3 Def:4),,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,512,2,1,4,10:16 PM,6:44,,,MISS Motiejunas 25' 3PT Jump Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,513,4,0,4,10:16 PM,6:44,Pondexter REBOUND (Off:2 Def:2),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,514,6,2,4,10:16 PM,6:26,,,Motiejunas S.FOUL (P2.PN),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,515,3,11,4,10:16 PM,6:26,Pondexter Free Throw 1 of 2 (5 PTS),,,81 - 59,-22,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,517,3,12,4,10:17 PM,6:26,MISS Pondexter Free Throw 2 of 2,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,519,4,0,4,10:17 PM,6:23,,,Canaan REBOUND (Off:0 Def:1),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,520,5,4,4,10:17 PM,6:17,,,Canaan Traveling Turnover (P2.T15),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,521,5,1,4,10:17 PM,6:08,Calathes Bad Pass Turnover (P1.T19),,Canaan STEAL (1 STL),,,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,522,1,44,4,10:17 PM,6:02,,,Motiejunas 1' Reverse Layup (10 PTS) (Brewer 4 AST),83 - 59,-24,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011300110,523,9,1,4,10:18 PM,6:02,GRIZZLIES Timeout: Regular (Full 5 Short 2),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,527,6,2,4,10:20 PM,5:50,,,Motiejunas S.FOUL (P3.PN),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,528,3,11,4,10:20 PM,5:50,MISS Koufos Free Throw 1 of 2,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,529,4,1,4,10:20 PM,5:50,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,530,3,12,4,10:20 PM,5:50,MISS Koufos Free Throw 2 of 2,,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,532,4,0,4,10:21 PM,5:49,,,Motiejunas REBOUND (Off:2 Def:5),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,533,6,1,4,10:21 PM,5:38,Calathes P.FOUL (P1.PN),,,,,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,534,3,11,4,10:21 PM,5:38,,,Canaan Free Throw 1 of 2 (3 PTS),84 - 59,-25,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,536,3,12,4,10:21 PM,5:38,,,MISS Canaan Free Throw 2 of 2,,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,538,4,0,4,10:21 PM,5:37,Calathes REBOUND (Off:0 Def:1),,,,,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,539,2,1,4,10:22 PM,5:13,MISS Pondexter 35' 3PT Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,540,4,0,4,10:22 PM,5:12,,,Motiejunas REBOUND (Off:2 Def:6),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,541,1,42,4,10:22 PM,4:53,,,Canaan 3' Driving Layup (5 PTS),86 - 59,-27,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,542,6,1,4,10:22 PM,4:45,,,Brewer P.FOUL (P3.PN),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,543,3,11,4,10:23 PM,4:45,Pondexter Free Throw 1 of 2 (6 PTS),,,86 - 60,-26,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,545,3,12,4,10:23 PM,4:45,Pondexter Free Throw 2 of 2 (7 PTS),,,86 - 61,-25,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,547,2,5,4,10:23 PM,4:31,,,MISS Covington 2' Layup,,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,548,4,0,4,10:23 PM,4:28,Leuer REBOUND (Off:0 Def:1),,,,,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,549,2,5,4,10:23 PM,4:23,MISS Leuer 3' Layup,,Motiejunas BLOCK (1 BLK),,,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0
+0011300110,550,4,0,4,10:23 PM,4:21,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,551,8,0,4,10:23 PM,4:21,SUB: Franklin FOR Bayless,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,552,1,1,4,10:24 PM,4:08,Leuer 9' Jump Shot (6 PTS),,,86 - 63,-23,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,553,6,2,4,10:24 PM,3:55,Koufos S.FOUL (P3.PN),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,554,3,11,4,10:24 PM,3:55,,,MISS Smith Free Throw 1 of 2,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,556,4,0,4,10:25 PM,3:55,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,555,3,12,4,10:25 PM,3:55,,,Smith Free Throw 2 of 2 (6 PTS),87 - 63,-24,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,558,1,1,4,10:25 PM,3:41,Pondexter 19' Jump Shot (9 PTS),,,87 - 65,-22,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,559,1,81,4,10:25 PM,3:25,,,Covington 10' Pullup Bank Shot (7 PTS),89 - 65,-24,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,560,5,1,4,10:26 PM,3:15,Calathes Bad Pass Turnover (P2.T20),,,,,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,561,2,1,4,10:26 PM,3:01,,,MISS Smith 3' Jump Shot,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,562,4,0,4,10:26 PM,3:01,,,Brewer REBOUND (Off:3 Def:1),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,563,5,1,4,10:26 PM,2:57,Franklin STEAL (1 STL),,Brewer Bad Pass Turnover (P4.T16),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,4,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,564,2,1,4,10:26 PM,2:52,MISS Leuer 17' Jump Shot,,,,,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,565,4,0,4,10:26 PM,2:50,Pondexter REBOUND (Off:3 Def:2),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,566,2,44,4,10:26 PM,2:48,MISS Pondexter 2' Reverse Layup,,Smith BLOCK (2 BLK),,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0
+0011300110,567,4,0,4,10:26 PM,2:48,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,569,9,4,4,10:26 PM,2:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,571,1,1,4,10:29 PM,2:34,Franklin 17' Jump Shot (2 PTS) (Leuer 1 AST),,,89 - 67,-22,4,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,572,6,1,4,10:29 PM,2:21,Franklin P.FOUL (P1.PN),,,,,4,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,573,3,11,4,10:29 PM,2:21,,,MISS Covington Free Throw 1 of 2,,,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,575,4,0,4,10:30 PM,2:21,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,574,3,12,4,10:30 PM,2:21,,,Covington Free Throw 2 of 2 (8 PTS),90 - 67,-23,5,203496,Robert Covington,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,577,1,46,4,10:30 PM,2:05,Pondexter 10' Running Jump Shot (11 PTS),,,90 - 69,-21,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,578,6,26,4,10:31 PM,1:38,,,Canaan Offensive Charge Foul (P1.PN),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300110,579,5,5,4,10:31 PM,1:38,,,Canaan Foul Turnover (P3.T17),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011300110,580,5,1,4,10:31 PM,1:29,Calathes Bad Pass Turnover (P3.T21),,,,,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,581,2,56,4,10:31 PM,1:09,Calathes BLOCK (1 BLK),,MISS Motiejunas 7' Running Hook Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300110,582,4,0,4,10:31 PM,1:07,,,Brewer REBOUND (Off:4 Def:1),,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,583,1,1,4,10:32 PM,1:07,,,Brewer 17' Jump Shot (4 PTS),92 - 69,-23,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,584,6,2,4,10:32 PM,1:07,Franklin S.FOUL (P2.PN),,,,,4,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011300110,585,3,10,4,10:32 PM,1:07,,,MISS Brewer Free Throw 1 of 1,,,5,200758,Ronnie Brewer,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,587,4,0,4,10:32 PM,1:06,Koufos REBOUND (Off:2 Def:3),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,588,2,46,4,10:32 PM,0:55,MISS Leuer 9' Running Jump Shot,,,,,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,589,4,0,4,10:32 PM,0:55,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300110,590,1,44,4,10:32 PM,0:54,Leuer 1' Reverse Layup (8 PTS) (Pondexter 3 AST),,,92 - 71,-21,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,591,5,2,4,10:33 PM,0:30,Calathes STEAL (2 STL),,Canaan Lost Ball Turnover (P4.T18),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300110,592,2,5,4,10:33 PM,0:27,MISS Franklin 2' Layup,,,,,4,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,594,4,0,4,10:33 PM,0:26,Leuer REBOUND (Off:1 Def:1),,,,,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,593,1,1,4,10:33 PM,0:26,Leuer 4' Jump Shot (10 PTS),,,92 - 73,-19,4,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,596,2,1,4,10:34 PM,0:00,,,MISS Canaan 26' 3PT Jump Shot,,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011300110,598,4,0,4,10:34 PM,0:00,Koufos REBOUND (Off:2 Def:4),,,,,4,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300110,599,13,0,4,10:34 PM,0:00,,End of 4th Period (10:34 PM EST),,92 - 73,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

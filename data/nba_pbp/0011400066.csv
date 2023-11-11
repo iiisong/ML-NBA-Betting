@@ -1,0 +1,445 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400066,0,12,0,1,7:10 PM,12:00,,Start of 1st Period (7:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,1,10,0,1,7:11 PM,12:00,Jump Ball Vucevic vs. Drummond: Tip to Payton,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0
+0011400066,2,2,1,1,7:11 PM,11:44,MISS Fournier 26' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,3,4,0,1,7:11 PM,11:43,Payton REBOUND (Off:1 Def:0),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,4,2,1,1,7:11 PM,11:33,MISS Vucevic 14' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,5,4,0,1,7:11 PM,11:32,,,Monroe REBOUND (Off:0 Def:1),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,6,6,1,1,7:11 PM,11:22,O'Quinn P.FOUL (P1.T1),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,7,2,1,1,7:12 PM,11:09,,,MISS Jennings 29' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,8,4,0,1,7:12 PM,11:08,O'Quinn REBOUND (Off:0 Def:1),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,9,1,42,1,7:12 PM,11:00,Harris 3' Driving Layup (2 PTS),,,0 - 2,2,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,10,2,1,1,7:12 PM,10:39,,,MISS Smith 20' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,11,4,0,1,7:12 PM,10:38,,,Drummond REBOUND (Off:1 Def:0),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,12,5,1,1,7:12 PM,10:35,O'Quinn STEAL (1 STL),,Drummond Bad Pass Turnover (P1.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,13,2,1,1,7:13 PM,10:24,MISS Harris 13' Jump Shot,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,14,4,0,1,7:13 PM,10:23,,,Drummond REBOUND (Off:1 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,15,1,44,1,7:13 PM,10:08,,,Monroe 1' Reverse Layup (2 PTS),2 - 2,TIE,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,19,1,1,1,7:13 PM,9:53,O'Quinn 27' 3PT Jump Shot (3 PTS) (Fournier 1 AST),,,2 - 5,3,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,20,2,58,1,7:14 PM,9:33,,,MISS Monroe 3' Turnaround Hook Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,21,4,0,1,7:14 PM,9:31,,,Drummond REBOUND (Off:2 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,22,1,5,1,7:14 PM,9:29,,,Drummond 2' Layup (2 PTS),4 - 5,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,23,2,42,1,7:14 PM,9:17,MISS Fournier 2' Driving Layup,,Drummond BLOCK (1 BLK),,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400066,24,4,0,1,7:14 PM,9:17,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,25,1,5,1,7:14 PM,9:07,Vucevic 1' Layup (2 PTS),,,4 - 7,3,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,26,6,1,1,7:15 PM,8:52,Payton P.FOUL (P1.T2),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,27,2,1,1,7:15 PM,8:40,,,MISS Singler 16' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,28,4,0,1,7:15 PM,8:39,Vucevic REBOUND (Off:0 Def:1),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,29,2,1,1,7:15 PM,8:28,MISS Vucevic 19' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,30,4,0,1,7:15 PM,8:27,,,Monroe REBOUND (Off:0 Def:2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,32,1,1,1,7:16 PM,8:07,,,Singler 16' Jump Shot (2 PTS) (Smith 1 AST),6 - 7,1,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,33,1,79,1,7:16 PM,7:56,Harris 17' Pullup Jump Shot (4 PTS) (O'Quinn 1 AST),,,6 - 9,3,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,34,5,1,1,7:16 PM,7:36,O'Quinn STEAL (2 STL),,Jennings Bad Pass Turnover (P1.T2),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,35,2,5,1,7:16 PM,7:28,MISS Payton 1' Layup,,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,36,4,0,1,7:17 PM,7:26,,,Singler REBOUND (Off:0 Def:1),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,37,2,5,1,7:17 PM,7:18,,,MISS Drummond 1' Layup,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,38,4,0,1,7:17 PM,7:15,Fournier REBOUND (Off:0 Def:1),,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,39,1,73,1,7:17 PM,7:09,Harris 1' Driving Reverse Layup (6 PTS),,,6 - 11,5,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,40,6,2,1,7:17 PM,6:48,O'Quinn S.FOUL (P2.T3),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,41,3,11,1,7:17 PM,6:48,,,Singler Free Throw 1 of 2 (3 PTS),7 - 11,4,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,43,3,12,1,7:18 PM,6:48,,,Singler Free Throw 2 of 2 (4 PTS),8 - 11,3,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,45,6,2,1,7:18 PM,6:34,,,Jennings S.FOUL (P1.T1),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,46,3,11,1,7:19 PM,6:34,Vucevic Free Throw 1 of 2 (3 PTS),,,8 - 12,4,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,48,3,12,1,7:19 PM,6:34,Vucevic Free Throw 2 of 2 (4 PTS),,,8 - 13,5,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,50,1,5,1,7:19 PM,6:16,,,Monroe 2' Layup (4 PTS),10 - 13,3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,51,5,2,1,7:20 PM,6:05,Fournier Lost Ball Turnover (P1.T1),,Jennings STEAL (1 STL),,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,52,1,7,1,7:20 PM,6:01,,,Drummond  Dunk (4 PTS) (Jennings 1 AST),12 - 13,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,53,9,1,1,7:20 PM,5:53,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,56,8,0,1,7:22 PM,5:53,,,SUB: Butler FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,58,1,1,1,7:23 PM,5:44,O'Quinn 24' 3PT Jump Shot (6 PTS) (Fournier 2 AST),,,12 - 16,4,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,59,2,1,1,7:23 PM,5:25,,,MISS Singler  3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,60,4,0,1,7:23 PM,5:24,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,61,8,0,1,7:23 PM,5:24,SUB: Gordon FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,62,1,1,1,7:24 PM,5:12,,,Jennings 27' 3PT Jump Shot (3 PTS) (Smith 2 AST),15 - 16,1,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,63,1,42,1,7:24 PM,5:03,Payton 1' Driving Layup (2 PTS),,,15 - 18,3,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,64,2,46,1,7:24 PM,4:48,,,MISS Smith 5' Running Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,65,4,0,1,7:24 PM,4:46,Gordon REBOUND (Off:0 Def:1),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,66,2,1,1,7:24 PM,4:41,MISS Fournier 25' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,67,4,0,1,7:24 PM,4:40,Fournier REBOUND (Off:1 Def:1),,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,68,1,5,1,7:24 PM,4:39,Vucevic 1' Layup (6 PTS),,,15 - 20,5,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,69,9,1,1,7:24 PM,4:32,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,73,2,56,1,7:27 PM,4:15,,,MISS Smith 5' Running Hook Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,74,4,0,1,7:27 PM,4:14,Vucevic REBOUND (Off:0 Def:2),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,75,1,1,1,7:27 PM,4:05,Vucevic 15' Jump Shot (8 PTS) (Payton 1 AST),,,15 - 22,7,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,76,2,1,1,7:28 PM,3:45,,,MISS Jennings 26' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,77,4,0,1,7:28 PM,3:43,Harris REBOUND (Off:0 Def:1),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,78,1,1,1,7:28 PM,3:30,Harris 27' 3PT Jump Shot (9 PTS) (Payton 2 AST),,,15 - 25,10,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,79,6,29,1,7:28 PM,3:14,Payton Shooting Block Foul (P2.T4),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,80,3,11,1,7:29 PM,3:14,,,Jennings Free Throw 1 of 2 (4 PTS),16 - 25,9,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,82,8,0,1,7:29 PM,3:14,,,SUB: Jerebko FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,83,8,0,1,7:29 PM,3:14,,,SUB: Monroe FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,84,8,0,1,7:29 PM,3:14,SUB: Ridnour FOR Payton,,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,85,3,12,1,7:29 PM,3:14,,,Jennings Free Throw 2 of 2 (5 PTS),17 - 25,8,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,87,1,84,1,7:29 PM,3:05,Harris 6' Running Bank Shot (11 PTS) (Fournier 3 AST),,,17 - 27,10,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,88,2,1,1,7:29 PM,2:45,,,MISS Butler 20' Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,89,4,0,1,7:29 PM,2:43,,,Jerebko REBOUND (Off:1 Def:0),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,90,1,3,1,7:30 PM,2:34,,,Monroe 6' Hook Shot (6 PTS) (Butler 1 AST),19 - 27,8,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,91,2,1,1,7:30 PM,2:22,MISS Vucevic 3' Jump Shot,,Monroe BLOCK (1 BLK),,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0
+0011400066,92,4,0,1,7:30 PM,2:18,,,Butler REBOUND (Off:0 Def:1),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,93,2,42,1,7:30 PM,2:03,,,MISS Jerebko 2' Driving Layup,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,94,4,0,1,7:30 PM,2:03,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,95,6,3,1,7:30 PM,2:03,Fournier L.B.FOUL (P1.PN),,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,96,3,11,1,7:31 PM,2:03,,,Jennings Free Throw 1 of 2 (6 PTS),20 - 27,7,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,98,8,0,1,7:31 PM,2:03,SUB: Dedmon FOR Vucevic,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,99,3,12,1,7:31 PM,2:03,,,Jennings Free Throw 2 of 2 (7 PTS),21 - 27,6,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,101,5,4,1,7:32 PM,1:46,Fournier Traveling Turnover (P2.T2),,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,102,8,0,1,7:32 PM,1:46,SUB: O'Quinn FOR Harris,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,104,8,0,1,7:32 PM,1:36,SUB: Gordon FOR Fournier,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,105,5,13,1,7:32 PM,1:32,,,Monroe Backcourt Turnover (P1.T3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400066,106,1,56,1,7:33 PM,1:19,O'Quinn 6' Running Hook Shot (8 PTS),,,21 - 29,8,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,107,2,80,1,7:33 PM,0:59,,,MISS Jerebko 19' Step Back Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,108,4,0,1,7:33 PM,0:59,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,109,2,1,1,7:34 PM,0:44,MISS Ridnour 16' Jump Shot,,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,110,4,0,1,7:34 PM,0:43,Gordon REBOUND (Off:1 Def:1),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,111,1,1,1,7:34 PM,0:39,Gordon 24' 3PT Jump Shot (3 PTS) (Gordon 1 AST),,,21 - 32,11,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,112,2,66,1,7:34 PM,0:27,,,MISS Jennings 8' Jump Bank Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,113,4,0,1,7:34 PM,0:26,Ridnour REBOUND (Off:0 Def:1),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,114,2,1,1,7:34 PM,0:20,MISS Gordon 27' 3PT Jump Shot,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,115,4,0,1,7:34 PM,0:17,,,Singler REBOUND (Off:0 Def:2),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,116,2,1,1,7:34 PM,0:00,,,MISS Jennings 26' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,117,4,0,1,7:34 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,118,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,21 - 32,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,120,12,0,2,7:37 PM,12:00,,Start of 2nd Period (7:37 PM EST),,21 - 32,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,121,6,2,2,7:38 PM,11:41,Dedmon S.FOUL (P1.T1),,,,,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,122,3,11,2,7:38 PM,11:41,,,Monroe Free Throw 1 of 2 (7 PTS),22 - 32,10,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,124,3,12,2,7:38 PM,11:41,,,Monroe Free Throw 2 of 2 (8 PTS),23 - 32,9,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,126,1,78,2,7:39 PM,11:22,Gordon 6' Floating Jump Shot (2 PTS) (O'Quinn 2 AST),,,23 - 34,11,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,127,2,56,2,7:39 PM,10:59,,,MISS Monroe 3' Running Hook Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,128,4,0,2,7:39 PM,10:57,Gordon REBOUND (Off:0 Def:1),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,129,2,1,2,7:39 PM,10:49,MISS Gordon 27' 3PT Jump Shot,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,130,4,0,2,7:40 PM,10:47,,,Monroe REBOUND (Off:0 Def:3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,142,7,2,2,7:40 PM,10:40,Dedmon Violation:Defensive Goaltending,,,,,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,131,1,1,2,7:40 PM,10:40,,,Jerebko 3' Jump Shot (2 PTS) (Augustin 1 AST),25 - 34,9,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,132,6,4,2,7:40 PM,10:31,O'Quinn OFF.Foul (P3),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,133,5,5,2,7:40 PM,10:31,O'Quinn Foul Turnover (P1.T3),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,134,8,0,2,7:40 PM,10:30,SUB: Vucevic FOR Dedmon,,,,,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,135,2,1,2,7:41 PM,10:18,Gordon BLOCK (1 BLK),,MISS Martin 15' Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0
+0011400066,136,4,0,2,7:41 PM,10:12,Gordon REBOUND (Off:0 Def:2),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,137,1,1,2,7:41 PM,10:05,Vucevic 10' Jump Shot (10 PTS) (O'Quinn 3 AST),,,25 - 36,11,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,138,2,1,2,7:41 PM,9:52,,,MISS Jerebko 26' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,139,4,0,2,7:41 PM,9:50,Gordon REBOUND (Off:1 Def:2),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,140,1,1,2,7:41 PM,9:42,Ridnour 24' 3PT Jump Shot (3 PTS) (Gordon 2 AST),,,25 - 39,14,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,141,9,1,2,7:41 PM,9:37,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,147,2,1,2,7:44 PM,9:17,,,MISS Augustin  3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,148,4,0,2,7:44 PM,9:16,Gordon REBOUND (Off:0 Def:3),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,149,2,63,2,7:45 PM,8:55,MISS Gordon 8' Fadeaway Jumper,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,150,4,0,2,7:45 PM,8:54,,,Jerebko REBOUND (Off:1 Def:1),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,151,5,40,2,7:45 PM,8:45,,,Monroe Out of Bounds Lost Ball Turnover (P2.T4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,152,8,0,2,7:45 PM,8:45,SUB: Harris FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,154,8,0,2,7:45 PM,8:45,,,SUB: Drummond FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,153,1,1,2,7:46 PM,8:32,Ridnour  3PT Jump Shot (6 PTS) (Gordon 3 AST),,,25 - 42,17,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,155,5,1,2,7:46 PM,8:19,,,Drummond Bad Pass Turnover (P2.T5),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,157,8,0,2,7:46 PM,8:19,,,SUB: Datome FOR Butler,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,158,2,1,2,7:46 PM,8:10,MISS Harris 18' Jump Shot,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,159,4,0,2,7:46 PM,8:09,,,Drummond REBOUND (Off:2 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,160,1,1,2,7:46 PM,7:58,,,Augustin 15' Jump Shot (2 PTS) (Monroe 1 AST),27 - 42,15,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,161,6,2,2,7:46 PM,7:58,Gordon S.FOUL (P1.T2),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,162,3,10,2,7:47 PM,7:58,,,Augustin Free Throw 1 of 1 (3 PTS),28 - 42,14,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,164,1,42,2,7:47 PM,7:52,Gordon 2' Driving Layup (4 PTS),,,28 - 44,16,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,165,6,2,2,7:47 PM,7:52,,,Martin S.FOUL (P1.T1),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,166,3,10,2,7:47 PM,7:52,Gordon Free Throw 1 of 1 (5 PTS),,,28 - 45,17,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,168,2,3,2,7:48 PM,7:35,,,MISS Drummond 7' Hook Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,169,4,0,2,7:48 PM,7:33,Harris REBOUND (Off:0 Def:2),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,170,1,5,2,7:48 PM,7:20,Gordon 1' Layup (5 PTS) (Vucevic 1 AST),,,28 - 47,19,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,171,1,42,2,7:48 PM,6:58,,,Monroe 2' Driving Layup (10 PTS),30 - 47,17,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,172,5,1,2,7:48 PM,6:51,Ridnour Bad Pass Turnover (P1.T4),,Augustin STEAL (1 STL),,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,174,6,2,2,7:49 PM,6:46,Gordon S.FOUL (P2.T3),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,175,3,11,2,7:49 PM,6:46,,,Augustin Free Throw 1 of 2 (4 PTS),31 - 47,16,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,177,8,0,2,7:49 PM,6:46,SUB: O'Quinn FOR Gordon,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,178,3,12,2,7:49 PM,6:46,,,Augustin Free Throw 2 of 2 (5 PTS),32 - 47,15,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,180,2,1,2,7:50 PM,6:38,MISS Gordon 14' Jump Shot,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,181,4,0,2,7:50 PM,6:37,,,Monroe REBOUND (Off:0 Def:4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,182,2,5,2,7:50 PM,6:29,,,MISS Martin  Layup,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,183,4,0,2,7:50 PM,6:22,Ridnour REBOUND (Off:0 Def:2),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,184,2,5,2,7:50 PM,6:19,MISS Gordon 1' Layup,,Drummond BLOCK (2 BLK),,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400066,185,4,0,2,7:50 PM,6:17,,,Martin REBOUND (Off:0 Def:1),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,186,2,1,2,7:50 PM,6:13,,,MISS Datome 17' Jump Shot,,,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,187,4,0,2,7:50 PM,6:12,O'Quinn REBOUND (Off:0 Def:2),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,188,9,1,2,7:50 PM,6:07,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,191,8,0,2,7:52 PM,6:07,,,SUB: Smith FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,193,6,17,2,7:53 PM,5:54,,,Pistons T.Foul (Def. 3 Sec Datome ),,,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400066,194,3,16,2,7:54 PM,5:54,Ridnour Free Throw Technical (7 PTS),,,32 - 48,16,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,197,5,1,2,7:54 PM,5:45,Vucevic Bad Pass Turnover (P1.T5),,Martin STEAL (1 STL),,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,198,1,44,2,7:54 PM,5:36,,,Augustin 1' Reverse Layup (7 PTS) (Smith 3 AST),34 - 48,14,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,199,6,4,2,7:54 PM,5:19,Harris OFF.Foul (P1),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,200,5,5,2,7:54 PM,5:19,Harris Foul Turnover (P1.T6),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,201,8,0,2,7:55 PM,5:19,SUB: Payton FOR Ridnour,,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,202,8,0,2,7:55 PM,5:19,SUB: Fournier FOR Gordon,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,203,1,1,2,7:55 PM,5:10,,,Augustin 25' 3PT Jump Shot (10 PTS),37 - 48,11,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,204,1,66,2,7:55 PM,4:54,Harris 15' Jump Bank Shot (13 PTS),,,37 - 50,13,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,205,5,2,2,7:55 PM,4:41,Fournier STEAL (1 STL),,Smith Lost Ball Turnover (P1.T6),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,206,2,1,2,7:56 PM,4:20,MISS Harris 20' Jump Shot,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,207,4,0,2,7:56 PM,4:20,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,208,8,0,2,7:56 PM,4:20,SUB: Gordon FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,209,1,8,2,7:56 PM,4:05,,,Drummond  Slam Dunk (6 PTS) (Augustin 2 AST),39 - 50,11,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,210,1,1,2,7:56 PM,3:55,Vucevic 18' Jump Shot (12 PTS) (Payton 3 AST),,,39 - 52,13,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,211,6,2,2,7:57 PM,3:43,Harris S.FOUL (P2.T4),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,212,3,11,2,7:57 PM,3:43,,,Smith Free Throw 1 of 2 (1 PTS),40 - 52,12,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,214,3,12,2,7:57 PM,3:43,,,MISS Smith Free Throw 2 of 2,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,216,4,0,2,7:57 PM,3:41,Gordon REBOUND (Off:1 Def:3),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,217,2,1,2,7:57 PM,3:31,MISS Harris 4' Jump Shot,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,219,4,0,2,7:57 PM,3:28,Vucevic REBOUND (Off:1 Def:2),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,218,2,72,2,7:57 PM,3:28,MISS Vucevic 2' Putback Layup,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,220,4,0,2,7:57 PM,3:26,,,Datome REBOUND (Off:0 Def:1),,,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,221,2,5,2,7:58 PM,3:24,,,MISS Augustin 1' Layup,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,222,4,0,2,7:58 PM,3:24,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,223,6,3,2,7:58 PM,3:24,,,Drummond L.B.FOUL (P1.T2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,224,2,66,2,7:58 PM,3:08,MISS Payton 7' Jump Bank Shot,,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,225,4,0,2,7:58 PM,3:06,,,Augustin REBOUND (Off:0 Def:1),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,226,2,43,2,7:58 PM,3:04,,,MISS Drummond 2' Alley Oop Layup,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,227,4,0,2,7:58 PM,3:02,Gordon REBOUND (Off:1 Def:4),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,228,5,1,2,7:58 PM,2:59,Gordon Bad Pass Turnover (P1.T7),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,229,1,1,2,7:59 PM,2:44,,,Augustin  3PT Jump Shot (13 PTS) (Smith 4 AST),43 - 52,9,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,230,2,1,2,7:59 PM,2:31,MISS Vucevic 19' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,231,4,0,2,7:59 PM,2:30,,,Datome REBOUND (Off:0 Def:2),,,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,232,2,5,2,7:59 PM,2:17,,,MISS Smith 2' Layup,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,233,4,0,2,7:59 PM,2:17,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,234,6,3,2,7:59 PM,2:17,,,Drummond L.B.FOUL (P2.T3),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,235,9,4,2,8:00 PM,2:17,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,237,8,0,2,8:01 PM,2:17,,,SUB: Monroe FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,239,2,1,2,8:02 PM,2:07,MISS Fournier 26' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,240,4,0,2,8:02 PM,2:06,,,Augustin REBOUND (Off:0 Def:2),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,241,1,42,2,8:02 PM,1:53,,,Augustin 1' Driving Layup (15 PTS) (Monroe 2 AST),45 - 52,7,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,242,2,3,2,8:02 PM,1:39,MISS Vucevic 4' Hook Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,243,4,0,2,8:02 PM,1:37,,,Smith REBOUND (Off:0 Def:1),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,244,5,39,2,8:03 PM,1:32,,,Datome Step Out of Bounds Turnover (P1.T7),,,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,245,2,1,2,8:03 PM,1:10,MISS Vucevic 13' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,247,4,0,2,8:03 PM,1:08,Gordon REBOUND (Off:2 Def:4),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,246,2,5,2,8:03 PM,1:08,MISS Gordon 1' Layup,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,248,4,0,2,8:03 PM,1:06,,,Augustin REBOUND (Off:0 Def:3),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,249,2,5,2,8:03 PM,1:00,,,MISS Augustin 1' Layup,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,251,4,0,2,8:03 PM,0:59,,,Monroe REBOUND (Off:1 Def:4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,250,1,72,2,8:03 PM,0:58,,,Monroe 1' Putback Layup (12 PTS),47 - 52,5,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,253,2,1,2,8:04 PM,0:40,MISS Gordon 13' Jump Shot,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,254,4,0,2,8:04 PM,0:39,,,Monroe REBOUND (Off:1 Def:5),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,255,2,1,2,8:04 PM,0:28,,,MISS Datome 24' 3PT Jump Shot,,,5,203540,Gigi Datome,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,256,4,0,2,8:04 PM,0:27,Payton REBOUND (Off:1 Def:1),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,258,1,42,2,8:04 PM,0:08,Payton 2' Driving Layup (4 PTS),,,47 - 54,7,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,259,1,5,2,8:05 PM,0:01,,,Monroe 2' Layup (14 PTS) (Augustin 3 AST),49 - 54,5,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,260,2,1,2,8:05 PM,0:00,MISS Gordon 56' 3PT Jump Shot,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,262,4,0,2,8:05 PM,0:00,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,263,13,0,2,8:05 PM,0:00,,End of 2nd Period (8:05 PM EST),,49 - 54,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,265,12,0,3,8:22 PM,12:00,,Start of 3rd Period (8:22 PM EST),,49 - 54,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,266,1,58,3,8:22 PM,11:38,,,Monroe 7' Turnaround Hook Shot (16 PTS),51 - 54,3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,267,2,1,3,8:22 PM,11:25,MISS Vucevic 15' Jump Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,268,4,0,3,8:22 PM,11:24,,,Monroe REBOUND (Off:1 Def:6),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,269,5,2,3,8:22 PM,11:14,Harris STEAL (1 STL),,Smith Lost Ball Turnover (P2.T8),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,270,5,1,3,8:22 PM,11:09,Payton Bad Pass Turnover (P1.T8),,Smith STEAL (1 STL),,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,271,2,1,3,8:23 PM,11:02,,,MISS Jennings  3PT Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,272,4,0,3,8:23 PM,11:01,,,Monroe REBOUND (Off:2 Def:6),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,273,2,56,3,8:23 PM,10:56,,,MISS Monroe 4' Running Hook Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,274,4,0,3,8:23 PM,10:55,,,Drummond REBOUND (Off:3 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,276,1,66,3,8:23 PM,10:50,,,Singler 4' Jump Bank Shot (6 PTS),53 - 54,1,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,277,6,1,3,8:23 PM,10:39,,,Singler P.FOUL (P1.T1),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,278,2,1,3,8:24 PM,10:30,MISS Fournier 14' Jump Shot,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,279,4,0,3,8:24 PM,10:29,,,Monroe REBOUND (Off:2 Def:7),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,280,5,2,3,8:24 PM,10:20,Vucevic STEAL (1 STL),,Drummond Lost Ball Turnover (P3.T9),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,281,2,1,3,8:24 PM,10:14,MISS Harris  3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,283,4,0,3,8:24 PM,10:10,Fournier REBOUND (Off:2 Def:1),,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,282,1,5,3,8:24 PM,10:10,Fournier  Layup (2 PTS),,,53 - 56,3,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,284,1,5,3,8:24 PM,9:51,,,Smith 1' Layup (3 PTS) (Monroe 3 AST),55 - 56,1,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,285,1,73,3,8:25 PM,9:42,Payton 1' Driving Reverse Layup (6 PTS),,,55 - 58,3,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,286,2,1,3,8:25 PM,9:20,,,MISS Singler  3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,287,4,0,3,8:25 PM,9:19,O'Quinn REBOUND (Off:0 Def:3),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,288,5,40,3,8:25 PM,9:12,Payton Out of Bounds Lost Ball Turnover (P2.T9),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,289,1,44,3,8:26 PM,8:55,,,Monroe 1' Reverse Layup (18 PTS) (Smith 5 AST),57 - 58,1,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,290,1,66,3,8:26 PM,8:41,O'Quinn 5' Jump Bank Shot (10 PTS) (Payton 4 AST),,,57 - 60,3,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,291,2,1,3,8:26 PM,8:19,,,MISS Monroe 18' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,292,4,0,3,8:26 PM,8:17,,,Drummond REBOUND (Off:4 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,293,2,5,3,8:26 PM,8:14,,,MISS Drummond 1' Layup,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,294,4,0,3,8:26 PM,8:12,O'Quinn REBOUND (Off:0 Def:4),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,295,2,1,3,8:26 PM,8:05,MISS Harris  3PT Jump Shot,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,296,4,0,3,8:26 PM,8:03,,,Jennings REBOUND (Off:0 Def:1),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,297,2,3,3,8:27 PM,7:47,,,MISS Drummond 6' Hook Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,298,4,0,3,8:27 PM,7:46,Vucevic REBOUND (Off:1 Def:3),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,299,1,1,3,8:27 PM,7:39,Fournier  3PT Jump Shot (5 PTS) (O'Quinn 4 AST),,,57 - 63,6,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,300,9,1,3,8:27 PM,7:39,,,Pistons Timeout: Regular (Reg.3 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,305,2,1,3,8:30 PM,7:22,,,MISS Smith 26' 3PT Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,306,4,0,3,8:30 PM,7:22,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,307,6,3,3,8:30 PM,7:22,,,Drummond L.B.FOUL (P3.T2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,308,6,1,3,8:30 PM,7:13,,,Singler P.FOUL (P2.T3),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,309,1,1,3,8:31 PM,7:08,O'Quinn 17' Jump Shot (12 PTS) (Payton 5 AST),,,57 - 65,8,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,310,1,65,3,8:31 PM,6:50,,,Monroe 6' Jump Hook Shot (20 PTS),59 - 65,6,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,311,2,1,3,8:31 PM,6:34,MISS Payton 5' Jump Shot,,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,313,4,0,3,8:31 PM,6:32,Vucevic REBOUND (Off:2 Def:3),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,312,2,4,3,8:31 PM,6:32,MISS Vucevic 3' Tip Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,314,4,0,3,8:31 PM,6:30,,,Singler REBOUND (Off:0 Def:3),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,315,6,2,3,8:32 PM,6:19,O'Quinn S.FOUL (P4.T1),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,316,3,11,3,8:32 PM,6:19,,,Drummond Free Throw 1 of 2 (7 PTS),60 - 65,5,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,318,8,0,3,8:32 PM,6:19,SUB: Gordon FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,321,7,3,3,8:32 PM,6:19,Vucevic Violation:Lane,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,323,3,12,3,8:33 PM,6:19,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,325,4,0,3,8:33 PM,6:17,Harris REBOUND (Off:0 Def:3),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,326,5,41,3,8:34 PM,5:57,Vucevic Poss Lost Ball Turnover (P2.T10),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,327,6,3,3,8:34 PM,5:57,Vucevic L.B.FOUL (P1.T2),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,328,8,0,3,8:34 PM,5:57,,,SUB: Butler FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,329,8,0,3,8:34 PM,5:57,,,SUB: Martin FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,330,2,1,3,8:34 PM,5:40,,,MISS Smith 22' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,331,4,0,3,8:34 PM,5:38,Fournier REBOUND (Off:2 Def:2),,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,332,5,2,3,8:35 PM,5:29,Fournier Lost Ball Turnover (P3.T11),,Monroe STEAL (1 STL),,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,333,6,2,3,8:35 PM,5:20,Vucevic S.FOUL (P2.T3),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,334,3,11,3,8:35 PM,5:20,,,MISS Monroe Free Throw 1 of 2,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,335,4,1,3,8:35 PM,5:20,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,336,8,0,3,8:35 PM,5:20,SUB: Gordon FOR Fournier,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,337,3,12,3,8:35 PM,5:20,,,Monroe Free Throw 2 of 2 (21 PTS),61 - 65,4,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,339,1,3,3,8:36 PM,5:10,Vucevic 7' Hook Shot (14 PTS) (Payton 6 AST),,,61 - 67,6,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,340,1,5,3,8:36 PM,5:00,,,Martin 2' Layup (2 PTS) (Smith 6 AST),63 - 67,4,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,341,1,84,3,8:36 PM,4:49,Harris 4' Running Bank Shot (15 PTS),,,63 - 69,6,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,342,2,1,3,8:36 PM,4:35,,,MISS Monroe 17' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,343,4,0,3,8:36 PM,4:34,Harris REBOUND (Off:0 Def:4),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,344,1,8,3,8:36 PM,4:24,Vucevic  Slam Dunk (16 PTS) (Gordon 4 AST),,,63 - 71,8,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,346,8,0,3,8:37 PM,4:07,SUB: O'Quinn FOR Vucevic,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,347,2,1,3,8:37 PM,4:00,,,MISS Martin  3PT Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,348,4,0,3,8:37 PM,3:59,Harris REBOUND (Off:0 Def:5),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,349,2,1,3,8:38 PM,3:40,MISS O'Quinn 17' Jump Shot,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,350,4,0,3,8:38 PM,3:38,Harris REBOUND (Off:1 Def:5),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,351,2,5,3,8:38 PM,3:34,MISS Gordon 1' Layup,,Smith BLOCK (1 BLK),,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011400066,352,4,0,3,8:38 PM,3:34,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,353,9,1,3,8:38 PM,3:34,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,358,5,1,3,8:41 PM,3:26,Gordon Bad Pass Turnover (P1.T12),,Butler STEAL (1 STL),,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,359,2,1,3,8:41 PM,3:19,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,360,4,0,3,8:41 PM,3:13,Gordon REBOUND (Off:0 Def:4),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,361,5,1,3,8:41 PM,3:13,Gordon Bad Pass Turnover (P2.T13),,Smith STEAL (2 STL),,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,362,6,1,3,8:41 PM,3:13,Payton P.FOUL (P3.T4),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,363,1,1,3,8:42 PM,3:00,,,Butler 26' 3PT Jump Shot (3 PTS) (Smith 7 AST),66 - 71,5,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,364,1,1,3,8:42 PM,2:37,Gordon 27' 3PT Jump Shot (8 PTS),,,66 - 74,8,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,365,1,1,3,8:42 PM,2:15,,,Monroe 3' Jump Shot (23 PTS),68 - 74,6,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,366,6,2,3,8:42 PM,2:15,O'Quinn S.FOUL (P5.PN),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,367,8,0,3,8:43 PM,2:15,SUB: Vucevic FOR Harris,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,368,8,0,3,8:43 PM,2:15,,,SUB: Jerebko FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,369,3,10,3,8:43 PM,2:15,,,Monroe Free Throw 1 of 1 (24 PTS),69 - 74,5,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,371,6,26,3,8:43 PM,2:03,Gordon Offensive Charge Foul (P1.PN),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,372,5,5,3,8:43 PM,2:03,Gordon Foul Turnover (P2.T14),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,373,8,0,3,8:43 PM,2:03,,,SUB: Drummond FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,374,8,0,3,8:43 PM,2:03,SUB: Ridnour FOR Payton,,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,375,5,40,3,8:44 PM,1:41,,,Jennings Out of Bounds Lost Ball Turnover (P2.T10),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,376,2,1,3,8:44 PM,1:30,MISS Gordon 17' Jump Shot,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,377,4,0,3,8:44 PM,1:28,O'Quinn REBOUND (Off:1 Def:4),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,378,2,3,3,8:44 PM,1:12,MISS Vucevic 3' Hook Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,380,4,0,3,8:44 PM,1:09,Gordon REBOUND (Off:3 Def:4),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,379,1,7,3,8:44 PM,1:09,Gordon  Dunk (7 PTS),,,69 - 76,7,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,381,2,1,3,8:45 PM,0:56,,,MISS Jerebko 16' Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,382,4,0,3,8:45 PM,0:54,Gordon REBOUND (Off:0 Def:5),,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,383,2,44,3,8:45 PM,0:43,MISS Gordon 2' Reverse Layup,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,384,4,0,3,8:45 PM,0:41,Vucevic REBOUND (Off:3 Def:3),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,385,5,2,3,8:45 PM,0:39,Vucevic Lost Ball Turnover (P3.T15),,Jerebko STEAL (1 STL),,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,386,1,1,3,8:45 PM,0:30,,,Butler 24' 3PT Jump Shot (6 PTS) (Jennings 2 AST),72 - 76,4,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,387,2,1,3,8:45 PM,0:09,MISS Gordon 25' 3PT Jump Shot,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,388,4,0,3,8:46 PM,0:07,,,Butler REBOUND (Off:0 Def:2),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,389,1,43,3,8:46 PM,0:02,,,Drummond 1' Alley Oop Layup (9 PTS) (Butler 2 AST),74 - 76,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,390,13,0,3,8:46 PM,0:00,,End of 3rd Period (8:46 PM EST),,74 - 76,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,392,12,0,4,8:49 PM,12:00,,Start of 4th Period (8:49 PM EST),,74 - 76,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,393,1,79,4,8:49 PM,11:36,O'Quinn 13' Pullup Jump Shot (14 PTS),,,74 - 78,4,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,394,2,1,4,8:50 PM,11:12,,,MISS Butler 20' Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,395,4,0,4,8:50 PM,11:12,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,396,5,1,4,8:50 PM,10:58,Ridnour Bad Pass Turnover (P2.T16),,Drummond STEAL (1 STL),,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,397,6,2,4,8:50 PM,10:50,Ridnour S.FOUL (P1.T1),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,398,3,11,4,8:51 PM,10:50,,,Augustin Free Throw 1 of 2 (16 PTS),75 - 78,3,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,400,3,12,4,8:51 PM,10:50,,,Augustin Free Throw 2 of 2 (17 PTS),76 - 78,2,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,402,5,1,4,8:51 PM,10:42,O'Quinn Bad Pass Turnover (P2.T17),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,403,2,5,4,8:52 PM,10:24,,,MISS Jerebko 1' Layup,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,404,4,0,4,8:52 PM,10:23,O'Quinn REBOUND (Off:1 Def:5),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,405,1,49,4,8:52 PM,10:15,Gordon  Driving Dunk (9 PTS) (Ridnour 1 AST),,,76 - 80,4,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,406,1,3,4,8:52 PM,9:46,,,Drummond 6' Hook Shot (11 PTS),78 - 80,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,407,2,5,4,8:53 PM,9:31,MISS Gordon 2' Layup,,Drummond BLOCK (3 BLK),,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400066,408,4,0,4,8:53 PM,9:28,,,Augustin REBOUND (Off:0 Def:4),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,409,2,5,4,8:53 PM,9:26,,,MISS Augustin  Layup,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,410,4,0,4,8:53 PM,9:23,,,Singler REBOUND (Off:1 Def:3),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,411,5,1,4,8:53 PM,9:20,Vucevic STEAL (2 STL),,Singler Bad Pass Turnover (P1.T11),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,413,7,2,4,8:53 PM,9:20,,,Butler Violation:Defensive Goaltending,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400066,412,1,5,4,8:53 PM,9:20,Gordon 2' Layup (10 PTS) (Ridnour 2 AST),,,78 - 82,4,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,414,1,1,4,8:53 PM,9:08,,,Butler 19' Jump Shot (8 PTS) (Jerebko 1 AST),80 - 82,2,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,415,6,17,4,8:54 PM,8:52,,,Pistons T.Foul (Def. 3 Sec Jerebko ),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400066,416,9,4,4,8:54 PM,8:52,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,420,3,16,4,8:56 PM,8:52,Ridnour Free Throw Technical (8 PTS),,,80 - 83,3,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,423,2,1,4,8:57 PM,8:39,MISS Gordon 26' 3PT Jump Shot,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,424,4,0,4,8:57 PM,8:37,,,Butler REBOUND (Off:0 Def:3),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,425,2,3,4,8:58 PM,8:21,,,MISS Drummond 9' Hook Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,426,4,0,4,8:58 PM,8:20,Ridnour REBOUND (Off:0 Def:3),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,427,2,3,4,8:58 PM,8:12,MISS Vucevic 2' Hook Shot,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,428,4,0,4,8:58 PM,8:10,,,Butler REBOUND (Off:0 Def:4),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,429,2,1,4,8:58 PM,8:01,,,MISS Jerebko 25' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,430,4,0,4,8:58 PM,7:59,Vucevic REBOUND (Off:3 Def:4),,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,431,1,3,4,8:58 PM,7:51,Vucevic 2' Hook Shot (18 PTS) (Ridnour 3 AST),,,80 - 85,5,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,432,6,28,4,8:58 PM,7:43,Ridnour Personal Take Foul (P2.T2),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,433,8,0,4,8:58 PM,7:43,SUB: Harris FOR Vucevic,,,,,4,202696,Nikola Vucevic,1610612753.0,Orlando,Magic,ORL,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,434,8,0,4,8:59 PM,7:43,SUB: Payton FOR Gordon,,,,,4,2732,Ben Gordon,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,435,2,1,4,8:59 PM,7:31,,,MISS Butler 27' 3PT Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,436,4,0,4,8:59 PM,7:30,Harris REBOUND (Off:1 Def:6),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,437,2,5,4,8:59 PM,7:19,MISS Payton 1' Layup,,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,438,4,0,4,8:59 PM,7:17,,,Singler REBOUND (Off:1 Def:4),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,439,5,1,4,8:59 PM,7:15,,,Singler Bad Pass Turnover (P2.T12),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,440,2,79,4,9:00 PM,7:03,MISS Ridnour 21' Pullup Jump Shot,,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,441,4,0,4,9:00 PM,7:02,,,Jerebko REBOUND (Off:1 Def:2),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,442,5,40,4,9:00 PM,6:47,,,Drummond Out of Bounds Lost Ball Turnover (P4.T13),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,443,1,84,4,9:00 PM,6:39,Harris 3' Running Bank Shot (17 PTS) (Payton 7 AST),,,80 - 87,7,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,444,6,2,4,9:00 PM,6:39,,,Drummond S.FOUL (P4.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,445,3,10,4,9:00 PM,6:39,Harris Free Throw 1 of 1 (18 PTS),,,80 - 88,8,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,447,2,1,4,9:01 PM,6:25,,,MISS Singler 22' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,448,4,0,4,9:01 PM,6:24,Harris REBOUND (Off:1 Def:7),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,449,2,1,4,9:01 PM,6:11,MISS O'Quinn 17' Jump Shot,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,450,4,0,4,9:01 PM,6:10,,,Augustin REBOUND (Off:0 Def:5),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,451,2,78,4,9:01 PM,6:02,,,MISS Augustin 4' Floating Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,452,4,0,4,9:01 PM,6:01,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,454,9,1,4,9:02 PM,5:47,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,458,8,0,4,9:04 PM,5:47,,,SUB: Martin FOR Butler,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,459,1,1,4,9:05 PM,5:44,Harris 20' Jump Shot (20 PTS) (O'Quinn 5 AST),,,80 - 90,10,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,460,2,1,4,9:05 PM,5:20,,,MISS Martin 6' Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,461,4,0,4,9:05 PM,5:18,O'Quinn REBOUND (Off:1 Def:6),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,462,2,5,4,9:05 PM,5:12,MISS Ridnour 1' Layup,,Drummond BLOCK (4 BLK),,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400066,463,4,0,4,9:05 PM,5:09,,,Augustin REBOUND (Off:0 Def:6),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,464,2,5,4,9:05 PM,5:06,,,MISS Augustin 2' Layup,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,465,4,0,4,9:05 PM,5:05,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,466,6,3,4,9:05 PM,5:05,,,Singler L.B.FOUL (P3.T2),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,467,8,0,4,9:06 PM,5:05,,,SUB: Monroe FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,468,6,4,4,9:06 PM,4:51,O'Quinn OFF.Foul (P6),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,469,5,5,4,9:06 PM,4:51,O'Quinn Foul Turnover (P3.T18),,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0011400066,471,8,0,4,9:06 PM,4:51,SUB: Dedmon FOR O'Quinn,,,,,4,203124,Kyle O'Quinn,1610612753.0,Orlando,Magic,ORL,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,472,2,1,4,9:07 PM,4:26,,,MISS Augustin 26' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,473,4,0,4,9:07 PM,4:25,Harris REBOUND (Off:1 Def:8),,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,474,1,1,4,9:07 PM,4:16,Harris 19' Jump Shot (22 PTS) (Payton 8 AST),,,80 - 92,12,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,476,9,1,4,9:07 PM,4:15,,,Pistons Timeout: Regular (Reg.4 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,479,5,39,4,9:10 PM,4:05,,,Singler Step Out of Bounds Turnover (P3.T14),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,480,5,1,4,9:10 PM,3:55,Payton Bad Pass Turnover (P3.T19),,Drummond STEAL (2 STL),,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,481,6,2,4,9:10 PM,3:45,Ridnour S.FOUL (P3.T3),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,482,3,11,4,9:11 PM,3:45,,,MISS Drummond Free Throw 1 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,483,4,1,4,9:11 PM,3:45,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,484,8,0,4,9:11 PM,3:45,,,SUB: Jennings FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,485,8,0,4,9:11 PM,3:45,SUB: Fournier FOR Harris,,,,,4,202699,Tobias Harris,1610612753.0,Orlando,Magic,ORL,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,486,3,12,4,9:11 PM,3:45,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,488,4,0,4,9:11 PM,3:44,Dedmon REBOUND (Off:0 Def:1),,,,,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,489,2,1,4,9:11 PM,3:33,MISS Gordon 15' Jump Shot,,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,490,4,0,4,9:11 PM,3:32,,,Martin REBOUND (Off:0 Def:2),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,491,2,1,4,9:12 PM,3:20,,,MISS Martin 25' 3PT Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,492,4,0,4,9:12 PM,3:20,Gordon REBOUND (Off:3 Def:5),,,,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,493,1,5,4,9:12 PM,3:11,Gordon 1' Layup (11 PTS) (Ridnour 4 AST),,,80 - 94,14,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,494,6,2,4,9:12 PM,2:56,Dedmon S.FOUL (P2.T4),,,,,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,495,3,11,4,9:12 PM,2:56,,,Jennings Free Throw 1 of 2 (8 PTS),81 - 94,13,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,497,3,12,4,9:12 PM,2:56,,,MISS Jennings Free Throw 2 of 2,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,499,4,0,4,9:13 PM,2:54,,,Drummond REBOUND (Off:5 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,500,5,1,4,9:13 PM,2:52,Payton STEAL (1 STL),,Drummond Bad Pass Turnover (P5.T15),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,501,6,1,4,9:13 PM,2:52,,,Jennings P.FOUL (P2.T3),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,502,2,79,4,9:13 PM,2:36,MISS Ridnour 16' Pullup Jump Shot,,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,503,4,0,4,9:13 PM,2:35,,,Monroe REBOUND (Off:2 Def:8),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,504,5,1,4,9:13 PM,2:31,,,Monroe Bad Pass Turnover (P3.T16),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,505,1,71,4,9:14 PM,2:15,Fournier 2' Finger Roll Layup (7 PTS),,,81 - 96,15,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,506,5,2,4,9:14 PM,2:01,Ridnour STEAL (1 STL),,Monroe Lost Ball Turnover (P4.T17),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,507,5,1,4,9:14 PM,1:47,Payton Bad Pass Turnover (P4.T20),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,508,6,29,4,9:15 PM,1:32,Payton Shooting Block Foul (P4.PN),,,,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,509,3,11,4,9:15 PM,1:32,,,Jennings Free Throw 1 of 2 (9 PTS),82 - 96,14,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,511,3,12,4,9:15 PM,1:32,,,Jennings Free Throw 2 of 2 (10 PTS),83 - 96,13,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,513,6,1,4,9:16 PM,1:16,,,Drummond P.FOUL (P5.T4),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203473,Dewayne Dedmon,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,0
+0011400066,514,5,2,4,9:16 PM,1:10,Gordon Lost Ball Turnover (P3.T21),,Augustin STEAL (2 STL),,,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,515,6,1,4,9:17 PM,1:07,Ridnour P.FOUL (P4.PN),,,,,4,2557,Luke Ridnour,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400066,516,3,11,4,9:17 PM,1:07,,,MISS Augustin Free Throw 1 of 2,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,517,4,1,4,9:17 PM,1:07,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,518,3,12,4,9:17 PM,1:07,,,Augustin Free Throw 2 of 2 (18 PTS),84 - 96,12,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,520,2,1,4,9:18 PM,0:50,MISS Fournier 27' 3PT Jump Shot,,,,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,521,4,0,4,9:18 PM,0:49,,,Jennings REBOUND (Off:0 Def:2),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400066,522,1,1,4,9:18 PM,0:45,,,Augustin 27' 3PT Jump Shot (21 PTS) (Jennings 3 AST),87 - 96,9,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,523,5,1,4,9:18 PM,0:26,Payton Bad Pass Turnover (P5.T22),,Augustin STEAL (3 STL),,,4,203901,Elfrid Payton,1610612753.0,Orlando,Magic,ORL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400066,524,5,1,4,9:18 PM,0:23,Fournier STEAL (2 STL),,Augustin Bad Pass Turnover (P1.T18),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0011400066,525,2,5,4,9:18 PM,0:22,MISS Fournier 1' Layup,,Drummond BLOCK (5 BLK),,,4,203095,Evan Fournier,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400066,526,4,0,4,9:18 PM,0:22,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400066,528,1,1,4,9:19 PM,0:00,Gordon 31' 3PT Jump Shot (14 PTS),,,87 - 99,12,4,203932,Aaron Gordon,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0011400066,530,13,0,4,9:19 PM,0:00,,End of 4th Period (9:19 PM EST),,87 - 99,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

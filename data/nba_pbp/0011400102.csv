@@ -1,0 +1,455 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400102,0,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,1,10,0,1,7:41 PM,12:00,Jump Ball Olynyk vs. Plumlee: Tip to Anderson,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,2,6,2,1,7:41 PM,11:41,Green S.FOUL (P1.T1),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,3,3,11,1,7:42 PM,11:41,,,Plumlee Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,5,3,12,1,7:42 PM,11:41,,,Plumlee Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,7,1,1,1,7:42 PM,11:26,Smart  3PT Jump Shot (3 PTS) (Sullinger 1 AST),,,2 - 3,1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,8,5,2,1,7:42 PM,11:14,Bradley STEAL (1 STL),,Plumlee Lost Ball Turnover (P1.T1),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,9,2,1,1,7:43 PM,11:05,MISS Green 25' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,10,4,0,1,7:43 PM,11:04,,,Karasev REBOUND (Off:0 Def:1),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,11,2,1,1,7:43 PM,10:43,,,MISS Anderson 27' 3PT Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,12,4,0,1,7:43 PM,10:42,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,13,6,2,1,7:43 PM,10:39,,,Anderson S.FOUL (P1.T1),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,14,3,11,1,7:43 PM,10:39,Green Free Throw 1 of 2 (1 PTS),,,2 - 4,2,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,16,3,12,1,7:43 PM,10:39,Green Free Throw 2 of 2 (2 PTS),,,2 - 5,3,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,18,1,7,1,7:44 PM,10:30,,,Plumlee  Dunk (4 PTS) (Teague 1 AST),4 - 5,1,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,19,2,1,1,7:44 PM,10:18,MISS Sullinger 27' 3PT Jump Shot,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,20,4,0,1,7:44 PM,10:17,,,Anderson REBOUND (Off:0 Def:1),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,21,2,1,1,7:44 PM,10:08,,,MISS Anderson 15' Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,22,4,0,1,7:44 PM,10:07,Sullinger REBOUND (Off:0 Def:1),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,23,2,5,1,7:44 PM,10:00,MISS Olynyk 2' Layup,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,24,4,0,1,7:44 PM,9:58,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,25,2,5,1,7:45 PM,9:51,,,MISS Jefferson 3' Layup,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,26,4,0,1,7:45 PM,9:50,Sullinger REBOUND (Off:0 Def:2),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,27,5,1,1,7:45 PM,9:38,Sullinger Bad Pass Turnover (P1.T1),,Karasev STEAL (1 STL),,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,28,6,2,1,7:45 PM,9:23,Sullinger S.FOUL (P1.T2),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,29,3,11,1,7:45 PM,9:23,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,30,4,1,1,7:45 PM,9:23,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,31,3,12,1,7:46 PM,9:23,,,Plumlee Free Throw 2 of 2 (5 PTS),5 - 5,TIE,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,33,1,1,1,7:46 PM,9:09,Green 6' Jump Shot (4 PTS) (Smart 1 AST),,,5 - 7,2,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,34,1,5,1,7:46 PM,9:00,,,Teague 3' Layup (2 PTS),7 - 7,TIE,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,35,2,1,1,7:46 PM,8:48,MISS Olynyk 4' Jump Shot,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,36,4,0,1,7:46 PM,8:44,,,Plumlee REBOUND (Off:0 Def:2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,37,2,1,1,7:47 PM,8:37,,,MISS Karasev 27' 3PT Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,38,4,0,1,7:47 PM,8:36,Sullinger REBOUND (Off:0 Def:3),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,39,2,80,1,7:47 PM,8:14,MISS Smart 27' 3PT Step Back Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,40,4,0,1,7:47 PM,8:13,,,Anderson REBOUND (Off:0 Def:2),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,41,5,1,1,7:47 PM,7:59,Smart STEAL (1 STL),,Teague Bad Pass Turnover (P1.T2),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,42,5,8,1,7:48 PM,7:46,Sullinger 3 Second Violation Turnover (P2.T2),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,43,9,1,1,7:48 PM,7:46,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,45,6,29,1,7:50 PM,7:32,Olynyk Shooting Block Foul (P1.T3),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,46,3,11,1,7:50 PM,7:32,,,Plumlee Free Throw 1 of 2 (6 PTS),8 - 7,-1,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,48,3,12,1,7:51 PM,7:32,,,MISS Plumlee Free Throw 2 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,50,4,0,1,7:51 PM,7:31,Sullinger REBOUND (Off:0 Def:4),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,51,1,1,1,7:51 PM,7:16,Bradley 17' Jump Shot (2 PTS) (Smart 2 AST),,,8 - 9,1,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,52,1,80,1,7:51 PM,7:00,,,Anderson 12' Step Back Jump Shot (2 PTS),10 - 9,-1,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,53,2,1,1,7:51 PM,6:43,MISS Olynyk 24' 3PT Jump Shot,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,54,4,0,1,7:52 PM,6:42,Sullinger REBOUND (Off:1 Def:4),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,55,1,65,1,7:52 PM,6:39,Sullinger 5' Jump Hook Shot (2 PTS),,,10 - 11,1,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,56,2,1,1,7:52 PM,6:24,,,MISS Jefferson 4' Jump Shot,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,57,4,0,1,7:52 PM,6:22,Sullinger REBOUND (Off:1 Def:5),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,59,6,17,1,7:52 PM,6:10,,,Nets T.Foul (Def. 3 Sec Jefferson ),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,60,3,16,1,7:52 PM,6:10,Bradley Free Throw Technical (3 PTS),,,10 - 12,2,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,62,8,0,1,7:53 PM,6:10,SUB: Turner FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,63,1,7,1,7:53 PM,6:02,Olynyk  Dunk (2 PTS) (Bradley 1 AST),,,10 - 14,4,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,65,2,1,1,7:53 PM,5:42,,,MISS Plumlee 4' Jump Shot,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,67,4,0,1,7:53 PM,5:41,,,Plumlee REBOUND (Off:1 Def:2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,66,1,72,1,7:53 PM,5:40,,,Plumlee 1' Putback Layup (8 PTS),12 - 14,2,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,68,5,1,1,7:53 PM,5:33,Smart Bad Pass Turnover (P1.T3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,69,5,1,1,7:54 PM,5:23,,,Anderson Bad Pass Turnover (P1.T3),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,71,2,1,1,7:54 PM,5:15,MISS Green 24' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,72,4,0,1,7:54 PM,5:14,,,Anderson REBOUND (Off:0 Def:3),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,73,6,17,1,7:54 PM,5:01,CELTICS T.Foul (Def. 3 Sec Green ),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,74,3,16,1,7:54 PM,5:01,,,Karasev Free Throw Technical (1 PTS),13 - 14,1,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,76,2,1,1,7:55 PM,4:49,,,MISS Anderson  3PT Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,77,4,0,1,7:55 PM,4:49,,,Plumlee REBOUND (Off:2 Def:2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,78,2,1,1,7:55 PM,4:44,,,MISS Jefferson 9' Jump Shot,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,79,4,0,1,7:55 PM,4:42,Turner REBOUND (Off:0 Def:1),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,80,5,2,1,7:55 PM,4:30,Green Lost Ball Turnover (P1.T4),,Karasev STEAL (2 STL),,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,81,2,1,1,7:55 PM,4:27,Green BLOCK (1 BLK),,MISS Karasev 4' Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0
+0011400102,82,4,0,1,7:55 PM,4:26,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,83,2,1,1,7:56 PM,4:11,,,MISS Karasev 24' 3PT Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,84,4,0,1,7:56 PM,4:09,Bradley REBOUND (Off:0 Def:1),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,85,1,73,1,7:56 PM,4:04,Smart 3' Driving Reverse Layup (5 PTS) (Bradley 2 AST),,,13 - 16,3,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,86,6,26,1,7:56 PM,3:44,,,Plumlee Offensive Charge Foul (P1.T2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,87,5,5,1,7:56 PM,3:44,,,Plumlee Foul Turnover (P2.T4),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,88,8,0,1,7:56 PM,3:44,,,SUB: Reed FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,89,8,0,1,7:56 PM,3:44,SUB: Thornton FOR Bradley,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,90,8,0,1,7:57 PM,3:44,,,SUB: Teletovic FOR Jefferson,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,91,8,0,1,7:57 PM,3:44,SUB: Pressey FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,92,8,0,1,7:57 PM,3:44,,,SUB: Bogdanovic FOR Anderson,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,93,1,46,1,7:57 PM,3:24,Green 6' Running Jump Shot (6 PTS) (Pressey 1 AST),,,13 - 18,5,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,94,6,2,1,7:57 PM,3:11,Green S.FOUL (P2.T4),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,95,3,11,1,7:58 PM,3:11,,,Teletovic Free Throw 1 of 2 (1 PTS),14 - 18,4,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,97,8,0,1,7:58 PM,3:11,,,SUB: Gutierrez FOR Teague,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,98,8,0,1,7:58 PM,3:11,SUB: Zeller FOR Olynyk,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,99,8,0,1,7:58 PM,3:11,SUB: Bass FOR Green,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,100,3,12,1,7:58 PM,3:11,,,Teletovic Free Throw 2 of 2 (2 PTS),15 - 18,3,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,102,9,1,1,7:58 PM,3:11,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,104,6,2,1,8:01 PM,3:01,,,Reed S.FOUL (P1.T3),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,105,3,11,1,8:01 PM,3:01,Zeller Free Throw 1 of 2 (1 PTS),,,15 - 19,4,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,107,3,12,1,8:01 PM,3:01,Zeller Free Throw 2 of 2 (2 PTS),,,15 - 20,5,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,109,6,27,1,8:01 PM,2:53,Pressey Personal Block Foul (P1.PN),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,110,3,11,1,8:01 PM,2:53,,,Gutierrez Free Throw 1 of 2 (1 PTS),16 - 20,4,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,112,3,12,1,8:02 PM,2:53,,,Gutierrez Free Throw 2 of 2 (2 PTS),17 - 20,3,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,114,2,74,1,8:02 PM,2:40,MISS Zeller  Running Reverse Layup,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,115,4,0,1,8:02 PM,2:38,,,Teletovic REBOUND (Off:0 Def:1),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,116,1,7,1,8:02 PM,2:31,,,Reed  Dunk (2 PTS) (Teletovic 1 AST),19 - 20,1,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,117,2,1,1,8:03 PM,2:06,MISS Bass 15' Jump Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,118,4,0,1,8:03 PM,2:05,,,Karasev REBOUND (Off:0 Def:2),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,119,7,5,1,8:03 PM,1:57,Pressey Violation:Kicked Ball,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,120,2,1,1,8:03 PM,1:45,,,MISS Karasev  3PT Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,121,4,0,1,8:03 PM,1:44,,,Reed REBOUND (Off:1 Def:0),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,122,1,1,1,8:03 PM,1:28,,,Teletovic 24' 3PT Jump Shot (5 PTS),22 - 20,-2,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,123,2,3,1,8:04 PM,1:09,MISS Bass 3' Hook Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,124,4,0,1,8:04 PM,1:09,,,Bogdanovic REBOUND (Off:0 Def:1),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,125,2,63,1,8:04 PM,0:53,,,MISS Bogdanovic 13' Fadeaway Jumper,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,126,4,0,1,8:04 PM,0:52,Zeller REBOUND (Off:0 Def:1),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,127,1,1,1,8:04 PM,0:36,Thornton 27' 3PT Jump Shot (3 PTS) (Turner 1 AST),,,22 - 23,1,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,128,1,1,1,8:04 PM,0:29,,,Teletovic 26' 3PT Jump Shot (8 PTS) (Gutierrez 1 AST),25 - 23,-2,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,129,1,78,1,8:05 PM,0:15,Turner 6' Floating Jump Shot (2 PTS),,,25 - 25,TIE,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,130,13,0,1,8:05 PM,0:00,,End of 1st Period (8:05 PM EST),,25 - 25,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,132,12,0,2,8:08 PM,12:00,,Start of 2nd Period (8:08 PM EST),,25 - 25,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,133,7,5,2,8:08 PM,11:52,,,Gutierrez Violation:Kicked Ball,,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,134,2,1,2,8:08 PM,11:43,MISS Thornton 25' 3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,135,4,0,2,8:08 PM,11:42,,,Reed REBOUND (Off:1 Def:1),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,136,5,2,2,8:09 PM,11:23,Pressey STEAL (1 STL),,Teletovic Lost Ball Turnover (P1.T5),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,137,6,1,2,8:09 PM,11:22,,,Karasev P.FOUL (P1.T1),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,138,5,1,2,8:09 PM,11:19,Turner Bad Pass Turnover (P1.T5),,Gutierrez STEAL (1 STL),,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,139,1,5,2,8:09 PM,11:17,,,Gutierrez  Layup (4 PTS),27 - 25,-2,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,140,1,1,2,8:09 PM,11:01,Bass 18' Jump Shot (2 PTS) (Pressey 2 AST),,,27 - 27,TIE,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,141,5,7,2,8:10 PM,10:40,,,Bogdanovic Discontinue Dribble Turnover (P1.T6),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,142,2,5,2,8:10 PM,10:29,MISS Zeller 3' Layup,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,143,4,0,2,8:10 PM,10:28,,,Reed REBOUND (Off:1 Def:2),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,144,6,2,2,8:10 PM,10:24,Pressey S.FOUL (P2.T1),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,145,3,11,2,8:11 PM,10:24,,,Gutierrez Free Throw 1 of 2 (5 PTS),28 - 27,-1,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,147,3,12,2,8:11 PM,10:24,,,Gutierrez Free Throw 2 of 2 (6 PTS),29 - 27,-2,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,149,2,1,2,8:11 PM,10:01,MISS Zeller 5' Jump Shot,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,150,4,0,2,8:11 PM,10:00,,,Teletovic REBOUND (Off:0 Def:2),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,151,1,1,2,8:12 PM,9:48,,,Teletovic 25' 3PT Jump Shot (11 PTS) (Reed 1 AST),32 - 27,-5,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,152,2,1,2,8:12 PM,9:36,MISS Pressey 25' 3PT Jump Shot,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,153,4,0,2,8:12 PM,9:35,Pressey REBOUND (Off:1 Def:0),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,154,2,1,2,8:12 PM,9:30,MISS Bass 5' Jump Shot,,Reed BLOCK (1 BLK),,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,155,4,0,2,8:12 PM,9:28,,,Teletovic REBOUND (Off:0 Def:3),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,156,5,1,2,8:12 PM,9:25,,,Gutierrez Bad Pass Turnover (P1.T7),,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,157,2,1,2,8:12 PM,9:12,MISS Thornton 24' 3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,158,4,0,2,8:12 PM,9:11,Zeller REBOUND (Off:1 Def:1),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,159,6,2,2,8:13 PM,9:10,,,Reed S.FOUL (P2.T2),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,160,3,11,2,8:13 PM,9:10,Zeller Free Throw 1 of 2 (3 PTS),,,32 - 28,-4,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,162,8,0,2,8:13 PM,9:10,,,SUB: Jordan FOR Reed,,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,163,8,0,2,8:13 PM,9:10,SUB: Wallace FOR Turner,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,164,3,12,2,8:13 PM,9:10,Zeller Free Throw 2 of 2 (4 PTS),,,32 - 29,-3,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,166,2,1,2,8:13 PM,8:57,,,MISS Bogdanovic 27' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,167,4,0,2,8:13 PM,8:55,Zeller REBOUND (Off:1 Def:2),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,168,5,8,2,8:14 PM,8:45,Bass 3 Second Violation Turnover (P1.T6),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,169,9,4,2,8:14 PM,8:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,171,8,0,2,8:15 PM,8:45,SUB: Young FOR Thornton,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,172,8,0,2,8:16 PM,8:45,,,SUB: Anderson FOR Karasev,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,173,5,4,2,8:16 PM,8:30,,,Teletovic Traveling Turnover (P2.T8),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,174,5,1,2,8:16 PM,8:28,Zeller Bad Pass Turnover (P1.T7),,Gutierrez STEAL (2 STL),,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,175,1,5,2,8:17 PM,8:26,,,Gutierrez 3' Layup (8 PTS),34 - 29,-5,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,176,1,1,2,8:17 PM,8:04,Young 25' 3PT Jump Shot (3 PTS) (Wallace 1 AST),,,34 - 32,-2,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,177,2,1,2,8:17 PM,7:46,,,MISS Anderson 12' Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,178,4,0,2,8:17 PM,7:45,Young REBOUND (Off:0 Def:1),,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,179,2,1,2,8:17 PM,7:31,MISS Young 26' 3PT Jump Shot,,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,180,4,0,2,8:17 PM,7:30,Zeller REBOUND (Off:2 Def:2),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,181,2,58,2,8:17 PM,7:27,MISS Zeller 4' Turnaround Hook Shot,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,182,4,0,2,8:17 PM,7:25,,,Teletovic REBOUND (Off:0 Def:4),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,183,6,27,2,8:18 PM,7:22,Young Personal Block Foul (P1.T2),,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,184,8,0,2,8:18 PM,7:22,SUB: Smart FOR Pressey,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,185,8,0,2,8:18 PM,7:22,SUB: Olynyk FOR Zeller,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,186,6,4,2,8:18 PM,7:22,,,Gutierrez OFF.Foul (P1),,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,187,5,5,2,8:18 PM,7:22,,,Gutierrez Foul Turnover (P2.T9),,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,188,6,2,2,8:18 PM,7:15,,,Gutierrez S.FOUL (P2.T3),,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,189,3,11,2,8:19 PM,7:15,Smart Free Throw 1 of 2 (6 PTS),,,34 - 33,-1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,191,8,0,2,8:19 PM,7:15,,,SUB: Teague FOR Gutierrez,,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,192,8,0,2,8:19 PM,7:15,,,SUB: Plumlee FOR Jordan,,,5,202366,Jerome Jordan,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,193,8,0,2,8:19 PM,7:15,SUB: Sullinger FOR Bass,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,194,3,12,2,8:19 PM,7:15,Smart Free Throw 2 of 2 (7 PTS),,,34 - 34,TIE,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,196,5,1,2,8:19 PM,7:01,Sullinger STEAL (1 STL),,Anderson Bad Pass Turnover (P2.T10),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,197,1,5,2,8:20 PM,6:53,Wallace 2' Layup (2 PTS) (Olynyk 1 AST),,,34 - 36,2,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,198,1,5,2,8:20 PM,6:39,,,Plumlee 2' Layup (10 PTS) (Teague 2 AST),36 - 36,TIE,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,200,1,5,2,8:20 PM,6:27,Wallace 1' Layup (4 PTS) (Smart 3 AST),,,36 - 38,2,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,201,2,42,2,8:20 PM,6:14,,,MISS Anderson 2' Driving Layup,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,202,4,0,2,8:20 PM,6:12,Sullinger REBOUND (Off:1 Def:6),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,203,1,1,2,8:21 PM,6:04,Sullinger 26' 3PT Jump Shot (5 PTS) (Olynyk 2 AST),,,36 - 41,5,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,204,9,1,2,8:21 PM,5:58,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,206,5,1,2,8:23 PM,5:52,,,Teague Bad Pass Turnover (P2.T11),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,207,6,4,2,8:23 PM,5:45,Sullinger OFF.Foul (P2),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,208,5,5,2,8:23 PM,5:45,Sullinger Foul Turnover (P3.T8),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,209,2,1,2,8:24 PM,5:24,,,MISS Teletovic 26' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,210,4,0,2,8:24 PM,5:23,Sullinger REBOUND (Off:1 Def:7),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,211,2,1,2,8:24 PM,5:13,MISS Olynyk 3' Jump Shot,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,212,4,0,2,8:24 PM,5:12,Sullinger REBOUND (Off:2 Def:7),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,213,1,4,2,8:24 PM,5:12,Sullinger 2' Tip Shot (7 PTS),,,36 - 43,7,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,214,1,41,2,8:24 PM,4:56,,,Teague 3' Running Layup (4 PTS),38 - 43,5,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,215,2,1,2,8:24 PM,4:42,MISS Young 5' Jump Shot,,Plumlee BLOCK (1 BLK),,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,216,4,0,2,8:24 PM,4:40,,,Anderson REBOUND (Off:0 Def:4),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,217,6,26,2,8:25 PM,4:36,,,Plumlee Offensive Charge Foul (P2.T4),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,218,5,5,2,8:25 PM,4:36,,,Plumlee Foul Turnover (P3.T12),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,219,8,0,2,8:25 PM,4:36,,,SUB: Jefferson FOR Teletovic,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,220,6,2,2,8:25 PM,4:27,,,Jefferson S.FOUL (P1.PN),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,221,3,11,2,8:25 PM,4:27,Smart Free Throw 1 of 2 (8 PTS),,,38 - 44,6,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,223,3,12,2,8:25 PM,4:27,Smart Free Throw 2 of 2 (9 PTS),,,38 - 45,7,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,225,2,1,2,8:26 PM,4:02,,,MISS Teague 5' Jump Shot,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,226,4,0,2,8:26 PM,4:01,,,Jefferson REBOUND (Off:1 Def:0),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,227,2,72,2,8:26 PM,4:00,,,MISS Jefferson 1' Putback Layup,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,228,4,0,2,8:26 PM,3:59,Sullinger REBOUND (Off:2 Def:8),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,229,2,1,2,8:26 PM,3:51,MISS Smart 28' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,230,4,0,2,8:26 PM,3:49,,,Plumlee REBOUND (Off:2 Def:3),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,232,8,0,2,8:27 PM,3:40,,,SUB: Reed FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,233,8,0,2,8:27 PM,3:40,,,SUB: Karasev FOR Bogdanovic,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,235,5,2,2,8:27 PM,3:40,Sullinger STEAL (2 STL),,Teague Lost Ball Turnover (P3.T13),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,234,10,0,2,8:27 PM,3:40,Jump Ball Sullinger vs. Teague: Tip to Smart,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0
+0011400102,236,1,5,2,8:27 PM,3:30,Smart 2' Layup (11 PTS) (Wallace 2 AST),,,38 - 47,9,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,238,2,86,2,8:28 PM,3:11,Olynyk BLOCK (1 BLK),,MISS Jefferson 13' Turnaround Fadeaway Shot,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0
+0011400102,239,4,0,2,8:28 PM,3:10,Sullinger REBOUND (Off:2 Def:9),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,240,1,5,2,8:28 PM,3:02,Smart 3' Layup (13 PTS) (Wallace 3 AST),,,38 - 49,11,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,241,9,2,2,8:28 PM,2:52,,,Nets Timeout: Short (Reg.2 Short 1),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,243,9,1,2,8:29 PM,2:52,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,245,5,1,2,8:31 PM,2:41,Wallace STEAL (1 STL),,Teague Bad Pass Turnover (P4.T14),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,246,1,5,2,8:31 PM,2:37,Wallace 1' Layup (6 PTS) (Olynyk 3 AST),,,38 - 51,13,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,247,5,2,2,8:31 PM,2:23,Wallace STEAL (2 STL),,Teague Lost Ball Turnover (P5.T15),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,248,1,5,2,8:31 PM,2:19,Wallace 1' Layup (8 PTS),,,38 - 53,15,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,249,2,1,2,8:31 PM,2:04,,,MISS Karasev 7' Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,250,4,0,2,8:31 PM,2:04,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,251,2,1,2,8:32 PM,1:59,,,MISS Anderson 18' Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,252,4,0,2,8:32 PM,1:58,Sullinger REBOUND (Off:2 Def:10),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,253,5,4,2,8:32 PM,1:54,Wallace Traveling Turnover (P1.T9),,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,255,2,1,2,8:32 PM,1:34,,,MISS Jefferson 18' Jump Shot,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,256,4,0,2,8:33 PM,1:31,Sullinger REBOUND (Off:2 Def:11),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,257,1,78,2,8:33 PM,1:25,Young 8' Floating Jump Shot (5 PTS) (Smart 4 AST),,,38 - 55,17,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,258,1,1,2,8:33 PM,1:11,,,Teague 7' Jump Shot (6 PTS),40 - 55,15,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,259,6,2,2,8:33 PM,1:11,Smart S.FOUL (P1.T3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,260,3,10,2,8:33 PM,1:11,,,Teague Free Throw 1 of 1 (7 PTS),41 - 55,14,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,262,6,1,2,8:34 PM,1:03,,,Reed P.FOUL (P3.PN),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,263,3,11,2,8:34 PM,1:03,MISS Wallace Free Throw 1 of 2,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,264,4,1,2,8:34 PM,1:03,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,265,3,12,2,8:34 PM,1:03,MISS Wallace Free Throw 2 of 2,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,267,4,0,2,8:34 PM,1:02,,,Anderson REBOUND (Off:0 Def:5),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,268,2,79,2,8:34 PM,0:51,,,MISS Teague 15' Pullup Jump Shot,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,269,4,0,2,8:34 PM,0:51,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,270,6,3,2,8:35 PM,0:51,Olynyk L.B.FOUL (P2.PN),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,271,3,11,2,8:35 PM,0:51,,,Jefferson Free Throw 1 of 2 (1 PTS),42 - 55,13,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,273,3,12,2,8:35 PM,0:51,,,MISS Jefferson Free Throw 2 of 2,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,275,4,0,2,8:35 PM,0:49,Olynyk REBOUND (Off:0 Def:1),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,277,6,3,2,8:36 PM,0:29,Sullinger L.B.FOUL (P3.PN),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,278,5,5,2,8:36 PM,0:29,Sullinger Foul Turnover (P4.T10),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,279,3,11,2,8:36 PM,0:29,,,Anderson Free Throw 1 of 2 (3 PTS),43 - 55,12,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,281,3,12,2,8:36 PM,0:29,,,Anderson Free Throw 2 of 2 (4 PTS),44 - 55,11,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,284,1,1,2,8:37 PM,0:15,Smart 26' 3PT Jump Shot (16 PTS) (Young 1 AST),,,44 - 58,14,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,285,5,2,2,8:37 PM,0:02,Smart STEAL (2 STL),,Teague Lost Ball Turnover (P6.T16),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,286,2,1,2,8:37 PM,0:00,MISS Smart 27' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,288,4,0,2,8:37 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,287,13,0,2,8:37 PM,0:00,,End of 2nd Period (8:37 PM EST),,44 - 58,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,290,12,0,3,8:54 PM,12:00,,Start of 3rd Period (8:54 PM EST),,44 - 58,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,291,1,5,3,8:54 PM,11:40,Turner 1' Layup (4 PTS) (Thornton 1 AST),,,44 - 60,16,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,292,6,2,3,8:54 PM,11:40,,,Teague S.FOUL (P1.T1),,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,293,3,10,3,8:54 PM,11:40,Turner Free Throw 1 of 1 (5 PTS),,,44 - 61,17,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,296,5,1,3,8:55 PM,11:22,Turner STEAL (1 STL),,Karasev Bad Pass Turnover (P1.T17),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,298,1,1,3,8:55 PM,11:03,Bass  3PT Jump Shot (5 PTS) (Pressey 3 AST),,,44 - 64,20,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,299,6,2,3,8:55 PM,10:42,Bass S.FOUL (P1.T1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,300,3,11,3,8:56 PM,10:42,,,Jefferson Free Throw 1 of 2 (2 PTS),45 - 64,19,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,302,3,12,3,8:56 PM,10:42,,,Jefferson Free Throw 2 of 2 (3 PTS),46 - 64,18,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,304,1,1,3,8:56 PM,10:30,Thornton 17' Jump Shot (5 PTS) (Sullinger 2 AST),,,46 - 66,20,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,305,1,71,3,8:56 PM,10:16,,,Plumlee 3' Finger Roll Layup (12 PTS) (Teague 3 AST),48 - 66,18,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,306,2,1,3,8:57 PM,10:00,MISS Turner 15' Jump Shot,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,307,4,0,3,8:57 PM,9:59,,,Jefferson REBOUND (Off:1 Def:1),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,308,5,4,3,8:57 PM,9:54,,,Plumlee Traveling Turnover (P4.T18),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,310,1,1,3,8:57 PM,9:38,Turner 25' 3PT Jump Shot (8 PTS) (Bass 1 AST),,,48 - 69,21,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,311,2,1,3,8:58 PM,9:20,,,MISS Anderson 26' 3PT Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,312,4,0,3,8:58 PM,9:19,Thornton REBOUND (Off:0 Def:1),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,313,6,29,3,8:58 PM,9:16,,,Karasev Shooting Block Foul (P2.T2),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,314,9,2,3,8:58 PM,9:16,,,Nets Timeout: Short (Reg.2 Short 2),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,316,3,11,3,8:59 PM,9:16,Thornton Free Throw 1 of 2 (6 PTS),,,48 - 70,22,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,318,3,12,3,8:59 PM,9:16,Thornton Free Throw 2 of 2 (7 PTS),,,48 - 71,23,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,321,2,1,3,9:00 PM,8:52,,,MISS Anderson 25' 3PT Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,322,4,0,3,9:00 PM,8:51,,,Jefferson REBOUND (Off:2 Def:1),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,323,2,87,3,9:00 PM,8:51,,,MISS Jefferson  Putback Dunk,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,324,4,0,3,9:00 PM,8:49,Sullinger REBOUND (Off:2 Def:12),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,325,2,3,3,9:00 PM,8:39,MISS Bass 2' Hook Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,326,4,0,3,9:00 PM,8:38,Turner REBOUND (Off:1 Def:1),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,327,5,1,3,9:00 PM,8:30,Turner Bad Pass Turnover (P2.T11),,Anderson STEAL (1 STL),,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,328,6,2,3,9:00 PM,8:26,Pressey S.FOUL (P3.T2),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,329,3,11,3,9:00 PM,8:26,,,Teague Free Throw 1 of 2 (8 PTS),49 - 71,22,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,331,3,12,3,9:01 PM,8:26,,,MISS Teague Free Throw 2 of 2,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,333,4,0,3,9:01 PM,8:25,Turner REBOUND (Off:1 Def:2),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,334,2,1,3,9:01 PM,8:12,MISS Pressey 25' 3PT Jump Shot,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,335,4,0,3,9:01 PM,8:11,Bass REBOUND (Off:1 Def:0),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,336,2,1,3,9:01 PM,8:06,MISS Thornton 26' 3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,337,4,0,3,9:01 PM,8:05,,,Plumlee REBOUND (Off:2 Def:4),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,338,1,46,3,9:01 PM,7:52,,,Teague 7' Running Jump Shot (10 PTS),51 - 71,20,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,339,2,1,3,9:01 PM,7:40,MISS Thornton 25' 3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,340,4,0,3,9:01 PM,7:39,,,Plumlee REBOUND (Off:2 Def:5),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,341,2,1,3,9:02 PM,7:29,,,MISS Karasev 25' 3PT Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,342,4,0,3,9:02 PM,7:27,,,Plumlee REBOUND (Off:3 Def:5),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,343,6,2,3,9:02 PM,7:26,Sullinger S.FOUL (P4.T3),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,344,3,11,3,9:02 PM,7:26,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,345,4,1,3,9:02 PM,7:26,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,346,8,0,3,9:02 PM,7:26,SUB: Young FOR Turner,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,347,3,12,3,9:02 PM,7:26,,,Plumlee Free Throw 2 of 2 (13 PTS),52 - 71,19,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,349,2,1,3,9:03 PM,7:16,MISS Sullinger 24' 3PT Jump Shot,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,350,4,0,3,9:03 PM,7:15,,,Jefferson REBOUND (Off:2 Def:2),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,351,2,58,3,9:03 PM,7:04,,,MISS Plumlee 6' Turnaround Hook Shot,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,352,4,0,3,9:03 PM,7:02,Bass REBOUND (Off:1 Def:1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,353,5,1,3,9:03 PM,6:54,Pressey Bad Pass Turnover (P1.T12),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,354,6,1,3,9:03 PM,6:46,Young P.FOUL (P2.T4),,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,355,1,1,3,9:04 PM,6:40,,,Plumlee 3' Jump Shot (15 PTS) (Karasev 1 AST),54 - 71,17,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,356,6,1,3,9:04 PM,6:31,,,Plumlee P.FOUL (P3.T3),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,357,2,1,3,9:04 PM,6:23,MISS Pressey 27' 3PT Jump Shot,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,358,4,0,3,9:04 PM,6:22,,,Plumlee REBOUND (Off:3 Def:6),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,359,1,1,3,9:04 PM,6:13,,,Jefferson 10' Jump Shot (5 PTS) (Teague 4 AST),56 - 71,15,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,360,9,1,3,9:05 PM,6:13,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,363,5,1,3,9:07 PM,5:58,Bass Bad Pass Turnover (P2.T13),,Plumlee STEAL (1 STL),,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,364,2,1,3,9:07 PM,5:54,Bass BLOCK (1 BLK),,MISS Plumlee 4' Jump Shot,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0
+0011400102,365,4,0,3,9:07 PM,5:54,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,366,8,0,3,9:07 PM,5:54,SUB: Wallace FOR Thornton,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,367,2,1,3,9:08 PM,5:36,,,MISS Karasev 21' Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,368,4,0,3,9:08 PM,5:35,,,Jefferson REBOUND (Off:3 Def:2),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,369,1,1,3,9:08 PM,5:33,,,Jefferson 3' Jump Shot (7 PTS),58 - 71,13,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,370,1,5,3,9:08 PM,5:18,Sullinger 2' Layup (9 PTS) (Pressey 4 AST),,,58 - 73,15,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,371,2,1,3,9:08 PM,5:06,,,MISS Plumlee 15' Jump Shot,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,372,4,0,3,9:08 PM,5:05,Young REBOUND (Off:0 Def:2),,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,373,1,1,3,9:08 PM,4:57,Sullinger 4' Jump Shot (11 PTS) (Wallace 4 AST),,,58 - 75,17,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,374,6,2,3,9:08 PM,4:57,,,Jefferson S.FOUL (P2.T4),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,375,8,0,3,9:09 PM,4:57,SUB: Zeller FOR Bass,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,376,3,10,3,9:09 PM,4:57,MISS Sullinger Free Throw 1 of 1,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,378,4,0,3,9:09 PM,4:56,,,Plumlee REBOUND (Off:3 Def:7),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,379,1,8,3,9:09 PM,4:41,,,Jefferson  Slam Dunk (9 PTS) (Plumlee 1 AST),60 - 75,15,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,380,1,78,3,9:09 PM,4:23,Sullinger 6' Floating Jump Shot (13 PTS),,,60 - 77,17,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,381,2,1,3,9:09 PM,4:11,,,MISS Jefferson 18' Jump Shot,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,382,4,0,3,9:09 PM,4:10,Young REBOUND (Off:0 Def:3),,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,383,2,1,3,9:10 PM,3:59,MISS Zeller 3' Jump Shot,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,384,4,0,3,9:10 PM,3:58,Zeller REBOUND (Off:3 Def:2),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,385,1,1,3,9:10 PM,3:57,Zeller 5' Jump Shot (6 PTS),,,60 - 79,19,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,386,6,2,3,9:10 PM,3:57,,,Jefferson S.FOUL (P3.PN),,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,387,8,0,3,9:10 PM,3:57,SUB: Powell FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,388,8,0,3,9:10 PM,3:57,,,SUB: Reed FOR Plumlee,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,389,8,0,3,9:10 PM,3:57,,,SUB: Gutierrez FOR Teague,,,5,203104,Marquis Teague,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,390,8,0,3,9:10 PM,3:57,,,SUB: Teletovic FOR Jefferson,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,391,8,0,3,9:10 PM,3:57,,,SUB: Bogdanovic FOR Anderson,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,393,3,10,3,9:10 PM,3:57,Zeller Free Throw 1 of 1 (7 PTS),,,60 - 80,20,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,396,2,1,3,9:11 PM,3:38,,,MISS Teletovic 18' Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,397,4,0,3,9:11 PM,3:37,Zeller REBOUND (Off:3 Def:3),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,398,2,42,3,9:11 PM,3:31,MISS Pressey 1' Driving Layup,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,399,4,0,3,9:11 PM,3:30,,,Bogdanovic REBOUND (Off:0 Def:2),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,400,1,47,3,9:11 PM,3:19,,,Reed 4' Turnaround Jump Shot (4 PTS) (Gutierrez 2 AST),62 - 80,18,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,401,5,2,3,9:12 PM,2:57,Young Lost Ball Turnover (P1.T14),,Bogdanovic STEAL (1 STL),,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,402,5,1,3,9:12 PM,2:52,Young STEAL (1 STL),,Gutierrez Bad Pass Turnover (P3.T19),,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,404,9,1,3,9:12 PM,2:48,,,Nets Timeout: Regular (Reg.3 Short 2),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,406,8,0,3,9:14 PM,2:48,SUB: Frazier FOR Pressey,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,408,2,58,3,9:14 PM,2:37,MISS Zeller 6' Turnaround Hook Shot,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,409,4,0,3,9:14 PM,2:36,,,Reed REBOUND (Off:1 Def:3),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,410,1,75,3,9:15 PM,2:18,,,Karasev 2' Driving Finger Roll Layup (3 PTS),64 - 80,16,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,411,1,1,3,9:15 PM,2:03,Powell 3' Jump Shot (2 PTS) (Frazier 1 AST),,,64 - 82,18,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,413,2,1,3,9:15 PM,1:41,,,MISS Teletovic  3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,414,4,0,3,9:15 PM,1:40,,,Karasev REBOUND (Off:1 Def:2),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,415,2,44,3,9:15 PM,1:38,,,MISS Karasev 2' Reverse Layup,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,416,4,0,3,9:15 PM,1:36,Frazier REBOUND (Off:0 Def:1),,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,417,2,1,3,9:15 PM,1:26,MISS Frazier 15' Jump Shot,,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,418,4,0,3,9:15 PM,1:25,,,Reed REBOUND (Off:1 Def:4),,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,419,2,42,3,9:16 PM,1:15,,,MISS Gutierrez 1' Driving Layup,,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,420,4,0,3,9:16 PM,1:13,Frazier REBOUND (Off:0 Def:2),,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,421,2,5,3,9:16 PM,0:59,MISS Wallace 2' Layup,,Bogdanovic BLOCK (1 BLK),,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,422,4,0,3,9:16 PM,0:57,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,423,1,1,3,9:16 PM,0:43,,,Bogdanovic 26' 3PT Jump Shot (3 PTS) (Gutierrez 3 AST),67 - 82,15,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,424,1,75,3,9:17 PM,0:24,Wallace 2' Driving Finger Roll Layup (10 PTS) (Zeller 1 AST),,,67 - 84,17,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,425,6,1,3,9:17 PM,0:14,Frazier P.FOUL (P1.PN),,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,426,3,11,3,9:17 PM,0:14,,,MISS Bogdanovic Free Throw 1 of 2,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,427,4,1,3,9:17 PM,0:14,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,428,3,12,3,9:17 PM,0:14,,,Bogdanovic Free Throw 2 of 2 (4 PTS),68 - 84,16,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,430,2,1,3,9:18 PM,0:00,MISS Wallace 21' Jump Shot,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,432,4,0,3,9:18 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,431,13,0,3,9:18 PM,0:00,,End of 3rd Period (9:18 PM EST),,68 - 84,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,434,12,0,4,9:20 PM,12:00,,Start of 4th Period (9:20 PM EST),,68 - 84,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,435,6,1,4,9:21 PM,11:53,Frazier P.FOUL (P2.T1),,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,436,2,5,4,9:21 PM,11:45,Powell BLOCK (1 BLK),,MISS Reed 3' Layup,,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0
+0011400102,437,4,0,4,9:21 PM,11:44,Powell REBOUND (Off:0 Def:1),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,438,10,0,4,9:21 PM,11:44,Jump Ball Powell vs. Reed: Tip to Young,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0
+0011400102,440,5,2,4,9:22 PM,11:22,Frazier Lost Ball Turnover (P1.T15),,Teletovic STEAL (1 STL),,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,442,5,40,4,9:22 PM,11:13,,,Bogdanovic Out of Bounds Lost Ball Turnover (P2.T20),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,443,1,47,4,9:22 PM,10:54,Zeller 5' Turnaround Jump Shot (9 PTS),,,68 - 86,18,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,444,6,2,4,9:23 PM,10:36,Powell S.FOUL (P1.T2),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,445,3,11,4,9:23 PM,10:36,,,Bogdanovic Free Throw 1 of 2 (5 PTS),69 - 86,17,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,447,3,12,4,9:23 PM,10:36,,,Bogdanovic Free Throw 2 of 2 (6 PTS),70 - 86,16,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,449,1,66,4,9:24 PM,10:09,Frazier 19' Jump Bank Shot (2 PTS),,,70 - 88,18,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,450,2,86,4,9:24 PM,9:46,,,MISS Teletovic 9' Turnaround Fadeaway Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,451,4,0,4,9:24 PM,9:45,Young REBOUND (Off:0 Def:4),,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,452,2,1,4,9:24 PM,9:33,MISS Bass  3PT Jump Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,453,4,0,4,9:24 PM,9:32,,,Karasev REBOUND (Off:1 Def:3),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,454,5,1,4,9:25 PM,9:15,,,Karasev Bad Pass Turnover (P2.T21),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,455,8,0,4,9:25 PM,9:15,SUB: Sullinger FOR Zeller,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,456,7,5,4,9:25 PM,9:00,,,Gutierrez Violation:Kicked Ball,,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,457,8,0,4,9:25 PM,9:00,,,SUB: Plumlee FOR Reed,,,5,203186,Willie Reed,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,458,2,1,4,9:26 PM,8:54,MISS Sullinger 25' 3PT Jump Shot,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,459,4,0,4,9:26 PM,8:53,,,Teletovic REBOUND (Off:0 Def:5),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,460,2,1,4,9:26 PM,8:34,,,MISS Karasev 19' Jump Shot,,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,461,4,0,4,9:26 PM,8:33,,,Teletovic REBOUND (Off:1 Def:5),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,462,1,5,4,9:26 PM,8:28,,,Teletovic 2' Layup (13 PTS),72 - 88,16,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,463,1,1,4,9:26 PM,8:19,Bass 16' Jump Shot (7 PTS) (Frazier 2 AST),,,72 - 90,18,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,464,1,1,4,9:26 PM,8:06,,,Bogdanovic 26' 3PT Jump Shot (9 PTS) (Gutierrez 4 AST),75 - 90,15,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,465,2,79,4,9:27 PM,7:46,MISS Young 17' Pullup Jump Shot,,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,466,4,0,4,9:27 PM,7:46,,,Bogdanovic REBOUND (Off:0 Def:3),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,467,2,5,4,9:27 PM,7:32,Sullinger BLOCK (1 BLK),,MISS Plumlee 2' Layup,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0
+0011400102,468,4,0,4,9:27 PM,7:31,Sullinger REBOUND (Off:2 Def:13),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,469,6,26,4,9:27 PM,7:25,Sullinger Offensive Charge Foul (P5.T3),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,470,5,5,4,9:27 PM,7:25,Sullinger Foul Turnover (P5.T16),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,471,9,4,4,9:27 PM,7:25,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,473,8,0,4,9:29 PM,7:25,SUB: Pressey FOR Bass,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,474,8,0,4,9:29 PM,7:25,SUB: Zeller FOR Young,,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,475,8,0,4,9:29 PM,7:25,SUB: Wallace FOR Powell,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,477,1,1,4,9:30 PM,7:11,,,Gutierrez 21' Jump Shot (10 PTS) (Bogdanovic 1 AST),77 - 90,13,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,478,2,5,4,9:30 PM,6:56,MISS Zeller 2' Layup,,Plumlee BLOCK (2 BLK),,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,479,4,0,4,9:30 PM,6:55,,,Teletovic REBOUND (Off:1 Def:6),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,480,2,1,4,9:30 PM,6:42,,,MISS Bogdanovic  3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,481,4,0,4,9:30 PM,6:41,Sullinger REBOUND (Off:2 Def:14),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,482,7,5,4,9:30 PM,6:25,,,Gutierrez Violation:Kicked Ball,,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,483,2,1,4,9:31 PM,6:20,MISS Pressey 20' Jump Shot,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,484,4,0,4,9:31 PM,6:19,,,Bogdanovic REBOUND (Off:0 Def:4),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,485,1,1,4,9:31 PM,6:06,,,Teletovic 21' Jump Shot (15 PTS) (Plumlee 2 AST),79 - 90,11,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,486,5,2,4,9:31 PM,5:43,Zeller Lost Ball Turnover (P2.T17),,Plumlee STEAL (2 STL),,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,487,2,1,4,9:31 PM,5:37,,,MISS Bogdanovic 26' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,488,4,0,4,9:31 PM,5:36,,,Plumlee REBOUND (Off:4 Def:7),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,489,2,58,4,9:32 PM,5:21,,,MISS Plumlee 6' Turnaround Hook Shot,,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,490,4,0,4,9:32 PM,5:20,Sullinger REBOUND (Off:2 Def:15),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,491,1,5,4,9:32 PM,5:06,Sullinger 3' Layup (15 PTS) (Wallace 5 AST),,,79 - 92,13,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,492,5,4,4,9:32 PM,4:56,,,Karasev Traveling Turnover (P3.T22),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011400102,493,9,1,4,9:32 PM,4:56,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,495,8,0,4,9:34 PM,4:56,SUB: Young FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,496,8,0,4,9:34 PM,4:56,SUB: Powell FOR Frazier,,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,498,2,1,4,9:35 PM,4:49,MISS Powell 7' Jump Shot,,Teletovic BLOCK (1 BLK),,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,499,4,0,4,9:35 PM,4:48,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,500,6,4,4,9:35 PM,4:43,Wallace OFF.Foul (P1),,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011400102,501,5,5,4,9:35 PM,4:43,Wallace Foul Turnover (P2.T18),,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400102,502,5,1,4,9:35 PM,4:28,,,Bogdanovic Bad Pass Turnover (P3.T23),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,503,1,5,4,9:36 PM,4:14,Wallace 3' Layup (12 PTS) (Powell 1 AST),,,79 - 94,15,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,504,2,1,4,9:36 PM,3:50,,,MISS Teletovic 26' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,505,4,0,4,9:36 PM,3:48,Zeller REBOUND (Off:3 Def:4),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,506,2,1,4,9:36 PM,3:41,MISS Powell 21' Jump Shot,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,507,4,0,4,9:36 PM,3:38,,,Karasev REBOUND (Off:1 Def:4),,,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,509,8,0,4,9:37 PM,3:35,,,SUB: Jefferson FOR Teletovic,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,510,1,1,4,9:37 PM,3:25,,,Karasev  3PT Jump Shot (6 PTS) (Bogdanovic 2 AST),82 - 94,12,5,203508,Sergey Karasev,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,511,2,1,4,9:37 PM,3:08,MISS Young 28' 3PT Jump Shot,,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,512,4,0,4,9:37 PM,3:07,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,513,2,1,4,9:38 PM,2:45,,,MISS Bogdanovic 29' 3PT Jump Shot,,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,514,4,0,4,9:38 PM,2:43,Wallace REBOUND (Off:0 Def:1),,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,515,1,1,4,9:38 PM,2:28,Powell 4' Jump Shot (4 PTS) (Pressey 5 AST),,,82 - 96,14,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,516,5,1,4,9:38 PM,2:09,Powell STEAL (1 STL),,Plumlee Bad Pass Turnover (P5.T24),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,517,5,2,4,9:39 PM,1:46,Pressey Lost Ball Turnover (P2.T19),,Gutierrez STEAL (3 STL),,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,518,1,8,4,9:39 PM,1:40,,,Jefferson  Slam Dunk (11 PTS) (Gutierrez 5 AST),84 - 96,12,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,519,1,74,4,9:39 PM,1:18,Pressey 1' Running Reverse Layup (2 PTS),,,84 - 98,14,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,520,5,2,4,9:40 PM,1:02,Wallace STEAL (3 STL),,Plumlee Lost Ball Turnover (P6.T25),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,521,2,5,4,9:40 PM,0:56,MISS Young 1' Layup,,Jefferson BLOCK (1 BLK),,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203928,Cory Jefferson,1610612751.0,Brooklyn,Nets,BKN,0
+0011400102,522,4,0,4,9:40 PM,0:55,Zeller REBOUND (Off:4 Def:4),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,527,6,1,4,9:40 PM,0:55,,,Gutierrez P.FOUL (P3.T1),,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400102,528,9,1,4,9:41 PM,0:55,,,Nets Timeout: Regular (Reg.4 Short 2),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400102,530,8,0,4,9:42 PM,0:55,SUB: Frazier FOR Wallace,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400102,532,3,11,4,9:42 PM,0:55,Zeller Free Throw 1 of 2 (10 PTS),,,84 - 99,15,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,534,3,12,4,9:42 PM,0:55,Zeller Free Throw 2 of 2 (11 PTS),,,84 - 100,16,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,536,2,1,4,9:43 PM,0:41,,,MISS Gutierrez 27' 3PT Jump Shot,,,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,537,4,0,4,9:43 PM,0:40,Zeller REBOUND (Off:4 Def:5),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,538,2,1,4,9:43 PM,0:19,MISS Young 26' 3PT Jump Shot,,,,,4,203923,James Young,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400102,539,4,0,4,9:43 PM,0:18,,,Bogdanovic REBOUND (Off:0 Def:5),,,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011400102,540,1,5,4,9:43 PM,0:16,,,Gutierrez 3' Layup (12 PTS) (Bogdanovic 3 AST),86 - 100,14,5,203268,Jorge Gutierrez,1610612751.0,Brooklyn,Nets,BKN,5,202711,Bojan Bogdanovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011400102,542,13,0,4,9:44 PM,0:00,,End of 4th Period (9:44 PM EST),,86 - 100,14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

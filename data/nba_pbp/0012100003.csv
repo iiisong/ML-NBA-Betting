@@ -1,0 +1,473 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012100003,2,12,0,1,7:44 PM,12:00,,Start of 1st Period (7:44 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,4,10,0,1,7:44 PM,12:00,Jump Ball Williams III vs. Carter Jr.: Tip to Smart,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1
+0012100003,7,2,80,1,7:44 PM,11:43,MISS Tatum 21' Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,8,4,0,1,7:44 PM,11:42,,,Carter Jr. REBOUND (Off:0 Def:1),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,9,2,79,1,7:44 PM,11:29,,,MISS Suggs 15' Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,10,4,0,1,7:44 PM,11:28,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,11,1,1,1,7:44 PM,11:10,Tatum 27' 3PT Jump Shot (3 PTS) (Smart 1 AST),,,0 - 3,3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,13,2,1,1,7:45 PM,10:52,,,MISS Ross 24' 3PT Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,14,4,0,1,7:45 PM,10:51,Hernangomez REBOUND (Off:0 Def:1),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,15,5,1,1,7:45 PM,10:39,Smart Bad Pass Turnover (P1.T1),,Ross STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,17,1,41,1,7:45 PM,10:35,,,Suggs 1' Running Layup (2 PTS) (Ross 1 AST),2 - 3,1,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,19,5,1,1,7:45 PM,10:21,Smart Bad Pass Turnover (P2.T2),,Ross STEAL (2 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,21,6,2,1,7:45 PM,10:18,Tatum S.FOUL (P1.T1) (M.Kogut),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,23,3,11,1,7:46 PM,10:18,,,MISS Ross Free Throw 1 of 2,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,24,4,1,1,7:46 PM,10:18,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,25,3,12,1,7:46 PM,10:18,,,Ross Free Throw 2 of 2 (1 PTS),3 - 3,TIE,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,26,2,1,1,7:47 PM,10:05,MISS Brown 26' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,27,4,0,1,7:47 PM,10:03,,,Suggs REBOUND (Off:0 Def:1),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,28,1,1,1,7:47 PM,9:58,,,Carter Jr. 26' 3PT Jump Shot (3 PTS) (Suggs 1 AST),6 - 3,-3,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,30,1,86,1,7:47 PM,9:47,Brown 11' Turnaround Fadeaway (2 PTS),,,6 - 5,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,31,6,1,1,7:47 PM,9:35,Hernangomez P.FOUL (P1.T2) (J.Tiven),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,33,2,1,1,7:48 PM,9:28,,,MISS Wagner 26' 3PT Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,34,4,0,1,7:48 PM,9:27,Tatum REBOUND (Off:0 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,35,6,4,1,7:48 PM,9:20,Tatum OFF.Foul (P2) (J.Tiven),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,37,5,37,1,7:48 PM,9:20,Tatum Offensive Foul Turnover (P1.T3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012100003,38,5,1,1,7:48 PM,9:06,Tatum STEAL (1 STL),,Wagner Bad Pass Turnover (P1.T1),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,40,2,1,1,7:49 PM,8:54,MISS Smart 30' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,41,4,0,1,7:49 PM,8:52,Williams III REBOUND (Off:1 Def:0),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,42,2,1,1,7:49 PM,8:43,MISS Williams III 15' Jump Shot,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,43,4,0,1,7:49 PM,8:42,,,Carter Jr. REBOUND (Off:0 Def:2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,44,5,45,1,7:49 PM,8:33,,,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012100003,45,2,79,1,7:49 PM,8:25,MISS Brown 29' 3PT Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,46,4,0,1,7:49 PM,8:22,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,49,2,80,1,7:50 PM,8:00,,,MISS Harris 26' 3PT Step Back Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,50,4,0,1,7:50 PM,7:58,Brown REBOUND (Off:0 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,51,1,1,1,7:50 PM,7:48,Brown 24' 3PT Jump Shot (5 PTS) (Williams III 1 AST),,,6 - 8,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,53,2,6,1,7:51 PM,7:29,,,MISS Suggs 5' Driving Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,54,4,0,1,7:51 PM,7:27,Williams III REBOUND (Off:1 Def:1),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,55,1,2,1,7:51 PM,7:23,Brown 4' Running Jump Shot (7 PTS),,,6 - 10,4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,56,6,2,1,7:51 PM,7:23,,,Carter Jr. S.FOUL (P1.T1) (M.Kogut),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,58,8,0,1,7:51 PM,7:23,,,SUB: Hampton FOR Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,59,8,0,1,7:51 PM,7:23,,,SUB: Wagner FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,62,3,10,1,7:52 PM,7:23,Brown Free Throw 1 of 1 (8 PTS),,,6 - 11,5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,63,1,78,1,7:52 PM,7:03,,,Ross 6' Floating Jump Shot (3 PTS) (Suggs 2 AST),8 - 11,3,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,65,1,79,1,7:52 PM,6:48,Brown 30' 3PT Pullup Jump Shot (11 PTS) (Williams III 2 AST),,,8 - 14,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,67,1,44,1,7:52 PM,6:34,,,Carter Jr. 1' Reverse Layup (5 PTS) (Suggs 3 AST),10 - 14,4,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,69,5,40,1,7:53 PM,6:20,Brown Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012100003,70,9,1,1,7:53 PM,6:20,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,71,8,0,1,7:55 PM,6:20,SUB: Horford FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,72,8,0,1,7:55 PM,6:20,SUB: Richardson FOR Hernangomez,,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,73,8,0,1,7:55 PM,6:20,SUB: Schroder FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,74,8,0,1,7:55 PM,6:20,,,SUB: Anthony FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,79,2,101,1,7:56 PM,6:01,,,MISS Ross 6' Driving Floating Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,80,4,0,1,7:56 PM,5:59,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,81,2,1,1,7:56 PM,5:51,MISS Brown 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,82,4,0,1,7:56 PM,5:49,,,Carter Jr. REBOUND (Off:0 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,83,6,26,1,7:56 PM,5:36,,,Wagner Offensive Charge Foul (P1) (T.Ricks),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,85,5,37,1,7:56 PM,5:36,,,Wagner Offensive Foul Turnover (P1.T3),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012100003,86,8,0,1,7:57 PM,5:36,,,SUB: Bamba FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,88,1,1,1,7:57 PM,5:22,Brown 3PT Jump Shot (14 PTS) (Schroder 1 AST),,,10 - 17,7,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,90,1,75,1,7:57 PM,5:04,,,Hampton 1' Driving Finger Roll Layup (2 PTS) (Anthony 1 AST),12 - 17,5,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,92,6,26,1,7:58 PM,4:56,Horford Offensive Charge Foul (P1) (J.Tiven),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,94,5,37,1,7:58 PM,4:56,Horford Offensive Foul Turnover (P1.T5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012100003,95,1,1,1,7:58 PM,4:41,,,Anthony 26' 3PT Jump Shot (3 PTS) (Hampton 1 AST),15 - 17,2,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,97,1,52,1,7:58 PM,4:23,Horford 2' Alley Oop Dunk (2 PTS) (Schroder 2 AST),,,15 - 19,4,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,99,2,6,1,7:59 PM,4:10,Brown BLOCK (1 BLK),,MISS Ross 5' Driving Layup,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1
+0012100003,101,4,0,1,7:59 PM,4:09,,,Ross REBOUND (Off:1 Def:0),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,169,2,97,1,7:59 PM,4:09,,,MISS Ross 1' Tip Layup Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,170,4,0,1,7:59 PM,4:08,Horford REBOUND (Off:0 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,102,2,1,1,7:59 PM,3:58,MISS Horford 29' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,103,4,0,1,7:59 PM,3:55,Smart REBOUND (Off:1 Def:0),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,104,1,73,1,7:59 PM,3:48,Brown 4' Driving Reverse Layup (16 PTS) (Schroder 3 AST),,,15 - 21,6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,105,2,1,1,7:59 PM,3:31,,,MISS Wagner 25' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,106,4,0,1,7:59 PM,3:31,Horford REBOUND (Off:0 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,108,2,1,1,7:59 PM,3:23,MISS Brown 24' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,109,4,0,1,7:59 PM,3:22,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,110,6,1,1,8:00 PM,3:21,,,Ross P.FOUL (P1.T2) (M.Kogut),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,112,8,0,1,8:00 PM,3:21,SUB: Pritchard FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,113,8,0,1,8:00 PM,3:21,SUB: Nesmith FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,114,8,0,1,8:00 PM,3:21,,,SUB: Moore FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,119,5,2,1,8:00 PM,3:05,Schroder Lost Ball Turnover (P1.T6),,Moore STEAL (1 STL),,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,121,1,41,1,8:00 PM,2:58,,,Hampton 1' Running Layup (4 PTS),17 - 21,4,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,122,5,2,1,8:01 PM,2:39,Pritchard Lost Ball Turnover (P1.T7),,Hampton STEAL (1 STL),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,124,2,79,1,8:01 PM,2:34,,,MISS Moore 18' Pullup Jump Shot,,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,125,4,0,1,8:01 PM,2:33,Schroder REBOUND (Off:0 Def:1),,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,126,2,1,1,8:01 PM,2:26,MISS Horford 29' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,127,4,0,1,8:01 PM,2:23,,,Anthony REBOUND (Off:0 Def:1),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,133,2,6,1,8:01 PM,2:11,Richardson BLOCK (1 BLK),,MISS Anthony 4' Driving Layup,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,1
+0012100003,135,4,0,1,8:01 PM,2:10,Schroder REBOUND (Off:0 Def:2),,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,130,2,1,1,8:01 PM,2:04,MISS Nesmith 3PT Jump Shot,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,131,4,0,1,8:01 PM,2:02,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,132,9,1,1,8:02 PM,2:02,,,Magic Timeout: Regular (Reg.1 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,136,10,0,1,8:05 PM,1:40,Jump Ball Richardson vs. Moore: Tip to Anthony,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1
+0012100003,139,5,11,1,8:05 PM,1:37,,,Magic Turnover: Shot Clock (T#4),,,3,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100003,140,2,6,1,8:06 PM,1:28,MISS Schroder 6' Driving Layup,,Bamba BLOCK (1 BLK),,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012100003,142,4,0,1,8:06 PM,1:24,,,Anthony REBOUND (Off:0 Def:2),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,143,2,1,1,8:06 PM,1:02,,,MISS Bamba 16' Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,144,4,0,1,8:06 PM,1:01,,,Hampton REBOUND (Off:1 Def:0),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,145,1,107,1,8:06 PM,1:01,,,Hampton Tip Dunk Shot (6 PTS),19 - 21,2,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,147,6,1,1,8:07 PM,0:51,,,Wagner P.FOUL (P2.T3) (J.Tiven),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,149,5,1,1,8:07 PM,0:45,Schroder Bad Pass Turnover (P2.T8),,Moore STEAL (2 STL),,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,151,6,2,1,8:07 PM,0:43,Schroder S.FOUL (P1.T3) (J.Tiven),,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,153,3,11,1,8:08 PM,0:43,,,MISS Hampton Free Throw 1 of 2,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,154,4,1,1,8:08 PM,0:43,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,155,8,0,1,8:08 PM,0:43,,,SUB: Brazdeikis FOR Wagner,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,157,3,12,1,8:08 PM,0:43,,,Hampton Free Throw 2 of 2 (7 PTS),20 - 21,1,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,158,2,1,1,8:08 PM,0:31,MISS Horford 24' 3PT Jump Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,159,4,0,1,8:08 PM,0:27,,,Moore REBOUND (Off:0 Def:1),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,160,5,2,1,8:08 PM,0:23,Schroder STEAL (1 STL),,Moore Lost Ball Turnover (P1.T5),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,162,2,6,1,8:09 PM,0:08,MISS Schroder 6' Driving Layup,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,163,4,0,1,8:09 PM,0:05,,,Bamba REBOUND (Off:0 Def:1),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,164,2,6,1,8:09 PM,0:00,Richardson BLOCK (2 BLK),,MISS Anthony 4' Driving Layup,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,1
+0012100003,166,4,0,1,8:09 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,168,13,0,1,8:09 PM,0:00,,End of 1st Period (8:09 PM EST),,20 - 21,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100003,177,12,0,2,8:12 PM,12:00,,Start of 2nd Period (8:12 PM EST),,20 - 21,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,178,2,1,2,8:12 PM,11:39,Williams III BLOCK (1 BLK),,MISS Moore 21' Jump Shot,,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,1
+0012100003,180,4,0,2,8:12 PM,11:38,,,Moore REBOUND (Off:1 Def:1),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,181,2,101,2,8:12 PM,11:36,,,MISS Moore 11' Driving Floating Jump Shot,,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,182,4,0,2,8:12 PM,11:35,,,Bamba REBOUND (Off:1 Def:1),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,183,1,97,2,8:12 PM,11:28,,,Bamba Tip Layup Shot (2 PTS),22 - 21,-1,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,184,2,52,2,8:12 PM,11:21,MISS Williams III 5' Alley Oop Dunk,,Bamba BLOCK (2 BLK),,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012100003,185,4,0,2,8:13 PM,11:19,,,Moore REBOUND (Off:1 Def:2),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,186,2,1,2,8:13 PM,11:15,,,MISS Anthony 26' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,187,4,0,2,8:13 PM,11:13,Schroder REBOUND (Off:0 Def:3),,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,188,2,75,2,8:13 PM,11:06,MISS Schroder 4' Driving Finger Roll Layup,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,189,4,0,2,8:13 PM,11:04,,,Bamba REBOUND (Off:1 Def:2),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,190,1,52,2,8:13 PM,10:56,,,Bamba 2' Alley Oop Dunk (4 PTS) (Anthony 2 AST),24 - 21,-3,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,192,6,14,2,8:13 PM,10:35,,,Moore FLAGRANT.FOUL.TYPE1 (P1.T1) (M.Kogut),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,194,18,1,2,8:14 PM,10:35,,Instant Replay2nd Period (8:14 PM EST),,24 - 21,-3,0,192,Dennis Scott,,,,,0,0,,,,,,1,0,,,,,,0
+0012100003,195,3,27,2,8:15 PM,10:35,Tatum Free Throw Flagrant 1 of 3 (4 PTS),,,24 - 22,-2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,196,3,28,2,8:15 PM,10:35,Tatum Free Throw Flagrant 2 of 3 (5 PTS),,,24 - 23,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,197,3,29,2,8:15 PM,10:35,Tatum Free Throw Flagrant 3 of 3 (6 PTS),,,24 - 24,TIE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,203,8,0,2,8:15 PM,10:35,SUB: Smart FOR Schroder,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,200,1,9,2,8:16 PM,10:30,Tatum 3' Driving Dunk (8 PTS),,,24 - 26,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,201,1,1,2,8:16 PM,10:14,,,Bamba 3PT Jump Shot (7 PTS) (Hampton 2 AST),27 - 26,-1,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,204,2,1,2,8:16 PM,9:59,MISS Tatum 11' Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,205,4,0,2,8:16 PM,9:59,,,Bamba REBOUND (Off:1 Def:3),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,206,1,44,2,8:17 PM,9:40,,,Bamba 2' Reverse Layup (9 PTS) (Wagner 1 AST),29 - 26,-3,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,208,2,1,2,8:17 PM,9:26,MISS Tatum 26' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,209,4,0,2,8:17 PM,9:25,,,Bamba REBOUND (Off:1 Def:4),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,210,2,80,2,8:17 PM,9:19,,,MISS Wagner 26' 3PT Step Back Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,211,4,0,2,8:17 PM,9:19,Tatum REBOUND (Off:0 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,212,1,79,2,8:17 PM,9:13,Pritchard 29' 3PT Pullup Jump Shot (3 PTS) (Tatum 1 AST),,,29 - 29,TIE,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,213,1,1,2,8:17 PM,8:56,,,Anthony 25' 3PT Jump Shot (6 PTS) (Bamba 1 AST),32 - 29,-3,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,216,2,6,2,8:18 PM,8:33,MISS Smart 8' Driving Layup,,Wagner BLOCK (1 BLK),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1
+0012100003,218,4,0,2,8:18 PM,8:33,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,220,8,0,2,8:18 PM,8:33,SUB: Hernangomez FOR Nesmith,,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,221,8,0,2,8:18 PM,8:33,,,SUB: Harris FOR Hampton,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,224,2,63,2,8:18 PM,8:30,MISS Tatum 13' Fadeaway Jumper,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,225,4,0,2,8:18 PM,8:28,,,Bamba REBOUND (Off:1 Def:5),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,226,2,41,2,8:18 PM,8:23,,,MISS Harris 6' Running Layup,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,227,4,0,2,8:18 PM,8:20,,,Anthony REBOUND (Off:1 Def:2),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,228,1,97,2,8:18 PM,8:20,,,Anthony 2' Tip Layup Shot (8 PTS),34 - 29,-5,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,229,2,58,2,8:19 PM,8:03,MISS Williams III 8' Turnaround Hook Shot,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,230,4,0,2,8:19 PM,8:03,,,Anthony REBOUND (Off:1 Def:3),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,231,2,80,2,8:19 PM,7:41,,,MISS Anthony 27' 3PT Step Back Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,232,4,0,2,8:19 PM,7:38,,,Moore REBOUND (Off:2 Def:2),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,233,1,47,2,8:19 PM,7:31,,,Bamba 16' Turnaround Jump Shot (11 PTS) (Moore 1 AST),36 - 29,-7,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,234,9,1,2,8:19 PM,7:31,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,237,8,0,2,8:21 PM,7:31,SUB: Brown FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,238,8,0,2,8:21 PM,7:31,,,SUB: Ross FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,239,8,0,2,8:21 PM,7:31,,,SUB: Carter Jr. FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,240,8,0,2,8:21 PM,7:31,,,SUB: Suggs FOR Moore,,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,245,5,45,2,8:22 PM,7:21,Brown Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,246,2,79,2,8:23 PM,7:04,,,MISS Suggs 27' 3PT Pullup Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,247,4,0,2,8:23 PM,7:02,Tatum REBOUND (Off:0 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,248,6,2,2,8:23 PM,6:55,,,Ross S.FOUL (P2.T2) (M.Kogut),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,250,3,13,2,8:23 PM,6:55,MISS Brown Free Throw 1 of 3,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,251,4,1,2,8:23 PM,6:55,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,252,3,14,2,8:23 PM,6:55,Brown Free Throw 2 of 3 (17 PTS),,,36 - 30,-6,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,253,3,15,2,8:24 PM,6:55,Brown Free Throw 3 of 3 (18 PTS),,,36 - 31,-5,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,254,2,73,2,8:24 PM,6:38,,,MISS Suggs 4' Driving Reverse Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,255,4,0,2,8:24 PM,6:37,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,257,1,80,2,8:24 PM,6:31,,,Ross 16' Step Back Jump Shot (5 PTS),38 - 31,-7,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,258,1,6,2,8:25 PM,6:07,Tatum 6' Driving Layup (10 PTS),,,38 - 33,-5,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,259,2,1,2,8:25 PM,5:53,,,MISS Suggs 24' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,260,4,0,2,8:25 PM,5:50,Williams III REBOUND (Off:1 Def:2),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,261,2,6,2,8:25 PM,5:42,MISS Tatum 3' Driving Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,262,4,0,2,8:25 PM,5:41,Williams III REBOUND (Off:2 Def:2),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,263,2,107,2,8:25 PM,5:41,MISS Williams III Tip Dunk Shot,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,264,4,0,2,8:25 PM,5:39,,,Wagner REBOUND (Off:0 Def:1),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,265,2,41,2,8:25 PM,5:32,,,MISS Suggs 5' Running Layup,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,266,4,0,2,8:25 PM,5:28,Smart REBOUND (Off:1 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,267,6,1,2,8:26 PM,5:26,,,Wagner P.FOUL (P1.T3) (M.Kogut),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0012100003,269,8,0,2,8:26 PM,5:26,SUB: Horford FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,271,6,1,2,8:26 PM,5:25,,,Suggs P.FOUL (P1.T4) (M.Kogut),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,273,1,47,2,8:26 PM,5:10,Smart 9' Turnaround Jump Shot (2 PTS),,,38 - 35,-3,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,274,5,1,2,8:27 PM,5:01,Brown STEAL (1 STL),,Suggs Bad Pass Turnover (P1.T6),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,276,2,1,2,8:27 PM,4:56,MISS Smart 28' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,277,4,0,2,8:27 PM,4:55,,,Ross REBOUND (Off:1 Def:1),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,278,1,1,2,8:27 PM,4:31,,,Suggs 29' 3PT Jump Shot (5 PTS) (Wagner 2 AST),41 - 35,-6,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,280,5,40,2,8:27 PM,4:17,Brown Out of Bounds Lost Ball Turnover (P3.T10),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012100003,281,8,0,2,8:27 PM,4:17,SUB: Richardson FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,282,8,0,2,8:27 PM,4:17,,,SUB: Wagner FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,285,2,79,2,8:28 PM,4:09,,,MISS Harris 25' 3PT Pullup Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,286,4,0,2,8:28 PM,4:08,Horford REBOUND (Off:1 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,287,1,73,2,8:28 PM,3:56,Smart 4' Driving Reverse Layup (4 PTS),,,41 - 37,-4,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,288,5,2,2,8:28 PM,3:40,Horford STEAL (1 STL),,Carter Jr. Lost Ball Turnover (P2.T7),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,291,2,1,2,8:29 PM,3:25,MISS Richardson 21' Jump Shot,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,292,4,0,2,8:29 PM,3:23,Hernangomez REBOUND (Off:1 Def:1),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,293,1,44,2,8:29 PM,3:22,Hernangomez 3' Reverse Layup (2 PTS),,,41 - 39,-2,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,294,2,1,2,8:29 PM,3:05,Hernangomez BLOCK (1 BLK),,MISS Ross 26' 3PT Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,1
+0012100003,295,4,0,2,8:29 PM,3:03,Smart REBOUND (Off:1 Def:2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,296,1,1,2,8:29 PM,2:56,Horford 24' 3PT Jump Shot (5 PTS) (Brown 1 AST),,,41 - 42,1,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,298,9,1,2,8:29 PM,2:55,,,Magic Timeout: Regular (Reg.2 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,300,8,0,2,8:32 PM,2:55,SUB: Schroder FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,302,2,47,2,8:33 PM,2:37,,,MISS Wagner 7' Turnaround Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,303,4,0,2,8:33 PM,2:36,,,Carter Jr. REBOUND (Off:1 Def:3),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,304,6,2,2,8:33 PM,2:36,Richardson S.FOUL (P1.T1) (J.Tiven),,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,306,3,11,2,8:33 PM,2:36,,,Carter Jr. Free Throw 1 of 2 (6 PTS),42 - 42,TIE,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,307,3,12,2,8:34 PM,2:36,,,Carter Jr. Free Throw 2 of 2 (7 PTS),43 - 42,-1,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,308,6,2,2,8:34 PM,2:20,,,Suggs S.FOUL (P2.PN) (J.Tiven),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,310,3,11,2,8:34 PM,2:20,Hernangomez Free Throw 1 of 2 (3 PTS),,,43 - 43,TIE,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,311,8,0,2,8:34 PM,2:20,,,SUB: Anthony FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,313,3,12,2,8:35 PM,2:20,Hernangomez Free Throw 2 of 2 (4 PTS),,,43 - 44,1,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,314,5,2,2,8:35 PM,2:09,Schroder STEAL (2 STL),,Anthony Lost Ball Turnover (P1.T8),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,316,5,40,2,8:35 PM,2:07,Hernangomez Out of Bounds Lost Ball Turnover (P1.T11),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,317,2,1,2,8:36 PM,1:58,,,MISS Harris 3PT Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,318,4,0,2,8:36 PM,1:56,Horford REBOUND (Off:1 Def:5),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,319,1,101,2,8:36 PM,1:50,Schroder 7' Driving Floating Jump Shot (2 PTS),,,43 - 46,3,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,320,6,2,2,8:36 PM,1:40,Brown S.FOUL (P1.T2) (J.Tiven),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,322,3,11,2,8:36 PM,1:40,,,Wagner Free Throw 1 of 2 (1 PTS),44 - 46,2,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,325,3,12,2,8:36 PM,1:40,,,MISS Wagner Free Throw 2 of 2,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,326,4,0,2,8:36 PM,1:40,Tatum REBOUND (Off:0 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,323,8,0,2,8:36 PM,1:40,SUB: Tatum FOR Hernangomez,,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,327,2,79,2,8:37 PM,1:27,MISS Richardson 19' Pullup Jump Shot,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,328,4,0,2,8:37 PM,1:25,,,Anthony REBOUND (Off:1 Def:4),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,329,1,1,2,8:37 PM,1:17,,,Wagner 25' 3PT Jump Shot (4 PTS) (Anthony 3 AST),47 - 46,-1,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,332,6,1,2,8:37 PM,1:09,,,Ross P.FOUL (P3.PN) (J.Tiven),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,334,3,11,2,8:38 PM,1:09,Tatum Free Throw 1 of 2 (11 PTS),,,47 - 47,TIE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,335,3,12,2,8:38 PM,1:09,Tatum Free Throw 2 of 2 (12 PTS),,,47 - 48,1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,336,1,1,2,8:38 PM,0:58,,,Wagner 25' 3PT Jump Shot (7 PTS) (Anthony 4 AST),50 - 48,-2,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,338,6,2,2,8:38 PM,0:43,,,Carter Jr. S.FOUL (P2.PN) (M.Kogut),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,340,3,11,2,8:39 PM,0:43,Brown Free Throw 1 of 2 (19 PTS),,,50 - 49,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,341,3,12,2,8:39 PM,0:43,Brown Free Throw 2 of 2 (20 PTS),,,50 - 50,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,342,1,108,2,8:39 PM,0:34,,,Carter Jr. 1' Cutting Dunk Shot (9 PTS) (Anthony 5 AST),52 - 50,-2,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,344,2,79,2,8:40 PM,0:28,MISS Richardson 16' Pullup Jump Shot,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,345,4,0,2,8:40 PM,0:26,,,Carter Jr. REBOUND (Off:1 Def:4),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,346,2,75,2,8:40 PM,0:03,,,MISS Anthony 4' Driving Finger Roll Layup,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,347,4,0,2,8:40 PM,0:01,Tatum REBOUND (Off:0 Def:6),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,348,2,79,2,8:40 PM,0:00,MISS Tatum 32' 3PT Pullup Jump Shot,,Ross BLOCK (1 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,1
+0012100003,350,4,0,2,8:40 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,351,13,0,2,8:40 PM,0:00,,End of 2nd Period (8:40 PM EST),,52 - 50,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100003,362,12,0,3,8:56 PM,12:00,,Start of 3rd Period (8:56 PM EST),,52 - 50,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,363,6,2,3,8:56 PM,11:46,Williams III S.FOUL (P1.T1) (T.Ricks),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,365,3,11,3,8:56 PM,11:46,,,MISS Suggs Free Throw 1 of 2,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,366,4,1,3,8:56 PM,11:46,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,367,3,12,3,8:56 PM,11:46,,,Suggs Free Throw 2 of 2 (6 PTS),53 - 50,-3,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,369,5,1,3,8:57 PM,11:28,Tatum Bad Pass Turnover (P2.T12),,Wagner STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,371,2,41,3,8:57 PM,11:23,,,MISS Wagner 5' Running Layup,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,372,4,0,3,8:57 PM,11:23,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,374,2,1,3,8:58 PM,11:14,,,MISS Carter Jr. 3PT Jump Shot,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,375,4,0,3,8:58 PM,11:12,Brown REBOUND (Off:0 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,376,2,1,3,8:58 PM,11:05,MISS Hernangomez 26' 3PT Jump Shot,,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,377,4,0,3,8:58 PM,11:03,,,Carter Jr. REBOUND (Off:1 Def:5),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,394,2,1,3,8:58 PM,10:58,,,MISS Ross 21' Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,395,4,0,3,8:58 PM,10:57,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,378,6,3,3,8:58 PM,10:57,,,Carter Jr. L.B.FOUL (P3.T1) (J.Tiven),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,381,6,1,3,8:58 PM,10:50,,,Suggs P.FOUL (P3.T2) (M.Kogut),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,383,2,1,3,8:59 PM,10:41,MISS Williams III 8' Jump Shot,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,384,4,0,3,8:59 PM,10:38,,,Suggs REBOUND (Off:0 Def:2),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,385,2,1,3,8:59 PM,10:25,Williams III BLOCK (2 BLK),,MISS Suggs 21' Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,1
+0012100003,387,4,0,3,8:59 PM,10:22,Tatum REBOUND (Off:0 Def:7),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,388,2,1,3,8:59 PM,10:19,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,389,4,0,3,8:59 PM,10:17,Hernangomez REBOUND (Off:2 Def:1),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,390,2,79,3,8:59 PM,10:12,MISS Smart 25' 3PT Pullup Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,391,4,0,3,8:59 PM,10:12,Hernangomez REBOUND (Off:3 Def:1),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,392,6,2,3,8:59 PM,10:12,,,Wagner S.FOUL (P2.T3) (T.Ricks),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,396,3,11,3,9:00 PM,10:12,Hernangomez Free Throw 1 of 2 (5 PTS),,,53 - 51,-2,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,397,3,12,3,9:00 PM,10:12,Hernangomez Free Throw 2 of 2 (6 PTS),,,53 - 52,-1,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,398,1,105,3,9:00 PM,9:56,,,Harris 5' Turnaround Fadeaway Bank Jump Shot (2 PTS),55 - 52,-3,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,399,1,9,3,9:01 PM,9:38,Tatum 4' Driving Dunk (14 PTS),,,55 - 54,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,400,5,2,3,9:01 PM,9:21,Tatum STEAL (2 STL),,Carter Jr. Lost Ball Turnover (P3.T9),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,402,1,41,3,9:01 PM,9:15,Brown 3' Running Layup (22 PTS) (Smart 2 AST),,,55 - 56,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,404,6,2,3,9:01 PM,9:00,Hernangomez S.FOUL (P2.T2) (T.Ricks),,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,406,3,11,3,9:02 PM,9:00,,,Carter Jr. Free Throw 1 of 2 (10 PTS),56 - 56,TIE,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,407,3,12,3,9:02 PM,9:00,,,MISS Carter Jr. Free Throw 2 of 2,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,408,4,0,3,9:02 PM,9:00,Williams III REBOUND (Off:2 Def:3),,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,409,6,1,3,9:02 PM,8:51,,,Suggs P.FOUL (P4.T4) (M.Kogut),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,411,1,101,3,9:03 PM,8:39,Tatum 5' Driving Floating Jump Shot (16 PTS),,,56 - 58,2,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,412,1,75,3,9:03 PM,8:26,,,Harris 6' Driving Finger Roll Layup (4 PTS),58 - 58,TIE,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,413,6,2,3,9:03 PM,8:12,,,Wagner S.FOUL (P3.PN) (J.Tiven),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,415,3,11,3,9:04 PM,8:12,Williams III Free Throw 1 of 2 (1 PTS),,,58 - 59,1,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,416,3,12,3,9:04 PM,8:12,MISS Williams III Free Throw 2 of 2,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,417,4,0,3,9:04 PM,8:12,,,Ross REBOUND (Off:1 Def:2),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,418,1,1,3,9:04 PM,7:58,,,Harris 27' 3PT Jump Shot (7 PTS) (Carter Jr. 1 AST),61 - 59,-2,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,420,2,73,3,9:05 PM,7:41,MISS Tatum 3' Driving Reverse Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,421,4,0,3,9:05 PM,7:39,,,Carter Jr. REBOUND (Off:1 Def:6),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,422,1,1,3,9:05 PM,7:28,,,Wagner 27' 3PT Jump Shot (3 PTS) (Carter Jr. 2 AST),64 - 59,-5,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,424,9,1,3,9:05 PM,7:26,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,425,8,0,3,9:07 PM,7:26,SUB: Williams FOR Hernangomez,,,,,4,1627823,Juancho Hernangomez,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,427,2,1,3,9:08 PM,7:16,MISS Brown 25' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,428,4,0,3,9:08 PM,7:15,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,430,5,1,3,9:09 PM,6:54,Williams STEAL (1 STL),,Suggs Bad Pass Turnover (P2.T10),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,432,1,1,3,9:09 PM,6:39,Brown 26' 3PT Jump Shot (25 PTS) (Tatum 2 AST),,,64 - 62,-2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,434,2,1,3,9:09 PM,6:25,,,MISS Harris 28' 3PT Jump Shot,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,435,4,0,3,9:09 PM,6:23,Tatum REBOUND (Off:0 Def:8),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,436,2,80,3,9:09 PM,6:16,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,437,4,0,3,9:09 PM,6:14,,,Suggs REBOUND (Off:0 Def:3),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,438,2,79,3,9:09 PM,6:01,,,MISS Wagner 28' 3PT Pullup Jump Shot,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,439,4,0,3,9:09 PM,5:59,,,Carter Jr. REBOUND (Off:2 Def:6),,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,440,1,1,3,9:10 PM,5:56,,,Harris 26' 3PT Jump Shot (10 PTS) (Carter Jr. 3 AST),67 - 62,-5,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,442,2,1,3,9:10 PM,5:29,MISS Williams III 18' Jump Shot,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,443,4,0,3,9:10 PM,5:27,,,Ross REBOUND (Off:1 Def:3),,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,444,2,101,3,9:10 PM,5:12,,,MISS Ross 9' Driving Floating Jump Shot,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,445,4,0,3,9:10 PM,5:10,Brown REBOUND (Off:0 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,446,2,5,3,9:10 PM,5:02,MISS Williams III 3' Layup,,Suggs BLOCK (1 BLK),,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0012100003,448,4,0,3,9:10 PM,4:59,,,Wagner REBOUND (Off:0 Def:2),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,449,5,2,3,9:11 PM,4:49,Tatum STEAL (3 STL),,Wagner Lost Ball Turnover (P2.T11),,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,451,2,41,3,9:11 PM,4:44,MISS Tatum 3' Running Layup,,Suggs BLOCK (2 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,1
+0012100003,453,4,0,3,9:11 PM,4:42,Tatum REBOUND (Off:1 Def:8),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,454,2,6,3,9:11 PM,4:40,MISS Tatum 4' Driving Layup,,Harris BLOCK (1 BLK),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,1
+0012100003,456,4,0,3,9:11 PM,4:39,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,458,8,0,3,9:11 PM,4:39,SUB: Horford FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,459,8,0,3,9:11 PM,4:39,SUB: Schroder FOR Williams III,,,,,4,1629057,Robert Williams III,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,460,8,0,3,9:11 PM,4:39,,,SUB: Bamba FOR Harris,,,5,203914,Gary Harris,1610612753.0,Orlando,Magic,ORL,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,461,8,0,3,9:11 PM,4:39,,,SUB: Wagner FOR Wagner,,,5,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,462,8,0,3,9:11 PM,4:39,,,SUB: Hampton FOR Ross,,,5,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,463,8,0,3,9:11 PM,4:39,,,SUB: Moore FOR Carter Jr.,,,5,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,470,2,1,3,9:12 PM,4:30,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,471,4,0,3,9:12 PM,4:28,,,Hampton REBOUND (Off:1 Def:1),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,472,1,1,3,9:12 PM,4:21,,,Wagner 27' 3PT Jump Shot (10 PTS),70 - 62,-8,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,473,1,1,3,9:12 PM,3:58,Williams 25' 3PT Jump Shot (3 PTS) (Brown 2 AST),,,70 - 65,-5,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,475,2,1,3,9:12 PM,3:40,,,MISS Suggs 28' 3PT Jump Shot,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,476,4,0,3,9:12 PM,3:38,Horford REBOUND (Off:1 Def:6),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,477,2,1,3,9:13 PM,3:27,MISS Brown 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,478,4,0,3,9:13 PM,3:25,,,Bamba REBOUND (Off:1 Def:6),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,479,2,1,3,9:13 PM,3:03,,,MISS Wagner 28' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,480,4,0,3,9:13 PM,3:01,Brown REBOUND (Off:0 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,481,2,1,3,9:13 PM,2:51,MISS Brown 24' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,482,4,0,3,9:13 PM,2:49,,,Hampton REBOUND (Off:1 Def:2),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,483,2,6,3,9:13 PM,2:43,,,MISS Hampton 5' Driving Layup,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,484,4,0,3,9:13 PM,2:41,Williams REBOUND (Off:0 Def:1),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,485,1,106,3,9:13 PM,2:37,Tatum 3' Running Alley Oop Dunk Shot (18 PTS) (Brown 3 AST),,,70 - 67,-3,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,487,1,1,3,9:14 PM,2:09,,,Wagner 27' 3PT Jump Shot (13 PTS) (Moore 2 AST),73 - 67,-6,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,489,2,1,3,9:14 PM,1:58,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,490,4,0,3,9:14 PM,1:57,,,Suggs REBOUND (Off:0 Def:4),,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,491,1,1,3,9:14 PM,1:48,,,Suggs 29' 3PT Jump Shot (9 PTS),76 - 67,-9,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,492,9,1,3,9:14 PM,1:47,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,493,8,0,3,9:17 PM,1:47,SUB: Richardson FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,494,8,0,3,9:17 PM,1:47,SUB: Pritchard FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,495,8,0,3,9:17 PM,1:47,,,SUB: Anthony FOR Suggs,,,5,1630591,Jalen Suggs,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,499,2,57,3,9:18 PM,1:32,MISS Williams 7' Driving Hook Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,500,4,0,3,9:18 PM,1:29,,,Hampton REBOUND (Off:1 Def:3),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,501,2,43,3,9:18 PM,1:23,,,MISS Bamba 5' Alley Oop Layup,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,502,4,0,3,9:18 PM,1:22,,,Bamba REBOUND (Off:2 Def:6),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,503,2,78,3,9:18 PM,1:11,,,MISS Hampton 10' Floating Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,504,4,0,3,9:18 PM,1:10,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,505,5,11,3,9:18 PM,1:10,,,Magic Turnover: Shot Clock (T#12),,,3,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100003,506,6,1,3,9:18 PM,1:04,,,Hampton P.FOUL (P1.PN) (J.Tiven),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,508,3,11,3,9:19 PM,1:04,Schroder Free Throw 1 of 2 (3 PTS),,,76 - 68,-8,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,509,3,12,3,9:19 PM,1:04,Schroder Free Throw 2 of 2 (4 PTS),,,76 - 69,-7,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,510,6,1,3,9:19 PM,0:54,Schroder P.FOUL (P2.T3) (T.Ricks),,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,512,2,1,3,9:20 PM,0:43,,,MISS Moore 27' 3PT Jump Shot,,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,513,4,0,3,9:20 PM,0:42,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,514,6,3,3,9:20 PM,0:42,,,Bamba L.B.FOUL (P1.PN) (M.Kogut),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,516,3,11,3,9:21 PM,0:42,Schroder Free Throw 1 of 2 (5 PTS),,,76 - 70,-6,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,517,3,12,3,9:21 PM,0:42,Schroder Free Throw 2 of 2 (6 PTS),,,76 - 71,-5,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,518,5,45,3,9:21 PM,0:29,,,Anthony Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,519,2,79,3,9:22 PM,0:10,MISS Schroder 17' Pullup Jump Shot,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,520,4,0,3,9:22 PM,0:08,,,Hampton REBOUND (Off:1 Def:4),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,521,6,4,3,9:22 PM,0:05,,,Wagner OFF.Foul (P3) (M.Kogut),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,523,5,37,3,9:22 PM,0:05,,,Wagner Offensive Foul Turnover (P2.T14),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012100003,524,2,79,3,9:23 PM,0:00,MISS Pritchard 28' 3PT Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,525,4,0,3,9:23 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,526,13,0,3,9:23 PM,0:00,,End of 3rd Period (9:23 PM EST),,76 - 71,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100003,527,12,0,4,9:25 PM,12:00,,Start of 4th Period (9:25 PM EST),,76 - 71,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,528,2,1,4,9:25 PM,11:47,MISS Pritchard 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,529,4,0,4,9:26 PM,11:45,,,Bamba REBOUND (Off:2 Def:7),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,530,1,1,4,9:26 PM,11:16,,,Anthony 32' 3PT Jump Shot (11 PTS) (Hampton 3 AST),79 - 71,-8,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,531,2,75,4,9:26 PM,11:07,MISS Richardson 5' Driving Finger Roll Layup,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,532,4,0,4,9:26 PM,11:05,,,Anthony REBOUND (Off:1 Def:5),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,533,6,26,4,9:26 PM,11:02,,,Bamba Offensive Charge Foul (P2) (T.Ricks),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,535,5,37,4,9:26 PM,11:02,,,Bamba Offensive Foul Turnover (P1.T15),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012100003,536,6,4,4,9:27 PM,10:58,Williams OFF.Foul (P1) (M.Kogut),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,538,5,37,4,9:27 PM,10:58,Williams Offensive Foul Turnover (P1.T13),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012100003,539,2,75,4,9:27 PM,10:38,,,MISS Hampton 8' Driving Finger Roll Layup,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,540,4,0,4,9:27 PM,10:36,Williams REBOUND (Off:0 Def:2),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,541,2,1,4,9:27 PM,10:28,MISS Pritchard 25' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,542,4,0,4,9:27 PM,10:26,Pritchard REBOUND (Off:1 Def:0),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,543,2,96,4,9:27 PM,10:23,MISS Horford 9' Turnaround Bank Hook Shot,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,544,4,0,4,9:27 PM,10:21,,,Wagner REBOUND (Off:0 Def:1),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,545,2,1,4,9:28 PM,10:13,,,MISS Bamba 3PT Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,546,4,0,4,9:28 PM,10:10,Pritchard REBOUND (Off:1 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,547,2,41,4,9:28 PM,10:05,MISS Pritchard 3' Running Layup,,Bamba BLOCK (3 BLK),,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012100003,549,4,0,4,9:28 PM,10:02,,,Moore REBOUND (Off:2 Def:3),,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,550,6,4,4,9:28 PM,9:56,,,Anthony OFF.Foul (P1) (M.Kogut),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,552,5,37,4,9:28 PM,9:56,,,Anthony Offensive Foul Turnover (P3.T16),,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012100003,553,8,0,4,9:28 PM,9:56,SUB: Kanter FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,554,8,0,4,9:28 PM,9:56,SUB: Langford FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,557,2,6,4,9:29 PM,9:46,MISS Langford 3' Driving Layup,,Bamba BLOCK (4 BLK),,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012100003,559,4,0,4,9:29 PM,9:45,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,561,2,1,4,9:29 PM,9:37,MISS Pritchard 20' Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,562,4,0,4,9:29 PM,9:35,,,Hampton REBOUND (Off:1 Def:5),,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,563,2,79,4,9:29 PM,9:16,,,MISS Hampton 15' Pullup Jump Shot,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,564,4,0,4,9:29 PM,9:14,Richardson REBOUND (Off:0 Def:1),,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,565,1,44,4,9:30 PM,9:02,Kanter 2' Reverse Layup (2 PTS) (Schroder 4 AST),,,79 - 73,-6,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,567,1,80,4,9:30 PM,8:43,,,Anthony 27' 3PT Step Back Jump Shot (14 PTS),82 - 73,-9,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,568,5,1,4,9:30 PM,8:21,Kanter Bad Pass Turnover (P1.T14),,Wagner STEAL (1 STL),,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,570,2,1,4,9:31 PM,8:03,,,MISS Wagner 30' 3PT Jump Shot,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,571,4,0,4,9:31 PM,8:00,Pritchard REBOUND (Off:1 Def:2),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,572,2,101,4,9:31 PM,7:52,MISS Langford 7' Driving Floating Jump Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,573,4,0,4,9:31 PM,7:49,,,Wagner REBOUND (Off:0 Def:2),,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,574,6,2,4,9:31 PM,7:46,Richardson S.FOUL (P2.T1) (T.Ricks),,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,576,3,11,4,9:31 PM,7:46,,,Wagner Free Throw 1 of 2 (14 PTS),83 - 73,-10,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,579,3,12,4,9:31 PM,7:46,,,MISS Wagner Free Throw 2 of 2,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,577,8,0,4,9:31 PM,7:46,SUB: Nesmith FOR Schroder,,,,,4,203471,Dennis Schroder,1610612738.0,Boston,Celtics,BOS,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,580,4,0,4,9:31 PM,7:44,Langford REBOUND (Off:0 Def:1),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,581,1,1,4,9:32 PM,7:34,Pritchard 28' 3PT Jump Shot (6 PTS),,,83 - 76,-7,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,583,1,6,4,9:32 PM,7:12,,,Anthony 3' Driving Layup (16 PTS),85 - 76,-9,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,584,5,45,4,9:32 PM,7:02,Pritchard Out of Bounds - Bad Pass Turnover Turnover (P2.T15),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012100003,585,2,1,4,9:33 PM,6:39,,,MISS Anthony 29' 3PT Jump Shot,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,586,4,0,4,9:33 PM,6:37,,,Bamba REBOUND (Off:3 Def:7),,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,588,9,1,4,9:33 PM,6:36,CELTICS Timeout: Regular (Full 5 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,589,1,108,4,9:36 PM,6:23,,,Bamba 1' Cutting Dunk Shot (13 PTS) (Anthony 6 AST),87 - 76,-11,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,591,1,1,4,9:37 PM,6:10,Langford 27' 3PT Jump Shot (3 PTS) (Pritchard 1 AST),,,87 - 79,-8,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,593,1,98,4,9:37 PM,5:46,,,Wagner 3' Cutting Layup Shot (16 PTS) (Moore 3 AST),89 - 79,-10,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,595,1,79,4,9:37 PM,5:36,Richardson 19' Pullup Jump Shot (2 PTS) (Langford 1 AST),,,89 - 81,-8,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,596,2,1,4,9:38 PM,5:21,,,MISS Bamba 28' 3PT Jump Shot,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,597,4,0,4,9:38 PM,5:20,Kanter REBOUND (Off:0 Def:1),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,598,1,2,4,9:38 PM,5:13,Nesmith 3PT Running Jump Shot (3 PTS) (Pritchard 2 AST),,,89 - 84,-5,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,601,9,1,4,9:38 PM,5:11,,,Magic Timeout: Regular (Reg.3 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,602,8,0,4,9:40 PM,5:11,,,SUB: Gravett FOR Bamba,,,5,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1629755,Hassani Gravett,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,603,8,0,4,9:40 PM,5:11,,,SUB: Brazdeikis FOR Hampton,,,5,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,604,8,0,4,9:40 PM,5:11,,,SUB: Schofield FOR Wagner,,,5,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,605,8,0,4,9:40 PM,5:11,,,SUB: Teske FOR Anthony,,,5,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,606,8,0,4,9:40 PM,5:11,,,SUB: Dowtin FOR Moore,,,5,202734,E'Twaun Moore,1610612753.0,Orlando,Magic,ORL,5,1630288,Jeff Dowtin,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012100003,612,2,75,4,9:41 PM,4:48,,,MISS Gravett 9' Driving Finger Roll Layup,,,5,1629755,Hassani Gravett,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,613,4,0,4,9:41 PM,4:45,Kanter REBOUND (Off:0 Def:2),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,614,2,6,4,9:41 PM,4:38,MISS Langford 3' Driving Layup,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,615,4,0,4,9:41 PM,4:36,Langford REBOUND (Off:1 Def:1),,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,616,2,97,4,9:41 PM,4:36,MISS Langford Tip Layup Shot,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,617,4,0,4,9:41 PM,4:34,Nesmith REBOUND (Off:1 Def:0),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,618,2,1,4,9:41 PM,4:27,MISS Richardson 25' 3PT Jump Shot,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,619,4,0,4,9:41 PM,4:26,Pritchard REBOUND (Off:2 Def:2),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,620,1,1,4,9:41 PM,4:24,Nesmith 26' 3PT Jump Shot (6 PTS) (Pritchard 3 AST),,,89 - 87,-2,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,622,2,1,4,9:42 PM,3:59,,,MISS Schofield 20' Jump Shot,,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,623,4,0,4,9:42 PM,3:56,Pritchard REBOUND (Off:2 Def:3),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,624,2,6,4,9:42 PM,3:50,MISS Richardson 5' Driving Layup,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,625,4,0,4,9:42 PM,3:49,,,Teske REBOUND (Off:0 Def:1),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,626,2,1,4,9:42 PM,3:27,,,MISS Dowtin 28' 3PT Jump Shot,,,5,1630288,Jeff Dowtin,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,627,4,0,4,9:42 PM,3:26,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,628,6,3,4,9:42 PM,3:25,Pritchard L.B.FOUL (P1.T2) (J.Tiven),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,630,2,1,4,9:43 PM,3:12,,,MISS Schofield 27' 3PT Jump Shot,,,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,631,4,0,4,9:43 PM,3:12,Nesmith REBOUND (Off:1 Def:1),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,632,1,41,4,9:43 PM,3:01,Nesmith 2' Running Layup (8 PTS) (Pritchard 4 AST),,,89 - 89,TIE,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,634,1,73,4,9:43 PM,2:46,,,Dowtin 2' Driving Reverse Layup (2 PTS) (Teske 1 AST),91 - 89,-2,5,1630288,Jeff Dowtin,1610612753.0,Orlando,Magic,ORL,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,636,2,1,4,9:44 PM,2:26,MISS Richardson 3PT Jump Shot,,,,,4,1626196,Josh Richardson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,637,4,0,4,9:44 PM,2:24,,,Brazdeikis REBOUND (Off:0 Def:1),,,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,638,5,11,4,9:44 PM,1:59,,,Magic Turnover: Shot Clock (T#17),,,3,1610612753,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100003,639,5,1,4,9:45 PM,1:41,Langford Bad Pass Turnover (P1.T16),,Brazdeikis STEAL (1 STL),,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,641,1,1,4,9:45 PM,1:28,,,Teske 28' 3PT Jump Shot (3 PTS) (Brazdeikis 1 AST),94 - 89,-5,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,643,1,79,4,9:45 PM,1:22,Pritchard 28' 3PT Pullup Jump Shot (9 PTS),,,94 - 92,-2,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,644,1,1,4,9:45 PM,1:09,,,Schofield 28' 3PT Jump Shot (3 PTS) (Gravett 1 AST),97 - 92,-5,5,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1629755,Hassani Gravett,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012100003,646,6,2,4,9:46 PM,0:58,,,Teske S.FOUL (P1.T1) (J.Tiven),,,5,1630257,Jon Teske,1610612753.0,Orlando,Magic,ORL,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012100003,648,3,11,4,9:46 PM,0:58,Langford Free Throw 1 of 2 (4 PTS),,,97 - 93,-4,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,649,3,12,4,9:46 PM,0:58,MISS Langford Free Throw 2 of 2,,,,,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,650,4,0,4,9:46 PM,0:58,Nesmith REBOUND (Off:2 Def:1),,,,,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,651,1,66,4,9:47 PM,0:55,Nesmith 3' Jump Bank Shot (10 PTS),,,97 - 95,-2,4,1630174,Aaron Nesmith,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,652,2,6,4,9:47 PM,0:38,,,MISS Dowtin 5' Driving Layup,,,5,1630288,Jeff Dowtin,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,653,4,0,4,9:47 PM,0:36,Kanter REBOUND (Off:0 Def:3),,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,654,2,79,4,9:47 PM,0:21,MISS Pritchard 13' Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012100003,655,4,0,4,9:47 PM,0:19,,,Gravett REBOUND (Off:0 Def:1),,,5,1629755,Hassani Gravett,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,659,5,1,4,9:47 PM,0:18,Langford STEAL (1 STL),,Gravett Bad Pass Turnover (P1.T18),,,5,1629755,Hassani Gravett,1610612753.0,Orlando,Magic,ORL,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,656,1,1,4,9:47 PM,0:14,Langford 24' 3PT Jump Shot (7 PTS) (Pritchard 5 AST),,,97 - 98,1,4,1629641,Romeo Langford,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012100003,658,9,1,4,9:47 PM,0:13,,,Magic Timeout: Regular (Reg.4 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,661,8,0,4,9:49 PM,0:13,SUB: Williams FOR Kanter,,,,,4,202683,Enes Kanter,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012100003,664,9,1,4,9:49 PM,0:06,,,Magic Timeout: Regular (Reg.5 Short 0),,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,665,6,1,4,9:51 PM,0:04,Pritchard P.FOUL (P2.T3) (M.Kogut),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1629755,Hassani Gravett,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012100003,667,2,1,4,9:51 PM,0:00,,,MISS Brazdeikis 28' 3PT Jump Shot,,,5,1629649,Ignas Brazdeikis,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012100003,668,4,0,4,9:51 PM,0:00,,,Magic Rebound,,,3,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100003,669,13,0,4,9:51 PM,0:00,,End of 4th Period (9:51 PM EST),,97 - 98,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

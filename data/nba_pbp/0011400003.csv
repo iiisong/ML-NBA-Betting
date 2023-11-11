@@ -1,0 +1,472 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400003,0,12,0,1,6:13 PM,12:00,,Start of 1st Period (6:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,1,10,0,1,6:13 PM,12:00,Jump Ball Thompson vs. Maric: Tip to James,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011400003,2,5,1,1,6:13 PM,11:48,James Bad Pass Turnover (P1.T1),,Smith STEAL (1 STL),,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,3,1,1,1,6:13 PM,11:29,,,Pnini 25' 3PT Jump Shot (3 PTS) (Maric 1 AST),3 - 0,-3,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,4,1,1,1,6:14 PM,11:04,James 26' 3PT Jump Shot (3 PTS) (Waiters 1 AST),,,3 - 3,TIE,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,5,1,76,1,6:14 PM,10:39,,,Pnini 3' Running Finger Roll Layup (5 PTS) (Haynes 1 AST),5 - 3,-2,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,6,1,47,1,6:15 PM,10:22,Love 8' Turnaround Jump Shot (2 PTS) (Irving 1 AST),,,5 - 5,TIE,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,7,1,1,1,6:15 PM,10:09,,,Smith 26' 3PT Jump Shot (3 PTS) (Pnini 1 AST),8 - 5,-3,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,8,2,5,1,6:15 PM,9:53,MISS Thompson 1' Layup,,Pargo BLOCK (1 BLK),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,9,4,0,1,6:15 PM,9:52,,,Maccabi Electra Rebound,,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,11,5,1,1,6:15 PM,9:39,Irving STEAL (1 STL),,Smith Bad Pass Turnover (P1.T1),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,12,1,42,1,6:15 PM,9:34,Irving 1' Driving Layup (2 PTS),,,8 - 7,-1,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,13,2,78,1,6:16 PM,9:18,,,MISS Pnini 11' Floating Jump Shot,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,14,4,0,1,6:16 PM,9:16,Thompson REBOUND (Off:0 Def:1),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,16,6,2,1,6:16 PM,9:14,,,Pargo S.FOUL (P1.T1),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,17,3,11,1,6:16 PM,9:14,James Free Throw 1 of 2 (4 PTS),,,8 - 8,TIE,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,19,3,12,1,6:16 PM,9:14,James Free Throw 2 of 2 (5 PTS),,,8 - 9,1,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,21,2,43,1,6:17 PM,9:08,,,MISS Maric 1' Alley Oop Layup,,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,22,4,0,1,6:17 PM,9:05,Love REBOUND (Off:0 Def:1),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,23,2,77,1,6:17 PM,8:50,MISS Waiters 5' Driving Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,25,4,0,1,6:17 PM,8:49,Thompson REBOUND (Off:1 Def:1),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,24,1,4,1,6:17 PM,8:49,Thompson 1' Tip Shot (2 PTS),,,8 - 11,3,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,26,2,1,1,6:17 PM,8:34,,,MISS Smith 26' 3PT Jump Shot,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,27,4,0,1,6:17 PM,8:33,Thompson REBOUND (Off:1 Def:2),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,28,7,5,1,6:17 PM,8:24,,,Smith Violation:Kicked Ball,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,1,0,,,,,,0
+0011400003,30,1,5,1,6:18 PM,8:13,Irving 1' Layup (4 PTS) (James 1 AST),,,8 - 13,5,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,31,2,1,1,6:18 PM,8:02,,,MISS Haynes 20' Jump Shot,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,32,4,0,1,6:18 PM,8:01,James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,33,2,5,1,6:18 PM,7:56,MISS Waiters 1' Layup,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,34,4,0,1,6:18 PM,7:55,Thompson REBOUND (Off:2 Def:2),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,35,6,1,1,6:18 PM,7:54,,,Maric P.FOUL (P1.T2),,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,36,3,11,1,6:19 PM,7:54,Thompson Free Throw 1 of 2 (3 PTS),,,8 - 14,6,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,38,8,0,1,6:19 PM,7:54,,,SUB: Tyus FOR Maric,,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,39,8,0,1,6:19 PM,7:54,,,SUB: Landesberg FOR Haynes,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,40,3,12,1,6:19 PM,7:54,Thompson Free Throw 2 of 2 (4 PTS),,,8 - 15,7,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,42,1,1,1,6:20 PM,7:40,,,Pargo 27' 3PT Jump Shot (3 PTS) (Landesberg 1 AST),11 - 15,4,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,43,2,47,1,6:20 PM,7:22,MISS Irving 8' Turnaround Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,44,4,0,1,6:20 PM,7:18,,,Smith REBOUND (Off:0 Def:1),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,45,2,1,1,6:20 PM,7:09,,,MISS Smith 24' 3PT Jump Shot,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,46,4,0,1,6:20 PM,7:07,Love REBOUND (Off:0 Def:2),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,47,5,1,1,6:20 PM,7:03,James Bad Pass Turnover (P2.T2),,Landesberg STEAL (1 STL),,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,48,6,1,1,6:20 PM,6:51,Love P.FOUL (P1.T1),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,49,8,0,1,6:21 PM,6:51,SUB: Varejao FOR Thompson,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,51,8,0,1,6:21 PM,6:51,,,SUB: Cohen FOR Pnini,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,52,2,1,1,6:21 PM,6:36,,,MISS Smith 18' Jump Shot,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,53,4,0,1,6:21 PM,6:35,Varejao REBOUND (Off:0 Def:1),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,54,1,1,1,6:22 PM,6:15,Waiters  3PT Jump Shot (3 PTS) (Love 1 AST),,,11 - 18,7,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,55,2,1,1,6:22 PM,5:59,,,MISS Pargo 26' 3PT Jump Shot,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,56,4,0,1,6:22 PM,5:57,Love REBOUND (Off:0 Def:3),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,57,2,5,1,6:22 PM,5:43,MISS James 2' Layup,,Tyus BLOCK (1 BLK),,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,58,4,0,1,6:22 PM,5:41,Love REBOUND (Off:1 Def:3),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,59,6,1,1,6:22 PM,5:37,,,Cohen P.FOUL (P1.T3),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,60,9,1,1,6:22 PM,5:37,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,64,1,65,1,6:25 PM,5:28,Varejao 6' Jump Hook Shot (2 PTS) (Love 2 AST),,,11 - 20,9,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,65,2,1,1,6:25 PM,5:15,,,MISS Tyus 15' Jump Shot,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,66,4,0,1,6:25 PM,5:14,Love REBOUND (Off:1 Def:4),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,67,5,1,1,6:25 PM,5:11,Love Bad Pass Turnover (P1.T3),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,68,2,78,1,6:26 PM,5:00,,,MISS Landesberg 9' Floating Jump Shot,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,69,4,0,1,6:26 PM,4:57,,,Cohen REBOUND (Off:1 Def:0),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,70,1,42,1,6:26 PM,4:51,,,Smith  Driving Layup (5 PTS) (Pargo 1 AST),13 - 20,7,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,71,2,5,1,6:26 PM,4:43,MISS Irving 3' Layup,,Tyus BLOCK (2 BLK),,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,72,4,0,1,6:26 PM,4:42,Irving REBOUND (Off:1 Def:0),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,73,2,1,1,6:26 PM,4:31,MISS Waiters 26' 3PT Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,74,4,0,1,6:26 PM,4:30,,,Pargo REBOUND (Off:0 Def:1),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,75,6,1,1,6:26 PM,4:25,James P.FOUL (P1.T2),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,76,8,0,1,6:26 PM,4:25,SUB: Miller FOR Waiters,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,77,8,0,1,6:27 PM,4:25,,,SUB: Linhart FOR Smith,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,78,8,0,1,6:27 PM,4:25,SUB: Marion FOR James,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,80,1,52,1,6:27 PM,4:17,,,Tyus  Alley Oop Dunk (2 PTS) (Pargo 2 AST),15 - 20,5,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,81,2,1,1,6:27 PM,4:00,MISS Love 22' Jump Shot,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,82,4,0,1,6:27 PM,3:59,,,Pargo REBOUND (Off:0 Def:2),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,84,2,1,1,6:28 PM,3:51,,,MISS Landesberg 21' Jump Shot,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,85,4,0,1,6:28 PM,3:50,Love REBOUND (Off:1 Def:5),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,86,5,1,1,6:28 PM,3:47,Love Bad Pass Turnover (P2.T4),,Pargo STEAL (1 STL),,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,87,6,2,1,6:28 PM,3:42,Varejao S.FOUL (P1.T3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,88,3,11,1,6:28 PM,3:42,,,Pargo Free Throw 1 of 2 (4 PTS),16 - 20,4,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,90,3,12,1,6:28 PM,3:42,,,Pargo Free Throw 2 of 2 (5 PTS),17 - 20,3,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,93,2,5,1,6:28 PM,3:33,MISS Irving 1' Layup,,Tyus BLOCK (3 BLK),,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,94,4,0,1,6:28 PM,3:31,Varejao REBOUND (Off:1 Def:1),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,96,1,1,1,6:29 PM,3:22,Miller 14' Jump Shot (2 PTS) (Irving 2 AST),,,17 - 22,5,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,97,1,1,1,6:29 PM,3:01,,,Landesberg 25' 3PT Jump Shot (3 PTS) (Pargo 3 AST),20 - 22,2,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,98,6,2,1,6:30 PM,2:40,,,Cohen S.FOUL (P2.T4),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,99,9,1,1,6:30 PM,2:40,,,Maccabi Electra Timeout: Regular (Reg.1 Short 0),,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,103,3,11,1,6:32 PM,2:40,Love Free Throw 1 of 2 (3 PTS),,,20 - 23,3,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,107,8,0,1,6:33 PM,2:40,,,SUB: Ohayon FOR Pargo,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,108,3,12,1,6:33 PM,2:40,Love Free Throw 2 of 2 (4 PTS),,,20 - 24,4,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,110,2,1,1,6:33 PM,2:26,,,MISS Landesberg 22' Jump Shot,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,111,4,0,1,6:33 PM,2:25,Varejao REBOUND (Off:1 Def:2),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,112,2,1,1,6:33 PM,2:10,MISS Miller 25' 3PT Jump Shot,,,,,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,113,4,0,1,6:33 PM,2:09,,,Landesberg REBOUND (Off:0 Def:1),,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,114,2,47,1,6:34 PM,1:55,,,MISS Tyus 15' Turnaround Jump Shot,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,115,4,0,1,6:34 PM,1:53,Varejao REBOUND (Off:1 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,116,2,1,1,6:34 PM,1:41,MISS Love 19' Jump Shot,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,117,4,0,1,6:34 PM,1:40,,,Landesberg REBOUND (Off:0 Def:2),,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,118,6,2,1,6:34 PM,1:30,Marion S.FOUL (P1.T4),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,119,3,11,1,6:34 PM,1:30,,,Landesberg Free Throw 1 of 2 (4 PTS),21 - 24,3,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,121,8,0,1,6:34 PM,1:30,SUB: Dellavedova FOR Irving,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,122,8,0,1,6:34 PM,1:30,SUB: Amundson FOR Love,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,123,8,0,1,6:35 PM,1:30,,,SUB: Maric FOR Tyus,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,124,8,0,1,6:35 PM,1:30,,,SUB: Altit FOR Cohen,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,126,3,12,1,6:35 PM,1:30,,,Landesberg Free Throw 2 of 2 (5 PTS),22 - 24,2,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,129,2,44,1,6:35 PM,1:20,MISS Amundson  Reverse Layup,,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,131,4,0,1,6:35 PM,1:16,Amundson REBOUND (Off:1 Def:0),,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,130,1,65,1,6:35 PM,1:16,Amundson 3' Jump Hook Shot (2 PTS),,,22 - 26,4,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,138,2,45,1,6:35 PM,1:05,,,MISS Altit 18' Jump Shot,,,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,132,4,0,1,6:35 PM,1:04,Marion REBOUND (Off:0 Def:1),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,133,2,1,1,6:36 PM,0:49,MISS Amundson 14' Jump Shot,,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,134,4,0,1,6:36 PM,0:48,,,Landesberg REBOUND (Off:0 Def:3),,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,135,6,2,1,6:36 PM,0:44,Miller S.FOUL (P1.PN),,,,,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,136,3,11,1,6:36 PM,0:44,,,Landesberg Free Throw 1 of 2 (6 PTS),23 - 26,3,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,139,3,12,1,6:36 PM,0:44,,,Landesberg Free Throw 2 of 2 (7 PTS),24 - 26,2,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,141,6,2,1,6:37 PM,0:35,,,Maric S.FOUL (P2.PN),,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,142,3,11,1,6:37 PM,0:35,Varejao Free Throw 1 of 2 (3 PTS),,,24 - 27,3,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,144,8,0,1,6:37 PM,0:35,,,SUB: Haynes FOR Landesberg,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,145,3,12,1,6:37 PM,0:35,Varejao Free Throw 2 of 2 (4 PTS),,,24 - 28,4,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,148,5,1,1,6:38 PM,0:17,Varejao STEAL (1 STL),,Ohayon Bad Pass Turnover (P1.T2),,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,149,2,65,1,6:38 PM,0:07,MISS Marion 8' Jump Hook Shot,,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,150,4,0,1,6:38 PM,0:04,Varejao REBOUND (Off:2 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,151,1,66,1,6:38 PM,0:00,Dellavedova 9' Jump Bank Shot (2 PTS),,,24 - 30,6,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,154,18,0,1,6:38 PM,0:00,,Support Ruling,,,,0,151,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400003,152,13,0,1,6:38 PM,0:00,,End of 1st Period (6:38 PM EST),,24 - 30,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,155,12,0,2,6:41 PM,12:00,,Start of 2nd Period (6:41 PM EST),,24 - 30,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,156,2,42,2,6:42 PM,11:39,,,MISS Haynes 2' Driving Layup,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,157,4,0,2,6:42 PM,11:37,Amundson REBOUND (Off:1 Def:1),,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,158,1,1,2,6:42 PM,11:31,Miller 25' 3PT Jump Shot (5 PTS) (Dellavedova 1 AST),,,24 - 33,9,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,159,1,65,2,6:42 PM,11:12,,,Tyus 7' Jump Hook Shot (4 PTS) (Smith 1 AST),26 - 33,7,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,160,1,1,2,6:42 PM,10:51,James 25' 3PT Jump Shot (8 PTS) (Dellavedova 2 AST),,,26 - 36,10,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,161,6,29,2,6:43 PM,10:37,Dellavedova Shooting Block Foul (P1.T1),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,162,3,11,2,6:43 PM,10:37,,,Tyus Free Throw 1 of 2 (5 PTS),27 - 36,9,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,164,8,0,2,6:43 PM,10:37,SUB: Thompson FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,165,3,12,2,6:43 PM,10:37,,,Tyus Free Throw 2 of 2 (6 PTS),28 - 36,8,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,167,1,1,2,6:44 PM,10:26,Thompson 7' Jump Shot (6 PTS) (Miller 1 AST),,,28 - 38,10,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,168,2,5,2,6:44 PM,10:08,,,MISS Pargo 1' Layup,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,169,4,0,2,6:44 PM,10:07,Thompson REBOUND (Off:2 Def:3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,170,6,1,2,6:44 PM,10:05,,,Smith P.FOUL (P1.T1),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,171,8,0,2,6:44 PM,10:05,SUB: Marion FOR Amundson,,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,172,2,1,2,6:45 PM,9:58,MISS James 30' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,173,4,0,2,6:45 PM,9:57,Thompson REBOUND (Off:3 Def:3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,174,5,1,2,6:45 PM,9:53,Thompson Bad Pass Turnover (P1.T5),,Tyus STEAL (1 STL),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,175,2,1,2,6:45 PM,9:44,,,MISS Pnini 26' 3PT Jump Shot,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,176,4,0,2,6:45 PM,9:43,James REBOUND (Off:0 Def:2),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,177,6,1,2,6:45 PM,9:40,,,Pnini P.FOUL (P1.T2),,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,178,2,7,2,6:45 PM,9:36,MISS Thompson  Dunk,,Tyus BLOCK (4 BLK),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,179,4,0,2,6:45 PM,9:31,,,Pnini REBOUND (Off:0 Def:1),,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,180,1,73,2,6:46 PM,9:23,,,Pargo  Driving Reverse Layup (7 PTS),30 - 38,8,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,181,1,1,2,6:46 PM,9:08,James 15' Jump Shot (10 PTS) (Thompson 1 AST),,,30 - 40,10,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,183,2,43,2,6:46 PM,8:53,,,MISS Haynes 1' Alley Oop Layup,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,184,4,0,2,6:46 PM,8:51,,,Haynes REBOUND (Off:1 Def:0),,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,185,2,56,2,6:46 PM,8:47,,,MISS Tyus 9' Running Hook Shot,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,186,4,0,2,6:46 PM,8:43,Thompson REBOUND (Off:3 Def:4),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,187,1,5,2,6:46 PM,8:39,Thompson 1' Layup (8 PTS) (James 2 AST),,,30 - 42,12,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,188,5,2,2,6:46 PM,8:31,Thompson STEAL (1 STL),,Pargo Lost Ball Turnover (P1.T3),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,189,2,43,2,6:46 PM,8:24,MISS James 1' Alley Oop Layup,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,190,4,0,2,6:47 PM,8:22,,,Pargo REBOUND (Off:0 Def:3),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,191,2,46,2,6:47 PM,8:14,,,MISS Pnini 8' Running Jump Shot,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,192,4,0,2,6:47 PM,8:11,Marion REBOUND (Off:0 Def:2),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,194,7,2,2,6:47 PM,7:58,,,Tyus Violation:Defensive Goaltending,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,1,0,,,,,,0
+0011400003,193,1,5,2,6:47 PM,7:58,Marion 2' Layup (2 PTS) (James 3 AST),,,30 - 44,14,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,196,9,1,2,6:47 PM,7:58,,,Maccabi Electra Timeout: Regular (Reg.2 Short 0),,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,197,8,0,2,6:49 PM,7:58,,,SUB: Linhart FOR Smith,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,198,8,0,2,6:49 PM,7:58,,,SUB: Landesberg FOR Haynes,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,199,8,0,2,6:49 PM,7:58,SUB: Waiters FOR Miller,,,,,4,2034,Mike Miller,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,200,8,0,2,6:49 PM,7:58,SUB: Irving FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,201,2,1,2,6:50 PM,7:39,Marion BLOCK (1 BLK),,MISS Tyus 4' Jump Shot,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011400003,202,4,0,2,6:50 PM,7:37,James REBOUND (Off:0 Def:3),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,203,1,1,2,6:50 PM,7:33,Irving 25' 3PT Jump Shot (7 PTS) (Waiters 2 AST),,,30 - 47,17,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,204,1,5,2,6:50 PM,7:12,,,Pnini 1' Layup (7 PTS),32 - 47,15,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,205,2,1,2,6:50 PM,6:54,MISS Waiters 18' Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,206,4,0,2,6:50 PM,6:53,,,Linhart REBOUND (Off:0 Def:1),,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,207,2,1,2,6:51 PM,6:36,,,MISS Pargo 26' 3PT Jump Shot,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,208,4,0,2,6:51 PM,6:35,Marion REBOUND (Off:0 Def:3),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,209,2,1,2,6:51 PM,6:27,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,210,4,0,2,6:51 PM,6:25,Marion REBOUND (Off:1 Def:3),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,213,8,0,2,6:51 PM,6:21,,,SUB: Maric FOR Tyus,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,214,8,0,2,6:51 PM,6:21,,,SUB: Smith FOR Pnini,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,215,2,1,2,6:52 PM,6:06,MISS Irving  3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,216,4,0,2,6:52 PM,6:04,,,Smith REBOUND (Off:0 Def:2),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,218,2,1,2,6:52 PM,5:43,Thompson BLOCK (1 BLK),,MISS Linhart 3' Jump Shot,,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011400003,219,4,0,2,6:52 PM,5:40,James REBOUND (Off:0 Def:4),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,220,1,1,2,6:52 PM,5:33,James 6' Jump Shot (12 PTS),,,32 - 49,17,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,221,6,1,2,6:52 PM,5:18,Waiters P.FOUL (P1.T2),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,222,9,4,2,6:53 PM,5:18,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,225,8,0,2,6:54 PM,5:18,SUB: Love FOR Marion,,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,226,2,1,2,6:55 PM,5:06,,,MISS Smith 26' 3PT Jump Shot,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,227,4,0,2,6:55 PM,5:05,,,Linhart REBOUND (Off:1 Def:1),,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,228,1,1,2,6:55 PM,5:01,,,Landesberg 25' 3PT Jump Shot (10 PTS) (Linhart 1 AST),35 - 49,14,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,229,2,84,2,6:56 PM,4:38,MISS James 8' Running Bank Shot,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,230,4,0,2,6:56 PM,4:37,Thompson REBOUND (Off:4 Def:4),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,231,1,1,2,6:56 PM,4:28,Irving 24' 3PT Jump Shot (10 PTS) (Waiters 3 AST),,,35 - 52,17,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,232,5,2,2,6:56 PM,4:05,Irving STEAL (2 STL),,Smith Lost Ball Turnover (P2.T4),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,233,5,1,2,6:56 PM,3:59,James Bad Pass Turnover (P3.T6),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,234,8,0,2,6:56 PM,3:59,,,SUB: Cohen FOR Maric,,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,235,1,78,2,6:57 PM,3:44,,,Smith 7' Floating Jump Shot (7 PTS) (Landesberg 2 AST),37 - 52,15,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,237,8,0,2,6:57 PM,3:30,SUB: Haywood FOR Thompson,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,239,2,66,2,6:57 PM,3:18,MISS James 9' Jump Bank Shot,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,240,4,0,2,6:58 PM,3:18,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,241,6,3,2,6:58 PM,3:18,,,Cohen L.B.FOUL (P3.T3),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,242,8,0,2,6:58 PM,3:18,,,SUB: Tyus FOR Cohen,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,244,2,1,2,6:58 PM,3:00,MISS Waiters 16' Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,245,4,0,2,6:58 PM,3:00,Love REBOUND (Off:2 Def:5),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,246,6,1,2,6:58 PM,3:00,,,Landesberg P.FOUL (P1.T4),,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,247,6,2,2,6:59 PM,2:46,,,Tyus S.FOUL (P1.PN),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,248,9,1,2,6:59 PM,2:46,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,252,3,11,2,7:01 PM,2:46,MISS Love Free Throw 1 of 2,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,253,4,1,2,7:01 PM,2:46,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,254,3,12,2,7:02 PM,2:46,Love Free Throw 2 of 2 (5 PTS),,,37 - 53,16,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,256,1,7,2,7:02 PM,2:25,,,Tyus  Dunk (8 PTS) (Pargo 4 AST),39 - 53,14,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,257,2,1,2,7:03 PM,1:58,MISS James  3PT Jump Shot,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,258,4,0,2,7:03 PM,1:56,,,Linhart REBOUND (Off:1 Def:2),,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,259,1,1,2,7:03 PM,1:45,,,Landesberg 22' Jump Shot (12 PTS),41 - 53,12,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,260,9,2,2,7:03 PM,1:35,CAVALIERS Timeout: Short (Full 2 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,263,8,0,2,7:04 PM,1:35,,,SUB: Altit FOR Smith,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,265,5,4,2,7:05 PM,1:25,Haywood Traveling Turnover (P1.T7),,,,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011400003,266,6,1,2,7:05 PM,1:25,Irving P.FOUL (P1.T3),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,267,1,7,2,7:05 PM,1:11,,,Tyus  Dunk (10 PTS) (Pargo 5 AST),43 - 53,10,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,268,1,5,2,7:06 PM,0:53,Haywood  Layup (2 PTS) (Love 3 AST),,,43 - 55,12,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,269,6,2,2,7:06 PM,0:53,,,Tyus S.FOUL (P2.PN),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,270,3,10,2,7:06 PM,0:53,Haywood Free Throw 1 of 1 (3 PTS),,,43 - 56,13,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,273,6,1,2,7:07 PM,0:42,James P.FOUL (P2.PN),,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,274,3,11,2,7:07 PM,0:42,,,Pargo Free Throw 1 of 2 (8 PTS),44 - 56,12,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,276,3,12,2,7:07 PM,0:42,,,MISS Pargo Free Throw 2 of 2,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,278,4,0,2,7:07 PM,0:42,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,279,8,0,2,7:07 PM,0:40,,,SUB: Ohayon FOR Pargo,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,282,2,5,2,7:08 PM,0:23,MISS Haywood 2' Layup,,Linhart BLOCK (1 BLK),,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,283,4,0,2,7:08 PM,0:23,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,285,1,1,2,7:08 PM,0:20,Love 26' 3PT Jump Shot (8 PTS) (James 4 AST),,,44 - 59,15,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,287,6,26,2,7:08 PM,0:04,,,Tyus Offensive Charge Foul (P3.PN),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,288,5,5,2,7:08 PM,0:04,,,Tyus Foul Turnover (P1.T5),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,1,0,,,,,,0
+0011400003,289,2,1,2,7:09 PM,0:00,MISS James 26' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,290,4,0,2,7:09 PM,0:00,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,293,18,1,2,7:09 PM,0:00,,Overturn Ruling,,,,0,259,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400003,291,13,0,2,7:09 PM,0:00,,End of 2nd Period (7:09 PM EST),,44 - 59,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,294,18,1,2,7:09 PM,0:00,,Overturn Ruling,,,,0,285,Greg Grant,,,,,0,0,,,,,,1,0,,,,,,0
+0011400003,295,12,0,3,7:28 PM,12:00,,Start of 3rd Period (7:28 PM EST),,44 - 59,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,296,2,43,3,7:28 PM,11:48,,,MISS Pargo 1' Alley Oop Layup,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,297,4,0,3,7:28 PM,11:47,Varejao REBOUND (Off:2 Def:4),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,298,2,5,3,7:29 PM,11:26,MISS Varejao 3' Layup,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,299,4,0,3,7:29 PM,11:25,,,Smith REBOUND (Off:0 Def:3),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,300,1,42,3,7:29 PM,11:15,,,Haynes 1' Driving Layup (2 PTS),46 - 59,13,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,301,6,2,3,7:29 PM,11:00,,,Tyus S.FOUL (P4.T1),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,302,3,11,3,7:29 PM,11:00,Irving Free Throw 1 of 2 (11 PTS),,,46 - 60,14,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,304,3,12,3,7:30 PM,11:00,Irving Free Throw 2 of 2 (12 PTS),,,46 - 61,15,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,306,2,41,3,7:30 PM,10:43,,,MISS Pnini 1' Running Layup,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,307,4,0,3,7:30 PM,10:40,,,Maccabi Electra Rebound,,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,309,2,42,3,7:31 PM,10:31,,,MISS Pargo 1' Driving Layup,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,310,4,0,3,7:31 PM,10:29,Varejao REBOUND (Off:2 Def:5),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,311,2,1,3,7:31 PM,10:23,MISS Love 25' 3PT Jump Shot,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,312,4,0,3,7:31 PM,10:22,Marion REBOUND (Off:2 Def:3),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,314,1,1,3,7:31 PM,10:10,Irving 17' Jump Shot (14 PTS) (Varejao 1 AST),,,46 - 63,17,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,315,2,1,3,7:32 PM,9:50,,,MISS Haynes 24' 3PT Jump Shot,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,316,4,0,3,7:32 PM,9:49,Love REBOUND (Off:2 Def:6),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,317,1,1,3,7:32 PM,9:42,Irving 18' Jump Shot (16 PTS),,,46 - 65,19,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,319,2,5,3,7:32 PM,9:17,Varejao BLOCK (1 BLK),,MISS Tyus 2' Layup,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011400003,322,4,0,3,7:33 PM,9:16,,,Smith REBOUND (Off:1 Def:3),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,324,2,45,3,7:33 PM,9:15,,,MISS Pnini 25' 3PT Jump Shot,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,330,4,0,3,7:33 PM,9:15,Varejao REBOUND (Off:2 Def:6),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,336,1,45,3,7:33 PM,9:08,Waiters 27' 3PT Jump Shot (6 PTS) (Irving 3 AST),,,46 - 68,22,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,323,9,1,3,7:33 PM,9:07,,,Maccabi Electra Timeout: Regular (Reg.3 Short 0),,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,325,8,0,3,7:34 PM,9:07,,,SUB: Landesberg FOR Haynes,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,327,8,0,3,7:34 PM,9:07,,,SUB: Cohen FOR Tyus,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,331,6,2,3,7:35 PM,8:49,Varejao S.FOUL (P2.T1),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,332,3,11,3,7:35 PM,8:49,,,Cohen Free Throw 1 of 2 (1 PTS),47 - 68,21,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,334,3,12,3,7:36 PM,8:49,,,Cohen Free Throw 2 of 2 (2 PTS),48 - 68,20,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,337,1,1,3,7:36 PM,8:28,Waiters 19' Jump Shot (8 PTS) (Irving 4 AST),,,48 - 70,22,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,338,1,42,3,7:37 PM,8:05,,,Pargo 1' Driving Layup (10 PTS),50 - 70,20,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,340,5,1,3,7:37 PM,8:02,Varejao Bad Pass Turnover (P1.T8),,Landesberg STEAL (2 STL),,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,341,1,5,3,7:37 PM,7:57,,,Landesberg  Layup (14 PTS),52 - 70,18,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,343,2,85,3,7:37 PM,7:42,MISS Marion 9' Turnaround Bank Shot,,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,344,4,0,3,7:37 PM,7:37,Varejao REBOUND (Off:3 Def:6),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,345,2,1,3,7:37 PM,7:33,MISS Waiters 24' 3PT Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,346,4,0,3,7:37 PM,7:32,,,Smith REBOUND (Off:1 Def:4),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,347,2,5,3,7:37 PM,7:27,,,MISS Pargo 1' Layup,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,348,4,0,3,7:37 PM,7:24,Varejao REBOUND (Off:3 Def:7),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,349,2,1,3,7:37 PM,7:19,MISS Love  3PT Jump Shot,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,350,4,0,3,7:37 PM,7:17,Waiters REBOUND (Off:1 Def:0),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,351,2,1,3,7:37 PM,7:13,MISS Irving  3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,352,4,0,3,7:37 PM,7:12,Love REBOUND (Off:3 Def:6),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,353,1,42,3,7:38 PM,7:03,Waiters  Driving Layup (10 PTS),,,52 - 72,20,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,354,6,2,3,7:38 PM,7:03,,,Pnini S.FOUL (P2.T2),,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,355,8,0,3,7:38 PM,7:03,SUB: Thompson FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,356,8,0,3,7:38 PM,7:03,,,SUB: Ohayon FOR Pargo,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,357,3,10,3,7:38 PM,7:03,Waiters Free Throw 1 of 1 (11 PTS),,,52 - 73,21,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,360,2,65,3,7:39 PM,6:41,,,MISS Cohen 7' Jump Hook Shot,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,361,4,0,3,7:39 PM,6:38,Marion REBOUND (Off:2 Def:4),,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,362,2,42,3,7:39 PM,6:31,MISS Irving 1' Driving Layup,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,363,4,0,3,7:39 PM,6:30,,,Ohayon REBOUND (Off:0 Def:1),,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,364,1,5,3,7:39 PM,6:25,,,Landesberg 2' Layup (16 PTS) (Ohayon 1 AST),54 - 73,19,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,365,2,5,3,7:39 PM,6:09,MISS Waiters 1' Layup,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,367,4,0,3,7:39 PM,6:08,Thompson REBOUND (Off:5 Def:4),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,366,2,4,3,7:39 PM,6:08,MISS Thompson 1' Tip Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,368,4,0,3,7:39 PM,6:06,Love REBOUND (Off:4 Def:6),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,369,5,2,3,7:39 PM,6:04,Love Lost Ball Turnover (P3.T9),,Landesberg STEAL (3 STL),,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,370,2,1,3,7:39 PM,5:55,,,MISS Pnini 25' 3PT Jump Shot,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,371,4,0,3,7:39 PM,5:54,Love REBOUND (Off:4 Def:7),,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,372,1,7,3,7:40 PM,5:50,Thompson  Dunk (10 PTS) (Love 4 AST),,,54 - 75,21,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,373,2,1,3,7:40 PM,5:28,,,MISS Landesberg 18' Jump Shot,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,374,4,0,3,7:40 PM,5:27,,,Cohen REBOUND (Off:2 Def:0),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,375,5,1,3,7:40 PM,5:25,Marion STEAL (1 STL),,Cohen Bad Pass Turnover (P1.T6),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,376,1,8,3,7:40 PM,5:21,Waiters  Slam Dunk (13 PTS) (Marion 1 AST),,,54 - 77,23,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,377,2,1,3,7:40 PM,5:03,,,MISS Cohen 26' 3PT Jump Shot,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,378,4,0,3,7:40 PM,5:02,,,Ohayon REBOUND (Off:1 Def:1),,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,379,2,63,3,7:40 PM,4:59,,,MISS Ohayon 3' Fadeaway Jumper,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,380,4,0,3,7:40 PM,4:58,Thompson REBOUND (Off:5 Def:5),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,381,1,1,3,7:40 PM,4:52,Waiters 18' Jump Shot (15 PTS) (Irving 5 AST),,,54 - 79,25,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,382,9,2,3,7:41 PM,4:50,,,Maccabi Electra Timeout: Short (Reg.3 Short 1),,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,384,8,0,3,7:42 PM,4:50,SUB: Dellavedova FOR Love,,,,,4,201567,Kevin Love,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,385,8,0,3,7:42 PM,4:50,SUB: Harris FOR Irving,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,386,8,0,3,7:42 PM,4:50,SUB: Varejao FOR Marion,,,,,4,1890,Shawn Marion,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,387,8,0,3,7:42 PM,4:50,,,SUB: Linhart FOR Smith,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,388,8,0,3,7:42 PM,4:50,,,SUB: Tyus FOR Pnini,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,390,2,1,3,7:42 PM,4:33,,,MISS Cohen 27' 3PT Jump Shot,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,391,4,0,3,7:42 PM,4:32,Varejao REBOUND (Off:3 Def:8),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,392,2,1,3,7:43 PM,4:19,MISS Dellavedova  3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,393,4,0,3,7:43 PM,4:18,,,Linhart REBOUND (Off:1 Def:3),,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,395,6,1,3,7:43 PM,4:11,Waiters P.FOUL (P2.T2),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,396,2,1,3,7:43 PM,4:00,,,MISS Landesberg 26' 3PT Jump Shot,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,397,4,0,3,7:43 PM,3:59,Thompson REBOUND (Off:5 Def:6),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,398,2,1,3,7:44 PM,3:43,MISS Waiters 25' 3PT Jump Shot,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,399,4,0,3,7:44 PM,3:42,,,Linhart REBOUND (Off:1 Def:4),,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,400,2,1,3,7:44 PM,3:19,,,MISS Ohayon 20' Jump Shot,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,401,4,0,3,7:44 PM,3:18,Waiters REBOUND (Off:1 Def:1),,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,402,1,1,3,7:44 PM,3:03,Varejao 17' Jump Shot (6 PTS),,,54 - 81,27,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,403,2,1,3,7:44 PM,2:46,,,MISS Cohen 25' 3PT Jump Shot,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,404,4,0,3,7:44 PM,2:45,Varejao REBOUND (Off:3 Def:9),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,405,6,1,3,7:45 PM,2:43,,,Cohen P.FOUL (P4.T3),,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,406,9,1,3,7:45 PM,2:43,CAVALIERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,408,8,0,3,7:47 PM,2:43,,,SUB: Smith FOR Landesberg,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,409,8,0,3,7:47 PM,2:43,,,SUB: Haynes FOR Cohen,,,5,43188,Jake Cohen,41.0,Tel Aviv,Maccabi Electra,MTA,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,410,8,0,3,7:47 PM,2:43,SUB: Jones FOR Waiters,,,,,4,203079,Dion Waiters,1610612739.0,Cleveland,Cavaliers,CLE,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,411,2,1,3,7:48 PM,2:32,MISS Dellavedova 25' 3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,412,4,0,3,7:48 PM,2:31,,,Tyus REBOUND (Off:0 Def:1),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,413,2,1,3,7:48 PM,2:15,,,MISS Linhart 25' 3PT Jump Shot,,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,414,4,0,3,7:48 PM,2:14,Varejao REBOUND (Off:3 Def:10),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,415,2,1,3,7:48 PM,2:06,MISS Harris 21' Jump Shot,,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,416,4,0,3,7:48 PM,2:03,Varejao REBOUND (Off:4 Def:10),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,419,2,1,3,7:48 PM,2:00,MISS Thompson 4' Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,421,4,0,3,7:48 PM,1:59,Varejao REBOUND (Off:5 Def:10),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,420,2,4,3,7:48 PM,1:59,MISS Varejao 1' Tip Shot,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,422,4,0,3,7:48 PM,1:56,,,Linhart REBOUND (Off:1 Def:5),,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,423,6,1,3,7:49 PM,1:47,Dellavedova P.FOUL (P2.T3),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,424,1,1,3,7:49 PM,1:33,,,Linhart  3PT Jump Shot (3 PTS) (Haynes 2 AST),57 - 81,24,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,425,2,1,3,7:49 PM,1:14,MISS Harris 25' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,426,4,0,3,7:49 PM,1:13,Thompson REBOUND (Off:6 Def:6),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,427,6,2,3,7:50 PM,1:12,,,Smith S.FOUL (P2.T4),,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,428,3,11,3,7:50 PM,1:12,Thompson Free Throw 1 of 2 (11 PTS),,,57 - 82,25,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,430,8,0,3,7:50 PM,1:12,SUB: Haywood FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,431,8,0,3,7:50 PM,1:12,,,SUB: Maric FOR Smith,,,5,43183,Devin Smith,41.0,Tel Aviv,Maccabi Electra,MTA,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,432,3,12,3,7:50 PM,1:12,Thompson Free Throw 2 of 2 (12 PTS),,,57 - 83,26,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,435,1,42,3,7:51 PM,0:56,,,Ohayon 3' Driving Layup (2 PTS) (Haynes 3 AST),59 - 83,24,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,436,6,2,3,7:51 PM,0:56,Haywood S.FOUL (P1.PN),,,,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,437,3,10,3,7:51 PM,0:56,,,Ohayon Free Throw 1 of 1 (3 PTS),60 - 83,23,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,439,1,1,3,7:51 PM,0:40,Dellavedova 9' Jump Shot (4 PTS),,,60 - 85,25,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,440,5,1,3,7:52 PM,0:31,Dellavedova STEAL (1 STL),,Tyus Bad Pass Turnover (P2.T7),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,441,1,52,3,7:52 PM,0:27,Thompson  Alley Oop Dunk (14 PTS) (Harris 1 AST),,,60 - 87,27,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,443,2,1,3,7:52 PM,0:03,,,MISS Ohayon 26' 3PT Jump Shot,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,444,4,0,3,7:52 PM,0:02,Thompson REBOUND (Off:6 Def:7),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,445,2,1,3,7:52 PM,0:00,MISS Thompson 59' 3PT Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,446,4,0,3,7:53 PM,0:00,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,447,13,0,3,7:53 PM,0:00,,End of 3rd Period (7:53 PM EST),,60 - 87,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,449,12,0,4,7:55 PM,12:00,,Start of 4th Period (7:55 PM EST),,60 - 87,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,450,2,44,4,7:56 PM,11:36,MISS Haywood 2' Reverse Layup,,,,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,451,4,0,4,7:56 PM,11:33,,,Tyus REBOUND (Off:0 Def:2),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,452,2,1,4,7:56 PM,11:22,,,MISS Ohayon 26' 3PT Jump Shot,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,453,4,0,4,7:56 PM,11:22,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,454,2,1,4,7:56 PM,11:02,MISS Amundson 5' Jump Shot,,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,455,4,0,4,7:56 PM,11:01,,,Maric REBOUND (Off:0 Def:1),,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,456,5,1,4,7:57 PM,10:53,,,Pargo Bad Pass Turnover (P2.T8),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,457,5,2,4,7:57 PM,10:37,Dellavedova Lost Ball Turnover (P1.T10),,Haynes STEAL (1 STL),,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,458,2,1,4,7:57 PM,10:23,,,MISS Tyus 10' Jump Shot,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,459,4,0,4,7:57 PM,10:22,Amundson REBOUND (Off:1 Def:2),,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,460,2,3,4,7:57 PM,10:04,MISS Haywood 6' Hook Shot,,Tyus BLOCK (5 BLK),,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0
+0011400003,461,4,0,4,7:58 PM,10:03,,,Pargo REBOUND (Off:0 Def:4),,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,462,6,2,4,7:58 PM,10:03,Harris S.FOUL (P1.T1),,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,463,3,11,4,7:58 PM,10:03,,,Pargo Free Throw 1 of 2 (11 PTS),61 - 87,26,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,466,3,12,4,7:58 PM,10:03,,,MISS Pargo Free Throw 2 of 2,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,468,4,0,4,7:58 PM,10:01,Haywood REBOUND (Off:0 Def:1),,,,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,469,2,47,4,7:59 PM,9:39,MISS Jones 22' Turnaround Jump Shot,,,,,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,470,4,0,4,7:59 PM,9:37,Harris REBOUND (Off:1 Def:0),,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,471,1,84,4,7:59 PM,9:37,Harris 8' Running Bank Shot (2 PTS),,,61 - 89,28,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,472,6,2,4,7:59 PM,9:37,,,Maric S.FOUL (P3.T1),,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,473,3,10,4,7:59 PM,9:37,Harris Free Throw 1 of 1 (3 PTS),,,61 - 90,29,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,476,5,1,4,7:59 PM,9:25,Amundson STEAL (1 STL),,Haynes Bad Pass Turnover (P1.T9),,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,477,6,1,4,8:00 PM,9:21,,,Ohayon P.FOUL (P1.T2),,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,478,2,1,4,8:00 PM,9:14,MISS Harris 25' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,479,4,0,4,8:00 PM,9:13,,,Tyus REBOUND (Off:0 Def:3),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,480,2,1,4,8:00 PM,8:59,,,MISS Haynes 27' 3PT Jump Shot,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,481,4,0,4,8:00 PM,8:58,,,Maric REBOUND (Off:1 Def:1),,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,482,1,1,4,8:00 PM,8:50,,,Pargo 25' 3PT Jump Shot (14 PTS) (Ohayon 2 AST),64 - 90,26,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,483,2,56,4,8:01 PM,8:31,MISS Haywood 7' Running Hook Shot,,,,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,485,4,0,4,8:01 PM,8:27,Amundson REBOUND (Off:2 Def:2),,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,484,1,5,4,8:01 PM,8:27,Amundson  Layup (4 PTS),,,64 - 92,28,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,486,2,1,4,8:01 PM,8:14,,,MISS Haynes 25' 3PT Jump Shot,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,487,4,0,4,8:01 PM,8:13,Amundson REBOUND (Off:2 Def:3),,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,488,6,2,4,8:01 PM,8:02,,,Haynes S.FOUL (P1.T3),,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,489,9,4,4,8:01 PM,8:02,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,491,18,1,4,8:01 PM,8:02,,Overturn Ruling,,,,0,488,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400003,493,8,0,4,8:03 PM,8:02,SUB: Kirk FOR Haywood,,,,,4,2217,Brendan Haywood,1610612739.0,Cleveland,Cavaliers,CLE,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,494,8,0,4,8:03 PM,8:02,,,SUB: Landesberg FOR Haynes,,,5,43182,Marquez Haynes,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,495,3,13,4,8:04 PM,8:02,Jones Free Throw 1 of 3 (1 PTS),,,64 - 93,29,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,497,3,14,4,8:04 PM,8:02,Jones Free Throw 2 of 3 (2 PTS),,,64 - 94,30,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,499,3,15,4,8:04 PM,8:02,Jones Free Throw 3 of 3 (3 PTS),,,64 - 95,31,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,501,6,1,4,8:04 PM,7:45,Dellavedova P.FOUL (P3.T2),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,502,1,44,4,8:05 PM,7:37,,,Pargo 2' Reverse Layup (16 PTS),66 - 95,29,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,503,2,1,4,8:05 PM,7:23,MISS Kirk 20' Jump Shot,,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,504,4,0,4,8:05 PM,7:22,,,Maric REBOUND (Off:1 Def:2),,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,505,2,1,4,8:05 PM,7:09,,,MISS Pargo 25' 3PT Jump Shot,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,506,4,0,4,8:05 PM,7:08,Kirk REBOUND (Off:0 Def:1),,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,507,6,2,4,8:06 PM,6:52,,,Tyus S.FOUL (P5.T4),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011400003,508,3,11,4,8:06 PM,6:52,Kirk Free Throw 1 of 2 (1 PTS),,,66 - 96,30,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,510,3,12,4,8:06 PM,6:52,Kirk Free Throw 2 of 2 (2 PTS),,,66 - 97,31,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,512,1,47,4,8:07 PM,6:34,,,Tyus 12' Turnaround Jump Shot (12 PTS) (Landesberg 3 AST),68 - 97,29,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,514,2,1,4,8:07 PM,6:17,MISS Amundson 15' Jump Shot,,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,515,4,0,4,8:07 PM,6:16,,,Landesberg REBOUND (Off:0 Def:4),,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,516,2,1,4,8:07 PM,6:05,,,MISS Ohayon 22' Jump Shot,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,517,4,0,4,8:07 PM,6:05,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,519,8,0,4,8:07 PM,6:05,SUB: Price FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,4,201985,AJ Price,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,520,8,0,4,8:07 PM,6:05,,,SUB: Pnini FOR Tyus,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,522,6,4,4,8:08 PM,5:53,Kirk OFF.Foul (P1),,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,523,5,5,4,8:08 PM,5:53,Kirk Foul Turnover (P1.T11),,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011400003,525,9,1,4,8:08 PM,5:53,CAVALIERS Timeout: Regular (Full 4 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,528,8,0,4,8:10 PM,5:53,SUB: Edwards FOR Amundson,,,,,4,200811,Lou Amundson,1610612739.0,Cleveland,Cavaliers,CLE,4,202197,Shane Edwards,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,529,2,1,4,8:10 PM,5:34,,,MISS Pargo 24' 3PT Jump Shot,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,530,4,0,4,8:10 PM,5:33,Edwards REBOUND (Off:0 Def:1),,,,,4,202197,Shane Edwards,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,531,1,5,4,8:11 PM,5:25,Harris 1' Layup (5 PTS),,,68 - 99,31,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,532,1,78,4,8:11 PM,5:06,,,Landesberg 9' Floating Jump Shot (18 PTS) (Pnini 2 AST),70 - 99,29,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,533,1,5,4,8:11 PM,4:38,Harris 2' Layup (7 PTS) (Kirk 1 AST),,,70 - 101,31,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,534,2,1,4,8:12 PM,4:09,,,MISS Pnini 25' 3PT Jump Shot,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,535,4,0,4,8:12 PM,4:08,Kirk REBOUND (Off:0 Def:2),,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,536,1,1,4,8:12 PM,3:48,Jones 25' 3PT Jump Shot (6 PTS) (Edwards 1 AST),,,70 - 104,34,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,4,202197,Shane Edwards,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,537,2,1,4,8:12 PM,3:32,,,MISS Ohayon 25' 3PT Jump Shot,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,538,4,0,4,8:12 PM,3:31,Edwards REBOUND (Off:0 Def:2),,,,,4,202197,Shane Edwards,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,539,5,39,4,8:13 PM,3:19,Edwards Step Out of Bounds Turnover (P1.T12),,,,,4,202197,Shane Edwards,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,540,8,0,4,8:13 PM,3:19,,,SUB: Linhart FOR Maric,,,5,43194,Aleks Maric,41.0,Tel Aviv,Maccabi Electra,MTA,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,541,8,0,4,8:13 PM,3:19,,,SUB: Tyus FOR Ohayon,,,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,542,8,0,4,8:13 PM,3:19,SUB: Crawford FOR Jones,,,,,4,2592,James Jones,1610612739.0,Cleveland,Cavaliers,CLE,4,204039,Chris Crawford,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,543,6,2,4,8:13 PM,3:03,Crawford S.FOUL (P1.T3),,,,,4,204039,Chris Crawford,1610612739.0,Cleveland,Cavaliers,CLE,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,544,3,11,4,8:14 PM,3:03,,,Landesberg Free Throw 1 of 2 (19 PTS),71 - 104,33,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,546,8,0,4,8:14 PM,3:03,,,SUB: Altit FOR Pnini,,,5,43187,Guy Pnini,41.0,Tel Aviv,Maccabi Electra,MTA,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,547,3,12,4,8:14 PM,3:03,,,Landesberg Free Throw 2 of 2 (20 PTS),72 - 104,32,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,550,2,1,4,8:14 PM,2:45,MISS Harris 25' 3PT Jump Shot,,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,551,4,0,4,8:14 PM,2:44,,,Tyus REBOUND (Off:0 Def:4),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,552,6,1,4,8:14 PM,2:39,Harris P.FOUL (P2.T4),,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,553,9,1,4,8:15 PM,2:39,,,Maccabi Electra Timeout: Regular (Reg.4 Short 1),,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,557,2,1,4,8:17 PM,2:26,Kirk BLOCK (1 BLK),,MISS Altit 5' Jump Shot,,,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011400003,558,4,0,4,8:17 PM,2:25,,,Altit REBOUND (Off:1 Def:0),,,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,559,1,1,4,8:17 PM,2:23,,,Landesberg 25' 3PT Jump Shot (23 PTS) (Altit 1 AST),75 - 104,29,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,5,43191,Ben Altit,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,560,2,1,4,8:17 PM,2:03,MISS Harris 16' Jump Shot,,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,561,4,0,4,8:17 PM,2:02,,,Tyus REBOUND (Off:0 Def:5),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,562,6,2,4,8:18 PM,1:55,Kirk S.FOUL (P2.PN),,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,563,3,11,4,8:18 PM,1:55,,,Pargo Free Throw 1 of 2 (17 PTS),76 - 104,28,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,565,3,12,4,8:18 PM,1:55,,,Pargo Free Throw 2 of 2 (18 PTS),77 - 104,27,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,567,1,1,4,8:18 PM,1:40,Harris 25' 3PT Jump Shot (10 PTS) (Crawford 1 AST),,,77 - 107,30,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,4,204039,Chris Crawford,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011400003,568,2,1,4,8:19 PM,1:26,,,MISS Pargo 8' Jump Shot,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,569,4,0,4,8:19 PM,1:26,,,Maccabi Electra Rebound,,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,570,6,3,4,8:19 PM,1:26,Harris L.B.FOUL (P3.PN),,,,,4,203925,Joe Harris,1610612739.0,Cleveland,Cavaliers,CLE,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,571,3,11,4,8:19 PM,1:26,,,MISS Tyus Free Throw 1 of 2,,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,572,4,1,4,8:19 PM,1:26,,,Maccabi Electra Rebound,,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,573,8,0,4,8:19 PM,1:26,,,SUB: Ohayon FOR Pargo,,,5,43181,Jeremy Pargo,41.0,Tel Aviv,Maccabi Electra,MTA,5,43189,Yogev Ohayon,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0
+0011400003,574,3,12,4,8:19 PM,1:26,,,Tyus Free Throw 2 of 2 (13 PTS),78 - 107,29,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,576,2,1,4,8:20 PM,1:10,MISS Price 26' 3PT Jump Shot,,,,,4,201985,AJ Price,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,577,4,0,4,8:20 PM,1:09,,,Tyus REBOUND (Off:0 Def:6),,,5,43186,Alex Tyus,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,578,6,2,4,8:20 PM,0:51,Crawford S.FOUL (P2.PN),,,,,4,204039,Chris Crawford,1610612739.0,Cleveland,Cavaliers,CLE,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,1,0,,,,,,0
+0011400003,579,3,11,4,8:21 PM,0:51,,,Linhart Free Throw 1 of 2 (4 PTS),79 - 107,28,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,581,3,12,4,8:21 PM,0:51,,,Linhart Free Throw 2 of 2 (5 PTS),80 - 107,27,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,583,2,66,4,8:21 PM,0:34,MISS Kirk 13' Jump Bank Shot,,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,584,4,0,4,8:21 PM,0:32,,,Landesberg REBOUND (Off:0 Def:5),,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,585,2,1,4,8:21 PM,0:20,Kirk BLOCK (2 BLK),,MISS Landesberg 4' Jump Shot,,,5,43192,Sylven Landesberg,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,4,203945,Alex Kirk,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011400003,586,4,0,4,8:21 PM,0:20,,,Maccabi Electra Rebound,,,3,41,Anthony Bonner,,,,,0,0,,,,,,0,0,,,,,,0
+0011400003,588,2,1,4,8:22 PM,0:08,,,MISS Linhart 26' 3PT Jump Shot,,,5,43185,Nate Linhart,41.0,Tel Aviv,Maccabi Electra,MTA,0,0,,,,,,0,0,,,,,,0
+0011400003,589,4,0,4,8:22 PM,0:06,Edwards REBOUND (Off:0 Def:3),,,,,4,202197,Shane Edwards,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011400003,590,13,0,4,8:22 PM,0:00,,End of 4th Period (8:22 PM EST),,80 - 107,27,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

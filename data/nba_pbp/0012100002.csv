@@ -1,0 +1,507 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012100002,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,4,10,0,1,7:11 PM,12:00,Jump Ball Achiuwa vs. Drummond: Tip to Maxey,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,7,5,1,1,7:11 PM,11:48,Achiuwa STEAL (1 STL),,Niang Bad Pass Turnover (P1.T1),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,9,5,2,1,7:12 PM,11:45,Barnes Lost Ball Turnover (P1.T1),,Curry STEAL (1 STL),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,11,2,1,1,7:12 PM,11:34,,,MISS Green 3PT Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,12,4,0,1,7:12 PM,11:30,Barnes REBOUND (Off:0 Def:1),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,13,5,2,1,7:12 PM,11:25,Dragic Lost Ball Turnover (P1.T2),,Curry STEAL (2 STL),,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,15,2,73,1,7:12 PM,11:18,,,MISS Niang 2' Driving Reverse Layup,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,16,4,0,1,7:12 PM,11:15,Achiuwa REBOUND (Off:0 Def:1),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,17,5,40,1,7:12 PM,11:03,Achiuwa Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100002,18,2,79,1,7:13 PM,10:40,,,MISS Curry 22' Pullup Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,19,4,0,1,7:13 PM,10:35,,,Maxey REBOUND (Off:1 Def:0),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,20,1,101,1,7:13 PM,10:34,,,Maxey 6' Driving Floating Jump Shot (2 PTS),2 - 0,-2,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0012100002,21,2,79,1,7:13 PM,10:16,MISS VanVleet 25' 3PT Pullup Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,22,4,0,1,7:13 PM,10:14,,,Drummond REBOUND (Off:0 Def:1),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,24,2,1,1,7:14 PM,10:01,Dragic BLOCK (1 BLK),,MISS Curry 15' Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0
+0012100002,26,4,0,1,7:14 PM,9:58,VanVleet REBOUND (Off:0 Def:1),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,27,1,98,1,7:14 PM,9:52,Dragic 2' Cutting Layup Shot (2 PTS) (Barnes 1 AST),,,2 - 2,TIE,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,29,1,93,1,7:14 PM,9:42,,,Drummond 3' Driving Bank Hook Shot (2 PTS),4 - 2,-2,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,30,6,2,1,7:14 PM,9:42,VanVleet S.FOUL (P1.T1) (B.Taylor),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,32,3,10,1,7:14 PM,9:42,,,Drummond Free Throw 1 of 1 (3 PTS),5 - 2,-3,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,33,2,1,1,7:15 PM,9:27,MISS Barnes 25' 3PT Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,34,4,0,1,7:15 PM,9:24,,,Curry REBOUND (Off:0 Def:1),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,35,1,5,1,7:15 PM,9:06,,,Drummond 2' Layup (5 PTS),7 - 2,-5,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,36,6,2,1,7:15 PM,9:06,Barnes S.FOUL (P1.T2) (B.Taylor),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,38,3,10,1,7:15 PM,9:06,,,Drummond Free Throw 1 of 1 (6 PTS),8 - 2,-6,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,39,1,1,1,7:16 PM,8:50,Anunoby 26' 3PT Jump Shot (3 PTS) (VanVleet 1 AST),,,8 - 5,-3,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,41,5,1,1,7:16 PM,8:37,Barnes STEAL (1 STL),,Drummond Bad Pass Turnover (P1.T2),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,43,1,2,1,7:16 PM,8:31,VanVleet 25' 3PT Running Jump Shot (3 PTS) (Barnes 2 AST),,,8 - 8,TIE,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,45,2,102,1,7:16 PM,8:06,,,MISS Maxey 13' Driving Floating Bank Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,46,4,0,1,7:16 PM,8:04,Anunoby REBOUND (Off:0 Def:1),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,47,1,63,1,7:17 PM,7:50,VanVleet 9' Fadeaway Jumper (5 PTS),,,8 - 10,2,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,48,2,1,1,7:17 PM,7:40,,,MISS Maxey 24' 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,49,4,0,1,7:17 PM,7:37,VanVleet REBOUND (Off:0 Def:2),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,50,6,2,1,7:17 PM,7:30,,,Maxey S.FOUL (P1.T1) (A.Nagy),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,52,3,11,1,7:18 PM,7:30,MISS VanVleet Free Throw 1 of 2,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,53,4,1,1,7:18 PM,7:30,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,54,3,12,1,7:18 PM,7:30,MISS VanVleet Free Throw 2 of 2,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,55,4,0,1,7:18 PM,7:28,,,Niang REBOUND (Off:0 Def:1),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,56,2,101,1,7:18 PM,7:18,,,MISS Curry 12' Driving Floating Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,57,4,0,1,7:18 PM,7:16,VanVleet REBOUND (Off:0 Def:3),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,748,2,41,1,7:18 PM,7:14,MISS Barnes 8' Running Layup,,Niang BLOCK (1 BLK),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0
+0012100002,750,4,0,1,7:18 PM,7:11,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,58,10,0,1,7:19 PM,7:11, ,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,2,1610612755,,,,,,1
+0012100002,63,9,1,1,7:19 PM,7:11,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,64,8,0,1,7:21 PM,7:11,,,SUB: Korkmaz FOR Green,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,65,8,0,1,7:21 PM,7:11,,,SUB: Thybulle FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,68,7,5,1,7:22 PM,6:59,Barnes Violation:Kicked Ball (N.Buchert),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0012100002,69,2,78,1,7:22 PM,6:52,,,MISS Thybulle 7' Floating Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,70,4,0,1,7:22 PM,6:49,Achiuwa REBOUND (Off:0 Def:2),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,71,2,2,1,7:22 PM,6:46,MISS Dragic 25' 3PT Running Jump Shot,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,72,4,0,1,7:22 PM,6:43,,,Korkmaz REBOUND (Off:0 Def:1),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,73,1,101,1,7:23 PM,6:25,,,Korkmaz 16' Driving Floating Jump Shot (2 PTS),10 - 10,TIE,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,74,6,2,1,7:23 PM,6:25,Barnes S.FOUL (P2.T3) (N.Buchert),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,76,8,0,1,7:23 PM,6:25,,,SUB: Milton FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,78,3,10,1,7:23 PM,6:25,,,MISS Korkmaz Free Throw 1 of 1,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,79,4,0,1,7:23 PM,6:23,Achiuwa REBOUND (Off:0 Def:3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,80,2,58,1,7:23 PM,6:09,MISS Dragic 6' Turnaround Hook Shot,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,81,4,0,1,7:23 PM,6:06,,,Drummond REBOUND (Off:0 Def:2),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,82,1,63,1,7:23 PM,5:57,,,Curry 7' Fadeaway Jumper (2 PTS) (Drummond 1 AST),12 - 10,-2,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,84,2,80,1,7:24 PM,5:45,MISS Anunoby 18' Step Back Jump Shot,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,85,4,0,1,7:24 PM,5:43,,,Drummond REBOUND (Off:0 Def:3),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,86,1,101,1,7:24 PM,5:36,,,Curry 11' Driving Floating Jump Shot (4 PTS),14 - 10,-4,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,87,2,101,1,7:24 PM,5:19,MISS VanVleet 13' Driving Floating Jump Shot,,Thybulle BLOCK (1 BLK),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,89,4,0,1,7:24 PM,5:16,,,Thybulle REBOUND (Off:0 Def:1),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,90,2,2,1,7:24 PM,5:12,,,MISS Curry 3PT Running Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,91,4,0,1,7:24 PM,5:10,Barnes REBOUND (Off:0 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,92,5,1,1,7:24 PM,5:06,Anunoby Bad Pass Turnover (P1.T4),,Thybulle STEAL (1 STL),,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,94,1,106,1,7:24 PM,5:01,,,Korkmaz Running Alley Oop Dunk Shot (4 PTS) (Curry 1 AST),16 - 10,-6,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,96,6,1,1,7:25 PM,4:49,,,Drummond P.FOUL (P1.T2) (N.Buchert),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,98,8,0,1,7:25 PM,4:49,SUB: Watanabe FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,99,8,0,1,7:25 PM,4:49,SUB: Gillespie FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,100,8,0,1,7:25 PM,4:49,SUB: Mykhailiuk FOR Dragic,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,101,8,0,1,7:25 PM,4:49,,,SUB: Niang FOR Curry,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,106,2,6,1,7:26 PM,4:37,MISS Anunoby 3' Driving Layup,,Drummond BLOCK (1 BLK),,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,108,4,0,1,7:26 PM,4:34,,,Korkmaz REBOUND (Off:0 Def:2),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,109,2,1,1,7:26 PM,4:31,,,MISS Korkmaz 25' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,110,4,0,1,7:26 PM,4:27,,,Drummond REBOUND (Off:1 Def:3),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,111,2,5,1,7:26 PM,4:27,Watanabe BLOCK (1 BLK),,MISS Drummond 2' Layup,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,113,4,0,1,7:26 PM,4:27,,,Drummond REBOUND (Off:2 Def:3),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,114,6,2,1,7:26 PM,4:27,Gillespie S.FOUL (P1.T4) (A.Nagy),,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,116,3,11,1,7:26 PM,4:27,,,Drummond Free Throw 1 of 2 (7 PTS),17 - 10,-7,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,117,3,12,1,7:26 PM,4:27,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,118,4,0,1,7:26 PM,4:24,Watanabe REBOUND (Off:0 Def:1),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,119,2,79,1,7:27 PM,4:11,MISS VanVleet 25' 3PT Pullup Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,120,4,0,1,7:27 PM,4:07,,,Drummond REBOUND (Off:2 Def:4),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,121,6,1,1,7:27 PM,4:02,Gillespie P.FOUL (P2.PN) (B.Taylor),,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,123,3,11,1,7:27 PM,4:02,,,Drummond Free Throw 1 of 2 (8 PTS),18 - 10,-8,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,124,3,12,1,7:28 PM,4:02,,,Drummond Free Throw 2 of 2 (9 PTS),19 - 10,-9,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,125,2,6,1,7:28 PM,3:51,MISS Mykhailiuk 3' Driving Layup,,Drummond BLOCK (2 BLK),,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,126,4,0,1,7:28 PM,3:50,Watanabe REBOUND (Off:1 Def:1),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,127,2,1,1,7:28 PM,3:40,MISS Anunoby 21' Jump Shot,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,128,4,0,1,7:28 PM,3:38,,,Thybulle REBOUND (Off:0 Def:2),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,129,1,52,1,7:29 PM,3:28,,,Drummond 1' Alley Oop Dunk (11 PTS) (Milton 1 AST),21 - 10,-11,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,131,9,1,1,7:29 PM,3:28,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,133,8,0,1,7:30 PM,3:28,,,SUB: Green FOR Drummond,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,136,6,2,1,7:33 PM,3:23,,,Thybulle S.FOUL (P1.T3) (B.Taylor),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,138,3,11,1,7:33 PM,3:23,Mykhailiuk Free Throw 1 of 2 (1 PTS),,,21 - 11,-10,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,139,8,0,1,7:33 PM,3:23,SUB: Banton FOR Gillespie,,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,141,3,12,1,7:34 PM,3:23,Mykhailiuk Free Throw 2 of 2 (2 PTS),,,21 - 12,-9,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,142,2,6,1,7:34 PM,3:10,Watanabe BLOCK (2 BLK),,MISS Milton 5' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,144,4,0,1,7:34 PM,3:06,Banton REBOUND (Off:0 Def:1),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,145,1,75,1,7:34 PM,3:02,Mykhailiuk 1' Driving Finger Roll Layup (4 PTS) (Banton 1 AST),,,21 - 14,-7,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,147,2,1,1,7:34 PM,2:52,,,MISS Thybulle 24' 3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,148,4,0,1,7:34 PM,2:49,VanVleet REBOUND (Off:0 Def:4),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,149,1,50,1,7:34 PM,2:45,Watanabe 1' Running Dunk (2 PTS) (VanVleet 2 AST),,,21 - 16,-5,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,151,6,1,1,7:35 PM,2:35,VanVleet P.FOUL (P2.PN) (N.Buchert),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,153,3,11,1,7:35 PM,2:35,,,MISS Niang Free Throw 1 of 2,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,154,4,1,1,7:35 PM,2:35,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,155,3,12,1,7:35 PM,2:35,,,Niang Free Throw 2 of 2 (1 PTS),22 - 16,-6,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,156,6,2,1,7:36 PM,2:22,,,Niang S.FOUL (P1.T4) (A.Nagy),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,158,3,11,1,7:36 PM,2:22,Anunoby Free Throw 1 of 2 (4 PTS),,,22 - 17,-5,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,159,3,12,1,7:36 PM,2:22,Anunoby Free Throw 2 of 2 (5 PTS),,,22 - 18,-4,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,170,8,0,1,7:36 PM,2:22,SUB: Champagnie FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,206,8,0,1,7:36 PM,2:22,,,SUB: Reed FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,160,2,79,1,7:36 PM,2:07,,,MISS Korkmaz 12' Pullup Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,161,4,0,1,7:36 PM,2:05,Banton REBOUND (Off:0 Def:2),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,162,1,76,1,7:37 PM,2:02,Banton 3' Running Finger Roll Layup (2 PTS),,,22 - 20,-2,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,163,6,2,1,7:37 PM,2:02,,,Reed S.FOUL (P1.PN) (N.Buchert),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,303,8,0,1,7:37 PM,2:02,SUB: Barnes FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,167,3,10,1,7:37 PM,2:02,MISS Banton Free Throw 1 of 1,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,168,4,0,1,7:37 PM,1:58,Champagnie REBOUND (Off:1 Def:0),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,169,1,79,1,7:37 PM,1:47,Barnes 21' Pullup Jump Shot (2 PTS),,,22 - 22,TIE,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,177,2,6,1,7:38 PM,1:26,Banton BLOCK (1 BLK),,MISS Milton 7' Driving Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,179,4,0,1,7:38 PM,1:26,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,180,1,5,1,7:38 PM,1:23,,,Korkmaz 2' Layup (6 PTS) (Milton 2 AST),24 - 22,-2,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,182,6,2,1,7:38 PM,1:23,Banton S.FOUL (P1.PN) (N.Buchert),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,184,3,10,1,7:39 PM,1:23,,,Korkmaz Free Throw 1 of 1 (7 PTS),25 - 22,-3,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,185,1,1,1,7:39 PM,1:08,Watanabe 24' 3PT Jump Shot (5 PTS) (Mykhailiuk 1 AST),,,25 - 25,TIE,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,188,5,4,1,7:40 PM,0:51,,,Milton Traveling Turnover (P1.T3),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,189,2,1,1,7:40 PM,0:27,MISS Champagnie 3PT Jump Shot,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,190,4,0,1,7:40 PM,0:26,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,191,6,3,1,7:41 PM,0:26,,,Thybulle L.B.FOUL (P2.PN) (N.Buchert),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,193,3,11,1,7:41 PM,0:26,MISS Barnes Free Throw 1 of 2,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,194,4,1,1,7:41 PM,0:26,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,199,3,12,1,7:41 PM,0:26,Barnes Free Throw 2 of 2 (3 PTS),,,25 - 26,1,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,195,8,0,1,7:41 PM,0:26,,,SUB: Maxey FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,196,8,0,1,7:41 PM,0:26,,,SUB: Curry FOR Reed,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,200,2,75,1,7:42 PM,0:05,,,MISS Milton 1' Driving Finger Roll Layup,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,201,4,0,1,7:42 PM,0:03,Watanabe REBOUND (Off:1 Def:2),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,202,2,41,1,7:42 PM,0:00,MISS Barnes 3' Running Layup,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,203,4,0,1,7:42 PM,0:00,Mykhailiuk REBOUND (Off:1 Def:0),,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,204,1,97,1,7:42 PM,0:00,Mykhailiuk Tip Layup Shot (6 PTS),,,25 - 28,3,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,205,13,0,1,7:42 PM,0:00,,End of 1st Period (7:42 PM EST),,25 - 28,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100002,212,12,0,2,7:45 PM,12:00,,Start of 2nd Period (7:45 PM EST),,25 - 28,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,213,1,9,2,7:45 PM,11:46,Barnes 2' Driving Dunk (5 PTS) (Watanabe 1 AST),,,25 - 30,5,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,215,2,79,2,7:45 PM,11:23,,,MISS Korkmaz 25' 3PT Pullup Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,216,4,0,2,7:45 PM,11:19,Champagnie REBOUND (Off:1 Def:1),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,217,1,101,2,7:46 PM,11:06,Champagnie 8' Driving Floating Jump Shot (2 PTS) (Barnes 3 AST),,,25 - 32,7,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,219,2,1,2,7:46 PM,10:48,,,MISS Reed 25' 3PT Jump Shot,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,220,4,0,2,7:46 PM,10:46,Watanabe REBOUND (Off:1 Def:3),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,221,2,5,2,7:46 PM,10:38,MISS Champagnie 4' Layup,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,222,4,0,2,7:46 PM,10:38,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,223,6,3,2,7:46 PM,10:38,Champagnie L.B.FOUL (P1.T1) (B.Taylor),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,225,5,1,2,7:47 PM,10:23,Champagnie STEAL (1 STL),,Reed Bad Pass Turnover (P1.T4),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,227,2,1,2,7:47 PM,10:15,MISS Champagnie 25' 3PT Jump Shot,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,228,4,0,2,7:47 PM,10:13,Mykhailiuk REBOUND (Off:2 Def:0),,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,229,1,5,2,7:47 PM,10:09,Barnes 2' Layup (7 PTS) (Banton 2 AST),,,25 - 34,9,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,231,2,79,2,7:47 PM,10:01,,,MISS Green 24' 3PT Pullup Jump Shot,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,232,4,0,2,7:47 PM,9:59,,,Reed REBOUND (Off:1 Def:0),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,233,2,1,2,7:47 PM,9:57,,,MISS Korkmaz 25' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,234,4,0,2,7:47 PM,9:53,Banton REBOUND (Off:0 Def:3),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,235,1,50,2,7:47 PM,9:48,Watanabe 1' Running Dunk (7 PTS) (Barnes 4 AST),,,25 - 36,11,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,237,9,1,2,7:47 PM,9:48,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,239,8,0,2,7:49 PM,9:48,,,SUB: Drummond FOR Green,,,5,201980,Danny Green,1610612755.0,Philadelphia,76ers,PHI,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,240,8,0,2,7:49 PM,9:48,,,SUB: Niang FOR Reed,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,241,8,0,2,7:49 PM,9:48,,,SUB: Curry FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,245,1,79,2,7:51 PM,9:30,,,Niang 20' Pullup Jump Shot (3 PTS) (Milton 3 AST),27 - 36,9,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,247,1,98,2,7:51 PM,9:19,Champagnie 2' Cutting Layup Shot (4 PTS) (Barnes 5 AST),,,27 - 38,11,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,249,6,2,2,7:51 PM,9:19,,,Niang S.FOUL (P2.T1) (B.Taylor),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,251,8,0,2,7:51 PM,9:19,,,SUB: Maxey FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,253,3,10,2,7:51 PM,9:19,Champagnie Free Throw 1 of 1 (5 PTS),,,27 - 39,12,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,254,5,1,2,7:51 PM,9:15,Barnes STEAL (2 STL),,Drummond Bad Pass Turnover (P2.T5),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,256,1,50,2,7:51 PM,9:15,Banton 1' Running Dunk (4 PTS) (Champagnie 1 AST),,,27 - 41,14,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,258,2,1,2,7:52 PM,8:59,,,MISS Korkmaz 24' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,259,4,0,2,7:52 PM,8:57,Champagnie REBOUND (Off:1 Def:2),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,260,1,101,2,7:52 PM,8:52,Champagnie 3' Driving Floating Jump Shot (7 PTS) (Mykhailiuk 2 AST),,,27 - 43,16,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,262,6,2,2,7:52 PM,8:47,Barnes S.FOUL (P3.T2) (B.Taylor),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,264,3,11,2,7:52 PM,8:47,,,Drummond Free Throw 1 of 2 (12 PTS),28 - 43,15,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,267,3,12,2,7:52 PM,8:47,,,Drummond Free Throw 2 of 2 (13 PTS),29 - 43,14,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,265,8,0,2,7:52 PM,8:47,SUB: Achiuwa FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,381,2,79,2,7:52 PM,8:39,MISS Achiuwa 17' Pullup Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,382,4,0,2,7:53 PM,8:35,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,271,2,6,2,7:53 PM,8:22,Achiuwa BLOCK (1 BLK),,MISS Maxey 2' Driving Layup,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,273,4,0,2,7:53 PM,8:19,,,Drummond REBOUND (Off:3 Def:4),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,274,1,57,2,7:53 PM,8:17,,,Drummond 1' Driving Hook Shot (15 PTS),31 - 43,12,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,275,6,2,2,7:54 PM,8:10,,,Curry S.FOUL (P1.T2) (B.Taylor),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,277,3,11,2,7:54 PM,8:10,Mykhailiuk Free Throw 1 of 2 (7 PTS),,,31 - 44,13,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,280,3,12,2,7:54 PM,8:10,MISS Mykhailiuk Free Throw 2 of 2,,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012100002,278,8,0,2,7:54 PM,8:10,,,SUB: Joe FOR Korkmaz,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,281,4,0,2,7:54 PM,8:06,,,Drummond REBOUND (Off:3 Def:5),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0012100002,282,5,2,2,7:54 PM,8:04,Champagnie STEAL (2 STL),,Drummond Lost Ball Turnover (P3.T6),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,284,1,1,2,7:54 PM,8:00,Mykhailiuk 25' 3PT Jump Shot (10 PTS) (Champagnie 2 AST),,,31 - 47,16,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,286,5,1,2,7:55 PM,7:44,,,Maxey Bad Pass Turnover (P1.T7),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,287,1,1,2,7:55 PM,7:30,Champagnie 24' 3PT Jump Shot (10 PTS) (Banton 3 AST),,,31 - 50,19,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,291,2,1,2,7:55 PM,7:15,,,MISS Niang 25' 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,292,4,0,2,7:55 PM,7:12,,,Joe REBOUND (Off:1 Def:0),,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,294,1,75,2,7:56 PM,7:04,,,Maxey 10' Driving Finger Roll Layup (4 PTS),33 - 50,17,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,295,1,79,2,7:56 PM,6:55,Achiuwa 14' Pullup Jump Shot (2 PTS),,,33 - 52,19,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,296,2,80,2,7:56 PM,6:35,,,MISS Maxey 20' Step Back Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,297,4,0,2,7:56 PM,6:30,,,Drummond REBOUND (Off:4 Def:5),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,298,2,97,2,7:56 PM,6:30,,,MISS Drummond Tip Layup Shot,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,299,4,0,2,7:56 PM,6:28,Champagnie REBOUND (Off:1 Def:3),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,300,5,1,2,7:56 PM,6:25,Banton Bad Pass Turnover (P1.T5),,Niang STEAL (1 STL),,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,302,1,98,2,7:57 PM,6:12,,,Drummond 1' Cutting Layup Shot (17 PTS) (Maxey 1 AST),35 - 52,17,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,306,1,1,2,7:57 PM,5:51,Achiuwa 25' 3PT Jump Shot (5 PTS) (Mykhailiuk 3 AST),,,35 - 55,20,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,308,6,1,2,7:57 PM,5:39,Champagnie P.FOUL (P2.T3) (N.Buchert),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,310,8,0,2,7:57 PM,5:39,SUB: Anunoby FOR Champagnie,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,311,8,0,2,7:57 PM,5:39,SUB: VanVleet FOR Watanabe,,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,314,1,1,2,7:58 PM,5:29,,,Curry 29' 3PT Jump Shot (7 PTS) (Niang 1 AST),38 - 55,17,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,315,5,2,2,7:58 PM,5:24,Banton Lost Ball Turnover (P2.T6),,Joe STEAL (1 STL),,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,317,1,1,2,7:58 PM,5:17,,,Maxey 3' Jump Shot (6 PTS) (Joe 1 AST),40 - 55,15,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,318,2,6,2,7:58 PM,5:08,MISS Achiuwa 6' Driving Layup,,Drummond BLOCK (3 BLK),,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,320,4,0,2,7:58 PM,5:05,,,Drummond REBOUND (Off:4 Def:6),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,321,1,1,2,7:58 PM,5:01,,,Curry 24' 3PT Jump Shot (10 PTS),43 - 55,12,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,322,5,1,2,7:58 PM,4:44,VanVleet Bad Pass Turnover (P1.T7),,Joe STEAL (2 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,324,2,103,2,7:59 PM,4:37,,,MISS Maxey 20' Running Pull-Up Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,325,4,0,2,7:59 PM,4:34,Achiuwa REBOUND (Off:0 Def:4),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,326,6,1,2,7:59 PM,4:31,,,Curry P.FOUL (P2.T3) (B.Taylor),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,328,2,80,2,7:59 PM,4:22,MISS VanVleet 25' 3PT Step Back Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,329,4,0,2,7:59 PM,4:19,,,Drummond REBOUND (Off:4 Def:7),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,330,2,80,2,7:59 PM,4:10,,,MISS Curry 16' Step Back Jump Shot,,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,331,4,0,2,7:59 PM,4:07,Banton REBOUND (Off:0 Def:4),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,332,5,1,2,8:00 PM,4:04,Banton Bad Pass Turnover (P3.T8),,Curry STEAL (3 STL),,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,334,5,1,2,8:00 PM,3:48,Banton STEAL (1 STL),,Maxey Bad Pass Turnover (P2.T8),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,336,1,50,2,8:00 PM,3:42,Achiuwa 1' Running Dunk (7 PTS) (Mykhailiuk 4 AST),,,43 - 57,14,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,338,1,63,2,8:00 PM,3:22,,,Niang 6' Fadeaway Jumper (5 PTS),45 - 57,12,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,340,9,1,2,8:01 PM,3:13,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,341,8,0,2,8:01 PM,3:13,SUB: Dragic FOR Banton,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,343,1,1,2,8:03 PM,3:01,Dragic 3PT Jump Shot (5 PTS) (VanVleet 3 AST),,,45 - 60,15,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,345,1,1,2,8:04 PM,2:38,,,Joe 24' 3PT Jump Shot (3 PTS) (Curry 2 AST),48 - 60,12,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,347,2,1,2,8:04 PM,2:23,MISS Dragic 26' 3PT Jump Shot,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,348,4,0,2,8:04 PM,2:18,Anunoby REBOUND (Off:1 Def:1),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,349,1,97,2,8:04 PM,2:18,Anunoby Tip Layup Shot (7 PTS),,,48 - 62,14,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,350,1,57,2,8:04 PM,2:08,,,Curry 10' Driving Hook Shot (12 PTS),50 - 62,12,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,351,2,102,2,8:05 PM,1:55,MISS VanVleet 9' Driving Floating Bank Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,352,4,0,2,8:05 PM,1:52,,,Drummond REBOUND (Off:4 Def:8),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,353,1,75,2,8:05 PM,1:38,,,Curry 8' Driving Finger Roll Layup (14 PTS) (Maxey 2 AST),52 - 62,10,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,355,6,1,2,8:05 PM,1:32,,,Curry P.FOUL (P3.T4) (B.Taylor),,,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,357,8,0,2,8:05 PM,1:32,,,SUB: Milton FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,358,8,0,2,8:05 PM,1:32,,,SUB: Thybulle FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,361,2,79,2,8:06 PM,1:23,MISS VanVleet 17' Pullup Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,362,4,0,2,8:06 PM,1:19,,,Drummond REBOUND (Off:4 Def:9),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,363,2,1,2,8:06 PM,1:09,,,MISS Milton 24' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,364,4,0,2,8:06 PM,1:07,Mykhailiuk REBOUND (Off:2 Def:1),,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,365,1,6,2,8:06 PM,1:00,Anunoby 2' Driving Layup (9 PTS) (Mykhailiuk 5 AST),,,52 - 64,12,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,367,1,108,2,8:06 PM,0:48,,,Joe 1' Cutting Dunk Shot (5 PTS) (Drummond 2 AST),54 - 64,10,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,369,1,79,2,8:06 PM,0:43,Mykhailiuk 25' 3PT Pullup Jump Shot (13 PTS) (VanVleet 4 AST),,,54 - 67,13,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,370,5,45,2,8:07 PM,0:33,,,Milton Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,371,2,79,2,8:07 PM,0:29,MISS VanVleet 27' 3PT Pullup Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,372,4,0,2,8:07 PM,0:27,Achiuwa REBOUND (Off:1 Def:4),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,373,5,1,2,8:07 PM,0:25,Achiuwa Bad Pass Turnover (P2.T9),,Curry STEAL (4 STL),,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,375,7,5,2,8:07 PM,0:07,Mykhailiuk Violation:Kicked Ball (N.Buchert),,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0012100002,376,6,1,2,8:07 PM,0:05,Mykhailiuk P.FOUL (P1.T4) (N.Buchert),,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,5,203552,Seth Curry,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,378,2,1,2,8:08 PM,0:00,,,MISS Thybulle 3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,379,4,0,2,8:08 PM,0:00,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,380,13,0,2,8:08 PM,0:00,,End of 2nd Period (8:08 PM EST),,54 - 67,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100002,389,12,0,3,8:23 PM,12:00,,Start of 3rd Period (8:23 PM EST),,54 - 67,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,390,2,86,3,8:24 PM,11:40,MISS Anunoby 10' Turnaround Fadeaway Shot,,Drummond BLOCK (4 BLK),,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,392,4,0,3,8:24 PM,11:37,Barnes REBOUND (Off:1 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,393,1,108,3,8:24 PM,11:36,Achiuwa Cutting Dunk Shot (9 PTS) (Barnes 6 AST),,,54 - 69,15,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,395,2,75,3,8:24 PM,11:18,,,MISS Drummond 1' Driving Finger Roll Layup,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,396,4,0,3,8:24 PM,11:18,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,398,5,1,3,8:24 PM,11:05,VanVleet Bad Pass Turnover (P2.T10),,Niang STEAL (2 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,400,5,1,3,8:25 PM,10:56,VanVleet STEAL (1 STL),,Niang Bad Pass Turnover (P2.T10),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,408,2,6,3,8:25 PM,10:53,MISS Anunoby 1' Driving Layup,,Joe BLOCK (1 BLK),,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,410,4,0,3,8:25 PM,10:53,Barnes REBOUND (Off:2 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,456,2,72,3,8:25 PM,10:52,MISS Barnes 4' Putback Layup,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,457,4,0,3,8:25 PM,10:50,Dragic REBOUND (Off:1 Def:0),,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,402,1,1,3,8:25 PM,10:43,Dragic 26' 3PT Jump Shot (8 PTS) (VanVleet 5 AST),,,54 - 72,18,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,403,5,2,3,8:25 PM,10:26,Dragic STEAL (1 STL),,Drummond Lost Ball Turnover (P4.T11),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,405,1,100,3,8:25 PM,10:21,Barnes 1' Running Alley Oop Layup Shot (9 PTS) (VanVleet 6 AST),,,54 - 74,20,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,407,9,1,3,8:25 PM,10:21,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,413,5,1,3,8:28 PM,10:09,Achiuwa STEAL (2 STL),,Maxey Bad Pass Turnover (P3.T12),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,415,1,50,3,8:28 PM,10:05,Anunoby 1' Running Dunk (11 PTS) (VanVleet 7 AST),,,54 - 76,22,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,418,2,1,3,8:29 PM,9:50,,,MISS Thybulle 25' 3PT Jump Shot,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,419,4,0,3,8:29 PM,9:47,Achiuwa REBOUND (Off:1 Def:5),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,420,1,103,3,8:29 PM,9:43,Achiuwa 22' Running Pull-Up Jump Shot (11 PTS),,,54 - 78,24,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,421,2,1,3,8:29 PM,9:27,,,MISS Joe 25' 3PT Jump Shot,,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,422,4,0,3,8:29 PM,9:24,Anunoby REBOUND (Off:1 Def:2),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,423,6,4,3,8:29 PM,9:10,Achiuwa OFF.Foul (P1) (B.Taylor),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,425,5,37,3,8:29 PM,9:10,Achiuwa Offensive Foul Turnover (P3.T11),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100002,426,1,6,3,8:30 PM,8:58,,,Maxey 4' Driving Layup (8 PTS),56 - 78,22,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,428,7,1,3,8:30 PM,8:57,,,76ers Violation: Delay of game Violation,,,3,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100002,429,6,18,3,8:30 PM,8:57,,,76ers Delay,,,3,1610612755,,,,,,0,0,,,,,,1,0,,,,,,1
+0012100002,430,3,16,3,8:30 PM,8:57,VanVleet Free Throw Technical (6 PTS),,,56 - 79,23,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,431,2,1,3,8:31 PM,8:41,MISS VanVleet 24' 3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,432,4,0,3,8:31 PM,8:40,Barnes REBOUND (Off:3 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,433,6,1,3,8:31 PM,8:40,,,Niang P.FOUL (P3.T1) (A.Nagy),,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,435,5,1,3,8:31 PM,8:32,VanVleet Bad Pass Turnover (P3.T12),,Maxey STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,437,2,1,3,8:31 PM,8:27,Barnes BLOCK (1 BLK),,MISS Niang 3PT Jump Shot,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,439,4,0,3,8:31 PM,8:23,Achiuwa REBOUND (Off:1 Def:6),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,440,1,41,3,8:32 PM,8:20,Achiuwa 2' Running Layup (13 PTS),,,56 - 81,25,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,441,1,75,3,8:32 PM,8:02,,,Maxey 1' Driving Finger Roll Layup (10 PTS) (Drummond 3 AST),58 - 81,23,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,443,6,1,3,8:32 PM,7:54,,,Thybulle P.FOUL (P3.T2) (B.Taylor),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,445,8,0,3,8:32 PM,7:54,,,SUB: Milton FOR Niang,,,5,1627777,Georges Niang,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,447,6,2,3,8:33 PM,7:47,,,Thybulle S.FOUL (P4.T3) (B.Taylor),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,449,3,11,3,8:33 PM,7:47,Anunoby Free Throw 1 of 2 (12 PTS),,,58 - 82,24,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,450,8,0,3,8:33 PM,7:47,,,SUB: Korkmaz FOR Joe,,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,452,3,12,3,8:33 PM,7:47,Anunoby Free Throw 2 of 2 (13 PTS),,,58 - 83,25,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,453,2,1,3,8:34 PM,7:25,,,MISS Maxey 3PT Jump Shot,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,454,4,0,3,8:34 PM,7:22,Barnes REBOUND (Off:3 Def:3),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,455,1,79,3,8:34 PM,7:12,Anunoby 25' 3PT Pullup Jump Shot (16 PTS),,,58 - 86,28,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,458,6,1,3,8:34 PM,6:53,Anunoby P.FOUL (P1.T1) (B.Taylor),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,460,5,1,3,8:35 PM,6:47,VanVleet STEAL (2 STL),,Drummond Bad Pass Turnover (P5.T13),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,462,1,50,3,8:35 PM,6:44,Barnes 1' Running Dunk (11 PTS) (Anunoby 1 AST),,,58 - 88,30,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,464,2,1,3,8:35 PM,6:22,,,MISS Korkmaz 25' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,465,4,0,3,8:35 PM,6:20,,,Korkmaz REBOUND (Off:1 Def:2),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,466,2,1,3,8:35 PM,6:19,,,MISS Korkmaz 8' Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,467,4,0,3,8:35 PM,6:19,,,Drummond REBOUND (Off:5 Def:9),,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,468,1,97,3,8:35 PM,6:15,,,Drummond Tip Layup Shot (19 PTS),60 - 88,28,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,469,2,79,3,8:35 PM,6:05,MISS Dragic 3PT Pullup Jump Shot,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,470,4,0,3,8:35 PM,6:03,,,Thybulle REBOUND (Off:0 Def:3),,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,471,1,41,3,8:35 PM,5:58,,,Thybulle 2' Running Layup (2 PTS) (Maxey 3 AST),62 - 88,26,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,473,9,1,3,8:36 PM,5:58,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,475,8,0,3,8:37 PM,5:58,SUB: Flynn FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,476,8,0,3,8:37 PM,5:58,SUB: Banton FOR Dragic,,,,,4,201609,Goran Dragic,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,477,8,0,3,8:37 PM,5:58,,,SUB: Reed FOR Drummond,,,5,203083,Andre Drummond,1610612755.0,Philadelphia,76ers,PHI,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,481,2,43,3,8:39 PM,5:39,MISS Achiuwa 2' Alley Oop Layup,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,482,4,0,3,8:39 PM,5:34,VanVleet REBOUND (Off:1 Def:4),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,483,1,97,3,8:39 PM,5:34,VanVleet Tip Layup Shot (8 PTS),,,62 - 90,28,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,484,6,4,3,8:39 PM,5:26,,,Maxey OFF.Foul (P2) (B.Taylor),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,486,5,37,3,8:39 PM,5:26,,,Maxey Offensive Foul Turnover (P4.T14),,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,487,1,98,3,8:40 PM,5:13,Anunoby 2' Cutting Layup Shot (18 PTS) (VanVleet 8 AST),,,62 - 92,30,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,489,1,6,3,8:40 PM,4:59,,,Reed 2' Driving Layup (2 PTS),64 - 92,28,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,491,2,80,3,8:41 PM,4:34,MISS Flynn 25' 3PT Step Back Jump Shot,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,492,4,0,3,8:41 PM,4:33,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,493,5,11,3,8:41 PM,4:33,RAPTORS Turnover: Shot Clock (T#13),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100002,494,8,0,3,8:41 PM,4:33,,,SUB: Riller FOR Maxey,,,5,1630178,Tyrese Maxey,1610612755.0,Philadelphia,76ers,PHI,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,496,2,5,3,8:41 PM,4:18,Banton BLOCK (2 BLK),,MISS Reed 9' Layup,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,498,4,0,3,8:41 PM,4:14,,,Reed REBOUND (Off:2 Def:0),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,499,2,5,3,8:41 PM,4:13,Achiuwa BLOCK (2 BLK),,MISS Korkmaz 2' Layup,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,501,4,0,3,8:41 PM,4:13,VanVleet REBOUND (Off:1 Def:5),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,502,5,1,3,8:42 PM,4:04,Banton Bad Pass Turnover (P4.T14),,Thybulle STEAL (2 STL),,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,504,6,2,3,8:42 PM,4:02,Banton S.FOUL (P2.T2) (A.Nagy),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,506,3,11,3,8:42 PM,4:02,,,Thybulle Free Throw 1 of 2 (3 PTS),65 - 92,27,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,507,8,0,3,8:42 PM,4:02,SUB: Champagnie FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,509,3,12,3,8:42 PM,4:02,,,Thybulle Free Throw 2 of 2 (4 PTS),66 - 92,26,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,510,1,1,3,8:43 PM,3:48,Anunoby 25' 3PT Jump Shot (21 PTS) (Banton 4 AST),,,66 - 95,29,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,512,1,1,3,8:43 PM,3:29,,,Milton 24' 3PT Jump Shot (3 PTS) (Korkmaz 1 AST),69 - 95,26,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,514,5,45,3,8:43 PM,3:16,Achiuwa Out of Bounds - Bad Pass Turnover Turnover (P4.T15),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100002,515,8,0,3,8:43 PM,3:16,SUB: Gillespie FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,517,1,101,3,8:44 PM,3:07,,,Korkmaz 6' Driving Floating Jump Shot (9 PTS) (Milton 4 AST),71 - 95,24,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,519,6,2,3,8:44 PM,3:07,Gillespie S.FOUL (P3.T3) (N.Buchert),,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,521,3,10,3,8:44 PM,3:07,,,Korkmaz Free Throw 1 of 1 (10 PTS),72 - 95,23,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,523,8,0,3,8:45 PM,2:57,SUB: Mykhailiuk FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,525,6,1,3,8:45 PM,2:48,,,Reed P.FOUL (P2.T4) (N.Buchert),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,527,1,1,3,8:46 PM,2:37,Flynn 25' 3PT Jump Shot (3 PTS) (Champagnie 3 AST),,,72 - 98,26,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,529,6,2,3,8:46 PM,2:25,Champagnie S.FOUL (P3.T4) (N.Buchert),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,531,3,11,3,8:46 PM,2:25,,,Thybulle Free Throw 1 of 2 (5 PTS),73 - 98,25,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,532,3,12,3,8:46 PM,2:25,,,MISS Thybulle Free Throw 2 of 2,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,533,4,0,3,8:46 PM,2:22,Champagnie REBOUND (Off:1 Def:4),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,534,2,6,3,8:47 PM,2:18,MISS Banton 1' Driving Layup,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,535,4,0,3,8:47 PM,2:15,Banton REBOUND (Off:1 Def:4),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,536,1,72,3,8:47 PM,2:14,Banton 1' Putback Layup (6 PTS),,,73 - 100,27,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,537,2,1,3,8:47 PM,1:57,,,MISS Riller 3PT Jump Shot,,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,538,4,0,3,8:47 PM,1:53,,,Korkmaz REBOUND (Off:2 Def:2),,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,539,2,1,3,8:47 PM,1:42,,,MISS Korkmaz 25' 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,540,4,0,3,8:47 PM,1:40,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,542,5,2,3,8:48 PM,1:31,Flynn Lost Ball Turnover (P1.T16),,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,543,6,3,3,8:48 PM,1:31,Flynn L.B.FOUL (P1.PN) (N.Buchert),,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,545,3,11,3,8:48 PM,1:31,,,Riller Free Throw 1 of 2 (1 PTS),74 - 100,26,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0012100002,548,3,12,3,8:48 PM,1:31,,,MISS Riller Free Throw 2 of 2,,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,546,8,0,3,8:48 PM,1:31,,,SUB: Joe FOR Thybulle,,,5,1629680,Matisse Thybulle,1610612755.0,Philadelphia,76ers,PHI,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,549,4,0,3,8:48 PM,1:25,Champagnie REBOUND (Off:1 Def:5),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,550,2,86,3,8:49 PM,1:15,MISS Mykhailiuk 6' Turnaround Fadeaway Shot,,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,551,4,0,3,8:49 PM,1:12,,,Joe REBOUND (Off:1 Def:1),,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,552,2,79,3,8:49 PM,1:01,,,MISS Riller 17' Pullup Jump Shot,,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,553,4,0,3,8:49 PM,0:58,,,Reed REBOUND (Off:3 Def:0),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,554,2,1,3,8:49 PM,0:47,,,MISS Korkmaz 3PT Jump Shot,,,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,555,4,0,3,8:49 PM,0:45,,,Reed REBOUND (Off:4 Def:0),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,556,5,11,3,8:49 PM,0:45,,,76ers Turnover: Shot Clock (T#15),,,3,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100002,557,2,1,3,8:50 PM,0:31,MISS Mykhailiuk 3PT Jump Shot,,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,558,4,0,3,8:50 PM,0:28,,,Milton REBOUND (Off:0 Def:1),,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,559,1,1,3,8:50 PM,0:08,,,Korkmaz 3PT Jump Shot (13 PTS) (Milton 5 AST),77 - 100,23,5,1627788,Furkan Korkmaz,1610612755.0,Philadelphia,76ers,PHI,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,561,2,1,3,8:50 PM,0:01,MISS Mykhailiuk 25' 3PT Jump Shot,,Reed BLOCK (1 BLK),,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,563,4,0,3,8:50 PM,0:01,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,564,13,0,3,8:50 PM,0:00,,End of 3rd Period (8:50 PM EST),,77 - 100,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100002,569,12,0,4,8:53 PM,12:00,,Start of 4th Period (8:53 PM EST),,77 - 100,23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,570,2,1,4,8:53 PM,11:40,,,MISS Milton 25' 3PT Jump Shot,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,571,4,0,4,8:53 PM,11:38,Watanabe REBOUND (Off:1 Def:4),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,572,2,6,4,8:53 PM,11:31,MISS Watanabe 1' Driving Layup,,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,573,4,0,4,8:53 PM,11:28,Watanabe REBOUND (Off:2 Def:4),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,574,2,97,4,8:53 PM,11:28,MISS Watanabe Tip Layup Shot,,Reed BLOCK (2 BLK),,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,576,4,0,4,8:53 PM,11:26,,,Reed REBOUND (Off:4 Def:1),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,577,2,1,4,8:54 PM,11:21,,,MISS Reed 3PT Jump Shot,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,578,4,0,4,8:54 PM,11:18,Watanabe REBOUND (Off:2 Def:5),,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,579,2,1,4,8:54 PM,11:11,MISS Flynn 3PT Jump Shot,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,580,4,0,4,8:54 PM,11:06,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,581,6,3,4,8:54 PM,11:06,,,Reed L.B.FOUL (P3.T1) (A.Nagy),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,583,8,0,4,8:54 PM,11:06,,,SUB: Harrison FOR Milton,,,5,1629003,Shake Milton,1610612755.0,Philadelphia,76ers,PHI,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,585,2,79,4,8:54 PM,10:53,MISS Banton 25' 3PT Pullup Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,586,4,0,4,8:54 PM,10:52,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,587,5,11,4,8:55 PM,10:52,RAPTORS Turnover: Shot Clock (T#17),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100002,588,1,6,4,8:55 PM,10:32,,,Riller 2' Driving Layup (3 PTS),79 - 100,21,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,589,1,1,4,8:55 PM,10:22,Watanabe 24' 3PT Jump Shot (10 PTS) (Flynn 1 AST),,,79 - 103,24,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,591,9,1,4,8:55 PM,10:20,,,76ers Timeout: Regular (Reg.4 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,592,2,1,4,8:58 PM,10:09,,,MISS Joe 3PT Jump Shot,,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,593,4,0,4,8:58 PM,10:06,,,Springer REBOUND (Off:1 Def:0),,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,594,1,5,4,8:58 PM,9:59,,,Harrison 2' Layup (2 PTS) (Springer 1 AST),81 - 103,22,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,596,6,2,4,8:59 PM,9:59,Champagnie S.FOUL (P4.T1) (N.Buchert),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,598,3,10,4,8:59 PM,9:59,,,MISS Harrison Free Throw 1 of 1,,,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,599,4,0,4,8:59 PM,9:57,Mykhailiuk REBOUND (Off:2 Def:2),,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,634,2,6,4,8:59 PM,9:50,MISS Mykhailiuk 5' Driving Layup,,Riller BLOCK (1 BLK),,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,636,4,0,4,8:59 PM,9:49,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,601,5,21,4,8:59 PM,9:44,,,Springer Palming Turnover (P1.T16),,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,602,2,5,4,9:00 PM,9:29,MISS Flynn 7' Layup,,Reed BLOCK (3 BLK),,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,604,4,0,4,9:00 PM,9:26,,,Joe REBOUND (Off:1 Def:2),,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,605,5,4,4,9:00 PM,9:22,,,Riller Traveling Turnover (P1.T17),,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,606,2,73,4,9:00 PM,9:13,MISS Banton 1' Driving Reverse Layup,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,607,4,0,4,9:00 PM,9:11,,,Reed REBOUND (Off:4 Def:2),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,608,5,1,4,9:00 PM,9:08,Watanabe STEAL (1 STL),,Riller Bad Pass Turnover (P2.T18),,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,610,2,2,4,9:01 PM,9:04,MISS Champagnie 24' 3PT Running Jump Shot,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,611,4,0,4,9:01 PM,9:02,,,Reed REBOUND (Off:4 Def:3),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,612,6,1,4,9:01 PM,8:54,Flynn P.FOUL (P2.T2) (A.Nagy),,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,614,8,0,4,9:01 PM,8:54,SUB: Barnes FOR Flynn,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,616,8,0,4,9:01 PM,8:54,SUB: Johnson FOR Mykhailiuk,,,,,4,1629004,Svi Mykhailiuk,1610612761.0,Toronto,Raptors,TOR,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,618,2,75,4,9:02 PM,8:43,,,MISS Harrison 1' Driving Finger Roll Layup,,,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,619,4,0,4,9:02 PM,8:41,Johnson REBOUND (Off:0 Def:1),,,,,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,620,2,1,4,9:02 PM,8:30,MISS Johnson 3PT Jump Shot,,,,,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,621,4,0,4,9:02 PM,8:27,Champagnie REBOUND (Off:2 Def:5),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,622,2,5,4,9:02 PM,8:26,MISS Champagnie 1' Layup,,Harrison BLOCK (1 BLK),,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,1
+0012100002,624,4,0,4,9:02 PM,8:26,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,625,6,3,4,9:02 PM,8:26,Champagnie L.B.FOUL (P5.T3) (A.Nagy),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,627,1,75,4,9:02 PM,8:14,,,Springer 2' Driving Finger Roll Layup (2 PTS),83 - 103,20,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,628,5,4,4,9:03 PM,8:02,Johnson Traveling Turnover (P1.T18),,,,,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100002,629,1,5,4,9:03 PM,7:52,,,Riller 1' Layup (5 PTS),85 - 103,18,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,630,5,1,4,9:03 PM,7:47,Banton Bad Pass Turnover (P5.T19),,Joe STEAL (3 STL),,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,632,1,103,4,9:03 PM,7:43,,,Joe 26' 3PT Running Pull-Up Jump Shot (8 PTS),88 - 103,15,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,633,9,1,4,9:03 PM,7:43,RAPTORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,639,1,5,4,9:07 PM,7:20,Champagnie 1' Layup (12 PTS) (Watanabe 2 AST),,,88 - 105,17,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,640,7,2,4,9:07 PM,7:20,,,Reed Violation:Defensive Goaltending (B.Taylor),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,641,1,1,4,9:07 PM,7:02,,,Joe 26' 3PT Jump Shot (11 PTS) (Springer 2 AST),91 - 105,14,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,643,2,6,4,9:07 PM,6:51,MISS Johnson 4' Driving Layup,,,,,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,644,4,0,4,9:07 PM,6:51,Barnes REBOUND (Off:4 Def:3),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,645,1,3,4,9:07 PM,6:51,Barnes 6' Hook Shot (13 PTS),,,91 - 107,16,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,646,1,79,4,9:08 PM,6:39,,,Springer 16' Pullup Jump Shot (4 PTS),93 - 107,14,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,647,2,80,4,9:08 PM,6:21,MISS Watanabe 19' Step Back Jump Shot,,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,648,4,0,4,9:08 PM,6:18,Champagnie REBOUND (Off:3 Def:5),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,650,8,0,4,9:08 PM,6:18,SUB: Bonga FOR Banton,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,651,8,0,4,9:08 PM,6:18,SUB: Flynn FOR Watanabe,,,,,4,1629139,Yuta Watanabe,1610612761.0,Toronto,Raptors,TOR,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,655,1,86,4,9:09 PM,6:10,Johnson 10' Turnaround Fadeaway (2 PTS),,,93 - 109,16,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,656,6,1,4,9:09 PM,6:00,Flynn P.FOUL (P3.T4) (N.Buchert),,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,658,2,6,4,9:09 PM,5:48,,,MISS Springer 2' Driving Layup,,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,659,4,0,4,9:09 PM,5:44,,,Reed REBOUND (Off:5 Def:3),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,660,1,97,4,9:09 PM,5:44,,,Reed Tip Layup Shot (4 PTS),95 - 109,14,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,661,1,1,4,9:10 PM,5:39,Flynn 25' 3PT Jump Shot (6 PTS) (Johnson 1 AST),,,95 - 112,17,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,663,6,1,4,9:10 PM,5:28,Barnes P.FOUL (P4.PN) (B.Taylor),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,665,3,11,4,9:10 PM,5:28,,,Joe Free Throw 1 of 2 (12 PTS),96 - 112,16,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,666,3,12,4,9:10 PM,5:28,,,Joe Free Throw 2 of 2 (13 PTS),97 - 112,15,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,667,5,1,4,9:11 PM,5:15,Barnes Bad Pass Turnover (P2.T20),,Reed STEAL (1 STL),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,669,2,1,4,9:11 PM,5:08,,,MISS Joe 26' 3PT Jump Shot,,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,670,4,0,4,9:11 PM,5:05,,,Reed REBOUND (Off:6 Def:3),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,671,2,58,4,9:11 PM,5:04,,,MISS Springer 4' Turnaround Hook Shot,,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,673,4,0,4,9:11 PM,5:04,Bonga REBOUND (Off:0 Def:1),,,,,4,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,674,1,41,4,9:11 PM,4:58,Bonga Running Layup (2 PTS),,,97 - 114,17,4,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,675,9,1,4,9:11 PM,4:57,,,76ers Timeout: Regular (Reg.5 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,676,2,80,4,9:13 PM,4:40,,,MISS Joe 25' 3PT Step Back Jump Shot,,,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,677,4,0,4,9:13 PM,4:36,Johnson REBOUND (Off:0 Def:2),,,,,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,678,1,1,4,9:13 PM,4:22,Champagnie 3PT Jump Shot (15 PTS) (Bonga 1 AST),,,97 - 117,20,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,680,2,63,4,9:13 PM,4:07,,,MISS Springer 6' Fadeaway Jumper,,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,681,4,0,4,9:14 PM,4:04,Champagnie REBOUND (Off:3 Def:6),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,682,2,63,4,9:14 PM,3:48,MISS Flynn 14' Fadeaway Jumper,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,683,4,0,4,9:14 PM,3:45,Champagnie REBOUND (Off:4 Def:6),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,684,1,72,4,9:14 PM,3:44,Champagnie 3' Putback Layup (17 PTS),,,97 - 119,22,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,685,1,75,4,9:14 PM,3:31,,,Harrison 3' Driving Finger Roll Layup (4 PTS),99 - 119,20,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,686,5,1,4,9:14 PM,3:05,Barnes Bad Pass Turnover (P3.T21),,Harrison STEAL (1 STL),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,688,2,6,4,9:15 PM,3:02,Barnes BLOCK (2 BLK),,MISS Harrison 12' Driving Layup,,,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0012100002,689,4,0,4,9:15 PM,3:02,Barnes REBOUND (Off:4 Def:4),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,690,5,2,4,9:15 PM,2:55,Barnes Lost Ball Turnover (P4.T22),,Reed STEAL (2 STL),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,692,2,5,4,9:15 PM,2:48,,,MISS Reed 5' Layup,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,693,4,0,4,9:15 PM,2:44,Barnes REBOUND (Off:4 Def:5),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,694,2,1,4,9:15 PM,2:43,MISS Johnson 22' Jump Shot,,,,,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,696,4,0,4,9:15 PM,2:39,,,Reed REBOUND (Off:6 Def:4),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,697,1,6,4,9:15 PM,2:37,,,Riller 1' Driving Layup (7 PTS),101 - 119,18,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,699,9,1,4,9:16 PM,2:37,RAPTORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,700,8,0,4,9:16 PM,2:37,SUB: Dekker FOR Champagnie,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,701,8,0,4,9:16 PM,2:37,SUB: Wainright FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,702,8,0,4,9:16 PM,2:37,SUB: Gillespie FOR Flynn,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012100002,703,8,0,4,9:16 PM,2:37,,,SUB: Henry FOR Riller,,,5,1630203,Grant Riller,1610612755.0,Philadelphia,76ers,PHI,5,1630565,Aaron Henry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0012100002,708,1,6,4,9:17 PM,2:16,Dekker 1' Driving Layup (2 PTS),,,101 - 121,20,4,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,709,2,58,4,9:17 PM,1:56,,,MISS Springer 2' Turnaround Hook Shot,,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,710,4,0,4,9:17 PM,1:53,,,Henry REBOUND (Off:1 Def:0),,,5,1630565,Aaron Henry,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,711,1,1,4,9:17 PM,1:42,,,Joe 25' 3PT Jump Shot (16 PTS) (Harrison 1 AST),104 - 121,17,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,713,2,1,4,9:18 PM,1:19,MISS Gillespie 15' Jump Shot,,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,714,4,0,4,9:18 PM,1:18,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,715,6,3,4,9:18 PM,1:18,Wainright L.B.FOUL (P1.PN) (B.Taylor),,,,,4,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,717,3,11,4,9:18 PM,1:18,,,MISS Harrison Free Throw 1 of 2,,,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,718,4,1,4,9:18 PM,1:18,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,719,3,12,4,9:19 PM,1:18,,,Harrison Free Throw 2 of 2 (5 PTS),105 - 121,16,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,720,5,2,4,9:19 PM,1:07,Dekker Lost Ball Turnover (P1.T23),,Springer STEAL (1 STL),,,4,1626155,Sam Dekker,1610612761.0,Toronto,Raptors,TOR,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1
+0012100002,722,2,41,4,9:19 PM,1:02,,,MISS Harrison 3' Running Layup,,,5,1627885,Shaquille Harrison,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,723,4,0,4,9:19 PM,1:00,Gillespie REBOUND (Off:0 Def:1),,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,726,6,1,4,9:19 PM,1:00,,,Reed P.FOUL (P4.T2) (A.Nagy),,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012100002,729,1,108,4,9:20 PM,0:48,Gillespie 1' Cutting Dunk Shot (2 PTS) (Johnson 2 AST),,,105 - 123,18,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,4,1630525,David Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012100002,731,2,6,4,9:20 PM,0:36,,,MISS Reed 5' Driving Layup,,,5,1630194,Paul Reed,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,732,4,0,4,9:20 PM,0:34,Bonga REBOUND (Off:0 Def:2),,,,,4,1629067,Isaac Bonga,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,733,2,1,4,9:20 PM,0:30,MISS Wainright 25' 3PT Jump Shot,,,,,4,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012100002,734,4,0,4,9:20 PM,0:27,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100002,735,6,3,4,9:20 PM,0:27,Gillespie L.B.FOUL (P4.PN) (B.Taylor),,,,,4,1630273,Freddie Gillespie,1610612761.0,Toronto,Raptors,TOR,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,737,3,11,4,9:21 PM,0:27,,,Joe Free Throw 1 of 2 (17 PTS),106 - 123,17,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,738,3,12,4,9:21 PM,0:27,,,Joe Free Throw 2 of 2 (18 PTS),107 - 123,16,5,1630198,Isaiah Joe,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,1
+0012100002,739,6,4,4,9:21 PM,0:19,Wainright OFF.Foul (P2) (A.Nagy),,,,,4,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,1
+0012100002,741,5,37,4,9:21 PM,0:19,Wainright Offensive Foul Turnover (P1.T24),,,,,4,1630688,Ish Wainright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012100002,742,5,40,4,9:21 PM,0:10,,,Springer Out of Bounds Lost Ball Turnover (P2.T19),,,5,1630531,Jaden Springer,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,1
+0012100002,743,13,0,4,9:22 PM,0:00,,End of 4th Period (9:22 PM EST),,107 - 123,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

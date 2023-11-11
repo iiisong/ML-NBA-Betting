@@ -1,0 +1,568 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400014,0,12,0,1,8:42 PM,12:00,,Start of 1st Period (8:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,1,10,0,1,8:42 PM,12:00,Jump Ball Chandler vs. Howard: Tip to Jones,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0
+0011400014,2,6,1,1,8:42 PM,11:45,Nelson P.FOUL (P1.T1),,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,3,2,77,1,8:42 PM,11:39,Parsons BLOCK (1 BLK),,MISS Howard 6' Driving Jump Shot,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,4,4,0,1,8:42 PM,11:39,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,5,1,1,1,8:43 PM,11:36,,,Harden 16' Jump Shot (2 PTS) (Ariza 1 AST),2 - 0,-2,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,6,2,78,1,8:43 PM,11:11,MISS Ellis 13' Floating Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,7,4,0,1,8:43 PM,11:10,,,Howard REBOUND (Off:0 Def:1),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,8,1,50,1,8:43 PM,11:05,,,Harden  Running Dunk (4 PTS) (Howard 1 AST),4 - 0,-4,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,9,6,4,1,8:43 PM,10:55,Chandler OFF.Foul (P1),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,10,5,5,1,8:43 PM,10:55,Chandler Foul Turnover (P1.T1),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,11,2,58,1,8:44 PM,10:38,,,MISS Howard 11' Turnaround Hook Shot,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,12,4,0,1,8:44 PM,10:37,Nelson REBOUND (Off:0 Def:1),,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,13,2,44,1,8:44 PM,10:31,MISS Aminu 2' Reverse Layup,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,14,4,0,1,8:44 PM,10:30,,,Beverley REBOUND (Off:0 Def:1),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,15,1,1,1,8:44 PM,10:13,,,Ariza 16' Jump Shot (2 PTS),6 - 0,-6,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,16,6,1,1,8:45 PM,9:57,,,Harden P.FOUL (P1.T1),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,17,1,75,1,8:45 PM,9:51,Ellis 2' Driving Finger Roll Layup (2 PTS),,,6 - 2,-4,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,18,6,27,1,8:45 PM,9:45,Nelson Personal Block Foul (P2.T2),,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,19,8,0,1,8:45 PM,9:45,SUB: Harris FOR Nelson,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,20,1,75,1,8:46 PM,9:38,,,Ariza 3' Driving Finger Roll Layup (4 PTS),8 - 2,-6,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,21,1,1,1,8:46 PM,9:24,Chandler 19' Jump Shot (2 PTS) (Parsons 1 AST),,,8 - 4,-4,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,22,2,1,1,8:46 PM,9:08,,,MISS Howard 14' Jump Shot,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,23,4,0,1,8:46 PM,9:07,Parsons REBOUND (Off:0 Def:1),,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,24,6,2,1,8:46 PM,9:00,,,Jones S.FOUL (P1.T2),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,25,3,11,1,8:47 PM,9:00,Parsons Free Throw 1 of 2 (1 PTS),,,8 - 5,-3,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,27,3,12,1,8:47 PM,9:00,Parsons Free Throw 2 of 2 (2 PTS),,,8 - 6,-2,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,30,2,58,1,8:47 PM,8:40,,,MISS Howard 6' Turnaround Hook Shot,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,31,4,0,1,8:47 PM,8:39,Harris REBOUND (Off:0 Def:1),,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,32,1,44,1,8:48 PM,8:34,Parsons 2' Reverse Layup (4 PTS) (Harris 1 AST),,,8 - 8,TIE,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,33,1,66,1,8:48 PM,8:25,,,Ariza 2' Jump Bank Shot (6 PTS),10 - 8,-2,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,34,1,80,1,8:48 PM,8:07,Harris 23' Step Back Jump Shot (2 PTS),,,10 - 10,TIE,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,35,6,2,1,8:48 PM,7:45,Chandler S.FOUL (P2.T3),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,36,3,11,1,8:49 PM,7:45,,,Howard Free Throw 1 of 2 (1 PTS),11 - 10,-1,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,38,8,0,1,8:49 PM,7:45,SUB: Smith FOR Chandler,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,39,3,12,1,8:49 PM,7:45,,,MISS Howard Free Throw 2 of 2,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,41,4,0,1,8:49 PM,7:45,Aminu REBOUND (Off:0 Def:1),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,43,2,86,1,8:49 PM,7:34,MISS Parsons 15' Turnaround Fadeaway Shot,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,44,4,0,1,8:49 PM,7:33,,,Howard REBOUND (Off:0 Def:2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,45,6,1,1,8:50 PM,7:28,Smith P.FOUL (P1.T4),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,46,2,42,1,8:50 PM,7:24,Aminu BLOCK (1 BLK),,MISS Beverley 2' Driving Layup,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,47,4,0,1,8:50 PM,7:22,,,Howard REBOUND (Off:1 Def:2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,48,2,1,1,8:50 PM,7:18,,,MISS Ariza 25' 3PT Jump Shot,,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,49,4,0,1,8:50 PM,7:17,Aminu REBOUND (Off:0 Def:2),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,50,6,2,1,8:50 PM,7:14,,,Ariza S.FOUL (P1.T3),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,51,3,11,1,8:50 PM,7:14,Parsons Free Throw 1 of 2 (5 PTS),,,11 - 11,TIE,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,53,3,12,1,8:51 PM,7:14,Parsons Free Throw 2 of 2 (6 PTS),,,11 - 12,1,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,56,6,1,1,8:51 PM,6:58,Smith P.FOUL (P2.PN),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,57,3,11,1,8:51 PM,6:58,,,MISS Howard Free Throw 1 of 2,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,58,4,1,1,8:51 PM,6:58,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,59,3,12,1,8:52 PM,6:58,,,Howard Free Throw 2 of 2 (2 PTS),12 - 12,TIE,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,61,6,1,1,8:52 PM,6:48,,,Beverley P.FOUL (P1.T4),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,62,2,1,1,8:53 PM,6:41,MISS Ellis 19' Jump Shot,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,63,4,0,1,8:53 PM,6:40,,,Beverley REBOUND (Off:0 Def:2),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,65,6,2,1,8:53 PM,6:29,Smith S.FOUL (P3.PN),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,66,3,11,1,8:53 PM,6:29,,,MISS Jones Free Throw 1 of 2,,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,67,4,1,1,8:53 PM,6:29,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,68,8,0,1,8:53 PM,6:29,SUB: Wright FOR Smith,,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,69,3,12,1,8:53 PM,6:29,,,Jones Free Throw 2 of 2 (1 PTS),13 - 12,-1,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,72,5,37,1,8:54 PM,6:16,Wright Offensive Foul Turnover (P1.T2),,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,73,6,3,1,8:54 PM,6:16,Wright L.B.FOUL (P1.PN),,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,75,3,11,1,8:55 PM,6:16,,,MISS Ariza Free Throw 1 of 2,,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,76,4,1,1,8:55 PM,6:16,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,82,8,0,1,8:55 PM,6:16,SUB: Crowder FOR Aminu,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,77,3,12,1,8:55 PM,6:16,,,MISS Ariza Free Throw 2 of 2,,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,79,4,0,1,8:55 PM,6:15,,,Howard REBOUND (Off:2 Def:2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,80,2,5,1,8:55 PM,6:11,Wright BLOCK (1 BLK),,MISS Howard 2' Layup,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,81,4,0,1,8:55 PM,6:08,,,Beverley REBOUND (Off:1 Def:2),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,83,5,4,1,8:55 PM,6:00,,,Beverley Traveling Turnover (P1.T1),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,84,9,1,1,8:55 PM,6:00,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,88,5,1,1,8:58 PM,5:48,Harris Bad Pass Turnover (P1.T3),,Harden STEAL (1 STL),,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,89,6,29,1,8:58 PM,5:45,Ellis Shooting Block Foul (P1.PN),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,90,3,11,1,8:59 PM,5:45,,,Harden Free Throw 1 of 2 (5 PTS),14 - 12,-2,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,92,3,12,1,8:59 PM,5:45,,,Harden Free Throw 2 of 2 (6 PTS),15 - 12,-3,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,94,1,1,1,8:59 PM,5:27,Parsons  3PT Jump Shot (9 PTS) (Ellis 1 AST),,,15 - 15,TIE,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,95,6,4,1,8:59 PM,5:20,,,Howard OFF.Foul (P1),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,96,5,5,1,8:59 PM,5:20,,,Howard Foul Turnover (P1.T2),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,97,1,1,1,9:00 PM,5:04,Wright 3' Jump Shot (2 PTS) (Ellis 2 AST),,,15 - 17,2,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,98,6,26,1,9:00 PM,4:54,,,Howard Offensive Charge Foul (P2.PN),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,99,5,5,1,9:00 PM,4:54,,,Howard Foul Turnover (P2.T3),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,100,8,0,1,9:00 PM,4:54,,,SUB: Black FOR Beverley,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,101,8,0,1,9:00 PM,4:54,,,SUB: Smith FOR Howard,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,102,8,0,1,9:01 PM,4:54,SUB: Felton FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,104,2,1,1,9:01 PM,4:30,MISS Parsons 28' 3PT Jump Shot,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,105,4,0,1,9:01 PM,4:29,,,Smith REBOUND (Off:0 Def:1),,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,106,5,8,1,9:02 PM,4:16,,,Black 3 Second Violation Turnover (P1.T4),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,107,8,0,1,9:02 PM,4:16,SUB: Villanueva FOR Parsons,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,108,5,1,1,9:02 PM,4:07,Felton Bad Pass Turnover (P1.T4),,Harden STEAL (2 STL),,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,109,1,41,1,9:02 PM,4:02,,,Harden 1' Running Layup (8 PTS),17 - 17,TIE,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,110,6,2,1,9:03 PM,3:44,,,Black S.FOUL (P1.PN),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,111,3,11,1,9:03 PM,3:44,Wright Free Throw 1 of 2 (3 PTS),,,17 - 18,1,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,113,8,0,1,9:03 PM,3:44,,,SUB: Motiejunas FOR Jones,,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,114,3,12,1,9:03 PM,3:44,Wright Free Throw 2 of 2 (4 PTS),,,17 - 19,2,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,117,1,58,1,9:04 PM,3:20,,,Motiejunas 6' Turnaround Hook Shot (2 PTS),19 - 19,TIE,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,118,6,2,1,9:04 PM,3:00,,,Black S.FOUL (P2.PN),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,119,3,11,1,9:04 PM,3:00,Villanueva Free Throw 1 of 2 (1 PTS),,,19 - 20,1,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,121,3,12,1,9:05 PM,3:00,Villanueva Free Throw 2 of 2 (2 PTS),,,19 - 21,2,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,123,6,2,1,9:05 PM,2:42,Harris S.FOUL (P1.PN),,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,124,9,1,1,9:05 PM,2:42,,,Rockets Timeout: Regular (Reg.1 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,127,8,0,1,9:07 PM,2:42,,,SUB: Papanikolaou FOR Ariza,,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,128,3,11,1,9:08 PM,2:42,,,MISS Harden Free Throw 1 of 2,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,129,4,1,1,9:08 PM,2:42,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,130,3,12,1,9:08 PM,2:42,,,Harden Free Throw 2 of 2 (9 PTS),20 - 21,1,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,132,5,1,1,9:08 PM,2:38,Crowder Bad Pass Turnover (P1.T5),,Smith STEAL (1 STL),,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,133,2,5,1,9:08 PM,2:34,,,MISS Harden 1' Layup,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,134,4,0,1,9:08 PM,2:32,,,Motiejunas REBOUND (Off:1 Def:0),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,135,5,40,1,9:09 PM,2:17,,,Black Out of Bounds Lost Ball Turnover (P2.T5),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,136,8,0,1,9:09 PM,2:17,,,SUB: Johnson FOR Harden,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,138,2,1,1,9:09 PM,1:58,MISS Villanueva 20' Jump Shot,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,139,4,0,1,9:09 PM,1:54,,,Johnson REBOUND (Off:0 Def:1),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,143,1,47,1,9:10 PM,1:53,,,Motiejunas 6' Turnaround Jump Shot (4 PTS),22 - 21,-1,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,144,6,2,1,9:10 PM,1:53,Villanueva S.FOUL (P1.PN),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,141,3,10,1,9:10 PM,1:53,,,Motiejunas Free Throw 1 of 1 (5 PTS),23 - 21,-2,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,145,1,1,1,9:10 PM,1:33,Villanueva  3PT Jump Shot (5 PTS) (Harris 2 AST),,,23 - 24,1,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,146,2,5,1,9:10 PM,1:27,,,MISS Smith 3' Layup,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,147,4,0,1,9:10 PM,1:27,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,148,6,3,1,9:11 PM,1:27,Villanueva L.B.FOUL (P2.PN),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,149,3,11,1,9:11 PM,1:27,,,MISS Motiejunas Free Throw 1 of 2,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,150,4,1,1,9:11 PM,1:27,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,151,3,12,1,9:11 PM,1:27,,,MISS Motiejunas Free Throw 2 of 2,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,153,4,0,1,9:11 PM,1:25,Crowder REBOUND (Off:0 Def:1),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,155,6,27,1,9:11 PM,1:18,,,Motiejunas Personal Block Foul (P1.PN),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,156,3,11,1,9:12 PM,1:18,Harris Free Throw 1 of 2 (3 PTS),,,23 - 25,2,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,158,8,0,1,9:12 PM,1:18,SUB: Johnson FOR Villanueva,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,160,3,12,1,9:12 PM,1:18,MISS Harris Free Throw 2 of 2,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,163,4,0,1,9:12 PM,1:16,,,Smith REBOUND (Off:0 Def:2),,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,165,5,4,1,9:12 PM,1:02,,,Smith Traveling Turnover (P1.T6),,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,167,2,1,1,9:13 PM,0:39,MISS Harris 24' 3PT Jump Shot,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,168,4,0,1,9:13 PM,0:39,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,169,6,3,1,9:13 PM,0:39,,,Black L.B.FOUL (P3.PN),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,170,3,11,1,9:13 PM,0:39,Johnson Free Throw 1 of 2 (1 PTS),,,23 - 26,3,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,173,3,12,1,9:14 PM,0:39,Johnson Free Throw 2 of 2 (2 PTS),,,23 - 27,4,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,176,1,42,1,9:14 PM,0:32,,,Smith  Driving Layup (2 PTS),25 - 27,2,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,178,1,79,1,9:14 PM,0:18,Felton 23' Pullup Jump Shot (2 PTS) (Crowder 1 AST),,,25 - 29,4,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,179,2,1,1,9:15 PM,0:00,,,MISS Motiejunas 20' Jump Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,181,4,0,1,9:15 PM,0:00,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,182,2,1,1,9:15 PM,0:00,,,MISS Smith 28' 3PT Jump Shot,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,183,4,0,1,9:15 PM,0:00,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,184,13,0,1,9:15 PM,0:00,,End of 1st Period (9:15 PM EST),,25 - 29,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,186,12,0,2,9:18 PM,12:00,,Start of 2nd Period (9:18 PM EST),,25 - 29,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,187,2,1,2,9:18 PM,11:41,MISS Johnson 21' Jump Shot,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,188,4,0,2,9:18 PM,11:40,,,Motiejunas REBOUND (Off:1 Def:1),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,189,2,1,2,9:19 PM,11:28,,,MISS Motiejunas 7' Jump Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,190,4,0,2,9:19 PM,11:27,Chandler REBOUND (Off:0 Def:1),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,191,2,79,2,9:19 PM,11:21,MISS Nelson 24' 3PT Pullup Jump Shot,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,192,4,0,2,9:19 PM,11:20,,,Black REBOUND (Off:0 Def:1),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,193,2,1,2,9:19 PM,11:11,,,MISS Papanikolaou 24' 3PT Jump Shot,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,194,4,0,2,9:19 PM,11:10,,,Black REBOUND (Off:1 Def:1),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,195,6,3,2,9:19 PM,11:10,Chandler L.B.FOUL (P3.T1),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,196,6,4,2,9:19 PM,11:05,,,Black OFF.Foul (P4),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,197,5,5,2,9:19 PM,11:05,,,Black Foul Turnover (P3.T7),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,198,8,0,2,9:20 PM,11:05,,,SUB: Howard FOR Black,,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,199,2,1,2,9:20 PM,10:52,MISS Nelson 6' Jump Shot,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,201,4,0,2,9:20 PM,10:50,Chandler REBOUND (Off:1 Def:1),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,200,2,72,2,9:20 PM,10:50,MISS Chandler 3' Putback Layup,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,202,4,0,2,9:20 PM,10:46,Nelson REBOUND (Off:1 Def:1),,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,203,2,1,2,9:20 PM,10:38,MISS Crowder 16' Jump Shot,,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,204,4,0,2,9:20 PM,10:36,,,Papanikolaou REBOUND (Off:0 Def:1),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,205,6,1,2,9:21 PM,10:33,Johnson P.FOUL (P1.T2),,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,206,6,1,2,9:21 PM,10:20,Johnson P.FOUL (P2.T3),,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,208,6,2,2,9:22 PM,10:15,Chandler S.FOUL (P4.T4),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,210,3,11,2,9:22 PM,10:15,,,Howard Free Throw 1 of 2 (3 PTS),26 - 29,3,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,213,8,0,2,9:22 PM,10:15,SUB: Smith FOR Chandler,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,214,3,12,2,9:22 PM,10:15,,,Howard Free Throw 2 of 2 (4 PTS),27 - 29,2,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,216,5,1,2,9:23 PM,9:56,Felton Bad Pass Turnover (P2.T6),,Smith STEAL (2 STL),,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,217,5,4,2,9:23 PM,9:51,,,Johnson Traveling Turnover (P1.T8),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,219,6,29,2,9:23 PM,9:43,,,Johnson Shooting Block Foul (P1.T1),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,220,3,11,2,9:23 PM,9:43,Felton Free Throw 1 of 2 (3 PTS),,,27 - 30,3,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,222,3,12,2,9:24 PM,9:43,MISS Felton Free Throw 2 of 2,,,,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,224,4,0,2,9:24 PM,9:42,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,225,6,3,2,9:24 PM,9:42,,,Motiejunas L.B.FOUL (P2.T2),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,227,2,1,2,9:24 PM,9:29,MISS Johnson 25' 3PT Jump Shot,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,228,4,0,2,9:25 PM,9:28,Smith REBOUND (Off:1 Def:0),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,229,1,72,2,9:25 PM,9:26,Smith 1' Putback Layup (2 PTS),,,27 - 32,5,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,230,7,5,2,9:25 PM,9:13,Johnson Violation:Kicked Ball,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,231,6,4,2,9:25 PM,9:03,,,Howard OFF.Foul (P3),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,232,5,5,2,9:25 PM,9:03,,,Howard Foul Turnover (P3.T9),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,233,1,1,2,9:26 PM,8:48,Nelson 25' 3PT Jump Shot (3 PTS) (Smith 1 AST),,,27 - 35,8,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,234,6,2,2,9:26 PM,8:37,Johnson S.FOUL (P3.PN),,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,235,9,4,2,9:26 PM,8:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,238,8,0,2,9:28 PM,8:37,SUB: Parsons FOR Felton,,,,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,239,8,0,2,9:28 PM,8:37,SUB: Ellis FOR Johnson,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,240,3,11,2,9:29 PM,8:37,,,MISS Smith Free Throw 1 of 2,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,241,4,1,2,9:29 PM,8:37,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,242,3,12,2,9:29 PM,8:37,,,MISS Smith Free Throw 2 of 2,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,244,4,0,2,9:29 PM,8:36,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,246,6,2,2,9:30 PM,8:20,,,Howard S.FOUL (P4.T3),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,247,3,11,2,9:30 PM,8:20,Parsons Free Throw 1 of 2 (10 PTS),,,27 - 36,9,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,249,8,0,2,9:30 PM,8:20,,,SUB: Adrien FOR Howard,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,250,3,12,2,9:30 PM,8:20,Parsons Free Throw 2 of 2 (11 PTS),,,27 - 37,10,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,252,5,11,2,9:31 PM,7:55,,,Rockets Turnover: Shot Clock (T#10),,,3,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400014,253,2,77,2,9:31 PM,7:38,MISS Nelson 9' Driving Jump Shot,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,254,4,0,2,9:31 PM,7:37,Nelson REBOUND (Off:2 Def:1),,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,255,6,2,2,9:32 PM,7:30,,,Johnson S.FOUL (P2.T4),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,256,3,11,2,9:32 PM,7:30,Ellis Free Throw 1 of 2 (3 PTS),,,27 - 38,11,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,258,8,0,2,9:32 PM,7:30,SUB: Aminu FOR Crowder,,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,259,8,0,2,9:32 PM,7:30,,,SUB: Jones FOR Motiejunas,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,260,3,12,2,9:32 PM,7:30,Ellis Free Throw 2 of 2 (4 PTS),,,27 - 39,12,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,263,1,79,2,9:33 PM,7:23,,,Johnson 15' Pullup Jump Shot (2 PTS) (Adrien 1 AST),29 - 39,10,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,264,6,2,2,9:33 PM,7:23,Ellis S.FOUL (P2.PN),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,265,3,10,2,9:33 PM,7:23,,,MISS Johnson Free Throw 1 of 1,,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,267,4,0,2,9:33 PM,7:22,Smith REBOUND (Off:1 Def:1),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,268,5,1,2,9:33 PM,7:13,Ellis Bad Pass Turnover (P1.T7),,Johnson STEAL (1 STL),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,269,2,42,2,9:33 PM,7:08,,,MISS Johnson 2' Driving Layup,,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,271,4,0,2,9:33 PM,7:07,,,Smith REBOUND (Off:1 Def:2),,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,270,1,72,2,9:33 PM,7:07,,,Smith 2' Putback Layup (4 PTS),31 - 39,8,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,272,5,2,2,9:33 PM,7:00,Parsons Lost Ball Turnover (P1.T8),,Johnson STEAL (2 STL),,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,273,1,76,2,9:33 PM,6:54,,,Smith  Running Finger Roll Layup (6 PTS) (Johnson 1 AST),33 - 39,6,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,274,9,1,2,9:34 PM,6:52,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,278,6,29,2,9:36 PM,6:36,,,Jones Shooting Block Foul (P2.PN),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,279,3,11,2,9:37 PM,6:36,Ellis Free Throw 1 of 2 (5 PTS),,,33 - 40,7,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,281,3,12,2,9:37 PM,6:36,MISS Ellis Free Throw 2 of 2,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,283,4,0,2,9:37 PM,6:36,,,Jones REBOUND (Off:0 Def:1),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,285,2,86,2,9:37 PM,6:27,,,MISS Jones 6' Turnaround Fadeaway Shot,,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,286,4,0,2,9:37 PM,6:26,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,288,6,3,2,9:38 PM,6:26,,,Adrien L.B.FOUL (P1.PN),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,289,3,11,2,9:38 PM,6:26,Smith Free Throw 1 of 2 (3 PTS),,,33 - 41,8,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,291,3,12,2,9:38 PM,6:26,Smith Free Throw 2 of 2 (4 PTS),,,33 - 42,9,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,294,2,1,2,9:39 PM,6:03,,,MISS Johnson  3PT Jump Shot,,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,295,4,0,2,9:39 PM,6:01,,,Adrien REBOUND (Off:1 Def:0),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,296,1,72,2,9:39 PM,6:01,,,Adrien 2' Putback Layup (2 PTS),35 - 42,7,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,297,6,2,2,9:39 PM,6:01,Smith S.FOUL (P4.PN),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,298,8,0,2,9:39 PM,6:01,SUB: James FOR Smith,,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,299,8,0,2,9:39 PM,6:01,,,SUB: Beverley FOR Smith,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,300,8,0,2,9:39 PM,6:01,,,SUB: Harden FOR Johnson,,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,301,3,10,2,9:40 PM,6:01,,,Adrien Free Throw 1 of 1 (3 PTS),36 - 42,6,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,304,1,1,2,9:40 PM,5:42,Parsons 26' 3PT Jump Shot (14 PTS) (Nelson 1 AST),,,36 - 45,9,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,305,2,47,2,9:40 PM,5:26,James BLOCK (1 BLK),,MISS Adrien 7' Turnaround Jump Shot,,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,306,4,0,2,9:40 PM,5:24,Aminu REBOUND (Off:0 Def:3),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,307,5,1,2,9:40 PM,5:14,Nelson Bad Pass Turnover (P1.T9),,Beverley STEAL (1 STL),,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,308,2,1,2,9:41 PM,5:05,,,MISS Papanikolaou  3PT Jump Shot,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,309,4,0,2,9:41 PM,5:05,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,310,6,3,2,9:41 PM,5:05,Aminu L.B.FOUL (P1.PN),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,311,3,11,2,9:41 PM,5:05,,,Jones Free Throw 1 of 2 (2 PTS),37 - 45,8,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,313,8,0,2,9:41 PM,5:05,SUB: Harris FOR Nelson,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,314,8,0,2,9:41 PM,5:05,,,SUB: Ariza FOR Papanikolaou,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,315,3,12,2,9:41 PM,5:05,,,Jones Free Throw 2 of 2 (3 PTS),38 - 45,7,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,318,6,1,2,9:42 PM,4:47,,,Harden P.FOUL (P2.PN),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,319,3,11,2,9:42 PM,4:47,Aminu Free Throw 1 of 2 (1 PTS),,,38 - 46,8,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,321,3,12,2,9:43 PM,4:47,MISS Aminu Free Throw 2 of 2,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,323,4,0,2,9:43 PM,4:47,,,Ariza REBOUND (Off:0 Def:1),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,324,5,2,2,9:43 PM,4:26,Aminu STEAL (1 STL),,Jones Lost Ball Turnover (P1.T11),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,325,6,1,2,9:43 PM,4:25,,,Jones P.FOUL (P3.PN),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,326,3,11,2,9:44 PM,4:25,Aminu Free Throw 1 of 2 (2 PTS),,,38 - 47,9,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,328,3,12,2,9:44 PM,4:25,Aminu Free Throw 2 of 2 (3 PTS),,,38 - 48,10,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,331,2,1,2,9:44 PM,4:10,James BLOCK (2 BLK),,MISS Adrien 5' Jump Shot,,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,333,4,0,2,9:45 PM,4:08,,,Adrien REBOUND (Off:2 Def:0),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,332,10,0,2,9:45 PM,4:08,Jump Ball James vs. Adrien: Tip to Beverley,,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0
+0011400014,334,2,1,2,9:45 PM,4:03,,,MISS Beverley 24' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,335,4,0,2,9:45 PM,4:02,Aminu REBOUND (Off:0 Def:4),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,336,6,1,2,9:45 PM,4:00,,,Harden P.FOUL (P3.PN),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,337,3,11,2,9:45 PM,4:00,MISS Harris Free Throw 1 of 2,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,338,4,1,2,9:45 PM,4:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,339,3,12,2,9:45 PM,4:00,MISS Harris Free Throw 2 of 2,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,341,4,0,2,9:46 PM,3:59,Aminu REBOUND (Off:1 Def:4),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,343,6,1,2,9:46 PM,3:52,,,Beverley P.FOUL (P2.PN),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,344,3,11,2,9:46 PM,3:52,Ellis Free Throw 1 of 2 (6 PTS),,,38 - 49,11,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,346,3,12,2,9:46 PM,3:52,Ellis Free Throw 2 of 2 (7 PTS),,,38 - 50,12,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,349,2,1,2,9:47 PM,3:40,,,MISS Harden 25' 3PT Jump Shot,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,350,4,0,2,9:47 PM,3:38,,,Beverley REBOUND (Off:2 Def:2),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,351,1,1,2,9:47 PM,3:35,,,Ariza 25' 3PT Jump Shot (9 PTS) (Beverley 1 AST),41 - 50,9,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,352,1,80,2,9:47 PM,3:20,Ellis 15' Step Back Jump Shot (9 PTS),,,41 - 52,11,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,353,6,4,2,9:47 PM,3:11,,,Jones OFF.Foul (P4),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,354,5,5,2,9:47 PM,3:11,,,Jones Foul Turnover (P2.T12),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,355,9,1,2,9:47 PM,3:11,,,Rockets Timeout: Regular (Reg.2 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,359,6,27,2,9:50 PM,3:01,,,Adrien Personal Block Foul (P2.PN),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,360,3,11,2,9:50 PM,3:01,MISS Ellis Free Throw 1 of 2,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,361,4,1,2,9:50 PM,3:01,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,362,8,0,2,9:51 PM,3:01,,,SUB: Motiejunas FOR Jones,,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,363,3,12,2,9:51 PM,3:01,MISS Ellis Free Throw 2 of 2,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,365,4,0,2,9:51 PM,3:00,James REBOUND (Off:1 Def:0),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,366,1,1,2,9:51 PM,2:56,Harris 25' 3PT Jump Shot (6 PTS) (Ellis 3 AST),,,41 - 55,14,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,367,6,2,2,9:51 PM,2:37,Ellis S.FOUL (P3.PN),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,368,3,13,2,9:52 PM,2:37,,,Harden Free Throw 1 of 3 (10 PTS),42 - 55,13,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,370,3,14,2,9:52 PM,2:37,,,Harden Free Throw 2 of 3 (11 PTS),43 - 55,12,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,372,3,15,2,9:52 PM,2:37,,,Harden Free Throw 3 of 3 (12 PTS),44 - 55,11,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,375,6,27,2,9:52 PM,2:23,,,Motiejunas Personal Block Foul (P3.PN),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,376,3,11,2,9:53 PM,2:23,MISS Aminu Free Throw 1 of 2,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,377,4,1,2,9:53 PM,2:23,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,378,3,12,2,9:53 PM,2:23,Aminu Free Throw 2 of 2 (4 PTS),,,44 - 56,12,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,381,1,65,2,9:54 PM,2:00,,,Motiejunas 6' Jump Hook Shot (7 PTS) (Beverley 2 AST),46 - 56,10,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,382,2,5,2,9:54 PM,1:49,MISS Parsons 1' Layup,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,384,4,0,2,9:54 PM,1:47,James REBOUND (Off:2 Def:0),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,383,1,4,2,9:54 PM,1:47,James  Tip Shot (2 PTS),,,46 - 58,12,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,385,2,1,2,9:54 PM,1:37,,,MISS Harden 25' 3PT Jump Shot,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,386,4,0,2,9:54 PM,1:36,,,Ariza REBOUND (Off:1 Def:1),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,387,1,42,2,9:54 PM,1:32,,,Adrien 1' Driving Layup (5 PTS) (Ariza 2 AST),48 - 58,10,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,388,6,2,2,9:54 PM,1:32,James S.FOUL (P1.PN),,,,,4,203108,Bernard James,1610612742.0,Dallas,Mavericks,DAL,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,389,3,10,2,9:54 PM,1:32,,,MISS Adrien Free Throw 1 of 1,,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,391,4,0,2,9:55 PM,1:31,Aminu REBOUND (Off:1 Def:5),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,393,6,2,2,9:55 PM,1:17,,,Adrien S.FOUL (P3.PN),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,394,3,11,2,9:55 PM,1:17,Ellis Free Throw 1 of 2 (10 PTS),,,48 - 59,11,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,396,8,0,2,9:56 PM,1:17,SUB: Felton FOR Harris,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,397,3,12,2,9:56 PM,1:17,Ellis Free Throw 2 of 2 (11 PTS),,,48 - 60,12,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,400,1,1,2,9:56 PM,1:03,,,Beverley 25' 3PT Jump Shot (3 PTS) (Harden 1 AST),51 - 60,9,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,401,1,79,2,9:56 PM,0:41,Felton 17' Pullup Jump Shot (5 PTS),,,51 - 62,11,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,402,5,1,2,9:57 PM,0:37,,,Beverley Bad Pass Turnover (P2.T13),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,403,9,2,2,9:57 PM,0:37,MAVERICKS Timeout: Short (Full 2 Short 1),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,407,5,2,2,9:58 PM,0:27,Ellis Lost Ball Turnover (P2.T10),,Adrien STEAL (1 STL),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,408,2,1,2,9:58 PM,0:07,,,MISS Beverley 25' 3PT Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,409,4,0,2,9:58 PM,0:06,Aminu REBOUND (Off:1 Def:6),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,410,6,3,2,9:59 PM,0:06,,,Adrien L.B.FOUL (P4.PN),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,411,3,11,2,9:59 PM,0:06,Aminu Free Throw 1 of 2 (5 PTS),,,51 - 63,12,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,413,8,0,2,9:59 PM,0:06,SUB: Nelson FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,414,8,0,2,9:59 PM,0:06,SUB: Crowder FOR Felton,,,,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,415,3,12,2,10:00 PM,0:06,Aminu Free Throw 2 of 2 (6 PTS),,,51 - 64,13,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,417,1,1,2,10:00 PM,0:00,,,Beverley  3PT Jump Shot (6 PTS) (Harden 2 AST),54 - 64,10,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,419,18,0,2,10:00 PM,0:00,,Support Ruling,,,,0,417,Sam Mitchell,,,,,0,0,,,,,,1,0,,,,,,0
+0011400014,420,13,0,2,10:00 PM,0:00,,End of 2nd Period (10:00 PM EST),,54 - 64,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,421,12,0,3,10:21 PM,12:00,,Start of 3rd Period (10:21 PM EST),,54 - 64,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,422,2,1,3,10:21 PM,11:42,MISS Chandler 17' Jump Shot,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,423,4,0,3,10:21 PM,11:41,,,Harden REBOUND (Off:0 Def:1),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,424,6,4,3,10:22 PM,11:32,,,Howard OFF.Foul (P5),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,425,5,5,3,10:22 PM,11:32,,,Howard Foul Turnover (P4.T14),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,426,2,1,3,10:22 PM,11:18,MISS Nelson  3PT Jump Shot,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,427,4,0,3,10:22 PM,11:17,,,Howard REBOUND (Off:2 Def:3),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,428,5,1,3,10:22 PM,11:04,Parsons STEAL (1 STL),,Ariza Bad Pass Turnover (P1.T15),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,429,6,1,3,10:22 PM,11:01,,,Beverley P.FOUL (P3.T1),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,430,2,42,3,10:23 PM,10:52,MISS Johnson 3' Driving Layup,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,431,4,0,3,10:23 PM,10:50,Chandler REBOUND (Off:2 Def:1),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,432,6,2,3,10:23 PM,10:50,,,Jones S.FOUL (P5.T2),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,433,3,11,3,10:24 PM,10:50,Chandler Free Throw 1 of 2 (3 PTS),,,54 - 65,11,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,435,3,12,3,10:24 PM,10:50,Chandler Free Throw 2 of 2 (4 PTS),,,54 - 66,12,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,438,5,2,3,10:25 PM,10:30,Johnson STEAL (1 STL),,Jones Lost Ball Turnover (P3.T16),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,439,5,1,3,10:25 PM,10:26,Ellis Bad Pass Turnover (P3.T11),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,440,2,79,3,10:25 PM,10:19,,,MISS Beverley 7' Pullup Jump Shot,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,441,4,0,3,10:25 PM,10:18,Nelson REBOUND (Off:2 Def:2),,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,443,6,26,3,10:25 PM,10:09,Ellis Offensive Charge Foul (P4.T1),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,444,5,5,3,10:25 PM,10:09,Ellis Foul Turnover (P4.T12),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,446,2,1,3,10:26 PM,9:47,Chandler BLOCK (1 BLK),,MISS Harden 9' Jump Shot,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,447,4,0,3,10:26 PM,9:45,Chandler REBOUND (Off:2 Def:2),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,448,6,3,3,10:26 PM,9:45,,,Harden L.B.FOUL (P4.T3),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,449,5,4,3,10:26 PM,9:36,Parsons Traveling Turnover (P2.T13),,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,450,6,4,3,10:27 PM,9:34,,,Ariza OFF.Foul (P2),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,451,5,5,3,10:27 PM,9:34,,,Ariza Foul Turnover (P2.T17),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,453,2,1,3,10:28 PM,9:14,MISS Nelson 25' 3PT Jump Shot,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,454,4,0,3,10:28 PM,9:12,,,Ariza REBOUND (Off:1 Def:2),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,455,2,1,3,10:28 PM,8:57,,,MISS Harden 25' 3PT Jump Shot,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,456,4,0,3,10:28 PM,8:57,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,457,5,40,3,10:28 PM,8:46,Ellis Out of Bounds Lost Ball Turnover (P5.T14),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,458,1,79,3,10:29 PM,8:22,,,Ariza 26' 3PT Pullup Jump Shot (12 PTS),57 - 66,9,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,459,2,1,3,10:29 PM,8:10,MISS Johnson 25' 3PT Jump Shot,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,460,4,0,3,10:29 PM,8:09,,,Howard REBOUND (Off:2 Def:4),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,461,6,2,3,10:29 PM,8:05,Ellis S.FOUL (P5.T2),,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,462,3,11,3,10:30 PM,8:05,,,Harden Free Throw 1 of 2 (13 PTS),58 - 66,8,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,464,3,12,3,10:30 PM,8:05,,,Harden Free Throw 2 of 2 (14 PTS),59 - 66,7,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,467,5,1,3,10:30 PM,7:51,Ellis Bad Pass Turnover (P6.T15),,Howard STEAL (1 STL),,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,470,5,1,3,10:31 PM,7:48,Parsons STEAL (2 STL),,Harden Bad Pass Turnover (P1.T18),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,471,2,75,3,10:31 PM,7:32,MISS Ellis 1' Driving Finger Roll Layup,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,473,4,0,3,10:31 PM,7:31,Chandler REBOUND (Off:3 Def:2),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,472,1,87,3,10:31 PM,7:31,Chandler  Putback Dunk (6 PTS),,,59 - 68,9,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,474,1,65,3,10:31 PM,7:16,,,Howard 7' Jump Hook Shot (6 PTS) (Beverley 3 AST),61 - 68,7,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,475,5,1,3,10:32 PM,7:06,Nelson Bad Pass Turnover (P2.T16),,Harden STEAL (3 STL),,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,476,2,1,3,10:32 PM,7:00,,,MISS Ariza 24' 3PT Jump Shot,,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,477,4,0,3,10:32 PM,6:59,,,Jones REBOUND (Off:1 Def:1),,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,478,6,2,3,10:32 PM,6:57,Chandler S.FOUL (P5.T3),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,479,9,1,3,10:32 PM,6:57,MAVERICKS Timeout: Regular (Full 3 Short 1),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,483,3,11,3,10:34 PM,6:57,,,Jones Free Throw 1 of 2 (4 PTS),62 - 68,6,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,485,3,12,3,10:35 PM,6:57,,,Jones Free Throw 2 of 2 (5 PTS),63 - 68,5,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,488,2,1,3,10:35 PM,6:37,MISS Johnson 22' Jump Shot,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,489,4,0,3,10:35 PM,6:37,Chandler REBOUND (Off:4 Def:2),,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,490,6,1,3,10:35 PM,6:37,,,Beverley P.FOUL (P4.T4),,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,491,6,1,3,10:36 PM,6:29,,,Howard P.FOUL (P6.PN),,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,492,8,0,3,10:36 PM,6:29,,,SUB: Powell FOR Howard,,,5,2730,Dwight Howard,1610612745.0,Houston,Rockets,HOU,5,2694,Josh Powell,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,493,3,11,3,10:37 PM,6:29,Chandler Free Throw 1 of 2 (7 PTS),,,63 - 69,6,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,495,8,0,3,10:37 PM,6:29,SUB: Aminu FOR Johnson,,,,,4,201274,Ivan Johnson,1610612742.0,Dallas,Mavericks,DAL,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,496,3,12,3,10:37 PM,6:29,Chandler Free Throw 2 of 2 (8 PTS),,,63 - 70,7,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,499,1,1,3,10:37 PM,6:13,,,Harden 25' 3PT Jump Shot (17 PTS) (Beverley 4 AST),66 - 70,4,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,500,6,1,3,10:38 PM,6:00,,,Powell P.FOUL (P1.PN),,,5,2694,Josh Powell,1610612745.0,Houston,Rockets,HOU,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,501,3,11,3,10:38 PM,6:00,Ellis Free Throw 1 of 2 (12 PTS),,,66 - 71,5,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,503,3,12,3,10:38 PM,6:00,Ellis Free Throw 2 of 2 (13 PTS),,,66 - 72,6,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,506,5,4,3,10:39 PM,5:46,,,Powell Traveling Turnover (P1.T19),,,5,2694,Josh Powell,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,507,5,4,3,10:39 PM,5:31,Parsons Traveling Turnover (P3.T17),,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,508,5,1,3,10:40 PM,5:18,Aminu STEAL (2 STL),,Harden Bad Pass Turnover (P2.T20),,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,509,2,63,3,10:40 PM,5:06,MISS Parsons 24' 3PT Fadeaway Jumper,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,510,4,0,3,10:40 PM,5:05,,,Ariza REBOUND (Off:1 Def:3),,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,511,1,1,3,10:40 PM,4:55,,,Jones 16' Jump Shot (7 PTS) (Ariza 3 AST),68 - 72,4,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,512,1,52,3,10:40 PM,4:41,Chandler  Alley Oop Dunk (10 PTS) (Nelson 2 AST),,,68 - 74,6,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,513,1,1,3,10:40 PM,4:22,,,Beverley  3PT Jump Shot (9 PTS),71 - 74,3,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,514,9,2,3,10:41 PM,4:07,MAVERICKS Timeout: Short (Full 3 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,516,8,0,3,10:42 PM,4:07,SUB: Wright FOR Parsons,,,,,4,202718,Chandler Parsons,1610612742.0,Dallas,Mavericks,DAL,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,517,8,0,3,10:42 PM,4:07,SUB: Ledo FOR Chandler,,,,,4,2199,Tyson Chandler,1610612742.0,Dallas,Mavericks,DAL,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,518,8,0,3,10:42 PM,4:07,SUB: Crowder FOR Ellis,,,,,4,101145,Monta Ellis,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,519,8,0,3,10:42 PM,4:07,SUB: Harris FOR Nelson,,,,,4,2749,Jameer Nelson,1610612742.0,Dallas,Mavericks,DAL,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,520,8,0,3,10:42 PM,4:07,,,SUB: Johnson FOR Ariza,,,5,2772,Trevor Ariza,1610612745.0,Houston,Rockets,HOU,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,521,8,0,3,10:42 PM,4:07,,,SUB: Smith FOR Jones,,,5,203093,Terrence Jones,1610612745.0,Houston,Rockets,HOU,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,522,8,0,3,10:42 PM,4:07,,,SUB: Motiejunas FOR Harden,,,5,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,523,8,0,3,10:42 PM,4:07,,,SUB: Papanikolaou FOR Beverley,,,5,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,524,2,1,3,10:43 PM,3:52,MISS Aminu 25' 3PT Jump Shot,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,525,4,0,3,10:43 PM,3:51,Crowder REBOUND (Off:1 Def:1),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,526,1,1,3,10:43 PM,3:38,Crowder 20' Jump Shot (2 PTS) (Aminu 1 AST),,,71 - 76,5,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,527,2,1,3,10:43 PM,3:24,,,MISS Powell 9' Jump Shot,,,5,2694,Josh Powell,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,528,4,0,3,10:43 PM,3:23,Aminu REBOUND (Off:1 Def:7),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,529,1,1,3,10:44 PM,3:07,Harris 25' 3PT Jump Shot (9 PTS) (Ledo 1 AST),,,71 - 79,8,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,530,6,1,3,10:44 PM,2:55,Ledo P.FOUL (P1.T4),,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,531,9,1,3,10:44 PM,2:55,,,Rockets Timeout: Regular (Reg.3 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,534,8,0,3,10:46 PM,2:55,SUB: Felton FOR Harris,,,,,4,2734,Devin Harris,1610612742.0,Dallas,Mavericks,DAL,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,535,2,42,3,10:46 PM,2:47,Wright BLOCK (2 BLK),,MISS Papanikolaou 1' Driving Layup,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,536,4,0,3,10:47 PM,2:45,Aminu REBOUND (Off:1 Def:8),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,538,2,1,3,10:47 PM,2:30,MISS Aminu 25' 3PT Jump Shot,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,539,4,0,3,10:47 PM,2:30,,,Johnson REBOUND (Off:0 Def:2),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,540,1,58,3,10:47 PM,2:21,,,Motiejunas 9' Turnaround Hook Shot (9 PTS) (Johnson 2 AST),73 - 79,6,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,541,5,21,3,10:48 PM,2:04,Ledo Palming Turnover (P1.T18),,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,542,6,2,3,10:48 PM,2:00,Crowder S.FOUL (P1.PN),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,543,3,11,3,10:48 PM,2:00,,,Johnson Free Throw 1 of 2 (3 PTS),74 - 79,5,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,545,3,12,3,10:48 PM,2:00,,,Johnson Free Throw 2 of 2 (4 PTS),75 - 79,4,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,548,2,57,3,10:49 PM,1:46,MISS Wright 7' Driving Hook Shot,,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,549,4,0,3,10:49 PM,1:45,Aminu REBOUND (Off:2 Def:8),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,550,1,1,3,10:49 PM,1:42,Aminu 7' Jump Shot (8 PTS),,,75 - 81,6,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,551,2,1,3,10:49 PM,1:30,,,MISS Powell 15' Jump Shot,,,5,2694,Josh Powell,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,552,4,0,3,10:49 PM,1:29,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,553,2,77,3,10:49 PM,1:23,,,MISS Smith 10' Driving Jump Shot,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,554,4,0,3,10:49 PM,1:22,,,Powell REBOUND (Off:1 Def:0),,,5,2694,Josh Powell,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,555,2,1,3,10:49 PM,1:15,,,MISS Papanikolaou 24' 3PT Jump Shot,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,556,4,0,3,10:50 PM,1:15,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,557,5,1,3,10:50 PM,1:07,Felton Bad Pass Turnover (P3.T19),,Motiejunas STEAL (1 STL),,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,558,5,37,3,10:50 PM,1:04,Felton STEAL (1 STL),,Johnson Offensive Foul Turnover (P2.T21),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,559,6,3,3,10:50 PM,1:04,,,Johnson L.B.FOUL (P3.PN),,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,561,3,11,3,10:50 PM,1:04,MISS Felton Free Throw 1 of 2,,,,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,562,4,1,3,10:50 PM,1:04,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,564,3,12,3,10:51 PM,1:04,MISS Felton Free Throw 2 of 2,,,,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,567,4,0,3,10:51 PM,1:03,,,Papanikolaou REBOUND (Off:0 Def:2),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,568,1,58,3,10:51 PM,0:40,,,Papanikolaou 8' Turnaround Hook Shot (2 PTS),77 - 81,4,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,569,6,2,3,10:51 PM,0:31,,,Smith S.FOUL (P1.PN),,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,570,3,11,3,10:52 PM,0:31,Felton Free Throw 1 of 2 (6 PTS),,,77 - 82,5,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,572,3,12,3,10:52 PM,0:31,MISS Felton Free Throw 2 of 2,,,,,4,101109,Raymond Felton,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,574,4,0,3,10:52 PM,0:30,Aminu REBOUND (Off:3 Def:8),,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,575,5,2,3,10:52 PM,0:24,Aminu Lost Ball Turnover (P1.T20),,Papanikolaou STEAL (1 STL),,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,576,1,1,3,10:53 PM,0:04,,,Smith 25' 3PT Jump Shot (9 PTS),80 - 82,2,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,577,2,1,3,10:53 PM,0:00,MISS Aminu  3PT Jump Shot,,,,,4,202329,Al-Farouq Aminu,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,578,4,0,3,10:53 PM,0:00,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,580,13,0,3,10:53 PM,0:00,,End of 3rd Period (10:53 PM EST),,80 - 82,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,583,12,0,4,10:56 PM,12:00,,Start of 4th Period (10:56 PM EST),,80 - 82,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,584,1,58,4,10:56 PM,11:44,,,Motiejunas 9' Turnaround Hook Shot (11 PTS),82 - 82,TIE,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,585,2,1,4,10:56 PM,11:24,MISS Ledo 25' 3PT Jump Shot,,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,586,4,0,4,10:56 PM,11:23,,,Papanikolaou REBOUND (Off:0 Def:3),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,587,6,1,4,10:56 PM,11:18,Villanueva P.FOUL (P3.T1),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,588,2,56,4,10:57 PM,11:04,,,MISS Motiejunas 8' Running Hook Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,589,4,0,4,10:57 PM,11:04,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,590,2,77,4,10:57 PM,10:51,MISS Wright 6' Driving Jump Shot,,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,591,4,0,4,10:57 PM,10:50,,,Black REBOUND (Off:1 Def:2),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,592,2,1,4,10:57 PM,10:42,,,MISS Papanikolaou  3PT Jump Shot,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,593,4,0,4,10:57 PM,10:41,,,Motiejunas REBOUND (Off:2 Def:1),,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,594,1,72,4,10:57 PM,10:41,,,Motiejunas 1' Putback Layup (13 PTS),84 - 82,-2,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,595,6,2,4,10:57 PM,10:41,Wright S.FOUL (P2.T2),,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,596,3,10,4,10:58 PM,10:41,,,Motiejunas Free Throw 1 of 1 (14 PTS),85 - 82,-3,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,599,6,2,4,10:58 PM,10:27,,,Papanikolaou S.FOUL (P1.T1),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,600,3,11,4,10:58 PM,10:27,Wright Free Throw 1 of 2 (5 PTS),,,85 - 83,-2,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,602,3,12,4,10:59 PM,10:27,Wright Free Throw 2 of 2 (6 PTS),,,85 - 84,-1,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,605,1,65,4,10:59 PM,10:10,,,Black 2' Jump Hook Shot (2 PTS) (Motiejunas 1 AST),87 - 84,-3,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,606,5,1,4,10:59 PM,9:55,Villanueva Bad Pass Turnover (P1.T21),,Motiejunas STEAL (2 STL),,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,607,6,1,4,11:00 PM,9:53,Jefferson P.FOUL (P1.T3),,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,608,6,2,4,11:00 PM,9:44,Jefferson S.FOUL (P2.T4),,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,609,3,11,4,11:00 PM,9:44,,,MISS Papanikolaou Free Throw 1 of 2,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,610,4,1,4,11:00 PM,9:44,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,611,3,12,4,11:01 PM,9:44,,,Papanikolaou Free Throw 2 of 2 (3 PTS),88 - 84,-4,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,614,6,2,4,11:01 PM,9:32,,,Black S.FOUL (P5.T2),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,615,3,11,4,11:01 PM,9:32,Wright Free Throw 1 of 2 (7 PTS),,,88 - 85,-3,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,617,3,12,4,11:01 PM,9:32,Wright Free Throw 2 of 2 (8 PTS),,,88 - 86,-2,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,619,2,1,4,11:02 PM,9:22,,,MISS Papanikolaou 25' 3PT Jump Shot,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,620,4,0,4,11:02 PM,9:22,Wright REBOUND (Off:0 Def:1),,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,621,2,1,4,11:02 PM,9:12,MISS Jefferson  3PT Jump Shot,,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,622,4,0,4,11:02 PM,9:11,,,Smith REBOUND (Off:1 Def:3),,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,623,6,2,4,11:02 PM,9:00,Villanueva S.FOUL (P4.PN),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,624,3,11,4,11:03 PM,9:00,,,Black Free Throw 1 of 2 (3 PTS),89 - 86,-3,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,626,3,12,4,11:03 PM,9:00,,,MISS Black Free Throw 2 of 2,,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,628,4,0,4,11:03 PM,9:00,Jefferson REBOUND (Off:0 Def:1),,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,629,1,77,4,11:03 PM,8:44,Mekel 9' Driving Jump Shot (2 PTS),,,89 - 88,-1,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,631,9,4,4,11:03 PM,8:32,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,634,8,0,4,11:06 PM,8:32,,,SUB: Canaan FOR Smith,,,5,202397,Ish Smith,1610612745.0,Houston,Rockets,HOU,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,635,8,0,4,11:06 PM,8:32,,,SUB: Adrien FOR Motiejunas,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,636,8,0,4,11:06 PM,8:32,,,SUB: Daniels FOR Johnson,,,5,203910,Nick Johnson,1610612745.0,Houston,Rockets,HOU,5,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,637,5,39,4,11:06 PM,8:31,,,Adrien Step Out of Bounds Turnover (P1.T22),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,638,6,29,4,11:07 PM,8:12,,,Black Shooting Block Foul (P6.T3),,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,639,8,0,4,11:07 PM,8:12,,,SUB: Motiejunas FOR Black,,,5,204028,Tarik Black,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,640,8,0,4,11:07 PM,8:12,SUB: Smith FOR Wright,,,,,4,201148,Brandan Wright,1610612742.0,Dallas,Mavericks,DAL,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,641,3,11,4,11:07 PM,8:12,MISS Jefferson Free Throw 1 of 2,,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,642,4,1,4,11:07 PM,8:12,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,643,3,12,4,11:07 PM,8:12,Jefferson Free Throw 2 of 2 (1 PTS),,,89 - 89,TIE,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,646,6,1,4,11:08 PM,8:03,Smith P.FOUL (P5.PN),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,647,3,11,4,11:08 PM,8:03,,,MISS Motiejunas Free Throw 1 of 2,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,648,4,1,4,11:08 PM,8:03,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,649,3,12,4,11:08 PM,8:03,,,Motiejunas Free Throw 2 of 2 (15 PTS),90 - 89,-1,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,652,2,1,4,11:09 PM,7:44,MISS Mekel  3PT Jump Shot,,Adrien BLOCK (1 BLK),,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0
+0011400014,653,4,0,4,11:09 PM,7:42,Mekel REBOUND (Off:1 Def:0),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,654,1,72,4,11:09 PM,7:40,Mekel 1' Putback Layup (4 PTS),,,90 - 91,1,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,655,2,45,4,11:09 PM,7:26,Mekel BLOCK (1 BLK),,MISS Canaan 6' Jump Shot,,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,656,4,0,4,11:09 PM,7:24,Smith REBOUND (Off:1 Def:2),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,657,6,2,4,11:09 PM,7:22,,,Daniels S.FOUL (P1.T4),,,5,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,658,3,11,4,11:10 PM,7:22,MISS Jefferson Free Throw 1 of 2,,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,659,4,1,4,11:10 PM,7:22,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,660,3,12,4,11:10 PM,7:22,MISS Jefferson Free Throw 2 of 2,,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,662,4,0,4,11:10 PM,7:20,,,Adrien REBOUND (Off:2 Def:1),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,664,1,1,4,11:10 PM,6:57,,,Papanikolaou 25' 3PT Jump Shot (6 PTS) (Canaan 1 AST),93 - 91,-2,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,665,6,1,4,11:11 PM,6:44,,,Papanikolaou P.FOUL (P2.PN),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,666,3,11,4,11:11 PM,6:44,MISS Jefferson Free Throw 1 of 2,,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,667,4,1,4,11:11 PM,6:44,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,668,3,12,4,11:11 PM,6:44,Jefferson Free Throw 2 of 2 (2 PTS),,,93 - 92,-1,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,671,1,1,4,11:12 PM,6:33,,,Papanikolaou 24' 3PT Jump Shot (9 PTS) (Canaan 2 AST),96 - 92,-4,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,672,1,1,4,11:12 PM,6:23,Villanueva 24' 3PT Jump Shot (8 PTS) (Ledo 2 AST),,,96 - 95,-1,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,673,2,1,4,11:12 PM,6:06,,,MISS Adrien 6' Jump Shot,,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,674,4,0,4,11:12 PM,6:05,Smith REBOUND (Off:1 Def:3),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,675,2,1,4,11:12 PM,6:00,MISS Ledo 26' 3PT Jump Shot,,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,676,4,0,4,11:12 PM,5:58,Mekel REBOUND (Off:2 Def:0),,,,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,677,2,1,4,11:12 PM,5:48,MISS Villanueva  3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,678,4,0,4,11:12 PM,5:46,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,679,9,1,4,11:13 PM,5:46,MAVERICKS Timeout: Regular (Full 4 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,682,2,1,4,11:15 PM,5:41,MISS Jefferson  3PT Jump Shot,,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,683,4,0,4,11:15 PM,5:40,,,Papanikolaou REBOUND (Off:0 Def:4),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,684,6,3,4,11:15 PM,5:27,,,Daniels L.B.FOUL (P2.PN),,,5,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,685,5,5,4,11:15 PM,5:27,,,Daniels Foul Turnover (P1.T23),,,5,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,686,3,11,4,11:16 PM,5:27,Ledo Free Throw 1 of 2 (1 PTS),,,96 - 96,TIE,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,688,3,12,4,11:16 PM,5:27,Ledo Free Throw 2 of 2 (2 PTS),,,96 - 97,1,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,690,1,58,4,11:16 PM,5:13,,,Motiejunas 6' Turnaround Hook Shot (17 PTS),98 - 97,-1,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,691,1,1,4,11:16 PM,5:00,Villanueva 25' 3PT Jump Shot (11 PTS) (Jefferson 1 AST),,,98 - 100,2,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,692,2,46,4,11:17 PM,4:34,,,MISS Motiejunas 10' Running Jump Shot,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,694,4,0,4,11:17 PM,4:32,,,Papanikolaou REBOUND (Off:1 Def:4),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,693,2,5,4,11:17 PM,4:32,Villanueva BLOCK (1 BLK),,MISS Papanikolaou 2' Layup,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0
+0011400014,695,4,0,4,11:17 PM,4:30,Jefferson REBOUND (Off:0 Def:2),,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,696,5,2,4,11:17 PM,4:25,Mekel Lost Ball Turnover (P1.T22),,Daniels STEAL (1 STL),,,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,5,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,697,1,79,4,11:17 PM,4:18,,,Canaan 26' 3PT Pullup Jump Shot (3 PTS),101 - 100,-1,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,698,2,1,4,11:17 PM,4:04,MISS Villanueva 25' 3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,699,4,0,4,11:17 PM,4:04,,,Rockets Rebound,,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,700,2,47,4,11:18 PM,3:42,,,MISS Papanikolaou 10' Turnaround Jump Shot,,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,701,4,0,4,11:18 PM,3:41,Ledo REBOUND (Off:0 Def:1),,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,702,2,79,4,11:18 PM,3:31,MISS Ledo 12' Pullup Jump Shot,,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,703,4,0,4,11:18 PM,3:30,,,Papanikolaou REBOUND (Off:1 Def:5),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,704,2,79,4,11:18 PM,3:07,,,MISS Canaan 27' 3PT Pullup Jump Shot,,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,705,4,0,4,11:18 PM,3:06,Smith REBOUND (Off:1 Def:4),,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,706,7,5,4,11:19 PM,3:01,,,Canaan Violation:Kicked Ball,,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,708,9,1,4,11:19 PM,3:01,,,Rockets Timeout: Regular (Reg.4 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,712,6,2,4,11:22 PM,2:48,,,Canaan S.FOUL (P1.PN),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,713,3,11,4,11:22 PM,2:48,Smith Free Throw 1 of 2 (5 PTS),,,101 - 101,TIE,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,715,3,12,4,11:22 PM,2:48,Smith Free Throw 2 of 2 (6 PTS),,,101 - 102,1,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,718,2,1,4,11:22 PM,2:35,,,MISS Daniels 25' 3PT Jump Shot,,,5,203584,Troy Daniels,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,719,4,0,4,11:22 PM,2:34,Jefferson REBOUND (Off:0 Def:3),,,,,4,2210,Richard Jefferson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,720,1,1,4,11:23 PM,2:25,Villanueva 6' Jump Shot (13 PTS),,,101 - 104,3,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,721,6,1,4,11:23 PM,2:12,Villanueva P.FOUL (P5.PN),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,722,3,11,4,11:23 PM,2:12,,,Motiejunas Free Throw 1 of 2 (18 PTS),102 - 104,2,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,726,3,12,4,11:24 PM,2:12,,,MISS Motiejunas Free Throw 2 of 2,,,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,728,4,0,4,11:24 PM,2:11,Villanueva REBOUND (Off:0 Def:1),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,729,2,1,4,11:24 PM,1:45,MISS Villanueva  3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,730,4,0,4,11:24 PM,1:45,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,731,18,1,4,11:25 PM,1:45,,Overturn Ruling,,,,0,729,Martin Lewis,,,,,0,0,,,,,,1,0,,,,,,0
+0011400014,732,5,11,4,11:26 PM,1:45,MAVERICKS Turnover: Shot Clock (T#23),,,,,2,1610612742,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400014,733,1,77,4,11:27 PM,1:35,,,Adrien 4' Driving Jump Shot (7 PTS) (Papanikolaou 1 AST),104 - 104,TIE,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,735,2,42,4,11:27 PM,1:20,MISS Ledo 2' Driving Layup,,,,,4,203495,Ricky Ledo,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,736,4,0,4,11:27 PM,1:19,,,Adrien REBOUND (Off:2 Def:2),,,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,737,1,65,4,11:27 PM,1:06,,,Adrien 5' Jump Hook Shot (9 PTS) (Canaan 3 AST),106 - 104,-2,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,738,9,1,4,11:27 PM,1:06,MAVERICKS Timeout: Regular (Full 5 Short 2),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,742,6,26,4,11:29 PM,0:59,Villanueva Offensive Charge Foul (P6.PN),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,743,5,5,4,11:29 PM,0:59,Villanueva Foul Turnover (P2.T24),,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0011400014,744,8,0,4,11:30 PM,0:59,SUB: Crowder FOR Villanueva,,,,,4,101111,Charlie Villanueva,1610612742.0,Dallas,Mavericks,DAL,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0011400014,745,1,7,4,11:30 PM,0:48,,,Adrien  Dunk (11 PTS) (Motiejunas 2 AST),108 - 104,-4,5,202399,Jeff Adrien,1610612745.0,Houston,Rockets,HOU,5,202700,Donatas Motiejunas,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+0011400014,746,6,2,4,11:30 PM,0:39,,,Papanikolaou S.FOUL (P3.PN),,,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,0
+0011400014,747,3,11,4,11:31 PM,0:39,MISS Smith Free Throw 1 of 2,,,,,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,748,4,1,4,11:31 PM,0:39,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,749,3,12,4,11:31 PM,0:39,Smith Free Throw 2 of 2 (7 PTS),,,108 - 105,-3,4,202962,Greg Smith,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,751,5,1,4,11:32 PM,0:17,,,Canaan Bad Pass Turnover (P1.T24),,,5,203477,Isaiah Canaan,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+0011400014,752,1,1,4,11:32 PM,0:06,Mekel 25' 3PT Jump Shot (7 PTS),,,108 - 108,TIE,4,203539,Gal Mekel,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0011400014,753,9,1,4,11:32 PM,0:06,,,Rockets Timeout: Regular (Reg.5 Short 0),,,3,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,757,6,2,4,11:34 PM,0:00,Crowder S.FOUL (P2.PN),,,,,4,203109,Jae Crowder,1610612742.0,Dallas,Mavericks,DAL,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+0011400014,758,3,13,4,11:35 PM,0:00,,,Papanikolaou Free Throw 1 of 3 (10 PTS),109 - 108,-1,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,760,3,14,4,11:35 PM,0:00,,,Papanikolaou Free Throw 2 of 3 (11 PTS),110 - 108,-2,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,762,3,15,4,11:36 PM,0:00,,,Papanikolaou Free Throw 3 of 3 (12 PTS),111 - 108,-3,5,203123,Kostas Papanikolaou,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+0011400014,764,9,2,4,11:36 PM,0:00,MAVERICKS Timeout: Short (Full 5 Short 3),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400014,768,13,0,4,11:37 PM,0:00,,End of 4th Period (11:37 PM EST),,111 - 108,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

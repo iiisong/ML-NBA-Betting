@@ -1,0 +1,477 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200011,2,12,0,1,9:11 PM,12:00,,Start of 1st Period (9:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,4,10,0,1,9:11 PM,12:00,Jump Ball Jokic vs. Robinson-Earl: Tip to Caldwell-Pope,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,7,5,1,1,9:11 PM,11:47,Jokic Bad Pass Turnover (P1.T1),,Mann STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,9,2,1,1,9:11 PM,11:39,,,MISS Robinson-Earl 3PT Jump Shot,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,10,4,0,1,9:12 PM,11:34,Gordon REBOUND (Off:0 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,11,2,98,1,9:12 PM,11:29,MISS Gordon 3' Cutting Layup Shot,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,12,4,0,1,9:12 PM,11:26,Gordon REBOUND (Off:1 Def:1),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,13,1,72,1,9:12 PM,11:25,Gordon 2' Putback Layup (2 PTS),,,0 - 2,2,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,14,1,79,1,9:12 PM,11:02,,,K. Williams 17' Pullup Jump Shot (2 PTS) (Pokusevski 1 AST),2 - 2,TIE,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,16,1,1,1,9:12 PM,10:43,Porter Jr. 17' Jump Shot (2 PTS) (Gordon 1 AST),,,2 - 4,2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,18,1,98,1,9:13 PM,10:26,,,K. Williams 2' Cutting Layup Shot (4 PTS) (Mann 1 AST),4 - 4,TIE,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,20,1,7,1,9:13 PM,10:11,Porter Jr. 1' Dunk (4 PTS),,,4 - 6,2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,21,1,98,1,9:13 PM,9:59,,,Robinson-Earl 5' Cutting Layup Shot (2 PTS) (Giddey 1 AST),6 - 6,TIE,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,23,2,79,1,9:13 PM,9:50,MISS Porter Jr. 27' 3PT Pullup Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,24,4,0,1,9:13 PM,9:47,,,Pokusevski REBOUND (Off:0 Def:1),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,25,1,6,1,9:14 PM,9:37,,,Mann 4' Driving Layup (2 PTS),8 - 6,-2,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,26,6,26,1,9:14 PM,9:25,Murray Offensive Charge Foul (P1) (T.Maddox),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,28,5,37,1,9:14 PM,9:25,Murray Offensive Foul Turnover (P1.T2),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,29,5,1,1,9:14 PM,9:16,Jokic STEAL (1 STL),,Giddey Bad Pass Turnover (P1.T1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,31,1,50,1,9:14 PM,9:12,Caldwell-Pope 2' Running Dunk (2 PTS) (Murray 1 AST),,,8 - 8,TIE,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,33,1,79,1,9:14 PM,9:04,,,Mann 26' 3PT Pullup Jump Shot (5 PTS) (K. Williams 1 AST),11 - 8,-3,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,35,1,5,1,9:15 PM,8:49,Gordon 2' Layup (4 PTS),,,11 - 10,-1,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,37,6,2,1,9:15 PM,8:49,,,Pokusevski S.FOUL (P1.T1) (T.Maddox),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,39,3,10,1,9:15 PM,8:49,Gordon Free Throw 1 of 1 (5 PTS),,,11 - 11,TIE,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,40,5,1,1,9:15 PM,8:36,Caldwell-Pope STEAL (1 STL),,Pokusevski Bad Pass Turnover (P1.T2),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,43,1,50,1,9:15 PM,8:32,Gordon 2' Running Dunk (7 PTS) (Porter Jr. 1 AST),,,11 - 13,2,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,45,6,4,1,9:16 PM,8:22,,,Pokusevski OFF.Foul (P2) (J.Orr),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,47,5,37,1,9:16 PM,8:22,,,Pokusevski Offensive Foul Turnover (P2.T3),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,48,2,80,1,9:16 PM,8:11,MISS Murray 18' Step Back Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,49,4,0,1,9:16 PM,8:08,,,Pokusevski REBOUND (Off:0 Def:2),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,50,1,75,1,9:16 PM,7:56,,,Giddey 4' Driving Finger Roll Layup (2 PTS) (K. Williams 2 AST),13 - 13,TIE,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,52,2,86,1,9:17 PM,7:36,MISS Gordon 11' Turnaround Fadeaway Shot,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,53,4,0,1,9:17 PM,7:33,,,Giddey REBOUND (Off:0 Def:1),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,54,5,1,1,9:17 PM,7:21,Gordon STEAL (1 STL),,Giddey Bad Pass Turnover (P2.T4),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,56,2,80,1,9:17 PM,7:15,MISS Caldwell-Pope 24' 3PT Step Back Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,57,4,0,1,9:17 PM,7:11,,,Giddey REBOUND (Off:0 Def:2),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,60,6,26,1,9:17 PM,7:09,,,Giddey Offensive Charge Foul (P1) (T.Maddox),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,62,5,37,1,9:17 PM,7:09,,,Giddey Offensive Foul Turnover (P3.T5),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,63,6,11,1,9:18 PM,7:09,,,Giddey T.FOUL (P1.T1) (T.Maddox),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,64,3,16,1,9:18 PM,7:09,MISS Murray Free Throw Technical,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,65,4,1,1,9:18 PM,7:09,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,66,6,1,1,9:18 PM,7:02,,,Mann P.FOUL (P1.T2) (B.Nansel),,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,68,6,1,1,9:18 PM,6:59,,,K. Williams P.FOUL (P1.T3) (B.Nansel),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,70,9,1,1,9:19 PM,6:59,NUGGETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,71,2,79,1,9:21 PM,6:53,MISS Murray 27' 3PT Pullup Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,72,4,0,1,9:21 PM,6:48,Caldwell-Pope REBOUND (Off:1 Def:0),,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,73,2,5,1,9:22 PM,6:45,MISS Caldwell-Pope 6' Layup,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,74,4,0,1,9:22 PM,6:43,,,Pokusevski REBOUND (Off:0 Def:3),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,75,1,108,1,9:22 PM,6:41,,,Robinson-Earl 3' Cutting Dunk Shot (4 PTS) (Giddey 2 AST),15 - 13,-2,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,77,1,80,1,9:22 PM,6:14,Porter Jr. 11' Step Back Jump Shot (6 PTS),,,15 - 15,TIE,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,78,2,47,1,9:22 PM,5:50,,,MISS Giddey 12' Turnaround Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,79,4,0,1,9:22 PM,5:50,Jokic REBOUND (Off:0 Def:1),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,80,2,1,1,9:23 PM,5:42,MISS Caldwell-Pope 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,81,4,0,1,9:23 PM,5:39,,,Giddey REBOUND (Off:0 Def:3),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,82,2,1,1,9:23 PM,5:34,,,MISS Mann 26' 3PT Jump Shot,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,83,4,0,1,9:23 PM,5:30,Jokic REBOUND (Off:0 Def:2),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,84,5,45,1,9:23 PM,5:26,Jokic Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,85,8,0,1,9:23 PM,5:26,,,SUB: Jal. Williams FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,87,2,6,1,9:23 PM,5:10,,,MISS Mann 5' Driving Layup,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,88,4,0,1,9:24 PM,5:06,,,Robinson-Earl REBOUND (Off:1 Def:0),,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,89,1,97,1,9:24 PM,5:06,,,Robinson-Earl Tip Layup Shot (6 PTS),17 - 15,-2,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,90,5,2,1,9:24 PM,4:46,Jokic Lost Ball Turnover (P3.T4),,Jal. Williams STEAL (1 STL),,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,92,2,79,1,9:24 PM,4:33,,,MISS Mann 20' Pullup Jump Shot,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,93,4,0,1,9:24 PM,4:30,Jokic REBOUND (Off:0 Def:3),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,94,2,74,1,9:24 PM,4:28,MISS Caldwell-Pope 2' Running Reverse Layup,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,95,4,0,1,9:24 PM,4:26,,,Pokusevski REBOUND (Off:0 Def:4),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,96,6,2,1,9:24 PM,4:23,Porter Jr. S.FOUL (P1.T1) (B.Nansel),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,98,3,11,1,9:25 PM,4:23,,,Jal. Williams Free Throw 1 of 2 (1 PTS),18 - 15,-3,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,99,8,0,1,9:25 PM,4:23,SUB: Hyland FOR Murray,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,100,8,0,1,9:25 PM,4:23,SUB: Green FOR Gordon,,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,101,8,0,1,9:25 PM,4:23,,,SUB: Wiggins FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,102,8,0,1,9:25 PM,4:23,,,SUB: Bazley FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,107,3,12,1,9:25 PM,4:23,,,MISS Jal. Williams Free Throw 2 of 2,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,108,4,0,1,9:25 PM,4:20,,,Robinson-Earl REBOUND (Off:2 Def:0),,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,109,1,79,1,9:25 PM,4:15,,,Mann 26' 3PT Pullup Jump Shot (8 PTS),21 - 15,-6,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,110,9,1,1,9:26 PM,4:13,NUGGETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,112,8,0,1,9:28 PM,4:13,SUB: Brown FOR Porter Jr.,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,114,5,1,1,9:29 PM,3:52,Caldwell-Pope Bad Pass Turnover (P1.T5),,Wiggins STEAL (1 STL),,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,116,5,2,1,9:29 PM,3:49,Jokic STEAL (2 STL),,Wiggins Lost Ball Turnover (P1.T6),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,118,1,5,1,9:29 PM,3:45,Green 2' Layup (2 PTS) (Jokic 1 AST),,,21 - 17,-4,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,120,6,1,1,9:29 PM,3:40,Brown P.FOUL (P1.T2) (B.Nansel),,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,122,8,0,1,9:29 PM,3:40,SUB: Reed FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,123,8,0,1,9:29 PM,3:40,SUB: Jordan FOR Jokic,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,126,8,0,1,9:29 PM,3:40,,,SUB: Dieng FOR Robinson-Earl,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,128,2,80,1,9:30 PM,3:34,,,MISS Jal. Williams 26' 3PT Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,129,4,0,1,9:30 PM,3:28,Brown REBOUND (Off:0 Def:1),,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,130,2,7,1,9:30 PM,3:12,MISS Jordan 5' Dunk,,Mann BLOCK (1 BLK),,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200011,132,4,0,1,9:30 PM,3:08,,,Bazley REBOUND (Off:0 Def:1),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,133,2,44,1,9:30 PM,3:00,,,MISS Wiggins 4' Reverse Layup,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,134,4,0,1,9:30 PM,2:57,Brown REBOUND (Off:0 Def:2),,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,135,1,6,1,9:31 PM,2:47,Hyland 5' Driving Layup (2 PTS),,,21 - 19,-2,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,136,6,2,1,9:31 PM,2:47,,,Mann S.FOUL (P2.T4) (B.Nansel),,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,138,3,10,1,9:31 PM,2:47,MISS Hyland Free Throw 1 of 1,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,139,4,0,1,9:31 PM,2:42,,,Dieng REBOUND (Off:0 Def:1),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,140,5,39,1,9:31 PM,2:40,,,Mann Step Out of Bounds Turnover (P1.T7),,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,141,2,6,1,9:32 PM,2:21,MISS Hyland 4' Driving Layup,,Bazley BLOCK (1 BLK),,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200011,143,4,0,1,9:32 PM,2:21,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,144,8,0,1,9:32 PM,2:21,,,SUB: Waters III FOR Mann,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,146,2,101,1,9:32 PM,2:15,MISS Brown 10' Driving Floating Jump Shot,,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,147,4,0,1,9:32 PM,2:13,,,Bazley REBOUND (Off:0 Def:2),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,148,1,1,1,9:32 PM,2:03,,,Wiggins 25' 3PT Jump Shot (3 PTS) (Jal. Williams 1 AST),24 - 19,-5,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,150,6,4,1,9:32 PM,1:51,Green OFF.Foul (P1) (T.Maddox),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,152,5,37,1,9:32 PM,1:51,Green Offensive Foul Turnover (P1.T6),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,153,1,57,1,9:33 PM,1:42,,,Jal. Williams 8' Driving Hook Shot (3 PTS),26 - 19,-7,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,154,5,1,1,9:33 PM,1:29,Hyland Bad Pass Turnover (P1.T7),,Wiggins STEAL (2 STL),,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,156,1,50,1,9:33 PM,1:26,,,Jal. Williams 2' Running Dunk (5 PTS) (Bazley 1 AST),28 - 19,-9,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,158,9,1,1,9:33 PM,1:26,NUGGETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,159,1,108,1,9:35 PM,1:14,Jordan 3' Cutting Dunk Shot (2 PTS) (Hyland 1 AST),,,28 - 21,-7,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,161,1,101,1,9:35 PM,1:00,,,Jal. Williams 11' Driving Floating Jump Shot (7 PTS),30 - 21,-9,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,225,5,1,1,9:35 PM,0:54,Hyland Bad Pass Turnover (P2.T8),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0012200011,162,6,3,1,9:35 PM,0:54,Brown L.B.FOUL (P2.T3) (B.Nansel),,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,165,2,79,1,9:36 PM,0:29,,,MISS Bazley 26' 3PT Pullup Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,166,4,0,1,9:36 PM,0:26,Green REBOUND (Off:0 Def:1),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,167,2,1,1,9:36 PM,0:05,MISS Hyland 33' 3PT Jump Shot,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,168,4,0,1,9:36 PM,0:02,Jordan REBOUND (Off:1 Def:0),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,169,2,3,1,9:36 PM,0:01,MISS Jordan 6' Hook Shot,,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,170,4,0,1,9:36 PM,0:01,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,171,13,0,1,9:38 PM,0:00,,End of 1st Period (9:38 PM EST),,30 - 21,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200011,174,12,0,2,9:39 PM,12:00,,Start of 2nd Period (9:39 PM EST),,30 - 21,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,175,1,75,2,9:39 PM,11:45,,,Giddey 2' Driving Finger Roll Layup (4 PTS),32 - 21,-11,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,177,2,1,2,9:40 PM,11:23,MISS Green 26' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,178,4,0,2,9:40 PM,11:19,,,Bazley REBOUND (Off:0 Def:3),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,179,2,6,2,9:40 PM,11:12,Jordan BLOCK (1 BLK),,MISS Bazley 2' Driving Layup,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,181,4,0,2,9:40 PM,11:09,,,Wiggins REBOUND (Off:1 Def:0),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,182,2,1,2,9:40 PM,11:08,,,MISS Jal. Williams 25' 3PT Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,183,4,0,2,9:40 PM,11:06,Jordan REBOUND (Off:1 Def:1),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,184,5,45,2,9:41 PM,10:54,Jordan Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,185,2,78,2,9:41 PM,10:40,,,MISS Bazley 14' Floating Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,186,4,0,2,9:41 PM,10:38,Hyland REBOUND (Off:0 Def:1),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,187,1,1,2,9:41 PM,10:23,Reed 24' 3PT Jump Shot (3 PTS) (Green 1 AST),,,32 - 24,-8,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,189,2,80,2,9:41 PM,10:09,,,MISS Giddey 15' Step Back Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,190,4,0,2,9:42 PM,10:06,Hyland REBOUND (Off:0 Def:2),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,191,1,108,2,9:42 PM,9:56,Jordan 3' Cutting Dunk Shot (4 PTS) (Green 2 AST),,,32 - 26,-6,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,193,1,5,2,9:42 PM,9:44,,,Bazley 3' Layup (2 PTS) (Giddey 3 AST),34 - 26,-8,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,195,6,2,2,9:42 PM,9:44,Jordan S.FOUL (P1.T1) (B.Nansel),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,197,8,0,2,9:42 PM,9:44,SUB: Smith FOR Hyland,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,199,3,10,2,9:43 PM,9:44,,,MISS Bazley Free Throw 1 of 1,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,200,4,0,2,9:43 PM,9:40,Green REBOUND (Off:0 Def:2),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,201,1,1,2,9:43 PM,9:25,Brown 26' 3PT Jump Shot (3 PTS) (Green 3 AST),,,34 - 29,-5,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,203,5,13,2,9:43 PM,9:12,,,Wiggins Backcourt Turnover (P2.T8),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,204,2,1,2,9:43 PM,9:03,MISS Reed 3PT Jump Shot,,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,205,4,0,2,9:43 PM,8:59,,,Bazley REBOUND (Off:0 Def:4),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,206,2,1,2,9:44 PM,8:52,,,MISS Bazley 25' 3PT Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,207,4,0,2,9:44 PM,8:52,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,208,2,63,2,9:44 PM,8:39,MISS Smith 14' Fadeaway Jumper,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,209,4,0,2,9:44 PM,8:36,,,Giddey REBOUND (Off:0 Def:4),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,210,1,43,2,9:44 PM,8:29,,,Bazley 2' Alley Oop Layup (4 PTS) (Giddey 4 AST),36 - 29,-7,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,212,6,1,2,9:44 PM,8:21,,,Jal. Williams P.FOUL (P1.T1) (B.Nansel),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,214,1,101,2,9:45 PM,8:11,Green 8' Driving Floating Jump Shot (4 PTS) (Reed 1 AST),,,36 - 31,-5,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,215,9,1,2,9:45 PM,8:05,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,217,2,1,2,9:48 PM,7:56,,,MISS Bazley 24' 3PT Jump Shot,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,218,4,0,2,9:48 PM,7:53,,,Giddey REBOUND (Off:1 Def:4),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,219,6,2,2,9:48 PM,7:52,Reed S.FOUL (P1.T2) (T.Maddox),,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,221,3,11,2,9:49 PM,7:52,,,Bazley Free Throw 1 of 2 (5 PTS),37 - 31,-6,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,222,3,12,2,9:49 PM,7:52,,,MISS Bazley Free Throw 2 of 2,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,223,4,0,2,9:49 PM,7:48,Jordan REBOUND (Off:1 Def:2),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,224,5,45,2,9:49 PM,7:38,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,226,2,1,2,9:50 PM,7:20,,,MISS Dieng 25' 3PT Jump Shot,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,227,4,0,2,9:50 PM,7:17,,,Bazley REBOUND (Off:1 Def:4),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,228,2,6,2,9:50 PM,7:13,Green BLOCK (1 BLK),,MISS Bazley 6' Driving Layup,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,230,4,0,2,9:50 PM,7:13,Jordan REBOUND (Off:1 Def:3),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,231,2,1,2,9:50 PM,6:58,MISS Brown 26' 3PT Jump Shot,,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,232,4,0,2,9:50 PM,6:56,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,233,8,0,2,9:50 PM,6:56,SUB: Gordon FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,234,8,0,2,9:50 PM,6:56,SUB: Murray FOR Reed,,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,235,8,0,2,9:50 PM,6:56,SUB: Jokic FOR Green,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,239,2,1,2,9:51 PM,6:40,MISS Jokic 24' 3PT Jump Shot,,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,240,4,0,2,9:51 PM,6:37,,,Giddey REBOUND (Off:1 Def:5),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,241,2,47,2,9:51 PM,6:23,,,MISS Giddey 12' Turnaround Jump Shot,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,242,4,0,2,9:51 PM,6:22,Jokic REBOUND (Off:0 Def:4),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,243,1,1,2,9:51 PM,6:18,Murray 24' 3PT Jump Shot (3 PTS) (Smith 1 AST),,,37 - 34,-3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,245,9,1,2,9:52 PM,6:17,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,246,8,0,2,9:54 PM,6:17,SUB: Porter Jr. FOR Brown,,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,247,8,0,2,9:54 PM,6:17,SUB: Caldwell-Pope FOR Smith,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,248,8,0,2,9:54 PM,6:17,,,SUB: Pokusevski FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,249,8,0,2,9:54 PM,6:17,,,SUB: K. Williams FOR Dieng,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,250,8,0,2,9:54 PM,6:17,,,SUB: Robinson-Earl FOR Bazley,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,256,1,75,2,9:55 PM,6:00,,,Pokusevski 5' Driving Finger Roll Layup (2 PTS) (Wiggins 1 AST),39 - 34,-5,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,258,1,1,2,9:55 PM,5:43,Gordon 25' 3PT Jump Shot (10 PTS) (Murray 2 AST),,,39 - 37,-2,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,260,1,5,2,9:55 PM,5:27,,,Robinson-Earl 2' Layup (8 PTS),41 - 37,-4,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,261,2,1,2,9:55 PM,5:09,MISS Caldwell-Pope 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,262,4,0,2,9:56 PM,5:04,Murray REBOUND (Off:1 Def:0),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,263,5,1,2,9:56 PM,5:01,Murray Bad Pass Turnover (P2.T11),,Pokusevski STEAL (1 STL),,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,265,6,2,2,9:56 PM,4:56,Porter Jr. S.FOUL (P2.T3) (B.Nansel),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,267,3,11,2,9:56 PM,4:56,,,MISS Robinson-Earl Free Throw 1 of 2,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,268,4,1,2,9:56 PM,4:56,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,269,8,0,2,9:56 PM,4:56,,,SUB: Mann FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,270,8,0,2,9:56 PM,4:56,,,SUB: Giddey FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,273,3,12,2,9:57 PM,4:56,,,Robinson-Earl Free Throw 2 of 2 (9 PTS),42 - 37,-5,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,274,2,57,2,9:57 PM,4:41,MISS Caldwell-Pope 5' Driving Hook Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,275,4,0,2,9:57 PM,4:39,,,K. Williams REBOUND (Off:0 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,277,1,1,2,9:57 PM,4:28,,,Mann 28' 3PT Jump Shot (11 PTS) (Giddey 5 AST),45 - 37,-8,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,279,6,1,2,9:58 PM,4:11,,,K. Williams P.FOUL (P2.T2) (T.Maddox),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,281,6,2,2,9:58 PM,4:07,,,Robinson-Earl S.FOUL (P1.T3) (J.Orr),,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,283,3,11,2,9:59 PM,4:07,Jokic Free Throw 1 of 2 (1 PTS),,,45 - 38,-7,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,284,3,12,2,9:59 PM,4:07,Jokic Free Throw 2 of 2 (2 PTS),,,45 - 39,-6,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,285,1,79,2,9:59 PM,3:45,,,K. Williams 20' Pullup Jump Shot (6 PTS) (Giddey 6 AST),47 - 39,-8,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,287,1,78,2,9:59 PM,3:28,Murray 5' Floating Jump Shot (5 PTS),,,47 - 41,-6,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,288,2,1,2,10:00 PM,3:20,,,MISS Robinson-Earl 27' 3PT Jump Shot,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,289,4,0,2,10:00 PM,3:16,Gordon REBOUND (Off:1 Def:2),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,290,2,1,2,10:00 PM,3:02,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,291,4,0,2,10:00 PM,2:56,,,Robinson-Earl REBOUND (Off:2 Def:1),,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,292,5,45,2,10:00 PM,2:47,,,Pokusevski Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,293,2,1,2,10:01 PM,2:33,MISS Porter Jr. 24' 3PT Jump Shot,,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,294,4,0,2,10:01 PM,2:30,,,Giddey REBOUND (Off:1 Def:6),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,295,2,76,2,10:01 PM,2:27,,,MISS Giddey 4' Running Finger Roll Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,296,4,0,2,10:01 PM,2:25,Murray REBOUND (Off:1 Def:1),,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,297,1,80,2,10:01 PM,2:04,Murray 25' 3PT Step Back Jump Shot (8 PTS),,,47 - 44,-3,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,298,2,79,2,10:02 PM,1:49,,,MISS Mann 30' 3PT Pullup Jump Shot,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,299,4,0,2,10:02 PM,1:40,,,K. Williams REBOUND (Off:1 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,300,1,72,2,10:02 PM,1:40,,,K. Williams Putback Layup (8 PTS),49 - 44,-5,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,301,1,80,2,10:02 PM,1:26,Porter Jr. 24' 3PT Step Back Jump Shot (9 PTS) (Jokic 2 AST),,,49 - 47,-2,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,303,2,1,2,10:02 PM,1:15,,,MISS Robinson-Earl 25' 3PT Jump Shot,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,304,4,0,2,10:02 PM,1:11,,,K. Williams REBOUND (Off:2 Def:1),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,305,2,1,2,10:02 PM,1:09,,,MISS K. Williams 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,306,4,0,2,10:02 PM,1:06,Gordon REBOUND (Off:1 Def:3),,,,,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,307,6,1,2,10:02 PM,1:04,,,K. Williams P.FOUL (P3.T4) (J.Orr),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,203932,Aaron Gordon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,310,8,0,2,10:03 PM,1:04,,,SUB: Omoruyi FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,312,2,78,2,10:03 PM,0:50,MISS Murray 12' Floating Jump Shot,,,,,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,313,4,0,2,10:03 PM,0:48,Porter Jr. REBOUND (Off:1 Def:0),,,,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,314,5,2,2,10:03 PM,0:45,Porter Jr. Lost Ball Turnover (P1.T12),,Giddey STEAL (1 STL),,,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,317,8,0,2,10:04 PM,0:43,,,SUB: Waters III FOR Omoruyi,,,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,319,2,5,2,10:04 PM,0:33,,,MISS Robinson-Earl 4' Layup,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,320,4,0,2,10:04 PM,0:31,Jokic REBOUND (Off:0 Def:5),,,,,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,321,1,79,2,10:04 PM,0:29,Porter Jr. 27' 3PT Pullup Jump Shot (12 PTS) (Jokic 3 AST),,,49 - 50,1,4,1629008,Michael Porter Jr.,1610612743.0,Denver,Nuggets,DEN,4,203999,Nikola Jokic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,323,1,101,2,10:05 PM,0:06,,,Mann 9' Driving Floating Jump Shot (13 PTS),51 - 50,-1,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,324,1,105,2,10:05 PM,0:00,Murray 8' Turnaround Fadeaway Bank Jump Shot (10 PTS),,,51 - 52,1,4,1627750,Jamal Murray,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,326,18,0,2,10:05 PM,0:00,,Instant Replay2nd Period (10:05 PM EST),,51 - 52,1,0,324,Anthony Peeler,,,,,0,0,,,,,,1,0,,,,,,0
+0012200011,325,13,0,2,10:05 PM,0:00,,End of 2nd Period (10:05 PM EST),,51 - 52,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200011,341,12,0,3,10:20 PM,12:00,,Start of 3rd Period (10:20 PM EST),,51 - 52,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,342,1,101,3,10:20 PM,11:36,,,Giddey 10' Driving Floating Jump Shot (6 PTS),53 - 52,-1,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,343,1,80,3,10:21 PM,11:19,Hyland 12' Step Back Jump Shot (4 PTS),,,53 - 54,1,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,344,2,80,3,10:21 PM,11:07,,,MISS Mann 24' 3PT Step Back Jump Shot,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,345,4,0,3,10:21 PM,11:05,Hyland REBOUND (Off:0 Def:3),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,346,6,1,3,10:21 PM,11:05,,,Giddey P.FOUL (P2.T1) (B.Nansel),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,348,1,1,3,10:21 PM,10:48,Green 3PT Jump Shot (7 PTS) (Jordan 1 AST),,,53 - 57,4,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,350,1,101,3,10:22 PM,10:34,,,Mann 11' Driving Floating Jump Shot (15 PTS) (Giddey 7 AST),55 - 57,2,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,352,1,1,3,10:22 PM,10:19,Brown 27' 3PT Jump Shot (6 PTS) (Reed 2 AST),,,55 - 60,5,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,354,1,1,3,10:22 PM,10:05,,,Pokusevski 26' 3PT Jump Shot (5 PTS) (Mann 2 AST),58 - 60,2,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,357,2,79,3,10:23 PM,9:37,MISS Green 33' 3PT Pullup Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,358,4,0,3,10:23 PM,9:34,,,Giddey REBOUND (Off:1 Def:7),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,359,6,2,3,10:23 PM,9:29,Hyland S.FOUL (P1.T1) (B.Nansel),,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,361,3,11,3,10:23 PM,9:29,,,Robinson-Earl Free Throw 1 of 2 (10 PTS),59 - 60,1,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,362,3,12,3,10:24 PM,9:29,,,Robinson-Earl Free Throw 2 of 2 (11 PTS),60 - 60,TIE,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,363,2,6,3,10:24 PM,9:13,MISS Hyland 6' Driving Layup,,Pokusevski BLOCK (1 BLK),,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200011,365,4,0,3,10:24 PM,9:10,,,Giddey REBOUND (Off:1 Def:8),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,366,1,1,3,10:24 PM,9:07,,,Wiggins 3PT Jump Shot (6 PTS) (Giddey 8 AST),63 - 60,-3,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,368,9,1,3,10:24 PM,9:06,NUGGETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,369,2,1,3,10:27 PM,8:46,MISS Green 24' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,370,4,0,3,10:27 PM,8:39,Jordan REBOUND (Off:2 Def:3),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,371,1,87,3,10:27 PM,8:39,Jordan Putback Dunk (6 PTS),,,63 - 62,-1,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,372,1,76,3,10:28 PM,8:26,,,Giddey 3' Running Finger Roll Layup (8 PTS),65 - 62,-3,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,373,1,108,3,10:28 PM,8:11,Jordan 1' Cutting Dunk Shot (8 PTS) (Hyland 2 AST),,,65 - 64,-1,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,375,1,6,3,10:28 PM,8:05,,,Wiggins 1' Driving Layup (8 PTS) (Giddey 9 AST),67 - 64,-3,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,376,6,2,3,10:28 PM,8:05,Green S.FOUL (P2.T2) (J.Orr),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,378,3,10,3,10:29 PM,8:05,,,Wiggins Free Throw 1 of 1 (9 PTS),68 - 64,-4,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,379,2,79,3,10:29 PM,7:46,MISS Reed 11' Pullup Jump Shot,,Giddey BLOCK (1 BLK),,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200011,381,4,0,3,10:29 PM,7:45,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,382,6,2,3,10:29 PM,7:41,,,Giddey S.FOUL (P3.T2) (J.Orr),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,384,3,11,3,10:30 PM,7:41,Hyland Free Throw 1 of 2 (5 PTS),,,68 - 65,-3,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0012200011,385,3,12,3,10:30 PM,7:41,Hyland Free Throw 2 of 2 (6 PTS),,,68 - 66,-2,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,387,2,6,3,10:30 PM,7:29,,,MISS Giddey 4' Driving Layup,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,388,4,0,3,10:30 PM,7:28,Jordan REBOUND (Off:2 Def:4),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,389,5,45,3,10:31 PM,7:28,Jordan Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,390,1,79,3,10:31 PM,7:17,,,Giddey 27' 3PT Pullup Jump Shot (11 PTS),71 - 66,-5,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,391,2,78,3,10:31 PM,6:51,MISS Brown 12' Floating Jump Shot,,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,392,4,0,3,10:31 PM,6:51,,,Pokusevski REBOUND (Off:0 Def:5),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,393,2,1,3,10:31 PM,6:41,,,MISS Pokusevski 26' 3PT Jump Shot,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,394,4,0,3,10:31 PM,6:38,,,Wiggins REBOUND (Off:2 Def:0),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,430,2,72,3,10:31 PM,6:38,,,MISS Wiggins 1' Putback Layup,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,431,4,0,3,10:32 PM,6:37,,,Wiggins REBOUND (Off:3 Def:0),,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,395,2,72,3,10:32 PM,6:36,,,MISS Wiggins 2' Putback Layup,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,396,4,0,3,10:32 PM,6:36,Reed REBOUND (Off:0 Def:1),,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,397,2,1,3,10:32 PM,6:16,MISS Reed 25' 3PT Jump Shot,,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,398,4,0,3,10:32 PM,6:13,,,Giddey REBOUND (Off:1 Def:9),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,399,2,1,3,10:32 PM,6:07,,,MISS Robinson-Earl 25' 3PT Jump Shot,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,400,4,0,3,10:32 PM,6:03,Reed REBOUND (Off:0 Def:2),,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,401,6,2,3,10:32 PM,5:56,,,Robinson-Earl S.FOUL (P2.T3) (T.Maddox),,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,403,3,11,3,10:33 PM,5:56,Brown Free Throw 1 of 2 (7 PTS),,,71 - 67,-4,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0012200011,404,8,0,3,10:33 PM,5:56,,,SUB: K. Williams FOR Robinson-Earl,,,5,1630526,Jeremiah Robinson-Earl,1610612760.0,Oklahoma City,Thunder,OKC,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,405,8,0,3,10:33 PM,5:56,,,SUB: Jay. Williams FOR Wiggins,,,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,408,3,12,3,10:33 PM,5:56,MISS Brown Free Throw 2 of 2,,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,409,4,0,3,10:33 PM,5:51,,,Giddey REBOUND (Off:1 Def:10),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,410,2,1,3,10:33 PM,5:49,,,MISS K. Williams 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,411,4,0,3,10:33 PM,5:43,,,Jay. Williams REBOUND (Off:1 Def:0),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,412,2,97,3,10:33 PM,5:43,,,MISS Jay. Williams Tip Layup Shot,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,413,4,0,3,10:33 PM,5:43,,,Giddey REBOUND (Off:2 Def:10),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,414,5,15,3,10:33 PM,5:43,,,K. Williams Offensive Goaltending Turnover (P1.T10),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,415,2,1,3,10:34 PM,5:25,MISS Hyland 21' Jump Shot,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,416,4,0,3,10:34 PM,5:21,,,Jay. Williams REBOUND (Off:1 Def:1),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,418,8,0,3,10:34 PM,5:17,SUB: Nnaji FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612743.0,Denver,Nuggets,DEN,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,420,2,1,3,10:34 PM,5:15,,,MISS K. Williams 3PT Jump Shot,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,421,4,0,3,10:34 PM,5:12,Green REBOUND (Off:0 Def:3),,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,422,1,41,3,10:34 PM,5:07,Green 3' Running Layup (9 PTS),,,71 - 69,-2,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,423,5,1,3,10:34 PM,4:55,Hyland STEAL (1 STL),,Giddey Bad Pass Turnover (P4.T11),,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,425,2,103,3,10:35 PM,4:52,MISS Hyland 30' 3PT Running Pull-Up Jump Shot,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,426,4,0,3,10:35 PM,4:48,,,Pokusevski REBOUND (Off:0 Def:6),,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,427,1,79,3,10:35 PM,4:44,,,Giddey 25' 3PT Pullup Jump Shot (14 PTS) (Pokusevski 2 AST),74 - 69,-5,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,429,9,1,3,10:35 PM,4:43,NUGGETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,432,8,0,3,10:37 PM,4:43,SUB: Smith FOR Hyland,,,,,4,1630538,Bones Hyland,1610612743.0,Denver,Nuggets,DEN,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,434,5,1,3,10:38 PM,4:30,Reed Bad Pass Turnover (P1.T14),,Giddey STEAL (2 STL),,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,577,2,5,3,10:38 PM,4:23,Green BLOCK (2 BLK),,MISS Pokusevski 2' Layup,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,579,4,0,3,10:38 PM,4:23,Brown REBOUND (Off:0 Def:3),,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,438,6,2,3,10:38 PM,4:10,,,K. Williams S.FOUL (P4.T4) (B.Nansel),,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,440,3,11,3,10:39 PM,4:10,Green Free Throw 1 of 2 (10 PTS),,,74 - 70,-4,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,441,8,0,3,10:39 PM,4:10,SUB: Braun FOR Reed,,,,,4,1628432,Davon Reed,1610612743.0,Denver,Nuggets,DEN,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,442,8,0,3,10:39 PM,4:10,,,SUB: Bazley FOR Pokusevski,,,5,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,445,3,12,3,10:39 PM,4:10,Green Free Throw 2 of 2 (11 PTS),,,74 - 71,-3,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,446,6,2,3,10:39 PM,3:58,Smith S.FOUL (P1.T3) (J.Orr),,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,448,3,11,3,10:40 PM,3:58,,,Mann Free Throw 1 of 2 (16 PTS),75 - 71,-4,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,449,8,0,3,10:40 PM,3:58,SUB: Cancar FOR Green,,,,,4,201145,Jeff Green,1610612743.0,Denver,Nuggets,DEN,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,450,8,0,3,10:40 PM,3:58,,,SUB: Jal. Williams FOR Giddey,,,5,1630581,Josh Giddey,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,453,3,12,3,10:40 PM,3:58,,,Mann Free Throw 2 of 2 (17 PTS),76 - 71,-5,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,454,2,1,3,10:41 PM,3:40,MISS Braun 3PT Jump Shot,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,455,4,0,3,10:41 PM,3:39,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,456,8,0,3,10:41 PM,3:39,,,SUB: Dieng FOR Mann,,,5,1630544,Tre Mann,1610612760.0,Oklahoma City,Thunder,OKC,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,458,6,3,3,10:41 PM,3:38,Nnaji L.B.FOUL (P1.T4) (B.Nansel),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,460,1,1,3,10:41 PM,3:20,,,Dieng 26' 3PT Jump Shot (3 PTS) (Jay. Williams 1 AST),79 - 71,-8,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,462,6,1,3,10:42 PM,3:11,,,Jal. Williams P.FOUL (P2.PN) (B.Nansel),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,464,3,11,3,10:42 PM,3:11,Nnaji Free Throw 1 of 2 (1 PTS),,,79 - 72,-7,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,465,8,0,3,10:42 PM,3:11,SUB: Watson FOR Brown,,,,,4,1628971,Bruce Brown,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0012200011,467,3,12,3,10:42 PM,3:11,Nnaji Free Throw 2 of 2 (2 PTS),,,79 - 73,-6,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,468,5,1,3,10:43 PM,3:01,Watson STEAL (1 STL),,Jal. Williams Bad Pass Turnover (P1.T12),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,470,2,5,3,10:43 PM,2:57,MISS Braun 4' Layup,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,471,4,0,3,10:43 PM,2:55,Nnaji REBOUND (Off:1 Def:0),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,472,1,97,3,10:43 PM,2:55,Nnaji Tip Layup Shot (4 PTS),,,79 - 75,-4,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,473,6,1,3,10:43 PM,2:45,Smith P.FOUL (P2.PN) (J.Orr),,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,475,3,11,3,10:43 PM,2:45,,,MISS Jal. Williams Free Throw 1 of 2,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,476,4,1,3,10:43 PM,2:45,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,479,3,12,3,10:43 PM,2:45,,,Jal. Williams Free Throw 2 of 2 (8 PTS),80 - 75,-5,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,477,8,0,3,10:43 PM,2:45,,,SUB: Wiggins FOR K. Williams,,,5,1629026,Kenrich Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,480,1,7,3,10:44 PM,2:26,Nnaji 2' Dunk (6 PTS) (Cancar 1 AST),,,80 - 77,-3,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,482,1,1,3,10:44 PM,2:12,,,Wiggins 26' 3PT Jump Shot (12 PTS) (Jal. Williams 2 AST),83 - 77,-6,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,484,5,39,3,10:44 PM,2:00,Watson Step Out of Bounds Turnover (P1.T15),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,485,2,79,3,10:45 PM,1:42,,,MISS Dieng 25' 3PT Pullup Jump Shot,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,486,4,0,3,10:45 PM,1:42,,,Bazley REBOUND (Off:2 Def:4),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,487,1,97,3,10:45 PM,1:34,,,Bazley Tip Layup Shot (7 PTS),85 - 77,-8,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,488,6,1,3,10:45 PM,1:32,,,Jal. Williams P.FOUL (P3.PN) (B.Nansel),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,490,3,11,3,10:46 PM,1:32,Smith Free Throw 1 of 2 (1 PTS),,,85 - 78,-7,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,491,3,12,3,10:46 PM,1:32,MISS Smith Free Throw 2 of 2,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,492,4,0,3,10:46 PM,1:27,,,Jay. Williams REBOUND (Off:1 Def:2),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,493,1,1,3,10:46 PM,1:17,,,Wiggins 3PT Jump Shot (15 PTS) (Jay. Williams 2 AST),88 - 78,-10,5,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,495,5,2,3,10:47 PM,0:59,Cancar Lost Ball Turnover (P1.T16),,Jay. Williams STEAL (1 STL),,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,497,1,41,3,10:47 PM,0:55,,,Jay. Williams 1' Running Layup (2 PTS) (Bazley 2 AST),90 - 78,-12,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,499,1,79,3,10:47 PM,0:38,Smith 16' Pullup Jump Shot (3 PTS) (Watson 1 AST),,,90 - 80,-10,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,501,5,45,3,10:48 PM,0:23,,,Jal. Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,502,8,0,3,10:48 PM,0:23,,,SUB: Omoruyi FOR Jay. Williams,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,504,1,73,3,10:48 PM,0:04,Smith 3' Driving Reverse Layup (5 PTS),,,90 - 82,-8,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,505,2,2,3,10:48 PM,0:00,,,MISS Omoruyi 48' 3PT Running Jump Shot,,,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,506,4,0,3,10:48 PM,0:00,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200011,508,13,0,3,10:49 PM,0:00,,End of 3rd Period (10:49 PM EST),,90 - 82,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200011,511,12,0,4,10:51 PM,12:00,,Start of 4th Period (10:51 PM EST),,90 - 82,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,512,2,44,4,10:51 PM,11:49,MISS Watson 3' Reverse Layup,,Dieng BLOCK (1 BLK),,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200011,514,4,0,4,10:51 PM,11:44,,,Bazley REBOUND (Off:2 Def:5),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,515,6,26,4,10:51 PM,11:44,,,Dieng Offensive Charge Foul (P1) (B.Nansel),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,517,5,37,4,10:51 PM,11:44,,,Dieng Offensive Foul Turnover (P1.T14),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,670,9,1,4,10:52 PM,11:44,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,518,18,6,4,10:52 PM,11:44,,Instant Replay4th Period (10:52 PM EST),,90 - 82,-8,0,515,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200011,519,2,6,4,10:55 PM,11:27,MISS Braun 2' Driving Layup,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,520,4,0,4,10:55 PM,11:23,,,Dieng REBOUND (Off:0 Def:2),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,521,5,40,4,10:55 PM,11:23,,,Bazley Out of Bounds Lost Ball Turnover (P1.T15),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,522,6,1,4,10:55 PM,11:15,,,Omoruyi P.FOUL (P1.T1) (B.Nansel),,,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,524,2,79,4,10:56 PM,11:10,MISS Smith 15' Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,525,4,0,4,10:56 PM,11:06,,,Waters III REBOUND (Off:0 Def:1),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,526,1,98,4,10:56 PM,10:56,,,Omoruyi 3' Cutting Layup Shot (2 PTS) (Jal. Williams 3 AST),92 - 82,-10,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,528,2,79,4,10:56 PM,10:42,MISS Cancar 27' 3PT Pullup Jump Shot,,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,529,4,0,4,10:56 PM,10:37,,,Jal. Williams REBOUND (Off:0 Def:1),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,530,5,45,4,10:56 PM,10:29,,,Jal. Williams Out of Bounds - Bad Pass Turnover Turnover (P3.T16),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,531,5,1,4,10:57 PM,10:15,Cancar Bad Pass Turnover (P2.T17),,Omoruyi STEAL (1 STL),,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,533,1,41,4,10:57 PM,10:11,,,Omoruyi 2' Running Layup (4 PTS),94 - 82,-12,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,534,6,2,4,10:57 PM,10:11,Watson S.FOUL (P1.T1) (T.Maddox),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,536,9,1,4,10:57 PM,10:11,NUGGETS Timeout: Regular (Full 6 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,537,8,0,4,10:59 PM,10:11,,,SUB: Nwaba FOR Dieng,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,539,3,10,4,11:00 PM,10:11,,,Omoruyi Free Throw 1 of 1 (5 PTS),95 - 82,-13,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,540,6,2,4,11:00 PM,10:01,,,Waters III S.FOUL (P1.T2) (J.Orr),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,542,3,11,4,11:00 PM,10:01,Braun Free Throw 1 of 2 (1 PTS),,,95 - 83,-12,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,543,3,12,4,11:01 PM,10:01,Braun Free Throw 2 of 2 (2 PTS),,,95 - 84,-11,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,544,2,1,4,11:01 PM,9:52,Smith BLOCK (1 BLK),,MISS Waters III 26' 3PT Jump Shot,,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,546,4,0,4,11:01 PM,9:49,,,Nwaba REBOUND (Off:1 Def:0),,,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,547,6,2,4,11:01 PM,9:37,Braun S.FOUL (P1.T2) (B.Nansel),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,549,18,0,4,11:02 PM,9:37,,Instant Replay4th Period (11:02 PM EST),,95 - 84,-11,0,547,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200011,550,3,13,4,11:03 PM,9:37,,,Nwaba Free Throw 1 of 3 (1 PTS),96 - 84,-12,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,551,3,14,4,11:03 PM,9:37,,,Nwaba Free Throw 2 of 3 (2 PTS),97 - 84,-13,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,552,3,15,4,11:04 PM,9:37,,,Nwaba Free Throw 3 of 3 (3 PTS),98 - 84,-14,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,553,2,79,4,11:04 PM,9:14,MISS Smith 19' Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,554,4,0,4,11:04 PM,9:14,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,555,6,4,4,11:04 PM,9:05,,,Bazley OFF.Foul (P1) (T.Maddox),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,557,5,37,4,11:04 PM,9:05,,,Bazley Offensive Foul Turnover (P2.T17),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,558,2,1,4,11:05 PM,8:55,MISS Cancar 15' Jump Shot,,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,559,4,0,4,11:05 PM,8:51,,,Bazley REBOUND (Off:2 Def:6),,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,560,6,2,4,11:05 PM,8:47,Cancar S.FOUL (P1.T3) (T.Maddox),,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,562,3,11,4,11:05 PM,8:47,,,Bazley Free Throw 1 of 2 (8 PTS),99 - 84,-15,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,563,3,12,4,11:05 PM,8:47,,,MISS Bazley Free Throw 2 of 2,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,564,4,0,4,11:06 PM,8:42,Braun REBOUND (Off:0 Def:1),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,565,2,73,4,11:06 PM,8:25,MISS Braun 2' Driving Reverse Layup,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,566,4,0,4,11:06 PM,8:21,Nnaji REBOUND (Off:2 Def:0),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,567,1,97,4,11:06 PM,8:21,Nnaji Tip Layup Shot (8 PTS),,,99 - 86,-13,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,568,5,2,4,11:06 PM,8:15,Watson STEAL (2 STL),,Omoruyi Lost Ball Turnover (P1.T18),,,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,570,1,50,4,11:06 PM,8:10,Nnaji 1' Running Dunk (10 PTS) (Cancar 2 AST),,,99 - 88,-11,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,572,2,80,4,11:06 PM,7:51,,,MISS Jal. Williams 22' Step Back Jump Shot,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,573,4,0,4,11:06 PM,7:48,Watson REBOUND (Off:0 Def:1),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,574,2,1,4,11:07 PM,7:36,MISS Nnaji 3PT Jump Shot,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,575,4,0,4,11:07 PM,7:32,,,Waters III REBOUND (Off:0 Def:2),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,576,9,1,4,11:07 PM,7:28,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,580,8,0,4,11:08 PM,7:28,,,SUB: Jay. Williams FOR Jal. Williams,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,581,8,0,4,11:08 PM,7:28,,,SUB: Dieng FOR Bazley,,,5,1629647,Darius Bazley,1610612760.0,Oklahoma City,Thunder,OKC,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,584,6,2,4,11:09 PM,7:24,Nnaji S.FOUL (P2.T4) (B.Nansel),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,586,6,11,4,11:09 PM,7:24,Nnaji T.FOUL (P2.T4) (B.Nansel),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,1
+0012200011,587,3,16,4,11:09 PM,7:24,,,MISS Waters III Free Throw Technical,,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,588,4,1,4,11:09 PM,7:24,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,589,3,11,4,11:10 PM,7:24,,,Dieng Free Throw 1 of 2 (4 PTS),100 - 88,-12,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,590,3,12,4,11:10 PM,7:24,,,Dieng Free Throw 2 of 2 (5 PTS),101 - 88,-13,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,591,2,43,4,11:10 PM,7:10,MISS Nnaji 2' Alley Oop Layup,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,592,4,0,4,11:10 PM,7:06,,,Nwaba REBOUND (Off:1 Def:1),,,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,593,2,75,4,11:10 PM,7:02,Watson BLOCK (1 BLK),,MISS Nwaba 3' Driving Finger Roll Layup,,,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,594,4,0,4,11:10 PM,7:00,Braun REBOUND (Off:0 Def:2),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,596,2,1,4,11:10 PM,6:49,MISS Cancar 24' 3PT Jump Shot,,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,597,4,0,4,11:10 PM,6:47,,,Waters III REBOUND (Off:0 Def:3),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,598,2,47,4,11:11 PM,6:33,,,MISS Dieng 13' Turnaround Jump Shot,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,599,4,0,4,11:11 PM,6:30,Cancar REBOUND (Off:0 Def:1),,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,600,2,79,4,11:11 PM,6:07,MISS Watson 19' Pullup Jump Shot,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,601,4,0,4,11:11 PM,6:04,,,Dieng REBOUND (Off:0 Def:3),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,602,6,2,4,11:11 PM,5:59,Braun S.FOUL (P2.PN) (J.Orr),,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200011,604,3,11,4,11:12 PM,5:59,,,MISS Jay. Williams Free Throw 1 of 2,,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,605,4,1,4,11:12 PM,5:59,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,606,3,12,4,11:12 PM,5:59,,,Jay. Williams Free Throw 2 of 2 (3 PTS),102 - 88,-14,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200011,607,1,80,4,11:12 PM,5:48,Smith 16' Step Back Jump Shot (7 PTS),,,102 - 90,-12,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,608,2,1,4,11:13 PM,5:31,,,MISS Dieng 27' 3PT Jump Shot,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,609,4,0,4,11:13 PM,5:28,Watson REBOUND (Off:0 Def:2),,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,610,1,1,4,11:13 PM,5:17,Nnaji 24' 3PT Jump Shot (13 PTS) (Watson 2 AST),,,102 - 93,-9,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,612,5,1,4,11:13 PM,4:59,Cancar STEAL (1 STL),,Dieng Bad Pass Turnover (P2.T19),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1
+0012200011,614,6,2,4,11:13 PM,4:57,,,Waters III S.FOUL (P2.T3) (J.Orr),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,616,3,11,4,11:14 PM,4:57,Cancar Free Throw 1 of 2 (1 PTS),,,102 - 94,-8,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0012200011,617,8,0,4,11:14 PM,4:57,,,SUB: Jal. Williams FOR Omoruyi,,,5,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,619,3,12,4,11:14 PM,4:57,Cancar Free Throw 2 of 2 (2 PTS),,,102 - 95,-7,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,620,1,6,4,11:14 PM,4:36,,,Waters III 4' Driving Layup (2 PTS),104 - 95,-9,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,622,6,2,4,11:15 PM,4:28,,,Jay. Williams S.FOUL (P1.T4) (B.Nansel),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,624,3,11,4,11:15 PM,4:28,MISS Braun Free Throw 1 of 2,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,625,4,1,4,11:15 PM,4:28,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,626,3,12,4,11:16 PM,4:28,Braun Free Throw 2 of 2 (3 PTS),,,104 - 96,-8,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,627,5,40,4,11:16 PM,4:22,,,Jal. Williams Out of Bounds Lost Ball Turnover (P4.T20),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200011,628,2,79,4,11:16 PM,4:07,MISS Smith 17' Pullup Jump Shot,,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,630,2,97,4,11:16 PM,3:58,MISS Nnaji Tip Layup Shot,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,631,4,0,4,11:16 PM,3:58,Nnaji REBOUND (Off:3 Def:0),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,629,4,0,4,11:16 PM,3:58,Nnaji REBOUND (Off:4 Def:0),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,632,2,72,4,11:16 PM,3:56,MISS Nnaji Putback Layup,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,633,4,0,4,11:16 PM,3:52,Nnaji REBOUND (Off:5 Def:0),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,634,1,97,4,11:16 PM,3:52,Nnaji Tip Layup Shot (15 PTS),,,104 - 98,-6,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,635,2,108,4,11:17 PM,3:39,Watson BLOCK (2 BLK),,MISS Nwaba 3' Cutting Dunk Shot,,,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,1
+0012200011,636,4,0,4,11:17 PM,3:37,Smith REBOUND (Off:0 Def:1),,,,,4,202397,Ish Smith,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,637,2,75,4,11:17 PM,3:29,MISS Braun 4' Driving Finger Roll Layup,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,638,4,0,4,11:17 PM,3:27,,,Jay. Williams REBOUND (Off:1 Def:3),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,639,1,75,4,11:17 PM,3:22,,,Jal. Williams 5' Driving Finger Roll Layup (10 PTS),106 - 98,-8,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,640,2,1,4,11:17 PM,2:56,MISS Braun 26' 3PT Jump Shot,,,,,4,1631128,Christian Braun,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,641,4,0,4,11:17 PM,2:54,,,Jay. Williams REBOUND (Off:1 Def:4),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,642,1,1,4,11:18 PM,2:37,,,Waters III 27' 3PT Jump Shot (5 PTS) (Jal. Williams 4 AST),109 - 98,-11,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,644,9,1,4,11:18 PM,2:36,NUGGETS Timeout: Regular (Full 7 Short 0),,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,646,8,0,4,11:19 PM,2:36,,,SUB: Killeya-Jones FOR Nwaba,,,5,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,5,1630248,Sacha Killeya-Jones,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200011,648,2,1,4,11:20 PM,2:18,MISS Cancar 25' 3PT Jump Shot,,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,649,4,0,4,11:20 PM,2:13,,,Dieng REBOUND (Off:0 Def:4),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,650,5,40,4,11:20 PM,1:59,,,Jal. Williams Out of Bounds Lost Ball Turnover (P5.T21),,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0012200011,651,6,2,4,11:20 PM,1:48,,,Jay. Williams S.FOUL (P2.PN) (B.Nansel),,,5,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,1
+0012200011,653,3,11,4,11:21 PM,1:48,MISS Cancar Free Throw 1 of 2,,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,654,4,1,4,11:21 PM,1:48,NUGGETS Rebound,,,,,2,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200011,655,3,12,4,11:21 PM,1:48,Cancar Free Throw 2 of 2 (3 PTS),,,109 - 99,-10,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,656,2,63,4,11:22 PM,1:30,,,MISS Jal. Williams 4' Fadeaway Jumper,,,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,657,4,0,4,11:22 PM,1:28,Nnaji REBOUND (Off:5 Def:1),,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,658,1,86,4,11:22 PM,1:20,Watson 14' Turnaround Fadeaway (2 PTS),,,109 - 101,-8,4,1631212,Peyton Watson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,659,2,1,4,11:22 PM,1:00,,,MISS Dieng 31' 3PT Jump Shot,,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,660,4,0,4,11:22 PM,0:58,Cancar REBOUND (Off:0 Def:2),,,,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,661,2,78,4,11:22 PM,0:50,MISS Cancar 3' Floating Jump Shot,,Killeya-Jones BLOCK (1 BLK),,,4,1628427,Vlatko Cancar,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,5,1630248,Sacha Killeya-Jones,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200011,663,4,0,4,11:22 PM,0:46,,,Waters III REBOUND (Off:0 Def:4),,,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,664,1,1,4,11:23 PM,0:34,,,Waters III 28' 3PT Jump Shot (8 PTS) (Jal. Williams 5 AST),112 - 101,-11,5,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,5,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200011,666,2,1,4,11:23 PM,0:22,MISS Nnaji 3PT Jump Shot,,,,,4,1630192,Zeke Nnaji,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,1
+0012200011,667,4,0,4,11:23 PM,0:19,,,Dieng REBOUND (Off:0 Def:5),,,5,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200011,668,13,0,4,11:23 PM,0:00,,End of 4th Period (11:23 PM EST),,112 - 101,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

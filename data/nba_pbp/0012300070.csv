@@ -1,0 +1,473 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012300070,2,12,0,1,8:12 PM,12:00,,Start of 1st Period (8:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,4,10,0,1,8:12 PM,12:00,Jump Ball Lively II vs. Duren: Tip to Thompson,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,1
+0012300070,7,2,102,1,8:13 PM,11:40,,,MISS Ivey 7' Driving Floating Bank Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,8,4,0,1,8:13 PM,11:37,,,Thompson REBOUND (Off:1 Def:0),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,9,2,97,1,8:13 PM,11:36,,,MISS Thompson Tip Layup Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,10,4,0,1,8:13 PM,11:35,Lively II REBOUND (Off:0 Def:1),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,11,2,7,1,8:13 PM,11:22,MISS Lively II 2' Dunk,,Ivey BLOCK (1 BLK),,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,1
+0012300070,13,4,0,1,8:13 PM,11:19,,,Cunningham REBOUND (Off:0 Def:1),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,14,5,40,1,8:13 PM,11:17,,,Cunningham Out of Bounds Lost Ball Turnover (P1.T1),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0012300070,15,1,79,1,8:13 PM,11:02,Green 17' Pullup Jump Shot (2 PTS) (Lively II 1 AST),,,0 - 2,2,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,17,6,2,1,8:14 PM,10:42,Jones Jr. S.FOUL (P1.T1) (B.Maru),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,19,3,11,1,8:14 PM,10:42,,,Stewart Free Throw 1 of 2 (1 PTS),1 - 2,1,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,20,3,12,1,8:14 PM,10:42,,,Stewart Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,21,2,1,1,8:14 PM,10:30,MISS Irving 24' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,22,4,0,1,8:15 PM,10:26,,,Cunningham REBOUND (Off:0 Def:2),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,23,2,41,1,8:15 PM,10:20,,,MISS Stewart 2' Running Layup,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,25,1,97,1,8:15 PM,10:17,,,Stewart Tip Layup Shot (4 PTS),4 - 2,-2,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,24,4,0,1,8:15 PM,10:17,,,Stewart REBOUND (Off:1 Def:0),,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,26,5,45,1,8:15 PM,10:13,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012300070,28,1,108,1,8:16 PM,9:51,,,Duren 1' Cutting Dunk Shot (2 PTS) (Ivey 1 AST),6 - 2,-4,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,30,1,80,1,8:16 PM,9:40,Williams 12' Step Back Jump Shot (2 PTS),,,6 - 4,-2,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,31,2,79,1,8:16 PM,9:32,,,MISS Cunningham 25' 3PT Pullup Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,32,4,0,1,8:16 PM,9:30,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,33,1,1,1,8:16 PM,9:24,Green 24' 3PT Jump Shot (5 PTS) (Lively II 2 AST),,,6 - 7,1,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,35,2,1,1,8:16 PM,9:08,,,MISS Stewart 26' 3PT Jump Shot,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,36,4,0,1,8:16 PM,9:06,Irving REBOUND (Off:0 Def:2),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,37,2,41,1,8:16 PM,9:02,MISS Williams 4' Running Layup,,Stewart BLOCK (1 BLK),,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1
+0012300070,39,4,0,1,8:16 PM,8:59,,,Stewart REBOUND (Off:1 Def:1),,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,40,1,75,1,8:17 PM,8:51,,,Thompson 7' Driving Finger Roll Layup (2 PTS) (Ivey 2 AST),8 - 7,-1,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,42,1,108,1,8:17 PM,8:37,Lively II 2' Cutting Dunk Shot (2 PTS) (Irving 1 AST),,,8 - 9,1,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,45,1,101,1,8:17 PM,8:24,,,Cunningham 11' Driving Floating Jump Shot (2 PTS),10 - 9,-1,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,46,1,1,1,8:17 PM,8:08,Jones Jr. 26' 3PT Jump Shot (3 PTS) (Irving 2 AST),,,10 - 12,2,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,48,5,1,1,8:18 PM,7:54,Williams STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T2),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,50,1,1,1,8:18 PM,7:50,Green 26' 3PT Jump Shot (8 PTS) (Irving 3 AST),,,10 - 15,5,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,52,2,1,1,8:18 PM,7:25,,,MISS Cunningham 19' Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,53,4,0,1,8:18 PM,7:22,Lively II REBOUND (Off:0 Def:2),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,54,1,52,1,8:18 PM,7:16,Lively II 2' Alley Oop Dunk (4 PTS) (Irving 4 AST),,,10 - 17,7,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,56,9,1,1,8:18 PM,7:16,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,57,6,26,1,8:21 PM,7:03,,,Thompson Offensive Charge Foul (P1) (K.Scott),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,59,5,37,1,8:21 PM,7:03,,,Thompson Offensive Foul Turnover (P2.T3),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0012300070,60,5,1,1,8:22 PM,6:50,Williams Bad Pass Turnover (P1.T2),,Duren STEAL (1 STL),,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,62,1,50,1,8:22 PM,6:46,,,Duren 1' Running Dunk (4 PTS),12 - 17,5,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,63,1,6,1,8:22 PM,6:36,Irving 2' Driving Layup (2 PTS),,,12 - 19,7,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,64,6,2,1,8:22 PM,6:36,,,Thompson S.FOUL (P2.T1) (B.Maru),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,66,8,0,1,8:22 PM,6:36,SUB: Hardaway Jr. FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,68,3,10,1,8:23 PM,6:36,Irving Free Throw 1 of 1 (3 PTS),,,12 - 20,8,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,69,1,47,1,8:23 PM,6:19,,,Cunningham 10' Turnaround Jump Shot (4 PTS),14 - 20,6,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,70,1,75,1,8:23 PM,6:01,Green 4' Driving Finger Roll Layup (10 PTS) (Irving 5 AST),,,14 - 22,8,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,72,1,1,1,8:24 PM,5:48,,,Ivey 26' 3PT Jump Shot (3 PTS) (Duren 1 AST),17 - 22,5,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,74,2,1,1,8:24 PM,5:41,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,75,4,0,1,8:24 PM,5:38,,,Cunningham REBOUND (Off:0 Def:3),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,76,1,74,1,8:24 PM,5:35,,,Ivey 1' Running Reverse Layup (5 PTS) (Cunningham 1 AST),19 - 22,3,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,78,1,79,1,8:24 PM,5:27,Hardaway Jr. 26' 3PT Pullup Jump Shot (3 PTS) (Williams 1 AST),,,19 - 25,6,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,80,1,98,1,8:24 PM,5:11,,,Duren 1' Cutting Layup Shot (6 PTS) (Ivey 3 AST),21 - 25,4,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,82,1,1,1,8:24 PM,5:03,Green 3PT Jump Shot (13 PTS) (Hardaway Jr. 1 AST),,,21 - 28,7,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,84,2,1,1,8:25 PM,4:46,,,MISS Thompson 27' 3PT Jump Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,85,4,0,1,8:25 PM,4:42,Green REBOUND (Off:0 Def:1),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,86,5,1,1,8:25 PM,4:37,Green Bad Pass Turnover (P2.T3),,Duren STEAL (2 STL),,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,88,2,41,1,8:25 PM,4:31,,,MISS Cunningham 2' Running Layup,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,89,4,0,1,8:25 PM,4:30,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,91,8,0,1,8:25 PM,4:30,SUB: Powell FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,92,8,0,1,8:25 PM,4:30,SUB: Curry FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,95,5,1,1,8:25 PM,4:25,Green STEAL (1 STL),,Ivey Bad Pass Turnover (P1.T4),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,97,6,2,1,8:25 PM,4:22,,,Cunningham S.FOUL (P1.T2) (M.Dagher),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,99,3,11,1,8:26 PM,4:22,Green Free Throw 1 of 2 (14 PTS),,,21 - 29,8,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,100,8,0,1,8:26 PM,4:22,,,SUB: Bagley III FOR Duren,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,101,8,0,1,8:26 PM,4:22,,,SUB: Sasser FOR Ivey,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,104,3,12,1,8:26 PM,4:22,Green Free Throw 2 of 2 (15 PTS),,,21 - 30,9,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,105,2,1,1,8:27 PM,4:03,,,MISS Stewart 25' 3PT Jump Shot,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,106,4,0,1,8:27 PM,4:00,Hardaway Jr. REBOUND (Off:0 Def:1),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,107,2,79,1,8:27 PM,3:56,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,108,4,0,1,8:27 PM,3:53,,,Stewart REBOUND (Off:1 Def:2),,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,109,2,80,1,8:27 PM,3:47,,,MISS Cunningham 26' 3PT Step Back Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,110,4,0,1,8:27 PM,3:44,Powell REBOUND (Off:0 Def:1),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,111,1,79,1,8:27 PM,3:32,Hardaway Jr. 16' Pullup Jump Shot (5 PTS) (Powell 1 AST),,,21 - 32,11,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,113,1,5,1,8:27 PM,3:14,,,Thompson 1' Layup (4 PTS) (Stewart 1 AST),23 - 32,9,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,115,6,2,1,8:27 PM,3:14,Williams S.FOUL (P1.T2) (B.Maru),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,117,9,1,1,8:28 PM,3:14,MAVERICKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,118,8,0,1,8:28 PM,3:14,SUB: Kleber FOR Williams,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,119,8,0,1,8:28 PM,3:14,SUB: Exum FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,120,8,0,1,8:28 PM,3:14,,,SUB: Umude FOR Stewart,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,124,3,10,1,8:31 PM,3:14,,,Thompson Free Throw 1 of 1 (5 PTS),24 - 32,8,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,125,2,1,1,8:31 PM,2:52,MISS Kleber 26' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,126,4,0,1,8:31 PM,2:50,,,Cunningham REBOUND (Off:0 Def:4),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,127,5,1,1,8:31 PM,2:42,Curry STEAL (1 STL),,Cunningham Bad Pass Turnover (P2.T5),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,129,6,2,1,8:31 PM,2:39,,,Sasser S.FOUL (P1.T3) (B.Maru),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,131,3,11,1,8:32 PM,2:39,MISS Curry Free Throw 1 of 2,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,132,4,1,1,8:32 PM,2:39,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,133,3,12,1,8:32 PM,2:39,Curry Free Throw 2 of 2 (1 PTS),,,24 - 33,9,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,134,2,6,1,8:32 PM,2:20,,,MISS Bagley III 3' Driving Layup,,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,135,4,0,1,8:32 PM,2:18,Curry REBOUND (Off:0 Def:1),,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,136,1,1,1,8:32 PM,2:13,Kleber 24' 3PT Jump Shot (3 PTS) (Hardaway Jr. 2 AST),,,24 - 36,12,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,138,2,1,1,8:32 PM,1:58,,,MISS Sasser 26' 3PT Jump Shot,,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,139,4,0,1,8:33 PM,1:56,Hardaway Jr. REBOUND (Off:0 Def:2),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,140,2,79,1,8:33 PM,1:50,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,141,4,0,1,8:33 PM,1:47,,,Sasser REBOUND (Off:0 Def:1),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,142,1,1,1,8:33 PM,1:37,,,Umude 25' 3PT Jump Shot (3 PTS) (Cunningham 2 AST),27 - 36,9,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,144,1,1,1,8:33 PM,1:24,Curry 20' Jump Shot (3 PTS) (Exum 1 AST),,,27 - 38,11,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,146,2,6,1,8:33 PM,1:04,,,MISS Bagley III 6' Driving Layup,,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,147,4,0,1,8:33 PM,1:00,Hardaway Jr. REBOUND (Off:0 Def:3),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,148,2,79,1,8:34 PM,0:51,MISS Curry 19' Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,149,4,0,1,8:34 PM,0:50,,,Bagley III REBOUND (Off:0 Def:1),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,150,5,2,1,8:34 PM,0:42,Hardaway Jr. STEAL (1 STL),,Thompson Lost Ball Turnover (P3.T6),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,152,2,79,1,8:34 PM,0:37,MISS Hardaway Jr. 25' 3PT Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,153,4,0,1,8:34 PM,0:34,,,Cunningham REBOUND (Off:0 Def:5),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,154,2,6,1,8:34 PM,0:18,,,MISS Umude 3' Driving Layup,,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,155,4,0,1,8:34 PM,0:16,Powell REBOUND (Off:0 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,156,6,2,1,8:34 PM,0:01,,,Umude S.FOUL (P1.T4) (B.Maru),,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,158,3,13,1,8:35 PM,0:01,Hardaway Jr. Free Throw 1 of 3 (6 PTS),,,27 - 39,12,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,159,3,14,1,8:35 PM,0:01,Hardaway Jr. Free Throw 2 of 3 (7 PTS),,,27 - 40,13,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,160,3,15,1,8:35 PM,0:01,MISS Hardaway Jr. Free Throw 3 of 3,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,161,4,0,1,8:35 PM,0:01,,,Umude REBOUND (Off:0 Def:1),,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,162,13,0,1,8:36 PM,0:00,,End of 1st Period (8:36 PM EST),,27 - 40,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012300070,171,12,0,2,8:38 PM,12:00,,Start of 2nd Period (8:38 PM EST),,27 - 40,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,173,5,11,2,8:39 PM,11:36,MAVERICKS Turnover: Shot Clock (T#4),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,1
+0012300070,174,1,79,2,8:39 PM,11:28,,,Sasser 17' Pullup Jump Shot (2 PTS) (Bagley III 1 AST),29 - 40,11,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,176,1,51,2,8:39 PM,11:09,Lively II 2' Reverse Dunk (6 PTS) (Hardaway Jr. 3 AST),,,29 - 42,13,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,178,1,75,2,8:40 PM,10:53,,,Sasser 1' Driving Finger Roll Layup (4 PTS),31 - 42,11,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,179,6,2,2,8:40 PM,10:38,,,Sasser S.FOUL (P2.T1) (M.Dagher),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,181,3,11,2,8:40 PM,10:38,Kleber Free Throw 1 of 2 (4 PTS),,,31 - 43,12,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,182,3,12,2,8:41 PM,10:38,Kleber Free Throw 2 of 2 (5 PTS),,,31 - 44,13,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,183,2,1,2,8:41 PM,10:26,,,MISS Umude 26' 3PT Jump Shot,,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,184,4,0,2,8:41 PM,10:23,,,Sasser REBOUND (Off:1 Def:1),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,185,5,2,2,8:41 PM,10:16,Irving STEAL (1 STL),,Sasser Lost Ball Turnover (P1.T7),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,187,1,78,2,8:41 PM,10:08,Lively II 11' Floating Jump Shot (8 PTS) (Irving 6 AST),,,31 - 46,15,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,190,2,1,2,8:42 PM,9:47,,,MISS Rhoden 20' Jump Shot,,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,191,4,0,2,8:42 PM,9:43,Exum REBOUND (Off:0 Def:1),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,192,6,1,2,8:42 PM,9:36,,,Sasser P.FOUL (P3.T2) (B.Maru),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,194,2,1,2,8:43 PM,9:30,MISS Kleber 27' 3PT Jump Shot,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,195,4,0,2,8:43 PM,9:27,,,Ivey REBOUND (Off:0 Def:1),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,196,1,7,2,8:43 PM,9:19,,,Bagley III 1' Dunk (2 PTS),33 - 46,13,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,198,5,45,2,8:43 PM,9:14,Hardaway Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012300070,199,2,101,2,8:43 PM,8:55,,,MISS Sasser 13' Driving Floating Jump Shot,,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,200,4,0,2,8:43 PM,8:51,Exum REBOUND (Off:0 Def:2),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,201,6,2,2,8:43 PM,8:48,,,Ivey S.FOUL (P1.T3) (K.Scott),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,203,3,11,2,8:44 PM,8:48,Exum Free Throw 1 of 2 (1 PTS),,,33 - 47,14,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,204,3,12,2,8:44 PM,8:48,Exum Free Throw 2 of 2 (2 PTS),,,33 - 48,15,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,205,2,79,2,8:45 PM,8:28,,,MISS Ivey 16' Pullup Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,206,4,0,2,8:45 PM,8:24,,,Rhoden REBOUND (Off:1 Def:0),,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,207,1,1,2,8:45 PM,8:22,,,Sasser 26' 3PT Jump Shot (7 PTS) (Umude 1 AST),36 - 48,12,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,209,2,6,2,8:45 PM,8:09,MISS Exum 5' Driving Layup,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,210,4,0,2,8:45 PM,8:08,Lively II REBOUND (Off:1 Def:2),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,211,1,87,2,8:45 PM,8:07,Lively II 2' Putback Dunk (10 PTS),,,36 - 50,14,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,212,2,6,2,8:45 PM,7:54,Irving BLOCK (1 BLK),,MISS Bagley III 4' Driving Layup,,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,214,4,0,2,8:45 PM,7:52,,,Rhoden REBOUND (Off:2 Def:0),,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,215,1,72,2,8:45 PM,7:51,,,Rhoden 2' Putback Layup (2 PTS),38 - 50,12,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,216,2,79,2,8:45 PM,7:46,MISS Irving 26' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,217,4,0,2,8:45 PM,7:46,,,Bagley III REBOUND (Off:0 Def:2),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,218,2,79,2,8:45 PM,7:34,,,MISS Sasser 14' Pullup Jump Shot,,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,219,4,0,2,8:45 PM,7:31,Lively II REBOUND (Off:1 Def:3),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,220,2,79,2,8:46 PM,7:25,MISS Irving 12' Pullup Jump Shot,,Sasser BLOCK (1 BLK),,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,1
+0012300070,222,4,0,2,8:46 PM,7:23,,,Sasser REBOUND (Off:1 Def:2),,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,223,1,50,2,8:46 PM,7:20,,,Umude Running Dunk (5 PTS) (Ivey 4 AST),40 - 50,10,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,225,9,1,2,8:46 PM,7:20,MAVERICKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,226,8,0,2,8:46 PM,7:20,SUB: Jones Jr. FOR Hardaway Jr.,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,227,8,0,2,8:46 PM,7:20,SUB: Williams FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,228,8,0,2,8:46 PM,7:20,,,SUB: Thompson FOR Sasser,,,5,1631204,Marcus Sasser,1610612765.0,Detroit,Pistons,DET,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,229,8,0,2,8:46 PM,7:20,,,SUB: Wiseman FOR Bagley III,,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,234,2,63,2,8:49 PM,7:03,MISS Irving 15' Fadeaway Jumper,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,235,4,0,2,8:49 PM,7:01,,,Ivey REBOUND (Off:0 Def:2),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,236,2,6,2,8:49 PM,6:47,,,MISS Ivey 6' Driving Layup,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,237,4,0,2,8:49 PM,6:45,Jones Jr. REBOUND (Off:0 Def:1),,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,238,2,1,2,8:49 PM,6:38,MISS Williams 26' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,239,4,0,2,8:49 PM,6:35,,,Thompson REBOUND (Off:1 Def:1),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,240,1,80,2,8:50 PM,6:22,,,Rhoden 3PT Step Back Jump Shot (5 PTS) (Umude 2 AST),43 - 50,7,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,242,1,1,2,8:50 PM,6:07,Irving 26' 3PT Jump Shot (6 PTS) (Exum 2 AST),,,43 - 53,10,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,244,1,1,2,8:50 PM,5:50,,,Wiseman 19' Jump Shot (2 PTS) (Rhoden 1 AST),45 - 53,8,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,246,2,101,2,8:51 PM,5:34,MISS Exum 12' Driving Floating Jump Shot,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,247,4,0,2,8:51 PM,5:32,,,Umude REBOUND (Off:0 Def:2),,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,248,6,1,2,8:51 PM,5:31,Exum P.FOUL (P1.T1) (M.Dagher),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,250,8,0,2,8:51 PM,5:31,SUB: Green FOR Exum,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,251,8,0,2,8:51 PM,5:31,SUB: Curry FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,252,8,0,2,8:51 PM,5:31,,,SUB: Stewart FOR Umude,,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,253,8,0,2,8:51 PM,5:31,,,SUB: Cunningham FOR Ivey,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,258,1,108,2,8:51 PM,5:21,,,Thompson Cutting Dunk Shot (7 PTS) (Rhoden 2 AST),47 - 53,6,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,260,2,80,2,8:51 PM,4:58,MISS Green 13' Step Back Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,261,4,0,2,8:51 PM,4:56,,,Thompson REBOUND (Off:1 Def:2),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,262,2,73,2,8:52 PM,4:43,Lively II BLOCK (1 BLK),,MISS Wiseman 1' Driving Reverse Layup,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,264,4,0,2,8:52 PM,4:42,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,266,8,0,2,8:52 PM,4:42,SUB: Powell FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,268,5,11,2,8:52 PM,4:33,,,Pistons Turnover: Shot Clock (T#8),,,3,1610612765,,,,,,0,0,,,,,,1,0,,,,,,1
+0012300070,269,6,4,2,8:53 PM,4:21,Powell OFF.Foul (P1) (B.Maru),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,271,5,37,2,8:53 PM,4:21,Powell Offensive Foul Turnover (P1.T6),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012300070,272,2,1,2,8:53 PM,4:06,,,MISS Stewart 25' 3PT Jump Shot,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,273,4,0,2,8:53 PM,4:04,Green REBOUND (Off:0 Def:2),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,274,2,6,2,8:53 PM,3:55,MISS Jones Jr. 6' Driving Layup,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,275,4,0,2,8:53 PM,3:52,,,Rhoden REBOUND (Off:2 Def:1),,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,276,2,41,2,8:53 PM,3:50,Williams BLOCK (1 BLK),,MISS Thompson 2' Running Layup,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,277,4,0,2,8:53 PM,3:47,Williams REBOUND (Off:0 Def:1),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,278,5,2,2,8:53 PM,3:42,Green Lost Ball Turnover (P3.T7),,Rhoden STEAL (1 STL),,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,281,6,2,2,8:54 PM,3:39,Williams S.FOUL (P2.T2) (B.Maru),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,283,3,11,2,8:54 PM,3:39,,,Rhoden Free Throw 1 of 2 (6 PTS),48 - 53,5,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,284,3,12,2,8:54 PM,3:39,,,Rhoden Free Throw 2 of 2 (7 PTS),49 - 53,4,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,285,2,6,2,8:55 PM,3:18,MISS Curry 6' Driving Layup,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,286,4,0,2,8:55 PM,3:17,Powell REBOUND (Off:1 Def:2),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,287,1,97,2,8:55 PM,3:17,Powell Tip Layup Shot (2 PTS),,,49 - 55,6,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,288,9,1,2,8:55 PM,3:17,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,289,8,0,2,8:56 PM,3:17,SUB: Irving FOR Curry,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,290,8,0,2,8:56 PM,3:17,SUB: Hardaway Jr. FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,291,8,0,2,8:56 PM,3:17,,,SUB: Duren FOR Wiseman,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,295,2,101,2,8:58 PM,3:05,,,MISS Cunningham 6' Driving Floating Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,296,4,0,2,8:58 PM,3:01,Irving REBOUND (Off:0 Def:3),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,297,2,79,2,8:58 PM,2:51,MISS Hardaway Jr. 25' 3PT Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,298,4,0,2,8:58 PM,2:48,,,Thompson REBOUND (Off:1 Def:3),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,299,2,101,2,8:58 PM,2:35,,,MISS Thompson 4' Driving Floating Jump Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,300,4,0,2,8:58 PM,2:34,,,Thompson REBOUND (Off:2 Def:3),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,301,1,1,2,8:58 PM,2:29,,,Cunningham 25' 3PT Jump Shot (7 PTS) (Stewart 2 AST),52 - 55,3,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,303,6,1,2,8:59 PM,2:14,,,Stewart P.FOUL (P1.T4) (B.Maru),,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,305,1,1,2,8:59 PM,2:06,Irving 28' 3PT Jump Shot (9 PTS) (Powell 2 AST),,,52 - 58,6,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,307,2,47,2,9:00 PM,1:47,,,MISS Stewart 7' Turnaround Jump Shot,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,308,4,0,2,9:00 PM,1:45,Williams REBOUND (Off:0 Def:2),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,309,2,79,2,9:00 PM,1:40,MISS Irving 29' 3PT Pullup Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,310,4,0,2,9:00 PM,1:36,,,Duren REBOUND (Off:0 Def:1),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,311,2,1,2,9:00 PM,1:30,,,MISS Cunningham 26' 3PT Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,312,4,0,2,9:00 PM,1:27,Powell REBOUND (Off:1 Def:3),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,313,5,2,2,9:00 PM,1:20,Hardaway Jr. Lost Ball Turnover (P2.T8),,Rhoden STEAL (2 STL),,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,315,2,1,2,9:00 PM,1:10,,,MISS Rhoden 3PT Jump Shot,,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,316,4,0,2,9:00 PM,1:06,Irving REBOUND (Off:0 Def:4),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,317,2,41,2,9:00 PM,1:02,MISS Green 2' Running Layup,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,318,4,0,2,9:00 PM,0:59,,,Stewart REBOUND (Off:1 Def:3),,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,319,6,2,2,9:00 PM,0:55,Powell S.FOUL (P2.T3) (M.Dagher),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,321,3,11,2,9:01 PM,0:55,,,MISS Thompson Free Throw 1 of 2,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,322,4,1,2,9:01 PM,0:55,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,323,3,12,2,9:01 PM,0:55,,,MISS Thompson Free Throw 2 of 2,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,324,4,0,2,9:01 PM,0:51,Williams REBOUND (Off:0 Def:3),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,325,6,2,2,9:01 PM,0:37,,,Duren S.FOUL (P1.PN) (M.Dagher),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,327,3,11,2,9:02 PM,0:37,Powell Free Throw 1 of 2 (3 PTS),,,52 - 59,7,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,336,5,17,2,9:02 PM,0:37,Williams Lane Violation Turnover (P2.T9),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,330,5,40,2,9:03 PM,0:17,,,Duren Out of Bounds Lost Ball Turnover (P1.T9),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0012300070,331,2,63,2,9:03 PM,0:02,MISS Williams 6' Fadeaway Jumper,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,332,4,0,2,9:03 PM,0:02,,,Thompson REBOUND (Off:2 Def:4),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,333,2,1,2,9:03 PM,0:00,,,MISS Thompson 47' 3PT Jump Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,334,4,0,2,9:03 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,335,13,0,2,9:03 PM,0:00,,End of 2nd Period (9:03 PM EST),,52 - 59,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012300070,343,12,0,3,9:19 PM,12:00,,Start of 3rd Period (9:19 PM EST),,52 - 59,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,344,1,1,3,9:19 PM,11:43,Green 26' 3PT Jump Shot (18 PTS) (Irving 7 AST),,,52 - 62,10,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,346,2,1,3,9:19 PM,11:21,,,MISS Duren 26' 3PT Jump Shot,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,347,4,0,3,9:19 PM,11:18,Irving REBOUND (Off:0 Def:5),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,348,1,1,3,9:20 PM,11:03,Irving 26' 3PT Jump Shot (12 PTS) (Williams 2 AST),,,52 - 65,13,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,350,2,101,3,9:20 PM,10:50,,,MISS Thompson 6' Driving Floating Jump Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,351,4,0,3,9:20 PM,10:49,,,Thompson REBOUND (Off:3 Def:4),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,352,2,97,3,9:20 PM,10:48,,,MISS Thompson Tip Layup Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,353,4,0,3,9:20 PM,10:47,,,Thompson REBOUND (Off:5 Def:4),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,354,2,97,3,9:20 PM,10:46,,,MISS Thompson Tip Layup Shot,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,355,4,0,3,9:20 PM,10:46,,,Thompson REBOUND (Off:5 Def:4),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,357,1,79,3,9:20 PM,10:34,,,Ivey 19' Pullup Jump Shot (7 PTS) (Stewart 3 AST),54 - 65,11,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,359,2,75,3,9:21 PM,10:20,MISS Green 2' Driving Finger Roll Layup,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,360,4,0,3,9:21 PM,10:18,,,Duren REBOUND (Off:0 Def:2),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,361,6,2,3,9:21 PM,10:12,Lively II S.FOUL (P1.T1) (M.Dagher),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,363,3,11,3,9:21 PM,10:12,,,MISS Stewart Free Throw 1 of 2,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,364,4,1,3,9:21 PM,10:12,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,365,3,12,3,9:22 PM,10:12,,,Stewart Free Throw 2 of 2 (5 PTS),55 - 65,10,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,366,2,1,3,9:22 PM,10:05,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,367,4,0,3,9:22 PM,9:59,,,Duren REBOUND (Off:0 Def:3),,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,368,1,6,3,9:22 PM,9:55,,,Thompson 1' Driving Layup (9 PTS) (Cunningham 3 AST),57 - 65,8,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,370,1,1,3,9:22 PM,9:40,Jones Jr. 24' 3PT Jump Shot (6 PTS) (Irving 8 AST),,,57 - 68,11,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,372,2,79,3,9:22 PM,9:30,,,MISS Cunningham 19' Pullup Jump Shot,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,373,4,0,3,9:22 PM,9:26,Williams REBOUND (Off:0 Def:4),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,374,2,1,3,9:22 PM,9:21,MISS Irving 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,375,4,0,3,9:23 PM,9:18,,,Ivey REBOUND (Off:0 Def:3),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,376,2,1,3,9:23 PM,9:14,,,MISS Ivey 26' 3PT Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,377,4,0,3,9:23 PM,9:11,Irving REBOUND (Off:0 Def:6),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,378,6,1,3,9:23 PM,9:09,,,Cunningham P.FOUL (P2.T1) (B.Maru),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,380,2,1,3,9:23 PM,8:57,MISS Williams 25' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,381,4,0,3,9:23 PM,8:54,,,Thompson REBOUND (Off:5 Def:5),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,382,5,2,3,9:23 PM,8:52,Irving STEAL (2 STL),,Thompson Lost Ball Turnover (P4.T10),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,384,1,1,3,9:23 PM,8:46,Williams 25' 3PT Jump Shot (5 PTS) (Jones Jr. 1 AST),,,57 - 71,14,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,386,6,1,3,9:24 PM,8:31,Lively II P.FOUL (P2.T2) (M.Dagher),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,388,6,2,3,9:24 PM,8:22,Williams S.FOUL (P3.T3) (K.Scott),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,390,3,11,3,9:25 PM,8:22,,,MISS Stewart Free Throw 1 of 2,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,391,3,12,3,9:25 PM,8:22,,,Stewart Free Throw 2 of 2 (6 PTS),58 - 71,13,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,392,4,1,3,9:25 PM,8:22,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,393,1,5,3,9:26 PM,8:04,Green 1' Layup (20 PTS) (Irving 9 AST),,,58 - 73,15,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,395,2,6,3,9:26 PM,7:48,Green BLOCK (1 BLK),,MISS Thompson 5' Driving Layup,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,397,4,0,3,9:26 PM,7:46,Irving REBOUND (Off:0 Def:7),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,398,1,50,3,9:26 PM,7:44,Jones Jr. 1' Running Dunk (8 PTS) (Irving 10 AST),,,58 - 75,17,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,400,5,45,3,9:26 PM,7:38,,,Cunningham Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0012300070,401,2,1,3,9:26 PM,7:25,MISS Williams 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,402,4,0,3,9:27 PM,7:20,,,Ivey REBOUND (Off:0 Def:4),,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,403,1,1,3,9:27 PM,7:14,,,Stewart 27' 3PT Jump Shot (9 PTS) (Cunningham 4 AST),61 - 75,14,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,405,2,1,3,9:27 PM,6:59,MISS Green 3PT Jump Shot,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,406,4,0,3,9:27 PM,6:56,,,Thompson REBOUND (Off:5 Def:6),,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,407,2,1,3,9:27 PM,6:52,,,MISS Ivey 26' 3PT Jump Shot,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,408,4,0,3,9:27 PM,6:48,Lively II REBOUND (Off:1 Def:4),,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,409,1,1,3,9:27 PM,6:43,Irving 26' 3PT Jump Shot (15 PTS),,,61 - 78,17,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,410,9,1,3,9:27 PM,6:41,,,Pistons Timeout: Regular (Reg.3 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,411,8,0,3,9:29 PM,6:41,SUB: Hardaway Jr. FOR Jones Jr.,,,,,4,1627884,Derrick Jones Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,412,8,0,3,9:29 PM,6:41,,,SUB: Simpson FOR Duren,,,5,1631105,Jalen Duren,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,413,8,0,3,9:29 PM,6:41,,,SUB: Umude FOR Thompson,,,5,1641709,Ausar Thompson,1610612765.0,Detroit,Pistons,DET,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,414,8,0,3,9:29 PM,6:41,,,SUB: Bagley III FOR Cunningham,,,5,1630595,Cade Cunningham,1610612765.0,Detroit,Pistons,DET,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,415,8,0,3,9:29 PM,6:41,,,SUB: Rhoden FOR Stewart,,,5,1630191,Isaiah Stewart,1610612765.0,Detroit,Pistons,DET,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,416,8,0,3,9:29 PM,6:41,,,SUB: Cazalon FOR Ivey,,,5,1631093,Jaden Ivey,1610612765.0,Detroit,Pistons,DET,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,423,2,79,3,9:30 PM,6:27,,,MISS Umude 20' Pullup Jump Shot,,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,424,4,0,3,9:30 PM,6:23,,,Bagley III REBOUND (Off:1 Def:2),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,425,2,1,3,9:31 PM,6:18,,,MISS Simpson 3PT Jump Shot,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,426,4,0,3,9:31 PM,6:16,Green REBOUND (Off:0 Def:3),,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,427,6,1,3,9:31 PM,6:03,,,Cazalon P.FOUL (P1.T2) (K.Scott),,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,429,2,79,3,9:31 PM,6:01,MISS Hardaway Jr. 21' Pullup Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,430,4,0,3,9:31 PM,6:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,432,2,1,3,9:31 PM,5:47,,,MISS Umude 27' 3PT Jump Shot,,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,433,4,0,3,9:31 PM,5:43,Williams REBOUND (Off:0 Def:5),,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,434,6,2,3,9:32 PM,5:36,,,Bagley III S.FOUL (P1.T3) (B.Maru),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,436,3,11,3,9:32 PM,5:36,Lively II Free Throw 1 of 2 (11 PTS),,,61 - 79,18,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,437,3,12,3,9:32 PM,5:36,Lively II Free Throw 2 of 2 (12 PTS),,,61 - 80,19,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,438,1,1,3,9:33 PM,5:20,,,Cazalon 3PT Jump Shot (3 PTS) (Rhoden 3 AST),64 - 80,16,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,440,2,101,3,9:33 PM,5:07,MISS Irving 10' Driving Floating Jump Shot,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,441,4,0,3,9:33 PM,5:04,,,Bagley III REBOUND (Off:1 Def:3),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,442,1,6,3,9:33 PM,4:58,,,Bagley III 7' Driving Layup (4 PTS),66 - 80,14,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,443,2,1,3,9:33 PM,4:50,MISS Hardaway Jr. 25' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,444,4,0,3,9:33 PM,4:47,,,Bagley III REBOUND (Off:1 Def:4),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,445,1,78,3,9:33 PM,4:39,,,Bagley III 13' Floating Jump Shot (6 PTS) (Simpson 1 AST),68 - 80,12,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,447,1,3,3,9:34 PM,4:22,Lively II 11' Hook Shot (14 PTS) (Irving 11 AST),,,68 - 82,14,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,449,5,1,3,9:34 PM,4:09,Green STEAL (2 STL),,Umude Bad Pass Turnover (P1.T12),,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,451,2,80,3,9:34 PM,4:00,MISS Hardaway Jr. 3PT Step Back Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,452,4,0,3,9:34 PM,3:56,,,Bagley III REBOUND (Off:1 Def:5),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,453,2,5,3,9:34 PM,3:44,,,MISS Simpson 9' Layup,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,454,4,0,3,9:34 PM,3:40,Hardaway Jr. REBOUND (Off:0 Def:4),,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,455,1,50,3,9:34 PM,3:38,Green Running Dunk (22 PTS) (Hardaway Jr. 4 AST),,,68 - 84,16,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,457,2,1,3,9:35 PM,3:22,,,MISS Cazalon 26' 3PT Jump Shot,,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,458,4,0,3,9:35 PM,3:20,,,Bagley III REBOUND (Off:2 Def:5),,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,459,2,78,3,9:35 PM,3:18,,,MISS Bagley III 10' Floating Jump Shot,,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,460,4,0,3,9:35 PM,3:15,Irving REBOUND (Off:0 Def:8),,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,461,1,47,3,9:35 PM,3:02,Irving 13' Turnaround Jump Shot (17 PTS),,,68 - 86,18,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,462,1,79,3,9:35 PM,2:39,,,Rhoden 11' Pullup Jump Shot (9 PTS),70 - 86,16,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,463,9,1,3,9:35 PM,2:37,MAVERICKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,464,8,0,3,9:36 PM,2:37,SUB: Curry FOR Irving,,,,,4,202681,Kyrie Irving,1610612742.0,Dallas,Mavericks,DAL,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,465,8,0,3,9:36 PM,2:37,SUB: Powell FOR Lively II,,,,,4,1641726,Dereck Lively II,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,466,8,0,3,9:36 PM,2:37,SUB: Kleber FOR Williams,,,,,4,1629684,Grant Williams,1610612742.0,Dallas,Mavericks,DAL,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,467,8,0,3,9:36 PM,2:37,,,SUB: Evbuomwan FOR Umude,,,5,1630649,Stanley Umude,1610612765.0,Detroit,Pistons,DET,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,468,8,0,3,9:36 PM,2:37,,,SUB: Wiseman FOR Bagley III,,,5,1628963,Marvin Bagley III,1610612765.0,Detroit,Pistons,DET,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,474,1,6,3,9:39 PM,2:20,Hardaway Jr. 2' Driving Layup (9 PTS) (Curry 1 AST),,,70 - 88,18,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,476,6,4,3,9:39 PM,2:07,,,Wiseman OFF.Foul (P1) (B.Maru),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,478,5,37,3,9:39 PM,2:07,,,Wiseman Offensive Foul Turnover (P1.T13),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0012300070,479,8,0,3,9:39 PM,2:07,SUB: Prosper FOR Green,,,,,4,1630182,Josh Green,1610612742.0,Dallas,Mavericks,DAL,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,481,1,79,3,9:39 PM,1:52,Hardaway Jr. 25' 3PT Pullup Jump Shot (12 PTS) (Powell 3 AST),,,70 - 91,21,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,483,6,2,3,9:40 PM,1:39,Curry S.FOUL (P1.T4) (M.Dagher),,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,485,3,11,3,9:40 PM,1:39,,,MISS Simpson Free Throw 1 of 2,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,486,4,1,3,9:40 PM,1:39,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,487,3,12,3,9:40 PM,1:39,,,MISS Simpson Free Throw 2 of 2,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,488,4,0,3,9:40 PM,1:36,,,Simpson REBOUND (Off:1 Def:0),,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,489,2,1,3,9:41 PM,1:29,,,MISS Wiseman 16' Jump Shot,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,490,4,0,3,9:41 PM,1:26,,,Evbuomwan REBOUND (Off:1 Def:0),,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,491,2,5,3,9:41 PM,1:22,Curry BLOCK (1 BLK),,MISS Wiseman 3' Layup,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,493,4,0,3,9:41 PM,1:20,Curry REBOUND (Off:0 Def:2),,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,494,2,80,3,9:41 PM,1:04,MISS Hardaway Jr. 22' Step Back Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,495,4,0,3,9:41 PM,1:00,,,Wiseman REBOUND (Off:0 Def:1),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,496,2,1,3,9:41 PM,0:53,,,MISS Rhoden 26' 3PT Jump Shot,,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,497,4,0,3,9:41 PM,0:50,Powell REBOUND (Off:1 Def:4),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,498,2,1,3,9:41 PM,0:39,MISS Hardaway Jr. 26' 3PT Jump Shot,,,,,4,203501,Tim Hardaway Jr.,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,499,4,0,3,9:41 PM,0:36,,,Wiseman REBOUND (Off:0 Def:2),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,500,2,57,3,9:42 PM,0:17,,,MISS Simpson 10' Driving Hook Shot,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,501,4,0,3,9:42 PM,0:13,Kleber REBOUND (Off:0 Def:1),,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,502,2,79,3,9:42 PM,0:05,MISS Curry 17' Pullup Jump Shot,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,503,4,0,3,9:42 PM,0:02,,,Cazalon REBOUND (Off:0 Def:1),,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,504,2,1,3,9:42 PM,0:02,,,MISS Cazalon 49' 3PT Jump Shot,,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,505,4,0,3,9:42 PM,0:01,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,507,13,0,3,9:42 PM,0:00,,End of 3rd Period (9:42 PM EST),,70 - 91,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012300070,510,12,0,4,9:45 PM,12:00,,Start of 4th Period (9:45 PM EST),,70 - 91,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,511,1,102,4,9:45 PM,11:47,,,Cazalon 11' Driving Floating Bank Jump Shot (5 PTS),72 - 91,19,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,512,5,45,4,9:45 PM,11:35,Powell Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012300070,513,1,1,4,9:45 PM,11:28,,,Cazalon 20' Jump Shot (7 PTS) (Simpson 2 AST),74 - 91,17,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,515,2,101,4,9:46 PM,11:09,MISS Prosper 6' Driving Floating Jump Shot,,Wiseman BLOCK (1 BLK),,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,1
+0012300070,516,4,0,4,9:46 PM,11:07,Powell REBOUND (Off:2 Def:4),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,517,2,6,4,9:46 PM,11:00,MISS Exum 3' Driving Layup,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,518,4,0,4,9:46 PM,11:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,521,1,43,4,9:46 PM,10:48,,,Wiseman 3' Alley Oop Layup (4 PTS) (Cazalon 1 AST),76 - 91,15,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,523,2,101,4,9:46 PM,10:36,MISS Exum 6' Driving Floating Jump Shot,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,524,4,0,4,9:46 PM,10:35,Exum REBOUND (Off:1 Def:2),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,525,1,98,4,9:47 PM,10:33,Powell 3' Cutting Layup Shot (5 PTS) (Exum 3 AST),,,76 - 93,17,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,527,1,6,4,9:47 PM,10:20,,,Simpson 2' Driving Layup (2 PTS),78 - 93,15,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,528,6,4,4,9:47 PM,10:13,Powell OFF.Foul (P3) (K.Scott),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,530,5,37,4,9:47 PM,10:13,Powell Offensive Foul Turnover (P3.T11),,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012300070,531,8,0,4,9:47 PM,10:13,SUB: Holmes FOR Powell,,,,,4,203939,Dwight Powell,1610612742.0,Dallas,Mavericks,DAL,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,533,1,101,4,9:47 PM,9:58,,,Cazalon 9' Driving Floating Jump Shot (9 PTS) (Wiseman 1 AST),80 - 93,13,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,535,6,1,4,9:48 PM,9:51,,,Rhoden P.FOUL (P1.T1) (M.Dagher),,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,537,2,6,4,9:48 PM,9:41,MISS Kleber 2' Driving Layup,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,538,4,0,4,9:48 PM,9:39,,,Wiseman REBOUND (Off:0 Def:3),,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,539,2,41,4,9:48 PM,9:35,Exum BLOCK (1 BLK),,MISS Rhoden 3' Running Layup,,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,541,4,0,4,9:48 PM,9:32,,,Rhoden REBOUND (Off:3 Def:1),,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,542,1,44,4,9:48 PM,9:32,,,Rhoden 2' Reverse Layup (11 PTS),82 - 93,11,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,543,2,80,4,9:48 PM,9:25,MISS Curry 23' Step Back Jump Shot,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,544,4,0,4,9:48 PM,9:25,Prosper REBOUND (Off:1 Def:0),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,545,6,2,4,9:48 PM,9:22,,,Cazalon S.FOUL (P2.T2) (B.Maru),,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,547,3,11,4,9:49 PM,9:22,Prosper Free Throw 1 of 2 (1 PTS),,,82 - 94,12,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,548,3,12,4,9:49 PM,9:22,Prosper Free Throw 2 of 2 (2 PTS),,,82 - 95,13,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,550,8,0,4,9:50 PM,9:00,,,SUB: Porter FOR Wiseman,,,5,1630164,James Wiseman,1610612765.0,Detroit,Pistons,DET,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,552,1,63,4,9:50 PM,8:58,,,Rhoden 12' Fadeaway Jumper (13 PTS) (Cazalon 2 AST),84 - 95,11,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,554,2,79,4,9:50 PM,8:35,MISS Exum 12' Pullup Jump Shot,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,555,4,0,4,9:50 PM,8:31,,,Simpson REBOUND (Off:1 Def:1),,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,556,5,2,4,9:51 PM,8:16,Holmes STEAL (1 STL),,Cazalon Lost Ball Turnover (P1.T14),,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,558,1,6,4,9:51 PM,8:08,Exum 1' Driving Layup (4 PTS),,,84 - 97,13,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,559,1,1,4,9:51 PM,7:48,,,Cazalon 3PT Jump Shot (12 PTS) (Simpson 3 AST),87 - 97,10,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,561,6,2,4,9:52 PM,7:27,,,Rhoden S.FOUL (P2.T3) (M.Dagher),,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,563,3,13,4,9:52 PM,7:27,Curry Free Throw 1 of 3 (4 PTS),,,87 - 98,11,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,564,3,14,4,9:52 PM,7:27,Curry Free Throw 2 of 3 (5 PTS),,,87 - 99,12,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,565,9,1,4,9:52 PM,7:27,,,Pistons Timeout: Regular (Reg.4 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,566,8,0,4,9:53 PM,7:27,SUB: Morris FOR Kleber,,,,,4,1628467,Maxi Kleber,1610612742.0,Dallas,Mavericks,DAL,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,568,3,15,4,9:55 PM,7:27,Curry Free Throw 3 of 3 (6 PTS),,,87 - 100,13,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,569,2,6,4,9:56 PM,7:15,,,MISS Simpson 6' Driving Layup,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,570,4,0,4,9:56 PM,7:14,,,Porter REBOUND (Off:1 Def:0),,,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,571,2,1,4,9:56 PM,7:13,,,MISS Cazalon 26' 3PT Jump Shot,,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,572,4,0,4,9:56 PM,7:09,Exum REBOUND (Off:1 Def:3),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,573,6,1,4,9:56 PM,7:02,,,Evbuomwan P.FOUL (P1.T4) (B.Maru),,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,575,8,0,4,9:56 PM,7:02,SUB: Lawson FOR Curry,,,,,4,203552,Seth Curry,1610612742.0,Dallas,Mavericks,DAL,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,577,2,1,4,9:56 PM,6:49,MISS Exum 25' 3PT Jump Shot,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,578,4,0,4,9:56 PM,6:43,,,Cazalon REBOUND (Off:0 Def:2),,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,579,6,2,4,9:57 PM,6:36,Holmes S.FOUL (P1.T1) (B.Maru),,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,581,3,11,4,9:57 PM,6:36,,,Evbuomwan Free Throw 1 of 2 (1 PTS),88 - 100,12,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,584,3,12,4,9:57 PM,6:36,,,MISS Evbuomwan Free Throw 2 of 2,,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,582,8,0,4,9:57 PM,6:36,,,SUB: Boeheim FOR Rhoden,,,5,1631197,Jared Rhoden,1610612765.0,Detroit,Pistons,DET,5,1631205,Buddy Boeheim,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0012300070,585,4,0,4,9:57 PM,6:33,Prosper REBOUND (Off:1 Def:1),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,586,1,1,4,9:58 PM,6:21,Lawson 3PT Jump Shot (3 PTS) (Holmes 1 AST),,,88 - 103,15,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,588,2,66,4,9:58 PM,6:09,,,MISS Evbuomwan 26' 3PT Jump Bank Shot,,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,589,4,0,4,9:58 PM,6:06,,,Porter REBOUND (Off:2 Def:0),,,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,590,2,6,4,9:58 PM,6:01,Holmes BLOCK (1 BLK),,MISS Evbuomwan 2' Driving Layup,,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,592,4,0,4,9:58 PM,5:59,Holmes REBOUND (Off:0 Def:1),,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,593,2,1,4,9:58 PM,5:54,MISS Prosper 26' 3PT Jump Shot,,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,594,4,0,4,9:58 PM,5:49,,,Evbuomwan REBOUND (Off:1 Def:1),,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,595,1,1,4,9:58 PM,5:42,,,Boeheim 3PT Jump Shot (3 PTS) (Simpson 4 AST),91 - 103,12,5,1631205,Buddy Boeheim,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,597,1,6,4,9:58 PM,5:35,Prosper 1' Driving Layup (4 PTS) (Exum 4 AST),,,91 - 105,14,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,599,1,108,4,9:59 PM,5:20,,,Porter 1' Cutting Dunk Shot (2 PTS) (Simpson 5 AST),93 - 105,12,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,601,5,45,4,9:59 PM,5:07,Holmes Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,1
+0012300070,603,2,80,4,9:59 PM,4:55,,,MISS Simpson 18' Step Back Jump Shot,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,604,4,0,4,9:59 PM,4:52,Exum REBOUND (Off:1 Def:4),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,605,1,98,4,9:59 PM,4:43,Holmes Cutting Layup Shot (2 PTS) (Exum 5 AST),,,93 - 107,14,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1
+0012300070,607,7,5,4,10:00 PM,4:29,Exum Violation:Kicked Ball (K.Scott),,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,1,0,,,,,,0
+0012300070,608,8,0,4,10:00 PM,4:29,SUB: Dennis FOR Exum,,,,,4,203957,Dante Exum,1610612742.0,Dallas,Mavericks,DAL,4,1641926,Dexter Dennis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0
+0012300070,610,2,1,4,10:00 PM,4:25,,,MISS Porter 26' 3PT Jump Shot,,,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,611,4,0,4,10:00 PM,4:20,Lawson REBOUND (Off:0 Def:1),,,,,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,612,2,80,4,10:00 PM,4:09,MISS Morris 25' 3PT Step Back Jump Shot,,,,,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,613,4,0,4,10:00 PM,4:06,,,Evbuomwan REBOUND (Off:1 Def:2),,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,614,1,93,4,10:01 PM,3:58,,,Simpson 8' Driving Bank Hook Shot (4 PTS),95 - 107,12,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,615,1,1,4,10:01 PM,3:35,Morris 25' 3PT Jump Shot (3 PTS),,,95 - 110,15,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,617,6,2,4,10:01 PM,3:35,,,Boeheim S.FOUL (P1.PN) (M.Dagher),,,5,1631205,Buddy Boeheim,1610612765.0,Detroit,Pistons,DET,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,619,3,10,4,10:01 PM,3:35,Morris Free Throw 1 of 1 (4 PTS),,,95 - 111,16,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,620,2,6,4,10:02 PM,3:25,Dennis BLOCK (1 BLK),,MISS Simpson 2' Driving Layup,,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1641926,Dexter Dennis,1610612742.0,Dallas,Mavericks,DAL,1
+0012300070,621,4,0,4,10:02 PM,3:23,Holmes REBOUND (Off:0 Def:2),,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,622,2,41,4,10:02 PM,3:19,MISS Lawson 2' Running Layup,,,,,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,624,4,0,4,10:02 PM,3:15,,,Evbuomwan REBOUND (Off:1 Def:3),,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,625,2,1,4,10:02 PM,3:11,,,MISS Boeheim 26' 3PT Jump Shot,,,5,1631205,Buddy Boeheim,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,626,4,0,4,10:02 PM,3:08,Prosper REBOUND (Off:1 Def:2),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,627,2,1,4,10:02 PM,2:53,MISS Morris 15' Jump Shot,,,,,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,628,4,0,4,10:02 PM,2:53,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,630,9,1,4,10:02 PM,2:53,MAVERICKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,632,2,6,4,10:05 PM,2:32,,,MISS Evbuomwan 3' Driving Layup,,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,633,4,0,4,10:06 PM,2:31,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,635,2,1,4,10:06 PM,2:21,,,MISS Cazalon 26' 3PT Jump Shot,,,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,636,4,0,4,10:06 PM,2:19,Holmes REBOUND (Off:0 Def:3),,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,637,2,6,4,10:06 PM,2:08,MISS Prosper 6' Driving Layup,,Porter BLOCK (1 BLK),,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,1
+0012300070,639,4,0,4,10:06 PM,2:07,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,641,5,2,4,10:07 PM,2:01,Lawson Lost Ball Turnover (P1.T13),,Cazalon STEAL (1 STL),,,4,1630639,A.J. Lawson,1610612742.0,Dallas,Mavericks,DAL,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,643,1,52,4,10:07 PM,1:57,,,Evbuomwan 1' Alley Oop Dunk (3 PTS) (Cazalon 3 AST),97 - 111,14,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,645,2,78,4,10:07 PM,1:48,MISS Holmes 12' Floating Jump Shot,,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,646,4,0,4,10:07 PM,1:44,,,Simpson REBOUND (Off:1 Def:2),,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,647,5,45,4,10:07 PM,1:41,,,Simpson Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,1
+0012300070,648,2,73,4,10:07 PM,1:20,MISS Dennis 1' Driving Reverse Layup,,,,,4,1641926,Dexter Dennis,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,649,4,0,4,10:07 PM,1:19,Holmes REBOUND (Off:1 Def:3),,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,650,6,2,4,10:07 PM,1:19,,,Porter S.FOUL (P1.PN) (B.Maru),,,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,1,0,,,,,,1
+0012300070,652,3,11,4,10:08 PM,1:19,MISS Holmes Free Throw 1 of 2,,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,653,4,1,4,10:08 PM,1:19,MAVERICKS Rebound,,,,,2,1610612742,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300070,654,3,12,4,10:08 PM,1:19,MISS Holmes Free Throw 2 of 2,,,,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0012300070,655,4,0,4,10:08 PM,1:16,Prosper REBOUND (Off:2 Def:2),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,0
+0012300070,656,2,80,4,10:08 PM,1:10,MISS Morris 25' 3PT Step Back Jump Shot,,,,,4,202693,Markieff Morris,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,657,4,0,4,10:09 PM,1:06,,,Evbuomwan REBOUND (Off:1 Def:4),,,5,1641787,Tosan Evbuomwan,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,658,1,1,4,10:09 PM,0:53,,,Boeheim 3PT Jump Shot (6 PTS) (Cazalon 4 AST),100 - 111,11,5,1631205,Buddy Boeheim,1610612765.0,Detroit,Pistons,DET,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,660,2,73,4,10:09 PM,0:36,MISS Holmes 2' Driving Reverse Layup,,Porter BLOCK (2 BLK),,,4,1626158,Richaun Holmes,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,5,1629007,Jontay Porter,1610612765.0,Detroit,Pistons,DET,1
+0012300070,662,4,0,4,10:09 PM,0:33,Prosper REBOUND (Off:3 Def:2),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,663,1,86,4,10:09 PM,0:29,Prosper 24' 3PT Turnaround Fadeaway (7 PTS),,,100 - 114,14,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,0,0,,,,,,0,0,,,,,,1
+0012300070,664,1,1,4,10:10 PM,0:14,,,Cazalon 25' 3PT Jump Shot (15 PTS) (Simpson 6 AST),103 - 114,11,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,5,1630285,Zavier Simpson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1
+0012300070,666,6,2,4,10:10 PM,0:14,Prosper S.FOUL (P1.T2) (B.Maru),,,,,4,1641765,Olivier-Maxence Prosper,1610612742.0,Dallas,Mavericks,DAL,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,1
+0012300070,668,3,10,4,10:10 PM,0:14,,,Cazalon Free Throw 1 of 1 (16 PTS),104 - 114,10,5,1630608,Malcolm Cazalon,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,1
+0012300070,669,13,0,4,10:10 PM,0:00,,End of 4th Period (10:10 PM EST),,104 - 114,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

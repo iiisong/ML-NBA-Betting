@@ -1,0 +1,497 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300041,1,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,2,10,0,1,7:41 PM,12:00,Jump Ball Lopez vs. Drummond: Tip to Garnett,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,3,1,1,1,7:41 PM,11:48,Johnson 10' Jump Shot (2 PTS),,,0 - 2,2,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,4,6,17,1,7:42 PM,11:29,NETS T.Foul (Def. 3 Sec Lopez ),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,5,3,16,1,7:42 PM,11:29,,,MISS Singler Free Throw Technical,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,6,4,1,1,7:42 PM,11:29,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,7,1,1,1,7:42 PM,11:19,,,Smith 21' Jump Shot (2 PTS) (Bynum 1 AST),2 - 2,TIE,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,8,6,1,1,7:43 PM,11:02,,,Drummond P.FOUL (P1.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,9,2,1,1,7:43 PM,10:47,MISS Pierce 20' Jump Shot,,,,,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,10,4,0,1,7:43 PM,10:46,,,Drummond REBOUND (Off:0 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,11,2,43,1,7:43 PM,10:40,,,MISS Drummond 2' Alley Oop Layup,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,12,4,0,1,7:43 PM,10:37,Pierce REBOUND (Off:0 Def:1),,,,,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,13,1,5,1,7:44 PM,10:33,Garnett 1' Layup (2 PTS) (Livingston 1 AST),,,2 - 4,2,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,14,1,1,1,7:44 PM,10:18,,,Singler 21' Jump Shot (2 PTS) (Bynum 2 AST),4 - 4,TIE,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,15,1,66,1,7:44 PM,10:09,Lopez 16' Jump Bank Shot (2 PTS) (Garnett 1 AST),,,4 - 6,2,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,16,6,2,1,7:44 PM,9:51,Lopez S.FOUL (P1.T1),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,17,3,11,1,7:44 PM,9:51,,,Drummond Free Throw 1 of 2 (1 PTS),5 - 6,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,19,3,12,1,7:45 PM,9:51,,,Drummond Free Throw 2 of 2 (2 PTS),6 - 6,TIE,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,21,6,1,1,7:45 PM,9:48,,,Bynum P.FOUL (P1.T2),,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,22,1,1,1,7:45 PM,9:34,Garnett 18' Jump Shot (4 PTS) (Pierce 1 AST),,,6 - 8,2,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,23,2,1,1,7:46 PM,9:07,,,MISS Singler 15' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,24,4,0,1,7:46 PM,9:06,Garnett REBOUND (Off:0 Def:1),,,,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,25,1,3,1,7:46 PM,8:49,Lopez 11' Hook Shot (4 PTS) (Livingston 2 AST),,,6 - 10,4,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,26,2,1,1,7:46 PM,8:32,,,MISS Monroe 19' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,27,4,0,1,7:46 PM,8:31,Livingston REBOUND (Off:0 Def:1),,,,,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,28,5,40,1,7:47 PM,8:23,Lopez Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,29,5,1,1,7:47 PM,8:07,Pierce STEAL (1 STL),,Singler Bad Pass Turnover (P1.T1),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,30,1,42,1,7:47 PM,7:52,Johnson 3' Driving Layup (4 PTS) (Lopez 1 AST),,,6 - 12,6,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,31,2,5,1,7:47 PM,7:37,Lopez BLOCK (1 BLK),,MISS Monroe 2' Layup,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,32,4,0,1,7:47 PM,7:36,Johnson REBOUND (Off:0 Def:1),,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,33,6,1,1,7:48 PM,7:33,,,Bynum P.FOUL (P2.T3),,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,34,5,2,1,7:48 PM,7:28,Pierce Lost Ball Turnover (P1.T2),,Smith STEAL (1 STL),,,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,35,1,7,1,7:48 PM,7:23,,,Monroe 1' Dunk (2 PTS) (Smith 1 AST),8 - 12,4,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,36,1,1,1,7:48 PM,7:09,Garnett 15' Jump Shot (6 PTS),,,8 - 14,6,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,37,1,5,1,7:49 PM,6:51,,,Bynum 4' Layup (2 PTS),10 - 14,4,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,38,2,5,1,7:49 PM,6:35,MISS Lopez 2' Layup,,Smith BLOCK (1 BLK),,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011300041,39,4,0,1,7:49 PM,6:33,,,Singler REBOUND (Off:0 Def:1),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,40,1,5,1,7:49 PM,6:29,,,Drummond 3' Layup (4 PTS) (Bynum 3 AST),12 - 14,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,41,6,2,1,7:49 PM,6:29,Lopez S.FOUL (P2.T2),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,42,8,0,1,7:49 PM,6:29,SUB: Kirilenko FOR Garnett,,,,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,43,3,10,1,7:49 PM,6:29,,,Drummond Free Throw 1 of 1 (5 PTS),13 - 14,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,45,5,1,1,7:50 PM,6:21,Johnson Bad Pass Turnover (P1.T3),,Drummond STEAL (1 STL),,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,46,2,5,1,7:50 PM,6:14,Kirilenko BLOCK (1 BLK),,MISS Bynum 2' Layup,,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,47,4,0,1,7:50 PM,6:13,Lopez REBOUND (Off:0 Def:1),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,48,2,1,1,7:50 PM,6:05,MISS Johnson 24' 3PT Jump Shot,,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,49,4,0,1,7:50 PM,6:04,Lopez REBOUND (Off:1 Def:1),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,50,6,2,1,7:50 PM,6:03,,,Singler S.FOUL (P1.T4),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,51,3,11,1,7:50 PM,6:03,Lopez Free Throw 1 of 2 (5 PTS),,,13 - 15,2,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,53,3,12,1,7:51 PM,6:03,Lopez Free Throw 2 of 2 (6 PTS),,,13 - 16,3,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,55,6,2,1,7:51 PM,5:43,Lopez S.FOUL (P3.T3),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,56,9,1,1,7:51 PM,5:43,NETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,59,8,0,1,7:53 PM,5:43,SUB: Evans FOR Johnson,,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,62,8,0,1,7:54 PM,5:43,SUB: Taylor FOR Livingston,,,,,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,61,8,0,1,7:54 PM,5:43,SUB: Anderson FOR Lopez,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,60,8,0,1,7:54 PM,5:43,SUB: Blatche FOR Pierce,,,,,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,63,3,11,1,7:54 PM,5:43,,,Monroe Free Throw 1 of 2 (3 PTS),14 - 16,2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,65,3,12,1,7:54 PM,5:43,,,Monroe Free Throw 2 of 2 (4 PTS),15 - 16,1,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,67,2,1,1,7:55 PM,5:30,MISS Blatche 14' Jump Shot,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,68,4,0,1,7:55 PM,5:29,,,Drummond REBOUND (Off:0 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,69,5,2,1,7:55 PM,5:22,Kirilenko STEAL (1 STL),,Smith Lost Ball Turnover (P1.T2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,70,6,4,1,7:55 PM,5:13,Evans OFF.Foul (P1),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,71,5,5,1,7:55 PM,5:13,Evans Foul Turnover (P1.T4),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,72,8,0,1,7:55 PM,5:13,,,SUB: Caldwell-Pope FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,73,1,42,1,7:56 PM,4:57,,,Bynum 2' Driving Layup (4 PTS),17 - 16,-1,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,74,1,7,1,7:56 PM,4:52,Blatche 2' Dunk (2 PTS) (Taylor 1 AST),,,17 - 18,1,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,75,1,1,1,7:56 PM,4:34,,,Monroe 14' Jump Shot (6 PTS),19 - 18,-1,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,76,6,2,1,7:56 PM,4:18,,,Smith S.FOUL (P1.PN),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,77,3,11,1,7:56 PM,4:18,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,78,4,1,1,7:56 PM,4:18,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,79,8,0,1,7:57 PM,4:18,,,SUB: Siva FOR Bynum,,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,80,8,0,1,7:57 PM,4:18,,,SUB: Villanueva FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,81,3,12,1,7:57 PM,4:18,Evans Free Throw 2 of 2 (1 PTS),,,19 - 19,TIE,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,83,1,84,1,7:57 PM,3:54,,,Monroe 5' Running Bank Shot (8 PTS),21 - 19,-2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,84,2,1,1,7:58 PM,3:32,MISS Blatche 16' Jump Shot,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,85,4,0,1,7:58 PM,3:31,Evans REBOUND (Off:1 Def:0),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,86,6,2,1,7:58 PM,3:31,,,Smith S.FOUL (P2.PN),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,87,3,11,1,7:58 PM,3:31,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,88,4,1,1,7:58 PM,3:31,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,89,3,12,1,7:58 PM,3:31,MISS Evans Free Throw 2 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,91,4,0,1,7:59 PM,3:30,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,92,2,5,1,7:59 PM,3:17,Blatche BLOCK (1 BLK),,MISS Siva 2' Layup,,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,93,4,0,1,7:59 PM,3:16,Kirilenko REBOUND (Off:0 Def:1),,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,94,5,4,1,7:59 PM,3:11,Taylor Traveling Turnover (P1.T5),,,,,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,95,9,1,1,7:59 PM,3:11,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,97,2,1,1,8:02 PM,2:53,,,MISS Smith 24' 3PT Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,98,4,0,1,8:02 PM,2:52,Blatche REBOUND (Off:0 Def:1),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,99,6,2,1,8:02 PM,2:40,,,Caldwell-Pope S.FOUL (P1.PN),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,100,3,11,1,8:02 PM,2:40,Anderson Free Throw 1 of 2 (1 PTS),,,21 - 20,-1,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,102,8,0,1,8:03 PM,2:40,,,SUB: Jerebko FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,103,3,12,1,8:03 PM,2:40,Anderson Free Throw 2 of 2 (2 PTS),,,21 - 21,TIE,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,105,2,1,1,8:03 PM,2:29,,,MISS Caldwell-Pope 25' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,106,4,0,1,8:03 PM,2:27,Evans REBOUND (Off:1 Def:1),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,107,6,4,1,8:03 PM,2:16,Blatche OFF.Foul (P1),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,108,5,5,1,8:03 PM,2:16,Blatche Foul Turnover (P1.T6),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,109,5,39,1,8:04 PM,2:03,,,Caldwell-Pope Step Out of Bounds Turnover (P1.T3),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,110,6,16,1,8:04 PM,2:03,,"Double Technical - Anderson, Caldwell-Pope",,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,111,6,11,1,8:05 PM,2:03,Blatche T.FOUL (P1.T3),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,112,3,16,1,8:05 PM,2:03,,,Villanueva Free Throw Technical (1 PTS),22 - 21,-1,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,114,5,1,1,8:05 PM,2:02,Evans Bad Pass Turnover (P2.T7),,Siva STEAL (1 STL),,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,115,6,2,1,8:05 PM,1:58,Evans S.FOUL (P2.T4),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,116,3,11,1,8:06 PM,1:58,,,Jerebko Free Throw 1 of 2 (1 PTS),23 - 21,-2,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,118,3,12,1,8:06 PM,1:58,,,Jerebko Free Throw 2 of 2 (2 PTS),24 - 21,-3,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,120,6,1,1,8:06 PM,1:46,,,Jerebko P.FOUL (P1.PN),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,121,3,11,1,8:06 PM,1:46,Kirilenko Free Throw 1 of 2 (1 PTS),,,24 - 22,-2,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,123,3,12,1,8:07 PM,1:46,MISS Kirilenko Free Throw 2 of 2,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,125,4,0,1,8:07 PM,1:45,Evans REBOUND (Off:2 Def:1),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,126,2,5,1,8:07 PM,1:44,MISS Evans 3' Layup,,Villanueva BLOCK (1 BLK),,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0
+0011300041,127,4,0,1,8:07 PM,1:43,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,128,2,1,1,8:07 PM,1:33,MISS Anderson 9' Jump Shot,,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,129,4,0,1,8:07 PM,1:32,Evans REBOUND (Off:3 Def:1),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,130,1,72,1,8:07 PM,1:30,Evans 2' Putback Layup (3 PTS),,,24 - 24,TIE,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,131,6,1,1,8:08 PM,1:20,Anderson P.FOUL (P1.PN),,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,132,3,11,1,8:08 PM,1:20,,,MISS Caldwell-Pope Free Throw 1 of 2,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,133,4,1,1,8:08 PM,1:20,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,134,8,0,1,8:08 PM,1:20,,,SUB: Mitchell FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,135,3,12,1,8:08 PM,1:20,,,Caldwell-Pope Free Throw 2 of 2 (1 PTS),25 - 24,-1,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,137,2,1,1,8:09 PM,0:59,MISS Taylor 8' Jump Shot,,Mitchell BLOCK (1 BLK),,,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0
+0011300041,138,4,0,1,8:09 PM,0:57,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,139,1,5,1,8:09 PM,0:56,,,Caldwell-Pope 2' Layup (3 PTS),27 - 24,-3,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,140,1,66,1,8:09 PM,0:41,Blatche 9' Jump Bank Shot (4 PTS) (Kirilenko 1 AST),,,27 - 26,-1,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,141,5,7,1,8:09 PM,0:35,,,Siva Discontinue Dribble Turnover (P1.T4),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,142,6,2,1,8:10 PM,0:24,,,Caldwell-Pope S.FOUL (P2.PN),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,143,3,11,1,8:10 PM,0:24,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,144,4,1,1,8:10 PM,0:24,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,145,3,12,1,8:10 PM,0:24,MISS Evans Free Throw 2 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,147,4,0,1,8:10 PM,0:23,,,Villanueva REBOUND (Off:0 Def:1),,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,148,5,2,1,8:11 PM,0:02,Anderson STEAL (1 STL),,Siva Lost Ball Turnover (P2.T5),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,149,6,2,1,8:11 PM,0:00,,,Caldwell-Pope S.FOUL (P3.PN),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,150,3,11,1,8:11 PM,0:00,MISS Kirilenko Free Throw 1 of 2,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,151,4,1,1,8:11 PM,0:00,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,152,3,12,1,8:11 PM,0:00,MISS Kirilenko Free Throw 2 of 2,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,154,4,0,1,8:11 PM,0:00,,,Mitchell REBOUND (Off:0 Def:1),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,156,13,0,1,8:11 PM,0:00,,End of 1st Period (8:11 PM EST),,27 - 26,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,158,12,0,2,8:14 PM,12:00,,Start of 2nd Period (8:14 PM EST),,27 - 26,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,159,2,1,2,8:14 PM,11:41,,,MISS Mitchell 17' Jump Shot,,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,160,4,0,2,8:14 PM,11:40,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,161,6,3,2,8:15 PM,11:40,,,Siva L.B.FOUL (P1.T1),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,163,8,0,2,8:15 PM,11:40,,,SUB: Drummond FOR Villanueva,,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,164,1,5,2,8:15 PM,11:25,Lopez 1' Layup (8 PTS) (Johnson 1 AST),,,27 - 28,1,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,165,1,1,2,8:15 PM,11:04,,,Siva 22' Jump Shot (2 PTS),29 - 28,-1,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,167,8,0,2,8:16 PM,10:56,,,SUB: Bynum FOR Siva,,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,168,2,1,2,8:16 PM,10:51,MISS Lopez 18' Jump Shot,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,169,4,0,2,8:16 PM,10:50,,,Singler REBOUND (Off:0 Def:2),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,170,1,56,2,8:16 PM,10:39,,,Jerebko 12' Running Hook Shot (4 PTS) (Bynum 4 AST),31 - 28,-3,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,171,6,4,2,8:16 PM,10:29,Garnett OFF.Foul (P1),,,,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,172,5,5,2,8:16 PM,10:29,Garnett Foul Turnover (P1.T8),,,,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,173,6,1,2,8:17 PM,10:20,Johnson P.FOUL (P1.T1),,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,174,1,1,2,8:17 PM,10:12,,,Singler 25' 3PT Jump Shot (5 PTS) (Jerebko 1 AST),34 - 28,-6,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,175,2,42,2,8:17 PM,9:59,MISS Lopez 2' Driving Layup,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,176,4,0,2,8:17 PM,9:58,,,Drummond REBOUND (Off:0 Def:3),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,177,2,1,2,8:17 PM,9:51,,,MISS Drummond 12' Jump Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,178,4,0,2,8:17 PM,9:51,,,Jerebko REBOUND (Off:1 Def:0),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,179,5,39,2,8:18 PM,9:46,,,Jerebko Step Out of Bounds Turnover (P1.T6),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,180,6,1,2,8:18 PM,9:46,,,Drummond P.FOUL (P2.T2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,181,6,2,2,8:18 PM,9:40,,,Mitchell S.FOUL (P1.T3),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,182,3,11,2,8:18 PM,9:40,Pierce Free Throw 1 of 2 (1 PTS),,,34 - 29,-5,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,184,8,0,2,8:19 PM,9:40,,,SUB: Smith FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,185,3,12,2,8:19 PM,9:40,Pierce Free Throw 2 of 2 (2 PTS),,,34 - 30,-4,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,187,1,3,2,8:19 PM,9:20,,,Drummond 9' Hook Shot (7 PTS),36 - 30,-6,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,188,5,21,2,8:20 PM,9:08,Johnson Palming Turnover (P2.T9),,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,189,2,1,2,8:20 PM,8:49,,,MISS Smith 24' 3PT Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,190,4,0,2,8:20 PM,8:49,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,191,9,4,2,8:20 PM,8:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,193,5,1,2,8:23 PM,8:38,Garnett Bad Pass Turnover (P2.T10),,Drummond STEAL (2 STL),,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,194,5,2,2,8:23 PM,8:31,Lopez STEAL (1 STL),,Drummond Lost Ball Turnover (P1.T7),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,195,5,1,2,8:23 PM,8:29,Lopez Bad Pass Turnover (P2.T11),,Drummond STEAL (3 STL),,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,197,2,66,2,8:23 PM,8:10,,,MISS Singler 9' Jump Bank Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,198,4,0,2,8:24 PM,8:09,Lopez REBOUND (Off:1 Def:2),,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,199,1,79,2,8:24 PM,7:58,Johnson 14' Pullup Jump Shot (6 PTS) (Livingston 3 AST),,,36 - 32,-4,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,200,5,11,2,8:24 PM,7:29,,,Pistons Turnover: Shot Clock (T#8),,,3,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300041,201,6,1,2,8:25 PM,7:21,,,Singler P.FOUL (P2.T4),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,202,1,63,2,8:25 PM,7:09,Garnett 8' Fadeaway Jumper (8 PTS),,,36 - 34,-2,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,203,1,52,2,8:25 PM,6:54,,,Drummond 3' Alley Oop Dunk (9 PTS) (Bynum 5 AST),38 - 34,-4,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,204,1,1,2,8:25 PM,6:41,Pierce 24' 3PT Jump Shot (5 PTS) (Livingston 4 AST),,,38 - 37,-1,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,205,5,4,2,8:26 PM,6:31,,,Smith Traveling Turnover (P2.T9),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,206,2,1,2,8:26 PM,6:19,MISS Garnett 15' Jump Shot,,,,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,207,4,0,2,8:26 PM,6:18,,,Smith REBOUND (Off:0 Def:1),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,208,5,1,2,8:26 PM,6:14,,,Smith Bad Pass Turnover (P3.T10),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,209,8,0,2,8:26 PM,6:14,SUB: Kirilenko FOR Garnett,,,,,4,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,210,6,17,2,8:27 PM,6:03,,,Pistons T.Foul (Def. 3 Sec Mitchell ),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,211,9,1,2,8:27 PM,6:03,NETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,212,8,0,2,8:29 PM,6:03,,,SUB: Monroe FOR Mitchell,,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,213,3,16,2,8:29 PM,6:03,Johnson Free Throw Technical (7 PTS),,,38 - 38,TIE,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,215,2,58,2,8:30 PM,5:51,MISS Lopez 10' Turnaround Hook Shot,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,216,4,0,2,8:30 PM,5:50,,,Drummond REBOUND (Off:0 Def:4),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,217,2,1,2,8:30 PM,5:32,,,MISS Smith 4' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,218,4,0,2,8:30 PM,5:31,,,Drummond REBOUND (Off:1 Def:4),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,219,1,87,2,8:30 PM,5:30,,,Drummond 2' Putback Dunk (11 PTS),40 - 38,-2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,220,2,1,2,8:30 PM,5:11,MISS Johnson 19' Jump Shot,,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,221,4,0,2,8:30 PM,5:10,,,Monroe REBOUND (Off:0 Def:1),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,222,2,5,2,8:30 PM,5:04,Kirilenko BLOCK (2 BLK),,MISS Bynum 3' Layup,,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,223,4,0,2,8:30 PM,5:03,Kirilenko REBOUND (Off:0 Def:2),,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,224,1,1,2,8:30 PM,4:57,Livingston 10' Jump Shot (2 PTS),,,40 - 40,TIE,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,225,2,1,2,8:31 PM,4:35,Lopez BLOCK (2 BLK),,MISS Monroe 3' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,226,4,0,2,8:31 PM,4:35,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,227,8,0,2,8:31 PM,4:35,SUB: Blatche FOR Pierce,,,,,4,1718,Paul Pierce,1610612751.0,Brooklyn,Nets,BKN,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,228,8,0,2,8:31 PM,4:35,SUB: Anderson FOR Lopez,,,,,4,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,229,8,0,2,8:31 PM,4:35,SUB: Taylor FOR Johnson,,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,230,8,0,2,8:31 PM,4:35,SUB: Evans FOR Livingston,,,,,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,231,1,1,2,8:31 PM,4:30,,,Singler 18' Jump Shot (7 PTS),42 - 40,-2,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,232,2,1,2,8:32 PM,4:06,MISS Blatche 11' Jump Shot,,Drummond BLOCK (1 BLK),,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011300041,233,4,0,2,8:32 PM,4:05,,,Drummond REBOUND (Off:1 Def:5),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,234,1,5,2,8:32 PM,3:46,,,Smith 3' Layup (4 PTS) (Bynum 6 AST),44 - 40,-4,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,235,2,1,2,8:32 PM,3:33,MISS Taylor 26' 3PT Jump Shot,,,,,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,236,4,0,2,8:33 PM,3:32,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,237,1,52,2,8:33 PM,3:22,,,Drummond 2' Alley Oop Dunk (13 PTS) (Bynum 7 AST),46 - 40,-6,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,238,2,1,2,8:33 PM,3:06,MISS Kirilenko 17' Jump Shot,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,239,4,0,2,8:33 PM,3:05,Evans REBOUND (Off:4 Def:1),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,240,6,2,2,8:33 PM,3:04,,,Drummond S.FOUL (P3.PN),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,241,3,11,2,8:33 PM,3:04,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,242,4,1,2,8:33 PM,3:04,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,243,8,0,2,8:34 PM,3:04,,,SUB: Mitchell FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,244,3,12,2,8:34 PM,3:04,Evans Free Throw 2 of 2 (4 PTS),,,46 - 41,-5,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,246,5,2,2,8:34 PM,2:51,Anderson STEAL (2 STL),,Monroe Lost Ball Turnover (P1.T11),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,247,2,1,2,8:34 PM,2:43,MISS Taylor 4' Jump Shot,,,,,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,248,4,0,2,8:34 PM,2:42,,,Mitchell REBOUND (Off:0 Def:2),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,249,5,2,2,8:34 PM,2:40,Anderson STEAL (3 STL),,Smith Lost Ball Turnover (P4.T12),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,250,1,1,2,8:34 PM,2:36,Taylor 3' Jump Shot (2 PTS) (Anderson 1 AST),,,46 - 43,-3,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,251,9,1,2,8:35 PM,2:27,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,253,1,5,2,8:38 PM,2:11,,,Mitchell 3' Layup (2 PTS) (Smith 2 AST),48 - 43,-5,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,254,6,4,2,8:38 PM,1:58,Anderson OFF.Foul (P2),,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,255,5,5,2,8:38 PM,1:58,Anderson Foul Turnover (P1.T12),,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,256,1,52,2,8:38 PM,1:47,,,Mitchell 4' Alley Oop Dunk (4 PTS) (Bynum 8 AST),50 - 43,-7,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,257,6,2,2,8:39 PM,1:29,,,Bynum S.FOUL (P3.PN),,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,258,3,11,2,8:39 PM,1:29,Taylor Free Throw 1 of 2 (3 PTS),,,50 - 44,-6,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,260,8,0,2,8:39 PM,1:29,,,SUB: Siva FOR Bynum,,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,261,3,12,2,8:39 PM,1:29,Taylor Free Throw 2 of 2 (4 PTS),,,50 - 45,-5,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,263,6,1,2,8:40 PM,1:15,Anderson P.FOUL (P3.T2),,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,264,5,1,2,8:40 PM,1:14,Kirilenko STEAL (2 STL),,Smith Bad Pass Turnover (P5.T13),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,265,6,2,2,8:41 PM,1:11,,,Mitchell S.FOUL (P2.PN),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,267,18,1,2,8:42 PM,1:11,,Overturn Ruling,,,,0,265,Harvey Grant,,,,,0,0,,,,,,1,0,,,,,,0
+0011300041,268,3,11,2,8:43 PM,1:11,MISS Taylor Free Throw 1 of 2,,,,,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,269,4,1,2,8:43 PM,1:11,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,270,3,12,2,8:43 PM,1:11,Taylor Free Throw 2 of 2 (5 PTS),,,50 - 46,-4,4,203116,Tyshawn Taylor,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,273,2,1,2,8:44 PM,0:55,,,MISS Monroe 3' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,303,4,0,2,8:44 PM,0:53,,,Mitchell REBOUND (Off:1 Def:2),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,275,2,5,2,8:44 PM,0:48,Kirilenko BLOCK (3 BLK),,MISS Monroe 2' Layup,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,276,4,0,2,8:44 PM,0:46,,,Siva REBOUND (Off:1 Def:0),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,277,2,47,2,8:44 PM,0:39,,,MISS Monroe 6' Turnaround Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,278,4,0,2,8:44 PM,0:38,Blatche REBOUND (Off:0 Def:2),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,279,6,2,2,8:44 PM,0:26,,,Mitchell S.FOUL (P3.PN),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,280,3,11,2,8:44 PM,0:26,Blatche Free Throw 1 of 2 (5 PTS),,,50 - 47,-3,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,282,8,0,2,8:45 PM,0:26,,,SUB: Villanueva FOR Mitchell,,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,283,3,12,2,8:45 PM,0:26,Blatche Free Throw 2 of 2 (6 PTS),,,50 - 48,-2,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,285,6,2,2,8:45 PM,0:04,Blatche S.FOUL (P2.PN),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,286,3,11,2,8:46 PM,0:04,,,Siva Free Throw 1 of 2 (3 PTS),51 - 48,-3,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,288,8,0,2,8:46 PM,0:04,,,SUB: Jerebko FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,289,3,12,2,8:46 PM,0:04,,,Siva Free Throw 2 of 2 (4 PTS),52 - 48,-4,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,291,9,2,2,8:46 PM,0:04,NETS Timeout: Short (Full 2 Short 1),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,292,8,0,2,8:47 PM,0:04,,,SUB: Mitchell FOR Villanueva,,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,293,5,39,2,8:48 PM,0:02,Anderson Step Out of Bounds Turnover (P2.T13),,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,295,9,2,2,8:48 PM,0:02,,,Pistons Timeout: Short (Reg.2 Short 1),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,296,2,1,2,8:49 PM,0:02,,,MISS Monroe 6' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,297,4,0,2,8:49 PM,0:01,,,Jerebko REBOUND (Off:2 Def:0),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,298,2,4,2,8:49 PM,0:00,,,MISS Jerebko 4' Tip Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,299,4,0,2,8:49 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,300,13,0,2,8:49 PM,0:00,,End of 2nd Period (8:49 PM EST),,52 - 48,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,304,12,0,3,9:05 PM,12:00,,Start of 3rd Period (9:05 PM EST),,52 - 48,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,305,2,46,3,9:05 PM,11:49,,,MISS Singler 6' Running Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,306,4,0,3,9:05 PM,11:48,Anderson REBOUND (Off:0 Def:1),,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,307,1,1,3,9:05 PM,11:30,Anderson 17' Jump Shot (4 PTS) (Livingston 5 AST),,,52 - 50,-2,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,308,6,2,3,9:05 PM,11:30,,,Drummond S.FOUL (P4.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,309,3,10,3,9:05 PM,11:30,Anderson Free Throw 1 of 1 (5 PTS),,,52 - 51,-1,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,311,1,78,3,9:06 PM,11:17,,,Bynum 8' Floating Jump Shot (6 PTS),54 - 51,-3,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,312,5,1,3,9:06 PM,10:52,Johnson Bad Pass Turnover (P3.T14),,Singler STEAL (1 STL),,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,313,1,49,3,9:07 PM,10:38,,,Drummond 2' Driving Dunk (15 PTS) (Monroe 1 AST),56 - 51,-5,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,314,6,2,3,9:07 PM,10:30,,,Monroe S.FOUL (P1.T2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,315,3,11,3,9:07 PM,10:30,Kirilenko Free Throw 1 of 2 (2 PTS),,,56 - 52,-4,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,317,3,12,3,9:07 PM,10:30,MISS Kirilenko Free Throw 2 of 2,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,319,4,0,3,9:07 PM,10:28,,,Monroe REBOUND (Off:0 Def:2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,320,5,1,3,9:07 PM,10:21,,,Monroe Bad Pass Turnover (P2.T14),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,321,6,2,3,9:08 PM,10:04,,,Drummond S.FOUL (P5.T3),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,322,3,11,3,9:08 PM,10:04,Blatche Free Throw 1 of 2 (7 PTS),,,56 - 53,-3,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,324,8,0,3,9:08 PM,10:04,,,SUB: Mitchell FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,325,3,12,3,9:08 PM,10:04,Blatche Free Throw 2 of 2 (8 PTS),,,56 - 54,-2,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,327,5,1,3,9:09 PM,9:51,Kirilenko STEAL (3 STL),,Monroe Bad Pass Turnover (P3.T15),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,328,1,1,3,9:09 PM,9:45,Anderson 26' 3PT Jump Shot (8 PTS) (Livingston 6 AST),,,56 - 57,1,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,329,5,7,3,9:09 PM,9:26,,,Bynum Discontinue Dribble Turnover (P1.T16),,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,330,5,2,3,9:10 PM,9:06,Blatche Lost Ball Turnover (P2.T15),,Monroe STEAL (1 STL),,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,331,1,49,3,9:10 PM,9:01,,,Smith 2' Driving Dunk (6 PTS) (Monroe 2 AST),58 - 57,-1,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,332,5,1,3,9:10 PM,8:51,Kirilenko Bad Pass Turnover (P1.T16),,Smith STEAL (2 STL),,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,333,1,52,3,9:10 PM,8:45,,,Mitchell 2' Alley Oop Dunk (6 PTS) (Bynum 9 AST),60 - 57,-3,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,334,6,1,3,9:10 PM,8:33,,,Singler P.FOUL (P3.T4),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,335,8,0,3,9:11 PM,8:33,,,SUB: Jerebko FOR Mitchell,,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,336,2,1,3,9:11 PM,8:25,MISS Anderson 14' Jump Shot,,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,337,4,0,3,9:11 PM,8:24,,,Monroe REBOUND (Off:0 Def:3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,338,2,1,3,9:11 PM,8:13,Blatche BLOCK (2 BLK),,MISS Jerebko 11' Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,339,4,0,3,9:11 PM,8:12,Blatche REBOUND (Off:0 Def:3),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,340,6,3,3,9:11 PM,8:12,,,Jerebko L.B.FOUL (P2.PN),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,342,3,11,3,9:12 PM,8:12,Blatche Free Throw 1 of 2 (9 PTS),,,60 - 58,-2,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,344,3,12,3,9:12 PM,8:12,Blatche Free Throw 2 of 2 (10 PTS),,,60 - 59,-1,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,347,6,1,3,9:12 PM,7:57,Blatche P.FOUL (P3.T1),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,348,1,7,3,9:13 PM,7:43,,,Monroe 3' Dunk (10 PTS) (Bynum 10 AST),62 - 59,-3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,349,1,83,3,9:13 PM,7:29,Blatche 5' Fadeaway Bank Shot (12 PTS),,,62 - 61,-1,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,350,6,1,3,9:13 PM,7:23,Kirilenko P.FOUL (P1.T2),,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,351,2,1,3,9:14 PM,7:12,,,MISS Monroe 19' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,352,4,0,3,9:14 PM,7:11,Livingston REBOUND (Off:0 Def:2),,,,,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,353,1,42,3,9:14 PM,7:01,Blatche 2' Driving Layup (14 PTS),,,62 - 63,1,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,354,6,2,3,9:14 PM,7:01,,,Singler S.FOUL (P4.PN),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,355,3,10,3,9:14 PM,7:01,MISS Blatche Free Throw 1 of 1,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,357,4,0,3,9:14 PM,7:00,,,Monroe REBOUND (Off:0 Def:4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,358,6,1,3,9:14 PM,6:48,Johnson P.FOUL (P2.T3),,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,359,8,0,3,9:15 PM,6:48,,,SUB: Villanueva FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,360,5,2,3,9:15 PM,6:42,Kirilenko STEAL (4 STL),,Monroe Lost Ball Turnover (P4.T17),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,361,1,49,3,9:15 PM,6:37,Kirilenko 3' Driving Dunk (4 PTS) (Livingston 7 AST),,,62 - 65,3,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,362,9,1,3,9:15 PM,6:36,,,Pistons Timeout: Regular (Reg.3 Short 1),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,364,8,0,3,9:18 PM,6:36,,,SUB: Caldwell-Pope FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,365,6,1,3,9:18 PM,6:26,Blatche P.FOUL (P4.T4),,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,366,7,5,3,9:18 PM,6:12,Blatche Violation:Kicked Ball,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,367,6,1,3,9:19 PM,6:04,Kirilenko P.FOUL (P2.PN),,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,368,3,11,3,9:19 PM,6:04,,,Smith Free Throw 1 of 2 (7 PTS),63 - 65,2,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,370,3,12,3,9:19 PM,6:04,,,Smith Free Throw 2 of 2 (8 PTS),64 - 65,1,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,372,1,63,3,9:20 PM,5:44,Johnson 12' Fadeaway Jumper (9 PTS),,,64 - 67,3,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,374,7,1,3,9:20 PM,5:42,NETS Violation: Delay of game Violation,,,,,2,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300041,375,2,1,3,9:20 PM,5:23,,,MISS Caldwell-Pope 25' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,376,4,0,3,9:20 PM,5:22,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,377,6,4,3,9:21 PM,5:22,,,Monroe OFF.Foul (P2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,378,5,5,3,9:21 PM,5:22,,,Monroe Foul Turnover (P5.T18),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,379,2,1,3,9:21 PM,5:10,MISS Johnson 27' 3PT Jump Shot,,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,380,4,0,3,9:21 PM,5:09,,,Monroe REBOUND (Off:0 Def:5),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,381,2,1,3,9:21 PM,4:55,Anderson BLOCK (1 BLK),,MISS Caldwell-Pope 5' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,382,4,0,3,9:21 PM,4:50,,,Caldwell-Pope REBOUND (Off:1 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,383,1,72,3,9:21 PM,4:48,,,Caldwell-Pope 3' Putback Layup (5 PTS),66 - 67,1,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,384,6,1,3,9:22 PM,4:38,,,Monroe P.FOUL (P3.PN),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,385,3,11,3,9:22 PM,4:38,MISS Blatche Free Throw 1 of 2,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,386,4,1,3,9:22 PM,4:38,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,387,8,0,3,9:22 PM,4:38,SUB: Forbes FOR Livingston,,,,,4,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,388,8,0,3,9:22 PM,4:38,SUB: Jaric FOR Johnson,,,,,4,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,389,8,0,3,9:22 PM,4:38,SUB: Johnson FOR Anderson,,,,,4,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,390,8,0,3,9:22 PM,4:38,SUB: Teletovic FOR Kirilenko,,,,,4,1905,Andrei Kirilenko,1610612751.0,Brooklyn,Nets,BKN,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,391,3,12,3,9:22 PM,4:38,Blatche Free Throw 2 of 2 (15 PTS),,,66 - 68,2,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,393,1,1,3,9:23 PM,4:24,,,Villanueva 25' 3PT Jump Shot (4 PTS) (Bynum 11 AST),69 - 68,-1,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,394,2,1,3,9:23 PM,3:58,MISS Forbes 15' Jump Shot,,Smith BLOCK (2 BLK),,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011300041,395,4,0,3,9:23 PM,3:57,,,Monroe REBOUND (Off:0 Def:6),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,396,2,1,3,9:23 PM,3:49,,,MISS Caldwell-Pope 27' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,397,4,0,3,9:23 PM,3:48,Jaric REBOUND (Off:0 Def:1),,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,398,2,1,3,9:24 PM,3:39,MISS Blatche 18' Jump Shot,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,399,4,0,3,9:24 PM,3:38,,,Caldwell-Pope REBOUND (Off:1 Def:3),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,400,6,26,3,9:24 PM,3:26,,,Villanueva Offensive Charge Foul (P1.PN),,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,401,5,5,3,9:24 PM,3:26,,,Villanueva Foul Turnover (P1.T19),,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,402,8,0,3,9:24 PM,3:26,SUB: Evans FOR Blatche,,,,,4,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,403,8,0,3,9:24 PM,3:26,,,SUB: Siva FOR Bynum,,,5,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,404,2,1,3,9:25 PM,3:07,MISS Teletovic 26' 3PT Jump Shot,,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,405,4,0,3,9:25 PM,3:06,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,406,6,3,3,9:25 PM,3:06,Evans L.B.FOUL (P3.PN),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,407,3,11,3,9:25 PM,3:06,,,Monroe Free Throw 1 of 2 (11 PTS),70 - 68,-2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,409,3,12,3,9:25 PM,3:06,,,Monroe Free Throw 2 of 2 (12 PTS),71 - 68,-3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,411,6,4,3,9:26 PM,2:51,Evans OFF.Foul (P4),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,412,5,5,3,9:26 PM,2:51,Evans Foul Turnover (P3.T17),,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,413,9,1,3,9:26 PM,2:51,NETS Timeout: Regular (Full 3 Short 1),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,417,6,2,3,9:29 PM,2:33,Jaric S.FOUL (P1.PN),,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,418,3,11,3,9:29 PM,2:33,,,MISS Smith Free Throw 1 of 2,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,419,4,1,3,9:29 PM,2:33,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,421,8,0,3,9:29 PM,2:33,,,SUB: Mitchell FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,422,3,12,3,9:29 PM,2:33,,,Smith Free Throw 2 of 2 (9 PTS),72 - 68,-4,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,424,6,1,3,9:30 PM,2:16,,,Siva P.FOUL (P2.PN),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,425,3,11,3,9:30 PM,2:16,MISS Evans Free Throw 1 of 2,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,426,4,1,3,9:30 PM,2:16,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,427,3,12,3,9:30 PM,2:16,Evans Free Throw 2 of 2 (5 PTS),,,72 - 69,-3,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,429,5,1,3,9:31 PM,2:01,Jaric STEAL (1 STL),,Caldwell-Pope Bad Pass Turnover (P2.T20),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,430,6,14,3,9:31 PM,1:58,,,Caldwell-Pope FLAGRANT.FOUL.TYPE1 (P4.PN),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,431,18,0,3,9:31 PM,1:58,,Support Ruling,,,,0,430,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300041,432,3,18,3,9:33 PM,1:58,MISS Jaric Free Throw Flagrant 1 of 2,,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,433,4,1,3,9:33 PM,1:58,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,434,3,19,3,9:34 PM,1:58,MISS Jaric Free Throw Flagrant 2 of 2,,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,435,4,1,3,9:34 PM,1:58,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,436,5,4,3,9:34 PM,1:52,Teletovic Traveling Turnover (P1.T18),,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,437,2,1,3,9:35 PM,1:36,Forbes BLOCK (1 BLK),,MISS Smith 4' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0
+0011300041,438,4,0,3,9:35 PM,1:35,Forbes REBOUND (Off:0 Def:1),,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,439,2,1,3,9:35 PM,1:28,MISS Teletovic 25' 3PT Jump Shot,,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,440,4,0,3,9:35 PM,1:27,,,Mitchell REBOUND (Off:1 Def:3),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,441,5,4,3,9:35 PM,1:14,,,Villanueva Traveling Turnover (P2.T21),,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,442,6,1,3,9:36 PM,1:02,,,Smith P.FOUL (P3.PN),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,443,3,11,3,9:36 PM,1:02,MISS Forbes Free Throw 1 of 2,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,444,4,1,3,9:36 PM,1:02,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,445,8,0,3,9:36 PM,1:02,,,SUB: Jerebko FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,446,3,12,3,9:36 PM,1:02,Forbes Free Throw 2 of 2 (1 PTS),,,72 - 70,-2,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,448,2,1,3,9:37 PM,0:48,,,MISS Villanueva 25' 3PT Jump Shot,,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,449,4,0,3,9:37 PM,0:47,,,Mitchell REBOUND (Off:2 Def:3),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,450,1,72,3,9:37 PM,0:46,,,Mitchell 3' Putback Layup (8 PTS),74 - 70,-4,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,451,2,5,3,9:37 PM,0:28,MISS Evans 3' Layup,,,,,4,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,452,4,0,3,9:37 PM,0:26,,,Mitchell REBOUND (Off:2 Def:4),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,453,2,1,3,9:37 PM,0:02,,,MISS Caldwell-Pope 27' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,454,4,0,3,9:37 PM,0:02,Teletovic REBOUND (Off:0 Def:1),,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,455,2,1,3,9:38 PM,0:00,MISS Forbes 27' 3PT Jump Shot,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,456,4,0,3,9:38 PM,0:00,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,457,13,0,3,9:38 PM,0:00,,End of 3rd Period (9:38 PM EST),,74 - 70,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,459,12,0,4,9:40 PM,12:00,,Start of 4th Period (9:40 PM EST),,74 - 70,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,460,1,5,4,9:40 PM,11:48,Jaric 3' Layup (2 PTS),,,74 - 72,-2,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,461,1,1,4,9:41 PM,11:35,,,Villanueva 26' 3PT Jump Shot (7 PTS) (Siva 1 AST),77 - 72,-5,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,462,2,1,4,9:41 PM,11:16,MISS Jaric 16' Jump Shot,,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,463,4,0,4,9:41 PM,11:15,,,Jerebko REBOUND (Off:2 Def:1),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,464,5,1,4,9:41 PM,11:01,Teletovic STEAL (1 STL),,Siva Bad Pass Turnover (P3.T22),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,465,2,1,4,9:41 PM,10:54,MISS Forbes 25' 3PT Jump Shot,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,466,4,0,4,9:41 PM,10:53,,,Caldwell-Pope REBOUND (Off:1 Def:4),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,467,2,1,4,9:42 PM,10:39,,,MISS Caldwell-Pope 25' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,468,4,0,4,9:42 PM,10:38,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,469,6,3,4,9:42 PM,10:38,Jaric L.B.FOUL (P2.T1),,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,470,1,66,4,9:42 PM,10:27,,,Caldwell-Pope 11' Jump Bank Shot (7 PTS) (Siva 2 AST),79 - 72,-7,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,471,6,2,4,9:42 PM,10:27,Johnson S.FOUL (P1.T2),,,,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,472,3,10,4,9:43 PM,10:27,,,Caldwell-Pope Free Throw 1 of 1 (8 PTS),80 - 72,-8,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,474,5,1,4,9:43 PM,10:14,Forbes Bad Pass Turnover (P1.T19),,Caldwell-Pope STEAL (1 STL),,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,475,1,8,4,9:43 PM,10:10,,,Caldwell-Pope 2' Slam Dunk (10 PTS),82 - 72,-10,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,476,1,1,4,9:43 PM,9:49,Teletovic 26' 3PT Jump Shot (3 PTS) (Jaric 1 AST),,,82 - 75,-7,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,477,1,42,4,9:43 PM,9:33,,,Siva 4' Driving Layup (6 PTS),84 - 75,-9,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,478,6,2,4,9:43 PM,9:33,Jaric S.FOUL (P3.T3),,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,479,3,10,4,9:44 PM,9:33,,,MISS Siva Free Throw 1 of 1,,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,480,4,0,4,9:44 PM,9:32,Plumlee REBOUND (Off:0 Def:1),,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,481,6,2,4,9:44 PM,9:21,,,Villanueva S.FOUL (P2.T1),,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,482,3,11,4,9:44 PM,9:21,MISS Plumlee Free Throw 1 of 2,,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,483,4,1,4,9:44 PM,9:21,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,484,3,12,4,9:45 PM,9:21,Plumlee Free Throw 2 of 2 (1 PTS),,,84 - 76,-8,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,486,6,2,4,9:45 PM,9:07,Jaric S.FOUL (P4.T4),,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,487,3,11,4,9:45 PM,9:07,,,Siva Free Throw 1 of 2 (7 PTS),85 - 76,-9,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,489,3,12,4,9:45 PM,9:07,,,Siva Free Throw 2 of 2 (8 PTS),86 - 76,-10,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,491,2,44,4,9:46 PM,8:51,MISS Forbes 2' Reverse Layup,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,492,4,0,4,9:46 PM,8:50,,,Caldwell-Pope REBOUND (Off:1 Def:5),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,493,7,5,4,9:46 PM,8:47,Forbes Violation:Kicked Ball,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,494,9,4,4,9:46 PM,8:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,496,2,1,4,9:48 PM,8:37,,,MISS Villanueva 25' 3PT Jump Shot,,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,497,4,0,4,9:49 PM,8:36,Plumlee REBOUND (Off:0 Def:2),,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,498,2,1,4,9:49 PM,8:25,MISS Teletovic 25' 3PT Jump Shot,,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,499,4,0,4,9:49 PM,8:24,,,Caldwell-Pope REBOUND (Off:1 Def:6),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,500,5,2,4,9:49 PM,8:15,Forbes STEAL (1 STL),,Siva Lost Ball Turnover (P4.T23),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,501,1,5,4,9:49 PM,8:12,Forbes 2' Layup (3 PTS),,,86 - 78,-8,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,502,6,2,4,9:49 PM,7:55,Johnson S.FOUL (P2.PN),,,,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300041,503,3,11,4,9:50 PM,7:55,,,Caldwell-Pope Free Throw 1 of 2 (11 PTS),87 - 78,-9,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,505,8,0,4,9:50 PM,7:55,,,SUB: Singler FOR Siva,,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,506,8,0,4,9:50 PM,7:55,,,SUB: Harrellson FOR Villanueva,,,5,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,507,3,12,4,9:50 PM,7:55,,,Caldwell-Pope Free Throw 2 of 2 (12 PTS),88 - 78,-10,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,509,2,1,4,9:50 PM,7:37,MISS Johnson 24' 3PT Jump Shot,,,,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,510,4,0,4,9:50 PM,7:36,,,Mitchell REBOUND (Off:2 Def:5),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,511,5,1,4,9:50 PM,7:26,Johnson STEAL (1 STL),,Singler Bad Pass Turnover (P2.T24),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,512,6,2,4,9:51 PM,7:23,,,Harrellson S.FOUL (P1.T2),,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,513,3,11,4,9:51 PM,7:23,MISS Jaric Free Throw 1 of 2,,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,514,4,1,4,9:51 PM,7:23,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,515,3,12,4,9:51 PM,7:23,Jaric Free Throw 2 of 2 (3 PTS),,,88 - 79,-9,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,517,2,1,4,9:51 PM,7:10,,,MISS Singler 5' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,518,4,0,4,9:51 PM,7:09,,,Mitchell REBOUND (Off:3 Def:5),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,519,1,87,4,9:51 PM,7:08,,,Mitchell 3' Putback Dunk (10 PTS),90 - 79,-11,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,520,6,13,4,9:51 PM,7:08,,,Mitchell HANGING.TECH.FOUL (P3.T2),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,521,3,16,4,9:52 PM,7:08,MISS Johnson Free Throw Technical,,,,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,522,4,1,4,9:52 PM,7:08,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,523,2,1,4,9:52 PM,6:52,MISS Johnson 25' 3PT Jump Shot,,,,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,524,4,0,4,9:52 PM,6:51,,,Harrellson REBOUND (Off:0 Def:1),,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,525,2,1,4,9:52 PM,6:39,,,MISS Harrellson 25' 3PT Jump Shot,,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,526,4,0,4,9:52 PM,6:38,Forbes REBOUND (Off:0 Def:2),,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,527,1,1,4,9:53 PM,6:25,Forbes 22' Jump Shot (5 PTS),,,90 - 81,-9,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,528,1,80,4,9:53 PM,5:57,,,Jerebko 20' Step Back Jump Shot (6 PTS),92 - 81,-11,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,529,6,1,4,9:53 PM,5:42,,,Caldwell-Pope P.FOUL (P5.T3),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,530,9,1,4,9:53 PM,5:42,NETS Timeout: Regular (Full 4 Short 1),,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,532,6,2,4,9:56 PM,5:30,,,Harrellson S.FOUL (P2.T4),,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,533,3,11,4,9:57 PM,5:30,Plumlee Free Throw 1 of 2 (2 PTS),,,92 - 82,-10,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,535,3,12,4,9:57 PM,5:30,Plumlee Free Throw 2 of 2 (3 PTS),,,92 - 83,-9,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,537,5,1,4,9:57 PM,5:18,Plumlee STEAL (1 STL),,Mitchell Bad Pass Turnover (P1.T25),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,538,2,1,4,9:57 PM,5:11,MISS Teletovic 25' 3PT Jump Shot,,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,539,4,0,4,9:57 PM,5:10,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,540,6,3,4,9:57 PM,5:10,,,Mitchell L.B.FOUL (P4.PN),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,541,3,11,4,9:57 PM,5:10,MISS Plumlee Free Throw 1 of 2,,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,542,4,1,4,9:57 PM,5:10,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,543,3,12,4,9:58 PM,5:10,Plumlee Free Throw 2 of 2 (4 PTS),,,92 - 84,-8,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,545,5,1,4,9:58 PM,4:47,Johnson STEAL (2 STL),,Singler Bad Pass Turnover (P3.T26),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,546,5,4,4,9:58 PM,4:44,Plumlee Traveling Turnover (P1.T20),,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300041,547,2,1,4,9:59 PM,4:27,,,MISS Jerebko 25' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,548,4,0,4,9:59 PM,4:26,Plumlee REBOUND (Off:0 Def:3),,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,549,5,2,4,9:59 PM,4:15,Johnson Lost Ball Turnover (P1.T21),,Jerebko STEAL (1 STL),,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,550,1,84,4,9:59 PM,4:06,,,Singler 6' Running Bank Shot (9 PTS),94 - 84,-10,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,551,2,1,4,9:59 PM,3:40,MISS Johnson 26' 3PT Jump Shot,,,,,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,552,4,0,4,10:00 PM,3:39,,,Harrellson REBOUND (Off:0 Def:2),,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,553,2,1,4,10:00 PM,3:28,,,MISS Caldwell-Pope 21' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,554,4,0,4,10:00 PM,3:27,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,555,1,1,4,10:00 PM,3:14,Teletovic 26' 3PT Jump Shot (6 PTS) (Jaric 2 AST),,,94 - 87,-7,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,556,5,2,4,10:01 PM,2:51,Johnson STEAL (3 STL),,Singler Lost Ball Turnover (P4.T27),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300041,557,2,1,4,10:01 PM,2:44,MISS Forbes 22' Jump Shot,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,558,4,0,4,10:01 PM,2:43,,,Mitchell REBOUND (Off:3 Def:6),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,559,1,1,4,10:01 PM,2:24,,,Harrellson 25' 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),97 - 87,-10,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,560,2,1,4,10:01 PM,1:56,MISS Plumlee 27' 3PT Jump Shot,,,,,4,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,561,4,0,4,10:01 PM,1:55,Forbes REBOUND (Off:1 Def:2),,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,562,2,1,4,10:02 PM,1:38,MISS Teletovic 25' 3PT Jump Shot,,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,563,4,0,4,10:02 PM,1:37,Forbes REBOUND (Off:2 Def:2),,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,564,2,1,4,10:02 PM,1:25,MISS Jaric 21' Jump Shot,,,,,4,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,565,4,0,4,10:02 PM,1:24,,,Mitchell REBOUND (Off:3 Def:7),,,5,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,566,1,1,4,10:02 PM,1:09,,,Singler 16' Jump Shot (11 PTS),99 - 87,-12,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,567,6,2,4,10:03 PM,0:46,,,Caldwell-Pope S.FOUL (P6.PN),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300041,568,8,0,4,10:05 PM,0:46,,,SUB: Siva FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300041,569,3,13,4,10:05 PM,0:46,MISS Forbes Free Throw 1 of 3,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,570,4,1,4,10:05 PM,0:46,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,571,3,14,4,10:05 PM,0:46,Forbes Free Throw 2 of 3 (6 PTS),,,99 - 88,-11,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,573,3,15,4,10:05 PM,0:46,MISS Forbes Free Throw 3 of 3,,,,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,575,4,0,4,10:05 PM,0:45,,,Harrellson REBOUND (Off:0 Def:3),,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,576,5,21,4,10:06 PM,0:28,,,Siva Palming Turnover (P5.T28),,,5,203491,Peyton Siva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300041,577,2,1,4,10:06 PM,0:18,MISS Forbes 4' Jump Shot,,Jerebko BLOCK (1 BLK),,,4,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0
+0011300041,578,4,0,4,10:06 PM,0:17,NETS Rebound,,,,,2,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300041,579,2,46,4,10:06 PM,0:08,MISS Teletovic 6' Running Jump Shot,,,,,4,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300041,580,4,0,4,10:06 PM,0:07,,,Harrellson REBOUND (Off:0 Def:4),,,5,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300041,581,13,0,4,10:07 PM,0:00,,End of 4th Period (10:07 PM EST),,99 - 88,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

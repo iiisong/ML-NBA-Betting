@@ -1,0 +1,455 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012300009,2,12,0,1,9:13 PM,12:00,,Start of 1st Period (9:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,4,10,0,1,9:13 PM,12:00,Jump Ball Zubac vs. Kessler: Tip to Hyland,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0
+0012300009,7,2,58,1,9:14 PM,11:41,MISS Zubac 4' Turnaround Hook Shot,,Kessler BLOCK (1 BLK),,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0
+0012300009,9,4,0,1,9:14 PM,11:38,,,Markkanen REBOUND (Off:0 Def:1),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,10,2,1,1,9:14 PM,11:29,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,11,4,0,1,9:14 PM,11:25,,,Horton-Tucker REBOUND (Off:1 Def:0),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,12,1,80,1,9:14 PM,11:21,,,Horton-Tucker 14' Step Back Jump Shot (2 PTS),2 - 0,-2,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,13,2,1,1,9:14 PM,11:07,MISS Leonard 26' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,14,4,0,1,9:14 PM,11:04,,,Collins REBOUND (Off:0 Def:1),,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,15,5,40,1,9:14 PM,10:55,,,Collins Out of Bounds Lost Ball Turnover (P1.T1),,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,16,1,63,1,9:15 PM,10:35,Hyland 11' Fadeaway Jumper (2 PTS),,,2 - 2,TIE,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,17,5,1,1,9:15 PM,10:20,George STEAL (1 STL),,Sexton Bad Pass Turnover (P1.T2),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,19,1,50,1,9:15 PM,10:17,Leonard 3' Running Dunk (2 PTS) (Hyland 1 AST),,,2 - 4,2,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,21,2,1,1,9:15 PM,9:54,,,MISS Markkanen 25' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,22,4,0,1,9:16 PM,9:50,Zubac REBOUND (Off:0 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,23,2,2,1,9:16 PM,9:48,MISS Hyland 24' 3PT Running Jump Shot,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,24,4,0,1,9:16 PM,9:44,,,Markkanen REBOUND (Off:0 Def:2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,25,1,2,1,9:16 PM,9:40,,,Horton-Tucker 27' 3PT Running Jump Shot (5 PTS) (Markkanen 1 AST),5 - 4,-1,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,27,1,44,1,9:16 PM,9:23,Hyland 2' Reverse Layup (4 PTS) (George 1 AST),,,5 - 6,1,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,29,1,1,1,9:16 PM,9:08,,,Horton-Tucker 25' 3PT Jump Shot (8 PTS) (Sexton 1 AST),8 - 6,-2,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,32,2,1,1,9:17 PM,8:51,MISS Leonard 19' Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,33,4,0,1,9:17 PM,8:48,Hyland REBOUND (Off:1 Def:0),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,34,1,63,1,9:17 PM,8:41,Mann 12' Fadeaway Jumper (2 PTS) (Hyland 2 AST),,,8 - 8,TIE,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,36,1,6,1,9:17 PM,8:26,,,Markkanen 2' Driving Layup (2 PTS) (Horton-Tucker 1 AST),10 - 8,-2,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,38,1,86,1,9:17 PM,8:10,Leonard 14' Turnaround Fadeaway (4 PTS),,,10 - 10,TIE,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,39,2,80,1,9:18 PM,7:48,,,MISS Markkanen 19' Step Back Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,40,4,0,1,9:18 PM,7:44,,,Collins REBOUND (Off:1 Def:1),,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,41,2,66,1,9:18 PM,7:42,,,MISS Sexton 10' Jump Bank Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,42,4,0,1,9:18 PM,7:42,,,Markkanen REBOUND (Off:1 Def:2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,43,1,97,1,9:18 PM,7:35,,,Markkanen Tip Layup Shot (4 PTS),12 - 10,-2,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,44,1,79,1,9:18 PM,7:28,George 25' 3PT Pullup Jump Shot (3 PTS),,,12 - 13,1,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,45,2,79,1,9:18 PM,7:12,,,MISS Sexton 25' 3PT Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,46,4,0,1,9:18 PM,7:09,George REBOUND (Off:0 Def:1),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,47,1,63,1,9:19 PM,7:00,George 18' Fadeaway Jumper (5 PTS),,,12 - 15,3,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,48,5,45,1,9:19 PM,6:53,,,Sexton Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,49,9,1,1,9:19 PM,6:53,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,50,8,0,1,9:21 PM,6:53,,,SUB: Clarkson FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,51,8,0,1,9:21 PM,6:53,,,SUB: Olynyk FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,54,1,1,1,9:22 PM,6:39,George 25' 3PT Jump Shot (8 PTS) (Hyland 3 AST),,,12 - 18,6,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,56,2,79,1,9:23 PM,6:21,,,MISS Collins 22' Pullup Jump Shot,,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,57,4,0,1,9:23 PM,6:18,Hyland REBOUND (Off:1 Def:1),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,58,5,45,1,9:23 PM,6:10,Hyland Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,59,5,2,1,9:23 PM,5:49,Leonard STEAL (1 STL),,Markkanen Lost Ball Turnover (P1.T4),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,61,5,45,1,9:23 PM,5:44,George Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,62,8,0,1,9:23 PM,5:44,,,SUB: Agbaji FOR Collins,,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,64,2,6,1,9:24 PM,5:29,,,MISS Horton-Tucker 2' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,65,4,0,1,9:24 PM,5:27,George REBOUND (Off:0 Def:2),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,66,2,1,1,9:24 PM,5:20,MISS Hyland 3PT Jump Shot,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,67,4,0,1,9:24 PM,5:16,,,Horton-Tucker REBOUND (Off:1 Def:1),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,68,2,2,1,9:24 PM,5:11,,,MISS Horton-Tucker 27' 3PT Running Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,69,4,0,1,9:24 PM,5:06,,,Markkanen REBOUND (Off:2 Def:2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,70,1,47,1,9:24 PM,5:02,,,Markkanen 14' Turnaround Jump Shot (6 PTS),14 - 18,4,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,71,2,79,1,9:25 PM,4:46,MISS Leonard 27' 3PT Pullup Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,72,4,0,1,9:25 PM,4:44,Zubac REBOUND (Off:1 Def:1),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,73,1,72,1,9:25 PM,4:42,Zubac 2' Putback Layup (2 PTS),,,14 - 20,6,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,74,1,75,1,9:25 PM,4:30,,,Clarkson 2' Driving Finger Roll Layup (2 PTS),16 - 20,4,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,75,6,1,1,9:25 PM,4:15,,,Horton-Tucker P.FOUL (P1.T1) (C.Flores),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,77,8,0,1,9:25 PM,4:15,SUB: Plumlee FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,78,8,0,1,9:25 PM,4:15,SUB: Powell FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,79,8,0,1,9:25 PM,4:15,SUB: Boston Jr. FOR Mann,,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,4,1630527,Brandon Boston Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,80,8,0,1,9:25 PM,4:15,SUB: Martin Jr. FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,81,8,0,1,9:25 PM,4:15,,,SUB: George FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,87,1,99,1,9:26 PM,4:10,Hyland 2' Cutting Finger Roll Layup Shot (6 PTS) (Plumlee 1 AST),,,16 - 22,6,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,89,2,79,1,9:26 PM,3:59,Hyland BLOCK (1 BLK),,MISS George 25' 3PT Pullup Jump Shot,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0
+0012300009,91,4,0,1,9:26 PM,3:56,Boston Jr. REBOUND (Off:0 Def:1),,,,,4,1630527,Brandon Boston Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,92,2,103,1,9:26 PM,3:54,MISS Powell 24' 3PT Running Pull-Up Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,93,4,0,1,9:26 PM,3:50,,,Markkanen REBOUND (Off:2 Def:3),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,94,1,75,1,9:26 PM,3:45,,,Agbaji 3' Driving Finger Roll Layup (2 PTS) (Olynyk 1 AST),18 - 22,4,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,96,6,4,1,9:27 PM,3:36,Plumlee OFF.Foul (P1) (C.Flores),,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,98,5,37,1,9:27 PM,3:36,Plumlee Offensive Foul Turnover (P1.T3),,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,99,8,0,1,9:27 PM,3:36,SUB: Moon FOR Hyland,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,101,8,0,1,9:27 PM,3:36,SUB: Covington FOR Boston Jr.,,,,,4,1630527,Brandon Boston Jr.,1610612746.0,LA,Clippers,LAC,4,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,103,2,1,1,9:27 PM,3:18,,,MISS Agbaji 24' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,104,4,0,1,9:28 PM,3:15,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,105,6,3,1,9:28 PM,3:15,,,Olynyk L.B.FOUL (P1.T2) (T.Maddox),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,107,6,2,1,9:28 PM,3:03,,,Olynyk S.FOUL (P2.T3) (B.Nansel),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,109,3,11,1,9:29 PM,3:03,MISS Powell Free Throw 1 of 2,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,110,4,1,1,9:29 PM,3:03,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,111,3,12,1,9:29 PM,3:03,Powell Free Throw 2 of 2 (1 PTS),,,18 - 23,5,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,112,5,2,1,9:29 PM,2:48,Covington STEAL (1 STL),,Markkanen Lost Ball Turnover (P2.T5),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,114,5,4,1,9:29 PM,2:41,Martin Jr. Traveling Turnover (P1.T4),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,115,9,1,1,9:29 PM,2:41,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,116,8,0,1,9:32 PM,2:41,,,SUB: Kessler FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,118,5,6,1,9:32 PM,2:34,,,George Double Dribble Turnover (P1.T6),,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,119,2,63,1,9:33 PM,2:20,MISS Powell 12' Fadeaway Jumper,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,120,4,0,1,9:33 PM,2:16,,,Olynyk REBOUND (Off:0 Def:1),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,121,6,2,1,9:33 PM,2:07,Powell S.FOUL (P1.T1) (C.Flores),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,123,3,11,1,9:33 PM,2:07,,,Clarkson Free Throw 1 of 2 (3 PTS),19 - 23,4,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,124,3,12,1,9:34 PM,2:07,,,Clarkson Free Throw 2 of 2 (4 PTS),20 - 23,3,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,125,2,6,1,9:34 PM,1:54,MISS Moon 3' Driving Layup,,Kessler BLOCK (2 BLK),,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0
+0012300009,127,4,0,1,9:34 PM,1:54,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,129,6,2,1,9:34 PM,1:52,,,Agbaji S.FOUL (P1.T4) (C.Flores),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,131,3,11,1,9:35 PM,1:52,Powell Free Throw 1 of 2 (2 PTS),,,20 - 24,4,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,132,3,12,1,9:35 PM,1:52,Powell Free Throw 2 of 2 (3 PTS),,,20 - 25,5,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,133,5,2,1,9:35 PM,1:32,Plumlee STEAL (1 STL),,Kessler Lost Ball Turnover (P1.T7),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,135,2,41,1,9:35 PM,1:27,MISS Moon 3' Running Layup,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,136,4,0,1,9:35 PM,1:19,Martin Jr. REBOUND (Off:1 Def:0),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,137,1,97,1,9:35 PM,1:19,Martin Jr. Tip Layup Shot (2 PTS),,,20 - 27,7,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,138,6,2,1,9:36 PM,1:12,Moon S.FOUL (P1.T2) (T.Maddox),,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,140,3,11,1,9:36 PM,1:12,,,MISS George Free Throw 1 of 2,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,141,4,1,1,9:36 PM,1:12,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,142,3,12,1,9:36 PM,1:12,,,George Free Throw 2 of 2 (1 PTS),21 - 27,6,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,143,2,79,1,9:37 PM,0:59,MISS Powell 11' Pullup Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,144,4,0,1,9:37 PM,0:57,,,Olynyk REBOUND (Off:0 Def:2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,145,5,45,1,9:37 PM,0:54,,,Clarkson Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,146,2,44,1,9:37 PM,0:34,MISS Covington 2' Reverse Layup,,,,,4,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,147,4,0,1,9:37 PM,0:30,Martin Jr. REBOUND (Off:2 Def:0),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,148,2,97,1,9:37 PM,0:30,MISS Martin Jr. Tip Layup Shot,,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,149,4,0,1,9:37 PM,0:30,,,Kessler REBOUND (Off:0 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,150,1,98,1,9:37 PM,0:16,,,Agbaji 2' Cutting Layup Shot (4 PTS) (Kessler 1 AST),23 - 27,4,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,152,6,2,1,9:38 PM,0:16,Plumlee S.FOUL (P2.PN) (B.Nansel),,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,154,3,10,1,9:38 PM,0:16,,,Agbaji Free Throw 1 of 1 (5 PTS),24 - 27,3,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,155,2,58,1,9:38 PM,0:02,MISS Martin Jr. 2' Turnaround Hook Shot,,Kessler BLOCK (3 BLK),,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0
+0012300009,157,4,0,1,9:38 PM,0:01,Martin Jr. REBOUND (Off:3 Def:0),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,158,2,72,1,9:38 PM,0:00,MISS Martin Jr. 2' Putback Layup,,Olynyk BLOCK (1 BLK),,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0
+0012300009,159,4,0,1,9:38 PM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,161,13,0,1,9:43 PM,0:00,,End of 1st Period (9:43 PM EST),,24 - 27,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,168,12,0,2,9:43 PM,12:00,,Start of 2nd Period (9:43 PM EST),,24 - 27,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,200,6,2,2,9:44 PM,11:42,Martin Jr. S.FOUL (P1.T1) (T.Maddox),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,212,3,11,2,9:44 PM,11:42,,,MISS Sexton Free Throw 1 of 2,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,213,4,1,2,9:44 PM,11:42,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,214,3,12,2,9:44 PM,11:42,,,Sexton Free Throw 2 of 2 (1 PTS),25 - 27,2,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,215,6,2,2,9:44 PM,11:28,,,Agbaji S.FOUL (P2.T1) (B.Nansel),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,217,3,13,2,9:44 PM,11:28,Powell Free Throw 1 of 3 (4 PTS),,,25 - 28,3,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,218,3,14,2,9:44 PM,11:28,Powell Free Throw 2 of 3 (5 PTS),,,25 - 29,4,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,219,3,15,2,9:44 PM,11:28,Powell Free Throw 3 of 3 (6 PTS),,,25 - 30,5,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,254,8,0,2,9:44 PM,11:28,SUB: George FOR Moon,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,169,5,40,2,9:44 PM,11:15,,,Sexton Out of Bounds Lost Ball Turnover (P3.T9),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,170,1,1,2,9:44 PM,10:53,Martin Jr. 3PT Jump Shot (5 PTS) (George 2 AST),,,25 - 33,8,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,172,6,1,2,9:44 PM,10:32,Powell P.FOUL (P2.T2) (C.Flores),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,174,8,0,2,9:45 PM,10:32,SUB: Leonard FOR Covington,,,,,4,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,175,8,0,2,9:45 PM,10:32,SUB: Mann FOR Powell,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,176,8,0,2,9:45 PM,10:32,,,SUB: Fontecchio FOR Agbaji,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,180,8,0,2,9:45 PM,10:32,SUB: Hyland FOR Martin Jr.,,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,182,1,6,2,9:45 PM,10:21,,,Sexton 1' Driving Layup (3 PTS),27 - 33,6,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,183,2,79,2,9:45 PM,10:11,MISS George 21' Pullup Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,184,4,0,2,9:45 PM,10:08,,,Collins REBOUND (Off:1 Def:2),,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,185,6,1,2,9:46 PM,10:04,Mann P.FOUL (P1.T3) (T.Maddox),,,,,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,187,8,0,2,9:46 PM,10:04,SUB: Zubac FOR Plumlee,,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,188,8,0,2,9:46 PM,10:04,,,SUB: Horton-Tucker FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,191,2,86,2,9:46 PM,9:54,,,MISS Fontecchio 7' Turnaround Fadeaway Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,192,4,0,2,9:46 PM,9:51,,,Sexton REBOUND (Off:1 Def:0),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,193,2,1,2,9:46 PM,9:47,,,MISS Fontecchio 24' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,194,4,0,2,9:46 PM,9:43,George REBOUND (Off:0 Def:3),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,195,2,1,2,9:47 PM,9:34,MISS George 30' 3PT Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,196,4,0,2,9:47 PM,9:30,,,Kessler REBOUND (Off:0 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,197,2,101,2,9:47 PM,9:21,,,MISS Horton-Tucker 10' Driving Floating Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,198,4,0,2,9:47 PM,9:20,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,202,2,96,2,9:47 PM,9:10,MISS George 3' Turnaround Bank Hook Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,203,4,0,2,9:47 PM,9:05,,,Horton-Tucker REBOUND (Off:1 Def:2),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,204,2,6,2,9:47 PM,8:59,Hyland BLOCK (2 BLK),,MISS Sexton 4' Driving Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0
+0012300009,206,4,0,2,9:47 PM,8:58,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,207,5,2,2,9:48 PM,8:51,George STEAL (2 STL),,Kessler Lost Ball Turnover (P2.T10),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,209,1,41,2,9:48 PM,8:47,Hyland 2' Running Layup (8 PTS) (Mann 1 AST),,,27 - 35,8,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,211,9,1,2,9:48 PM,8:44,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,220,8,0,2,9:51 PM,8:44,,,SUB: Markkanen FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,222,1,1,2,9:51 PM,8:21,,,Fontecchio 26' 3PT Jump Shot (3 PTS) (Markkanen 2 AST),30 - 35,5,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,224,1,43,2,9:52 PM,8:02,Zubac 3' Alley Oop Layup (4 PTS) (Leonard 1 AST),,,30 - 37,7,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,226,1,1,2,9:52 PM,7:52,,,Collins 26' 3PT Jump Shot (3 PTS) (Sexton 2 AST),33 - 37,4,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,228,1,78,2,9:52 PM,7:24,Leonard 12' Floating Jump Shot (6 PTS),,,33 - 39,6,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,230,2,6,2,9:53 PM,6:58,,,MISS Horton-Tucker 2' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,231,4,0,2,9:53 PM,6:56,George REBOUND (Off:0 Def:4),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,232,6,1,2,9:53 PM,6:43,,,Fontecchio P.FOUL (P1.T2) (C.Flores),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,234,8,0,2,9:53 PM,6:43,,,SUB: Olynyk FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,238,6,1,2,9:54 PM,6:32,,,Horton-Tucker P.FOUL (P2.T3) (T.Maddox),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,242,2,1,2,9:54 PM,6:21,MISS Leonard 17' Jump Shot,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,243,4,0,2,9:54 PM,6:19,,,Olynyk REBOUND (Off:0 Def:3),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,244,2,73,2,9:55 PM,6:03,Zubac BLOCK (1 BLK),,MISS Markkanen 4' Driving Reverse Layup,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0
+0012300009,246,4,0,2,9:55 PM,5:59,Zubac REBOUND (Off:1 Def:2),,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,247,2,80,2,9:55 PM,5:55,MISS Hyland 26' 3PT Step Back Jump Shot,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,248,4,0,2,9:55 PM,5:51,,,Collins REBOUND (Off:1 Def:3),,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,249,2,80,2,9:55 PM,5:37,,,MISS Markkanen 25' 3PT Step Back Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,250,4,0,2,9:55 PM,5:33,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,251,6,2,2,9:55 PM,5:31,,,Horton-Tucker S.FOUL (P3.T4) (C.Flores),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,253,3,11,2,9:56 PM,5:31,Hyland Free Throw 1 of 2 (9 PTS),,,33 - 40,7,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,256,8,0,2,9:56 PM,5:31,,,SUB: Clarkson FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,258,3,12,2,9:56 PM,5:31,Hyland Free Throw 2 of 2 (10 PTS),,,33 - 41,8,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,259,6,2,2,9:57 PM,5:16,Leonard S.FOUL (P1.T4) (C.Flores),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,261,3,11,2,9:57 PM,5:16,,,Markkanen Free Throw 1 of 2 (7 PTS),34 - 41,7,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,271,3,12,2,9:57 PM,5:16,,,Markkanen Free Throw 2 of 2 (8 PTS),35 - 41,6,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,262,2,78,2,9:58 PM,5:02,MISS George 5' Floating Jump Shot,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,263,4,0,2,9:58 PM,5:01,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,267,8,0,2,9:58 PM,5:01,,,SUB: Kessler FOR Collins,,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,269,2,1,2,9:58 PM,4:49,,,MISS Horton-Tucker 26' 3PT Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,270,4,0,2,9:58 PM,4:46,George REBOUND (Off:0 Def:5),,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,272,1,1,2,9:58 PM,4:35,Leonard 25' 3PT Jump Shot (9 PTS) (Hyland 4 AST),,,35 - 44,9,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,274,5,2,2,9:59 PM,4:22,Leonard STEAL (2 STL),,Markkanen Lost Ball Turnover (P3.T11),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,276,6,1,2,9:59 PM,4:06,,,Horton-Tucker P.FOUL (P4.PN) (T.Maddox),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,278,3,11,2,10:00 PM,4:06,Leonard Free Throw 1 of 2 (10 PTS),,,35 - 45,10,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,279,8,0,2,10:00 PM,4:06,SUB: Powell FOR George,,,,,4,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,280,8,0,2,10:00 PM,4:06,,,SUB: George FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,283,3,12,2,10:00 PM,4:06,Leonard Free Throw 2 of 2 (11 PTS),,,35 - 46,11,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,284,2,80,2,10:00 PM,3:52,,,MISS Clarkson 26' 3PT Step Back Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,285,4,0,2,10:00 PM,3:48,Leonard REBOUND (Off:0 Def:2),,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,287,8,0,2,10:00 PM,3:35,SUB: Martin Jr. FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612746.0,LA,Clippers,LAC,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,289,2,6,2,10:01 PM,3:28,MISS Powell 6' Driving Layup,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,290,4,0,2,10:01 PM,3:26,,,Olynyk REBOUND (Off:0 Def:4),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,291,2,93,2,10:01 PM,3:14,,,MISS Kessler 4' Driving Bank Hook Shot,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,292,4,0,2,10:01 PM,3:11,,,Markkanen REBOUND (Off:3 Def:3),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,293,2,78,2,10:01 PM,3:10,,,MISS Markkanen 8' Floating Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,294,4,0,2,10:01 PM,3:08,,,Markkanen REBOUND (Off:4 Def:3),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,295,1,72,2,10:01 PM,3:08,,,Markkanen 2' Putback Layup (10 PTS),37 - 46,9,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,296,9,1,2,10:01 PM,3:08,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,297,8,0,2,10:04 PM,3:08,SUB: Plumlee FOR Zubac,,,,,4,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,299,5,45,2,10:04 PM,2:52,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,300,6,1,2,10:05 PM,2:41,Martin Jr. P.FOUL (P2.PN) (B.Nansel),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,302,3,11,2,10:05 PM,2:41,,,MISS Olynyk Free Throw 1 of 2,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,303,4,1,2,10:05 PM,2:41,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,304,3,12,2,10:05 PM,2:41,,,Olynyk Free Throw 2 of 2 (1 PTS),38 - 46,8,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,305,2,73,2,10:06 PM,2:19,MISS Hyland 2' Driving Reverse Layup,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,307,1,107,2,10:06 PM,2:15,Plumlee Tip Dunk Shot (2 PTS),,,38 - 48,10,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,306,4,0,2,10:06 PM,2:15,Plumlee REBOUND (Off:1 Def:0),,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,309,2,63,2,10:07 PM,1:46,,,MISS Clarkson 26' 3PT Fadeaway Jumper,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,310,4,0,2,10:07 PM,1:44,Martin Jr. REBOUND (Off:3 Def:1),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,311,2,98,2,10:07 PM,1:26,MISS Plumlee 2' Cutting Layup Shot,,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,312,4,0,2,10:07 PM,1:24,,,Markkanen REBOUND (Off:4 Def:4),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,313,6,2,2,10:07 PM,1:19,Plumlee S.FOUL (P3.PN) (T.Maddox),,,,,4,203486,Mason Plumlee,1610612746.0,LA,Clippers,LAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,315,3,11,2,10:08 PM,1:19,,,MISS Kessler Free Throw 1 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,316,4,1,2,10:08 PM,1:19,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,317,3,12,2,10:08 PM,1:19,,,Kessler Free Throw 2 of 2 (1 PTS),39 - 48,9,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,318,5,40,2,10:08 PM,1:05,Powell Out of Bounds Lost Ball Turnover (P2.T6),,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,319,1,66,2,10:09 PM,0:53,,,George 13' Jump Bank Shot (3 PTS),41 - 48,7,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,320,1,6,2,10:09 PM,0:43,Hyland 3' Driving Layup (12 PTS),,,41 - 50,9,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,321,1,101,2,10:09 PM,0:32,,,Clarkson 5' Driving Floating Jump Shot (6 PTS),43 - 50,7,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,322,2,79,2,10:09 PM,0:10,MISS Powell 21' Pullup Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,323,4,0,2,10:09 PM,0:07,,,Kessler REBOUND (Off:0 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,324,5,45,2,10:10 PM,0:01,,,George Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,325,2,79,2,10:10 PM,0:00,MISS Hyland 38' 3PT Pullup Jump Shot,,George BLOCK (1 BLK),,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0
+0012300009,327,4,0,2,10:10 PM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,328,13,0,2,10:10 PM,0:00,,End of 2nd Period (10:10 PM EST),,43 - 50,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,343,12,0,3,10:26 PM,12:00,,Start of 3rd Period (10:26 PM EST),,43 - 50,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,344,2,6,3,10:26 PM,11:48,,,MISS Horton-Tucker 9' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,346,2,97,3,10:26 PM,11:43,,,MISS Kessler Tip Layup Shot,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,347,4,0,3,10:26 PM,11:43,,,Kessler REBOUND (Off:1 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,345,4,0,3,10:26 PM,11:43,,,Kessler REBOUND (Off:2 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,348,1,72,3,10:26 PM,11:39,,,Kessler Putback Layup (3 PTS),45 - 50,5,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,349,2,1,3,10:26 PM,11:30,MISS Hyland 26' 3PT Jump Shot,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,350,4,0,3,10:26 PM,11:24,,,Horton-Tucker REBOUND (Off:1 Def:3),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,351,1,106,3,10:26 PM,11:20,,,Collins 2' Running Alley Oop Dunk Shot (5 PTS) (Sexton 3 AST),47 - 50,3,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,353,1,6,3,10:27 PM,11:10,Hyland 2' Driving Layup (14 PTS),,,47 - 52,5,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,354,5,1,3,10:27 PM,11:04,Diabate STEAL (1 STL),,Horton-Tucker Bad Pass Turnover (P1.T13),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,356,5,45,3,10:27 PM,11:00,Hyland Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,357,6,1,3,10:27 PM,10:49,Hyland P.FOUL (P1.T1) (T.Maddox),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,359,2,1,3,10:27 PM,10:43,,,MISS Agbaji 28' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,360,4,0,3,10:27 PM,10:39,Hyland REBOUND (Off:1 Def:2),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,362,6,4,3,10:28 PM,10:34,Diabate OFF.Foul (P1) (C.Flores),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,364,5,37,3,10:28 PM,10:34,Diabate Offensive Foul Turnover (P1.T8),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,365,2,79,3,10:28 PM,10:22,,,MISS Horton-Tucker 26' 3PT Pullup Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,366,4,0,3,10:28 PM,10:17,Diabate REBOUND (Off:0 Def:1),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,367,2,79,3,10:28 PM,10:09,MISS Brown 15' Pullup Jump Shot,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,368,4,0,3,10:28 PM,10:04,,,Agbaji REBOUND (Off:0 Def:1),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,369,1,66,3,10:28 PM,9:53,,,Horton-Tucker 26' 3PT Jump Bank Shot (11 PTS) (Sexton 4 AST),50 - 52,2,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,371,6,1,3,10:29 PM,9:37,,,Agbaji P.FOUL (P3.T1) (B.Nansel),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,373,2,5,3,10:29 PM,9:27,MISS Diabate 2' Layup,,Kessler BLOCK (4 BLK),,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0
+0012300009,375,4,0,3,10:29 PM,9:23,Diabate REBOUND (Off:1 Def:1),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,376,2,72,3,10:29 PM,9:22,MISS Diabate 2' Putback Layup,,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,377,4,0,3,10:29 PM,9:18,,,Kessler REBOUND (Off:2 Def:4),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,378,5,40,3,10:30 PM,9:11,,,Sexton Out of Bounds Lost Ball Turnover (P4.T14),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,379,2,1,3,10:30 PM,8:48,MISS Powell 27' 3PT Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,380,4,0,3,10:30 PM,8:47,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,381,5,11,3,10:30 PM,8:47,CLIPPERS Turnover: Shot Clock (T#9),,,,,2,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0012300009,382,5,1,3,10:31 PM,8:28,Powell STEAL (1 STL),,Collins Bad Pass Turnover (P2.T15),,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,384,2,80,3,10:31 PM,8:19,MISS Hyland 26' 3PT Step Back Jump Shot,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,385,4,0,3,10:31 PM,8:15,,,Horton-Tucker REBOUND (Off:1 Def:4),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,386,1,5,3,10:31 PM,8:09,,,Kessler 2' Layup (5 PTS),52 - 52,TIE,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,387,6,2,3,10:31 PM,8:09,Hyland S.FOUL (P2.T2) (B.Nansel),,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,389,3,10,3,10:32 PM,8:09,,,MISS Kessler Free Throw 1 of 1,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,390,4,0,3,10:32 PM,8:06,,,Kessler REBOUND (Off:3 Def:4),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,391,1,7,3,10:32 PM,7:56,,,Kessler 1' Dunk (7 PTS) (Sexton 5 AST),54 - 52,-2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,393,1,63,3,10:32 PM,7:44,Hyland 7' Fadeaway Jumper (16 PTS),,,54 - 54,TIE,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,394,1,6,3,10:32 PM,7:25,,,Horton-Tucker 2' Driving Layup (13 PTS),56 - 54,-2,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,395,6,2,3,10:32 PM,7:13,,,Sexton S.FOUL (P1.T2) (C.Flores),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,397,3,11,3,10:33 PM,7:13,Hyland Free Throw 1 of 2 (17 PTS),,,56 - 55,-1,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,398,3,12,3,10:33 PM,7:13,Hyland Free Throw 2 of 2 (18 PTS),,,56 - 56,TIE,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,399,2,1,3,10:34 PM,6:59,,,MISS Agbaji 25' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,400,4,0,3,10:34 PM,6:58,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,402,9,1,3,10:34 PM,6:58,CLIPPERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,403,8,0,3,10:36 PM,6:58,SUB: Moon FOR Hyland,,,,,4,1630538,Bones Hyland,1610612746.0,LA,Clippers,LAC,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,404,8,0,3,10:36 PM,6:58,,,SUB: Olynyk FOR Collins,,,5,1628381,John Collins,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,407,2,79,3,10:37 PM,6:47,,,MISS Sexton 21' Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,408,4,0,3,10:37 PM,6:42,,,Olynyk REBOUND (Off:1 Def:4),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,410,5,11,3,10:37 PM,6:31,,,Jazz Turnover: Shot Clock (T#16),,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0012300009,411,1,1,3,10:38 PM,6:12,Moon 3PT Jump Shot (3 PTS) (Coffey 1 AST),,,56 - 59,3,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,413,5,45,3,10:38 PM,5:55,,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,414,2,79,3,10:39 PM,5:44,MISS Powell 14' Pullup Jump Shot,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,415,4,0,3,10:39 PM,5:42,,,Olynyk REBOUND (Off:1 Def:5),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,416,5,40,3,10:39 PM,5:42,,,Olynyk Out of Bounds Lost Ball Turnover (P2.T18),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012300009,417,8,0,3,10:39 PM,5:42,SUB: Martin Jr. FOR Powell,,,,,4,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,419,2,63,3,10:39 PM,5:34,MISS Coffey 10' Fadeaway Jumper,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,420,4,0,3,10:39 PM,5:32,,,Agbaji REBOUND (Off:0 Def:2),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,421,2,2,3,10:39 PM,5:27,,,MISS Horton-Tucker 25' 3PT Running Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,422,4,0,3,10:39 PM,5:23,Martin Jr. REBOUND (Off:3 Def:2),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,423,1,5,3,10:40 PM,5:16,Diabate 3' Layup (2 PTS) (Moon 1 AST),,,56 - 61,5,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,425,2,66,3,10:40 PM,5:04,,,MISS Agbaji 25' 3PT Jump Bank Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,426,4,0,3,10:40 PM,5:00,Martin Jr. REBOUND (Off:3 Def:3),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,427,2,41,3,10:40 PM,4:58,MISS Martin Jr. 3' Running Layup,,Kessler BLOCK (5 BLK),,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0
+0012300009,429,4,0,3,10:40 PM,4:56,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,431,2,1,3,10:40 PM,4:46,MISS Diabate 11' Jump Shot,,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,432,4,0,3,10:40 PM,4:43,,,Horton-Tucker REBOUND (Off:1 Def:5),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,433,2,2,3,10:40 PM,4:40,,,MISS Sexton 26' 3PT Running Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,434,4,0,3,10:41 PM,4:34,Brown REBOUND (Off:0 Def:1),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,435,2,98,3,10:41 PM,4:24,MISS Martin Jr. 4' Cutting Layup Shot,,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,436,4,0,3,10:41 PM,4:21,Martin Jr. REBOUND (Off:4 Def:3),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,437,2,1,3,10:41 PM,4:19,MISS Moon 27' 3PT Jump Shot,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,438,4,0,3,10:41 PM,4:19,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,439,6,3,3,10:41 PM,4:19,Martin Jr. L.B.FOUL (P3.T3) (B.Nansel),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,441,8,0,3,10:41 PM,4:19,,,SUB: George FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,442,8,0,3,10:41 PM,4:19,,,SUB: Dunn FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,443,8,0,3,10:41 PM,4:19,,,SUB: Yurtseven FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,447,1,101,3,10:41 PM,4:05,,,Dunn 6' Driving Floating Jump Shot (2 PTS),58 - 61,3,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,448,6,2,3,10:42 PM,3:45,,,Olynyk S.FOUL (P3.T3) (C.Flores),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,450,3,11,3,10:42 PM,3:45,Coffey Free Throw 1 of 2 (1 PTS),,,58 - 62,4,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,451,3,12,3,10:43 PM,3:45,Coffey Free Throw 2 of 2 (2 PTS),,,58 - 63,5,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,452,6,1,3,10:43 PM,3:32,Martin Jr. P.FOUL (P4.T4) (C.Flores),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,454,1,6,3,10:43 PM,3:25,,,Agbaji 2' Driving Layup (7 PTS) (George 1 AST),60 - 63,3,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,456,2,1,3,10:44 PM,3:11,MISS Coffey 3PT Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,457,4,0,3,10:44 PM,3:07,Diabate REBOUND (Off:2 Def:1),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,458,1,108,3,10:44 PM,2:57,Martin Jr. 2' Cutting Dunk Shot (7 PTS) (Brown 1 AST),,,60 - 65,5,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,460,2,1,3,10:44 PM,2:49,,,MISS George 24' 3PT Jump Shot,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,461,4,0,3,10:44 PM,2:46,,,Yurtseven REBOUND (Off:1 Def:0),,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,462,2,58,3,10:44 PM,2:43,,,MISS Yurtseven 5' Turnaround Hook Shot,,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,463,4,0,3,10:44 PM,2:43,Diabate REBOUND (Off:2 Def:2),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,464,5,1,3,10:44 PM,2:34,Diabate Bad Pass Turnover (P2.T10),,Agbaji STEAL (1 STL),,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,466,1,5,3,10:44 PM,2:30,,,Agbaji 2' Layup (9 PTS),62 - 65,3,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,467,2,80,3,10:45 PM,2:15,MISS Coffey 25' 3PT Step Back Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,468,4,0,3,10:45 PM,2:12,,,George REBOUND (Off:0 Def:1),,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,469,6,2,3,10:45 PM,2:10,Martin Jr. S.FOUL (P5.PN) (T.Maddox),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,471,9,1,3,10:45 PM,2:10,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,472,8,0,3,10:47 PM,2:10,SUB: Williams FOR Diabate,,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,474,3,11,3,10:48 PM,2:10,,,George Free Throw 1 of 2 (4 PTS),63 - 65,2,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,475,3,12,3,10:48 PM,2:10,,,George Free Throw 2 of 2 (5 PTS),64 - 65,1,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,476,2,5,3,10:48 PM,1:58,MISS Martin Jr. 4' Layup,,Agbaji BLOCK (1 BLK),,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0
+0012300009,478,4,0,3,10:48 PM,1:54,,,George REBOUND (Off:0 Def:2),,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,479,1,74,3,10:48 PM,1:50,,,Dunn 2' Running Reverse Layup (4 PTS) (George 2 AST),66 - 65,-1,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,481,2,3,3,10:49 PM,1:34,MISS Williams 5' Hook Shot,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,482,4,0,3,10:49 PM,1:32,,,Olynyk REBOUND (Off:1 Def:6),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,630,2,41,3,10:49 PM,1:30,Moon BLOCK (1 BLK),,MISS Agbaji 3' Running Layup,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0
+0012300009,632,4,0,3,10:49 PM,1:29,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,484,8,0,3,10:49 PM,1:29,SUB: Miller FOR Brown,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,486,2,98,3,10:49 PM,1:27,Miller BLOCK (1 BLK),,MISS Agbaji 2' Cutting Layup Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0
+0012300009,488,4,0,3,10:49 PM,1:24,Martin Jr. REBOUND (Off:4 Def:4),,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,489,2,79,3,10:49 PM,1:19,MISS Moon 16' Pullup Jump Shot,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,490,4,0,3,10:49 PM,1:15,,,Yurtseven REBOUND (Off:1 Def:1),,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,491,1,1,3,10:49 PM,1:06,,,Dunn 25' 3PT Jump Shot (7 PTS) (Olynyk 2 AST),69 - 65,-4,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,493,2,1,3,10:50 PM,0:44,MISS Williams 25' 3PT Jump Shot,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,494,4,0,3,10:50 PM,0:41,,,Yurtseven REBOUND (Off:1 Def:2),,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,495,2,79,3,10:50 PM,0:34,,,MISS George 26' 3PT Pullup Jump Shot,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,496,4,0,3,10:50 PM,0:30,Coffey REBOUND (Off:0 Def:1),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,497,6,2,3,10:50 PM,0:24,,,Olynyk S.FOUL (P4.T4) (C.Flores),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,499,3,11,3,10:51 PM,0:24,Williams Free Throw 1 of 2 (1 PTS),,,69 - 66,-3,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,500,3,12,3,10:51 PM,0:24,MISS Williams Free Throw 2 of 2,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,501,4,0,3,10:51 PM,0:21,,,Agbaji REBOUND (Off:0 Def:3),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,502,2,9,3,10:51 PM,0:02,,,MISS George 2' Driving Dunk,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,503,4,0,3,10:51 PM,0:02,Coffey REBOUND (Off:0 Def:2),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,504,2,103,3,10:51 PM,0:00,MISS Coffey 28' 3PT Running Pull-Up Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,505,4,0,3,10:51 PM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,506,13,0,3,10:51 PM,0:00,,End of 3rd Period (10:51 PM EST),,69 - 66,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,513,12,0,4,10:54 PM,12:00,,Start of 4th Period (10:54 PM EST),,69 - 66,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,514,6,1,4,10:54 PM,11:50,,,Hendricks P.FOUL (P1.T1) (B.Nansel),,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,516,2,1,4,10:55 PM,11:39,MISS Williams 14' Jump Shot,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,517,4,0,4,10:55 PM,11:34,,,Hendricks REBOUND (Off:0 Def:1),,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,518,5,1,4,10:55 PM,11:19,Miller STEAL (1 STL),,Dunn Bad Pass Turnover (P1.T19),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,520,5,1,4,10:55 PM,11:13,Brown Bad Pass Turnover (P1.T11),,Dunn STEAL (1 STL),,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,522,6,2,4,10:55 PM,11:10,Brown S.FOUL (P1.T1) (B.Nansel),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,524,3,11,4,10:56 PM,11:10,,,George Free Throw 1 of 2 (6 PTS),70 - 66,-4,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,525,3,12,4,10:56 PM,11:10,,,George Free Throw 2 of 2 (7 PTS),71 - 66,-5,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,526,2,79,4,10:56 PM,10:58,MISS Moon 19' Pullup Jump Shot,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,527,4,0,4,10:56 PM,10:54,Moon REBOUND (Off:1 Def:0),,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,528,1,6,4,10:56 PM,10:46,Brown 3' Driving Layup (2 PTS),,,71 - 68,-3,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,529,1,80,4,10:57 PM,10:37,,,Hendricks 25' 3PT Step Back Jump Shot (3 PTS) (Fontecchio 1 AST),74 - 68,-6,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,531,2,1,4,10:57 PM,10:11,MISS Miller 3PT Jump Shot,,,,,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,532,4,0,4,10:57 PM,10:08,,,Dunn REBOUND (Off:0 Def:1),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,533,2,80,4,10:57 PM,10:02,,,MISS George 25' 3PT Step Back Jump Shot,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,534,4,0,4,10:57 PM,9:58,,,Yurtseven REBOUND (Off:2 Def:2),,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,535,1,6,4,10:57 PM,9:53,,,Dunn 2' Driving Layup (9 PTS),76 - 68,-8,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,536,9,1,4,10:57 PM,9:52,CLIPPERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,537,8,0,4,11:00 PM,9:52,SUB: Coffey FOR Martin Jr.,,,,,4,1630231,Kenyon Martin Jr.,1610612746.0,LA,Clippers,LAC,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,539,1,5,4,11:01 PM,9:33,Williams 2' Layup (3 PTS) (Miller 1 AST),,,76 - 70,-6,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,541,1,108,4,11:01 PM,9:20,,,Yurtseven 1' Cutting Dunk Shot (2 PTS) (George 3 AST),78 - 70,-8,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,543,1,7,4,11:01 PM,9:09,Williams 2' Dunk (5 PTS) (Miller 2 AST),,,78 - 72,-6,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,545,2,57,4,11:02 PM,8:46,Williams BLOCK (1 BLK),,MISS Fontecchio 7' Driving Hook Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0
+0012300009,547,4,0,4,11:02 PM,8:43,Miller REBOUND (Off:0 Def:1),,,,,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,548,2,2,4,11:02 PM,8:40,MISS Coffey 25' 3PT Running Jump Shot,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,549,4,0,4,11:02 PM,8:34,,,Hendricks REBOUND (Off:0 Def:2),,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,550,2,1,4,11:02 PM,8:24,,,MISS Fontecchio 25' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,551,4,0,4,11:02 PM,8:20,Moon REBOUND (Off:1 Def:1),,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,552,5,1,4,11:02 PM,8:19,Moon Bad Pass Turnover (P1.T12),,Dunn STEAL (2 STL),,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,554,1,41,4,11:02 PM,8:16,,,Yurtseven 2' Running Layup (4 PTS) (Dunn 1 AST),80 - 72,-8,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,556,6,2,4,11:02 PM,8:16,Brown S.FOUL (P2.T2) (T.Maddox),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,558,3,10,4,11:03 PM,8:16,,,MISS Yurtseven Free Throw 1 of 1,,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,559,4,0,4,11:03 PM,8:13,Brown REBOUND (Off:0 Def:2),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,560,2,1,4,11:03 PM,8:00,MISS Williams 18' Jump Shot,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,561,4,0,4,11:03 PM,7:58,,,Hendricks REBOUND (Off:0 Def:3),,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,562,1,1,4,11:03 PM,7:45,,,George 28' 3PT Jump Shot (10 PTS) (Dunn 2 AST),83 - 72,-11,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,564,1,6,4,11:03 PM,7:27,Moon 3' Driving Layup (5 PTS),,,83 - 74,-9,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,565,1,1,4,11:04 PM,7:04,,,Fontecchio 28' 3PT Jump Shot (6 PTS) (George 4 AST),86 - 74,-12,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,567,2,101,4,11:04 PM,6:52,MISS Moon 10' Driving Floating Jump Shot,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,568,4,0,4,11:04 PM,6:51,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,570,8,0,4,11:04 PM,6:51,SUB: Diabate FOR Williams,,,,,4,1631258,Bryson Williams,1610612746.0,LA,Clippers,LAC,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,572,5,1,4,11:05 PM,6:37,Miller STEAL (2 STL),,George Bad Pass Turnover (P3.T20),,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,574,1,41,4,11:05 PM,6:33,Miller 2' Running Layup (2 PTS),,,86 - 76,-10,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,575,2,1,4,11:05 PM,6:14,,,MISS Hendricks 25' 3PT Jump Shot,,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,576,4,0,4,11:05 PM,6:11,Coffey REBOUND (Off:0 Def:3),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,577,2,41,4,11:05 PM,6:07,MISS Moon 3' Running Layup,,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,578,4,0,4,11:05 PM,6:04,Diabate REBOUND (Off:3 Def:2),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,579,2,1,4,11:05 PM,6:02,MISS Brown 27' 3PT Jump Shot,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,580,4,0,4,11:05 PM,5:58,,,Yurtseven REBOUND (Off:2 Def:3),,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,581,2,1,4,11:05 PM,5:53,,,MISS Yurtseven 25' 3PT Jump Shot,,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,582,4,0,4,11:05 PM,5:49,,,Fontecchio REBOUND (Off:1 Def:0),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,583,6,1,4,11:05 PM,5:49,Brown P.FOUL (P3.T3) (C.Flores),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,585,2,1,4,11:06 PM,5:44,,,MISS Fontecchio 27' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,586,4,0,4,11:06 PM,5:40,,,Yurtseven REBOUND (Off:3 Def:3),,,5,1630209,Omer Yurtseven,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,587,5,1,4,11:06 PM,5:38,Coffey STEAL (1 STL),,Hendricks Bad Pass Turnover (P1.T21),,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,589,5,45,4,11:06 PM,5:34,Coffey Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0012300009,590,2,1,4,11:06 PM,5:22,,,MISS Hendricks 25' 3PT Jump Shot,,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,591,4,0,4,11:06 PM,5:18,Coffey REBOUND (Off:0 Def:4),,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,592,2,6,4,11:07 PM,5:05,MISS Coffey 4' Driving Layup,,,,,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,593,4,0,4,11:07 PM,5:03,Diabate REBOUND (Off:4 Def:2),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,594,1,97,4,11:07 PM,5:03,Diabate Tip Layup Shot (4 PTS),,,86 - 78,-8,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,595,9,1,4,11:07 PM,5:03,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,596,8,0,4,11:09 PM,5:03,,,SUB: Samanic FOR Fontecchio,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,598,2,1,4,11:10 PM,4:50,,,MISS George 27' 3PT Jump Shot,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,599,4,0,4,11:10 PM,4:46,Miller REBOUND (Off:0 Def:2),,,,,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,600,1,1,4,11:10 PM,4:32,Brown 9' Jump Shot (4 PTS) (Moon 2 AST),,,86 - 80,-6,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,602,2,101,4,11:10 PM,4:13,Diabate BLOCK (1 BLK),,MISS George 5' Driving Floating Jump Shot,,,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0
+0012300009,604,4,0,4,11:10 PM,4:10,Moon REBOUND (Off:1 Def:2),,,,,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,605,1,2,4,11:10 PM,4:06,Brown 25' 3PT Running Jump Shot (7 PTS) (Miller 3 AST),,,86 - 83,-3,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,607,2,101,4,11:11 PM,3:44,Brown BLOCK (1 BLK),,MISS Samanic 2' Driving Floating Jump Shot,,,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,0
+0012300009,609,4,0,4,11:11 PM,3:40,Diabate REBOUND (Off:4 Def:3),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,610,1,41,4,11:11 PM,3:37,Moon 2' Running Layup (7 PTS),,,86 - 85,-1,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,611,1,6,4,11:11 PM,3:20,,,Dunn 2' Driving Layup (11 PTS),88 - 85,-3,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,612,1,98,4,11:11 PM,3:07,Miller 2' Cutting Layup Shot (4 PTS) (Moon 3 AST),,,88 - 87,-1,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,614,1,6,4,11:12 PM,2:51,,,Samanic 3' Driving Layup (2 PTS) (Dunn 3 AST),90 - 87,-3,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,616,1,1,4,11:12 PM,2:42,Coffey 3PT Jump Shot (5 PTS) (Moon 4 AST),,,90 - 90,TIE,4,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0012300009,618,6,1,4,11:12 PM,2:29,Diabate P.FOUL (P2.T4) (T.Maddox),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,620,1,1,4,11:13 PM,2:19,,,Samanic 3PT Jump Shot (5 PTS) (Dunn 4 AST),93 - 90,-3,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,622,6,2,4,11:13 PM,2:04,,,Samanic S.FOUL (P1.T2) (T.Maddox),,,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,1,0,,,,,,0
+0012300009,624,3,11,4,11:14 PM,2:04,Diabate Free Throw 1 of 2 (5 PTS),,,93 - 91,-2,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,625,3,12,4,11:14 PM,2:04,Diabate Free Throw 2 of 2 (6 PTS),,,93 - 92,-1,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,627,1,66,4,11:15 PM,1:39,,,Samanic 25' 3PT Jump Bank Shot (8 PTS) (Dunn 5 AST),96 - 92,-4,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,629,9,1,4,11:15 PM,1:39,CLIPPERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0012300009,633,2,5,4,11:17 PM,1:33,MISS Diabate 3' Layup,,Dunn BLOCK (1 BLK),,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0
+0012300009,635,4,0,4,11:17 PM,1:30,,,Dunn REBOUND (Off:0 Def:2),,,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,636,6,2,4,11:17 PM,1:11,Brown S.FOUL (P4.PN) (C.Flores),,,,,4,1641738,Kobe Brown,1610612746.0,LA,Clippers,LAC,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0012300009,638,3,11,4,11:17 PM,1:11,,,Samanic Free Throw 1 of 2 (9 PTS),97 - 92,-5,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,639,3,12,4,11:17 PM,1:11,,,MISS Samanic Free Throw 2 of 2,,,5,1629677,Luka Samanic,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,640,4,0,4,11:17 PM,1:07,,,Hendricks REBOUND (Off:1 Def:3),,,5,1641707,Taylor Hendricks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,641,1,101,4,11:18 PM,0:56,,,Dunn 4' Driving Floating Jump Shot (13 PTS),99 - 92,-7,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012300009,642,1,79,4,11:18 PM,0:46,Moon 14' Pullup Jump Shot (9 PTS),,,99 - 94,-5,4,1629875,Xavier Moon,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,643,1,58,4,11:18 PM,0:23,,,Dunn 6' Turnaround Hook Shot (15 PTS) (George 5 AST),101 - 94,-7,5,1627739,Kris Dunn,1610612762.0,Utah,Jazz,UTA,5,1641718,Keyonte George,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012300009,645,2,6,4,11:19 PM,0:16,MISS Miller 4' Driving Layup,,,,,4,1641757,Jordan Miller,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,646,4,0,4,11:19 PM,0:12,Diabate REBOUND (Off:5 Def:3),,,,,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,647,1,97,4,11:19 PM,0:12,Diabate Tip Layup Shot (8 PTS),,,101 - 96,-5,4,1631217,Moussa Diabate,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0012300009,648,13,0,4,11:19 PM,0:00,,End of 4th Period (11:19 PM EST),,101 - 96,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

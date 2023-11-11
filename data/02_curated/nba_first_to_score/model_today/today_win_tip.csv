@@ -1,0 +1,9 @@
+"season_year","season_type","game_date","game_id","matchup","period","period_clock","player_name","player_id","opp_player_name","opp_player_id","won_tip","player_win_tip_prob_glmnet","player_win_tip_prob_earth","model","player_win_tip_prob"
+"2023-24","Regular Season",2023-11-11,"0022300173","MIL @ ORL",1,720S,"Brook Lopez","201572","Goga Bitadze","1629048",NA,0.647820797997632,0.721241622877128,"center_opp_center",0.68453121043738
+"2023-24","Regular Season",2023-11-11,"0022300173","ORL vs. MIL",1,720S,"Goga Bitadze","1629048","Brook Lopez","201572",NA,0.352191313173994,0.278730542250522,"center_opp_center",0.315460927712258
+"2023-24","Regular Season",2023-11-11,"0022300175","MIA @ ATL",1,720S,"Bam Adebayo","1628389","Clint Capela","203991",NA,0.549342741258328,0.568351032797267,"center_opp_center_h2h",0.558846887027798
+"2023-24","Regular Season",2023-11-11,"0022300175","ATL vs. MIA",1,720S,"Clint Capela","203991","Bam Adebayo","1628389",NA,0.450665336910601,0.431648967202735,"center_opp_center_h2h",0.441157152056668
+"2023-24","Regular Season",2023-11-11,"0022300174","TOR @ BOS",1,720S,"Jakob Poeltl","1627751","Kristaps Porzingis","204001",NA,0.350363429089261,0.324858217619321,"center_opp_center_h2h",0.337610823354291
+"2023-24","Regular Season",2023-11-11,"0022300176","CLE @ GSW",1,720S,"Jarrett Allen","1628386","Kevon Looney","1626172",NA,0.598168112346251,0.586047074872039,"center_opp_center_h2h",0.592107593609145
+"2023-24","Regular Season",2023-11-11,"0022300176","GSW vs. CLE",1,720S,"Kevon Looney","1626172","Jarrett Allen","1628386",NA,0.401831671896837,0.413952925127966,"center_opp_center_h2h",0.407892298512401
+"2023-24","Regular Season",2023-11-11,"0022300174","BOS vs. TOR",1,720S,"Kristaps Porzingis","204001","Jakob Poeltl","1627751",NA,0.649633360991007,0.675141782380683,"center_opp_center_h2h",0.662387571685845

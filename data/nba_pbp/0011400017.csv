@@ -1,0 +1,461 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400017,1,12,0,1,8:09 PM,12:00,,Start of 1st Period (8:09 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,2,10,0,1,8:10 PM,12:00,Jump Ball Sanders vs. Gasol: Tip to Conley,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,3,2,1,1,8:10 PM,11:42,,,MISS Gasol 10' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,4,4,0,1,8:10 PM,11:41,Middleton REBOUND (Off:0 Def:1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,5,2,5,1,8:11 PM,11:21,MISS Parker 1' Layup,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,6,4,0,1,8:11 PM,11:20,Sanders REBOUND (Off:1 Def:0),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,7,5,11,1,8:11 PM,11:18,BUCKS Turnover: Shot Clock (T#1),,,,,2,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400017,8,1,1,1,8:11 PM,11:00,,,Allen 20' Jump Shot (2 PTS) (Gasol 1 AST),2 - 0,-2,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,9,5,1,1,8:12 PM,10:49,Parker Bad Pass Turnover (P1.T2),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,10,1,5,1,8:12 PM,10:37,,,Pondexter 2' Layup (2 PTS) (Allen 1 AST),4 - 0,-4,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,11,6,29,1,8:12 PM,10:24,,,Allen Shooting Block Foul (P1.T1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,12,3,11,1,8:12 PM,10:24,Middleton Free Throw 1 of 2 (1 PTS),,,4 - 1,-3,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,14,3,12,1,8:13 PM,10:24,MISS Middleton Free Throw 2 of 2,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,16,4,0,1,8:13 PM,10:22,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,17,6,1,1,8:13 PM,10:12,Parker P.FOUL (P1.T1),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,18,5,4,1,8:13 PM,10:06,,,Allen Traveling Turnover (P1.T1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011400017,19,2,1,1,8:14 PM,9:49,MISS Parker 18' Jump Shot,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,20,4,0,1,8:14 PM,9:48,,,Allen REBOUND (Off:0 Def:1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,21,1,1,1,8:14 PM,9:37,,,Randolph 12' Jump Shot (2 PTS),6 - 1,-5,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,22,2,5,1,8:14 PM,9:22,MISS Sanders 2' Layup,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,23,4,0,1,8:14 PM,9:22,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,24,5,1,1,8:15 PM,9:05,Middleton STEAL (1 STL),,Allen Bad Pass Turnover (P2.T2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,25,6,1,1,8:15 PM,9:03,,,Randolph P.FOUL (P1.T2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,26,2,1,1,8:15 PM,8:44,MISS Parker 15' Jump Shot,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,27,4,0,1,8:15 PM,8:43,,,Pondexter REBOUND (Off:0 Def:1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,28,1,1,1,8:16 PM,8:36,,,Gasol 18' Jump Shot (2 PTS) (Allen 2 AST),8 - 1,-7,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,29,2,1,1,8:16 PM,8:14,MISS Sanders 19' Jump Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,30,4,0,1,8:16 PM,8:12,,,Randolph REBOUND (Off:0 Def:1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,32,2,47,1,8:17 PM,7:50,,,MISS Gasol 16' Turnaround Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,33,4,0,1,8:17 PM,7:49,,,Allen REBOUND (Off:1 Def:1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,34,1,5,1,8:17 PM,7:33,,,Gasol 1' Layup (4 PTS) (Conley 1 AST),10 - 1,-9,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,35,9,1,1,8:17 PM,7:32,BUCKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,37,6,4,1,8:20 PM,7:20,Sanders OFF.Foul (P1),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,38,5,5,1,8:20 PM,7:20,Sanders Foul Turnover (P1.T3),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400017,39,2,1,1,8:20 PM,7:03,,,MISS Pondexter 14' Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,40,4,0,1,8:20 PM,7:02,Sanders REBOUND (Off:1 Def:1),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,41,1,5,1,8:21 PM,6:58,Knight  Layup (2 PTS),,,10 - 3,-7,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,42,1,1,1,8:21 PM,6:36,,,Randolph 16' Jump Shot (4 PTS),12 - 3,-9,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,43,6,2,1,8:21 PM,6:23,,,Allen S.FOUL (P2.T3),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,44,3,11,1,8:22 PM,6:23,Knight Free Throw 1 of 2 (3 PTS),,,12 - 4,-8,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,47,8,0,1,8:22 PM,6:23,SUB: Antetokounmpo FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,48,8,0,1,8:22 PM,6:23,SUB: Bayless FOR Dudley,,,,,4,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,49,3,12,1,8:22 PM,6:23,MISS Knight Free Throw 2 of 2,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,51,4,0,1,8:22 PM,6:23,,,Pondexter REBOUND (Off:0 Def:2),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,52,1,1,1,8:22 PM,6:17,,,Gasol 8' Jump Shot (6 PTS) (Conley 2 AST),14 - 4,-10,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,53,5,1,1,8:22 PM,5:58,Knight Bad Pass Turnover (P1.T4),,Allen STEAL (1 STL),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,54,6,29,1,8:23 PM,5:45,Antetokounmpo Shooting Block Foul (P1.T2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,55,3,11,1,8:23 PM,5:45,,,Pondexter Free Throw 1 of 2 (3 PTS),15 - 4,-11,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,57,8,0,1,8:23 PM,5:45,SUB: Henson FOR Parker,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,58,3,12,1,8:23 PM,5:45,,,MISS Pondexter Free Throw 2 of 2,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,60,4,0,1,8:23 PM,5:45,Sanders REBOUND (Off:1 Def:2),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,61,6,2,1,8:24 PM,5:26,,,Gasol S.FOUL (P1.T4),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,62,3,11,1,8:24 PM,5:26,MISS Sanders Free Throw 1 of 2,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,64,4,1,1,8:24 PM,5:26,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,65,8,0,1,8:24 PM,5:26,SUB: Marshall FOR Knight,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,66,3,12,1,8:24 PM,5:26,MISS Sanders Free Throw 2 of 2,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,68,4,0,1,8:24 PM,5:26,,,Allen REBOUND (Off:1 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,70,6,2,1,8:25 PM,5:10,Bayless S.FOUL (P1.T3),,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,71,3,11,1,8:25 PM,5:10,,,Allen Free Throw 1 of 2 (3 PTS),16 - 4,-12,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,74,8,0,1,8:25 PM,5:10,,,SUB: Lee FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,76,8,0,1,8:25 PM,5:10,SUB: Pachulia FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,77,3,12,1,8:25 PM,5:10,,,Allen Free Throw 2 of 2 (4 PTS),17 - 4,-13,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,80,5,1,1,8:26 PM,4:51,Marshall Bad Pass Turnover (P1.T5),,Gasol STEAL (1 STL),,,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,81,6,1,1,8:26 PM,4:42,Henson P.FOUL (P1.T4),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,82,2,1,1,8:26 PM,4:30,,,MISS Randolph 13' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,83,4,0,1,8:27 PM,4:29,Pachulia REBOUND (Off:0 Def:1),,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,84,6,1,1,8:27 PM,4:23,,,Randolph P.FOUL (P2.PN),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,86,3,11,1,8:27 PM,4:23,Henson Free Throw 1 of 2 (1 PTS),,,17 - 5,-12,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,88,3,12,1,8:27 PM,4:23,MISS Henson Free Throw 2 of 2,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,90,4,0,1,8:27 PM,4:23,,,Gasol REBOUND (Off:0 Def:1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,91,6,1,1,8:28 PM,4:06,Pachulia P.FOUL (P1.PN),,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,92,3,11,1,8:28 PM,4:06,,,MISS Gasol Free Throw 1 of 2,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,94,4,1,1,8:28 PM,4:06,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,95,8,0,1,8:28 PM,4:06,,,SUB: Udrih FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,96,3,12,1,8:28 PM,4:06,,,Gasol Free Throw 2 of 2 (7 PTS),18 - 5,-13,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,98,2,1,1,8:29 PM,3:51,MISS Bayless 22' Jump Shot,,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,99,4,0,1,8:29 PM,3:50,,,Gasol REBOUND (Off:0 Def:2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,100,6,29,1,8:29 PM,3:44,Bayless Shooting Block Foul (P2.PN),,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,101,3,11,1,8:29 PM,3:44,,,Randolph Free Throw 1 of 2 (5 PTS),19 - 5,-14,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,103,8,0,1,8:29 PM,3:44,,,SUB: Koufos FOR Gasol,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,104,3,12,1,8:29 PM,3:44,,,Randolph Free Throw 2 of 2 (6 PTS),20 - 5,-15,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,106,1,7,1,8:30 PM,3:30,Henson  Dunk (3 PTS) (Marshall 1 AST),,,20 - 7,-13,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,107,6,2,1,8:30 PM,3:30,,,Koufos S.FOUL (P1.PN),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,108,8,0,1,8:30 PM,3:30,,,SUB: Prince FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,109,3,10,1,8:30 PM,3:30,Henson Free Throw 1 of 1 (4 PTS),,,20 - 8,-12,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,111,1,1,1,8:31 PM,3:18,,,Prince 18' Jump Shot (2 PTS) (Randolph 1 AST),22 - 8,-14,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,112,2,1,1,8:31 PM,2:59,MISS Antetokounmpo 13' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,113,4,0,1,8:31 PM,2:58,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,114,9,1,1,8:31 PM,2:58,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,116,8,0,1,8:34 PM,2:58,,,SUB: Leuer FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,117,5,2,1,8:34 PM,2:44,Marshall STEAL (1 STL),,Udrih Lost Ball Turnover (P1.T3),,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,118,2,1,1,8:35 PM,2:30,MISS Pachulia 15' Jump Shot,,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,119,4,0,1,8:35 PM,2:29,,,Leuer REBOUND (Off:0 Def:1),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,120,5,2,1,8:35 PM,2:15,Henson STEAL (1 STL),,Udrih Lost Ball Turnover (P2.T4),,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,121,6,1,1,8:35 PM,2:15,,,Lee P.FOUL (P1.PN),,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,122,3,11,1,8:35 PM,2:15,Bayless Free Throw 1 of 2 (1 PTS),,,22 - 9,-13,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,124,3,12,1,8:35 PM,2:15,MISS Bayless Free Throw 2 of 2,,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,126,4,0,1,8:36 PM,2:15,,,Koufos REBOUND (Off:0 Def:1),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,127,2,1,1,8:36 PM,1:56,,,MISS Udrih 17' Jump Shot,,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,128,4,0,1,8:36 PM,1:55,Antetokounmpo REBOUND (Off:0 Def:1),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,129,1,1,1,8:36 PM,1:43,Marshall 28' 3PT Jump Shot (3 PTS) (Henson 1 AST),,,22 - 12,-10,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,130,2,3,1,8:36 PM,1:31,,,MISS Koufos 7' Hook Shot,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,131,4,0,1,8:36 PM,1:30,Pachulia REBOUND (Off:0 Def:2),,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,132,1,5,1,8:37 PM,1:17,Bayless 1' Layup (3 PTS) (Pachulia 1 AST),,,22 - 14,-8,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,133,6,2,1,8:37 PM,1:17,,,Leuer S.FOUL (P1.PN),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,134,3,10,1,8:37 PM,1:17,Bayless Free Throw 1 of 1 (4 PTS),,,22 - 15,-7,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,136,1,42,1,8:37 PM,0:55,,,Lee 1' Driving Layup (2 PTS),24 - 15,-9,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,137,2,1,1,8:38 PM,0:46,MISS Marshall 24' 3PT Jump Shot,,,,,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,138,4,0,1,8:38 PM,0:44,,,Koufos REBOUND (Off:0 Def:2),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,139,2,1,1,8:38 PM,0:30,,,MISS Leuer 24' 3PT Jump Shot,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,140,4,0,1,8:38 PM,0:29,Antetokounmpo REBOUND (Off:0 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,141,2,1,1,8:38 PM,0:09,MISS Antetokounmpo 25' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,142,4,0,1,8:38 PM,0:08,,,Leuer REBOUND (Off:0 Def:2),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,143,2,1,1,8:38 PM,0:02,,,MISS Lee 7' Jump Shot,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,144,4,0,1,8:38 PM,0:01,Henson REBOUND (Off:0 Def:1),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,145,13,0,1,8:39 PM,0:00,,End of 1st Period (8:39 PM EST),,24 - 15,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,147,12,0,2,8:41 PM,12:00,,Start of 2nd Period (8:41 PM EST),,24 - 15,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,148,2,5,2,8:42 PM,11:46,MISS Middleton  Layup,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,149,4,0,2,8:42 PM,11:45,,,Leuer REBOUND (Off:0 Def:3),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,150,2,1,2,8:42 PM,11:26,,,MISS Lee 18' Jump Shot,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,151,4,0,2,8:42 PM,11:25,O'Bryant REBOUND (Off:0 Def:1),,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,152,6,3,2,8:42 PM,11:19,,,Koufos L.B.FOUL (P2.T1),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,153,3,11,2,8:42 PM,11:19,Sanders Free Throw 1 of 2 (1 PTS),,,24 - 16,-8,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,155,3,12,2,8:43 PM,11:19,Sanders Free Throw 2 of 2 (2 PTS),,,24 - 17,-7,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,157,2,5,2,8:43 PM,11:04,,,MISS Lee 2' Layup,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,158,4,0,2,8:43 PM,11:03,Sanders REBOUND (Off:1 Def:3),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,159,2,1,2,8:43 PM,10:58,MISS O'Bryant 16' Jump Shot,,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,160,4,0,2,8:43 PM,10:56,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,161,6,3,2,8:43 PM,10:56,Sanders L.B.FOUL (P2.T1),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,162,2,1,2,8:44 PM,10:45,Knight BLOCK (1 BLK),,MISS Udrih 20' Jump Shot,,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400017,163,4,0,2,8:44 PM,10:43,Sanders REBOUND (Off:1 Def:4),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,164,2,1,2,8:44 PM,10:31,MISS Knight  3PT Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,165,4,0,2,8:44 PM,10:30,,,Koufos REBOUND (Off:0 Def:3),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,166,1,3,2,8:44 PM,10:16,,,Koufos 3' Hook Shot (2 PTS) (Udrih 1 AST),26 - 17,-9,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,167,5,4,2,8:44 PM,10:03,Sanders Traveling Turnover (P2.T6),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400017,168,5,11,2,8:45 PM,9:39,,,Grizzlies Turnover: Shot Clock (T#5),,,3,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400017,169,2,1,2,8:45 PM,9:22,MISS Middleton 14' Jump Shot,,Lee BLOCK (1 BLK),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,170,4,0,2,8:45 PM,9:20,Middleton REBOUND (Off:1 Def:1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,171,6,4,2,8:45 PM,9:20,Middleton OFF.Foul (P1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,172,5,5,2,8:45 PM,9:20,Middleton Foul Turnover (P1.T7),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400017,173,2,1,2,8:46 PM,9:03,,,MISS Udrih 16' Jump Shot,,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,174,4,0,2,8:46 PM,9:02,Sanders REBOUND (Off:1 Def:5),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,175,2,5,2,8:46 PM,8:41,MISS Parker 1' Layup,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,176,4,0,2,8:46 PM,8:40,Sanders REBOUND (Off:2 Def:5),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,177,1,5,2,8:46 PM,8:39,Sanders 1' Layup (4 PTS),,,26 - 19,-7,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,178,2,3,2,8:46 PM,8:24,,,MISS Koufos 6' Hook Shot,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,179,4,0,2,8:47 PM,8:23,O'Bryant REBOUND (Off:0 Def:2),,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,180,2,1,2,8:47 PM,8:16,MISS O'Bryant 13' Jump Shot,,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,181,4,0,2,8:47 PM,8:15,,,Udrih REBOUND (Off:0 Def:1),,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,182,6,29,2,8:47 PM,8:11,O'Bryant Shooting Block Foul (P1.T2),,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,183,9,4,2,8:47 PM,8:11,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,184,8,0,2,8:49 PM,8:11,,,SUB: Pondexter FOR Lee,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,185,8,0,2,8:49 PM,8:11,,,SUB: Conley FOR Udrih,,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,186,3,11,2,8:50 PM,8:11,,,Leuer Free Throw 1 of 2 (1 PTS),27 - 19,-8,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,188,3,12,2,8:50 PM,8:11,,,MISS Leuer Free Throw 2 of 2,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,190,4,0,2,8:50 PM,8:11,Parker REBOUND (Off:0 Def:1),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,191,1,84,2,8:51 PM,7:47,Parker 7' Running Bank Shot (2 PTS),,,27 - 21,-6,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,192,2,1,2,8:51 PM,7:29,,,MISS Pondexter 24' 3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,193,4,0,2,8:51 PM,7:28,Sanders REBOUND (Off:2 Def:6),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,194,6,1,2,8:51 PM,7:23,,,Leuer P.FOUL (P2.T2),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,195,6,4,2,8:52 PM,7:14,O'Bryant OFF.Foul (P2),,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,196,5,5,2,8:52 PM,7:14,O'Bryant Foul Turnover (P1.T8),,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400017,197,2,1,2,8:52 PM,7:02,,,MISS Conley 11' Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,198,4,0,2,8:52 PM,7:01,Knight REBOUND (Off:0 Def:1),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,199,1,1,2,8:52 PM,6:53,Sanders 4' Jump Shot (6 PTS) (Parker 1 AST),,,27 - 23,-4,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,200,6,2,2,8:52 PM,6:53,,,Koufos S.FOUL (P3.T3),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,201,8,0,2,8:53 PM,6:53,,,SUB: Gasol FOR Koufos,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,202,8,0,2,8:53 PM,6:53,,,SUB: Randolph FOR Leuer,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,203,3,10,2,8:53 PM,6:53,MISS Sanders Free Throw 1 of 1,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,205,4,0,2,8:53 PM,6:53,Middleton REBOUND (Off:2 Def:1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,206,2,1,2,8:53 PM,6:39,MISS O'Bryant 14' Jump Shot,,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,207,4,0,2,8:53 PM,6:38,,,Randolph REBOUND (Off:0 Def:2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,208,6,1,2,8:54 PM,6:27,Parker P.FOUL (P2.T3),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,209,6,2,2,8:54 PM,6:17,Middleton S.FOUL (P2.T4),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,210,3,11,2,8:54 PM,6:17,,,Pondexter Free Throw 1 of 2 (4 PTS),28 - 23,-5,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,212,8,0,2,8:55 PM,6:17,SUB: Henson FOR O'Bryant,,,,,4,203948,Johnny O'Bryant III,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,213,3,12,2,8:55 PM,6:17,,,MISS Pondexter Free Throw 2 of 2,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,215,4,0,2,8:55 PM,6:17,,,Gasol REBOUND (Off:1 Def:2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,216,1,46,2,8:55 PM,6:03,,,Conley 11' Running Jump Shot (2 PTS),30 - 23,-7,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,217,2,1,2,8:55 PM,5:47,MISS Middleton 18' Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,218,4,0,2,8:55 PM,5:46,,,Gasol REBOUND (Off:1 Def:3),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,219,2,1,2,8:55 PM,5:32,,,MISS Gasol 18' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,220,4,0,2,8:55 PM,5:31,Sanders REBOUND (Off:2 Def:7),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,221,1,1,2,8:56 PM,5:10,Middleton 24' 3PT Jump Shot (4 PTS) (Knight 1 AST),,,30 - 26,-4,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,222,9,1,2,8:56 PM,5:10,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,224,8,0,2,8:58 PM,5:10,,,SUB: Allen FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,225,8,0,2,8:58 PM,5:10,SUB: Marshall FOR Parker,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,226,8,0,2,8:58 PM,5:10,SUB: Pachulia FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,227,8,0,2,8:58 PM,5:10,SUB: Antetokounmpo FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,228,8,0,2,8:58 PM,5:10,SUB: Wolters FOR Knight,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,229,1,5,2,8:59 PM,4:57,,,Pondexter 1' Layup (6 PTS) (Randolph 2 AST),32 - 26,-6,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,230,6,1,2,8:59 PM,4:46,,,Randolph P.FOUL (P3.T4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,231,2,3,2,9:00 PM,4:35,MISS Henson 6' Hook Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,232,4,0,2,9:00 PM,4:34,,,Gasol REBOUND (Off:1 Def:4),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,233,6,2,2,9:00 PM,4:24,Henson S.FOUL (P2.PN),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,234,3,11,2,9:00 PM,4:24,,,MISS Randolph Free Throw 1 of 2,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,235,4,1,2,9:00 PM,4:24,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,236,3,12,2,9:01 PM,4:24,,,Randolph Free Throw 2 of 2 (7 PTS),33 - 26,-7,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,238,1,5,2,9:01 PM,4:14,Antetokounmpo 1' Layup (2 PTS) (Marshall 2 AST),,,33 - 28,-5,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,239,2,47,2,9:01 PM,3:49,,,MISS Gasol 13' Turnaround Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,240,4,0,2,9:01 PM,3:48,Henson REBOUND (Off:0 Def:2),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,242,2,1,2,9:02 PM,3:34,MISS Pachulia 12' Jump Shot,,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,243,4,0,2,9:02 PM,3:33,,,Gasol REBOUND (Off:1 Def:5),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,244,2,1,2,9:02 PM,3:25,,,MISS Conley 24' 3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,245,4,0,2,9:02 PM,3:24,Antetokounmpo REBOUND (Off:0 Def:3),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,246,2,5,2,9:02 PM,3:17,MISS Henson  Layup,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,247,4,0,2,9:02 PM,3:16,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,248,2,1,2,9:03 PM,3:16,MISS Henson 9' Jump Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,249,4,0,2,9:03 PM,3:15,,,Gasol REBOUND (Off:1 Def:6),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,250,5,1,2,9:03 PM,2:55,Marshall STEAL (2 STL),,Conley Bad Pass Turnover (P1.T6),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,251,5,1,2,9:03 PM,2:49,Wolters Bad Pass Turnover (P1.T9),,Allen STEAL (2 STL),,,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,252,6,1,2,9:04 PM,2:22,Wolters P.FOUL (P1.PN),,,,,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,253,9,1,2,9:04 PM,2:22,BUCKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,255,3,11,2,9:06 PM,2:22,,,Conley Free Throw 1 of 2 (3 PTS),34 - 28,-6,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,257,3,12,2,9:06 PM,2:22,,,Conley Free Throw 2 of 2 (4 PTS),35 - 28,-7,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,259,5,2,2,9:07 PM,2:09,Pachulia Lost Ball Turnover (P1.T10),,Pondexter STEAL (1 STL),,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,260,5,1,2,9:07 PM,2:04,,,Gasol Bad Pass Turnover (P1.T7),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,261,5,2,2,9:07 PM,1:48,Pachulia Lost Ball Turnover (P2.T11),,Randolph STEAL (1 STL),,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,262,2,5,2,9:08 PM,1:27,Henson BLOCK (1 BLK),,MISS Conley 1' Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400017,263,4,0,2,9:08 PM,1:25,Marshall REBOUND (Off:0 Def:1),,,,,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,264,2,1,2,9:08 PM,1:06,MISS Pachulia 13' Jump Shot,,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,265,4,0,2,9:08 PM,1:05,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,266,2,1,2,9:08 PM,0:56,,,MISS Gasol 20' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,267,4,0,2,9:08 PM,0:53,Pachulia REBOUND (Off:0 Def:3),,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,268,2,1,2,9:08 PM,0:42,MISS Wolters 17' Jump Shot,,,,,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,269,4,0,2,9:08 PM,0:41,Henson REBOUND (Off:1 Def:2),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,270,2,5,2,9:09 PM,0:27,MISS Henson 1' Layup,,Gasol BLOCK (1 BLK),,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,271,4,0,2,9:09 PM,0:25,,,Randolph REBOUND (Off:0 Def:3),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,272,1,1,2,9:09 PM,0:04,,,Randolph 20' Jump Shot (9 PTS) (Conley 3 AST),37 - 28,-9,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,273,1,7,2,9:09 PM,0:00,Henson  Dunk (6 PTS) (Wolters 1 AST),,,37 - 30,-7,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,276,18,0,2,9:09 PM,0:00,,Support Ruling,,,,0,273,Duane Ferrell,,,,,0,0,,,,,,1,0,,,,,,0
+0011400017,274,13,0,2,9:09 PM,0:00,,End of 2nd Period (9:09 PM EST),,37 - 30,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,277,12,0,3,9:26 PM,12:00,,Start of 3rd Period (9:26 PM EST),,37 - 30,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,278,6,2,3,9:26 PM,11:49,,,Leuer S.FOUL (P3.T1),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,279,3,11,3,9:26 PM,11:49,Parker Free Throw 1 of 2 (3 PTS),,,37 - 31,-6,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,281,3,12,3,9:26 PM,11:49,Parker Free Throw 2 of 2 (4 PTS),,,37 - 32,-5,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,283,1,5,3,9:27 PM,11:36,,,Lee 2' Layup (4 PTS),39 - 32,-7,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,284,6,2,3,9:27 PM,11:36,Bayless S.FOUL (P3.T1),,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,285,3,10,3,9:27 PM,11:36,,,Lee Free Throw 1 of 1 (5 PTS),40 - 32,-8,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,287,2,1,3,9:27 PM,11:25,MISS Parker 4' Jump Shot,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,289,4,0,3,9:27 PM,11:24,Sanders REBOUND (Off:3 Def:7),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,288,2,4,3,9:27 PM,11:24,MISS Sanders 1' Tip Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,290,4,0,3,9:27 PM,11:23,Parker REBOUND (Off:1 Def:1),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,291,2,5,3,9:27 PM,11:22,MISS Parker 1' Layup,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,293,4,0,3,9:27 PM,11:21,Sanders REBOUND (Off:4 Def:7),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,292,1,4,3,9:27 PM,11:21,Sanders 1' Tip Shot (8 PTS),,,40 - 34,-6,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,295,5,21,3,9:28 PM,10:56,,,Udrih Palming Turnover (P3.T8),,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011400017,296,5,1,3,9:28 PM,10:41,Knight Bad Pass Turnover (P2.T12),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,297,2,1,3,9:29 PM,10:31,,,MISS Lee 12' Jump Shot,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,298,4,0,3,9:29 PM,10:30,Parker REBOUND (Off:1 Def:2),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,299,1,5,3,9:29 PM,10:27,Dudley 1' Layup (2 PTS) (Knight 2 AST),,,40 - 36,-4,4,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,300,1,50,3,9:29 PM,10:17,,,Leuer  Running Dunk (3 PTS) (Pondexter 1 AST),42 - 36,-6,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,301,2,1,3,9:29 PM,10:02,MISS Bayless 21' Jump Shot,,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,302,4,0,3,9:29 PM,10:01,,,Pondexter REBOUND (Off:0 Def:3),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,303,5,1,3,9:30 PM,9:53,Bayless STEAL (1 STL),,Koufos Bad Pass Turnover (P1.T9),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,304,6,3,3,9:30 PM,9:52,,,Leuer L.B.FOUL (P4.T2),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,305,2,5,3,9:30 PM,9:33,MISS Knight 2' Layup,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,306,4,0,3,9:30 PM,9:32,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,307,2,3,3,9:30 PM,9:23,,,MISS Koufos 4' Hook Shot,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,308,4,0,3,9:30 PM,9:22,,,Leuer REBOUND (Off:1 Def:3),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,309,2,1,3,9:30 PM,9:20,,,MISS Koufos 7' Jump Shot,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,310,4,0,3,9:30 PM,9:19,Sanders REBOUND (Off:4 Def:8),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,311,2,5,3,9:31 PM,9:08,MISS Knight 2' Layup,,Leuer BLOCK (1 BLK),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,312,4,0,3,9:31 PM,9:06,Parker REBOUND (Off:2 Def:2),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,313,2,1,3,9:31 PM,9:01,MISS Parker 11' Jump Shot,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,314,4,0,3,9:31 PM,9:00,,,Koufos REBOUND (Off:0 Def:4),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,315,9,1,3,9:31 PM,8:58,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,317,1,5,3,9:34 PM,8:51,,,Leuer 1' Layup (5 PTS) (Lee 1 AST),44 - 36,-8,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,318,6,2,3,9:34 PM,8:51,Sanders S.FOUL (P3.T2),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,319,3,10,3,9:34 PM,8:51,,,Leuer Free Throw 1 of 1 (6 PTS),45 - 36,-9,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,322,2,5,3,9:35 PM,8:28,MISS Sanders 2' Layup,,Lee BLOCK (2 BLK),,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,323,4,0,3,9:35 PM,8:25,Bayless REBOUND (Off:1 Def:0),,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,325,5,1,3,9:36 PM,8:24,Bayless Bad Pass Turnover (P1.T13),,Udrih STEAL (1 STL),,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,326,2,3,3,9:36 PM,8:12,,,MISS Koufos 9' Hook Shot,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,327,4,0,3,9:36 PM,8:11,Parker REBOUND (Off:2 Def:3),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,328,1,1,3,9:36 PM,7:57,Bayless 25' 3PT Jump Shot (7 PTS) (Parker 2 AST),,,45 - 39,-6,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,329,1,1,3,9:36 PM,7:36,,,Udrih 17' Jump Shot (2 PTS) (Koufos 1 AST),47 - 39,-8,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,330,1,5,3,9:36 PM,7:29,Parker 1' Layup (6 PTS) (Knight 3 AST),,,47 - 41,-6,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,331,1,5,3,9:37 PM,7:06,,,Koufos 1' Layup (4 PTS) (Udrih 2 AST),49 - 41,-8,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,332,2,1,3,9:37 PM,6:50,MISS Bayless 21' Jump Shot,,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,333,4,0,3,9:37 PM,6:49,,,Leuer REBOUND (Off:1 Def:4),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,334,1,1,3,9:37 PM,6:29,,,Leuer 10' Jump Shot (8 PTS),51 - 41,-10,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,336,8,0,3,9:38 PM,6:17,SUB: Marshall FOR Knight,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,337,8,0,3,9:38 PM,6:17,SUB: Middleton FOR Bayless,,,,,4,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,338,5,1,3,9:38 PM,6:15,Parker Bad Pass Turnover (P2.T14),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,339,1,1,3,9:38 PM,6:03,,,Leuer 27' 3PT Jump Shot (11 PTS) (Udrih 3 AST),54 - 41,-13,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,340,2,1,3,9:39 PM,5:46,MISS Parker 26' 3PT Jump Shot,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,341,4,0,3,9:39 PM,5:45,,,Koufos REBOUND (Off:0 Def:5),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,342,5,1,3,9:39 PM,5:29,,,Leuer Bad Pass Turnover (P1.T10),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,343,8,0,3,9:39 PM,5:29,,,SUB: Calathes FOR Udrih,,,5,2757,Beno Udrih,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,344,8,0,3,9:39 PM,5:29,SUB: Henson FOR Parker,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,345,6,1,3,9:40 PM,5:16,,,Koufos P.FOUL (P4.T3),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,346,8,0,3,9:40 PM,5:16,,,SUB: Adams FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,347,2,1,3,9:40 PM,5:16,MISS Dudley 18' Jump Shot,,,,,4,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,348,4,0,3,9:40 PM,5:07,Sanders REBOUND (Off:5 Def:8),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,350,8,0,3,9:40 PM,5:04,SUB: Pachulia FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,351,5,2,3,9:41 PM,4:59,Dudley Lost Ball Turnover (P1.T15),,Adams STEAL (1 STL),,,4,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,352,1,5,3,9:41 PM,4:54,,,Lee 2' Layup (7 PTS) (Leuer 1 AST),56 - 41,-15,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,354,2,1,3,9:41 PM,4:36,MISS Middleton 16' Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,355,4,0,3,9:41 PM,4:33,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,356,1,1,3,9:42 PM,4:31,Middleton 12' Jump Shot (6 PTS) (Dudley 1 AST),,,56 - 43,-13,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,357,6,2,3,9:42 PM,4:31,,,Calathes S.FOUL (P1.T4),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,358,8,0,3,9:42 PM,4:31,SUB: Antetokounmpo FOR Dudley,,,,,4,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,359,3,10,3,9:42 PM,4:31,MISS Middleton Free Throw 1 of 1,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,361,4,0,3,9:42 PM,4:31,,,Calathes REBOUND (Off:0 Def:1),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,362,2,56,3,9:42 PM,4:14,,,MISS Leuer 5' Running Hook Shot,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,363,4,0,3,9:43 PM,4:13,,,Koufos REBOUND (Off:1 Def:5),,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,364,2,1,3,9:43 PM,4:10,,,MISS Lee 27' 3PT Jump Shot,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,365,4,0,3,9:43 PM,4:09,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,366,6,2,3,9:43 PM,4:02,,,Adams S.FOUL (P1.PN),,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,367,3,11,3,9:43 PM,4:02,Antetokounmpo Free Throw 1 of 2 (3 PTS),,,56 - 44,-12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,369,8,0,3,9:43 PM,4:02,,,SUB: Whiteside FOR Koufos,,,5,201585,Kosta Koufos,1610612763.0,Memphis,Grizzlies,MEM,5,202355,Hassan Whiteside,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,370,3,12,3,9:43 PM,4:02,Antetokounmpo Free Throw 2 of 2 (4 PTS),,,56 - 45,-11,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,372,1,46,3,9:44 PM,3:51,,,Calathes 5' Running Jump Shot (2 PTS),58 - 45,-13,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,373,5,1,3,9:44 PM,3:43,Henson Bad Pass Turnover (P1.T16),,Adams STEAL (2 STL),,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,374,5,2,3,9:44 PM,3:38,Middleton STEAL (2 STL),,Calathes Lost Ball Turnover (P1.T11),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,375,1,5,3,9:44 PM,3:33,Middleton 1' Layup (8 PTS),,,58 - 47,-11,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,376,6,1,3,9:44 PM,3:23,Marshall P.FOUL (P1.T3),,,,,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,377,8,0,3,9:45 PM,3:22,SUB: Wolters FOR Marshall,,,,,4,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,378,2,1,3,9:45 PM,3:15,,,MISS Adams 15' Jump Shot,,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,379,4,0,3,9:45 PM,3:14,Pachulia REBOUND (Off:0 Def:4),,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,380,2,1,3,9:45 PM,3:03,MISS Antetokounmpo 13' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,381,4,0,3,9:45 PM,3:02,Henson REBOUND (Off:2 Def:2),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,382,1,3,3,9:45 PM,2:59,Henson 6' Hook Shot (8 PTS),,,58 - 49,-9,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,383,2,1,3,9:45 PM,2:41,,,MISS Leuer 18' Jump Shot,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,384,4,0,3,9:46 PM,2:39,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,385,9,1,3,9:46 PM,2:39,BUCKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,387,8,0,3,9:48 PM,2:39,,,SUB: Stokes FOR Leuer,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,388,5,1,3,9:48 PM,2:26,Henson Bad Pass Turnover (P2.T17),,Adams STEAL (3 STL),,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,389,2,1,3,9:49 PM,2:09,,,MISS Lee 21' Jump Shot,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,390,4,0,3,9:49 PM,2:08,Antetokounmpo REBOUND (Off:0 Def:4),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,391,1,5,3,9:49 PM,1:58,Henson 1' Layup (10 PTS) (Pachulia 2 AST),,,58 - 51,-7,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,392,2,5,3,9:49 PM,1:40,,,MISS Calathes 2' Layup,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,393,4,0,3,9:49 PM,1:39,Henson REBOUND (Off:2 Def:3),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,394,2,1,3,9:49 PM,1:25,MISS Antetokounmpo 7' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,395,4,0,3,9:49 PM,1:24,,,Adams REBOUND (Off:0 Def:1),,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,396,2,5,3,9:50 PM,1:14,Henson BLOCK (2 BLK),,MISS Stokes 3' Layup,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400017,397,4,0,3,9:50 PM,1:12,Wolters REBOUND (Off:0 Def:1),,,,,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,398,1,5,3,9:50 PM,1:09,Wolters 1' Layup (2 PTS),,,58 - 53,-5,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,399,6,29,3,9:50 PM,0:50,Pachulia Shooting Block Foul (P2.T4),,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,400,3,11,3,9:50 PM,0:50,,,MISS Stokes Free Throw 1 of 2,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,401,4,1,3,9:50 PM,0:50,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,402,8,0,3,9:51 PM,0:50,,,SUB: Christopher FOR Lee,,,5,201584,Courtney Lee,1610612763.0,Memphis,Grizzlies,MEM,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,403,3,12,3,9:51 PM,0:50,,,Stokes Free Throw 2 of 2 (1 PTS),59 - 53,-6,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,405,5,8,3,9:51 PM,0:35,Henson 3 Second Violation Turnover (P3.T18),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400017,406,5,1,3,9:52 PM,0:20,Pachulia STEAL (1 STL),,Calathes Bad Pass Turnover (P2.T12),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,407,2,5,3,9:52 PM,0:16,MISS Middleton 2' Layup,,Stokes BLOCK (1 BLK),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,408,4,0,3,9:52 PM,0:15,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,409,2,5,3,9:52 PM,0:02,Pachulia BLOCK (1 BLK),,MISS Whiteside 2' Layup,,,5,202355,Hassan Whiteside,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400017,410,4,0,3,9:52 PM,0:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,411,13,0,3,9:52 PM,0:00,,End of 3rd Period (9:52 PM EST),,59 - 53,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,413,12,0,4,9:55 PM,12:00,,Start of 4th Period (9:55 PM EST),,59 - 53,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,414,2,5,4,9:56 PM,11:47,,,MISS Calathes 1' Layup,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,415,4,0,4,9:56 PM,11:46,Sanders REBOUND (Off:5 Def:9),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,416,1,1,4,9:56 PM,11:22,Knight 26' 3PT Jump Shot (6 PTS) (Antetokounmpo 1 AST),,,59 - 56,-3,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,417,1,42,4,9:56 PM,11:05,,,Adams 1' Driving Layup (2 PTS),61 - 56,-5,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,418,2,5,4,9:56 PM,10:58,MISS Knight 2' Layup,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,419,4,0,4,9:56 PM,10:56,,,Stokes REBOUND (Off:0 Def:1),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,420,5,4,4,9:57 PM,10:47,,,Stokes Traveling Turnover (P1.T13),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011400017,421,2,1,4,9:57 PM,10:36,MISS Parker 26' 3PT Jump Shot,,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,422,4,0,4,9:57 PM,10:35,,,Calathes REBOUND (Off:0 Def:2),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,423,2,1,4,9:57 PM,10:26,,,MISS Adams 26' 3PT Jump Shot,,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,424,4,0,4,9:57 PM,10:25,,,Stokes REBOUND (Off:1 Def:1),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,425,5,2,4,9:57 PM,10:23,Sanders STEAL (1 STL),,Stokes Lost Ball Turnover (P2.T14),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,426,6,1,4,9:57 PM,10:08,,,Christopher P.FOUL (P1.T1),,,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,427,8,0,4,9:58 PM,10:08,,,SUB: Clark FOR Stokes,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,429,7,2,4,9:58 PM,10:05,,,Whiteside Violation:Defensive Goaltending,,,5,202355,Hassan Whiteside,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011400017,428,1,5,4,9:58 PM,10:05,Sanders 2' Layup (10 PTS) (Antetokounmpo 2 AST),,,61 - 58,-3,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,430,2,1,4,9:58 PM,9:49,,,MISS Adams 6' Jump Shot,,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,431,4,0,4,9:58 PM,9:49,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,432,2,1,4,9:59 PM,9:34,MISS Knight 26' 3PT Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,433,4,0,4,9:59 PM,9:33,,,Adams REBOUND (Off:0 Def:2),,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,434,2,1,4,9:59 PM,9:21,,,MISS Calathes 4' Jump Shot,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,435,4,0,4,9:59 PM,9:19,Sanders REBOUND (Off:5 Def:10),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,436,1,7,4,9:59 PM,9:13,Parker  Dunk (8 PTS) (Antetokounmpo 3 AST),,,61 - 60,-1,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,437,9,1,4,9:59 PM,9:09,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,439,8,0,4,10:02 PM,9:09,,,SUB: Lucas FOR Calathes,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,440,6,1,4,10:02 PM,9:01,Knight P.FOUL (P1.T1),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,441,2,1,4,10:02 PM,8:49,,,MISS Lucas 20' Jump Shot,,,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,442,4,0,4,10:02 PM,8:48,Antetokounmpo REBOUND (Off:0 Def:5),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,443,2,5,4,10:02 PM,8:35,MISS Sanders 3' Layup,,Clark BLOCK (1 BLK),,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0
+0011400017,444,4,0,4,10:02 PM,8:34,,,Clark REBOUND (Off:0 Def:1),,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,445,1,7,4,10:03 PM,8:31,,,Whiteside  Dunk (2 PTS) (Clark 1 AST),63 - 60,-3,5,202355,Hassan Whiteside,1610612763.0,Memphis,Grizzlies,MEM,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,446,1,63,4,10:03 PM,8:08,Antetokounmpo 8' Fadeaway Jumper (6 PTS),,,63 - 62,-1,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,447,5,2,4,10:03 PM,7:54,Knight STEAL (1 STL),,Whiteside Lost Ball Turnover (P1.T15),,,5,202355,Hassan Whiteside,1610612763.0,Memphis,Grizzlies,MEM,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,448,1,5,4,10:03 PM,7:51,Knight 1' Layup (8 PTS),,,63 - 64,1,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,449,1,1,4,10:04 PM,7:31,,,Clark 19' Jump Shot (2 PTS) (Adams 1 AST),65 - 64,-1,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,450,5,1,4,10:04 PM,7:18,Knight Bad Pass Turnover (P3.T19),,Adams STEAL (4 STL),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,451,6,1,4,10:04 PM,7:16,Antetokounmpo P.FOUL (P2.T2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,452,8,0,4,10:04 PM,7:16,,,SUB: Stokes FOR Whiteside,,,5,202355,Hassan Whiteside,1610612763.0,Memphis,Grizzlies,MEM,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,453,8,0,4,10:04 PM,7:16,SUB: Henson FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,454,5,4,4,10:05 PM,7:06,,,Stokes Traveling Turnover (P3.T16),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011400017,455,1,7,4,10:05 PM,6:54,Parker  Dunk (10 PTS) (Knight 4 AST),,,65 - 66,1,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,456,1,1,4,10:05 PM,6:42,,,Clark 7' Jump Shot (4 PTS) (Lucas 1 AST),67 - 66,-1,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,457,6,1,4,10:05 PM,6:29,,,Adams P.FOUL (P2.T2),,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,458,1,1,4,10:06 PM,6:21,Knight 25' 3PT Jump Shot (11 PTS) (Henson 2 AST),,,67 - 69,2,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,459,6,1,4,10:06 PM,6:14,Wolters P.FOUL (P2.T3),,,,,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,460,6,1,4,10:06 PM,6:01,Henson P.FOUL (P3.T4),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,461,1,1,4,10:07 PM,5:55,,,Christopher  3PT Jump Shot (3 PTS) (Lucas 2 AST),70 - 69,-1,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,462,2,1,4,10:07 PM,5:43,MISS Henson 5' Jump Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,463,4,0,4,10:07 PM,5:42,Parker REBOUND (Off:3 Def:3),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,464,2,1,4,10:07 PM,5:37,MISS Antetokounmpo 13' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,465,4,0,4,10:07 PM,5:35,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,466,6,3,4,10:07 PM,5:35,,,Lucas L.B.FOUL (P1.T3),,,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,467,9,4,4,10:07 PM,5:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,469,8,0,4,10:10 PM,5:35,SUB: Middleton FOR Wolters,,,,,4,203489,Nate Wolters,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,470,5,1,4,10:10 PM,5:22,Knight Bad Pass Turnover (P4.T20),,Lucas STEAL (1 STL),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,471,1,1,4,10:10 PM,5:09,,,Lucas 16' Jump Shot (2 PTS),72 - 69,-3,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,472,5,2,4,10:10 PM,4:57,Antetokounmpo Lost Ball Turnover (P1.T21),,Stokes STEAL (1 STL),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,473,1,1,4,10:11 PM,4:47,,,Christopher 26' 3PT Jump Shot (6 PTS) (Adams 2 AST),75 - 69,-6,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,474,1,1,4,10:11 PM,4:25,Middleton 8' Jump Shot (10 PTS) (Henson 3 AST),,,75 - 71,-4,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,475,2,1,4,10:11 PM,4:07,,,MISS Stokes 18' Jump Shot,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,476,4,0,4,10:11 PM,4:06,Henson REBOUND (Off:2 Def:4),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,477,1,7,4,10:12 PM,3:49,Parker  Dunk (12 PTS),,,75 - 73,-2,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,478,2,1,4,10:12 PM,3:30,,,MISS Adams 14' Jump Shot,,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,479,4,0,4,10:12 PM,3:29,,,Stokes REBOUND (Off:2 Def:1),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,480,2,5,4,10:12 PM,3:28,,,MISS Stokes 3' Layup,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,481,4,0,4,10:12 PM,3:27,Henson REBOUND (Off:2 Def:5),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,482,1,5,4,10:12 PM,3:23,Parker  Layup (14 PTS) (Antetokounmpo 4 AST),,,75 - 75,TIE,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,483,6,1,4,10:12 PM,3:06,Parker P.FOUL (P3.PN),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,484,3,11,4,10:13 PM,3:06,,,MISS Adams Free Throw 1 of 2,,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,485,4,1,4,10:13 PM,3:06,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,486,3,12,4,10:13 PM,3:06,,,Adams Free Throw 2 of 2 (3 PTS),76 - 75,-1,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,488,5,41,4,10:13 PM,2:53,Knight Poss Lost Ball Turnover (P5.T22),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,489,9,1,4,10:13 PM,2:53,BUCKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,491,2,1,4,10:16 PM,2:38,,,MISS Christopher 27' 3PT Jump Shot,,,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,492,4,0,4,10:16 PM,2:36,Parker REBOUND (Off:3 Def:4),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,493,6,1,4,10:16 PM,2:24,,,Adams P.FOUL (P3.T4),,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,495,1,1,4,10:17 PM,2:15,Middleton 11' Jump Shot (12 PTS) (Antetokounmpo 5 AST),,,76 - 77,1,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,496,1,1,4,10:17 PM,1:59,,,Lucas 18' Jump Shot (4 PTS) (Adams 3 AST),78 - 77,-1,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,497,1,5,4,10:18 PM,1:47,Henson  Layup (12 PTS) (Middleton 1 AST),,,78 - 79,1,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,498,6,1,4,10:18 PM,1:38,Henson P.FOUL (P4.PN),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,499,3,11,4,10:18 PM,1:38,,,MISS Clark Free Throw 1 of 2,,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,500,4,1,4,10:18 PM,1:38,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,501,3,12,4,10:19 PM,1:38,,,MISS Clark Free Throw 2 of 2,,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,503,4,0,4,10:19 PM,1:37,,,Stokes REBOUND (Off:3 Def:1),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,504,2,5,4,10:19 PM,1:36,Antetokounmpo BLOCK (1 BLK),,MISS Stokes  Layup,,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400017,505,4,0,4,10:19 PM,1:35,Parker REBOUND (Off:3 Def:5),,,,,4,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,506,2,1,4,10:19 PM,1:28,MISS Antetokounmpo 8' Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,507,4,0,4,10:19 PM,1:27,,,Clark REBOUND (Off:0 Def:2),,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,508,1,5,4,10:19 PM,1:08,,,Stokes 1' Layup (3 PTS) (Christopher 1 AST),80 - 79,-1,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011400017,509,6,2,4,10:19 PM,1:08,Henson S.FOUL (P5.PN),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011400017,510,3,10,4,10:19 PM,1:08,,,Stokes Free Throw 1 of 1 (4 PTS),81 - 79,-2,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,511,1,1,4,10:20 PM,0:58,Middleton 6' Jump Shot (14 PTS) (Knight 5 AST),,,81 - 81,TIE,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,512,2,1,4,10:20 PM,0:44,,,MISS Christopher 25' 3PT Jump Shot,,,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,514,4,0,4,10:20 PM,0:44,,,Clark REBOUND (Off:1 Def:2),,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,513,1,4,4,10:20 PM,0:44,,,Clark 1' Tip Shot (6 PTS),83 - 81,-2,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,515,1,1,4,10:20 PM,0:23,Middleton 25' 3PT Jump Shot (17 PTS) (Knight 6 AST),,,83 - 84,1,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400017,516,9,1,4,10:21 PM,0:23,,,Grizzlies Timeout: Regular (Reg.5 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,517,2,1,4,10:23 PM,0:12,,,MISS Clark 26' 3PT Jump Shot,,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,518,4,0,4,10:23 PM,0:11,Knight REBOUND (Off:0 Def:2),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,519,6,28,4,10:23 PM,0:08,,,Stokes Personal Take Foul (P1.PN),,,5,203950,Jarnell Stokes,1610612763.0,Memphis,Grizzlies,MEM,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400017,520,3,11,4,10:24 PM,0:08,Antetokounmpo Free Throw 1 of 2 (7 PTS),,,83 - 85,2,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,522,3,12,4,10:24 PM,0:08,Antetokounmpo Free Throw 2 of 2 (8 PTS),,,83 - 86,3,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400017,526,9,2,4,10:24 PM,0:08,,,Grizzlies Timeout: Short (Reg.5 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400017,528,2,1,4,10:26 PM,0:05,,,MISS Adams 26' 3PT Jump Shot,,,5,203919,Jordan Adams,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,529,4,0,4,10:26 PM,0:05,,,Clark REBOUND (Off:2 Def:2),,,5,201947,Earl Clark,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,530,2,5,4,10:26 PM,0:00,,,MISS Lucas 1' Layup,,,5,203564,Kalin Lucas,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,531,4,0,4,10:26 PM,0:00,,,Christopher REBOUND (Off:1 Def:0),,,5,203565,Patrick Christopher,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011400017,532,13,0,4,10:26 PM,0:00,,End of 4th Period (10:26 PM EST),,83 - 86,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

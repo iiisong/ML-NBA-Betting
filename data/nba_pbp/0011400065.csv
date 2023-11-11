@@ -1,0 +1,428 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400065,0,12,0,1,7:10 PM,12:00,,Start of 1st Period (7:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,1,10,0,1,7:10 PM,12:00,Jump Ball Gortat vs. Jefferson: Tip to Nene,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0
+0011400065,2,2,5,1,7:11 PM,11:41,MISS Nene 1' Layup,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,3,4,0,1,7:11 PM,11:41,Nene REBOUND (Off:1 Def:0),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,4,2,5,1,7:11 PM,11:39,MISS Nene 1' Layup,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,5,4,0,1,7:11 PM,11:39,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,6,2,1,1,7:11 PM,11:31,MISS Wall 19' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,7,4,0,1,7:11 PM,11:29,,,Jefferson REBOUND (Off:0 Def:1),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,8,1,1,1,7:12 PM,11:08,,,Jefferson 16' Jump Shot (2 PTS) (Williams 1 AST),2 - 0,-2,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,9,1,79,1,7:12 PM,10:53,Pierce 14' Pullup Jump Shot (2 PTS),,,2 - 2,TIE,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,10,2,1,1,7:12 PM,10:37,,,MISS Neal 6' Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,11,4,0,1,7:12 PM,10:36,Gortat REBOUND (Off:0 Def:1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,12,2,1,1,7:12 PM,10:25,MISS Pierce 14' Jump Shot,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,13,4,0,1,7:12 PM,10:24,,,Jefferson REBOUND (Off:0 Def:2),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,14,1,1,1,7:13 PM,10:07,,,Jefferson 19' Jump Shot (4 PTS) (Kidd-Gilchrist 1 AST),4 - 2,-2,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,15,5,1,1,7:13 PM,9:47,Wall Bad Pass Turnover (P1.T1),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,17,5,1,1,7:13 PM,9:37,Wall STEAL (1 STL),,Neal Bad Pass Turnover (P1.T1),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,18,2,5,1,7:13 PM,9:31,MISS Wall 1' Layup,,Kidd-Gilchrist BLOCK (1 BLK),,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0
+0011400065,19,4,0,1,7:13 PM,9:28,,,Kidd-Gilchrist REBOUND (Off:0 Def:1),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,20,1,52,1,7:13 PM,9:25,,,Kidd-Gilchrist  Alley Oop Dunk (2 PTS) (Walker 1 AST),6 - 2,-4,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,21,5,1,1,7:14 PM,9:04,Pierce Bad Pass Turnover (P1.T2),,Williams STEAL (1 STL),,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,22,2,1,1,7:14 PM,8:54,,,MISS Walker 26' 3PT Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,23,4,0,1,7:14 PM,8:53,Gortat REBOUND (Off:0 Def:2),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,24,6,4,1,7:14 PM,8:42,Pierce OFF.Foul (P1),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,25,5,5,1,7:14 PM,8:42,Pierce Foul Turnover (P2.T3),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,27,2,1,1,7:15 PM,8:27,,,MISS Jefferson 8' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,28,4,0,1,7:15 PM,8:26,Nene REBOUND (Off:1 Def:1),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,29,1,41,1,7:15 PM,8:19,Pierce 1' Running Layup (4 PTS) (Gortat 1 AST),,,6 - 4,-2,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,30,6,2,1,7:15 PM,8:19,,,Neal S.FOUL (P1.T1),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,31,3,10,1,7:15 PM,8:19,Pierce Free Throw 1 of 1 (5 PTS),,,6 - 5,-1,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,34,2,1,1,7:16 PM,8:08,,,MISS Williams 25' 3PT Jump Shot,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,35,4,0,1,7:16 PM,8:07,Wall REBOUND (Off:0 Def:1),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,36,6,2,1,7:16 PM,7:58,,,Williams S.FOUL (P1.T2),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,37,3,11,1,7:16 PM,7:58,Nene Free Throw 1 of 2 (1 PTS),,,6 - 6,TIE,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,39,3,12,1,7:16 PM,7:58,Nene Free Throw 2 of 2 (2 PTS),,,6 - 7,1,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,41,2,1,1,7:17 PM,7:38,,,MISS Kidd-Gilchrist 19' Jump Shot,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,42,4,0,1,7:17 PM,7:38,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,43,2,1,1,7:17 PM,7:30,MISS Wall 18' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,44,4,0,1,7:17 PM,7:29,,,Kidd-Gilchrist REBOUND (Off:0 Def:2),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,45,5,1,1,7:17 PM,7:15,,,Neal Bad Pass Turnover (P2.T2),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400065,46,2,1,1,7:18 PM,7:04,MISS Nene 13' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,47,4,0,1,7:18 PM,7:03,,,Kidd-Gilchrist REBOUND (Off:0 Def:3),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,48,2,5,1,7:18 PM,6:52,Gortat BLOCK (1 BLK),,MISS Walker 3' Layup,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0
+0011400065,49,4,0,1,7:18 PM,6:50,,,Jefferson REBOUND (Off:1 Def:2),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,50,1,5,1,7:18 PM,6:48,,,Jefferson 1' Layup (6 PTS),8 - 7,-1,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,51,1,1,1,7:18 PM,6:29,Wall 24' 3PT Jump Shot (3 PTS) (Pierce 1 AST),,,8 - 10,2,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,52,2,1,1,7:19 PM,6:05,Nene BLOCK (1 BLK),,MISS Neal 26' 3PT Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0
+0011400065,53,4,0,1,7:19 PM,6:03,Gortat REBOUND (Off:0 Def:3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,54,1,79,1,7:19 PM,5:59,Wall 19' Pullup Jump Shot (5 PTS),,,8 - 12,4,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,55,9,1,1,7:19 PM,5:51,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,57,2,1,1,7:22 PM,5:44,,,MISS Jefferson 15' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,58,4,0,1,7:22 PM,5:43,Wall REBOUND (Off:0 Def:2),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,59,5,1,1,7:22 PM,5:33,Wall Bad Pass Turnover (P2.T4),,Jefferson STEAL (1 STL),,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,60,2,1,1,7:22 PM,5:27,,,MISS Neal 16' Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,61,4,0,1,7:22 PM,5:26,Gortat REBOUND (Off:0 Def:4),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,62,1,1,1,7:22 PM,5:15,Nene 17' Jump Shot (4 PTS) (Wall 1 AST),,,8 - 14,6,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,63,1,71,1,7:23 PM,4:55,,,Jefferson 1' Finger Roll Layup (8 PTS),10 - 14,4,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,64,1,1,1,7:23 PM,4:39,Pierce 16' Jump Shot (7 PTS),,,10 - 16,6,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,65,2,1,1,7:23 PM,4:17,Nene BLOCK (2 BLK),,MISS Williams 3' Jump Shot,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0
+0011400065,66,4,0,1,7:23 PM,4:16,Wall REBOUND (Off:0 Def:3),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,67,1,88,1,7:23 PM,4:10,Nene  Driving Slam Dunk (6 PTS) (Gortat 2 AST),,,10 - 18,8,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,68,1,5,1,7:24 PM,3:46,,,Jefferson 2' Layup (10 PTS),12 - 18,6,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,69,5,1,1,7:24 PM,3:34,Pierce Bad Pass Turnover (P3.T5),,Williams STEAL (2 STL),,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,70,5,1,1,7:24 PM,3:31,Temple STEAL (1 STL),,Williams Bad Pass Turnover (P1.T3),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,71,2,5,1,7:24 PM,3:19,MISS Gortat 3' Layup,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,72,4,0,1,7:24 PM,3:18,,,Jefferson REBOUND (Off:1 Def:3),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,73,2,1,1,7:25 PM,2:56,,,MISS Walker 18' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,74,4,0,1,7:25 PM,2:55,,,Kidd-Gilchrist REBOUND (Off:1 Def:3),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,75,6,2,1,7:25 PM,2:53,Gortat S.FOUL (P1.T1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,76,9,1,1,7:25 PM,2:53,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,78,8,0,1,7:27 PM,2:53,SUB: Gooden FOR Nene,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,79,8,0,1,7:27 PM,2:53,SUB: Porter FOR Pierce,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,80,8,0,1,7:27 PM,2:53,,,SUB: Pargo FOR Williams,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,81,8,0,1,7:27 PM,2:53,,,SUB: Zeller FOR Neal,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,82,3,11,1,7:27 PM,2:53,,,Kidd-Gilchrist Free Throw 1 of 2 (3 PTS),13 - 18,5,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,84,3,12,1,7:28 PM,2:53,,,Kidd-Gilchrist Free Throw 2 of 2 (4 PTS),14 - 18,4,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,89,5,15,1,7:29 PM,2:36,Porter Offensive Goaltending Turnover (P1.T6),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,90,8,0,1,7:29 PM,2:36,,,SUB: Hairston FOR Kidd-Gilchrist,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,91,2,1,1,7:29 PM,2:22,,,MISS Jefferson 19' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,92,4,0,1,7:29 PM,2:21,Porter REBOUND (Off:0 Def:1),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,93,6,1,1,7:29 PM,2:16,,,Zeller P.FOUL (P1.T3),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,94,8,0,1,7:29 PM,2:16,SUB: A. Miller FOR Wall,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,95,2,5,1,7:30 PM,2:10,MISS Porter 1' Layup,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,96,4,0,1,7:30 PM,2:09,,,Walker REBOUND (Off:0 Def:1),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,97,1,63,1,7:30 PM,1:48,,,Walker 15' Fadeaway Jumper (2 PTS),16 - 18,2,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,98,1,44,1,7:30 PM,1:26,Porter  Reverse Layup (2 PTS) (Gooden 1 AST),,,16 - 20,4,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,99,2,1,1,7:31 PM,1:13,,,MISS Hairston 17' Jump Shot,,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,100,4,0,1,7:31 PM,1:12,Gortat REBOUND (Off:0 Def:5),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,101,1,1,1,7:31 PM,1:02,Gooden 21' Jump Shot (2 PTS) (A. Miller 1 AST),,,16 - 22,6,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,102,6,2,1,7:31 PM,0:46,A. Miller S.FOUL (P1.T2),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,103,3,11,1,7:31 PM,0:46,,,Walker Free Throw 1 of 2 (3 PTS),17 - 22,5,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,105,8,0,1,7:32 PM,0:46,SUB: Seraphin FOR Gortat,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,106,3,12,1,7:32 PM,0:46,,,Walker Free Throw 2 of 2 (4 PTS),18 - 22,4,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,109,6,1,1,7:32 PM,0:40,,,Hairston P.FOUL (P1.T4),,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,110,1,1,1,7:33 PM,0:31,Porter 21' Jump Shot (4 PTS) (Seraphin 1 AST),,,18 - 24,6,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,111,2,1,1,7:33 PM,0:07,,,MISS Walker 10' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,112,4,0,1,7:33 PM,0:07,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,113,5,11,1,7:33 PM,0:07,,,Hornets Turnover: Shot Clock (T#4),,,3,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400065,114,8,0,1,7:33 PM,0:07,SUB: Wall FOR Seraphin,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,115,1,1,1,7:34 PM,0:00,Temple 24' 3PT Jump Shot (3 PTS) (Wall 2 AST),,,18 - 27,9,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,116,18,0,1,7:34 PM,0:00,,Support Ruling,,,,0,115,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400065,117,13,0,1,7:34 PM,0:00,,End of 1st Period (7:34 PM EST),,18 - 27,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,119,12,0,2,7:37 PM,12:00,,Start of 2nd Period (7:37 PM EST),,18 - 27,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,120,2,1,2,7:37 PM,11:40,,,MISS Pargo 19' Jump Shot,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,121,4,0,2,7:37 PM,11:39,A. Miller REBOUND (Off:0 Def:1),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,122,1,41,2,7:37 PM,11:34,A. Miller 1' Running Layup (2 PTS),,,18 - 29,11,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,123,9,2,2,7:37 PM,11:27,,,Hornets Timeout: Short (Reg.1 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,125,5,1,2,7:39 PM,11:13,Porter STEAL (1 STL),,Pargo Bad Pass Turnover (P1.T5),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,126,1,1,2,7:39 PM,11:04,Butler 24' 3PT Jump Shot (3 PTS) (Porter 1 AST),,,18 - 32,14,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,127,6,1,2,7:39 PM,10:55,Seraphin P.FOUL (P1.T1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,128,2,1,2,7:39 PM,10:48,,,MISS Zeller 22' Jump Shot,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,129,4,0,2,7:39 PM,10:46,Butler REBOUND (Off:0 Def:1),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,130,1,42,2,7:40 PM,10:29,Porter 1' Driving Layup (6 PTS) (A. Miller 2 AST),,,18 - 34,16,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,131,1,1,2,7:40 PM,10:15,,,Roberts 22' Jump Shot (2 PTS),20 - 34,14,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,132,5,2,2,7:40 PM,10:04,Gooden Lost Ball Turnover (P1.T7),,Zeller STEAL (1 STL),,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,133,2,5,2,7:40 PM,9:58,Porter BLOCK (1 BLK),,MISS Pargo 2' Layup,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0
+0011400065,134,4,0,2,7:40 PM,9:55,,,Hairston REBOUND (Off:1 Def:0),,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,135,1,1,2,7:40 PM,9:52,,,Hairston  3PT Jump Shot (3 PTS),23 - 34,11,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,136,2,1,2,7:41 PM,9:33,MISS Butler 26' 3PT Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,137,4,0,2,7:41 PM,9:32,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,139,6,1,2,7:41 PM,9:23,,,Biyombo P.FOUL (P1.T1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,140,6,1,2,7:42 PM,9:16,,,Pargo P.FOUL (P1.T2),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,141,2,1,2,7:42 PM,9:04,MISS Seraphin 8' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,142,4,0,2,7:42 PM,9:03,,,Pargo REBOUND (Off:0 Def:1),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,143,1,79,2,7:42 PM,8:56,,,Pargo 15' Pullup Jump Shot (2 PTS),25 - 34,9,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,144,6,1,2,7:43 PM,8:46,,,Zeller P.FOUL (P2.T3),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,145,9,4,2,7:43 PM,8:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,147,8,0,2,7:45 PM,8:46,,,SUB: Kidd-Gilchrist FOR Hairston,,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,148,1,58,2,7:46 PM,8:30,Gooden 9' Turnaround Hook Shot (4 PTS) (Porter 2 AST),,,25 - 36,11,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,149,1,47,2,7:46 PM,8:09,,,Kidd-Gilchrist 7' Turnaround Jump Shot (6 PTS),27 - 36,9,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,150,1,1,2,7:46 PM,7:58,Butler 14' Jump Shot (5 PTS) (A. Miller 3 AST),,,27 - 38,11,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,151,1,1,2,7:46 PM,7:42,,,Pargo 15' Jump Shot (4 PTS) (Zeller 1 AST),29 - 38,9,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,152,1,5,2,7:47 PM,7:19,Gooden 1' Layup (6 PTS) (Seraphin 2 AST),,,29 - 40,11,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,153,5,2,2,7:47 PM,7:03,Gooden STEAL (1 STL),,Pargo Lost Ball Turnover (P2.T6),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,154,5,2,2,7:47 PM,6:41,Seraphin Lost Ball Turnover (P1.T8),,Pargo STEAL (1 STL),,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,155,2,1,2,7:47 PM,6:35,,,MISS Pargo 27' 3PT Jump Shot,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,156,4,0,2,7:47 PM,6:33,Seraphin REBOUND (Off:0 Def:1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,157,2,1,2,7:48 PM,6:21,MISS Butler 10' Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,158,4,0,2,7:48 PM,6:19,,,Kidd-Gilchrist REBOUND (Off:1 Def:4),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,159,6,1,2,7:48 PM,6:19,Porter P.FOUL (P1.T2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,160,8,0,2,7:48 PM,6:19,SUB: Nene FOR Gooden,,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,161,8,0,2,7:48 PM,6:19,,,SUB: Williams FOR Pargo,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,162,8,0,2,7:48 PM,6:19,,,SUB: Jefferson FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,163,8,0,2,7:48 PM,6:19,,,SUB: Neal FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,164,1,42,2,7:48 PM,6:03,,,Roberts  Driving Layup (4 PTS) (Jefferson 1 AST),31 - 40,9,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,166,1,86,2,7:49 PM,5:49,A. Miller 8' Turnaround Fadeaway (4 PTS),,,31 - 42,11,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,167,5,1,2,7:49 PM,5:36,Nene STEAL (1 STL),,Kidd-Gilchrist Bad Pass Turnover (P1.T7),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,168,1,80,2,7:49 PM,5:21,Butler 19' Step Back Jump Shot (7 PTS) (A. Miller 4 AST),,,31 - 44,13,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,169,5,4,2,7:50 PM,5:01,,,Neal Traveling Turnover (P3.T8),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400065,170,9,1,2,7:50 PM,5:01,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,172,5,1,2,7:52 PM,4:51,A. Miller Bad Pass Turnover (P1.T9),,Jefferson STEAL (2 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,173,1,1,2,7:53 PM,4:38,,,Kidd-Gilchrist 20' Jump Shot (8 PTS) (Roberts 1 AST),33 - 44,11,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,174,5,1,2,7:53 PM,4:28,A. Miller Bad Pass Turnover (P2.T10),,Kidd-Gilchrist STEAL (1 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,175,6,2,2,7:53 PM,4:22,Butler S.FOUL (P1.T3),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,176,3,11,2,7:53 PM,4:22,,,Kidd-Gilchrist Free Throw 1 of 2 (9 PTS),34 - 44,10,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,178,8,0,2,7:53 PM,4:22,SUB: Wall FOR A. Miller,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,179,8,0,2,7:53 PM,4:22,SUB: Pierce FOR Porter,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,180,3,12,2,7:53 PM,4:22,,,Kidd-Gilchrist Free Throw 2 of 2 (10 PTS),35 - 44,9,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,182,5,1,2,7:54 PM,4:16,Butler Bad Pass Turnover (P1.T11),,Kidd-Gilchrist STEAL (2 STL),,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,183,2,1,2,7:54 PM,4:06,,,MISS Williams 27' 3PT Jump Shot,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,184,4,0,2,7:54 PM,4:05,,,Kidd-Gilchrist REBOUND (Off:2 Def:4),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,185,5,40,2,7:54 PM,4:02,,,Kidd-Gilchrist Out of Bounds Lost Ball Turnover (P2.T9),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400065,186,8,0,2,7:54 PM,4:02,,,SUB: Walker FOR Roberts,,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,188,1,1,2,7:55 PM,3:48,Nene 17' Jump Shot (8 PTS) (Butler 1 AST),,,35 - 46,11,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,189,2,1,2,7:55 PM,3:33,,,MISS Neal 22' Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,190,4,0,2,7:55 PM,3:32,Seraphin REBOUND (Off:0 Def:2),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,191,6,1,2,7:55 PM,3:23,,,Neal P.FOUL (P2.T4),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,192,8,0,2,7:55 PM,3:23,SUB: Gortat FOR Seraphin,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,193,5,2,2,7:56 PM,3:08,Nene Lost Ball Turnover (P1.T12),,Williams STEAL (3 STL),,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,194,6,2,2,7:56 PM,3:05,Wall S.FOUL (P1.T4),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,195,3,11,2,7:56 PM,3:05,,,Walker Free Throw 1 of 2 (5 PTS),36 - 46,10,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,197,3,12,2,7:56 PM,3:05,,,Walker Free Throw 2 of 2 (6 PTS),37 - 46,9,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,200,6,2,2,7:57 PM,2:58,,,Williams S.FOUL (P2.PN),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,201,9,1,2,7:57 PM,2:58,,,Hornets Timeout: Regular (Reg.2 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,203,3,11,2,7:59 PM,2:58,MISS Gortat Free Throw 1 of 2,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,204,4,1,2,7:59 PM,2:58,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,205,3,12,2,7:59 PM,2:58,MISS Gortat Free Throw 2 of 2,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,207,4,0,2,8:00 PM,2:57,,,Kidd-Gilchrist REBOUND (Off:2 Def:5),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,208,1,1,2,8:00 PM,2:42,,,Jefferson 6' Jump Shot (12 PTS) (Williams 2 AST),39 - 46,7,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,209,2,1,2,8:00 PM,2:24,MISS Gortat 7' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,210,4,0,2,8:00 PM,2:23,,,Jefferson REBOUND (Off:1 Def:4),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,211,2,1,2,8:00 PM,2:14,,,MISS Jefferson 13' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,212,4,0,2,8:00 PM,2:13,Pierce REBOUND (Off:0 Def:1),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,213,2,1,2,8:01 PM,2:04,MISS Butler 17' Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,214,4,0,2,8:01 PM,2:03,,,Walker REBOUND (Off:0 Def:2),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,215,2,1,2,8:01 PM,1:47,,,MISS Walker 15' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,216,4,0,2,8:01 PM,1:46,Gortat REBOUND (Off:0 Def:6),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,217,6,1,2,8:01 PM,1:40,,,Jefferson P.FOUL (P1.PN),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,218,3,11,2,8:01 PM,1:40,Wall Free Throw 1 of 2 (6 PTS),,,39 - 47,8,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,220,8,0,2,8:02 PM,1:40,SUB: Temple FOR Butler,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,221,3,12,2,8:02 PM,1:40,Wall Free Throw 2 of 2 (7 PTS),,,39 - 48,9,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,224,2,5,2,8:02 PM,1:26,Nene BLOCK (3 BLK),,MISS Walker 3' Layup,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0
+0011400065,225,4,0,2,8:02 PM,1:25,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,226,2,1,2,8:03 PM,1:19,,,MISS Jefferson 15' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,227,4,0,2,8:03 PM,1:18,Wall REBOUND (Off:0 Def:4),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,228,2,5,2,8:03 PM,1:11,MISS Gortat 3' Layup,,Kidd-Gilchrist BLOCK (2 BLK),,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0
+0011400065,229,4,0,2,8:03 PM,1:09,,,Kidd-Gilchrist REBOUND (Off:2 Def:6),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,230,2,5,2,8:03 PM,1:05,Temple BLOCK (1 BLK),,MISS Kidd-Gilchrist 3' Layup,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0
+0011400065,231,4,0,2,8:03 PM,1:05,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,232,2,1,2,8:03 PM,0:50,,,MISS Neal 9' Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,233,4,0,2,8:03 PM,0:49,,,Kidd-Gilchrist REBOUND (Off:3 Def:6),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,234,6,2,2,8:03 PM,0:49,Gortat S.FOUL (P2.PN),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,235,3,11,2,8:04 PM,0:49,,,Kidd-Gilchrist Free Throw 1 of 2 (11 PTS),40 - 48,8,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,237,3,12,2,8:04 PM,0:49,,,Kidd-Gilchrist Free Throw 2 of 2 (12 PTS),41 - 48,7,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,240,2,5,2,8:04 PM,0:40,MISS Wall 2' Layup,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,241,4,0,2,8:04 PM,0:39,,,Walker REBOUND (Off:0 Def:3),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,242,2,1,2,8:04 PM,0:32,,,MISS Neal  3PT Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,243,4,0,2,8:04 PM,0:31,,,Williams REBOUND (Off:1 Def:0),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,244,2,1,2,8:05 PM,0:22,,,MISS Walker 14' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,245,4,0,2,8:05 PM,0:21,Temple REBOUND (Off:0 Def:1),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,246,6,27,2,8:05 PM,0:05,,,Neal Personal Block Foul (P3.PN),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,247,3,11,2,8:05 PM,0:05,Wall Free Throw 1 of 2 (8 PTS),,,41 - 49,8,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,249,8,0,2,8:06 PM,0:05,SUB: Porter FOR Pierce,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,250,3,12,2,8:06 PM,0:05,Wall Free Throw 2 of 2 (9 PTS),,,41 - 50,9,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,252,5,1,2,8:06 PM,0:04,Wall STEAL (2 STL),,Williams Bad Pass Turnover (P2.T10),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,253,9,2,2,8:06 PM,0:04,WIZARDS Timeout: Short (Full 2 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,255,8,0,2,8:07 PM,0:04,,,SUB: Hairston FOR Neal,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,256,2,1,2,8:07 PM,0:00,MISS Wall 4' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,257,4,0,2,8:07 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,258,13,0,2,8:07 PM,0:00,,End of 2nd Period (8:07 PM EST),,41 - 50,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,260,12,0,3,8:23 PM,12:00,,Start of 3rd Period (8:23 PM EST),,41 - 50,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,261,1,1,3,8:24 PM,11:42,,,Walker 25' 3PT Jump Shot (9 PTS) (Williams 3 AST),44 - 50,6,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,262,2,1,3,8:24 PM,11:21,MISS Nene 19' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,263,4,0,3,8:24 PM,11:20,,,Kidd-Gilchrist REBOUND (Off:3 Def:7),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,264,1,1,3,8:24 PM,11:00,,,Williams 21' Jump Shot (2 PTS) (Neal 1 AST),46 - 50,4,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,265,6,1,3,8:25 PM,10:48,,,Kidd-Gilchrist P.FOUL (P1.T1),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,266,2,1,3,8:25 PM,10:40,MISS Gortat 14' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,267,4,0,3,8:25 PM,10:39,,,Walker REBOUND (Off:0 Def:4),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,268,2,1,3,8:25 PM,10:29,,,MISS Jefferson 16' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,269,4,0,3,8:25 PM,10:29,Pierce REBOUND (Off:0 Def:2),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,270,2,1,3,8:25 PM,10:22,MISS Wall 14' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,271,4,0,3,8:25 PM,10:21,,,Williams REBOUND (Off:1 Def:1),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,272,2,1,3,8:26 PM,10:06,,,MISS Jefferson 11' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,273,4,0,3,8:26 PM,10:05,Pierce REBOUND (Off:0 Def:3),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,274,5,1,3,8:26 PM,10:01,Wall Bad Pass Turnover (P3.T13),,Kidd-Gilchrist STEAL (3 STL),,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,275,5,2,3,8:26 PM,9:56,Nene STEAL (2 STL),,Kidd-Gilchrist Lost Ball Turnover (P3.T11),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,276,2,1,3,8:26 PM,9:41,MISS Temple  3PT Jump Shot,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,277,4,0,3,8:26 PM,9:41,,,Kidd-Gilchrist REBOUND (Off:3 Def:8),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,279,1,84,3,8:26 PM,9:16,,,Walker 13' Running Bank Shot (11 PTS) (Kidd-Gilchrist 2 AST),48 - 50,2,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,280,2,1,3,8:27 PM,8:59,MISS Pierce  3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,281,4,0,3,8:27 PM,8:58,,,Williams REBOUND (Off:1 Def:2),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,282,2,1,3,8:27 PM,8:45,,,MISS Walker 12' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,283,4,0,3,8:27 PM,8:44,Pierce REBOUND (Off:0 Def:4),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,284,5,1,3,8:27 PM,8:31,Wall Bad Pass Turnover (P4.T14),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,285,2,1,3,8:28 PM,8:11,,,MISS Neal 13' Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,286,4,0,3,8:28 PM,8:10,Pierce REBOUND (Off:0 Def:5),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,287,6,2,3,8:28 PM,8:04,,,Jefferson S.FOUL (P2.T2),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,288,3,11,3,8:28 PM,8:04,Gortat Free Throw 1 of 2 (1 PTS),,,48 - 51,3,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,290,3,12,3,8:28 PM,8:04,Gortat Free Throw 2 of 2 (2 PTS),,,48 - 52,4,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,293,1,1,3,8:29 PM,7:42,,,Williams  3PT Jump Shot (5 PTS) (Neal 2 AST),51 - 52,1,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,294,2,5,3,8:29 PM,7:32,MISS Gortat 1' Layup,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,295,4,0,3,8:29 PM,7:30,,,Jefferson REBOUND (Off:1 Def:5),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,296,2,1,3,8:29 PM,7:16,,,MISS Jefferson 13' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,297,4,0,3,8:29 PM,7:15,Nene REBOUND (Off:1 Def:2),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,298,2,1,3,8:30 PM,7:02,MISS Nene 17' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,299,4,0,3,8:30 PM,7:01,,,Neal REBOUND (Off:0 Def:1),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,300,5,1,3,8:30 PM,6:53,Pierce STEAL (1 STL),,Neal Bad Pass Turnover (P4.T12),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,301,1,1,3,8:30 PM,6:45,Temple 24' 3PT Jump Shot (6 PTS) (Wall 3 AST),,,51 - 55,4,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,302,1,75,3,8:30 PM,6:23,,,Neal 1' Driving Finger Roll Layup (2 PTS),53 - 55,2,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,303,2,1,3,8:30 PM,6:06,MISS Wall 18' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,304,4,0,3,8:30 PM,6:05,,,Jefferson REBOUND (Off:1 Def:6),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,305,1,81,3,8:31 PM,5:45,,,Neal 17' Pullup Bank Shot (4 PTS) (Williams 4 AST),55 - 55,TIE,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,306,9,1,3,8:31 PM,5:44,WIZARDS Timeout: Regular (Full 3 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,308,6,2,3,8:34 PM,5:31,,,Walker S.FOUL (P1.T3),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,309,3,11,3,8:34 PM,5:31,Nene Free Throw 1 of 2 (9 PTS),,,55 - 56,1,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,311,3,12,3,8:34 PM,5:31,Nene Free Throw 2 of 2 (10 PTS),,,55 - 57,2,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,314,2,1,3,8:35 PM,5:18,,,MISS Neal 26' 3PT Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,315,4,0,3,8:35 PM,5:16,Gortat REBOUND (Off:0 Def:7),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,316,2,1,3,8:35 PM,5:09,MISS Nene 10' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,317,4,0,3,8:35 PM,5:07,,,Jefferson REBOUND (Off:1 Def:7),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,318,2,1,3,8:35 PM,4:54,,,MISS Neal 24' 3PT Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,319,4,0,3,8:35 PM,4:53,Wall REBOUND (Off:0 Def:5),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,320,2,1,3,8:35 PM,4:44,MISS Pierce 27' 3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,321,4,0,3,8:35 PM,4:42,,,Walker REBOUND (Off:0 Def:5),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,322,1,5,3,8:35 PM,4:30,,,Jefferson  Layup (14 PTS) (Walker 2 AST),57 - 57,TIE,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,323,6,1,3,8:36 PM,4:16,,,Jefferson P.FOUL (P3.T4),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,324,8,0,3,8:36 PM,4:16,SUB: Gooden FOR Nene,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,325,8,0,3,8:36 PM,4:16,,,SUB: Hairston FOR Kidd-Gilchrist,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,326,8,0,3,8:36 PM,4:16,,,SUB: Zeller FOR Williams,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,327,1,5,3,8:36 PM,4:08,Pierce 1' Layup (9 PTS) (Gortat 3 AST),,,57 - 59,2,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,328,9,1,3,8:36 PM,4:06,,,Hornets Timeout: Regular (Reg.3 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,329,1,63,3,8:39 PM,3:46,,,Jefferson 14' Fadeaway Jumper (16 PTS) (Walker 3 AST),59 - 59,TIE,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,331,1,79,3,8:39 PM,3:30,Wall 20' Pullup Jump Shot (11 PTS) (Pierce 2 AST),,,59 - 61,2,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,332,5,1,3,8:39 PM,3:19,Pierce STEAL (2 STL),,Neal Bad Pass Turnover (P5.T13),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,333,6,29,3,8:40 PM,3:16,,,Hairston Shooting Block Foul (P2.PN),,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,334,3,11,3,8:40 PM,3:16,Pierce Free Throw 1 of 2 (10 PTS),,,59 - 62,3,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,336,8,0,3,8:40 PM,3:16,,,SUB: Pargo FOR Neal,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,337,8,0,3,8:40 PM,3:16,,,SUB: Biyombo FOR Jefferson,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,338,3,12,3,8:40 PM,3:16,Pierce Free Throw 2 of 2 (11 PTS),,,59 - 63,4,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,341,1,1,3,8:41 PM,3:03,,,Pargo 18' Jump Shot (6 PTS) (Zeller 2 AST),61 - 63,2,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,342,6,4,3,8:41 PM,2:51,Gortat OFF.Foul (P3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,343,5,5,3,8:41 PM,2:51,Gortat Foul Turnover (P1.T15),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,344,8,0,3,8:41 PM,2:51,SUB: Porter FOR Pierce,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,345,1,1,3,8:42 PM,2:39,,,Walker 15' Jump Shot (13 PTS),63 - 63,TIE,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,346,6,2,3,8:42 PM,2:26,,,Biyombo S.FOUL (P2.PN),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,347,3,11,3,8:42 PM,2:26,Wall Free Throw 1 of 2 (12 PTS),,,63 - 64,1,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,349,3,12,3,8:42 PM,2:26,MISS Wall Free Throw 2 of 2,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,351,4,0,3,8:43 PM,2:25,,,Biyombo REBOUND (Off:0 Def:1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,353,2,1,3,8:43 PM,2:13,,,MISS Walker 17' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,354,4,0,3,8:43 PM,2:13,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,355,6,3,3,8:43 PM,2:13,Gooden L.B.FOUL (P1.T1),,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,356,8,0,3,8:43 PM,2:13,,,SUB: Roberts FOR Walker,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,357,5,40,3,8:43 PM,1:59,,,Pargo Out of Bounds Lost Ball Turnover (P3.T14),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400065,358,2,1,3,8:44 PM,1:46,MISS Porter 22' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,359,4,0,3,8:44 PM,1:44,,,Roberts REBOUND (Off:0 Def:1),,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,360,2,1,3,8:44 PM,1:36,,,MISS Roberts 18' Jump Shot,,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,361,4,0,3,8:44 PM,1:35,,,Zeller REBOUND (Off:1 Def:0),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,362,5,1,3,8:44 PM,1:32,Porter STEAL (2 STL),,Zeller Bad Pass Turnover (P1.T15),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,363,2,1,3,8:44 PM,1:21,MISS Wall 27' 3PT Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,364,4,0,3,8:44 PM,1:20,Gortat REBOUND (Off:1 Def:7),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,365,6,29,3,8:45 PM,1:07,,,Biyombo Shooting Block Foul (P3.PN),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,366,3,11,3,8:45 PM,1:07,Wall Free Throw 1 of 2 (13 PTS),,,63 - 65,2,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,368,3,12,3,8:45 PM,1:07,Wall Free Throw 2 of 2 (14 PTS),,,63 - 66,3,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,371,2,1,3,8:46 PM,0:46,,,MISS Roberts 19' Jump Shot,,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,372,4,0,3,8:46 PM,0:45,Gortat REBOUND (Off:1 Def:8),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,373,6,3,3,8:46 PM,0:45,,,Zeller L.B.FOUL (P3.PN),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,374,3,11,3,8:46 PM,0:45,Gortat Free Throw 1 of 2 (3 PTS),,,63 - 67,4,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,376,3,12,3,8:46 PM,0:45,Gortat Free Throw 2 of 2 (4 PTS),,,63 - 68,5,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,379,1,1,3,8:47 PM,0:35,,,Pargo 26' 3PT Jump Shot (9 PTS) (Roberts 2 AST),66 - 68,2,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,380,2,1,3,8:47 PM,0:25,MISS Wall 28' 3PT Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,381,4,0,3,8:47 PM,0:24,,,Hairston REBOUND (Off:1 Def:1),,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,382,5,2,3,8:47 PM,0:00,Temple STEAL (2 STL),,Roberts Lost Ball Turnover (P1.T16),,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,383,13,0,3,8:47 PM,0:00,,End of 3rd Period (8:47 PM EST),,66 - 68,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,385,12,0,4,8:50 PM,12:00,,Start of 4th Period (8:50 PM EST),,66 - 68,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,386,6,17,4,8:50 PM,11:50,,,Hornets T.Foul (Def. 3 Sec Biyombo ),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400065,387,3,16,4,8:51 PM,11:50,MISS Porter Free Throw Technical,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,388,4,1,4,8:51 PM,11:50,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,389,6,4,4,8:51 PM,11:42,Seraphin OFF.Foul (P2),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,390,5,5,4,8:51 PM,11:42,Seraphin Foul Turnover (P2.T16),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,391,6,17,4,8:52 PM,11:26,WIZARDS T.Foul (Def. 3 Sec Seraphin ),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,392,3,16,4,8:52 PM,11:26,,,Roberts Free Throw Technical (5 PTS),67 - 68,1,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,395,6,2,4,8:52 PM,11:19,Butler S.FOUL (P2.T1),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,396,3,11,4,8:53 PM,11:19,,,Hairston Free Throw 1 of 2 (4 PTS),68 - 68,TIE,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,398,3,12,4,8:53 PM,11:19,,,Hairston Free Throw 2 of 2 (5 PTS),69 - 68,-1,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,401,2,1,4,8:53 PM,11:01,MISS Butler 24' 3PT Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,402,4,0,4,8:53 PM,11:00,,,Biyombo REBOUND (Off:0 Def:2),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,403,1,1,4,8:53 PM,10:44,,,Hairston 27' 3PT Jump Shot (8 PTS) (Pargo 1 AST),72 - 68,-4,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,404,2,1,4,8:54 PM,10:28,MISS Porter 26' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,405,4,0,4,8:54 PM,10:27,,,Pargo REBOUND (Off:0 Def:2),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,406,1,51,4,8:54 PM,10:12,,,Zeller  Reverse Dunk (2 PTS) (Pargo 2 AST),74 - 68,-6,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,407,2,1,4,8:54 PM,9:54,MISS Butler 17' Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,408,4,0,4,8:54 PM,9:53,,,Hairston REBOUND (Off:1 Def:2),,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,409,1,1,4,8:55 PM,9:33,,,Pargo 26' 3PT Jump Shot (12 PTS) (Zeller 3 AST),77 - 68,-9,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,410,9,1,4,8:55 PM,9:33,WIZARDS Timeout: Regular (Full 4 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,412,2,1,4,8:57 PM,9:14,MISS Seraphin 8' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,413,4,0,4,8:57 PM,9:14,A. Miller REBOUND (Off:1 Def:1),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,414,6,2,4,8:58 PM,9:14,,,Zeller S.FOUL (P4.T1),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,415,3,11,4,8:58 PM,9:14,MISS A. Miller Free Throw 1 of 2,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,416,4,1,4,8:58 PM,9:14,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,417,3,12,4,8:58 PM,9:14,A. Miller Free Throw 2 of 2 (5 PTS),,,77 - 69,-8,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,420,2,1,4,8:59 PM,8:52,,,MISS Hairston 20' Jump Shot,,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,421,4,0,4,8:59 PM,8:51,,,Zeller REBOUND (Off:2 Def:0),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,422,1,44,4,8:59 PM,8:49,,,Zeller  Reverse Layup (4 PTS),79 - 69,-10,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,423,2,1,4,8:59 PM,8:37,MISS Seraphin 17' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,424,4,0,4,8:59 PM,8:36,,,Zeller REBOUND (Off:2 Def:1),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,428,6,2,4,9:01 PM,8:19,Porter S.FOUL (P2.T2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,429,3,11,4,9:01 PM,8:19,,,Biyombo Free Throw 1 of 2 (1 PTS),80 - 69,-11,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,431,3,12,4,9:01 PM,8:19,,,Biyombo Free Throw 2 of 2 (2 PTS),81 - 69,-12,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,434,2,1,4,9:02 PM,8:03,MISS Gooden 19' Jump Shot,,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,435,4,0,4,9:02 PM,8:02,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,436,5,36,4,9:02 PM,7:58,Gooden Illegal Screen Turnover (P2.T17),,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,437,1,1,4,9:03 PM,7:44,,,Roberts 19' Jump Shot (7 PTS) (Pargo 3 AST),83 - 69,-14,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,439,5,2,4,9:03 PM,7:29,Gooden Lost Ball Turnover (P3.T18),,Hairston STEAL (1 STL),,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,440,1,1,4,9:03 PM,7:21,,,Hairston 25' 3PT Jump Shot (11 PTS) (Pargo 4 AST),86 - 69,-17,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,441,9,1,4,9:03 PM,7:21,WIZARDS Timeout: Regular (Full 5 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,443,8,0,4,9:05 PM,7:21,,,SUB: Neal FOR Pargo,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Hornets,CHA,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,444,8,0,4,9:05 PM,7:21,SUB: Blair FOR Gooden,,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,445,2,1,4,9:06 PM,7:06,MISS A. Miller 10' Jump Shot,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,446,4,0,4,9:06 PM,7:05,Seraphin REBOUND (Off:1 Def:2),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,448,1,80,4,9:06 PM,6:46,A. Miller 10' Step Back Jump Shot (7 PTS),,,86 - 71,-15,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,449,6,2,4,9:06 PM,6:46,,,Roberts S.FOUL (P1.T2),,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,450,3,10,4,9:07 PM,6:46,A. Miller Free Throw 1 of 1 (8 PTS),,,86 - 72,-14,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,453,2,1,4,9:07 PM,6:29,,,MISS Biyombo 6' Jump Shot,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,454,4,0,4,9:07 PM,6:29,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,455,6,3,4,9:07 PM,6:29,,,Zeller L.B.FOUL (P5.T3),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,456,8,0,4,9:07 PM,6:29,,,SUB: Williams FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,457,2,1,4,9:08 PM,6:18,MISS Seraphin 14' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,458,4,0,4,9:08 PM,6:16,,,Biyombo REBOUND (Off:0 Def:3),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,459,5,2,4,9:08 PM,6:04,Porter STEAL (3 STL),,Biyombo Lost Ball Turnover (P1.T17),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,460,2,1,4,9:08 PM,5:58,MISS Porter 20' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,461,4,0,4,9:08 PM,5:55,,,Williams REBOUND (Off:1 Def:3),,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,462,2,1,4,9:08 PM,5:40,,,MISS Neal 28' 3PT Jump Shot,,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,463,4,0,4,9:09 PM,5:39,Porter REBOUND (Off:0 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,464,5,1,4,9:09 PM,5:22,A. Miller Bad Pass Turnover (P3.T19),,Roberts STEAL (1 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,465,1,1,4,9:09 PM,5:10,,,Williams 27' 3PT Jump Shot (8 PTS) (Roberts 3 AST),89 - 72,-17,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,466,1,56,4,9:09 PM,4:47,Seraphin 4' Running Hook Shot (2 PTS),,,89 - 74,-15,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,467,2,1,4,9:10 PM,4:35,,,MISS Hairston 27' 3PT Jump Shot,,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,468,4,0,4,9:10 PM,4:34,Blair REBOUND (Off:0 Def:1),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,469,1,1,4,9:10 PM,4:20,Butler 20' Jump Shot (9 PTS) (A. Miller 5 AST),,,89 - 76,-13,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,470,9,1,4,9:10 PM,4:20,,,Hornets Timeout: Regular (Reg.4 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,472,8,0,4,9:12 PM,4:20,SUB: Temple FOR A. Miller,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,473,8,0,4,9:12 PM,4:20,,,SUB: Jefferson FOR Hairston,,,5,203798,PJ Hairston,1610612766.0,Charlotte,Hornets,CHA,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,474,8,0,4,9:12 PM,4:20,,,SUB: Kidd-Gilchrist FOR Roberts,,,5,203148,Brian Roberts,1610612766.0,Charlotte,Hornets,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,475,8,0,4,9:12 PM,4:20,,,SUB: Walker FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,476,7,5,4,9:13 PM,4:06,Blair Violation:Kicked Ball,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400065,477,5,4,4,9:13 PM,3:59,,,Neal Traveling Turnover (P6.T18),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0011400065,478,6,2,4,9:13 PM,3:44,,,Jefferson S.FOUL (P4.T4),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,479,3,11,4,9:14 PM,3:44,Seraphin Free Throw 1 of 2 (3 PTS),,,89 - 77,-12,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,481,3,12,4,9:14 PM,3:44,Seraphin Free Throw 2 of 2 (4 PTS),,,89 - 78,-11,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,484,2,1,4,9:14 PM,3:29,,,MISS Jefferson 15' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,485,4,0,4,9:14 PM,3:28,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,486,2,1,4,9:15 PM,3:17,,,MISS Jefferson 7' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,487,4,0,4,9:15 PM,3:16,Blair REBOUND (Off:0 Def:2),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,488,1,1,4,9:15 PM,2:57,Seraphin 17' Jump Shot (6 PTS) (Temple 1 AST),,,89 - 80,-9,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,489,1,1,4,9:15 PM,2:39,,,Walker 25' 3PT Jump Shot (16 PTS) (Williams 5 AST),92 - 80,-12,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,490,6,1,4,9:16 PM,2:24,,,Jefferson P.FOUL (P5.PN),,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,491,3,11,4,9:16 PM,2:24,Seraphin Free Throw 1 of 2 (7 PTS),,,92 - 81,-11,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,493,3,12,4,9:16 PM,2:24,Seraphin Free Throw 2 of 2 (8 PTS),,,92 - 82,-10,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,496,1,47,4,9:17 PM,2:12,,,Jefferson 13' Turnaround Jump Shot (18 PTS) (Neal 3 AST),94 - 82,-12,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,497,2,1,4,9:17 PM,1:50,MISS Seraphin 17' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,498,4,0,4,9:17 PM,1:49,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400065,499,6,1,4,9:17 PM,1:41,Butler P.FOUL (P3.T3),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0011400065,500,2,1,4,9:18 PM,1:25,,,MISS Williams 4' Jump Shot,,,5,101107,Marvin Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,501,4,0,4,9:18 PM,1:24,Seraphin REBOUND (Off:1 Def:3),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,502,6,1,4,9:18 PM,1:21,,,Neal P.FOUL (P4.PN),,,5,202390,Gary Neal,1610612766.0,Charlotte,Hornets,CHA,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400065,503,3,11,4,9:18 PM,1:21,Temple Free Throw 1 of 2 (7 PTS),,,94 - 83,-11,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,505,3,12,4,9:19 PM,1:21,Temple Free Throw 2 of 2 (8 PTS),,,94 - 84,-10,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,507,2,1,4,9:19 PM,1:05,,,MISS Jefferson 9' Jump Shot,,,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,0
+0011400065,508,4,0,4,9:19 PM,1:04,Blair REBOUND (Off:0 Def:3),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,509,2,1,4,9:19 PM,0:56,MISS Porter 7' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,510,4,0,4,9:19 PM,0:55,Blair REBOUND (Off:1 Def:3),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,511,2,1,4,9:19 PM,0:49,MISS Butler 15' Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,512,4,0,4,9:19 PM,0:48,Porter REBOUND (Off:1 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400065,513,5,2,4,9:19 PM,0:45,Porter Lost Ball Turnover (P2.T20),,Kidd-Gilchrist STEAL (4 STL),,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,515,1,5,4,9:20 PM,0:27,,,Jefferson 3' Layup (20 PTS) (Walker 4 AST),96 - 84,-12,5,2744,Al Jefferson,1610612766.0,Charlotte,Hornets,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0011400065,516,1,1,4,9:20 PM,0:12,Porter 16' Jump Shot (8 PTS) (Blair 1 AST),,,96 - 86,-10,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400065,517,13,0,4,9:20 PM,0:00,,End of 4th Period (9:20 PM EST),,96 - 86,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

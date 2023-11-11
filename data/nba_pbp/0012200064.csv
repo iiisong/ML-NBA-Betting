@@ -1,0 +1,577 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200064,2,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,4,10,0,1,7:41 PM,12:00,Jump Ball Barnes vs. Horford: Tip to Birch,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,7,2,79,1,7:42 PM,11:41,MISS Achiuwa 9' Pullup Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,8,4,0,1,7:42 PM,11:38,Birch REBOUND (Off:1 Def:0),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,9,2,1,1,7:42 PM,11:26,MISS Barnes 27' 3PT Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,10,4,0,1,7:42 PM,11:22,VanVleet REBOUND (Off:1 Def:0),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,11,1,6,1,7:42 PM,11:14,Anunoby 3' Driving Layup (2 PTS) (Birch 1 AST),,,0 - 2,2,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,12,2,1,1,7:43 PM,10:51,,,MISS Tatum 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,13,4,0,1,7:43 PM,10:48,VanVleet REBOUND (Off:1 Def:1),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,14,1,1,1,7:43 PM,10:32,Anunoby 27' 3PT Jump Shot (5 PTS) (VanVleet 1 AST),,,0 - 5,5,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,16,1,75,1,7:43 PM,10:19,,,Brown 3' Driving Finger Roll Layup (2 PTS),2 - 5,3,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,17,6,2,1,7:43 PM,10:19,Birch S.FOUL (P1.T1) (S.Corbin),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,19,3,10,1,7:43 PM,10:19,,,MISS Brown Free Throw 1 of 1,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,20,4,0,1,7:44 PM,10:17,,,Tatum REBOUND (Off:1 Def:0),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,22,1,101,1,7:44 PM,10:09,,,Tatum 7' Driving Floating Jump Shot (2 PTS) (Smart 1 AST),4 - 5,1,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,23,2,79,1,7:44 PM,9:45,MISS VanVleet 26' 3PT Pullup Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,24,4,0,1,7:44 PM,9:40,,,Tatum REBOUND (Off:1 Def:1),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,25,6,2,1,7:44 PM,9:38,Birch S.FOUL (P2.T2) (G.Petraitis),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,27,3,11,1,7:45 PM,9:38,,,White Free Throw 1 of 2 (1 PTS),5 - 5,TIE,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,28,3,12,1,7:45 PM,9:38,,,White Free Throw 2 of 2 (2 PTS),6 - 5,-1,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,29,1,101,1,7:45 PM,9:22,Barnes 7' Driving Floating Jump Shot (2 PTS),,,6 - 7,1,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,31,2,6,1,7:45 PM,9:12,Anunoby BLOCK (1 BLK),,MISS White 4' Driving Layup,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,33,4,0,1,7:45 PM,9:12,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,35,1,79,1,7:46 PM,9:06,,,Brown 26' 3PT Pullup Jump Shot (5 PTS) (Horford 1 AST),9 - 7,-2,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,37,1,58,1,7:46 PM,8:52,Anunoby 5' Turnaround Hook Shot (7 PTS),,,9 - 9,TIE,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,38,1,1,1,7:46 PM,8:31,,,White 24' 3PT Jump Shot (5 PTS) (Brown 1 AST),12 - 9,-3,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,40,2,79,1,7:47 PM,8:15,MISS Barnes 26' 3PT Pullup Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,41,4,0,1,7:47 PM,8:12,,,Tatum REBOUND (Off:1 Def:2),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,42,2,41,1,7:47 PM,8:07,,,MISS Tatum 2' Running Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,43,4,0,1,7:47 PM,8:05,Birch REBOUND (Off:1 Def:1),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,44,6,2,1,7:47 PM,7:55,,,White S.FOUL (P1.T1) (G.Petraitis),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,46,3,11,1,7:47 PM,7:55,Achiuwa Free Throw 1 of 2 (1 PTS),,,12 - 10,-2,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,47,3,12,1,7:48 PM,7:55,Achiuwa Free Throw 2 of 2 (2 PTS),,,12 - 11,-1,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,48,1,1,1,7:48 PM,7:39,,,White 24' 3PT Jump Shot (8 PTS) (Tatum 1 AST),15 - 11,-4,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,50,1,79,1,7:48 PM,7:25,Anunoby 14' Pullup Jump Shot (9 PTS) (VanVleet 2 AST),,,15 - 13,-2,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,52,2,6,1,7:48 PM,7:13,Birch BLOCK (1 BLK),,MISS Brown 2' Driving Layup,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,54,4,0,1,7:48 PM,7:11,,,Brown REBOUND (Off:1 Def:0),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,55,1,58,1,7:48 PM,7:11,,,Brown 3' Turnaround Hook Shot (7 PTS),17 - 13,-4,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,56,9,1,1,7:49 PM,7:11,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,57,2,86,1,7:51 PM,6:56,MISS Anunoby 9' Turnaround Fadeaway Shot,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,58,4,0,1,7:51 PM,6:53,,,Tatum REBOUND (Off:1 Def:3),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,59,2,80,1,7:52 PM,6:48,,,MISS Brown 3PT Step Back Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,60,4,0,1,7:52 PM,6:46,,,Smart REBOUND (Off:1 Def:0),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,98,5,45,1,7:52 PM,6:46,,,Smart Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,62,2,86,1,7:52 PM,6:30,MISS Barnes 16' Turnaround Fadeaway Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,63,4,0,1,7:52 PM,6:25,,,Horford REBOUND (Off:0 Def:1),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,64,1,1,1,7:52 PM,6:18,,,White 25' 3PT Jump Shot (11 PTS) (Horford 2 AST),20 - 13,-7,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,66,1,6,1,7:52 PM,6:04,Anunoby 4' Driving Layup (11 PTS),,,20 - 15,-5,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,67,5,1,1,7:53 PM,5:39,VanVleet STEAL (1 STL),,Smart Bad Pass Turnover (P2.T2),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,69,1,50,1,7:53 PM,5:32,Birch 2' Running Dunk (2 PTS),,,20 - 17,-3,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,70,1,1,1,7:53 PM,5:11,,,White 3PT Jump Shot (14 PTS) (Horford 3 AST),23 - 17,-6,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,72,2,63,1,7:54 PM,4:58,MISS Anunoby 16' Fadeaway Jumper,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,73,4,0,1,7:54 PM,4:56,Barnes REBOUND (Off:1 Def:0),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,74,5,1,1,7:54 PM,4:52,VanVleet Bad Pass Turnover (P1.T1),,White STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,76,1,41,1,7:54 PM,4:47,,,Tatum 1' Running Layup (4 PTS) (White 1 AST),25 - 17,-8,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,78,1,1,1,7:54 PM,4:39,Anunoby 25' 3PT Jump Shot (14 PTS) (VanVleet 3 AST),,,25 - 20,-5,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,80,6,1,1,7:54 PM,4:28,VanVleet P.FOUL (P1.T3) (N.Green),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,82,8,0,1,7:54 PM,4:28,SUB: Koloko FOR Anunoby,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,83,8,0,1,7:54 PM,4:28,SUB: Young FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,84,8,0,1,7:54 PM,4:28,SUB: Champagnie FOR Birch,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,85,8,0,1,7:54 PM,4:28,,,SUB: Williams FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,86,8,0,1,7:54 PM,4:28,,,SUB: Brogdon FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,92,5,1,1,7:55 PM,4:23,VanVleet STEAL (2 STL),,Williams Bad Pass Turnover (P1.T3),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,94,1,50,1,7:55 PM,4:19,Koloko 2' Running Dunk (2 PTS) (VanVleet 4 AST),,,25 - 22,-3,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,96,1,1,1,7:55 PM,4:03,,,Brown 26' 3PT Jump Shot (10 PTS) (Horford 4 AST),28 - 22,-6,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,99,5,1,1,7:56 PM,3:40,VanVleet Bad Pass Turnover (P2.T2),,Horford STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,101,2,2,1,7:56 PM,3:35,,,MISS Williams 24' 3PT Running Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,102,4,0,1,7:56 PM,3:31,Young REBOUND (Off:0 Def:1),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,103,2,103,1,7:56 PM,3:28,MISS VanVleet 26' 3PT Running Pull-Up Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,104,4,0,1,7:56 PM,3:24,,,Smart REBOUND (Off:1 Def:1),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,105,1,57,1,7:56 PM,3:06,,,Williams 6' Driving Hook Shot (2 PTS),30 - 22,-8,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,106,5,2,1,7:56 PM,2:58,VanVleet Lost Ball Turnover (P3.T3),,Smart STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,108,1,76,1,7:56 PM,2:55,,,Smart 2' Running Finger Roll Layup (2 PTS),32 - 22,-10,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,109,7,2,1,7:56 PM,2:55,Champagnie Violation:Defensive Goaltending (S.Corbin),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,110,1,79,1,7:57 PM,2:45,Barnes 27' 3PT Pullup Jump Shot (5 PTS),,,32 - 25,-7,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,111,5,4,1,7:57 PM,2:30,,,Brown Traveling Turnover (P1.T4),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,112,9,1,1,7:57 PM,2:30,,,Celtics Timeout: Regular (Reg.1 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,113,8,0,1,7:59 PM,2:30,SUB: Hernangomez FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,114,8,0,1,7:59 PM,2:30,SUB: Banton FOR Champagnie,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,115,8,0,1,7:59 PM,2:30,,,SUB: Hauser FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,119,1,5,1,8:00 PM,2:16,Koloko 2' Layup (4 PTS) (Barnes 1 AST),,,32 - 27,-5,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,121,2,1,1,8:00 PM,2:05,,,MISS Brown 27' 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,122,4,0,1,8:00 PM,2:03,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,124,8,0,1,8:01 PM,2:03,SUB: Anunoby FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,126,2,1,1,8:01 PM,1:49,MISS Anunoby 8' Jump Shot,,Williams BLOCK (1 BLK),,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0012200064,128,4,0,1,8:01 PM,1:47,Anunoby REBOUND (Off:1 Def:0),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,129,2,102,1,8:01 PM,1:43,MISS Banton 11' Driving Floating Bank Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,130,4,0,1,8:01 PM,1:40,,,Hauser REBOUND (Off:0 Def:1),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,131,1,76,1,8:01 PM,1:38,,,Brown Running Finger Roll Layup (12 PTS) (Hauser 1 AST),34 - 27,-7,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,133,2,86,1,8:02 PM,1:15,MISS Anunoby 12' Turnaround Fadeaway Shot,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,134,4,0,1,8:02 PM,1:13,Banton REBOUND (Off:1 Def:0),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,135,2,1,1,8:02 PM,1:12,MISS Young 26' 3PT Jump Shot,,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,136,4,0,1,8:02 PM,1:08,,,Brown REBOUND (Off:1 Def:1),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,137,2,1,1,8:02 PM,1:00,,,MISS Brogdon 27' 3PT Jump Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,138,4,0,1,8:02 PM,0:57,Koloko REBOUND (Off:0 Def:1),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,139,1,6,1,8:02 PM,0:49,Anunoby 6' Driving Layup (16 PTS),,,34 - 29,-5,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,140,6,2,1,8:02 PM,0:49,,,Brown S.FOUL (P1.T2) (G.Petraitis),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,142,8,0,1,8:02 PM,0:49,SUB: Achiuwa FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,143,8,0,1,8:02 PM,0:49,,,SUB: Tatum FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,146,3,10,1,8:03 PM,0:49,Anunoby Free Throw 1 of 1 (17 PTS),,,34 - 30,-4,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,147,6,2,1,8:03 PM,0:41,Banton S.FOUL (P1.T4) (G.Petraitis),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,149,3,11,1,8:03 PM,0:41,,,Brogdon Free Throw 1 of 2 (1 PTS),35 - 30,-5,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,150,3,12,1,8:04 PM,0:41,,,Brogdon Free Throw 2 of 2 (2 PTS),36 - 30,-6,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,151,1,9,1,8:04 PM,0:34,Achiuwa 2' Driving Dunk (4 PTS) (Banton 1 AST),,,36 - 32,-4,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,153,2,80,1,8:04 PM,0:30,,,MISS Tatum 27' 3PT Step Back Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,154,4,0,1,8:04 PM,0:27,Young REBOUND (Off:0 Def:2),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,155,1,1,1,8:04 PM,0:04,Anunoby 28' 3PT Jump Shot (20 PTS) (Achiuwa 1 AST),,,36 - 35,-1,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,157,2,79,1,8:05 PM,0:00,,,MISS Tatum 38' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,158,4,0,1,8:05 PM,0:00,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,159,13,0,1,8:05 PM,0:00,,End of 1st Period (8:05 PM EST),,36 - 35,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,162,12,0,2,8:07 PM,12:00,,Start of 2nd Period (8:07 PM EST),,36 - 35,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,163,2,1,2,8:08 PM,11:44,,,MISS Hauser 24' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,164,4,0,2,8:08 PM,11:41,Achiuwa REBOUND (Off:0 Def:1),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,165,6,2,2,8:08 PM,11:38,,,Hauser S.FOUL (P1.T1) (N.Green),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,167,3,11,2,8:08 PM,11:38,Banton Free Throw 1 of 2 (1 PTS),,,36 - 36,TIE,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,168,3,12,2,8:09 PM,11:38,Banton Free Throw 2 of 2 (2 PTS),,,36 - 37,1,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,169,1,1,2,8:09 PM,11:22,,,Williams 24' 3PT Jump Shot (5 PTS) (Tatum 2 AST),39 - 37,-2,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,171,2,1,2,8:09 PM,11:11,MISS Achiuwa 28' 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,172,4,0,2,8:09 PM,11:08,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,174,1,80,2,8:09 PM,10:58,,,Tatum 29' 3PT Step Back Jump Shot (7 PTS),42 - 37,-5,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,175,5,4,2,8:10 PM,10:46,Hernangomez Traveling Turnover (P1.T4),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,176,1,6,2,8:10 PM,10:32,,,Brogdon 1' Driving Layup (4 PTS) (Tatum 3 AST),44 - 37,-7,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,178,6,26,2,8:10 PM,10:15,Banton Offensive Charge Foul (P2) (S.Corbin),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,180,5,37,2,8:10 PM,10:15,Banton Offensive Foul Turnover (P1.T5),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,181,8,0,2,8:11 PM,10:15,SUB: VanVleet FOR Anunoby,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,183,6,2,2,8:11 PM,10:05,Young S.FOUL (P1.T1) (S.Corbin),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,185,3,11,2,8:12 PM,10:05,,,Tatum Free Throw 1 of 2 (8 PTS),45 - 37,-8,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,186,3,12,2,8:12 PM,10:05,,,Tatum Free Throw 2 of 2 (9 PTS),46 - 37,-9,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,187,2,78,2,8:12 PM,9:44,MISS Achiuwa 8' Floating Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,188,4,0,2,8:12 PM,9:42,Achiuwa REBOUND (Off:1 Def:1),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,189,5,11,2,8:12 PM,9:41,RAPTORS Turnover: Shot Clock (T#6),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200064,191,1,1,2,8:13 PM,9:28,,,Tatum 28' 3PT Jump Shot (12 PTS),49 - 37,-12,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,192,1,67,2,8:13 PM,9:13,Young 3' Hook Bank Shot (2 PTS) (VanVleet 5 AST),,,49 - 39,-10,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,194,2,1,2,8:14 PM,8:54,,,MISS Williams 24' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,195,4,0,2,8:14 PM,8:51,Hernangomez REBOUND (Off:0 Def:1),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,196,1,79,2,8:14 PM,8:33,VanVleet 19' Pullup Jump Shot (2 PTS),,,49 - 41,-8,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,198,8,0,2,8:14 PM,8:21,SUB: Barnes FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,199,8,0,2,8:14 PM,8:21,,,SUB: White FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,202,1,1,2,8:15 PM,8:09,,,Tatum 26' 3PT Jump Shot (15 PTS) (Brogdon 1 AST),52 - 41,-11,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,204,2,47,2,8:15 PM,7:49,MISS Barnes 4' Turnaround Jump Shot,,Williams BLOCK (2 BLK),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0012200064,206,4,0,2,8:15 PM,7:46,,,Williams REBOUND (Off:0 Def:1),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,207,6,26,2,8:15 PM,7:43,,,Williams Offensive Charge Foul (P1) (N.Green),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,211,5,37,2,8:15 PM,7:43,,,Williams Offensive Foul Turnover (P2.T5),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,209,9,1,2,8:16 PM,7:43,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,210,18,5,2,8:16 PM,7:43,,Instant Replay2nd Period (8:16 PM EST),,52 - 41,-11,0,207,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200064,212,8,0,2,8:19 PM,7:43,SUB: Anunoby FOR Hernangomez,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,213,8,0,2,8:19 PM,7:43,SUB: Champagnie FOR Banton,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,214,8,0,2,8:19 PM,7:43,,,SUB: Horford FOR Griffin,,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,218,1,6,2,8:20 PM,7:23,Barnes 4' Driving Layup (7 PTS),,,52 - 43,-9,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,219,2,6,2,8:20 PM,7:02,,,MISS Tatum 3' Driving Layup,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,220,4,0,2,8:20 PM,7:00,Barnes REBOUND (Off:1 Def:1),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,221,5,45,2,8:20 PM,6:57,Barnes Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,222,1,1,2,8:21 PM,6:41,,,Williams 3PT Jump Shot (8 PTS) (Brogdon 2 AST),55 - 43,-12,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,224,6,4,2,8:21 PM,6:32,Young OFF.Foul (P2) (N.Green),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,226,5,37,2,8:21 PM,6:32,Young Offensive Foul Turnover (P1.T8),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,227,8,0,2,8:21 PM,6:32,SUB: Koloko FOR Young,,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,228,8,0,2,8:21 PM,6:32,,,SUB: Smart FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,229,8,0,2,8:21 PM,6:32,,,SUB: Brown FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,233,2,98,2,8:22 PM,6:22,,,MISS Brogdon 3' Cutting Layup Shot,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,234,4,0,2,8:22 PM,6:20,Champagnie REBOUND (Off:0 Def:1),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,235,6,2,2,8:22 PM,6:14,,,White S.FOUL (P2.T2) (S.Corbin),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,237,3,11,2,8:22 PM,6:14,VanVleet Free Throw 1 of 2 (3 PTS),,,55 - 44,-11,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,238,3,12,2,8:22 PM,6:14,VanVleet Free Throw 2 of 2 (4 PTS),,,55 - 45,-10,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,240,2,1,2,8:23 PM,6:02,,,MISS Smart 32' 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,241,4,0,2,8:23 PM,6:01,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,243,6,2,2,8:23 PM,5:49,,,Brown S.FOUL (P2.T3) (G.Petraitis),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,245,3,11,2,8:24 PM,5:49,VanVleet Free Throw 1 of 2 (5 PTS),,,55 - 46,-9,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,246,3,12,2,8:24 PM,5:49,VanVleet Free Throw 2 of 2 (6 PTS),,,55 - 47,-8,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,247,6,2,2,8:24 PM,5:36,Anunoby S.FOUL (P1.T2) (N.Green),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,249,3,11,2,8:25 PM,5:36,,,Brogdon Free Throw 1 of 2 (5 PTS),56 - 47,-9,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,250,3,12,2,8:25 PM,5:36,,,Brogdon Free Throw 2 of 2 (6 PTS),57 - 47,-10,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,252,2,1,2,8:26 PM,5:19,MISS VanVleet 25' 3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,253,4,0,2,8:26 PM,5:15,Barnes REBOUND (Off:2 Def:1),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,254,2,58,2,8:26 PM,5:13,MISS Barnes 9' Turnaround Hook Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,255,4,0,2,8:26 PM,5:13,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,257,6,1,2,8:26 PM,5:05,Koloko P.FOUL (P1.T3) (N.Green),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,259,6,6,2,8:27 PM,5:05,Barnes AWAY.FROM.PLAY.FOUL (P1.T4) (N.Green),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,261,18,0,2,8:27 PM,5:05,,Instant Replay2nd Period (8:27 PM EST),,57 - 47,-10,0,259,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200064,262,3,10,2,8:28 PM,5:05,,,MISS White Free Throw 1 of 1,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,263,4,0,2,8:28 PM,5:05,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,264,6,4,2,8:29 PM,4:54,,,Brown OFF.Foul (P3) (G.Petraitis),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,266,5,37,2,8:29 PM,4:54,,,Brown Offensive Foul Turnover (P2.T6),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,267,2,79,2,8:29 PM,4:40,MISS Anunoby 14' Pullup Jump Shot,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,268,4,0,2,8:29 PM,4:37,Koloko REBOUND (Off:1 Def:1),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,269,1,1,2,8:29 PM,4:36,Anunoby 27' 3PT Jump Shot (23 PTS) (Barnes 2 AST),,,57 - 50,-7,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,271,2,1,2,8:30 PM,4:16,,,MISS Smart 3PT Jump Shot,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,272,4,0,2,8:30 PM,4:13,Anunoby REBOUND (Off:1 Def:1),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,273,2,1,2,8:30 PM,4:08,MISS Barnes 25' 3PT Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,274,4,0,2,8:30 PM,4:07,Champagnie REBOUND (Off:1 Def:1),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,277,6,2,2,8:30 PM,4:07,,,Brogdon S.FOUL (P1.T4) (G.Petraitis),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,279,8,0,2,8:30 PM,4:07,,,SUB: Tatum FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,281,3,11,2,8:31 PM,4:07,MISS Champagnie Free Throw 1 of 2,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,282,4,1,2,8:31 PM,4:07,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,283,3,12,2,8:31 PM,4:07,Champagnie Free Throw 2 of 2 (1 PTS),,,57 - 51,-6,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,284,5,45,2,8:31 PM,3:48,,,Brogdon Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,285,8,0,2,8:31 PM,3:48,SUB: Achiuwa FOR Champagnie,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,287,1,75,2,8:31 PM,3:32,VanVleet 3' Driving Finger Roll Layup (8 PTS),,,57 - 53,-4,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,288,2,73,2,8:32 PM,3:25,Koloko BLOCK (1 BLK),,MISS Smart 5' Driving Reverse Layup,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,290,4,0,2,8:32 PM,3:24,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,292,6,11,2,8:32 PM,3:24,,,Smart T.FOUL (P0.T4) (N.Green),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,293,3,16,2,8:32 PM,3:24,VanVleet Free Throw Technical (9 PTS),,,57 - 54,-3,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,294,1,6,2,8:33 PM,3:18,,,Brogdon 2' Driving Layup (8 PTS) (Tatum 4 AST),59 - 54,-5,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,295,1,1,2,8:33 PM,3:02,Barnes 22' Jump Shot (9 PTS) (Achiuwa 2 AST),,,59 - 56,-3,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,297,2,1,2,8:33 PM,2:51,,,MISS Horford 28' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,298,4,0,2,8:33 PM,2:51,Achiuwa REBOUND (Off:1 Def:2),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,299,2,1,2,8:33 PM,2:38,MISS VanVleet 20' Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,300,4,0,2,8:33 PM,2:35,Anunoby REBOUND (Off:2 Def:1),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,301,1,72,2,8:33 PM,2:32,Anunoby 3' Putback Layup (25 PTS),,,59 - 58,-1,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,302,2,1,2,8:34 PM,2:05,,,MISS Brown 3PT Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,303,4,0,2,8:34 PM,2:03,Achiuwa REBOUND (Off:1 Def:3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,304,6,2,2,8:34 PM,2:00,,,Tatum S.FOUL (P1.PN) (G.Petraitis),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,306,9,1,2,8:34 PM,2:00,,,Celtics Timeout: Regular (Reg.2 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,307,8,0,2,8:35 PM,2:00,,,SUB: Williams FOR Brogdon,,,5,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,309,3,11,2,8:37 PM,2:00,Achiuwa Free Throw 1 of 2 (5 PTS),,,59 - 59,TIE,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,310,3,12,2,8:38 PM,2:00,Achiuwa Free Throw 2 of 2 (6 PTS),,,59 - 60,1,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,311,6,1,2,8:38 PM,1:54,Koloko P.FOUL (P2.PN) (N.Green),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,313,3,11,2,8:38 PM,1:54,,,Horford Free Throw 1 of 2 (1 PTS),60 - 60,TIE,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,314,3,12,2,8:38 PM,1:54,,,Horford Free Throw 2 of 2 (2 PTS),61 - 60,-1,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,315,2,58,2,8:39 PM,1:32,MISS Achiuwa 13' Turnaround Hook Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,316,4,0,2,8:39 PM,1:31,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,317,6,3,2,8:39 PM,1:31,Achiuwa L.B.FOUL (P1.PN) (S.Corbin),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,319,3,11,2,8:39 PM,1:31,,,Smart Free Throw 1 of 2 (3 PTS),62 - 60,-2,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,320,3,12,2,8:40 PM,1:31,,,Smart Free Throw 2 of 2 (4 PTS),63 - 60,-3,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,321,5,40,2,8:40 PM,1:21,VanVleet Out of Bounds Lost Ball Turnover (P4.T9),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,322,1,1,2,8:40 PM,1:15,,,Smart 3PT Jump Shot (7 PTS) (Tatum 5 AST),66 - 60,-6,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,324,1,1,2,8:40 PM,1:06,Barnes 27' 3PT Jump Shot (12 PTS),,,66 - 63,-3,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,325,6,4,2,8:40 PM,0:55,,,Tatum OFF.Foul (P2) (S.Corbin),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,327,5,37,2,8:40 PM,0:55,,,Tatum Offensive Foul Turnover (P1.T8),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,329,2,1,2,8:42 PM,0:37,MISS Achiuwa 27' 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,330,4,0,2,8:42 PM,0:34,Koloko REBOUND (Off:2 Def:1),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,331,2,101,2,8:42 PM,0:31,MISS Achiuwa 4' Driving Floating Jump Shot,,Horford BLOCK (1 BLK),,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0012200064,333,4,0,2,8:42 PM,0:28,,,Horford REBOUND (Off:0 Def:2),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,334,2,1,2,8:42 PM,0:13,Anunoby BLOCK (2 BLK),,MISS Williams 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,336,4,0,2,8:42 PM,0:12,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,338,5,45,2,8:43 PM,0:09,,,Brown Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,339,8,0,2,8:43 PM,0:09,SUB: Young FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,341,2,79,2,8:43 PM,0:03,MISS Barnes 23' Pullup Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,342,4,0,2,8:43 PM,0:01,,,Tatum REBOUND (Off:1 Def:4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,343,2,101,2,8:43 PM,0:00,,,MISS Tatum 43' 3PT Driving Floating Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,344,4,0,2,8:43 PM,0:00,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,345,13,0,2,8:44 PM,0:00,,End of 2nd Period (8:44 PM EST),,66 - 63,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,350,12,0,3,8:59 PM,12:00,,Start of 3rd Period (8:59 PM EST),,66 - 63,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,351,1,1,3,8:59 PM,11:39,,,White 3PT Jump Shot (17 PTS) (Brown 2 AST),69 - 63,-6,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,353,1,6,3,9:00 PM,11:22,Barnes 1' Driving Layup (14 PTS),,,69 - 65,-4,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,354,2,1,3,9:00 PM,11:12,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,355,4,0,3,9:00 PM,11:09,,,Tatum REBOUND (Off:2 Def:4),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,356,5,2,3,9:00 PM,11:07,VanVleet STEAL (3 STL),,Tatum Lost Ball Turnover (P2.T10),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,358,2,41,3,9:00 PM,11:03,MISS Anunoby 2' Running Layup,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,359,4,0,3,9:00 PM,10:59,Anunoby REBOUND (Off:3 Def:1),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,360,2,97,3,9:00 PM,10:59,MISS Anunoby Tip Layup Shot,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,361,4,0,3,9:00 PM,10:58,,,Smart REBOUND (Off:1 Def:2),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,362,6,2,3,9:00 PM,10:56,Birch S.FOUL (P3.T1) (N.Green),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,364,3,11,3,9:01 PM,10:56,,,Horford Free Throw 1 of 2 (3 PTS),70 - 65,-5,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,365,3,12,3,9:01 PM,10:56,,,Horford Free Throw 2 of 2 (4 PTS),71 - 65,-6,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,366,1,5,3,9:01 PM,10:35,VanVleet 1' Layup (11 PTS) (Barnes 3 AST),,,71 - 67,-4,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,368,2,1,3,9:02 PM,10:16,,,MISS White 27' 3PT Jump Shot,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,369,4,0,3,9:02 PM,10:13,Barnes REBOUND (Off:2 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,370,2,1,3,9:02 PM,10:06,MISS Achiuwa 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,371,4,0,3,9:02 PM,10:02,,,White REBOUND (Off:0 Def:1),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,372,2,2,3,9:02 PM,9:57,,,MISS Brown 3PT Running Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,373,4,0,3,9:02 PM,9:54,Achiuwa REBOUND (Off:1 Def:4),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,374,1,79,3,9:02 PM,9:43,Anunoby 20' Pullup Jump Shot (27 PTS) (Birch 2 AST),,,71 - 69,-2,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,376,2,1,3,9:02 PM,9:24,,,MISS Tatum 26' 3PT Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,377,4,0,3,9:03 PM,9:21,Achiuwa REBOUND (Off:1 Def:5),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,378,6,2,3,9:03 PM,9:18,,,White S.FOUL (P3.T1) (S.Corbin),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,380,3,11,3,9:03 PM,9:18,Achiuwa Free Throw 1 of 2 (7 PTS),,,71 - 70,-1,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,381,3,12,3,9:03 PM,9:18,Achiuwa Free Throw 2 of 2 (8 PTS),,,71 - 71,TIE,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,382,5,4,3,9:04 PM,9:05,,,Brown Traveling Turnover (P4.T11),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,383,2,79,3,9:04 PM,9:01,MISS Barnes 28' 3PT Pullup Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,384,4,0,3,9:04 PM,8:55,,,White REBOUND (Off:0 Def:2),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,385,5,1,3,9:04 PM,8:52,Birch STEAL (1 STL),,Smart Bad Pass Turnover (P3.T12),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,387,6,2,3,9:04 PM,8:45,,,White S.FOUL (P4.T2) (G.Petraitis),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,389,3,11,3,9:04 PM,8:45,Birch Free Throw 1 of 2 (3 PTS),,,71 - 72,1,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200064,390,3,12,3,9:05 PM,8:45,Birch Free Throw 2 of 2 (4 PTS),,,71 - 73,2,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,391,6,1,3,9:05 PM,8:38,Anunoby P.FOUL (P2.T2) (N.Green),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,394,2,79,3,9:06 PM,8:24,,,MISS Tatum 27' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,395,4,0,3,9:06 PM,8:21,Anunoby REBOUND (Off:3 Def:2),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,396,1,101,3,9:06 PM,8:13,Anunoby 7' Driving Floating Jump Shot (29 PTS) (Achiuwa 3 AST),,,71 - 75,4,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,398,6,2,3,9:06 PM,8:13,,,Smart S.FOUL (P1.T3) (N.Green),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,400,9,1,3,9:06 PM,8:13,,,Celtics Timeout: Regular (Reg.3 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,401,3,10,3,9:09 PM,8:13,MISS Anunoby Free Throw 1 of 1,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,402,4,0,3,9:09 PM,8:10,,,Tatum REBOUND (Off:2 Def:5),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,403,2,1,3,9:10 PM,7:56,,,MISS Horford 26' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,404,4,0,3,9:10 PM,7:53,Anunoby REBOUND (Off:3 Def:3),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,405,5,45,3,9:10 PM,7:41,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P5.T10),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,406,2,3,3,9:10 PM,7:31,,,MISS Horford 8' Hook Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,407,4,0,3,9:10 PM,7:28,Birch REBOUND (Off:1 Def:2),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,408,2,52,3,9:10 PM,7:20,MISS Birch 1' Alley Oop Dunk,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,409,4,0,3,9:10 PM,7:15,Birch REBOUND (Off:2 Def:2),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,410,2,72,3,9:10 PM,7:15,MISS Birch Putback Layup,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,411,4,0,3,9:10 PM,7:14,,,Horford REBOUND (Off:0 Def:3),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,412,1,6,3,9:11 PM,7:10,,,Tatum 2' Driving Layup (17 PTS),73 - 75,2,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,413,1,93,3,9:11 PM,6:58,Barnes 4' Driving Bank Hook Shot (16 PTS),,,73 - 77,4,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,414,6,2,3,9:11 PM,6:58,,,Brown S.FOUL (P4.T4) (G.Petraitis),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,416,3,10,3,9:11 PM,6:58,Barnes Free Throw 1 of 1 (17 PTS),,,73 - 78,5,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,417,6,2,3,9:12 PM,6:43,Achiuwa S.FOUL (P2.T3) (G.Petraitis),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,419,3,11,3,9:12 PM,6:43,,,Smart Free Throw 1 of 2 (8 PTS),74 - 78,4,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,420,3,12,3,9:12 PM,6:43,,,Smart Free Throw 2 of 2 (9 PTS),75 - 78,3,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,421,1,80,3,9:13 PM,6:32,Barnes 20' Step Back Jump Shot (19 PTS),,,75 - 80,5,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,422,1,75,3,9:13 PM,6:14,,,Smart 7' Driving Finger Roll Layup (11 PTS),77 - 80,3,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,423,6,2,3,9:13 PM,6:14,Barnes S.FOUL (P2.T4) (S.Corbin),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,425,3,10,3,9:13 PM,6:14,,,MISS Smart Free Throw 1 of 1,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,426,4,0,3,9:13 PM,6:08,,,White REBOUND (Off:1 Def:2),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,427,1,97,3,9:13 PM,6:08,,,White Tip Layup Shot (19 PTS),79 - 80,1,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,428,2,1,3,9:14 PM,5:52,MISS Achiuwa 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,429,4,0,3,9:14 PM,5:50,,,Brown REBOUND (Off:1 Def:2),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,430,1,80,3,9:14 PM,5:41,,,Brown 27' 3PT Step Back Jump Shot (15 PTS) (Smart 2 AST),82 - 80,-2,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,432,2,80,3,9:14 PM,5:29,MISS Barnes 17' Step Back Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,433,4,0,3,9:14 PM,5:27,,,Tatum REBOUND (Off:2 Def:6),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,434,6,1,3,9:14 PM,5:17,Anunoby P.FOUL (P3.PN) (S.Corbin),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,436,3,11,3,9:15 PM,5:17,,,White Free Throw 1 of 2 (20 PTS),83 - 80,-3,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,437,8,0,3,9:15 PM,5:17,SUB: Young FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,438,8,0,3,9:15 PM,5:17,SUB: Koloko FOR Birch,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,441,3,12,3,9:16 PM,5:17,,,White Free Throw 2 of 2 (21 PTS),84 - 80,-4,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,442,1,43,3,9:16 PM,5:03,Koloko 2' Alley Oop Layup (6 PTS) (VanVleet 6 AST),,,84 - 82,-2,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,444,6,2,3,9:16 PM,4:51,Koloko S.FOUL (P3.PN) (N.Green),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,446,3,11,3,9:17 PM,4:51,,,Tatum Free Throw 1 of 2 (18 PTS),85 - 82,-3,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,447,8,0,3,9:17 PM,4:51,,,SUB: Williams FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,449,3,12,3,9:17 PM,4:51,,,Tatum Free Throw 2 of 2 (19 PTS),86 - 82,-4,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,450,6,26,3,9:17 PM,4:41,Anunoby Offensive Charge Foul (P4) (S.Corbin),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,452,5,37,3,9:17 PM,4:41,Anunoby Offensive Foul Turnover (P1.T11),,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,453,5,2,3,9:18 PM,4:31,Koloko STEAL (1 STL),,Tatum Lost Ball Turnover (P3.T13),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,455,1,50,3,9:18 PM,4:27,Koloko 2' Running Dunk (8 PTS),,,86 - 84,-2,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,456,6,11,3,9:18 PM,4:24,Wilson T.FOUL (P0.PN) (N.Green),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,457,3,16,3,9:19 PM,4:24,,,Brown Free Throw Technical (16 PTS),87 - 84,-3,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,458,1,1,3,9:20 PM,4:14,,,Horford 24' 3PT Jump Shot (7 PTS) (Tatum 6 AST),90 - 84,-6,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,460,7,1,3,9:20 PM,4:12,,,Celtics Violation: Delay of game Violation,,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200064,461,2,1,3,9:20 PM,4:01,MISS Anunoby 25' 3PT Jump Shot,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,462,4,0,3,9:20 PM,3:58,,,Tatum REBOUND (Off:2 Def:7),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,463,2,1,3,9:20 PM,3:50,,,MISS Horford 27' 3PT Jump Shot,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,464,4,0,3,9:20 PM,3:47,Young REBOUND (Off:0 Def:3),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,465,6,1,3,9:21 PM,3:37,,,Tatum P.FOUL (P3.PN) (S.Corbin),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,467,6,11,3,9:21 PM,3:37,,,Tatum T.FOUL (P3.PN) (G.Petraitis),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,468,3,16,3,9:21 PM,3:37,MISS VanVleet Free Throw Technical,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,469,4,1,3,9:21 PM,3:37,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,470,3,11,3,9:22 PM,3:37,MISS Anunoby Free Throw 1 of 2,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,471,4,1,3,9:22 PM,3:37,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,472,8,0,3,9:22 PM,3:37,SUB: Banton FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,473,8,0,3,9:22 PM,3:37,,,SUB: Griffin FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,476,3,12,3,9:22 PM,3:37,Anunoby Free Throw 2 of 2 (30 PTS),,,90 - 85,-5,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,477,6,2,3,9:22 PM,3:24,Koloko S.FOUL (P4.PN) (S.Corbin),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,479,3,11,3,9:23 PM,3:24,,,Tatum Free Throw 1 of 2 (20 PTS),91 - 85,-6,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,480,3,12,3,9:23 PM,3:24,,,Tatum Free Throw 2 of 2 (21 PTS),92 - 85,-7,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,481,1,108,3,9:23 PM,3:05,Koloko 1' Cutting Dunk Shot (10 PTS) (Young 1 AST),,,92 - 87,-5,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,483,5,1,3,9:24 PM,2:49,VanVleet STEAL (4 STL),,Smart Bad Pass Turnover (P4.T14),,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,485,1,76,3,9:24 PM,2:45,VanVleet 1' Running Finger Roll Layup (13 PTS),,,92 - 89,-3,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,486,2,75,3,9:24 PM,2:29,Koloko BLOCK (2 BLK),,MISS Williams 4' Driving Finger Roll Layup,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,488,4,0,3,9:24 PM,2:25,Young REBOUND (Off:0 Def:4),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,489,1,110,3,9:24 PM,2:22,Anunoby 1' Running Reverse Dunk Shot (32 PTS) (VanVleet 7 AST),,,92 - 91,-1,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,491,2,79,3,9:24 PM,2:05,,,MISS Tatum 27' 3PT Pullup Jump Shot,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,492,4,0,3,9:24 PM,2:02,Koloko REBOUND (Off:2 Def:2),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,493,2,75,3,9:25 PM,1:51,MISS VanVleet 5' Driving Finger Roll Layup,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,494,4,0,3,9:25 PM,1:51,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,495,6,3,3,9:25 PM,1:51,Koloko L.B.FOUL (P5.PN) (S.Corbin),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,497,9,1,3,9:25 PM,1:51,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,498,8,0,3,9:25 PM,1:51,SUB: Barnes FOR Anunoby,,,,,4,1628384,O.G. Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,499,8,0,3,9:25 PM,1:51,SUB: Champagnie FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,500,8,0,3,9:25 PM,1:51,SUB: Hernangomez FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,504,7,1,3,9:28 PM,1:51,RAPTORS Violation: Delay of game Violation,,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200064,505,3,11,3,9:28 PM,1:51,,,Smart Free Throw 1 of 2 (12 PTS),93 - 91,-2,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,506,3,12,3,9:28 PM,1:51,,,Smart Free Throw 2 of 2 (13 PTS),94 - 91,-3,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,507,2,79,3,9:29 PM,1:37,MISS Champagnie 25' 3PT Pullup Jump Shot,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,508,4,0,3,9:29 PM,1:34,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,510,8,0,3,9:29 PM,1:34,,,SUB: Pritchard FOR Smart,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,512,2,80,3,9:29 PM,1:17,,,MISS Brown 27' 3PT Step Back Jump Shot,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,513,4,0,3,9:29 PM,1:16,Champagnie REBOUND (Off:1 Def:2),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,514,1,6,3,9:29 PM,1:10,Barnes 1' Driving Layup (21 PTS),,,94 - 93,-1,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,515,6,1,3,9:29 PM,1:00,Barnes P.FOUL (P3.PN) (G.Petraitis),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,517,3,11,3,9:30 PM,1:00,,,Griffin Free Throw 1 of 2 (1 PTS),95 - 93,-2,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,518,3,12,3,9:31 PM,1:00,,,Griffin Free Throw 2 of 2 (2 PTS),96 - 93,-3,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,519,2,102,3,9:31 PM,0:49,MISS Hernangomez 10' Driving Floating Bank Jump Shot,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,520,4,0,3,9:31 PM,0:47,,,Griffin REBOUND (Off:0 Def:1),,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,521,2,93,3,9:31 PM,0:35,,,MISS Williams 6' Driving Bank Hook Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,522,4,0,3,9:31 PM,0:33,,,Griffin REBOUND (Off:1 Def:1),,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,523,1,97,3,9:31 PM,0:33,,,Griffin Tip Layup Shot (4 PTS),98 - 93,-5,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,524,6,2,3,9:31 PM,0:30,,,Tatum S.FOUL (P4.PN) (G.Petraitis),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,526,6,11,3,9:31 PM,0:30,,,Tatum T.FOUL (P4.PN) (G.Petraitis),,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,527,11,4,3,9:32 PM,0:30,,,Tatum Ejection:Other,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,528,6,11,3,9:32 PM,0:30,,,Williams T.FOUL (P1.PN) (N.Green),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0012200064,530,6,18,3,9:33 PM,0:30,,,Celtics Delay,,,3,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200064,531,3,16,3,9:33 PM,0:30,Banton Free Throw Technical (3 PTS),,,98 - 94,-4,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200064,532,3,16,3,9:34 PM,0:30,Banton Free Throw Technical (4 PTS),,,98 - 95,-3,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,533,3,16,3,9:34 PM,0:30,Banton Free Throw Technical (5 PTS),,,98 - 96,-2,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,534,8,0,3,9:34 PM,0:30,,,SUB: Hauser FOR Tatum,,,5,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,536,3,11,3,9:34 PM,0:30,Barnes Free Throw 1 of 2 (22 PTS),,,98 - 97,-1,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,537,3,12,3,9:35 PM,0:30,Barnes Free Throw 2 of 2 (23 PTS),,,98 - 98,TIE,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,538,2,1,3,9:35 PM,0:17,,,MISS Hauser 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,539,4,0,3,9:35 PM,0:13,Hernangomez REBOUND (Off:0 Def:2),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,540,2,80,3,9:35 PM,0:01,MISS Barnes 22' Step Back Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,541,4,0,3,9:35 PM,0:01,Hernangomez REBOUND (Off:1 Def:2),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,542,13,0,3,9:35 PM,0:00,,End of 3rd Period (9:35 PM EST),,98 - 98,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,543,12,0,4,9:38 PM,12:00,,Start of 4th Period (9:38 PM EST),,98 - 98,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,544,2,1,4,9:38 PM,11:48,MISS Banton 26' 3PT Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,545,4,0,4,9:38 PM,11:44,Young REBOUND (Off:1 Def:4),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,546,1,3,4,9:38 PM,11:40,Young 3' Hook Shot (4 PTS),,,98 - 100,2,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,547,5,1,4,9:39 PM,11:26,Young STEAL (1 STL),,Brown Bad Pass Turnover (P5.T15),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,549,6,1,4,9:39 PM,11:14,,,Pritchard P.FOUL (P1.T1) (S.Corbin),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,551,1,75,4,9:39 PM,11:00,Barnes 3' Driving Finger Roll Layup (25 PTS),,,98 - 102,4,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,552,2,98,4,9:40 PM,10:49,,,MISS Griffin 2' Cutting Layup Shot,,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,553,4,0,4,9:40 PM,10:47,Young REBOUND (Off:1 Def:5),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,554,1,99,4,9:40 PM,10:41,Banton 6' Cutting Finger Roll Layup Shot (7 PTS) (Barnes 4 AST),,,98 - 104,6,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,556,6,2,4,9:40 PM,10:25,Champagnie S.FOUL (P1.T1) (S.Corbin),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,558,3,11,4,9:40 PM,10:25,,,Brown Free Throw 1 of 2 (17 PTS),99 - 104,5,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,559,3,12,4,9:41 PM,10:25,,,MISS Brown Free Throw 2 of 2,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,560,4,0,4,9:41 PM,10:22,Hernangomez REBOUND (Off:1 Def:3),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,561,2,79,4,9:41 PM,10:16,MISS Banton 14' Pullup Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,562,4,0,4,9:41 PM,10:12,,,Brown REBOUND (Off:1 Def:3),,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,563,1,75,4,9:41 PM,10:06,,,Brown 4' Driving Finger Roll Layup (19 PTS),101 - 104,3,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,564,1,1,4,9:41 PM,9:47,Hernangomez 26' 3PT Jump Shot (3 PTS) (Banton 2 AST),,,101 - 107,6,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,566,6,1,4,9:42 PM,9:37,Barnes P.FOUL (P4.T2) (S.Corbin),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,568,8,0,4,9:42 PM,9:37,SUB: Achiuwa FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,569,8,0,4,9:42 PM,9:37,,,SUB: White FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,572,2,66,4,9:42 PM,9:26,,,MISS Pritchard 27' 3PT Jump Bank Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,573,4,0,4,9:42 PM,9:23,,,Hauser REBOUND (Off:1 Def:1),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,574,2,1,4,9:42 PM,9:18,,,MISS Hauser 27' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,576,4,0,4,9:42 PM,9:14,Hernangomez REBOUND (Off:1 Def:4),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,577,1,103,4,9:42 PM,9:10,Achiuwa 20' Running Pull-Up Jump Shot (10 PTS),,,101 - 109,8,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,578,2,73,4,9:43 PM,8:48,,,MISS Griffin 3' Driving Reverse Layup,,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,579,4,0,4,9:43 PM,8:44,,,Griffin REBOUND (Off:2 Def:1),,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,580,1,72,4,9:43 PM,8:44,,,Griffin Putback Layup (6 PTS),103 - 109,6,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,581,2,5,4,9:43 PM,8:32,MISS Young 4' Layup,,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,582,4,0,4,9:43 PM,8:30,Young REBOUND (Off:3 Def:5),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,788,2,97,4,9:43 PM,8:28,MISS Young 2' Tip Layup Shot,,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200064,789,4,0,4,9:43 PM,8:28,Young REBOUND (Off:3 Def:5),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200064,583,2,97,4,9:43 PM,8:27,MISS Young Tip Layup Shot,,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,584,4,0,4,9:43 PM,8:26,,,Hauser REBOUND (Off:1 Def:2),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,586,8,0,4,9:43 PM,8:25,,,SUB: Horford FOR Williams,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,587,8,0,4,9:43 PM,8:25,,,SUB: Smart FOR Griffin,,,5,201933,Blake Griffin,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,590,2,1,4,9:44 PM,8:18,,,MISS Pritchard 3PT Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,591,4,0,4,9:44 PM,8:14,Young REBOUND (Off:3 Def:6),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,592,2,80,4,9:44 PM,7:57,MISS Banton 18' Step Back Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,593,4,0,4,9:44 PM,7:55,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,595,8,0,4,9:44 PM,7:55,SUB: Dowtin FOR Young,,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,596,8,0,4,9:44 PM,7:55,SUB: Koloko FOR Banton,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,599,2,101,4,9:45 PM,7:47,MISS Achiuwa 9' Driving Floating Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,600,4,0,4,9:45 PM,7:44,,,Horford REBOUND (Off:0 Def:4),,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,601,1,79,4,9:45 PM,7:30,,,Smart 8' Pullup Jump Shot (15 PTS),105 - 109,4,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,602,2,101,4,9:45 PM,7:15,MISS Champagnie 11' Driving Floating Jump Shot,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,603,4,0,4,9:45 PM,7:14,Champagnie REBOUND (Off:2 Def:2),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,604,1,71,4,9:45 PM,7:12,Champagnie 3' Finger Roll Layup (3 PTS),,,105 - 111,6,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,605,1,1,4,9:45 PM,7:02,,,Horford 24' 3PT Jump Shot (10 PTS) (Hauser 2 AST),108 - 111,3,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,607,1,58,4,9:46 PM,6:38,Koloko 8' Turnaround Hook Shot (12 PTS),,,108 - 113,5,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,608,2,1,4,9:46 PM,6:24,,,MISS Hauser 26' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,609,4,0,4,9:46 PM,6:22,Hernangomez REBOUND (Off:1 Def:5),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,610,2,1,4,9:46 PM,6:06,MISS Hernangomez 26' 3PT Jump Shot,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,611,4,0,4,9:46 PM,6:02,,,Hauser REBOUND (Off:1 Def:3),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,612,2,1,4,9:47 PM,5:52,,,MISS Hauser 28' 3PT Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,613,4,0,4,9:47 PM,5:49,Hernangomez REBOUND (Off:1 Def:6),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,614,1,57,4,9:47 PM,5:42,Dowtin 8' Driving Hook Shot (2 PTS),,,108 - 115,7,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,615,6,1,4,9:47 PM,5:32,Champagnie P.FOUL (P2.T3) (S.Corbin),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,617,9,1,4,9:47 PM,5:32,RAPTORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,618,8,0,4,9:47 PM,5:32,SUB: Jackson FOR Hernangomez,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,619,8,0,4,9:47 PM,5:32,,,SUB: Brown FOR Pritchard,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,620,8,0,4,9:47 PM,5:32,,,SUB: Williams FOR Hauser,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,624,1,75,4,9:50 PM,5:25,,,Brown 2' Driving Finger Roll Layup (21 PTS) (Smart 3 AST),110 - 115,5,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,626,6,1,4,9:50 PM,5:08,,,White P.FOUL (P5.T2) (S.Corbin),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,628,6,2,4,9:51 PM,5:00,,,Williams S.FOUL (P2.T3) (S.Corbin),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,630,3,11,4,9:51 PM,5:00,MISS Achiuwa Free Throw 1 of 2,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,631,4,1,4,9:51 PM,5:00,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,632,3,12,4,9:52 PM,5:00,Achiuwa Free Throw 2 of 2 (11 PTS),,,110 - 116,6,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,633,1,1,4,9:52 PM,4:48,,,Horford 24' 3PT Jump Shot (13 PTS) (Brown 3 AST),113 - 116,3,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,635,6,4,4,9:52 PM,4:41,Koloko OFF.Foul (P6) (N.Green),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,637,5,37,4,9:52 PM,4:41,Koloko Offensive Foul Turnover (P1.T12),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200064,638,8,0,4,9:53 PM,4:41,SUB: Banton FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200064,639,8,0,4,9:53 PM,4:41,,,SUB: Vonleh FOR Horford,,,5,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,644,1,98,4,9:55 PM,4:22,,,Brown 4' Cutting Layup Shot (23 PTS) (White 2 AST),115 - 116,1,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,646,6,2,4,9:55 PM,4:15,,,Williams S.FOUL (P3.T4) (G.Petraitis),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,648,3,11,4,9:55 PM,4:15,Achiuwa Free Throw 1 of 2 (12 PTS),,,115 - 117,2,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,649,8,0,4,9:55 PM,4:15,,,SUB: Pritchard FOR Brown,,,5,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,650,8,0,4,9:55 PM,4:15,,,SUB: Hauser FOR Smart,,,5,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,653,3,12,4,9:55 PM,4:15,MISS Achiuwa Free Throw 2 of 2,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,654,4,0,4,9:55 PM,4:13,,,Vonleh REBOUND (Off:0 Def:1),,,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,655,6,2,4,9:56 PM,4:02,Jackson S.FOUL (P1.T4) (G.Petraitis),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,657,3,11,4,9:56 PM,4:02,,,Williams Free Throw 1 of 2 (9 PTS),116 - 117,1,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,658,3,12,4,9:57 PM,4:02,,,Williams Free Throw 2 of 2 (10 PTS),117 - 117,TIE,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,659,2,5,4,9:57 PM,3:40,MISS Jackson 2' Layup,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,660,4,0,4,9:57 PM,3:38,Dowtin REBOUND (Off:1 Def:0),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,661,1,78,4,9:57 PM,3:37,Dowtin 9' Floating Jump Shot (4 PTS),,,117 - 119,2,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,662,6,4,4,9:57 PM,3:26,,,Williams OFF.Foul (P4) (N.Green),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,664,5,37,4,9:57 PM,3:26,,,Williams Offensive Foul Turnover (P3.T16),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,665,1,79,4,9:58 PM,3:11,Banton 22' Pullup Jump Shot (9 PTS),,,117 - 121,4,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,666,6,2,4,9:58 PM,2:55,Jackson S.FOUL (P2.PN) (G.Petraitis),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,668,9,1,4,9:58 PM,2:55,,,Celtics Timeout: Regular (Reg.4 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,669,3,11,4,10:01 PM,2:55,,,White Free Throw 1 of 2 (22 PTS),118 - 121,3,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,670,3,12,4,10:02 PM,2:55,,,White Free Throw 2 of 2 (23 PTS),119 - 121,2,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,671,6,2,4,10:02 PM,2:39,,,White S.FOUL (P6.PN) (G.Petraitis),,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,673,8,0,4,10:02 PM,2:39,,,SUB: Jackson FOR White,,,5,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200064,675,3,11,4,10:02 PM,2:39,Jackson Free Throw 1 of 2 (1 PTS),,,119 - 122,3,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,676,3,12,4,10:02 PM,2:39,MISS Jackson Free Throw 2 of 2,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,677,4,0,4,10:03 PM,2:37,Achiuwa REBOUND (Off:2 Def:5),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,678,1,6,4,10:03 PM,2:24,Banton 3' Driving Layup (11 PTS),,,119 - 124,5,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,679,2,75,4,10:03 PM,2:05,,,MISS Williams 3' Driving Finger Roll Layup,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,680,4,0,4,10:03 PM,2:02,,,Vonleh REBOUND (Off:1 Def:1),,,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,681,1,97,4,10:03 PM,2:02,,,Vonleh Tip Layup Shot (2 PTS),121 - 124,3,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,682,2,79,4,10:04 PM,1:42,MISS Banton 27' 3PT Pullup Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,683,4,0,4,10:04 PM,1:39,,,Vonleh REBOUND (Off:1 Def:2),,,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,684,6,4,4,10:04 PM,1:30,,,Williams OFF.Foul (P5) (S.Corbin),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,686,5,37,4,10:04 PM,1:30,,,Williams Offensive Foul Turnover (P4.T17),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,688,2,80,4,10:05 PM,1:19,MISS Dowtin 19' Step Back Jump Shot,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,689,4,0,4,10:05 PM,1:16,,,Williams REBOUND (Off:0 Def:2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,690,6,1,4,10:05 PM,1:16,Jackson P.FOUL (P3.PN) (S.Corbin),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,692,3,11,4,10:05 PM,1:16,,,Williams Free Throw 1 of 2 (11 PTS),122 - 124,2,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,693,3,12,4,10:05 PM,1:16,,,MISS Williams Free Throw 2 of 2,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,694,4,0,4,10:05 PM,1:13,,,Jackson REBOUND (Off:1 Def:0),,,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,695,1,1,4,10:06 PM,1:12,,,Hauser 27' 3PT Jump Shot (3 PTS) (Jackson 1 AST),125 - 124,-1,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,697,1,79,4,10:06 PM,0:54,Banton 21' Pullup Jump Shot (13 PTS),,,125 - 126,1,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,698,1,79,4,10:06 PM,0:36,,,Jackson 11' Pullup Jump Shot (2 PTS) (Pritchard 1 AST),127 - 126,-1,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,700,6,1,4,10:07 PM,0:21,,,Hauser P.FOUL (P2.PN) (N.Green),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,702,3,11,4,10:07 PM,0:21,MISS Jackson Free Throw 1 of 2,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,703,4,1,4,10:07 PM,0:21,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,704,3,12,4,10:07 PM,0:21,Jackson Free Throw 2 of 2 (2 PTS),,,127 - 127,TIE,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,705,2,101,4,10:08 PM,0:01,,,MISS Pritchard 15' Driving Floating Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,706,4,0,4,10:08 PM,0:01,,,Hauser REBOUND (Off:2 Def:3),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,707,2,63,4,10:08 PM,0:00,,,MISS Hauser 21' Fadeaway Jumper,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,708,4,0,4,10:08 PM,0:00,,,Celtics Rebound,,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,709,13,0,4,10:09 PM,0:00,,End of 4th Period (10:09 PM EST),,127 - 127,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,710,12,0,5,10:11 PM,5:00,,Start of 1st OT (10:11 PM EST),,127 - 127,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,712,10,0,5,10:11 PM,5:00,Jump Ball Achiuwa vs. Vonleh: Tip to Banton,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,715,6,2,5,10:11 PM,4:42,,,Hauser S.FOUL (P3.T1) (S.Corbin),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,717,3,11,5,10:11 PM,4:42,Champagnie Free Throw 1 of 2 (4 PTS),,,127 - 128,1,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,718,3,12,5,10:11 PM,4:42,Champagnie Free Throw 2 of 2 (5 PTS),,,127 - 129,2,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,719,2,1,5,10:12 PM,4:24,,,MISS Pritchard 27' 3PT Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,720,4,0,5,10:12 PM,4:19,Banton REBOUND (Off:1 Def:1),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,721,2,2,5,10:12 PM,4:14,MISS Banton 7' Running Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,722,4,0,5,10:12 PM,4:12,,,Hauser REBOUND (Off:2 Def:4),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,723,2,6,5,10:12 PM,4:01,,,MISS Williams 2' Driving Layup,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,724,4,0,5,10:12 PM,3:58,Jackson REBOUND (Off:0 Def:1),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,725,2,79,5,10:12 PM,3:46,MISS Dowtin 21' Pullup Jump Shot,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,726,4,0,5,10:12 PM,3:44,Champagnie REBOUND (Off:3 Def:2),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,727,1,75,5,10:13 PM,3:37,Champagnie 4' Driving Finger Roll Layup (7 PTS) (Achiuwa 4 AST),,,127 - 131,4,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,729,6,26,5,10:13 PM,3:23,,,Pritchard Offensive Charge Foul (P2) (N.Green),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,731,5,37,5,10:13 PM,3:23,,,Pritchard Offensive Foul Turnover (P1.T18),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,732,1,102,5,10:14 PM,3:12,Achiuwa 9' Driving Floating Bank Jump Shot (14 PTS) (Banton 3 AST),,,127 - 133,6,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,734,6,2,5,10:14 PM,3:12,,,Jackson S.FOUL (P1.T2) (G.Petraitis),,,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,736,3,10,5,10:14 PM,3:12,Achiuwa Free Throw 1 of 1 (15 PTS),,,127 - 134,7,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,737,1,1,5,10:14 PM,3:00,,,Jackson 26' 3PT Jump Shot (5 PTS),130 - 134,4,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,738,2,79,5,10:14 PM,2:41,MISS Achiuwa 27' 3PT Pullup Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,739,4,0,5,10:15 PM,2:37,,,Jackson REBOUND (Off:1 Def:1),,,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,740,2,1,5,10:15 PM,2:33,,,MISS Williams 24' 3PT Jump Shot,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,741,4,0,5,10:15 PM,2:30,,,Vonleh REBOUND (Off:2 Def:2),,,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,742,6,2,5,10:15 PM,2:30,Dowtin S.FOUL (P1.T1) (G.Petraitis),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200064,744,3,11,5,10:15 PM,2:30,,,Vonleh Free Throw 1 of 2 (3 PTS),131 - 134,3,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,745,3,12,5,10:15 PM,2:30,,,Vonleh Free Throw 2 of 2 (4 PTS),132 - 134,2,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,746,1,52,5,10:16 PM,2:16,Achiuwa 1' Alley Oop Dunk (17 PTS) (Banton 4 AST),,,132 - 136,4,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200064,750,2,1,5,10:16 PM,1:53,,,MISS Jackson 25' 3PT Jump Shot,,,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,751,4,0,5,10:16 PM,1:49,,,Williams REBOUND (Off:1 Def:2),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,752,2,5,5,10:17 PM,1:47,Champagnie BLOCK (1 BLK),,MISS Williams 2' Layup,,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,754,4,0,5,10:17 PM,1:47,Achiuwa REBOUND (Off:2 Def:6),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,755,2,1,5,10:17 PM,1:31,MISS Banton 6' Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,756,4,0,5,10:17 PM,1:28,,,Williams REBOUND (Off:1 Def:3),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,757,2,2,5,10:17 PM,1:26,Jackson BLOCK (1 BLK),,MISS Hauser 27' 3PT Running Jump Shot,,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1
+0012200064,758,4,0,5,10:17 PM,1:21,Champagnie REBOUND (Off:3 Def:3),,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,759,2,6,5,10:17 PM,1:07,MISS Dowtin 1' Driving Layup,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,760,4,0,5,10:17 PM,1:04,Banton REBOUND (Off:2 Def:1),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,761,2,72,5,10:17 PM,1:04,MISS Banton Putback Layup,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,762,4,0,5,10:17 PM,1:03,Banton REBOUND (Off:3 Def:1),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,763,2,1,5,10:17 PM,1:00,MISS Banton 27' 3PT Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,764,4,0,5,10:17 PM,0:56,,,Williams REBOUND (Off:1 Def:4),,,5,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,765,5,45,5,10:18 PM,0:48,,,Pritchard Out of Bounds - Bad Pass Turnover Turnover (P2.T19),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200064,766,2,1,5,10:18 PM,0:31,MISS Champagnie 3PT Jump Shot,,,,,4,1630551,Justin Champagnie,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,767,4,0,5,10:18 PM,0:30,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,768,6,3,5,10:18 PM,0:30,,,Pritchard L.B.FOUL (P3.T3) (G.Petraitis),,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,770,2,79,5,10:19 PM,0:18,MISS Achiuwa 24' 3PT Pullup Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,771,4,0,5,10:19 PM,0:15,,,Hauser REBOUND (Off:2 Def:5),,,5,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,772,1,3,5,10:19 PM,0:08,,,Vonleh 5' Hook Shot (6 PTS) (Jackson 2 AST),134 - 136,2,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,5,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200064,774,9,1,5,10:19 PM,0:08,RAPTORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,775,6,1,5,10:21 PM,0:07,,,Vonleh P.FOUL (P1.PN) (S.Corbin),,,5,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200064,777,3,11,5,10:22 PM,0:07,MISS Achiuwa Free Throw 1 of 2,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,778,4,1,5,10:22 PM,0:07,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,779,3,12,5,10:22 PM,0:07,Achiuwa Free Throw 2 of 2 (18 PTS),,,134 - 137,3,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,780,9,1,5,10:22 PM,0:07,,,Celtics Timeout: Regular (Reg.5 Short 0),,,3,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200064,781,2,80,5,10:24 PM,0:05,,,MISS Pritchard 26' 3PT Step Back Jump Shot,,,5,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200064,782,4,0,5,10:24 PM,0:01,Achiuwa REBOUND (Off:2 Def:7),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,783,2,1,5,10:24 PM,0:00,MISS Achiuwa 55' 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200064,784,4,0,5,10:24 PM,0:00,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200064,785,13,0,5,10:24 PM,0:00,,End of 1st OT (10:24 PM EST),,134 - 137,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

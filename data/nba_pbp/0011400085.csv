@@ -1,0 +1,467 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400085,0,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,1,10,0,1,7:11 PM,12:00,Jump Ball Gortat vs. Davis: Tip to A. Miller,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0
+0011400085,2,2,1,1,7:11 PM,11:35,MISS A. Miller 18' Jump Shot,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,3,4,0,1,7:11 PM,11:34,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,4,2,1,1,7:12 PM,11:27,,,MISS Holiday 27' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,5,4,0,1,7:12 PM,11:26,Gortat REBOUND (Off:0 Def:1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,6,6,1,1,7:12 PM,11:19,,,Evans P.FOUL (P1.T1),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,7,1,46,1,7:12 PM,11:07,Gortat 7' Running Jump Shot (2 PTS) (Porter 1 AST),,,0 - 2,2,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,8,2,1,1,7:12 PM,10:49,,,MISS Gordon 26' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,9,4,0,1,7:12 PM,10:48,,,Evans REBOUND (Off:1 Def:0),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,10,1,44,1,7:13 PM,10:44,,,Holiday 1' Reverse Layup (2 PTS) (Evans 1 AST),2 - 2,TIE,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,11,7,5,1,7:13 PM,10:35,,,Holiday Violation:Kicked Ball,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,13,6,2,1,7:13 PM,10:24,,,Gordon S.FOUL (P1.T2),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,14,3,11,1,7:13 PM,10:24,Nene Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,16,3,12,1,7:14 PM,10:24,Nene Free Throw 2 of 2 (2 PTS),,,2 - 4,2,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,19,2,5,1,7:14 PM,10:09,Temple BLOCK (1 BLK),,MISS Asik  Layup,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0
+0011400085,20,4,0,1,7:14 PM,10:07,Gortat REBOUND (Off:0 Def:2),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,21,1,78,1,7:14 PM,9:57,Temple 8' Floating Jump Shot (2 PTS),,,2 - 6,4,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,22,1,79,1,7:15 PM,9:36,,,Holiday 12' Pullup Jump Shot (4 PTS),4 - 6,2,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,23,1,47,1,7:15 PM,9:23,Nene 10' Turnaround Jump Shot (4 PTS) (Temple 1 AST),,,4 - 8,4,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,24,1,1,1,7:15 PM,9:02,,,Gordon 24' 3PT Jump Shot (3 PTS) (Evans 2 AST),7 - 8,1,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,25,2,1,1,7:16 PM,8:39,MISS Temple 24' 3PT Jump Shot,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,26,4,0,1,7:16 PM,8:38,,,Asik REBOUND (Off:0 Def:1),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,27,2,5,1,7:16 PM,8:31,,,MISS Evans 1' Layup,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,28,4,0,1,7:16 PM,8:30,,,Davis REBOUND (Off:1 Def:0),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,29,1,5,1,7:16 PM,8:27,,,Davis 1' Layup (2 PTS),9 - 8,-1,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,31,2,5,1,7:16 PM,8:11,MISS Porter 3' Layup,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,32,4,0,1,7:16 PM,8:10,,,Asik REBOUND (Off:0 Def:2),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,33,1,1,1,7:16 PM,7:59,,,Davis 16' Jump Shot (4 PTS) (Holiday 1 AST),11 - 8,-3,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,34,2,1,1,7:17 PM,7:40,MISS Porter 20' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,35,4,0,1,7:17 PM,7:39,,,Evans REBOUND (Off:1 Def:1),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,36,1,8,1,7:17 PM,7:27,,,Asik  Slam Dunk (2 PTS) (Evans 3 AST),13 - 8,-5,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,37,1,79,1,7:17 PM,7:13,Temple 16' Pullup Jump Shot (4 PTS) (A. Miller 1 AST),,,13 - 10,-3,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,38,6,1,1,7:17 PM,7:00,Nene P.FOUL (P1.T1),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,39,2,5,1,7:18 PM,6:48,,,MISS Asik 1' Layup,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,40,4,0,1,7:18 PM,6:47,Gortat REBOUND (Off:0 Def:3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,41,2,5,1,7:18 PM,6:42,MISS Temple 1' Layup,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,42,4,0,1,7:18 PM,6:40,,,Evans REBOUND (Off:1 Def:2),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,46,5,1,1,7:19 PM,6:27,Nene STEAL (1 STL),,Evans Bad Pass Turnover (P1.T1),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,47,2,1,1,7:19 PM,6:15,MISS Gortat 12' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,48,4,0,1,7:19 PM,6:13,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,49,6,3,1,7:19 PM,6:13,Porter L.B.FOUL (P1.T2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,51,2,1,1,7:19 PM,5:59,,,MISS Gordon 15' Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,52,4,0,1,7:19 PM,5:58,,,Asik REBOUND (Off:1 Def:2),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,53,2,1,1,7:19 PM,5:56,,,MISS Asik 3' Jump Shot,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,54,4,0,1,7:19 PM,5:55,,,Asik REBOUND (Off:2 Def:2),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,55,1,5,1,7:19 PM,5:54,,,Asik 2' Layup (4 PTS),15 - 10,-5,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,56,6,1,1,7:20 PM,5:46,,,Asik P.FOUL (P1.T3),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,57,9,1,1,7:20 PM,5:46,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,59,5,40,1,7:23 PM,5:35,Gortat Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,60,6,4,1,7:23 PM,5:30,,,Gordon OFF.Foul (P2),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,61,5,5,1,7:23 PM,5:30,,,Gordon Foul Turnover (P1.T2),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,62,1,82,1,7:23 PM,5:16,A. Miller 11' Driving Bank Shot (2 PTS),,,15 - 12,-3,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,63,1,1,1,7:23 PM,4:58,,,Davis 19' Jump Shot (6 PTS) (Holiday 2 AST),17 - 12,-5,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,64,5,1,1,7:24 PM,4:45,Nene Bad Pass Turnover (P1.T2),,Evans STEAL (1 STL),,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,65,5,1,1,7:24 PM,4:39,,,Gordon Bad Pass Turnover (P2.T3),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,66,8,0,1,7:24 PM,4:39,,,SUB: Rivers FOR Gordon,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,67,8,0,1,7:24 PM,4:39,SUB: Seraphin FOR Nene,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,69,2,1,1,7:25 PM,4:16,MISS A. Miller 17' Jump Shot,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,70,4,0,1,7:25 PM,4:15,,,Asik REBOUND (Off:2 Def:3),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,71,1,1,1,7:25 PM,3:59,,,Rivers 25' 3PT Jump Shot (3 PTS) (Evans 4 AST),20 - 12,-8,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,72,2,5,1,7:25 PM,3:41,MISS A. Miller  Layup,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,73,4,0,1,7:25 PM,3:40,,,Asik REBOUND (Off:2 Def:4),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,74,5,4,1,7:25 PM,3:35,,,Evans Traveling Turnover (P2.T4),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,75,8,0,1,7:25 PM,3:35,SUB: Silas FOR A. Miller,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,76,8,0,1,7:25 PM,3:35,,,SUB: Anderson FOR Asik,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,77,8,0,1,7:25 PM,3:35,,,SUB: Babbitt FOR Evans,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,79,2,1,1,7:26 PM,3:16,MISS Gortat 7' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,80,4,0,1,7:26 PM,3:15,,,Davis REBOUND (Off:1 Def:1),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,81,2,1,1,7:26 PM,3:08,Seraphin BLOCK (1 BLK),,MISS Rivers 5' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0
+0011400085,82,4,0,1,7:26 PM,3:06,,,Babbitt REBOUND (Off:1 Def:0),,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,83,2,1,1,7:26 PM,2:59,,,MISS Rivers 20' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,84,4,0,1,7:26 PM,2:58,Porter REBOUND (Off:0 Def:1),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,85,2,1,1,7:26 PM,2:50,MISS Seraphin 6' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,86,4,0,1,7:26 PM,2:49,,,Davis REBOUND (Off:1 Def:2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,87,1,63,1,7:27 PM,2:29,,,Davis 11' Fadeaway Jumper (8 PTS),22 - 12,-10,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,88,6,1,1,7:27 PM,2:13,,,Babbitt P.FOUL (P1.T4),,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,89,9,1,1,7:27 PM,2:13,,,Pelicans Timeout: Regular (Reg.1 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,91,8,0,1,7:27 PM,2:13,SUB: Gooden FOR Gortat,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,92,8,0,1,7:29 PM,2:13,,,SUB: Salmons FOR Holiday,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,93,5,1,1,7:30 PM,2:03,Seraphin Bad Pass Turnover (P1.T3),,Salmons STEAL (1 STL),,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,94,1,90,1,7:30 PM,1:59,,,Davis  Running Slam Dunk (10 PTS) (Salmons 1 AST),24 - 12,-12,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,95,2,5,1,7:30 PM,1:41,MISS Gooden 1' Layup,,Davis BLOCK (1 BLK),,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400085,96,4,0,1,7:30 PM,1:39,,,Davis REBOUND (Off:1 Def:3),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,97,1,79,1,7:30 PM,1:24,,,Babbitt 14' Pullup Jump Shot (2 PTS),26 - 12,-14,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,98,2,1,1,7:31 PM,1:04,MISS Silas 26' 3PT Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,99,4,0,1,7:31 PM,1:03,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,100,1,5,1,7:31 PM,0:47,,,Rivers 1' Layup (5 PTS) (Davis 1 AST),28 - 12,-16,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,101,2,5,1,7:31 PM,0:33,MISS Porter 2' Layup,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,102,4,0,1,7:31 PM,0:32,Seraphin REBOUND (Off:1 Def:0),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,103,2,5,1,7:31 PM,0:31,MISS Seraphin 2' Layup,,Davis BLOCK (2 BLK),,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400085,104,4,0,1,7:32 PM,0:30,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,105,6,1,1,7:32 PM,0:30,,,Salmons P.FOUL (P1.PN),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,106,3,11,1,7:32 PM,0:30,MISS Porter Free Throw 1 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,107,4,1,1,7:32 PM,0:30,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,108,8,0,1,7:32 PM,0:30,,,SUB: Ajinca FOR Davis,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,109,3,12,1,7:32 PM,0:30,MISS Porter Free Throw 2 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,111,4,0,1,7:32 PM,0:29,Seraphin REBOUND (Off:2 Def:0),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,112,9,2,1,7:32 PM,0:25,WIZARDS Timeout: Short (Full 1 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,114,6,1,1,7:33 PM,0:23,,,Salmons P.FOUL (P2.PN),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,115,3,11,1,7:34 PM,0:23,Silas Free Throw 1 of 2 (1 PTS),,,28 - 13,-15,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,118,8,0,1,7:34 PM,0:23,SUB: Butler FOR Porter,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,119,3,12,1,7:34 PM,0:23,Silas Free Throw 2 of 2 (2 PTS),,,28 - 14,-14,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,122,6,1,1,7:35 PM,0:08,Temple P.FOUL (P1.T3),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,123,2,1,1,7:35 PM,0:02,,,MISS Anderson 24' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,124,4,0,1,7:35 PM,0:00,,,Ajinca REBOUND (Off:1 Def:0),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,125,13,0,1,7:35 PM,0:00,,End of 1st Period (7:35 PM EST),,28 - 14,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,127,12,0,2,7:38 PM,12:00,,Start of 2nd Period (7:38 PM EST),,28 - 14,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,128,6,4,2,7:38 PM,11:45,,,Salmons OFF.Foul (P3),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,129,5,5,2,7:38 PM,11:45,,,Salmons Foul Turnover (P1.T5),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,130,1,79,2,7:38 PM,11:26,Temple 18' Pullup Jump Shot (6 PTS),,,28 - 16,-12,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,131,5,40,2,7:39 PM,11:09,,,Ajinca Out of Bounds Lost Ball Turnover (P1.T6),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,132,8,0,2,7:39 PM,11:09,,,SUB: Fredette FOR Salmons,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,134,5,4,2,7:39 PM,10:48,Seraphin Traveling Turnover (P2.T4),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,135,6,1,2,7:40 PM,10:30,Seraphin P.FOUL (P1.T1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,136,1,78,2,7:40 PM,10:25,,,Fredette 4' Floating Jump Shot (2 PTS) (Rivers 1 AST),30 - 16,-14,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,137,2,1,2,7:40 PM,10:07,MISS Seraphin 5' Jump Shot,,Ajinca BLOCK (1 BLK),,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400085,138,4,0,2,7:41 PM,10:06,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,139,2,1,2,7:41 PM,10:02,MISS Silas 18' Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,140,4,0,2,7:41 PM,10:02,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,141,6,3,2,7:41 PM,10:02,,,Ajinca L.B.FOUL (P1.T1),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,142,7,5,2,7:41 PM,9:57,,,Rivers Violation:Kicked Ball,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,143,2,1,2,7:42 PM,9:50,MISS Seraphin 10' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,144,4,0,2,7:42 PM,9:49,,,Anderson REBOUND (Off:0 Def:1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,145,2,1,2,7:42 PM,9:37,,,MISS Anderson 17' Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,146,4,0,2,7:42 PM,9:35,Butler REBOUND (Off:0 Def:1),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,147,6,2,2,7:42 PM,9:17,,,Anderson S.FOUL (P1.T2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,148,3,11,2,7:42 PM,9:17,MISS Gooden Free Throw 1 of 2,,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,149,4,1,2,7:42 PM,9:17,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,150,8,0,2,7:43 PM,9:17,SUB: Blair FOR Seraphin,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,151,3,12,2,7:43 PM,9:17,Gooden Free Throw 2 of 2 (1 PTS),,,30 - 17,-13,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,155,2,1,2,7:44 PM,8:57,,,MISS Fredette 19' Jump Shot,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,156,4,0,2,7:44 PM,8:56,Temple REBOUND (Off:0 Def:1),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,157,1,1,2,7:44 PM,8:48,Gooden 19' Jump Shot (3 PTS) (Blair 1 AST),,,30 - 19,-11,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,158,9,1,2,7:44 PM,8:45,,,Pelicans Timeout: Regular (Reg.2 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,160,8,0,2,7:46 PM,8:45,SUB: A. Miller FOR Temple,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,161,1,7,2,7:47 PM,8:28,,,Ajinca  Dunk (2 PTS) (Anderson 1 AST),32 - 19,-13,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,162,1,80,2,7:47 PM,8:12,Butler 21' Step Back Jump Shot (2 PTS),,,32 - 21,-11,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,163,6,4,2,7:47 PM,7:56,,,Ajinca OFF.Foul (P2),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,164,5,5,2,7:47 PM,7:56,,,Ajinca Foul Turnover (P2.T7),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,165,8,0,2,7:48 PM,7:56,,,SUB: Davis FOR Babbitt,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,166,8,0,2,7:48 PM,7:56,,,SUB: Holiday FOR Ajinca,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,167,8,0,2,7:48 PM,7:56,,,SUB: Evans FOR Fredette,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,168,5,7,2,7:48 PM,7:38,Butler Discontinue Dribble Turnover (P1.T5),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,170,1,75,2,7:49 PM,7:15,,,Evans  Driving Finger Roll Layup (2 PTS),34 - 21,-13,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,171,5,8,2,7:49 PM,7:00,Blair 3 Second Violation Turnover (P1.T6),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,172,8,0,2,7:49 PM,7:00,,,SUB: Asik FOR Rivers,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,173,7,1,2,7:49 PM,7:00,WIZARDS Violation: Delay of game Violation,,,,,2,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400085,175,5,40,2,7:49 PM,6:46,,,Evans Out of Bounds Lost Ball Turnover (P3.T8),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,176,8,0,2,7:50 PM,6:46,SUB: Gortat FOR Gooden,,,,,4,2400,Drew Gooden,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,178,2,1,2,7:50 PM,6:30,MISS Silas 26' 3PT Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,179,4,0,2,7:50 PM,6:28,,,Davis REBOUND (Off:1 Def:4),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,180,2,1,2,7:50 PM,6:15,,,MISS Evans 21' Jump Shot,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,181,4,0,2,7:50 PM,6:14,A. Miller REBOUND (Off:0 Def:1),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,182,5,1,2,7:51 PM,6:01,A. Miller Bad Pass Turnover (P1.T7),,Evans STEAL (2 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,183,1,49,2,7:51 PM,5:57,,,Davis  Driving Dunk (12 PTS) (Evans 5 AST),36 - 21,-15,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,184,9,1,2,7:51 PM,5:56,WIZARDS Timeout: Regular (Full 2 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,186,8,0,2,7:53 PM,5:56,SUB: Nene FOR Blair,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,187,8,0,2,7:53 PM,5:56,SUB: Porter FOR Silas,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,188,5,2,2,7:53 PM,5:45,Porter Lost Ball Turnover (P1.T8),,Evans STEAL (3 STL),,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,189,6,2,2,7:53 PM,5:42,Butler S.FOUL (P1.T2),,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,190,3,11,2,7:53 PM,5:42,,,Evans Free Throw 1 of 2 (3 PTS),37 - 21,-16,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,192,3,12,2,7:54 PM,5:42,,,Evans Free Throw 2 of 2 (4 PTS),38 - 21,-17,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,195,2,1,2,7:54 PM,5:23,MISS Gortat 10' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,196,4,0,2,7:54 PM,5:21,,,Evans REBOUND (Off:1 Def:3),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,197,2,1,2,7:54 PM,5:11,,,MISS Holiday 6' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,198,4,0,2,7:54 PM,5:10,Gortat REBOUND (Off:0 Def:4),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,199,5,1,2,7:55 PM,5:06,A. Miller Bad Pass Turnover (P2.T9),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,200,2,1,2,7:55 PM,4:48,,,MISS Holiday 18' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,201,4,0,2,7:55 PM,4:47,,,Anderson REBOUND (Off:1 Def:1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,202,2,1,2,7:55 PM,4:46,,,MISS Anderson 5' Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,203,4,0,2,7:55 PM,4:46,,,Anderson REBOUND (Off:2 Def:1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,204,1,1,2,7:55 PM,4:46,,,Anderson 3' Jump Shot (2 PTS),40 - 21,-19,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,205,6,2,2,7:55 PM,4:46,Gortat S.FOUL (P1.T3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,206,3,10,2,7:55 PM,4:46,,,Anderson Free Throw 1 of 1 (3 PTS),41 - 21,-20,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,209,2,1,2,7:56 PM,4:24,MISS Butler 26' 3PT Jump Shot,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,210,4,0,2,7:56 PM,4:22,,,Davis REBOUND (Off:1 Def:5),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,211,2,1,2,7:56 PM,4:03,,,MISS Evans 27' 3PT Jump Shot,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,212,4,0,2,7:56 PM,4:02,,,Anderson REBOUND (Off:3 Def:1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,213,1,5,2,7:56 PM,4:00,,,Anderson 2' Layup (5 PTS),43 - 21,-22,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,214,2,1,2,7:57 PM,3:43,MISS A. Miller 24' 3PT Jump Shot,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,215,4,0,2,7:57 PM,3:40,,,Asik REBOUND (Off:2 Def:5),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,216,1,8,2,7:57 PM,3:28,,,Asik  Slam Dunk (6 PTS) (Evans 6 AST),45 - 21,-24,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,217,2,5,2,7:57 PM,3:06,MISS Nene 3' Layup,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,218,4,0,2,7:57 PM,3:06,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,219,8,0,2,7:57 PM,3:06,SUB: Temple FOR Butler,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,220,8,0,2,7:57 PM,3:06,,,SUB: Gordon FOR Evans,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,221,2,1,2,7:58 PM,2:59,MISS A. Miller 32' 3PT Jump Shot,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,222,4,0,2,7:58 PM,2:58,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,223,2,1,2,7:58 PM,2:40,,,MISS Davis 14' Jump Shot,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,224,4,0,2,7:58 PM,2:39,Gortat REBOUND (Off:0 Def:5),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,225,1,49,2,7:58 PM,2:33,Gortat  Driving Dunk (4 PTS) (A. Miller 2 AST),,,45 - 23,-22,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,226,2,5,2,7:58 PM,2:12,,,MISS Asik 1' Layup,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,227,4,0,2,7:59 PM,2:11,Nene REBOUND (Off:0 Def:1),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,228,6,1,2,7:59 PM,2:05,,,Holiday P.FOUL (P1.T3),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,229,9,4,2,7:59 PM,2:05,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,231,2,1,2,8:02 PM,1:53,MISS Nene 15' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,232,4,0,2,8:02 PM,1:52,,,Anderson REBOUND (Off:3 Def:2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,233,6,1,2,8:02 PM,1:38,Nene P.FOUL (P2.T4),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,234,2,1,2,8:03 PM,1:25,,,MISS Asik 5' Jump Shot,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,235,4,0,2,8:03 PM,1:24,A. Miller REBOUND (Off:0 Def:2),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,236,1,42,2,8:03 PM,1:18,Nene 1' Driving Layup (6 PTS) (A. Miller 3 AST),,,45 - 25,-20,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,237,2,5,2,8:03 PM,1:10,,,MISS Gordon 1' Layup,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,238,4,0,2,8:03 PM,1:09,,,Anderson REBOUND (Off:4 Def:2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,239,1,4,2,8:03 PM,1:09,,,Anderson 2' Tip Shot (7 PTS),47 - 25,-22,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,240,1,1,2,8:03 PM,0:58,Porter 18' Jump Shot (2 PTS) (A. Miller 4 AST),,,47 - 27,-20,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,241,5,2,2,8:03 PM,0:44,Nene STEAL (2 STL),,Davis Lost Ball Turnover (P1.T9),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,242,5,1,2,8:04 PM,0:41,Gortat Bad Pass Turnover (P2.T10),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,243,8,0,2,8:04 PM,0:41,,,SUB: Babbitt FOR Asik,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,244,2,1,2,8:04 PM,0:35,,,MISS Holiday 16' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,245,4,0,2,8:04 PM,0:35,,,Davis REBOUND (Off:2 Def:5),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,246,1,92,2,8:04 PM,0:35,,,Davis  Putback Slam Dunk (14 PTS),49 - 27,-22,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,247,1,47,2,8:04 PM,0:14,Porter 15' Turnaround Jump Shot (4 PTS) (Nene 1 AST),,,49 - 29,-20,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,248,2,1,2,8:05 PM,0:04,,,MISS Holiday 17' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,249,4,0,2,8:05 PM,0:00,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,250,13,0,2,8:05 PM,0:00,,End of 2nd Period (8:05 PM EST),,49 - 29,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,253,12,0,3,8:21 PM,12:00,,Start of 3rd Period (8:21 PM EST),,49 - 29,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,254,2,1,3,8:21 PM,11:39,,,MISS Evans 6' Jump Shot,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,255,4,0,3,8:21 PM,11:38,,,Asik REBOUND (Off:3 Def:5),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,256,1,44,3,8:21 PM,11:23,,,Evans 1' Reverse Layup (6 PTS) (Holiday 3 AST),51 - 29,-22,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,257,2,1,3,8:22 PM,10:59,MISS Gortat 6' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,258,4,0,3,8:22 PM,10:58,,,Davis REBOUND (Off:2 Def:6),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,260,8,0,3,8:22 PM,10:43,,,SUB: Anderson FOR Davis,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,261,2,1,3,8:23 PM,10:38,,,MISS Holiday 26' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,262,4,0,3,8:23 PM,10:38,,,Anderson REBOUND (Off:5 Def:2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,263,2,1,3,8:23 PM,10:26,,,MISS Gordon 26' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,264,4,0,3,8:23 PM,10:25,Nene REBOUND (Off:0 Def:2),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,265,2,5,3,8:23 PM,10:18,MISS Gortat 1' Layup,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,266,4,0,3,8:23 PM,10:17,,,Asik REBOUND (Off:3 Def:6),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,267,6,29,3,8:23 PM,10:14,A. Miller Shooting Block Foul (P1.T1),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,268,3,11,3,8:23 PM,10:14,,,Evans Free Throw 1 of 2 (7 PTS),52 - 29,-23,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,270,3,12,3,8:23 PM,10:14,,,Evans Free Throw 2 of 2 (8 PTS),53 - 29,-24,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,273,1,88,3,8:24 PM,10:02,Nene  Driving Slam Dunk (8 PTS),,,53 - 31,-22,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,274,1,3,3,8:24 PM,9:49,,,Asik 7' Hook Shot (8 PTS) (Evans 7 AST),55 - 31,-24,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,275,5,2,3,8:24 PM,9:41,A. Miller Lost Ball Turnover (P3.T11),,Evans STEAL (4 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,276,6,2,3,8:25 PM,9:26,Temple S.FOUL (P2.T2),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,277,3,11,3,8:25 PM,9:26,,,Asik Free Throw 1 of 2 (9 PTS),56 - 31,-25,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,279,3,12,3,8:25 PM,9:26,,,MISS Asik Free Throw 2 of 2,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,281,4,0,3,8:25 PM,9:25,Nene REBOUND (Off:0 Def:3),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,283,2,1,3,8:26 PM,9:12,MISS Porter 22' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,284,4,0,3,8:26 PM,9:11,,,Evans REBOUND (Off:1 Def:4),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,285,7,5,3,8:26 PM,9:01,Nene Violation:Kicked Ball,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,286,1,80,3,8:26 PM,8:47,,,Evans 16' Step Back Jump Shot (10 PTS),58 - 31,-27,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,287,6,4,3,8:27 PM,8:34,Temple OFF.Foul (P3),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,288,5,5,3,8:27 PM,8:34,Temple Foul Turnover (P1.T12),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,289,1,1,3,8:27 PM,8:23,,,Anderson 21' Jump Shot (9 PTS) (Asik 1 AST),60 - 31,-29,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,290,6,2,3,8:27 PM,8:05,,,Gordon S.FOUL (P3.T1),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,291,3,11,3,8:27 PM,8:05,Temple Free Throw 1 of 2 (7 PTS),,,60 - 32,-28,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,293,3,12,3,8:28 PM,8:05,Temple Free Throw 2 of 2 (8 PTS),,,60 - 33,-27,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,296,5,1,3,8:28 PM,7:42,Porter STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T10),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,297,6,2,3,8:28 PM,7:39,,,Evans S.FOUL (P2.T2),,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,298,3,11,3,8:29 PM,7:39,Porter Free Throw 1 of 2 (5 PTS),,,60 - 34,-26,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,300,3,12,3,8:29 PM,7:39,MISS Porter Free Throw 2 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,302,4,0,3,8:29 PM,7:38,,,Asik REBOUND (Off:3 Def:7),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,303,2,1,3,8:29 PM,7:23,,,MISS Anderson 26' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,304,4,0,3,8:29 PM,7:21,Porter REBOUND (Off:0 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,305,1,79,3,8:30 PM,7:08,Porter 16' Pullup Jump Shot (7 PTS),,,60 - 36,-24,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,306,2,1,3,8:30 PM,6:53,,,MISS Asik 5' Jump Shot,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,307,4,0,3,8:30 PM,6:51,Temple REBOUND (Off:0 Def:2),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,308,2,1,3,8:30 PM,6:43,MISS Temple 18' Jump Shot,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,309,4,0,3,8:30 PM,6:42,,,Gordon REBOUND (Off:0 Def:2),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,310,6,4,3,8:30 PM,6:30,,,Anderson OFF.Foul (P2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,311,5,5,3,8:30 PM,6:30,,,Anderson Foul Turnover (P1.T11),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,313,6,1,3,8:31 PM,6:17,,,Gordon P.FOUL (P4.T3),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,314,1,78,3,8:31 PM,6:06,Gortat 6' Floating Jump Shot (6 PTS) (Temple 2 AST),,,60 - 38,-22,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,315,6,4,3,8:32 PM,5:49,,,Asik OFF.Foul (P2),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,316,5,5,3,8:32 PM,5:49,,,Asik Foul Turnover (P1.T12),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,317,9,1,3,8:32 PM,5:49,WIZARDS Timeout: Regular (Full 3 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,319,5,1,3,8:34 PM,5:37,Nene Bad Pass Turnover (P2.T13),,Evans STEAL (5 STL),,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,320,2,1,3,8:34 PM,5:20,,,MISS Anderson 27' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,321,4,0,3,8:34 PM,5:19,Gortat REBOUND (Off:0 Def:6),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,322,1,75,3,8:35 PM,5:11,A. Miller  Driving Finger Roll Layup (4 PTS),,,60 - 40,-20,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,323,6,2,3,8:35 PM,4:58,A. Miller S.FOUL (P2.T3),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,324,3,11,3,8:35 PM,4:58,,,Holiday Free Throw 1 of 2 (5 PTS),61 - 40,-21,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,326,8,0,3,8:36 PM,4:58,SUB: Seraphin FOR Nene,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,327,8,0,3,8:36 PM,4:58,,,SUB: Miller FOR Evans,,,5,201936,Tyreke Evans,1610612740.0,New Orleans,Pelicans,NOP,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,328,8,0,3,8:36 PM,4:58,SUB: James FOR A. Miller,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,329,3,12,3,8:36 PM,4:58,,,Holiday Free Throw 2 of 2 (6 PTS),62 - 40,-22,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,332,2,1,3,8:36 PM,4:48,MISS Porter 17' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,333,4,0,3,8:36 PM,4:47,,,Anderson REBOUND (Off:5 Def:3),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,334,2,1,3,8:36 PM,4:37,,,MISS Anderson 25' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,335,4,0,3,8:36 PM,4:36,James REBOUND (Off:0 Def:1),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,336,1,58,3,8:37 PM,4:25,Seraphin 6' Turnaround Hook Shot (2 PTS),,,62 - 42,-20,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,337,1,1,3,8:37 PM,4:08,,,Anderson 19' Jump Shot (11 PTS) (Asik 2 AST),64 - 42,-22,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,338,2,1,3,8:37 PM,3:51,MISS Temple 26' 3PT Jump Shot,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,339,4,0,3,8:37 PM,3:49,Gortat REBOUND (Off:1 Def:6),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,340,2,5,3,8:37 PM,3:47,MISS Gortat 1' Layup,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,341,4,0,3,8:37 PM,3:46,Gortat REBOUND (Off:2 Def:6),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,342,1,5,3,8:37 PM,3:44,Gortat 3' Layup (8 PTS),,,64 - 44,-20,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,343,2,1,3,8:38 PM,3:26,,,MISS Gordon 9' Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,344,4,0,3,8:38 PM,3:25,Gortat REBOUND (Off:2 Def:7),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,345,2,1,3,8:38 PM,3:14,MISS Seraphin 8' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,346,4,0,3,8:38 PM,3:13,,,Asik REBOUND (Off:3 Def:8),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,347,5,1,3,8:38 PM,3:02,,,Gordon Bad Pass Turnover (P3.T13),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,348,8,0,3,8:38 PM,3:02,SUB: Blair FOR Gortat,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,349,6,4,3,8:39 PM,2:46,Blair OFF.Foul (P1),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,350,5,5,3,8:39 PM,2:46,Blair Foul Turnover (P2.T14),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,351,9,1,3,8:39 PM,2:46,,,Pelicans Timeout: Regular (Reg.3 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,352,8,0,3,8:39 PM,2:46,,,SUB: Ajinca FOR Asik,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,354,8,0,3,8:41 PM,2:46,,,SUB: Rivers FOR Holiday,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,355,8,0,3,8:41 PM,2:46,,,SUB: Salmons FOR Gordon,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,356,8,0,3,8:41 PM,2:46,,,SUB: Withey FOR Anderson,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,357,2,1,3,8:42 PM,2:27,,,MISS Miller 3' Jump Shot,,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,358,4,0,3,8:42 PM,2:26,Seraphin REBOUND (Off:2 Def:1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,359,2,1,3,8:42 PM,2:12,MISS James 12' Jump Shot,,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,360,4,0,3,8:42 PM,2:11,,,Ajinca REBOUND (Off:1 Def:1),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,361,6,2,3,8:42 PM,2:01,Blair S.FOUL (P2.T4),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,362,3,11,3,8:42 PM,2:01,,,Ajinca Free Throw 1 of 2 (3 PTS),65 - 44,-21,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,364,3,12,3,8:42 PM,2:01,,,Ajinca Free Throw 2 of 2 (4 PTS),66 - 44,-22,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,367,5,1,3,8:43 PM,1:47,Temple Bad Pass Turnover (P2.T15),,Rivers STEAL (1 STL),,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,368,5,40,3,8:43 PM,1:29,,,Rivers Out of Bounds Lost Ball Turnover (P1.T14),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,369,6,1,3,8:43 PM,1:29,,,Miller P.FOUL (P1.T4),,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,370,1,1,3,8:44 PM,1:16,Seraphin 14' Jump Shot (4 PTS) (Porter 2 AST),,,66 - 46,-20,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,371,6,4,3,8:44 PM,0:59,,,Withey OFF.Foul (P1),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,372,5,5,3,8:44 PM,0:59,,,Withey Foul Turnover (P1.T15),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,374,2,1,3,8:45 PM,0:49,MISS Blair 4' Jump Shot,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,375,4,0,3,8:45 PM,0:48,,,Rivers REBOUND (Off:0 Def:2),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,376,5,1,3,8:45 PM,0:40,James STEAL (1 STL),,Rivers Bad Pass Turnover (P2.T16),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,377,1,75,3,8:45 PM,0:33,Temple 2' Driving Finger Roll Layup (10 PTS),,,66 - 48,-18,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,378,1,1,3,8:45 PM,0:24,,,Salmons 27' 3PT Jump Shot (3 PTS) (Rivers 2 AST),69 - 48,-21,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,379,2,1,3,8:46 PM,0:01,MISS Temple 25' 3PT Jump Shot,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,380,4,0,3,8:46 PM,0:00,Blair REBOUND (Off:1 Def:0),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,383,18,0,3,8:46 PM,0:00,,Instant Replay3rd Period (8:46 PM EST),,69 - 48,-21,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400085,381,13,0,3,8:46 PM,0:00,,End of 3rd Period (8:46 PM EST),,69 - 48,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,385,12,0,4,8:48 PM,12:00,,Start of 4th Period (8:48 PM EST),,69 - 48,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,386,6,1,4,8:49 PM,11:45,,,Miller P.FOUL (P2.T1),,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,387,2,1,4,8:49 PM,11:34,MISS Seraphin 12' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,388,4,0,4,8:49 PM,11:33,Blair REBOUND (Off:2 Def:0),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,389,2,5,4,8:49 PM,11:31,MISS Blair 2' Layup,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,390,4,0,4,8:49 PM,11:30,Porter REBOUND (Off:1 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,391,1,42,4,8:50 PM,11:19,James  Driving Layup (2 PTS),,,69 - 50,-19,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,392,2,1,4,8:50 PM,10:56,,,MISS Rivers 3' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,393,4,0,4,8:50 PM,10:55,,,Ajinca REBOUND (Off:2 Def:1),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,394,6,2,4,8:50 PM,10:55,Porter S.FOUL (P2.T1),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,395,3,11,4,8:50 PM,10:55,,,MISS Ajinca Free Throw 1 of 2,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,396,4,1,4,8:50 PM,10:55,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,397,3,12,4,8:51 PM,10:55,,,Ajinca Free Throw 2 of 2 (5 PTS),70 - 50,-20,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,400,1,58,4,8:51 PM,10:39,Seraphin 4' Turnaround Hook Shot (6 PTS),,,70 - 52,-18,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,401,1,5,4,8:51 PM,10:20,,,Ajinca 2' Layup (7 PTS) (Miller 1 AST),72 - 52,-20,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,402,6,2,4,8:52 PM,9:53,,,Ajinca S.FOUL (P3.T2),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,403,3,11,4,8:52 PM,9:53,MISS Seraphin Free Throw 1 of 2,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,404,4,1,4,8:52 PM,9:53,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,405,8,0,4,8:52 PM,9:53,SUB: Butler FOR Porter,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,406,3,12,4,8:52 PM,9:53,MISS Seraphin Free Throw 2 of 2,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,408,4,0,4,8:53 PM,9:52,,,Ajinca REBOUND (Off:2 Def:2),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,410,2,1,4,8:53 PM,9:36,,,MISS Salmons 17' Jump Shot,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,411,4,0,4,8:53 PM,9:34,James REBOUND (Off:0 Def:2),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,412,1,56,4,8:53 PM,9:23,Seraphin 10' Running Hook Shot (8 PTS),,,72 - 54,-18,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,413,6,29,4,8:53 PM,9:01,Seraphin Shooting Block Foul (P2.T2),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,414,3,11,4,8:54 PM,9:01,,,MISS Rivers Free Throw 1 of 2,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,415,4,1,4,8:54 PM,9:01,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,416,3,12,4,8:54 PM,9:01,,,Rivers Free Throw 2 of 2 (6 PTS),73 - 54,-19,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,419,6,1,4,8:54 PM,8:50,,,Salmons P.FOUL (P4.T3),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,420,9,4,4,8:54 PM,8:50,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,422,1,58,4,8:57 PM,8:39,Seraphin 9' Turnaround Hook Shot (10 PTS),,,73 - 56,-17,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,423,6,1,4,8:57 PM,8:28,Seraphin P.FOUL (P3.T3),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,424,1,78,4,8:58 PM,8:13,,,Rivers 14' Floating Jump Shot (8 PTS) (Withey 1 AST),75 - 56,-19,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,425,6,1,4,8:58 PM,7:58,,,Miller P.FOUL (P3.T4),,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,426,8,0,4,8:58 PM,7:58,,,SUB: Young FOR Ajinca,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,427,6,4,4,8:59 PM,7:50,Blair OFF.Foul (P3),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,428,5,5,4,8:59 PM,7:50,Blair Foul Turnover (P3.T16),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400085,429,5,1,4,8:59 PM,7:39,Blair STEAL (1 STL),,Salmons Bad Pass Turnover (P2.T17),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,432,1,42,4,9:00 PM,7:26,Seraphin 3' Driving Layup (12 PTS) (Butler 1 AST),,,75 - 58,-17,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,433,2,1,4,9:00 PM,7:09,,,MISS Withey 17' Jump Shot,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,434,4,0,4,9:00 PM,7:08,Temple REBOUND (Off:0 Def:3),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,435,1,86,4,9:00 PM,7:01,Blair 4' Turnaround Fadeaway (2 PTS),,,75 - 60,-15,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,436,6,2,4,9:00 PM,7:01,,,Withey S.FOUL (P2.PN),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,437,3,10,4,9:00 PM,7:01,MISS Blair Free Throw 1 of 1,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,439,4,0,4,9:01 PM,7:00,,,Rivers REBOUND (Off:0 Def:3),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,440,1,1,4,9:01 PM,6:51,,,Miller 25' 3PT Jump Shot (3 PTS) (Rivers 3 AST),78 - 60,-18,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,441,2,5,4,9:01 PM,6:38,MISS Blair 3' Layup,,Withey BLOCK (1 BLK),,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400085,442,4,0,4,9:02 PM,6:38,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,443,2,1,4,9:02 PM,6:33,MISS James 15' Jump Shot,,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,444,4,0,4,9:02 PM,6:32,Seraphin REBOUND (Off:3 Def:1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,445,2,1,4,9:02 PM,6:29,MISS Seraphin 6' Jump Shot,,Withey BLOCK (2 BLK),,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400085,446,4,0,4,9:02 PM,6:28,James REBOUND (Off:1 Def:2),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,447,5,2,4,9:02 PM,6:26,James Lost Ball Turnover (P1.T17),,Miller STEAL (1 STL),,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,448,5,4,4,9:02 PM,6:13,,,Young Traveling Turnover (P1.T18),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,450,1,44,4,9:03 PM,5:57,Blair 1' Reverse Layup (4 PTS) (Temple 3 AST),,,78 - 62,-16,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,451,2,1,4,9:03 PM,5:40,,,MISS Salmons 26' 3PT Jump Shot,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,452,4,0,4,9:03 PM,5:39,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,453,9,1,4,9:03 PM,5:37,WIZARDS Timeout: Regular (Full 4 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,455,8,0,4,9:06 PM,5:37,,,SUB: Ajinca FOR Withey,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,456,2,1,4,9:06 PM,5:21,,,MISS Ajinca 14' Jump Shot,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,457,4,0,4,9:06 PM,5:20,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,458,5,1,4,9:07 PM,5:07,,,Miller Bad Pass Turnover (P1.T19),,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,459,1,42,4,9:07 PM,4:53,Blair  Driving Layup (6 PTS) (Butler 2 AST),,,78 - 64,-14,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,460,5,1,4,9:07 PM,4:38,Blair STEAL (2 STL),,Salmons Bad Pass Turnover (P3.T20),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,461,1,8,4,9:07 PM,4:34,James  Slam Dunk (4 PTS) (Temple 4 AST),,,78 - 66,-12,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,462,1,1,4,9:08 PM,4:10,,,Miller 26' 3PT Jump Shot (6 PTS) (Ajinca 1 AST),81 - 66,-15,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,463,1,44,4,9:08 PM,3:51,Blair 1' Reverse Layup (8 PTS),,,81 - 68,-13,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,464,6,1,4,9:08 PM,3:30,James P.FOUL (P1.T4),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,465,8,0,4,9:09 PM,3:30,,,SUB: Fredette FOR Salmons,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,466,8,0,4,9:09 PM,3:30,SUB: Porter FOR Butler,,,,,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,468,5,4,4,9:09 PM,3:22,,,Young Traveling Turnover (P2.T21),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,469,2,1,4,9:10 PM,3:06,MISS Blair 5' Jump Shot,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,470,4,0,4,9:10 PM,3:05,,,Ajinca REBOUND (Off:2 Def:3),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,471,5,1,4,9:10 PM,3:04,,,Miller Bad Pass Turnover (P2.T22),,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400085,472,6,1,4,9:10 PM,2:57,,,Rivers P.FOUL (P1.PN),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,473,9,1,4,9:10 PM,2:57,,,Pelicans Timeout: Regular (Reg.4 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,475,3,11,4,9:13 PM,2:57,Porter Free Throw 1 of 2 (8 PTS),,,81 - 69,-12,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,477,3,12,4,9:13 PM,2:57,Porter Free Throw 2 of 2 (9 PTS),,,81 - 70,-11,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,480,2,1,4,9:13 PM,2:40,,,MISS Fredette 20' Jump Shot,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,481,4,0,4,9:13 PM,2:39,,,Ajinca REBOUND (Off:3 Def:3),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,482,5,2,4,9:13 PM,2:35,Temple STEAL (1 STL),,Ajinca Lost Ball Turnover (P3.T23),,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,483,6,2,4,9:14 PM,2:19,,,Rivers S.FOUL (P2.PN),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,484,3,11,4,9:14 PM,2:19,Temple Free Throw 1 of 2 (11 PTS),,,81 - 71,-10,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,486,3,12,4,9:14 PM,2:19,Temple Free Throw 2 of 2 (12 PTS),,,81 - 72,-9,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,489,6,1,4,9:15 PM,1:59,James P.FOUL (P2.PN),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,490,3,11,4,9:15 PM,1:59,,,Miller Free Throw 1 of 2 (7 PTS),82 - 72,-10,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,492,3,12,4,9:15 PM,1:59,,,Miller Free Throw 2 of 2 (8 PTS),83 - 72,-11,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,494,6,2,4,9:16 PM,1:50,,,Rivers S.FOUL (P3.PN),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,495,3,11,4,9:16 PM,1:50,Temple Free Throw 1 of 2 (13 PTS),,,83 - 73,-10,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,497,3,12,4,9:16 PM,1:50,MISS Temple Free Throw 2 of 2,,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,499,4,0,4,9:16 PM,1:48,Seraphin REBOUND (Off:4 Def:1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,500,6,1,4,9:16 PM,1:47,,,Young P.FOUL (P1.PN),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,501,3,11,4,9:17 PM,1:47,MISS Porter Free Throw 1 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,502,4,1,4,9:17 PM,1:47,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,503,3,12,4,9:17 PM,1:47,Porter Free Throw 2 of 2 (10 PTS),,,83 - 74,-9,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,506,5,13,4,9:17 PM,1:40,,,Pelicans Turnover: Backcourt (T#24),,,3,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400085,507,1,1,4,9:18 PM,1:31,Seraphin 14' Jump Shot (14 PTS) (Temple 5 AST),,,83 - 76,-7,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,508,6,1,4,9:18 PM,1:30,Temple P.FOUL (P4.PN),,,,,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,509,3,11,4,9:19 PM,1:30,,,Rivers Free Throw 1 of 2 (9 PTS),84 - 76,-8,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,511,3,12,4,9:19 PM,1:30,,,Rivers Free Throw 2 of 2 (10 PTS),85 - 76,-9,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,514,2,1,4,9:19 PM,1:15,MISS Seraphin 11' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,515,4,0,4,9:19 PM,1:13,,,Rivers REBOUND (Off:0 Def:4),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,516,5,2,4,9:20 PM,0:54,James STEAL (2 STL),,Rivers Lost Ball Turnover (P3.T25),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,517,1,41,4,9:20 PM,0:49,Porter  Running Layup (12 PTS) (James 1 AST),,,85 - 78,-7,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,518,9,1,4,9:20 PM,0:49,,,Pelicans Timeout: Regular (Reg.5 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,519,6,2,4,9:22 PM,0:32,James S.FOUL (P3.PN),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,520,3,11,4,9:22 PM,0:32,,,Ajinca Free Throw 1 of 2 (8 PTS),86 - 78,-8,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,522,3,12,4,9:23 PM,0:32,,,MISS Ajinca Free Throw 2 of 2,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,524,4,0,4,9:23 PM,0:31,James REBOUND (Off:1 Def:3),,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,525,9,1,4,9:23 PM,0:31,WIZARDS Timeout: Regular (Full 5 Short 1),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,526,8,0,4,9:23 PM,0:31,SUB: Butler FOR Blair,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,528,8,0,4,9:24 PM,0:31,,,SUB: Babbitt FOR Fredette,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,529,1,1,4,9:25 PM,0:24,Butler 26' 3PT Jump Shot (5 PTS) (Porter 3 AST),,,86 - 81,-5,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,530,9,2,4,9:25 PM,0:24,,,Pelicans Timeout: Short (Reg.5 Short 1),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,532,8,0,4,9:26 PM,0:24,,,SUB: Fredette FOR Young,,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,533,6,1,4,9:26 PM,0:23,Porter P.FOUL (P3.PN),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,534,3,11,4,9:27 PM,0:23,,,MISS Fredette Free Throw 1 of 2,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,535,4,1,4,9:27 PM,0:23,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,536,3,12,4,9:27 PM,0:23,,,Fredette Free Throw 2 of 2 (3 PTS),87 - 81,-6,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,538,9,2,4,9:27 PM,0:23,WIZARDS Timeout: Short (Full 5 Short 2),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,540,8,0,4,9:28 PM,0:23,,,SUB: Young FOR Fredette,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,541,6,2,4,9:28 PM,0:18,,,Rivers S.FOUL (P4.PN),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400085,542,3,13,4,9:29 PM,0:18,Butler Free Throw 1 of 3 (6 PTS),,,87 - 82,-5,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,544,3,14,4,9:29 PM,0:18,Butler Free Throw 2 of 3 (7 PTS),,,87 - 83,-4,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,547,8,0,4,9:29 PM,0:18,SUB: Blair FOR James,,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,548,3,15,4,9:29 PM,0:18,Butler Free Throw 3 of 3 (8 PTS),,,87 - 84,-3,4,2446,Rasual Butler,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,550,9,2,4,9:30 PM,0:18,,,Pelicans Timeout: Short (Reg.5 Short 2),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,552,8,0,4,9:30 PM,0:18,SUB: James FOR Blair,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,553,8,0,4,9:30 PM,0:18,,,SUB: Fredette FOR Young,,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,554,8,0,4,9:31 PM,0:18,,,SUB: Salmons FOR Ajinca,,,5,201582,Alexis Ajinca,1610612740.0,New Orleans,Pelicans,NOP,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,555,5,2,4,9:31 PM,0:14,Porter STEAL (2 STL),,Fredette Lost Ball Turnover (P1.T26),,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,556,5,2,4,9:31 PM,0:10,Porter Lost Ball Turnover (P2.T18),,Fredette STEAL (1 STL),,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,557,6,1,4,9:31 PM,0:09,Seraphin P.FOUL (P4.PN),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400085,558,3,11,4,9:31 PM,0:09,,,Fredette Free Throw 1 of 2 (4 PTS),88 - 84,-4,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,560,8,0,4,9:32 PM,0:09,SUB: Blair FOR James,,,,,4,202345,Damion James,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400085,561,3,12,4,9:32 PM,0:09,,,MISS Fredette Free Throw 2 of 2,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,563,4,0,4,9:32 PM,0:09,Blair REBOUND (Off:2 Def:1),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,564,9,2,4,9:32 PM,0:09,WIZARDS Timeout: Short (Full 5 Short 3),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400085,566,8,0,4,9:32 PM,0:09,,,SUB: Young FOR Fredette,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400085,567,2,1,4,9:33 PM,0:01,MISS Porter 21' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400085,568,4,0,4,9:33 PM,0:00,,,Rivers REBOUND (Off:0 Def:5),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400085,569,13,0,4,9:33 PM,0:00,,End of 4th Period (9:33 PM EST),,88 - 84,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

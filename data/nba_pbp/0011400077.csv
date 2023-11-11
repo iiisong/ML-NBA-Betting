@@ -1,0 +1,490 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400077,1,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,2,10,0,1,7:41 PM,12:00,Jump Ball Horford vs. Drummond: Tip to Singler,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0
+0011400077,3,5,2,1,7:41 PM,11:46,Horford STEAL (1 STL),,Drummond Lost Ball Turnover (P1.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,4,1,41,1,7:42 PM,11:40,Carroll 2' Running Layup (2 PTS) (Horford 1 AST),,,0 - 2,2,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,5,1,5,1,7:42 PM,11:21,,,Smith 1' Layup (2 PTS),2 - 2,TIE,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,6,6,2,1,7:42 PM,11:01,,,Drummond S.FOUL (P1.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,7,3,11,1,7:42 PM,11:01,Millsap Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,9,3,12,1,7:43 PM,11:01,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,11,4,0,1,7:43 PM,11:00,,,Drummond REBOUND (Off:0 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,12,1,5,1,7:43 PM,10:45,,,Drummond 2' Layup (2 PTS) (Smith 1 AST),4 - 3,-1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,13,6,2,1,7:43 PM,10:45,Teague S.FOUL (P1.T1),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,14,3,10,1,7:43 PM,10:45,,,MISS Drummond Free Throw 1 of 1,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,16,4,0,1,7:44 PM,10:44,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,17,2,1,1,7:44 PM,10:34,MISS Millsap 21' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,18,4,0,1,7:44 PM,10:33,,,Smith REBOUND (Off:0 Def:1),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,19,2,58,1,7:44 PM,10:21,,,MISS Drummond 9' Turnaround Hook Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,20,4,0,1,7:44 PM,10:20,,,Smith REBOUND (Off:1 Def:1),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,22,1,1,1,7:44 PM,10:10,,,Smith 19' Jump Shot (4 PTS) (Jennings 1 AST),6 - 3,-3,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,23,1,77,1,7:44 PM,9:57,Teague 9' Driving Jump Shot (2 PTS),,,6 - 5,-1,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,24,2,1,1,7:45 PM,9:33,,,MISS Singler 6' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,25,4,0,1,7:45 PM,9:31,Horford REBOUND (Off:0 Def:2),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,26,1,1,1,7:45 PM,9:24,Carroll 25' 3PT Jump Shot (5 PTS) (Horford 2 AST),,,6 - 8,2,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,28,2,5,1,7:45 PM,9:06,Horford BLOCK (1 BLK),,MISS Drummond 2' Layup,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0
+0011400077,29,4,0,1,7:45 PM,9:04,Korver REBOUND (Off:0 Def:1),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,30,1,1,1,7:45 PM,8:56,Korver 19' Jump Shot (2 PTS) (Teague 1 AST),,,6 - 10,4,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,31,6,1,1,7:46 PM,8:40,Millsap P.FOUL (P1.T2),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,32,1,1,1,7:46 PM,8:29,,,Singler 25' 3PT Jump Shot (3 PTS) (Jennings 2 AST),9 - 10,1,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,33,5,1,1,7:46 PM,8:24,Korver Bad Pass Turnover (P1.T1),,Jennings STEAL (1 STL),,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,34,2,1,1,7:46 PM,8:16,,,MISS Smith 19' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,35,4,0,1,7:46 PM,8:15,Korver REBOUND (Off:0 Def:2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,36,1,41,1,7:46 PM,8:05,Teague 2' Running Layup (4 PTS) (Millsap 1 AST),,,9 - 12,3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,37,6,1,1,7:47 PM,7:51,Carroll P.FOUL (P1.T3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,38,2,42,1,7:47 PM,7:41,,,MISS Smith 2' Driving Layup,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,39,4,0,1,7:47 PM,7:40,Millsap REBOUND (Off:0 Def:1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,40,5,1,1,7:47 PM,7:28,Teague Bad Pass Turnover (P1.T2),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,42,1,74,1,7:48 PM,7:22,,,Martin 2' Running Reverse Layup (2 PTS) (Jennings 3 AST),11 - 12,1,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,43,1,1,1,7:48 PM,7:11,Korver 25' 3PT Jump Shot (5 PTS) (Teague 2 AST),,,11 - 15,4,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,44,6,1,1,7:48 PM,6:57,Teague P.FOUL (P2.T4),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,45,8,0,1,7:48 PM,6:57,,,SUB: Butler FOR Martin,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,46,8,0,1,7:48 PM,6:57,SUB: Antic FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,47,8,0,1,7:48 PM,6:57,,,SUB: Monroe FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,48,1,77,1,7:49 PM,6:45,,,Smith 7' Driving Jump Shot (6 PTS) (Jennings 4 AST),13 - 15,2,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,49,2,1,1,7:49 PM,6:25,MISS Millsap 26' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,50,4,0,1,7:49 PM,6:24,,,Jennings REBOUND (Off:0 Def:1),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,51,1,42,1,7:49 PM,6:10,,,Monroe 1' Driving Layup (2 PTS) (Singler 1 AST),15 - 15,TIE,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,52,2,1,1,7:50 PM,6:00,MISS Antic 26' 3PT Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,53,4,0,1,7:50 PM,5:59,,,Smith REBOUND (Off:1 Def:2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,54,1,1,1,7:50 PM,5:54,,,Singler 25' 3PT Jump Shot (6 PTS) (Jennings 5 AST),18 - 15,-3,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,55,9,1,1,7:50 PM,5:52,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,59,2,1,1,7:53 PM,5:41,MISS Korver 25' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,60,4,0,1,7:53 PM,5:39,,,Monroe REBOUND (Off:0 Def:1),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,61,2,1,1,7:53 PM,5:22,,,MISS Smith 19' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,62,4,0,1,7:53 PM,5:20,Carroll REBOUND (Off:0 Def:1),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,63,6,1,1,7:53 PM,5:17,,,Singler P.FOUL (P1.T2),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,64,8,0,1,7:53 PM,5:17,SUB: Mack FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,65,2,1,1,7:55 PM,5:03,MISS Mack 20' Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,66,4,0,1,7:55 PM,5:01,,,Monroe REBOUND (Off:0 Def:2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,67,1,1,1,7:55 PM,4:50,,,Jennings 24' 3PT Jump Shot (3 PTS) (Singler 2 AST),21 - 15,-6,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,68,5,2,1,7:56 PM,4:34,Antic Lost Ball Turnover (P1.T3),,Monroe STEAL (1 STL),,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,69,2,1,1,7:56 PM,4:27,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,70,4,0,1,7:56 PM,4:26,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,71,8,0,1,7:56 PM,4:26,,,SUB: Martin FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,73,1,1,1,7:56 PM,4:18,,,Martin 21' Jump Shot (4 PTS) (Jennings 6 AST),23 - 15,-8,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,74,2,47,1,7:57 PM,4:03,MISS Millsap 5' Turnaround Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,75,4,0,1,7:57 PM,4:01,,,Butler REBOUND (Off:0 Def:1),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,76,5,1,1,7:57 PM,3:56,,,Smith Bad Pass Turnover (P1.T2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,77,8,0,1,7:57 PM,3:56,,,SUB: Augustin FOR Jennings,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,78,8,0,1,7:57 PM,3:56,SUB: Jenkins FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,80,8,0,1,7:57 PM,3:56,,,SUB: Drummond FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,81,1,1,1,7:58 PM,3:35,Mack 25' 3PT Jump Shot (3 PTS) (Jenkins 1 AST),,,23 - 18,-5,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,82,2,1,1,7:58 PM,3:12,,,MISS Martin 6' Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,83,4,0,1,7:58 PM,3:11,Millsap REBOUND (Off:0 Def:2),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,84,6,1,1,7:58 PM,3:08,,,Monroe P.FOUL (P1.T3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,85,8,0,1,7:58 PM,3:08,SUB: Bazemore FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,86,8,0,1,7:59 PM,3:08,SUB: Scott FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,89,5,1,1,8:00 PM,3:00,Antic Bad Pass Turnover (P2.T4),,Martin STEAL (1 STL),,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,90,1,50,1,8:00 PM,2:54,,,Martin  Running Dunk (6 PTS),25 - 18,-7,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,91,2,74,1,8:00 PM,2:41,MISS Bazemore 3' Running Reverse Layup,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,92,4,0,1,8:00 PM,2:40,,,Martin REBOUND (Off:0 Def:1),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,93,6,1,1,8:00 PM,2:36,Scott P.FOUL (P1.PN),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,94,9,1,1,8:00 PM,2:36,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,98,3,11,1,8:03 PM,2:36,,,Monroe Free Throw 1 of 2 (3 PTS),26 - 18,-8,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,100,3,12,1,8:03 PM,2:36,,,Monroe Free Throw 2 of 2 (4 PTS),27 - 18,-9,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,102,1,1,1,8:04 PM,2:21,Mack 25' 3PT Jump Shot (6 PTS) (Scott 1 AST),,,27 - 21,-6,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,103,2,1,1,8:04 PM,2:07,,,MISS Martin 26' 3PT Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,104,4,0,1,8:04 PM,2:05,Bazemore REBOUND (Off:0 Def:1),,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,105,5,2,1,8:04 PM,1:49,Scott Lost Ball Turnover (P1.T5),,Monroe STEAL (2 STL),,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,106,5,40,1,8:04 PM,1:38,,,Monroe Out of Bounds Lost Ball Turnover (P1.T3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,107,2,1,1,8:05 PM,1:28,MISS Antic 21' Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,108,4,0,1,8:05 PM,1:27,,,Monroe REBOUND (Off:0 Def:3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,109,2,42,1,8:05 PM,1:16,,,MISS Augustin 2' Driving Layup,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,111,4,0,1,8:05 PM,1:15,,,Drummond REBOUND (Off:1 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,110,1,4,1,8:05 PM,1:15,,,Drummond 1' Tip Shot (4 PTS),29 - 21,-8,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,113,1,1,1,8:05 PM,1:00,Jenkins 22' Jump Shot (2 PTS) (Mack 1 AST),,,29 - 23,-6,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,114,5,4,1,8:05 PM,0:49,,,Monroe Traveling Turnover (P2.T4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400077,115,1,1,1,8:06 PM,0:30,Mack 25' 3PT Jump Shot (9 PTS) (Scott 2 AST),,,29 - 26,-3,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,117,5,1,1,8:06 PM,0:12,Jenkins STEAL (1 STL),,Monroe Bad Pass Turnover (P3.T5),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,118,6,2,1,8:06 PM,0:02,,,Monroe S.FOUL (P2.T4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,119,3,11,1,8:07 PM,0:02,MISS Bazemore Free Throw 1 of 2,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,120,4,1,1,8:07 PM,0:02,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,121,3,12,1,8:07 PM,0:02,MISS Bazemore Free Throw 2 of 2,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,123,4,0,1,8:07 PM,0:01,,,Drummond REBOUND (Off:1 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,124,2,1,1,8:07 PM,0:00,,,MISS Drummond 83' 3PT Jump Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,125,4,0,1,8:08 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,127,13,0,1,8:08 PM,0:00,,End of 1st Period (8:08 PM EST),,29 - 26,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,129,12,0,2,8:11 PM,12:00,,Start of 2nd Period (8:11 PM EST),,29 - 26,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,130,2,1,2,8:11 PM,11:45,MISS Horford 17' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,131,4,0,2,8:11 PM,11:43,,,Martin REBOUND (Off:0 Def:2),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,132,1,1,2,8:11 PM,11:27,,,Augustin 20' Jump Shot (2 PTS),31 - 26,-5,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,134,1,63,2,8:12 PM,11:11,Scott 13' Fadeaway Jumper (2 PTS) (Mack 2 AST),,,31 - 28,-3,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,135,2,57,2,8:12 PM,10:57,,,MISS Smith 9' Driving Hook Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,136,4,0,2,8:12 PM,10:56,Scott REBOUND (Off:0 Def:1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,137,1,42,2,8:12 PM,10:48,Bazemore 3' Driving Layup (2 PTS),,,31 - 30,-1,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,138,6,4,2,8:12 PM,10:42,,,Martin OFF.Foul (P1),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,139,5,5,2,8:12 PM,10:42,,,Martin Foul Turnover (P1.T6),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400077,140,2,1,2,8:13 PM,10:32,MISS Horford 19' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,142,4,0,2,8:13 PM,10:29,Scott REBOUND (Off:1 Def:1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,143,6,2,2,8:13 PM,10:17,,,Drummond S.FOUL (P2.T1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,144,3,11,2,8:13 PM,10:17,MISS Bazemore Free Throw 1 of 2,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,145,4,1,2,8:13 PM,10:17,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,146,8,0,2,8:13 PM,10:17,,,SUB: Jennings FOR Martin,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,147,3,12,2,8:13 PM,10:17,Bazemore Free Throw 2 of 2 (3 PTS),,,31 - 31,TIE,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,149,2,1,2,8:14 PM,9:56,,,MISS Singler 26' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,150,4,0,2,8:14 PM,9:55,Scott REBOUND (Off:1 Def:2),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,151,2,77,2,8:14 PM,9:48,MISS Mack 8' Driving Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,152,4,0,2,8:14 PM,9:47,,,Drummond REBOUND (Off:1 Def:3),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,153,6,2,2,8:14 PM,9:42,Scott S.FOUL (P2.T1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,154,3,11,2,8:14 PM,9:42,,,Smith Free Throw 1 of 2 (7 PTS),32 - 31,-1,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,156,8,0,2,8:15 PM,9:42,SUB: Teague FOR Jenkins,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,157,3,12,2,8:15 PM,9:42,,,Smith Free Throw 2 of 2 (8 PTS),33 - 31,-2,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,160,2,1,2,8:15 PM,9:29,MISS Scott 25' 3PT Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,161,4,0,2,8:15 PM,9:28,Horford REBOUND (Off:1 Def:2),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,162,1,41,2,8:15 PM,9:24,Scott 2' Running Layup (4 PTS) (Horford 3 AST),,,33 - 33,TIE,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,163,2,1,2,8:16 PM,8:57,,,MISS Jennings 21' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,164,4,0,2,8:16 PM,8:56,Scott REBOUND (Off:1 Def:3),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,165,2,77,2,8:16 PM,8:47,MISS Teague 4' Driving Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,166,4,0,2,8:16 PM,8:45,,,Drummond REBOUND (Off:1 Def:4),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,167,2,3,2,8:16 PM,8:22,,,MISS Drummond 6' Hook Shot,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,168,4,0,2,8:16 PM,8:21,Mack REBOUND (Off:0 Def:1),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,169,5,1,2,8:16 PM,8:16,Teague Bad Pass Turnover (P2.T6),,Drummond STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,170,2,42,2,8:16 PM,8:09,,,MISS Jennings 2' Driving Layup,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,171,4,0,2,8:16 PM,8:09,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,172,9,4,2,8:17 PM,8:09,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,174,8,0,2,8:19 PM,8:09,SUB: Millsap FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,175,8,0,2,8:19 PM,8:09,SUB: Korver FOR Bazemore,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,176,8,0,2,8:19 PM,8:09,SUB: Carroll FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,177,8,0,2,8:19 PM,8:09,,,SUB: Butler FOR Augustin,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,178,5,1,2,8:19 PM,8:08,,,Butler Bad Pass Turnover (P1.T7),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,179,1,1,2,8:20 PM,7:52,Teague 26' 3PT Jump Shot (7 PTS) (Millsap 2 AST),,,33 - 36,3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,180,5,2,2,8:20 PM,7:40,Teague STEAL (1 STL),,Singler Lost Ball Turnover (P1.T8),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,181,1,50,2,8:20 PM,7:34,Horford  Running Dunk (2 PTS) (Teague 3 AST),,,33 - 38,5,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,182,9,1,2,8:20 PM,7:28,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,186,1,1,2,8:23 PM,7:16,,,Drummond 6' Jump Shot (6 PTS) (Singler 3 AST),35 - 38,3,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,187,5,1,2,8:23 PM,6:59,Teague Bad Pass Turnover (P3.T7),,Smith STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,188,1,7,2,8:23 PM,6:53,,,Drummond  Dunk (8 PTS) (Smith 2 AST),37 - 38,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,189,6,2,2,8:24 PM,6:34,,,Smith S.FOUL (P1.T2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,190,3,11,2,8:24 PM,6:34,Millsap Free Throw 1 of 2 (2 PTS),,,37 - 39,2,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,192,8,0,2,8:24 PM,6:34,SUB: Muscala FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,193,3,12,2,8:24 PM,6:34,Millsap Free Throw 2 of 2 (3 PTS),,,37 - 40,3,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,195,2,42,2,8:25 PM,6:13,Muscala BLOCK (1 BLK),,MISS Jennings 2' Driving Layup,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0
+0011400077,196,4,0,2,8:25 PM,6:11,Millsap REBOUND (Off:0 Def:3),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,197,5,39,2,8:25 PM,6:09,Teague Step Out of Bounds Turnover (P4.T8),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,198,1,5,2,8:25 PM,5:50,,,Drummond 2' Layup (10 PTS) (Smith 3 AST),39 - 40,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,199,2,77,2,8:26 PM,5:40,MISS Teague 5' Driving Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,200,4,0,2,8:26 PM,5:39,,,Drummond REBOUND (Off:1 Def:5),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,201,1,1,2,8:26 PM,5:28,,,Singler 25' 3PT Jump Shot (9 PTS) (Butler 1 AST),42 - 40,-2,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,202,2,77,2,8:26 PM,5:14,MISS Carroll 5' Driving Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,203,4,0,2,8:26 PM,5:13,,,Drummond REBOUND (Off:1 Def:6),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,204,6,2,2,8:26 PM,5:08,Muscala S.FOUL (P1.T2),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,205,3,13,2,8:27 PM,5:08,,,Singler Free Throw 1 of 3 (10 PTS),43 - 40,-3,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,207,3,14,2,8:27 PM,5:08,,,Singler Free Throw 2 of 3 (11 PTS),44 - 40,-4,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,209,3,15,2,8:27 PM,5:08,,,Singler Free Throw 3 of 3 (12 PTS),45 - 40,-5,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,212,2,1,2,8:27 PM,4:55,MISS Millsap 10' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,213,4,0,2,8:27 PM,4:54,,,Drummond REBOUND (Off:1 Def:7),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,214,1,63,2,8:28 PM,4:43,,,Smith 16' Fadeaway Jumper (10 PTS) (Jennings 7 AST),47 - 40,-7,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,215,9,1,2,8:28 PM,4:43,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,217,2,1,2,8:30 PM,4:36,MISS Korver 26' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,218,4,0,2,8:31 PM,4:33,Korver REBOUND (Off:1 Def:2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,219,1,42,2,8:31 PM,4:27,Teague 1' Driving Layup (9 PTS),,,47 - 42,-5,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,221,1,41,2,8:31 PM,4:11,,,Drummond 2' Running Layup (12 PTS) (Jennings 8 AST),49 - 42,-7,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,222,6,2,2,8:31 PM,4:11,Muscala S.FOUL (P2.T3),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,287,8,0,2,8:31 PM,4:11,,,SUB: Augustin FOR Jennings,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,223,3,10,2,8:31 PM,4:11,,,MISS Drummond Free Throw 1 of 1,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,225,4,0,2,8:31 PM,4:10,Carroll REBOUND (Off:0 Def:2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,226,6,2,2,8:32 PM,3:59,,,Singler S.FOUL (P2.T3),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,227,3,11,2,8:32 PM,3:59,Carroll Free Throw 1 of 2 (6 PTS),,,49 - 43,-6,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,229,8,0,2,8:32 PM,3:59,,,SUB: Martin FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,230,3,12,2,8:32 PM,3:59,Carroll Free Throw 2 of 2 (7 PTS),,,49 - 44,-5,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,233,6,26,2,8:33 PM,3:46,,,Smith Offensive Charge Foul (P2.T4),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,234,5,5,2,8:33 PM,3:46,,,Smith Foul Turnover (P2.T9),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400077,235,8,0,2,8:33 PM,3:46,,,SUB: Monroe FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,236,2,1,2,8:33 PM,3:33,MISS Carroll  3PT Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,237,4,0,2,8:33 PM,3:32,,,Monroe REBOUND (Off:0 Def:4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,238,6,1,2,8:34 PM,3:18,Millsap P.FOUL (P2.T4),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,240,2,1,2,8:34 PM,3:08,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,241,4,0,2,8:34 PM,3:07,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,242,6,1,2,8:34 PM,3:07,Muscala P.FOUL (P3.PN),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,243,3,11,2,8:34 PM,3:07,,,MISS Monroe Free Throw 1 of 2,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,244,4,1,2,8:34 PM,3:07,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,245,3,12,2,8:35 PM,3:07,,,Monroe Free Throw 2 of 2 (5 PTS),50 - 44,-6,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,248,6,1,2,8:35 PM,3:00,,,Martin P.FOUL (P2.PN),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,249,2,42,2,8:36 PM,2:52,MISS Teague 1' Driving Layup,,Monroe BLOCK (1 BLK),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0
+0011400077,250,4,0,2,8:36 PM,2:51,Carroll REBOUND (Off:1 Def:2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,251,1,42,2,8:36 PM,2:46,Teague 1' Driving Layup (11 PTS) (Millsap 3 AST),,,50 - 46,-4,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,252,1,41,2,8:37 PM,2:28,,,Martin 2' Running Layup (8 PTS) (Smith 4 AST),52 - 46,-6,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,253,2,1,2,8:37 PM,2:21,MISS Korver 25' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,254,4,0,2,8:37 PM,2:19,,,Monroe REBOUND (Off:0 Def:5),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,255,1,5,2,8:37 PM,2:09,,,Monroe 1' Layup (7 PTS) (Augustin 1 AST),54 - 46,-8,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,256,2,1,2,8:37 PM,1:54,MISS Muscala 14' Jump Shot,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,257,4,0,2,8:37 PM,1:53,,,Monroe REBOUND (Off:0 Def:6),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,259,2,1,2,8:38 PM,1:33,,,MISS Augustin 7' Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,260,4,0,2,8:38 PM,1:32,Teague REBOUND (Off:0 Def:1),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,261,1,1,2,8:38 PM,1:29,Teague 13' Jump Shot (13 PTS),,,54 - 48,-6,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,263,2,1,2,8:38 PM,1:07,Korver BLOCK (1 BLK),,MISS Martin 18' Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0
+0011400077,264,4,0,2,8:38 PM,1:04,Carroll REBOUND (Off:1 Def:3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,265,6,2,2,8:38 PM,1:01,,,Butler S.FOUL (P1.PN),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,266,3,11,2,8:38 PM,1:01,Carroll Free Throw 1 of 2 (8 PTS),,,54 - 49,-5,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,268,8,0,2,8:39 PM,1:01,SUB: Schroder FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,269,8,0,2,8:39 PM,1:01,SUB: Bazemore FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,270,8,0,2,8:39 PM,1:01,,,SUB: Drummond FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,271,3,12,2,8:39 PM,1:01,Carroll Free Throw 2 of 2 (9 PTS),,,54 - 50,-4,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,273,2,1,2,8:39 PM,0:41,,,MISS Monroe 18' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,274,4,0,2,8:39 PM,0:39,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,275,5,2,2,8:40 PM,0:28,Muscala Lost Ball Turnover (P1.T9),,Drummond STEAL (2 STL),,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,276,2,77,2,8:40 PM,0:08,,,MISS Augustin 7' Driving Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,277,4,0,2,8:40 PM,0:08,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,278,6,3,2,8:40 PM,0:08,,,Monroe L.B.FOUL (P3.PN),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,279,3,11,2,8:41 PM,0:08,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,280,4,1,2,8:41 PM,0:08,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,281,3,12,2,8:41 PM,0:08,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,283,4,0,2,8:41 PM,0:07,,,Drummond REBOUND (Off:1 Def:8),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,284,5,2,2,8:41 PM,0:04,Muscala STEAL (1 STL),,Drummond Lost Ball Turnover (P2.T10),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,285,1,5,2,8:41 PM,0:02,Muscala 1' Layup (2 PTS),,,54 - 52,-2,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,286,13,0,2,8:41 PM,0:00,,End of 2nd Period (8:41 PM EST),,54 - 52,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,289,12,0,3,8:58 PM,12:00,,Start of 3rd Period (8:58 PM EST),,54 - 52,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,290,5,11,3,8:58 PM,11:35,HAWKS Turnover: Shot Clock (T#10),,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400077,291,5,40,3,8:59 PM,11:19,,,Drummond Out of Bounds Lost Ball Turnover (P3.T11),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,292,1,1,3,8:59 PM,11:10,Korver 18' Jump Shot (7 PTS) (Carroll 1 AST),,,54 - 54,TIE,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,293,2,1,3,8:59 PM,10:57,,,MISS Martin 21' Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,294,4,0,3,8:59 PM,10:56,Millsap REBOUND (Off:0 Def:4),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,295,2,46,3,8:59 PM,10:51,MISS Horford 4' Running Jump Shot,,Drummond BLOCK (1 BLK),,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400077,296,4,0,3,8:59 PM,10:49,,,Jennings REBOUND (Off:0 Def:2),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,297,6,4,3,9:00 PM,10:33,,,Martin OFF.Foul (P3),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,298,5,5,3,9:00 PM,10:33,,,Martin Foul Turnover (P2.T12),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400077,299,1,1,3,9:00 PM,10:25,Korver 21' Jump Shot (9 PTS) (Teague 4 AST),,,54 - 56,2,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,301,1,74,3,9:00 PM,10:06,,,Singler 2' Running Reverse Layup (14 PTS) (Smith 5 AST),56 - 56,TIE,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,302,2,47,3,9:00 PM,9:57,MISS Millsap 4' Turnaround Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,303,4,0,3,9:01 PM,9:55,,,Drummond REBOUND (Off:1 Def:9),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,304,1,63,3,9:01 PM,9:43,,,Jennings 20' Fadeaway Jumper (5 PTS),58 - 56,-2,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,305,2,1,3,9:01 PM,9:32,MISS Millsap 26' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,306,4,0,3,9:01 PM,9:31,,,Drummond REBOUND (Off:1 Def:10),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,307,5,1,3,9:01 PM,9:23,Horford STEAL (2 STL),,Jennings Bad Pass Turnover (P1.T13),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,308,2,1,3,9:01 PM,9:16,MISS Carroll  3PT Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,309,4,0,3,9:01 PM,9:15,,,Martin REBOUND (Off:0 Def:3),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,310,5,1,3,9:02 PM,8:57,Millsap STEAL (1 STL),,Singler Bad Pass Turnover (P2.T14),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,311,1,41,3,9:02 PM,8:54,Carroll 1' Running Layup (11 PTS) (Teague 5 AST),,,58 - 58,TIE,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,312,6,2,3,9:02 PM,8:54,,,Jennings S.FOUL (P1.T1),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,313,3,10,3,9:02 PM,8:54,Carroll Free Throw 1 of 1 (12 PTS),,,58 - 59,1,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,315,2,1,3,9:02 PM,8:42,,,MISS Smith 16' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,316,4,0,3,9:02 PM,8:40,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,317,1,1,3,9:02 PM,8:28,Horford 20' Jump Shot (4 PTS) (Teague 6 AST),,,58 - 61,3,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,318,9,1,3,9:03 PM,8:27,,,Pistons Timeout: Regular (Reg.3 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,320,2,57,3,9:05 PM,8:08,,,MISS Smith 12' Driving Hook Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,321,4,0,3,9:05 PM,8:07,Horford REBOUND (Off:1 Def:4),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,322,5,1,3,9:06 PM,7:59,Teague Bad Pass Turnover (P5.T11),,Singler STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,323,2,5,3,9:06 PM,7:52,,,MISS Singler 1' Layup,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,324,4,0,3,9:06 PM,7:51,,,Jennings REBOUND (Off:1 Def:2),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,325,2,1,3,9:06 PM,7:38,,,MISS Smith 20' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,326,4,0,3,9:06 PM,7:36,Teague REBOUND (Off:0 Def:2),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,327,1,42,3,9:06 PM,7:26,Carroll 1' Driving Layup (14 PTS) (Millsap 4 AST),,,58 - 63,5,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,328,2,1,3,9:07 PM,7:04,,,MISS Jennings 18' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,329,4,0,3,9:07 PM,7:03,Horford REBOUND (Off:1 Def:5),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,330,2,1,3,9:07 PM,6:43,MISS Horford 17' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,331,4,0,3,9:07 PM,6:41,Millsap REBOUND (Off:1 Def:4),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,332,1,5,3,9:07 PM,6:35,Horford 1' Layup (6 PTS) (Millsap 5 AST),,,58 - 65,7,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,333,1,3,3,9:07 PM,6:05,,,Smith 7' Hook Shot (12 PTS),60 - 65,5,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,335,2,5,3,9:08 PM,5:57,MISS Horford 1' Layup,,Singler BLOCK (1 BLK),,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0
+0011400077,336,4,0,3,9:08 PM,5:55,,,Smith REBOUND (Off:1 Def:3),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,337,2,1,3,9:08 PM,5:50,,,MISS Martin  3PT Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,338,4,0,3,9:08 PM,5:46,Carroll REBOUND (Off:1 Def:4),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,339,2,44,3,9:08 PM,5:40,MISS Horford 1' Reverse Layup,,Drummond BLOCK (2 BLK),,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400077,340,4,0,3,9:08 PM,5:38,,,Smith REBOUND (Off:1 Def:4),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,341,1,1,3,9:08 PM,5:29,,,Smith 3' Jump Shot (14 PTS) (Jennings 9 AST),62 - 65,3,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,342,9,1,3,9:08 PM,5:29,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,344,8,0,3,9:10 PM,5:29,SUB: Antic FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,345,8,0,3,9:11 PM,5:29,,,SUB: Butler FOR Martin,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,346,8,0,3,9:11 PM,5:29,,,SUB: Augustin FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,347,8,0,3,9:11 PM,5:29,,,SUB: Jerebko FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,348,8,0,3,9:11 PM,5:29,,,SUB: Monroe FOR Jennings,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,349,1,1,3,9:11 PM,5:15,Korver 26' 3PT Jump Shot (12 PTS) (Teague 7 AST),,,62 - 68,6,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,350,5,2,3,9:11 PM,4:51,Millsap STEAL (2 STL),,Augustin Lost Ball Turnover (P1.T15),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,351,6,1,3,9:12 PM,4:47,,,Jerebko P.FOUL (P1.T2),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,353,6,11,3,9:15 PM,4:47,Teague T.FOUL (P2.T0),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400077,358,8,0,3,9:15 PM,4:47,SUB: Mack FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,354,3,16,3,9:15 PM,4:47,,,Augustin Free Throw Technical (3 PTS),63 - 68,5,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,356,2,5,3,9:16 PM,4:33,MISS Millsap 1' Layup,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,357,4,0,3,9:16 PM,4:32,,,Jerebko REBOUND (Off:0 Def:1),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,359,1,1,3,9:16 PM,4:12,,,Augustin 20' Jump Shot (5 PTS) (Butler 2 AST),65 - 68,3,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,360,1,1,3,9:16 PM,3:49,Antic 25' 3PT Jump Shot (3 PTS) (Millsap 6 AST),,,65 - 71,6,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,361,2,1,3,9:17 PM,3:27,,,MISS Jerebko 25' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,362,4,0,3,9:17 PM,3:26,Korver REBOUND (Off:1 Def:3),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,363,2,47,3,9:17 PM,3:13,MISS Mack 8' Turnaround Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,364,4,0,3,9:17 PM,3:11,,,Monroe REBOUND (Off:0 Def:7),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,365,2,1,3,9:17 PM,3:04,,,MISS Augustin 19' Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,366,4,0,3,9:17 PM,3:03,Millsap REBOUND (Off:1 Def:5),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,367,6,2,3,9:17 PM,2:52,,,Monroe S.FOUL (P4.T3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,368,3,11,3,9:17 PM,2:52,MISS Antic Free Throw 1 of 2,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,369,4,1,3,9:17 PM,2:52,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,370,8,0,3,9:18 PM,2:52,SUB: Scott FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,371,8,0,3,9:18 PM,2:52,SUB: Bazemore FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,372,3,12,3,9:18 PM,2:52,Antic Free Throw 2 of 2 (4 PTS),,,65 - 72,7,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,375,2,1,3,9:19 PM,2:33,,,MISS Augustin 25' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,376,4,0,3,9:19 PM,2:31,,,Jerebko REBOUND (Off:1 Def:1),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,377,2,1,3,9:19 PM,2:19,,,MISS Butler 26' 3PT Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,378,4,0,3,9:19 PM,2:18,,,Monroe REBOUND (Off:1 Def:7),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,379,6,1,3,9:19 PM,2:18,Mack P.FOUL (P1.T1),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,380,6,1,3,9:19 PM,2:10,Bazemore P.FOUL (P1.T2),,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,381,2,1,3,9:20 PM,1:59,,,MISS Singler 25' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,382,4,0,3,9:20 PM,1:58,Mack REBOUND (Off:0 Def:2),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,383,5,1,3,9:20 PM,1:48,Mack Bad Pass Turnover (P1.T12),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,384,8,0,3,9:20 PM,1:48,SUB: Jenkins FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,386,8,0,3,9:20 PM,1:48,,,SUB: Jennings FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,387,1,77,3,9:21 PM,1:27,,,Jerebko 5' Driving Jump Shot (2 PTS) (Jennings 10 AST),67 - 72,5,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,388,6,29,3,9:21 PM,1:27,Bazemore Shooting Block Foul (P2.T3),,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,389,3,10,3,9:21 PM,1:27,,,Jerebko Free Throw 1 of 1 (3 PTS),68 - 72,4,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,391,6,1,3,9:22 PM,1:16,,,Jerebko P.FOUL (P2.T4),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,392,2,1,3,9:22 PM,1:05,MISS Antic 27' 3PT Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,393,4,0,3,9:22 PM,1:04,,,Butler REBOUND (Off:0 Def:2),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,394,6,4,3,9:22 PM,1:01,,,Monroe OFF.Foul (P5),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,395,5,5,3,9:22 PM,1:01,,,Monroe Foul Turnover (P4.T16),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400077,396,8,0,3,9:22 PM,1:01,,,SUB: Drummond FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,397,2,77,3,9:23 PM,0:48,MISS Bazemore 9' Driving Jump Shot,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,398,4,0,3,9:23 PM,0:44,,,Drummond REBOUND (Off:1 Def:11),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,399,6,2,3,9:23 PM,0:42,Bazemore S.FOUL (P3.PN),,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,400,3,11,3,9:23 PM,0:42,,,MISS Jerebko Free Throw 1 of 2,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,401,4,1,3,9:23 PM,0:42,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,402,3,12,3,9:23 PM,0:42,,,Jerebko Free Throw 2 of 2 (4 PTS),69 - 72,3,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,405,1,1,3,9:24 PM,0:32,Mack 26' 3PT Jump Shot (12 PTS),,,69 - 75,6,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,406,2,1,3,9:24 PM,0:16,,,MISS Jennings 25' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,407,4,0,3,9:24 PM,0:16,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,408,6,3,3,9:24 PM,0:16,,,Drummond L.B.FOUL (P3.PN),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,409,3,11,3,9:24 PM,0:16,Antic Free Throw 1 of 2 (5 PTS),,,69 - 76,7,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,411,3,12,3,9:25 PM,0:16,Antic Free Throw 2 of 2 (6 PTS),,,69 - 77,8,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,413,2,63,3,9:25 PM,0:00,,,MISS Jennings 26' 3PT Fadeaway Jumper,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,414,4,0,3,9:25 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,415,13,0,3,9:25 PM,0:00,,End of 3rd Period (9:25 PM EST),,69 - 77,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,418,12,0,4,9:28 PM,12:00,,Start of 4th Period (9:28 PM EST),,69 - 77,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,419,1,1,4,9:28 PM,11:49,,,Augustin 26' 3PT Jump Shot (8 PTS),72 - 77,5,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,420,1,1,4,9:29 PM,11:34,Jenkins 25' 3PT Jump Shot (5 PTS) (Bazemore 1 AST),,,72 - 80,8,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,421,1,5,4,9:29 PM,11:09,,,Drummond 3' Layup (14 PTS) (Augustin 2 AST),74 - 80,6,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,422,2,1,4,9:29 PM,10:58,MISS Mack 24' 3PT Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,423,4,0,4,9:29 PM,10:56,,,Butler REBOUND (Off:0 Def:3),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,424,6,29,4,9:30 PM,10:48,Scott Shooting Block Foul (P3.T1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,425,3,11,4,9:30 PM,10:48,,,MISS Augustin Free Throw 1 of 2,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,426,4,1,4,9:30 PM,10:48,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,427,3,12,4,9:30 PM,10:48,,,MISS Augustin Free Throw 2 of 2,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,429,4,0,4,9:30 PM,10:47,Scott REBOUND (Off:1 Def:4),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,431,1,3,4,9:31 PM,10:30,Horford 7' Hook Shot (8 PTS),,,74 - 82,8,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,432,2,7,4,9:31 PM,10:13,,,MISS Drummond  Dunk,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,433,4,0,4,9:31 PM,10:11,Jenkins REBOUND (Off:0 Def:1),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,434,1,5,4,9:31 PM,10:07,Horford 1' Layup (10 PTS) (Bazemore 2 AST),,,74 - 84,10,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,435,9,1,4,9:31 PM,10:07,,,Pistons Timeout: Regular (Reg.4 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,437,8,0,4,9:33 PM,10:07,,,SUB: Singler FOR Butler,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,439,2,1,4,9:34 PM,9:54,,,MISS Augustin 25' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,440,4,0,4,9:34 PM,9:53,Mack REBOUND (Off:0 Def:3),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,441,2,77,4,9:34 PM,9:40,MISS Horford 4' Driving Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,442,4,0,4,9:34 PM,9:39,,,Jerebko REBOUND (Off:1 Def:2),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,443,5,2,4,9:34 PM,9:17,Bazemore STEAL (1 STL),,Drummond Lost Ball Turnover (P4.T17),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,444,1,5,4,9:34 PM,9:10,Scott 2' Layup (6 PTS) (Horford 4 AST),,,74 - 86,12,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,445,9,2,4,9:34 PM,9:10,,,Pistons Timeout: Short (Reg.4 Short 1),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,446,1,1,4,9:36 PM,8:48,,,Jennings 25' 3PT Jump Shot (8 PTS) (Augustin 3 AST),77 - 86,9,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,447,1,5,4,9:36 PM,8:30,Horford 3' Layup (12 PTS),,,77 - 88,11,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,448,6,1,4,9:36 PM,8:17,Bazemore P.FOUL (P4.T2),,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,449,8,0,4,9:36 PM,8:17,SUB: Teague FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,450,8,0,4,9:37 PM,8:17,SUB: Korver FOR Bazemore,,,,,4,203145,Kent Bazemore,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,452,2,77,4,9:37 PM,8:03,,,MISS Augustin 10' Driving Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,453,4,0,4,9:37 PM,8:01,Korver REBOUND (Off:1 Def:4),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,454,1,5,4,9:37 PM,7:56,Scott 1' Layup (8 PTS) (Teague 8 AST),,,77 - 90,13,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,455,1,5,4,9:37 PM,7:41,,,Jerebko 1' Layup (6 PTS) (Jennings 11 AST),79 - 90,11,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,456,6,29,4,9:37 PM,7:41,Scott Shooting Block Foul (P4.T3),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,457,8,0,4,9:38 PM,7:41,SUB: Muscala FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,458,3,10,4,9:38 PM,7:41,,,Jerebko Free Throw 1 of 1 (7 PTS),80 - 90,10,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,460,2,63,4,9:38 PM,7:30,MISS Scott 15' Fadeaway Jumper,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,461,4,0,4,9:38 PM,7:27,,,Drummond REBOUND (Off:1 Def:12),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,462,1,7,4,9:38 PM,7:13,,,Drummond  Dunk (16 PTS) (Jerebko 1 AST),82 - 90,8,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,463,2,42,4,9:39 PM,6:54,MISS Teague 3' Driving Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,465,4,0,4,9:39 PM,6:52,Muscala REBOUND (Off:1 Def:0),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,464,2,4,4,9:39 PM,6:52,MISS Muscala 1' Tip Shot,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,466,4,0,4,9:39 PM,6:50,,,Jerebko REBOUND (Off:1 Def:3),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,467,6,26,4,9:39 PM,6:45,,,Augustin Offensive Charge Foul (P1.T1),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,468,5,5,4,9:39 PM,6:45,,,Augustin Foul Turnover (P2.T18),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400077,469,8,0,4,9:39 PM,6:45,SUB: Millsap FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,470,8,0,4,9:39 PM,6:45,SUB: Carroll FOR Jenkins,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,471,8,0,4,9:39 PM,6:45,,,SUB: Monroe FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,472,2,77,4,9:40 PM,6:26,MISS Carroll 12' Driving Jump Shot,,Monroe BLOCK (2 BLK),,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0
+0011400077,473,4,0,4,9:40 PM,6:26,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,474,5,1,4,9:40 PM,6:21,Millsap Bad Pass Turnover (P1.T13),,Augustin STEAL (1 STL),,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,475,1,42,4,9:40 PM,6:08,,,Augustin 3' Driving Layup (10 PTS),84 - 90,6,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,476,2,42,4,9:40 PM,6:03,MISS Teague 2' Driving Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,477,4,0,4,9:40 PM,6:02,,,Augustin REBOUND (Off:0 Def:1),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,478,2,77,4,9:40 PM,5:56,,,MISS Augustin 10' Driving Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,479,4,0,4,9:40 PM,5:55,Muscala REBOUND (Off:1 Def:1),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,480,1,1,4,9:41 PM,5:48,Korver 24' 3PT Jump Shot (15 PTS) (Teague 9 AST),,,84 - 93,9,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,482,1,1,4,9:41 PM,5:18,,,Jennings 24' 3PT Jump Shot (11 PTS) (Monroe 1 AST),87 - 93,6,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,483,2,1,4,9:41 PM,4:58,MISS Teague 26' 3PT Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,484,4,0,4,9:41 PM,4:55,,,Singler REBOUND (Off:0 Def:1),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,485,1,1,4,9:42 PM,4:47,,,Jennings 26' 3PT Jump Shot (14 PTS),90 - 93,3,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,486,9,1,4,9:42 PM,4:46,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,488,8,0,4,9:44 PM,4:46,SUB: Antic FOR Muscala,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,490,6,29,4,9:45 PM,4:34,,,Drummond Shooting Block Foul (P4.T2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,491,3,11,4,9:45 PM,4:34,Antic Free Throw 1 of 2 (7 PTS),,,90 - 94,4,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,493,3,12,4,9:45 PM,4:34,Antic Free Throw 2 of 2 (8 PTS),,,90 - 95,5,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,495,1,5,4,9:45 PM,4:22,,,Drummond 1' Layup (18 PTS) (Monroe 2 AST),92 - 95,3,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,496,6,2,4,9:45 PM,4:22,Antic S.FOUL (P1.T4),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,497,3,10,4,9:46 PM,4:22,,,Drummond Free Throw 1 of 1 (19 PTS),93 - 95,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,499,2,1,4,9:46 PM,4:13,MISS Antic 26' 3PT Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,500,4,0,4,9:46 PM,4:12,,,Jennings REBOUND (Off:1 Def:3),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,501,2,63,4,9:46 PM,3:59,,,MISS Jennings 20' Fadeaway Jumper,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,502,4,0,4,9:46 PM,3:57,Korver REBOUND (Off:1 Def:5),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,503,2,1,4,9:46 PM,3:52,MISS Teague 11' Jump Shot,,Drummond BLOCK (3 BLK),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400077,504,4,0,4,9:46 PM,3:50,,,Singler REBOUND (Off:0 Def:2),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,505,6,1,4,9:47 PM,3:49,Millsap P.FOUL (P3.PN),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,506,3,11,4,9:47 PM,3:49,,,Augustin Free Throw 1 of 2 (11 PTS),94 - 95,1,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,508,3,12,4,9:47 PM,3:49,,,Augustin Free Throw 2 of 2 (12 PTS),95 - 95,TIE,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,511,2,1,4,9:48 PM,3:28,MISS Millsap 12' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,512,4,0,4,9:48 PM,3:26,,,Drummond REBOUND (Off:1 Def:13),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,513,6,2,4,9:48 PM,3:18,Millsap S.FOUL (P4.PN),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,514,3,11,4,9:48 PM,3:18,,,Monroe Free Throw 1 of 2 (8 PTS),96 - 95,-1,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,516,3,12,4,9:49 PM,3:18,,,Monroe Free Throw 2 of 2 (9 PTS),97 - 95,-2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,520,2,1,4,9:50 PM,2:59,MISS Korver 25' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,521,4,0,4,9:50 PM,2:58,Antic REBOUND (Off:1 Def:0),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,522,6,1,4,9:50 PM,2:58,,,Jennings P.FOUL (P2.T3),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,523,9,4,4,9:50 PM,2:58,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,527,5,1,4,9:52 PM,2:51,Antic Bad Pass Turnover (P3.T14),,Jennings STEAL (2 STL),,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,528,6,1,4,9:53 PM,2:50,Carroll P.FOUL (P2.PN),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,529,3,11,4,9:53 PM,2:50,,,Jennings Free Throw 1 of 2 (15 PTS),98 - 95,-3,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,531,3,12,4,9:53 PM,2:50,,,Jennings Free Throw 2 of 2 (16 PTS),99 - 95,-4,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,533,5,1,4,9:53 PM,2:35,Carroll Bad Pass Turnover (P1.T15),,Monroe STEAL (3 STL),,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,534,1,5,4,9:54 PM,2:30,,,Monroe 1' Layup (11 PTS) (Augustin 4 AST),101 - 95,-6,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,535,9,1,4,9:54 PM,2:30,HAWKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,538,6,29,4,9:56 PM,2:18,,,Augustin Shooting Block Foul (P2.T4),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,539,3,11,4,9:56 PM,2:18,Teague Free Throw 1 of 2 (14 PTS),,,101 - 96,-5,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,541,3,12,4,9:56 PM,2:18,Teague Free Throw 2 of 2 (15 PTS),,,101 - 97,-4,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,543,2,42,4,9:57 PM,1:56,,,MISS Monroe 2' Driving Layup,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,544,4,0,4,9:57 PM,1:55,Korver REBOUND (Off:1 Def:6),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,545,6,2,4,9:57 PM,1:52,,,Singler S.FOUL (P3.PN),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,546,3,11,4,9:57 PM,1:52,MISS Teague Free Throw 1 of 2,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,547,4,1,4,9:57 PM,1:52,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,548,3,12,4,9:57 PM,1:52,Teague Free Throw 2 of 2 (16 PTS),,,101 - 98,-3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,550,2,77,4,9:58 PM,1:27,,,MISS Jennings 6' Driving Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,551,4,0,4,9:58 PM,1:26,Teague REBOUND (Off:0 Def:3),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,552,1,5,4,9:58 PM,1:20,Millsap 2' Layup (5 PTS) (Teague 10 AST),,,101 - 100,-1,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400077,553,6,1,4,9:58 PM,1:03,Korver P.FOUL (P1.PN),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,554,3,11,4,9:59 PM,1:03,,,MISS Singler Free Throw 1 of 2,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,555,4,1,4,9:59 PM,1:03,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,556,3,12,4,9:59 PM,1:03,,,Singler Free Throw 2 of 2 (15 PTS),102 - 100,-2,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,559,2,1,4,9:59 PM,0:51,MISS Millsap 12' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,560,4,0,4,9:59 PM,0:50,,,Drummond REBOUND (Off:1 Def:14),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,561,1,1,4,10:00 PM,0:32,,,Augustin 20' Jump Shot (14 PTS),104 - 100,-4,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,562,9,1,4,10:00 PM,0:32,HAWKS Timeout: Regular (Full 6 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,564,6,2,4,10:02 PM,0:29,,,Monroe S.FOUL (P6.PN),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,565,8,0,4,10:02 PM,0:29,,,SUB: Jerebko FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400077,566,3,11,4,10:02 PM,0:29,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,567,4,1,4,10:02 PM,0:29,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,568,3,12,4,10:02 PM,0:29,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,570,4,0,4,10:02 PM,0:25,Millsap REBOUND (Off:2 Def:5),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,571,6,2,4,10:03 PM,0:25,,,Singler S.FOUL (P4.PN),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400077,572,3,11,4,10:03 PM,0:25,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,573,4,1,4,10:03 PM,0:25,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,574,3,12,4,10:03 PM,0:25,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,576,4,0,4,10:03 PM,0:25,,,Drummond REBOUND (Off:1 Def:15),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,577,6,1,4,10:03 PM,0:25,Antic P.FOUL (P2.PN),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,578,3,11,4,10:04 PM,0:25,,,MISS Drummond Free Throw 1 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,579,4,1,4,10:04 PM,0:25,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,580,3,12,4,10:04 PM,0:25,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,582,4,0,4,10:05 PM,0:24,Teague REBOUND (Off:0 Def:4),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,583,2,1,4,10:05 PM,0:18,MISS Millsap 25' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,584,4,0,4,10:05 PM,0:16,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,585,6,3,4,10:05 PM,0:16,Antic L.B.FOUL (P3.PN),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400077,586,3,11,4,10:05 PM,0:16,,,MISS Drummond Free Throw 1 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,587,4,1,4,10:05 PM,0:16,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,588,3,12,4,10:05 PM,0:16,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,590,4,0,4,10:06 PM,0:15,Antic REBOUND (Off:1 Def:1),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,591,2,77,4,10:06 PM,0:10,MISS Teague 10' Driving Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,592,4,0,4,10:06 PM,0:09,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,593,9,2,4,10:06 PM,0:09,HAWKS Timeout: Short (Full 6 Short 1),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400077,595,2,1,4,10:07 PM,0:06,MISS Korver  3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400077,596,4,0,4,10:07 PM,0:05,,,Drummond REBOUND (Off:1 Def:16),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400077,597,13,0,4,10:07 PM,0:00,,End of 4th Period (10:07 PM EST),,104 - 100,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,509 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200006,2,12,0,1,6:13 PM,12:00,,Start of 1st Period (6:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,4,10,0,1,6:13 PM,12:00,Jump Ball Barnes vs. Markkanen: Tip to VanVleet,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,7,5,1,1,6:13 PM,11:45,Siakam Bad Pass Turnover (P1.T1),,Beasley STEAL (1 STL),,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,9,2,1,1,6:13 PM,11:37,,,MISS Beasley 27' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,10,4,0,1,6:13 PM,11:36,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,11,6,3,1,6:13 PM,11:36,Trent Jr. L.B.FOUL (P1.T1) (M.Kallio),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,13,2,1,1,6:13 PM,11:28,,,MISS Olynyk 19' Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,14,4,0,1,6:14 PM,11:24,VanVleet REBOUND (Off:0 Def:1),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,15,2,1,1,6:14 PM,11:16,MISS Anunoby 3PT Jump Shot,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,16,4,0,1,6:14 PM,11:12,,,Vanderbilt REBOUND (Off:0 Def:1),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,17,6,1,1,6:14 PM,11:06,Barnes P.FOUL (P1.T2) (M.Kallio),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,19,1,86,1,6:14 PM,10:57,,,Markkanen 10' Turnaround Fadeaway (2 PTS),2 - 0,-2,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,20,2,1,1,6:15 PM,10:34,MISS Siakam 24' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,21,4,0,1,6:15 PM,10:30,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,22,2,1,1,6:15 PM,10:16,,,MISS Markkanen 28' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,23,4,0,1,6:15 PM,10:12,Barnes REBOUND (Off:0 Def:1),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,25,1,1,1,6:16 PM,10:02,Anunoby 26' 3PT Jump Shot (3 PTS) (Trent Jr. 1 AST),,,2 - 3,1,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,27,2,101,1,6:16 PM,9:47,,,MISS Olynyk 9' Driving Floating Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,28,4,0,1,6:16 PM,9:44,,,Markkanen REBOUND (Off:1 Def:0),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,29,1,72,1,6:16 PM,9:43,,,Markkanen 3' Putback Layup (4 PTS),4 - 3,-1,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,30,6,2,1,6:16 PM,9:32,,,Olynyk S.FOUL (P1.T1) (M.Davis),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,32,3,11,1,6:16 PM,9:32,MISS Barnes Free Throw 1 of 2,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,33,4,1,1,6:16 PM,9:32,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,34,3,12,1,6:17 PM,9:32,Barnes Free Throw 2 of 2 (1 PTS),,,4 - 4,TIE,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,35,5,45,1,6:17 PM,9:20,,,Markkanen Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,36,2,75,1,6:17 PM,9:12,MISS Siakam 5' Driving Finger Roll Layup,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,37,4,0,1,6:17 PM,9:10,,,Olynyk REBOUND (Off:0 Def:1),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,38,2,1,1,6:17 PM,9:01,,,MISS Markkanen 25' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,39,4,0,1,6:17 PM,8:57,VanVleet REBOUND (Off:0 Def:2),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,40,6,1,1,6:18 PM,8:50,,,Conley P.FOUL (P1.T2) (D.Taylor),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,42,1,86,1,6:18 PM,8:39,Barnes 14' Turnaround Fadeaway (3 PTS),,,4 - 6,2,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,43,1,1,1,6:18 PM,8:21,,,Conley 26' 3PT Jump Shot (3 PTS) (Beasley 1 AST),7 - 6,-1,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,45,6,1,1,6:19 PM,8:03,,,Olynyk P.FOUL (P2.T3) (M.Kallio),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,47,5,45,1,6:19 PM,7:56,Siakam Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,48,2,79,1,6:19 PM,7:42,,,MISS Beasley 27' 3PT Pullup Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,49,4,0,1,6:20 PM,7:39,Barnes REBOUND (Off:0 Def:2),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,50,1,2,1,6:20 PM,7:35,VanVleet 27' 3PT Running Jump Shot (3 PTS) (Siakam 1 AST),,,7 - 9,2,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,52,1,1,1,6:20 PM,7:14,,,Beasley 27' 3PT Jump Shot (3 PTS) (Vanderbilt 1 AST),10 - 9,-1,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,54,1,1,1,6:20 PM,7:05,Trent Jr. 29' 3PT Jump Shot (3 PTS) (Barnes 1 AST),,,10 - 12,2,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,56,2,1,1,6:20 PM,6:50,,,MISS Olynyk 3PT Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,57,4,0,1,6:20 PM,6:50,VanVleet REBOUND (Off:0 Def:3),,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,58,1,50,1,6:20 PM,6:44,Siakam 3' Running Dunk (2 PTS) (VanVleet 1 AST),,,10 - 14,4,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,60,5,1,1,6:21 PM,6:28,Barnes STEAL (1 STL),,Conley Bad Pass Turnover (P1.T2),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,63,9,1,1,6:21 PM,6:24,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,64,8,0,1,6:22 PM,6:24,,,SUB: Sexton FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,66,5,2,1,6:24 PM,6:09,VanVleet Lost Ball Turnover (P1.T3),,Sexton STEAL (1 STL),,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,68,1,50,1,6:24 PM,6:06,,,Markkanen 1' Running Dunk (6 PTS) (Sexton 1 AST),12 - 14,2,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,70,5,2,1,6:24 PM,5:54,Trent Jr. Lost Ball Turnover (P1.T4),,Sexton STEAL (2 STL),,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,72,1,2,1,6:24 PM,5:49,,,Sexton 3PT Running Jump Shot (3 PTS) (Vanderbilt 2 AST),15 - 14,-1,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,74,2,1,1,6:25 PM,5:30,MISS Barnes 24' 3PT Jump Shot,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,75,4,0,1,6:25 PM,5:26,,,Markkanen REBOUND (Off:1 Def:1),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,76,5,45,1,6:25 PM,5:18,,,Sexton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,77,8,0,1,6:25 PM,5:18,SUB: Achiuwa FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,78,8,0,1,6:25 PM,5:18,SUB: Young FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,80,8,0,1,6:25 PM,5:18,,,SUB: Gay FOR Beasley,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,81,8,0,1,6:25 PM,5:18,,,SUB: Clarkson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,88,2,79,1,6:26 PM,5:11,MISS Siakam 26' 3PT Pullup Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,89,4,0,1,6:26 PM,5:09,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,91,8,0,1,6:26 PM,5:09,SUB: Boucher FOR Trent Jr.,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,93,2,6,1,6:26 PM,4:57,Boucher BLOCK (1 BLK),,MISS Sexton 8' Driving Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,95,4,0,1,6:26 PM,4:54,Siakam REBOUND (Off:0 Def:1),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,96,5,1,1,6:26 PM,4:49,Siakam Bad Pass Turnover (P3.T5),,Gay STEAL (1 STL),,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,98,2,103,1,6:27 PM,4:46,,,MISS Clarkson 28' 3PT Running Pull-Up Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,99,4,0,1,6:27 PM,4:43,Boucher REBOUND (Off:0 Def:1),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,100,1,41,1,6:27 PM,4:39,Achiuwa 2' Running Layup (2 PTS) (Boucher 1 AST),,,15 - 16,1,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,102,2,80,1,6:27 PM,4:12,,,MISS Vanderbilt 21' Step Back Jump Shot,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,103,4,0,1,6:27 PM,4:09,Boucher REBOUND (Off:0 Def:2),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,104,2,6,1,6:27 PM,4:00,MISS Siakam 5' Driving Layup,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,105,4,0,1,6:27 PM,3:58,,,Gay REBOUND (Off:0 Def:1),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,107,5,45,1,6:27 PM,3:53,,,Gay Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,109,8,0,1,6:28 PM,3:53,,,SUB: Alexander-Walker FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,112,2,1,1,6:28 PM,3:41,MISS Siakam 26' 3PT Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,113,4,0,1,6:28 PM,3:38,Achiuwa REBOUND (Off:1 Def:0),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,114,2,1,1,6:28 PM,3:36,MISS VanVleet 26' 3PT Jump Shot,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,115,4,0,1,6:28 PM,3:34,,,Alexander-Walker REBOUND (Off:0 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,116,5,40,1,6:28 PM,3:25,,,Sexton Out of Bounds Lost Ball Turnover (P2.T5),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,117,8,0,1,6:28 PM,3:25,,,SUB: Kessler FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,119,2,1,1,6:29 PM,3:16,MISS Boucher 27' 3PT Jump Shot,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,120,4,0,1,6:29 PM,3:13,,,Kessler REBOUND (Off:0 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,121,2,1,1,6:29 PM,3:06,,,MISS Clarkson 24' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,122,4,0,1,6:29 PM,3:03,Young REBOUND (Off:0 Def:1),,,,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,123,6,26,1,6:29 PM,3:00,Siakam Offensive Charge Foul (P1) (M.Kallio),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,125,5,37,1,6:29 PM,3:00,Siakam Offensive Foul Turnover (P4.T6),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,126,8,0,1,6:29 PM,3:00,SUB: Barnes FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,128,2,5,1,6:30 PM,2:48,Barnes BLOCK (1 BLK),,MISS Sexton 2' Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,130,4,0,1,6:30 PM,2:45,Barnes REBOUND (Off:0 Def:3),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,131,2,6,1,6:30 PM,2:38,MISS Young 5' Driving Layup,,Alexander-Walker BLOCK (1 BLK),,,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1
+0012200006,133,4,0,1,6:30 PM,2:35,Boucher REBOUND (Off:1 Def:2),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,208,2,5,1,6:30 PM,2:34,MISS Boucher 2' Layup,,Gay BLOCK (1 BLK),,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,1
+0012200006,210,4,0,1,6:30 PM,2:34,Boucher REBOUND (Off:2 Def:2),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,220,2,6,1,6:30 PM,2:30,MISS Boucher 8' Driving Layup,,Alexander-Walker BLOCK (2 BLK),,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1
+0012200006,222,4,0,1,6:30 PM,2:30,,,Alexander-Walker REBOUND (Off:0 Def:2),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,137,9,1,1,6:30 PM,2:21,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,138,8,0,1,6:32 PM,2:21,SUB: Anunoby FOR VanVleet,,,,,4,1627832,Fred VanVleet,1610612761.0,Toronto,Raptors,TOR,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,139,8,0,1,6:32 PM,2:21,,,SUB: Conley FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,142,5,1,1,6:33 PM,2:20,Barnes STEAL (2 STL),,Alexander-Walker Bad Pass Turnover (P1.T6),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,144,2,1,1,6:33 PM,2:15,MISS Achiuwa 27' 3PT Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,145,4,0,1,6:33 PM,2:10,,,Alexander-Walker REBOUND (Off:0 Def:3),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,146,1,101,1,6:33 PM,2:04,,,Clarkson 9' Driving Floating Jump Shot (2 PTS),17 - 16,-1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,147,1,9,1,6:34 PM,1:47,Achiuwa 3' Driving Dunk (4 PTS) (Young 1 AST),,,17 - 18,1,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,149,1,80,1,6:34 PM,1:30,,,Gay 19' Step Back Jump Shot (2 PTS),19 - 18,-1,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,150,1,5,1,6:34 PM,1:18,Barnes 2' Layup (5 PTS) (Young 2 AST),,,19 - 20,1,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,201152,Thaddeus Young,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,152,1,1,1,6:34 PM,1:05,,,Conley 27' 3PT Jump Shot (6 PTS) (Clarkson 1 AST),22 - 20,-2,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,154,5,40,1,6:35 PM,0:47,Achiuwa Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,155,2,79,1,6:35 PM,0:35,,,MISS Conley 29' 3PT Pullup Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,156,4,0,1,6:35 PM,0:32,Anunoby REBOUND (Off:0 Def:1),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,157,5,40,1,6:35 PM,0:26,Anunoby Out of Bounds Lost Ball Turnover (P1.T8),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,158,2,80,1,6:36 PM,0:06,Anunoby BLOCK (1 BLK),,MISS Clarkson 28' 3PT Step Back Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,160,4,0,1,6:36 PM,0:05,Barnes REBOUND (Off:0 Def:4),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,161,6,1,1,6:36 PM,0:05,,,Clarkson P.FOUL (P1.T4) (D.Taylor),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,163,2,9,1,6:36 PM,0:00,MISS Barnes 2' Driving Dunk,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,164,4,0,1,6:36 PM,0:00,Boucher REBOUND (Off:3 Def:2),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,165,1,97,1,6:36 PM,0:00,Boucher Tip Layup Shot (2 PTS),,,22 - 22,TIE,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,167,18,0,1,6:37 PM,0:00,,Instant Replay1st Period (6:37 PM EST),,22 - 22,TIE,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200006,166,13,0,1,6:37 PM,0:00,,End of 1st Period (6:37 PM EST),,22 - 22,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,172,12,0,2,6:39 PM,12:00,,Start of 2nd Period (6:39 PM EST),,22 - 22,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,173,2,1,2,6:39 PM,11:49,,,MISS Clarkson 26' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,174,4,0,2,6:39 PM,11:45,Siakam REBOUND (Off:0 Def:2),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,175,6,2,2,6:39 PM,11:42,,,Clarkson S.FOUL (P2.T1) (M.Kallio),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,177,3,11,2,6:40 PM,11:42,Anunoby Free Throw 1 of 2 (4 PTS),,,22 - 23,1,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,178,3,12,2,6:40 PM,11:42,Anunoby Free Throw 2 of 2 (5 PTS),,,22 - 24,2,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,179,1,98,2,6:40 PM,11:31,,,Kessler 3' Cutting Layup Shot (2 PTS) (Clarkson 2 AST),24 - 24,TIE,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,181,6,2,2,6:40 PM,11:31,Boucher S.FOUL (P1.T1) (D.Taylor),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,183,3,10,2,6:41 PM,11:31,,,MISS Kessler Free Throw 1 of 1,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,184,4,0,2,6:41 PM,11:27,Achiuwa REBOUND (Off:1 Def:1),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,185,1,5,2,6:41 PM,11:13,Boucher 4' Layup (4 PTS) (Anunoby 1 AST),,,24 - 26,2,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,187,2,101,2,6:41 PM,10:55,,,MISS Alexander-Walker 9' Driving Floating Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,188,4,0,2,6:41 PM,10:53,Siakam REBOUND (Off:0 Def:3),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,189,6,2,2,6:42 PM,10:47,,,Kessler S.FOUL (P1.T2) (M.Kallio),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,191,3,11,2,6:42 PM,10:47,Barnes Free Throw 1 of 2 (6 PTS),,,24 - 27,3,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200006,192,3,12,2,6:42 PM,10:47,MISS Barnes Free Throw 2 of 2,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,193,4,0,2,6:42 PM,10:45,,,Olynyk REBOUND (Off:0 Def:2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,194,6,2,2,6:43 PM,10:31,Barnes S.FOUL (P2.T2) (M.Kallio),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,196,3,11,2,6:43 PM,10:31,,,MISS Kessler Free Throw 1 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,240,4,1,2,6:43 PM,10:31,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,241,3,12,2,6:43 PM,10:31,,,Kessler Free Throw 2 of 2 (3 PTS),25 - 27,2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012200006,198,2,73,2,6:43 PM,10:24,MISS Achiuwa 3' Driving Reverse Layup,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,199,4,0,2,6:43 PM,10:22,,,Olynyk REBOUND (Off:0 Def:3),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,200,1,98,2,6:44 PM,10:07,,,Kessler 1' Cutting Layup Shot (5 PTS) (Clarkson 3 AST),27 - 27,TIE,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,202,2,1,2,6:44 PM,9:50,MISS Siakam 20' Jump Shot,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,203,4,0,2,6:44 PM,9:48,,,Clarkson REBOUND (Off:0 Def:1),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,204,1,108,2,6:44 PM,9:39,,,Kessler 1' Cutting Dunk Shot (7 PTS) (Alexander-Walker 1 AST),29 - 27,-2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,206,1,1,2,6:44 PM,9:23,Achiuwa 27' 3PT Jump Shot (7 PTS) (Barnes 2 AST),,,29 - 30,1,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,211,6,1,2,6:45 PM,9:11,Boucher P.FOUL (P2.T3) (M.Davis),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,213,8,0,2,6:45 PM,9:11,SUB: Koloko FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,214,8,0,2,6:45 PM,9:11,SUB: Flynn FOR Boucher,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,217,5,4,2,6:45 PM,9:02,,,Alexander-Walker Traveling Turnover (P2.T7),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,218,2,101,2,6:46 PM,8:46,MISS Achiuwa 9' Driving Floating Jump Shot,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,219,4,0,2,6:46 PM,8:44,,,Olynyk REBOUND (Off:0 Def:4),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,223,2,1,2,6:46 PM,8:38,,,MISS Alexander-Walker 26' 3PT Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,224,4,0,2,6:46 PM,8:35,Achiuwa REBOUND (Off:1 Def:2),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,225,1,6,2,6:46 PM,8:28,Siakam 4' Driving Layup (4 PTS),,,29 - 32,3,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,226,2,1,2,6:46 PM,8:20,,,MISS Olynyk 26' 3PT Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,227,4,0,2,6:46 PM,8:17,Achiuwa REBOUND (Off:1 Def:3),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,228,5,39,2,6:47 PM,8:04,Koloko Step Out of Bounds Turnover (P1.T9),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,229,8,0,2,6:47 PM,8:04,SUB: Trent Jr. FOR Achiuwa,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,230,8,0,2,6:47 PM,8:04,,,SUB: Beasley FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,231,8,0,2,6:47 PM,8:04,,,SUB: Markkanen FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,232,8,0,2,6:47 PM,8:04,,,SUB: Sexton FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,237,5,45,2,6:47 PM,7:48,,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,238,8,0,2,6:47 PM,7:48,,,SUB: Vanderbilt FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,242,5,1,2,6:48 PM,7:33,Anunoby Bad Pass Turnover (P2.T10),,Markkanen STEAL (1 STL),,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,244,5,1,2,6:48 PM,7:28,Siakam STEAL (1 STL),,Markkanen Bad Pass Turnover (P2.T9),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,246,1,1,2,6:48 PM,7:23,Siakam 3PT Jump Shot (7 PTS),,,29 - 35,6,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,247,2,79,2,6:48 PM,7:06,,,MISS Beasley 12' Pullup Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,248,4,0,2,6:48 PM,7:04,Anunoby REBOUND (Off:0 Def:2),,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,249,2,79,2,6:48 PM,7:01,MISS Trent Jr. 27' 3PT Pullup Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,250,4,0,2,6:48 PM,6:56,,,Markkanen REBOUND (Off:1 Def:2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,251,2,44,2,6:48 PM,6:50,,,MISS Vanderbilt 2' Reverse Layup,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,252,4,0,2,6:49 PM,6:45,,,Vanderbilt REBOUND (Off:1 Def:1),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,253,1,1,2,6:49 PM,6:44,,,Sexton 3PT Jump Shot (6 PTS) (Vanderbilt 3 AST),32 - 35,3,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,255,9,1,2,6:49 PM,6:31,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,256,8,0,2,6:50 PM,6:31,SUB: Hernangomez FOR Anunoby,,,,,4,1628384,OG Anunoby,1610612761.0,Toronto,Raptors,TOR,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,258,2,3,2,6:52 PM,6:19,MISS Koloko 3' Hook Shot,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,259,4,0,2,6:52 PM,6:17,,,Markkanen REBOUND (Off:1 Def:3),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,261,2,1,2,6:53 PM,5:55,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,262,4,0,2,6:53 PM,5:54,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,263,6,3,2,6:53 PM,5:54,Siakam L.B.FOUL (P2.T4) (D.Taylor),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,265,2,1,2,6:53 PM,5:43,,,MISS Beasley 25' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,266,4,0,2,6:53 PM,5:40,Siakam REBOUND (Off:0 Def:4),,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,267,1,98,2,6:54 PM,5:31,Koloko 2' Cutting Layup Shot (2 PTS) (Siakam 2 AST),,,32 - 37,5,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,269,6,1,2,6:54 PM,5:23,Flynn P.FOUL (P1.PN) (D.Taylor),,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,271,3,11,2,6:54 PM,5:23,,,MISS Sexton Free Throw 1 of 2,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,272,4,1,2,6:54 PM,5:23,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,273,8,0,2,6:54 PM,5:23,SUB: Achiuwa FOR Siakam,,,,,4,1627783,Pascal Siakam,1610612761.0,Toronto,Raptors,TOR,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,275,3,12,2,6:55 PM,5:23,,,MISS Sexton Free Throw 2 of 2,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,276,4,0,2,6:55 PM,5:20,Achiuwa REBOUND (Off:1 Def:4),,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,277,6,2,2,6:55 PM,5:08,,,Vanderbilt S.FOUL (P1.T3) (M.Davis),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,279,3,11,2,6:55 PM,5:08,MISS Trent Jr. Free Throw 1 of 2,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,280,4,1,2,6:55 PM,5:08,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,281,3,12,2,6:56 PM,5:08,Trent Jr. Free Throw 2 of 2 (4 PTS),,,32 - 38,6,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200006,282,1,99,2,6:56 PM,4:49,,,Markkanen 4' Cutting Finger Roll Layup Shot (8 PTS) (Olynyk 1 AST),34 - 38,4,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,284,1,79,2,6:56 PM,4:38,Flynn 26' 3PT Pullup Jump Shot (3 PTS),,,34 - 41,7,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,285,6,1,2,6:56 PM,4:19,Hernangomez P.FOUL (P1.PN) (M.Davis),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,287,3,11,2,6:57 PM,4:19,,,Markkanen Free Throw 1 of 2 (9 PTS),35 - 41,6,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,288,8,0,2,6:57 PM,4:19,,,SUB: Gay FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,290,3,12,2,6:57 PM,4:19,,,Markkanen Free Throw 2 of 2 (10 PTS),36 - 41,5,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,291,2,47,2,6:58 PM,4:06,MISS Trent Jr. 9' Turnaround Jump Shot,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,292,4,0,2,6:58 PM,4:03,,,Gay REBOUND (Off:0 Def:2),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,293,5,2,2,6:58 PM,3:54,Hernangomez STEAL (1 STL),,Beasley Lost Ball Turnover (P1.T10),,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,295,2,2,2,6:58 PM,3:47,MISS Hernangomez 27' 3PT Running Jump Shot,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,296,4,0,2,6:58 PM,3:42,,,Sexton REBOUND (Off:0 Def:1),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,297,1,41,2,6:58 PM,3:40,,,Markkanen 2' Running Layup (12 PTS) (Sexton 2 AST),38 - 41,3,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,299,1,78,2,6:58 PM,3:29,Achiuwa 5' Floating Jump Shot (9 PTS),,,38 - 43,5,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,301,2,1,2,6:59 PM,3:12,,,MISS Gay 3PT Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,302,4,0,2,6:59 PM,3:08,Koloko REBOUND (Off:0 Def:1),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,303,6,1,2,6:59 PM,3:05,,,Gay P.FOUL (P1.T4) (M.Davis),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,305,2,1,2,6:59 PM,2:55,MISS Koloko 16' Jump Shot,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,306,4,0,2,6:59 PM,2:51,,,Gay REBOUND (Off:0 Def:3),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,307,6,17,2,6:59 PM,2:39,RAPTORS T.Foul (Def. 3 Sec Koloko ) (M.Kallio),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,308,9,1,2,7:00 PM,2:39,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,309,8,0,2,7:00 PM,2:39,,,SUB: Conley FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,311,3,16,2,7:03 PM,2:39,,,Beasley Free Throw Technical (4 PTS),39 - 43,4,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,312,2,98,2,7:03 PM,2:24,,,MISS Vanderbilt 4' Cutting Layup Shot,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,313,4,0,2,7:03 PM,2:22,Hernangomez REBOUND (Off:0 Def:1),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,314,6,2,2,7:03 PM,2:20,,,Markkanen S.FOUL (P1.PN) (D.Taylor),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,316,3,11,2,7:04 PM,2:20,MISS Achiuwa Free Throw 1 of 2,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,317,4,1,2,7:04 PM,2:20,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,318,3,12,2,7:04 PM,2:20,Achiuwa Free Throw 2 of 2 (10 PTS),,,39 - 44,5,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,319,6,1,2,7:04 PM,2:12,Hernangomez P.FOUL (P2.PN) (D.Taylor),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,321,3,11,2,7:05 PM,2:12,,,Markkanen Free Throw 1 of 2 (13 PTS),40 - 44,4,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,322,3,12,2,7:05 PM,2:12,,,Markkanen Free Throw 2 of 2 (14 PTS),41 - 44,3,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,323,1,79,2,7:05 PM,1:59,Trent Jr. 28' 3PT Pullup Jump Shot (7 PTS),,,41 - 47,6,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,324,2,80,2,7:05 PM,1:41,,,MISS Beasley 27' 3PT Step Back Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,325,4,0,2,7:05 PM,1:38,Trent Jr. REBOUND (Off:0 Def:1),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,326,6,4,2,7:06 PM,1:31,Koloko OFF.Foul (P1) (D.Taylor),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,328,5,37,2,7:06 PM,1:31,Koloko Offensive Foul Turnover (P2.T11),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,329,1,108,2,7:06 PM,1:18,,,Vanderbilt Cutting Dunk Shot (2 PTS) (Conley 1 AST),43 - 47,4,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,331,2,79,2,7:06 PM,1:06,MISS Flynn 21' Pullup Jump Shot,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,332,4,0,2,7:06 PM,1:04,,,Vanderbilt REBOUND (Off:1 Def:2),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,333,6,2,2,7:07 PM,0:57,Flynn S.FOUL (P2.PN) (M.Kallio),,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,335,3,11,2,7:07 PM,0:57,,,Conley Free Throw 1 of 2 (7 PTS),44 - 47,3,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,336,3,12,2,7:07 PM,0:57,,,MISS Conley Free Throw 2 of 2,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,337,4,0,2,7:07 PM,0:55,Koloko REBOUND (Off:0 Def:2),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,338,6,2,2,7:07 PM,0:47,,,Vanderbilt S.FOUL (P2.PN) (M.Davis),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,340,3,11,2,7:08 PM,0:47,Koloko Free Throw 1 of 2 (3 PTS),,,44 - 48,4,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,341,3,12,2,7:08 PM,0:47,MISS Koloko Free Throw 2 of 2,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,342,4,0,2,7:08 PM,0:45,,,Gay REBOUND (Off:0 Def:4),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,343,1,1,2,7:08 PM,0:33,,,Markkanen 29' 3PT Jump Shot (17 PTS) (Conley 2 AST),47 - 48,1,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,345,2,6,2,7:09 PM,0:15,MISS Achiuwa 5' Driving Layup,,,,,4,1630173,Precious Achiuwa,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,346,4,0,2,7:09 PM,0:13,Koloko REBOUND (Off:1 Def:2),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,347,1,107,2,7:09 PM,0:13,Koloko Tip Dunk Shot (5 PTS),,,47 - 50,3,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,348,1,79,2,7:09 PM,0:01,,,Beasley 12' Pullup Jump Shot (6 PTS) (Conley 3 AST),49 - 50,1,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,350,13,0,2,7:09 PM,0:00,,End of 2nd Period (7:09 PM EST),,49 - 50,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,359,12,0,3,7:25 PM,12:00,,Start of 3rd Period (7:25 PM EST),,49 - 50,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,360,2,1,3,7:25 PM,11:36,,,MISS Markkanen 24' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,361,4,0,3,7:25 PM,11:33,Trent Jr. REBOUND (Off:0 Def:2),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,362,6,1,3,7:26 PM,11:24,,,Conley P.FOUL (P2.T1) (M.Davis),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,364,1,6,3,7:26 PM,11:13,Boucher Driving Layup (6 PTS) (Barnes 3 AST),,,49 - 52,3,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,366,2,102,3,7:26 PM,10:58,,,MISS Olynyk 7' Driving Floating Bank Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,367,4,0,3,7:26 PM,10:57,Boucher REBOUND (Off:3 Def:3),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,368,1,66,3,7:26 PM,10:47,Hernangomez 26' 3PT Jump Bank Shot (3 PTS) (Trent Jr. 2 AST),,,49 - 55,6,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,370,2,101,3,7:27 PM,10:27,,,MISS Beasley 10' Driving Floating Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,371,4,0,3,7:27 PM,10:25,Trent Jr. REBOUND (Off:0 Def:3),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,372,1,41,3,7:27 PM,10:20,Trent Jr. 1' Running Layup (9 PTS),,,49 - 57,8,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,373,2,98,3,7:27 PM,10:05,,,MISS Beasley 6' Cutting Layup Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,374,4,0,3,7:27 PM,10:03,Boucher REBOUND (Off:3 Def:4),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,375,5,1,3,7:27 PM,9:58,Barnes Bad Pass Turnover (P1.T12),,Olynyk STEAL (1 STL),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,377,6,1,3,7:27 PM,9:57,Trent Jr. P.FOUL (P2.T1) (M.Davis),,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,379,2,1,3,7:28 PM,9:41,,,MISS Beasley 26' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,380,4,0,3,7:28 PM,9:38,Boucher REBOUND (Off:3 Def:5),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,381,1,1,3,7:28 PM,9:23,Boucher 27' 3PT Jump Shot (9 PTS) (Hernangomez 1 AST),,,49 - 60,11,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,383,2,6,3,7:29 PM,8:54,,,MISS Conley 3' Driving Layup,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,384,4,0,3,7:29 PM,8:52,Boucher REBOUND (Off:3 Def:6),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,385,5,1,3,7:29 PM,8:48,Barnes Bad Pass Turnover (P2.T13),,Conley STEAL (1 STL),,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,387,2,2,3,7:29 PM,8:43,,,MISS Beasley 3PT Running Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,388,4,0,3,7:29 PM,8:37,,,Olynyk REBOUND (Off:1 Def:4),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,389,2,97,3,7:29 PM,8:37,,,MISS Olynyk Tip Layup Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,390,4,0,3,7:29 PM,8:37,Hernangomez REBOUND (Off:0 Def:2),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,391,2,2,3,7:29 PM,8:34,MISS Boucher 25' 3PT Running Jump Shot,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,392,4,0,3,7:29 PM,8:32,Barnes REBOUND (Off:1 Def:4),,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,393,6,2,3,7:29 PM,8:32,,,Olynyk S.FOUL (P3.T2) (M.Davis),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,395,3,11,3,7:30 PM,8:32,MISS Barnes Free Throw 1 of 2,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,396,4,1,3,7:30 PM,8:32,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,397,8,0,3,7:30 PM,8:32,SUB: Banton FOR Trent Jr.,,,,,4,1629018,Gary Trent Jr.,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,399,3,12,3,7:30 PM,8:32,MISS Barnes Free Throw 2 of 2,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,400,4,0,3,7:30 PM,8:30,,,Markkanen REBOUND (Off:1 Def:4),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,401,5,39,3,7:30 PM,8:19,,,Vanderbilt Step Out of Bounds Turnover (P1.T11),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,402,2,1,3,7:31 PM,8:00,MISS Hernangomez 3PT Jump Shot,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,403,4,0,3,7:31 PM,7:57,,,Olynyk REBOUND (Off:1 Def:5),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,404,1,1,3,7:31 PM,7:50,,,Markkanen 27' 3PT Jump Shot (20 PTS) (Vanderbilt 4 AST),52 - 60,8,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,406,1,47,3,7:31 PM,7:31,Barnes 7' Turnaround Jump Shot (8 PTS),,,52 - 62,10,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,407,2,75,3,7:31 PM,7:21,,,MISS Markkanen 3' Driving Finger Roll Layup,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,408,4,0,3,7:32 PM,7:19,Hernangomez REBOUND (Off:0 Def:3),,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,409,2,5,3,7:32 PM,7:09,MISS Boucher 3' Layup,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,410,4,0,3,7:32 PM,7:08,Birch REBOUND (Off:1 Def:0),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,411,2,72,3,7:32 PM,7:07,MISS Birch Putback Layup,,Vanderbilt BLOCK (1 BLK),,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1
+0012200006,413,4,0,3,7:32 PM,7:05,Boucher REBOUND (Off:4 Def:6),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,414,6,2,3,7:32 PM,7:00,,,Conley S.FOUL (P3.T3) (D.Taylor),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,416,3,11,3,7:32 PM,7:00,Boucher Free Throw 1 of 2 (10 PTS),,,52 - 63,11,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,417,8,0,3,7:32 PM,7:00,SUB: Flynn FOR Barnes,,,,,4,1630567,Scottie Barnes,1610612761.0,Toronto,Raptors,TOR,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,419,3,12,3,7:33 PM,7:00,Boucher Free Throw 2 of 2 (11 PTS),,,52 - 64,12,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,420,6,1,3,7:33 PM,6:49,Boucher P.FOUL (P3.T2) (D.Taylor),,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,422,9,1,3,7:33 PM,6:49,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,423,5,9,3,7:36 PM,6:49,,,Jazz Turnover: 5 Second Violation (T#12),,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200006,424,2,79,3,7:37 PM,6:35,MISS Flynn 10' Pullup Jump Shot,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,425,4,0,3,7:37 PM,6:33,Birch REBOUND (Off:2 Def:0),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,428,2,72,3,7:37 PM,6:31,MISS Birch 3' Putback Layup,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,429,4,0,3,7:37 PM,6:31,Birch REBOUND (Off:3 Def:0),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,430,6,2,3,7:37 PM,6:31,,,Markkanen S.FOUL (P2.T4) (D.Taylor),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,432,3,11,3,7:37 PM,6:31,MISS Birch Free Throw 1 of 2,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,433,4,1,3,7:37 PM,6:31,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,434,3,12,3,7:37 PM,6:31,Birch Free Throw 2 of 2 (1 PTS),,,52 - 65,13,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,435,5,1,3,7:37 PM,6:21,Boucher STEAL (1 STL),,Beasley Bad Pass Turnover (P2.T13),,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,437,6,2,3,7:38 PM,6:03,,,Olynyk S.FOUL (P4.PN) (D.Taylor),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,439,3,11,3,7:38 PM,6:03,Birch Free Throw 1 of 2 (2 PTS),,,52 - 66,14,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,440,8,0,3,7:38 PM,6:03,SUB: Jackson FOR Hernangomez,,,,,4,1627823,Juancho Hernangomez,1610612761.0,Toronto,Raptors,TOR,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,442,3,12,3,7:38 PM,6:03,Birch Free Throw 2 of 2 (3 PTS),,,52 - 67,15,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,443,2,1,3,7:39 PM,5:52,,,MISS Beasley 28' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012200006,444,4,0,3,7:39 PM,5:48,Birch REBOUND (Off:3 Def:1),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,445,5,45,3,7:39 PM,5:42,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,446,8,0,3,7:39 PM,5:42,SUB: Wilson FOR Boucher,,,,,4,1628449,Chris Boucher,1610612761.0,Toronto,Raptors,TOR,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,447,8,0,3,7:39 PM,5:42,,,SUB: Clarkson FOR Beasley,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,448,8,0,3,7:39 PM,5:42,,,SUB: Sexton FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,452,1,1,3,7:39 PM,5:29,,,Sexton 26' 3PT Jump Shot (9 PTS) (Vanderbilt 5 AST),55 - 67,12,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,454,5,1,3,7:40 PM,5:16,Wilson Bad Pass Turnover (P1.T15),,Markkanen STEAL (2 STL),,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,456,1,2,3,7:40 PM,5:10,,,Clarkson 24' 3PT Running Jump Shot (5 PTS) (Vanderbilt 6 AST),58 - 67,9,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,458,1,58,3,7:40 PM,4:52,Banton 8' Turnaround Hook Shot (2 PTS),,,58 - 69,11,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,459,2,79,3,7:40 PM,4:38,,,MISS Olynyk 26' 3PT Pullup Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,460,4,0,3,7:40 PM,4:35,Banton REBOUND (Off:0 Def:1),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,461,5,45,3,7:40 PM,4:21,Jackson Out of Bounds - Bad Pass Turnover Turnover (P2.T16),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,462,8,0,3,7:41 PM,4:21,SUB: Koloko FOR Birch,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,463,8,0,3,7:41 PM,4:21,,,SUB: Alexander-Walker FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,464,8,0,3,7:41 PM,4:21,,,SUB: Gay FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,468,2,79,3,7:41 PM,4:07,,,MISS Sexton 20' Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,469,4,0,3,7:41 PM,4:04,Banton REBOUND (Off:0 Def:2),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,470,5,21,3,7:41 PM,3:57,Banton Palming Turnover (P1.T17),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,472,2,101,3,7:42 PM,3:32,,,MISS Clarkson 15' Driving Floating Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,473,4,0,3,7:42 PM,3:29,Banton REBOUND (Off:0 Def:3),,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,474,1,6,3,7:42 PM,3:18,Koloko 1' Driving Layup (7 PTS),,,58 - 71,13,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,475,2,1,3,7:43 PM,3:01,,,MISS Gay 3PT Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,476,4,0,3,7:43 PM,2:58,Jackson REBOUND (Off:0 Def:1),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,477,6,2,3,7:43 PM,2:52,,,Sexton S.FOUL (P1.PN) (M.Kallio),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,479,9,1,3,7:43 PM,2:52,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,480,8,0,3,7:43 PM,2:52,SUB: Dowtin FOR Flynn,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,481,8,0,3,7:43 PM,2:52,,,SUB: Kessler FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,484,3,11,3,7:46 PM,2:52,Jackson Free Throw 1 of 2 (1 PTS),,,58 - 72,14,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,485,3,12,3,7:46 PM,2:52,Jackson Free Throw 2 of 2 (2 PTS),,,58 - 73,15,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,487,5,1,3,7:47 PM,2:36,Banton STEAL (1 STL),,Alexander-Walker Bad Pass Turnover (P3.T14),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,490,1,1,3,7:47 PM,2:33,Wilson 28' 3PT Jump Shot (3 PTS) (Dowtin 1 AST),,,58 - 76,18,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,492,2,79,3,7:47 PM,2:11,,,MISS Clarkson 16' Pullup Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,493,4,0,3,7:47 PM,2:08,Wilson REBOUND (Off:0 Def:1),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,494,1,41,3,7:47 PM,2:03,Banton 1' Running Layup (4 PTS),,,58 - 78,20,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,495,2,1,3,7:48 PM,1:44,,,MISS Clarkson 26' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,496,4,0,3,7:48 PM,1:41,Wilson REBOUND (Off:0 Def:2),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,497,2,100,3,7:48 PM,1:36,MISS Wilson 1' Running Alley Oop Layup Shot,,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,498,4,0,3,7:48 PM,1:34,,,Gay REBOUND (Off:0 Def:5),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,499,1,79,3,7:48 PM,1:25,,,Sexton 12' Pullup Jump Shot (11 PTS) (Clarkson 4 AST),60 - 78,18,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,501,6,4,3,7:48 PM,1:13,Wilson OFF.Foul (P1) (M.Kallio),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,503,5,37,3,7:48 PM,1:13,Wilson Offensive Foul Turnover (P2.T18),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,504,2,6,3,7:49 PM,1:03,,,MISS Alexander-Walker 4' Driving Layup,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,505,4,0,3,7:49 PM,0:59,,,Kessler REBOUND (Off:1 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,506,1,107,3,7:49 PM,0:59,,,Kessler Tip Dunk Shot (9 PTS),62 - 78,16,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,507,5,1,3,7:49 PM,0:52,Dowtin Bad Pass Turnover (P1.T19),,Alexander-Walker STEAL (1 STL),,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,509,2,50,3,7:49 PM,0:47,,,MISS Gay 3' Running Dunk,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,510,4,0,3,7:49 PM,0:43,Wilson REBOUND (Off:0 Def:3),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,511,1,1,3,7:49 PM,0:40,Wilson 17' Jump Shot (5 PTS),,,62 - 80,18,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,512,6,26,3,7:49 PM,0:34,,,Clarkson Offensive Charge Foul (P3) (M.Davis),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,514,5,37,3,7:49 PM,0:34,,,Clarkson Offensive Foul Turnover (P1.T15),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,515,2,79,3,7:50 PM,0:28,MISS Dowtin 15' Pullup Jump Shot,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,516,4,0,3,7:50 PM,0:25,Jackson REBOUND (Off:1 Def:1),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,517,1,101,3,7:50 PM,0:23,Jackson 9' Driving Floating Jump Shot (4 PTS),,,62 - 82,20,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,519,6,1,3,7:51 PM,0:10,Jackson P.FOUL (P1.T3) (D.Taylor),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,521,1,6,3,7:51 PM,0:03,,,Clarkson 2' Driving Layup (7 PTS),64 - 82,18,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,522,2,79,3,7:51 PM,0:00,MISS Dowtin 27' 3PT Pullup Jump Shot,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,523,4,0,3,7:51 PM,0:00,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,524,13,0,3,7:51 PM,0:00,,End of 3rd Period (7:51 PM EST),,64 - 82,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,529,12,0,4,7:54 PM,12:00,,Start of 4th Period (7:54 PM EST),,64 - 82,18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,530,1,6,4,7:54 PM,11:44,Jackson 2' Driving Layup (6 PTS),,,64 - 84,20,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,531,2,1,4,7:55 PM,11:27,,,MISS Sexton 3PT Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,532,4,0,4,7:55 PM,11:21,,,Kessler REBOUND (Off:2 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,533,2,72,4,7:55 PM,11:21,,,MISS Kessler Putback Layup,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,534,4,0,4,7:55 PM,11:21,Dowtin REBOUND (Off:0 Def:1),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,535,2,1,4,7:55 PM,11:17,MISS Brown 27' 3PT Jump Shot,,,,,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,536,4,0,4,7:55 PM,11:13,,,Clarkson REBOUND (Off:0 Def:2),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,537,7,5,4,7:55 PM,11:11,Jackson Violation:Kicked Ball (M.Kallio),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0012200006,538,6,26,4,7:55 PM,11:08,,,Alexander-Walker Offensive Charge Foul (P1) (D.Taylor),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,540,5,37,4,7:55 PM,11:08,,,Alexander-Walker Offensive Foul Turnover (P4.T16),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,541,2,1,4,7:56 PM,10:59,MISS Birch 3PT Jump Shot,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,542,4,0,4,7:56 PM,10:56,,,Gay REBOUND (Off:0 Def:6),,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,543,2,103,4,7:56 PM,10:51,,,MISS Gay 27' 3PT Running Pull-Up Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,544,4,0,4,7:56 PM,10:47,,,Kessler REBOUND (Off:3 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,545,2,5,4,7:56 PM,10:46,,,MISS Kessler 3' Layup,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,546,4,0,4,7:56 PM,10:46,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,549,5,4,4,7:57 PM,10:39,,,Clarkson Traveling Turnover (P2.T17),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,605,2,6,4,7:57 PM,10:22,MISS Brown 7' Driving Layup,,Alexander-Walker BLOCK (3 BLK),,,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1
+0012200006,607,4,0,4,7:57 PM,10:22,,,Clarkson REBOUND (Off:0 Def:3),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,552,1,44,4,7:57 PM,10:14,,,Kessler 2' Reverse Layup (11 PTS) (Clarkson 5 AST),66 - 84,18,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,554,2,1,4,7:58 PM,9:59,MISS Brown 25' 3PT Jump Shot,,,,,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,555,4,0,4,7:58 PM,9:55,Birch REBOUND (Off:4 Def:1),,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,556,1,101,4,7:58 PM,9:50,Birch 5' Driving Floating Jump Shot (5 PTS),,,66 - 86,20,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,557,2,6,4,7:58 PM,9:31,Birch BLOCK (1 BLK),,MISS Sexton 3' Driving Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,559,4,0,4,7:58 PM,9:31,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,561,2,1,4,7:58 PM,9:15,MISS Wilson 30' 3PT Jump Shot,,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,562,4,0,4,7:59 PM,9:11,,,Alexander-Walker REBOUND (Off:0 Def:4),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,563,6,1,4,7:59 PM,9:06,Dowtin P.FOUL (P1.T1) (M.Kallio),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,565,8,0,4,7:59 PM,9:06,SUB: Flynn FOR Birch,,,,,4,203920,Khem Birch,1610612761.0,Toronto,Raptors,TOR,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,567,2,1,4,7:59 PM,9:02,,,MISS Gay 27' 3PT Jump Shot,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,568,4,0,4,7:59 PM,9:00,,,Alexander-Walker REBOUND (Off:1 Def:4),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,569,2,79,4,7:59 PM,8:52,,,MISS Alexander-Walker 27' 3PT Pullup Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,570,4,0,4,7:59 PM,8:48,Wilson REBOUND (Off:0 Def:4),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,571,1,50,4,8:00 PM,8:43,Jackson 1' Running Dunk (8 PTS),,,66 - 88,22,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,573,9,1,4,8:00 PM,8:41,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,574,8,0,4,8:00 PM,8:41,,,SUB: Horton-Tucker FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,575,8,0,4,8:00 PM,8:41,,,SUB: Butler FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,576,8,0,4,8:00 PM,8:41,,,SUB: Fontecchio FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,577,8,0,4,8:00 PM,8:41,,,SUB: Agbaji FOR Gay,,,5,200752,Rudy Gay,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,578,8,0,4,8:00 PM,8:41,,,SUB: Zeller FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200006,584,2,79,4,8:03 PM,8:29,,,MISS Butler 13' Pullup Jump Shot,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,585,4,0,4,8:03 PM,8:25,,,Zeller REBOUND (Off:1 Def:0),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,586,2,97,4,8:03 PM,8:25,,,MISS Zeller Tip Layup Shot,,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,587,4,0,4,8:03 PM,8:24,Dowtin REBOUND (Off:0 Def:2),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,588,2,41,4,8:03 PM,8:21,MISS Jackson 1' Running Layup,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,589,4,0,4,8:03 PM,8:18,,,Horton-Tucker REBOUND (Off:0 Def:1),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,590,2,80,4,8:03 PM,8:07,,,MISS Horton-Tucker 28' 3PT Step Back Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,591,4,0,4,8:03 PM,8:02,,,Zeller REBOUND (Off:2 Def:0),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,592,2,6,4,8:03 PM,7:53,,,MISS Butler 3' Driving Layup,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,593,4,0,4,8:03 PM,7:52,Dowtin REBOUND (Off:0 Def:3),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,594,2,101,4,8:04 PM,7:45,MISS Dowtin 9' Driving Floating Jump Shot,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,595,4,0,4,8:04 PM,7:41,,,Butler REBOUND (Off:0 Def:1),,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,596,5,1,4,8:04 PM,7:35,Brown STEAL (1 STL),,Butler Bad Pass Turnover (P1.T18),,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,598,6,2,4,8:04 PM,7:31,,,Horton-Tucker S.FOUL (P1.T1) (D.Taylor),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,600,3,11,4,8:04 PM,7:31,Dowtin Free Throw 1 of 2 (1 PTS),,,66 - 89,23,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,601,8,0,4,8:04 PM,7:31,SUB: Banton FOR Wilson,,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,602,8,0,4,8:04 PM,7:31,SUB: Koloko FOR Jackson,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,608,3,12,4,8:05 PM,7:31,MISS Dowtin Free Throw 2 of 2,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,609,4,0,4,8:05 PM,7:29,,,Fontecchio REBOUND (Off:0 Def:1),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,610,6,4,4,8:05 PM,7:20,,,Zeller OFF.Foul (P1) (D.Taylor),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,612,5,37,4,8:05 PM,7:20,,,Zeller Offensive Foul Turnover (P1.T19),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200006,613,1,79,4,8:05 PM,7:08,Flynn 18' Pullup Jump Shot (5 PTS),,,66 - 91,25,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,615,5,1,4,8:05 PM,6:50,Banton STEAL (2 STL),,Butler Bad Pass Turnover (P2.T20),,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,617,1,76,4,8:06 PM,6:46,Banton 4' Running Finger Roll Layup (6 PTS),,,66 - 93,27,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,618,6,2,4,8:06 PM,6:46,,,Horton-Tucker S.FOUL (P2.T2) (M.Kallio),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,620,8,0,4,8:06 PM,6:46,SUB: Harper Jr. FOR Dowtin,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,622,3,10,4,8:06 PM,6:46,Banton Free Throw 1 of 1 (7 PTS),,,66 - 94,28,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,623,5,1,4,8:07 PM,6:36,Brown STEAL (2 STL),,Butler Bad Pass Turnover (P3.T21),,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,625,1,76,4,8:07 PM,6:32,Banton 4' Running Finger Roll Layup (9 PTS) (Brown 1 AST),,,66 - 96,30,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,627,9,1,4,8:07 PM,6:31,,,Jazz Timeout: Regular (Reg.5 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,628,2,47,4,8:10 PM,6:16,,,MISS Fontecchio 28' 3PT Turnaround Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,629,4,0,4,8:10 PM,6:15,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,631,6,26,4,8:10 PM,6:05,Brown Offensive Charge Foul (P1) (M.Davis),,,,,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,633,5,37,4,8:10 PM,6:05,Brown Offensive Foul Turnover (P1.T20),,,,,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,1
+0012200006,634,1,6,4,8:11 PM,5:53,,,Horton-Tucker 3' Driving Layup (2 PTS),68 - 96,28,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,635,2,78,4,8:11 PM,5:39,MISS Banton 9' Floating Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,636,4,0,4,8:11 PM,5:37,,,Zeller REBOUND (Off:2 Def:1),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,724,2,47,4,8:11 PM,5:28,Flynn BLOCK (1 BLK),,MISS Fontecchio 11' Turnaround Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0
+0012200006,726,4,0,4,8:11 PM,5:28,Harper Jr. REBOUND (Off:0 Def:1),,,,,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200006,639,2,2,4,8:11 PM,5:24,MISS Banton 24' 3PT Running Jump Shot,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,640,4,0,4,8:11 PM,5:20,,,Zeller REBOUND (Off:2 Def:2),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,641,2,74,4,8:11 PM,5:16,,,MISS Fontecchio 2' Running Reverse Layup,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,642,4,0,4,8:11 PM,5:14,Harper Jr. REBOUND (Off:0 Def:2),,,,,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,643,1,79,4,8:12 PM,4:59,Flynn 30' 3PT Pullup Jump Shot (8 PTS),,,68 - 99,31,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,644,6,1,4,8:12 PM,4:47,Koloko P.FOUL (P2.T2) (M.Davis),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,646,8,0,4,8:12 PM,4:47,SUB: Dowtin FOR Flynn,,,,,4,1630201,Malachi Flynn,1610612761.0,Toronto,Raptors,TOR,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,648,2,101,4,8:12 PM,4:37,,,MISS Butler 9' Driving Floating Jump Shot,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,649,4,0,4,8:12 PM,4:36,,,Zeller REBOUND (Off:3 Def:2),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,650,2,97,4,8:12 PM,4:36,,,MISS Zeller Tip Layup Shot,,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,651,4,0,4,8:12 PM,4:35,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,653,8,0,4,8:12 PM,4:35,SUB: Jackson FOR Banton,,,,,4,1630625,Dalano Banton,1610612761.0,Toronto,Raptors,TOR,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,655,2,6,4,8:13 PM,4:25,MISS Dowtin 4' Driving Layup,,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,656,4,0,4,8:13 PM,4:22,,,Fontecchio REBOUND (Off:0 Def:2),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,657,6,1,4,8:13 PM,4:21,Koloko P.FOUL (P3.T3) (M.Kallio),,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,659,8,0,4,8:13 PM,4:21,SUB: Wilson FOR Koloko,,,,,4,1631132,Christian Koloko,1610612761.0,Toronto,Raptors,TOR,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0012200006,661,3,10,4,8:14 PM,4:21,,,MISS Butler Free Throw 1 of 1,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,662,4,0,4,8:14 PM,4:21,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,663,6,1,4,8:14 PM,4:18,Harper Jr. P.FOUL (P1.T4) (M.Kallio),,,,,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,665,2,6,4,8:14 PM,4:12,,,MISS Butler 6' Driving Layup,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012200006,666,4,0,4,8:14 PM,4:10,Harper Jr. REBOUND (Off:0 Def:3),,,,,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0012200006,667,1,2,4,8:14 PM,4:05,Dowtin 11' Running Jump Shot (3 PTS) (Harper Jr. 1 AST),,,68 - 101,33,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,669,1,5,4,8:15 PM,3:51,,,Fontecchio 3' Layup (2 PTS) (Zeller 1 AST),70 - 101,31,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,671,5,4,4,8:15 PM,3:38,Dowtin Traveling Turnover (P2.T21),,,,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,672,2,79,4,8:15 PM,3:27,,,MISS Horton-Tucker 23' Pullup Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,673,4,0,4,8:15 PM,3:24,Wilson REBOUND (Off:0 Def:5),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,674,1,79,4,8:15 PM,3:14,Jackson 20' Pullup Jump Shot (10 PTS) (Wilson 1 AST),,,70 - 103,33,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,675,2,73,4,8:16 PM,3:03,Wilson BLOCK (1 BLK),,MISS Horton-Tucker 4' Driving Reverse Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,677,4,0,4,8:16 PM,3:02,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,679,2,1,4,8:16 PM,2:50,MISS Harper Jr. 24' 3PT Jump Shot,,,,,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,680,4,0,4,8:16 PM,2:47,Wilson REBOUND (Off:1 Def:5),,,,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,681,2,1,4,8:16 PM,2:44,MISS Harper Jr. 25' 3PT Jump Shot,,,,,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,682,4,0,4,8:16 PM,2:40,,,Horton-Tucker REBOUND (Off:0 Def:2),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,683,2,41,4,8:16 PM,2:35,,,MISS Horton-Tucker 3' Running Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,685,1,72,4,8:16 PM,2:31,,,Agbaji Putback Layup (2 PTS),72 - 103,31,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,684,4,0,4,8:16 PM,2:31,,,Agbaji REBOUND (Off:1 Def:0),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,686,1,79,4,8:17 PM,2:20,Dowtin 13' Pullup Jump Shot (5 PTS),,,72 - 105,33,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,687,6,2,4,8:17 PM,2:05,Brown S.FOUL (P2.PN) (M.Davis),,,,,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,689,3,11,4,8:17 PM,2:05,,,Fontecchio Free Throw 1 of 2 (3 PTS),73 - 105,32,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,690,3,12,4,8:17 PM,2:05,,,Fontecchio Free Throw 2 of 2 (4 PTS),74 - 105,31,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,691,1,6,4,8:18 PM,1:49,Harper Jr. 3' Driving Layup (2 PTS) (Wilson 2 AST),,,74 - 107,33,4,1631199,Ron Harper Jr.,1610612761.0,Toronto,Raptors,TOR,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,694,5,1,4,8:18 PM,1:39,Jackson STEAL (1 STL),,Horton-Tucker Bad Pass Turnover (P1.T22),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,696,6,2,4,8:18 PM,1:35,,,Butler S.FOUL (P1.T3) (M.Davis),,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,1
+0012200006,698,3,11,4,8:19 PM,1:35,Brown Free Throw 1 of 2 (1 PTS),,,74 - 108,34,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,699,3,12,4,8:19 PM,1:35,Brown Free Throw 2 of 2 (2 PTS),,,74 - 109,35,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,1
+0012200006,700,1,79,4,8:19 PM,1:25,,,Butler 27' 3PT Pullup Jump Shot (3 PTS),77 - 109,32,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,701,5,2,4,8:19 PM,1:13,Dowtin Lost Ball Turnover (P3.T22),,Butler STEAL (1 STL),,,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,703,2,76,4,8:19 PM,1:09,,,MISS Butler 4' Running Finger Roll Layup,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,704,4,0,4,8:19 PM,1:09,,,Agbaji REBOUND (Off:2 Def:0),,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,705,1,97,4,8:19 PM,1:09,,,Agbaji Tip Layup Shot (4 PTS),79 - 109,30,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,706,1,1,4,8:20 PM,0:59,Brown 24' 3PT Jump Shot (5 PTS) (Wilson 3 AST),,,79 - 112,33,4,1631122,Gabe Brown,1610612761.0,Toronto,Raptors,TOR,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,708,1,102,4,8:20 PM,0:51,,,Zeller 6' Driving Floating Bank Jump Shot (2 PTS) (Butler 1 AST),81 - 112,31,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,709,5,1,4,8:20 PM,0:32,Wilson Bad Pass Turnover (P3.T23),,Zeller STEAL (1 STL),,,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200006,711,6,2,4,8:20 PM,0:29,Jackson S.FOUL (P2.PN) (M.Davis),,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200006,713,3,11,4,8:21 PM,0:29,,,MISS Fontecchio Free Throw 1 of 2,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,714,4,1,4,8:21 PM,0:29,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200006,715,3,12,4,8:21 PM,0:29,,,Fontecchio Free Throw 2 of 2 (5 PTS),82 - 112,30,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200006,716,1,108,4,8:21 PM,0:08,Wilson 1' Cutting Dunk Shot (7 PTS) (Dowtin 2 AST),,,82 - 114,32,4,1628391,D.J. Wilson,1610612761.0,Toronto,Raptors,TOR,4,1630288,Jeff Dowtin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1
+0012200006,718,2,1,4,8:22 PM,0:00,Jackson BLOCK (1 BLK),,MISS Agbaji 27' 3PT Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628367,Josh Jackson,1610612761.0,Toronto,Raptors,TOR,1
+0012200006,719,4,0,4,8:22 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200006,720,13,0,4,8:22 PM,0:00,,End of 4th Period (8:22 PM EST),,82 - 114,32,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

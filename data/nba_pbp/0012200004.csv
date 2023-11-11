@@ -1,0 +1,474 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200004,2,12,0,1,1:12 AM,12:00,,Start of 1st Period (1:12 AM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,4,10,0,1,1:12 AM,12:00,Jump Ball Looney vs. Porzingis: Tip to D. Green,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0012200004,7,1,1,1,1:12 AM,11:44,Poole 28' 3PT Jump Shot (3 PTS) (D. Green 1 AST),,,0 - 3,3,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,9,2,1,1,1:13 AM,11:26,,,MISS Porzingis 26' 3PT Jump Shot,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,10,4,0,1,1:13 AM,11:23,Curry REBOUND (Off:0 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,11,6,2,1,1:13 AM,11:16,,,Barton S.FOUL (P1.T1) (J.Williams),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,13,3,11,1,1:13 AM,11:16,Wiggins Free Throw 1 of 2 (1 PTS),,,0 - 4,4,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0012200004,14,3,12,1,1:13 AM,11:16,MISS Wiggins Free Throw 2 of 2,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0012200004,15,4,0,1,1:13 AM,11:14,,,Porzingis REBOUND (Off:0 Def:1),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,16,2,79,1,1:14 AM,11:02,,,MISS Hachimura 15' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,17,4,0,1,1:14 AM,10:58,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,18,1,1,1,1:14 AM,10:52,D. Green 26' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),,,0 - 7,7,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,20,1,80,1,1:14 AM,10:38,,,Kuzma 18' Step Back Jump Shot (2 PTS),2 - 7,5,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,21,6,1,1,1:14 AM,10:28,,,Kuzma P.FOUL (P1.T2) (J.Williams),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,23,2,98,1,1:15 AM,10:18,MISS Looney 5' Cutting Layup Shot,,Porzingis BLOCK (1 BLK),,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1
+0012200004,25,4,0,1,1:15 AM,10:14,Looney REBOUND (Off:1 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,26,2,1,1,1:15 AM,10:13,MISS Wiggins 28' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,27,4,0,1,1:15 AM,10:13,,,Kuzma REBOUND (Off:0 Def:1),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,28,2,1,1,1:15 AM,9:56,,,MISS Barton 24' 3PT Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,29,4,0,1,1:15 AM,9:52,D. Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,30,1,108,1,1:15 AM,9:46,Wiggins 2' Cutting Dunk Shot (3 PTS) (D. Green 2 AST),,,2 - 9,7,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,32,2,1,1,1:16 AM,9:24,,,MISS Porzingis 26' 3PT Jump Shot,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,33,4,0,1,1:16 AM,9:21,D. Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,34,2,2,1,1:16 AM,9:18,MISS Curry 30' 3PT Running Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,35,4,0,1,1:16 AM,9:14,,,Hachimura REBOUND (Off:0 Def:1),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,36,2,1,1,1:16 AM,9:10,,,MISS Kuzma 24' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,37,4,0,1,1:16 AM,9:07,Curry REBOUND (Off:0 Def:2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,38,5,40,1,1:16 AM,9:05,Poole Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,40,1,101,1,1:16 AM,8:47,,,Morris 13' Driving Floating Jump Shot (2 PTS) (Porzingis 1 AST),4 - 9,5,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,42,2,98,1,1:17 AM,8:28,MISS D. Green 10' Cutting Layup Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,43,4,0,1,1:17 AM,8:25,,,Hachimura REBOUND (Off:0 Def:2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,44,1,86,1,1:17 AM,8:19,,,Morris 13' Turnaround Fadeaway (4 PTS),6 - 9,3,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,45,1,1,1,1:17 AM,8:04,Curry 26' 3PT Jump Shot (3 PTS) (Wiggins 2 AST),,,6 - 12,6,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,47,2,79,1,1:17 AM,7:40,,,MISS Kuzma 13' Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,48,4,0,1,1:18 AM,7:38,Curry REBOUND (Off:0 Def:3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,49,1,99,1,1:18 AM,7:31,Wiggins 3' Cutting Finger Roll Layup Shot (5 PTS) (Looney 1 AST),,,6 - 14,8,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,51,6,2,1,1:18 AM,7:31,,,Morris S.FOUL (P1.T3) (G.Petraitis),,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,53,3,10,1,1:18 AM,7:31,MISS Wiggins Free Throw 1 of 1,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0012200004,54,4,0,1,1:18 AM,7:30,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,55,6,3,1,1:18 AM,7:30,,,Porzingis L.B.FOUL (P1.T4) (J.Williams),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,57,6,4,1,1:19 AM,7:23,Looney OFF.Foul (P1) (G.Petraitis),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,59,5,37,1,1:19 AM,7:23,Looney Offensive Foul Turnover (P1.T2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,60,1,101,1,1:19 AM,7:09,,,Morris 10' Driving Floating Jump Shot (6 PTS),8 - 14,6,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,61,5,1,1,1:19 AM,6:54,Curry Bad Pass Turnover (P1.T3),,Morris STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,63,5,45,1,1:20 AM,6:52,,,Morris Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,64,9,1,1,1:20 AM,6:52,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,65,8,0,1,1:21 AM,6:52,SUB: Moody FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,67,2,1,1,1:23 AM,6:39,MISS Wiggins 25' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,68,4,0,1,1:23 AM,6:35,,,Porzingis REBOUND (Off:0 Def:2),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,69,6,2,1,1:23 AM,6:23,Wiggins S.FOUL (P1.T1) (G.Petraitis),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,71,3,11,1,1:24 AM,6:23,,,Porzingis Free Throw 1 of 2 (1 PTS),9 - 14,5,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,72,3,12,1,1:24 AM,6:23,,,Porzingis Free Throw 2 of 2 (2 PTS),10 - 14,4,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,73,1,101,1,1:24 AM,6:14,Curry 14' Driving Floating Jump Shot (5 PTS),,,10 - 16,6,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,74,1,105,1,1:24 AM,5:55,,,Porzingis 14' Turnaround Fadeaway Bank Jump Shot (4 PTS) (Morris 1 AST),12 - 16,4,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,76,1,1,1,1:25 AM,5:39,Wiggins 27' 3PT Jump Shot (8 PTS) (Looney 2 AST),,,12 - 19,7,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,78,1,101,1,1:25 AM,5:13,,,Hachimura 13' Driving Floating Jump Shot (2 PTS) (Barton 1 AST),14 - 19,5,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,80,6,2,1,1:25 AM,5:13,Wiggins S.FOUL (P2.T2) (J.DeRosa),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,82,8,0,1,1:25 AM,5:13,SUB: Kuminga FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,83,8,0,1,1:25 AM,5:13,SUB: Wiseman FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,84,8,0,1,1:25 AM,5:13,,,SUB: Kispert FOR Barton,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,85,8,0,1,1:25 AM,5:13,,,SUB: Wright FOR Morris,,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,90,3,10,1,1:26 AM,5:13,,,Hachimura Free Throw 1 of 1 (3 PTS),15 - 19,4,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,91,5,1,1,1:26 AM,5:03,Curry Bad Pass Turnover (P2.T4),,Porzingis STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,93,2,41,1,1:26 AM,4:56,,,MISS Hachimura 2' Running Layup,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,94,4,0,1,1:26 AM,4:54,Curry REBOUND (Off:0 Def:4),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,95,1,2,1,1:26 AM,4:51,Moody 26' 3PT Running Jump Shot (3 PTS) (Curry 1 AST),,,15 - 22,7,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,98,6,1,1,1:27 AM,4:34,Wiseman P.FOUL (P1.T3) (J.Williams),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,100,8,0,1,1:27 AM,4:34,,,SUB: Gafford FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,101,8,0,1,1:27 AM,4:34,,,SUB: Davis FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,104,5,40,1,1:27 AM,4:23,,,Wright Out of Bounds Lost Ball Turnover (P1.T2),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,106,2,80,1,1:28 AM,4:15,MISS Curry 32' 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,107,4,0,1,1:28 AM,4:11,,,Davis REBOUND (Off:0 Def:1),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,108,1,79,1,1:28 AM,4:02,,,Hachimura 15' Pullup Jump Shot (5 PTS) (Davis 1 AST),17 - 22,5,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,110,2,96,1,1:28 AM,3:39,MISS Wiseman 11' Turnaround Bank Hook Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,111,4,0,1,1:28 AM,3:36,,,Davis REBOUND (Off:0 Def:2),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,112,5,1,1,1:28 AM,3:27,Kuminga STEAL (1 STL),,Wright Bad Pass Turnover (P2.T3),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,114,5,2,1,1:28 AM,3:21,Wiseman Lost Ball Turnover (P1.T5),,Davis STEAL (1 STL),,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,116,6,2,1,1:29 AM,3:17,Curry S.FOUL (P1.T4) (G.Petraitis),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,118,3,11,1,1:29 AM,3:17,,,Davis Free Throw 1 of 2 (1 PTS),18 - 22,4,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,119,8,0,1,1:29 AM,3:17,SUB: DiVincenzo FOR Moody,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,120,8,0,1,1:29 AM,3:17,SUB: Poole FOR D. Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,121,8,0,1,1:29 AM,3:17,SUB: J. Green FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,122,8,0,1,1:29 AM,3:17,,,SUB: Gill FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,127,3,12,1,1:29 AM,3:17,,,Davis Free Throw 2 of 2 (2 PTS),19 - 22,3,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,128,5,45,1,1:30 AM,3:02,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,131,2,79,1,1:30 AM,2:52,,,MISS Kispert 13' Pullup Jump Shot,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,132,4,0,1,1:30 AM,2:49,Kuminga REBOUND (Off:0 Def:1),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,133,2,1,1,1:30 AM,2:42,MISS Poole 24' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,134,4,0,1,1:30 AM,2:42,,,Wright REBOUND (Off:0 Def:1),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,135,2,1,1,1:30 AM,2:34,,,MISS Davis 26' 3PT Jump Shot,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,136,4,0,1,1:30 AM,2:26,,,Gafford REBOUND (Off:1 Def:0),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,137,2,1,1,1:30 AM,2:21,,,MISS Kispert 27' 3PT Jump Shot,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,138,4,0,1,1:31 AM,2:17,DiVincenzo REBOUND (Off:0 Def:1),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,139,2,2,1,1:31 AM,2:13,MISS DiVincenzo 28' 3PT Running Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,140,4,0,1,1:31 AM,2:10,,,Gill REBOUND (Off:0 Def:1),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,141,1,98,1,1:31 AM,2:01,,,Wright 1' Cutting Layup Shot (2 PTS) (Gafford 1 AST),21 - 22,1,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,143,5,1,1,1:31 AM,1:44,Poole Bad Pass Turnover (P2.T7),,Wright STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,216,2,41,1,1:31 AM,1:40,,,MISS Kispert 3' Running Layup,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,217,4,0,1,1:31 AM,1:40,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,147,9,1,1,1:31 AM,1:40,,,Wizards Timeout: Regular (Reg.1 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,148,8,0,1,1:33 AM,1:40,,,SUB: Kuzma FOR Kispert,,,5,1630557,Corey Kispert,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,150,6,2,1,1:35 AM,1:25,,,Kuzma S.FOUL (P2.PN) (G.Petraitis),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,152,9,1,1,1:35 AM,1:25,,,Wizards Timeout: Regular (Reg.2 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,153,18,6,1,1:35 AM,1:25,,Instant Replay1st Period (1:35 AM EST),,21 - 22,1,0,150,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200004,154,8,0,1,1:37 AM,1:25,,,SUB: Barton FOR Wright,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,156,3,11,1,1:37 AM,1:25,Wiseman Free Throw 1 of 2 (1 PTS),,,21 - 23,2,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,157,3,12,1,1:37 AM,1:25,Wiseman Free Throw 2 of 2 (2 PTS),,,21 - 24,3,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,177,8,0,1,1:38 AM,1:09,,,SUB: Wright FOR Barton,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,159,5,1,1,1:38 AM,1:08,Poole STEAL (1 STL),,Wright Bad Pass Turnover (P3.T4),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,161,1,76,1,1:38 AM,1:04,Poole 1' Running Finger Roll Layup (5 PTS),,,21 - 26,5,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,163,6,1,1,1:38 AM,0:53,Kuminga P.FOUL (P1.PN) (G.Petraitis),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,165,3,11,1,1:39 AM,0:53,,,Kuzma Free Throw 1 of 2 (3 PTS),22 - 26,4,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,166,3,12,1,1:39 AM,0:53,,,Kuzma Free Throw 2 of 2 (4 PTS),23 - 26,3,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,167,5,45,1,1:39 AM,0:42,Poole Out of Bounds - Bad Pass Turnover Turnover (P3.T8),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,169,2,101,1,1:40 AM,0:32,,,MISS Kuzma 11' Driving Floating Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,170,4,0,1,1:40 AM,0:28,,,Gafford REBOUND (Off:2 Def:0),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,171,2,101,1,1:40 AM,0:18,J. Green BLOCK (1 BLK),,MISS Wright 10' Driving Floating Jump Shot,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,1
+0012200004,173,4,0,1,1:40 AM,0:18,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,175,1,101,1,1:40 AM,0:15,,,Gill 15' Driving Floating Jump Shot (2 PTS) (Wright 1 AST),25 - 26,1,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,179,5,45,1,1:41 AM,0:05,DiVincenzo Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,181,2,79,1,1:41 AM,0:00,,,MISS Kuzma 46' 3PT Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,182,4,0,1,1:41 AM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,183,13,0,1,1:41 AM,0:00,,End of 1st Period (1:41 AM EST),,25 - 26,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,186,12,0,2,1:44 AM,12:00,,Start of 2nd Period (1:44 AM EST),,25 - 26,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,187,2,79,2,1:44 AM,11:37,,,MISS Davis 28' 3PT Pullup Jump Shot,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,188,4,0,2,1:44 AM,11:33,J. Green REBOUND (Off:0 Def:1),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,189,2,1,2,1:45 AM,11:16,MISS DiVincenzo 25' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,190,4,0,2,1:45 AM,11:13,,,Gafford REBOUND (Off:2 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,191,2,6,2,1:45 AM,10:54,,,MISS Morris 3' Driving Layup,,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,192,4,0,2,1:45 AM,10:51,Wiseman REBOUND (Off:0 Def:1),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,193,5,1,2,1:45 AM,10:43,J. Green Bad Pass Turnover (P1.T10),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,195,6,3,2,1:45 AM,10:43,Poole L.B.FOUL (P1.T1) (J.DeRosa),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,197,2,3,2,1:46 AM,10:32,,,MISS Kuzma 10' Hook Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,198,4,0,2,1:46 AM,10:28,Wiseman REBOUND (Off:0 Def:2),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,199,2,1,2,1:46 AM,10:11,MISS Poole 28' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,200,4,0,2,1:46 AM,10:07,,,Davis REBOUND (Off:0 Def:3),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,201,2,1,2,1:46 AM,9:56,,,MISS Kuzma 24' 3PT Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,202,4,0,2,1:46 AM,9:52,,,Gill REBOUND (Off:1 Def:1),,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,203,6,2,2,1:47 AM,9:44,Wiseman S.FOUL (P2.T2) (J.DeRosa),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,205,3,11,2,1:47 AM,9:44,,,MISS Gafford Free Throw 1 of 2,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,206,4,1,2,1:47 AM,9:44,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,207,3,12,2,1:48 AM,9:44,,,Gafford Free Throw 2 of 2 (1 PTS),26 - 26,TIE,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,208,6,4,2,1:48 AM,9:33,Wiseman OFF.Foul (P3) (J.Williams),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,210,5,37,2,1:48 AM,9:33,Wiseman Offensive Foul Turnover (P2.T11),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,211,8,0,2,1:48 AM,9:33,,,SUB: Hachimura FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,213,6,4,2,1:48 AM,9:22,,,Davis OFF.Foul (P1) (J.DeRosa),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,215,5,37,2,1:48 AM,9:22,,,Davis Offensive Foul Turnover (P1.T5),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,218,8,0,2,1:48 AM,9:22,SUB: Wiggins FOR Kuminga,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,219,8,0,2,1:48 AM,9:22,,,SUB: Barton FOR Davis,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,222,1,73,2,1:49 AM,9:08,Wiseman 2' Driving Reverse Layup (4 PTS) (DiVincenzo 1 AST),,,26 - 28,2,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,224,1,98,2,1:49 AM,8:50,,,Gill 3' Cutting Layup Shot (4 PTS) (Gafford 2 AST),28 - 28,TIE,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,226,6,1,2,1:49 AM,8:45,,,Barton P.FOUL (P2.T1) (J.DeRosa),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,228,1,1,2,1:50 AM,8:39,Wiseman 28' 3PT Jump Shot (7 PTS) (J. Green 1 AST),,,28 - 31,3,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,230,2,1,2,1:50 AM,8:21,,,MISS Barton 25' 3PT Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,231,4,0,2,1:50 AM,8:19,J. Green REBOUND (Off:0 Def:2),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,232,5,45,2,1:50 AM,8:15,Poole Out of Bounds - Bad Pass Turnover Turnover (P4.T12),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,234,8,0,2,1:50 AM,8:15,SUB: Moody FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,235,8,0,2,1:50 AM,8:15,SUB: Looney FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,236,8,0,2,1:50 AM,8:15,SUB: Curry FOR Wiseman,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,242,2,6,2,1:51 AM,8:00,,,MISS Gafford 3' Driving Layup,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,243,4,0,2,1:51 AM,7:59,,,Hachimura REBOUND (Off:1 Def:2),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,244,5,40,2,1:51 AM,7:58,,,Hachimura Out of Bounds Lost Ball Turnover (P1.T6),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,246,8,0,2,1:51 AM,7:58,SUB: D. Green FOR J. Green,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,247,8,0,2,1:51 AM,7:58,,,SUB: Porzingis FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,250,2,101,2,1:52 AM,7:45,MISS Moody 16' Driving Floating Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,251,4,0,2,1:52 AM,7:42,Looney REBOUND (Off:2 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,252,1,75,2,1:52 AM,7:38,Curry 7' Driving Finger Roll Layup (7 PTS) (D. Green 3 AST),,,28 - 33,5,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,254,1,1,2,1:52 AM,7:22,,,Morris 26' 3PT Jump Shot (9 PTS) (Hachimura 1 AST),31 - 33,2,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,256,5,1,2,1:52 AM,7:11,Moody Bad Pass Turnover (P1.T13),,Hachimura STEAL (1 STL),,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,258,1,41,2,1:52 AM,7:08,,,Hachimura 1' Running Layup (7 PTS),33 - 33,TIE,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,259,6,2,2,1:52 AM,7:08,Wiggins S.FOUL (P3.T3) (J.DeRosa),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,261,9,1,2,1:53 AM,7:08,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,262,8,0,2,1:54 AM,7:08,,,SUB: Davis FOR Gill,,,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,264,3,10,2,1:56 AM,7:08,,,Hachimura Free Throw 1 of 1 (8 PTS),34 - 33,-1,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,265,5,1,2,1:56 AM,6:49,Curry Bad Pass Turnover (P3.T14),,Morris STEAL (2 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,267,1,41,2,1:56 AM,6:44,,,Morris 3' Running Layup (11 PTS),36 - 33,-3,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,268,1,79,2,1:57 AM,6:32,Wiggins 16' Pullup Jump Shot (10 PTS) (Looney 3 AST),,,36 - 35,-1,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,269,1,1,2,1:57 AM,6:16,,,Barton 26' 3PT Jump Shot (3 PTS) (Morris 2 AST),39 - 35,-4,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,272,2,1,2,1:57 AM,6:06,MISS Wiggins 31' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,273,4,0,2,1:57 AM,6:02,,,Hachimura REBOUND (Off:1 Def:3),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,274,2,6,2,1:57 AM,5:49,,,MISS Porzingis 2' Driving Layup,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,275,4,0,2,1:57 AM,5:46,D. Green REBOUND (Off:0 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,276,1,98,2,1:57 AM,5:42,Looney 3' Cutting Layup Shot (2 PTS) (D. Green 4 AST),,,39 - 37,-2,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,278,2,1,2,1:58 AM,5:26,,,MISS Barton 27' 3PT Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,279,4,0,2,1:58 AM,5:24,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,280,6,3,2,1:58 AM,5:24,,,Porzingis L.B.FOUL (P2.T2) (J.Williams),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,282,8,0,2,1:58 AM,5:24,,,SUB: Wright FOR Morris,,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,284,2,79,2,1:58 AM,5:16,MISS Curry 27' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,285,4,0,2,1:58 AM,5:11,,,Hachimura REBOUND (Off:1 Def:4),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,286,6,2,2,1:58 AM,5:04,Moody S.FOUL (P1.T4) (J.Williams),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,288,3,11,2,1:59 AM,5:04,,,Barton Free Throw 1 of 2 (4 PTS),40 - 37,-3,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,289,3,12,2,1:59 AM,5:04,,,Barton Free Throw 2 of 2 (5 PTS),41 - 37,-4,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,290,2,79,2,1:59 AM,4:58,MISS Curry 31' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,291,4,0,2,1:59 AM,4:56,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,293,2,98,2,2:00 AM,4:47,Curry BLOCK (1 BLK),,MISS Barton 4' Cutting Layup Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1
+0012200004,295,4,0,2,2:00 AM,4:44,Curry REBOUND (Off:0 Def:5),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,297,1,74,2,2:00 AM,4:43,Curry 3' Running Reverse Layup (9 PTS),,,41 - 39,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,298,7,2,2,2:00 AM,4:43,,,Hachimura Violation:Defensive Goaltending (G.Petraitis),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,299,2,79,2,2:00 AM,4:26,,,MISS Hachimura 17' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,300,4,0,2,2:00 AM,4:23,Looney REBOUND (Off:2 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,301,1,74,2,2:00 AM,4:18,Curry 1' Running Reverse Layup (11 PTS) (Moody 1 AST),,,41 - 41,TIE,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,303,1,79,2,2:01 AM,4:09,,,Barton 13' Pullup Jump Shot (7 PTS),43 - 41,-2,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,304,2,79,2,2:01 AM,3:46,MISS Wiggins 20' Pullup Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,305,4,0,2,2:01 AM,3:44,,,Hachimura REBOUND (Off:1 Def:5),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,306,6,2,2,2:01 AM,3:25,Wiggins S.FOUL (P4.PN) (J.DeRosa),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,308,3,11,2,2:02 AM,3:25,,,Porzingis Free Throw 1 of 2 (5 PTS),44 - 41,-3,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,309,8,0,2,2:02 AM,3:25,,,SUB: Kuzma FOR Davis,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,311,3,12,2,2:02 AM,3:25,,,Porzingis Free Throw 2 of 2 (6 PTS),45 - 41,-4,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,312,1,79,2,2:03 AM,3:04,Curry 29' 3PT Pullup Jump Shot (14 PTS) (D. Green 5 AST),,,45 - 44,-1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,314,2,1,2,2:03 AM,2:49,,,MISS Hachimura 29' 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,315,4,0,2,2:03 AM,2:46,Looney REBOUND (Off:2 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,316,2,73,2,2:03 AM,2:36,MISS Curry 2' Driving Reverse Layup,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,317,4,0,2,2:03 AM,2:33,,,Hachimura REBOUND (Off:1 Def:6),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,318,1,2,2,2:03 AM,2:31,,,Wright 3PT Running Jump Shot (5 PTS) (Hachimura 2 AST),48 - 44,-4,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,320,1,44,2,2:03 AM,2:19,Moody 1' Reverse Layup (5 PTS),,,48 - 46,-2,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,321,2,1,2,2:04 AM,2:02,,,MISS Barton 29' 3PT Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,322,4,0,2,2:04 AM,1:58,,,Barton REBOUND (Off:1 Def:0),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,323,1,1,2,2:04 AM,1:56,,,Hachimura 27' 3PT Jump Shot (11 PTS) (Barton 2 AST),51 - 46,-5,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,325,2,1,2,2:04 AM,1:41,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,326,4,0,2,2:04 AM,1:37,Wiggins REBOUND (Off:1 Def:0),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,327,1,1,2,2:04 AM,1:35,Curry 31' 3PT Jump Shot (17 PTS) (Wiggins 3 AST),,,51 - 49,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,329,6,2,2,2:04 AM,1:11,Wiggins S.FOUL (P5.PN) (J.Williams),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,331,9,1,2,2:05 AM,1:11,,,Wizards Timeout: Regular (Reg.3 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,332,3,11,2,2:08 AM,1:11,,,Barton Free Throw 1 of 2 (8 PTS),52 - 49,-3,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,333,3,12,2,2:08 AM,1:11,,,Barton Free Throw 2 of 2 (9 PTS),53 - 49,-4,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,334,1,1,2,2:08 AM,1:00,D. Green 27' 3PT Jump Shot (6 PTS) (Curry 2 AST),,,53 - 52,-1,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,336,2,1,2,2:08 AM,0:45,,,MISS Barton 25' 3PT Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,337,4,0,2,2:08 AM,0:41,Looney REBOUND (Off:2 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,338,5,40,2,2:09 AM,0:35,Curry Out of Bounds Lost Ball Turnover (P4.T15),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,340,1,79,2,2:09 AM,0:30,,,Porzingis 31' 3PT Pullup Jump Shot (9 PTS) (Wright 2 AST),56 - 52,-4,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,343,2,80,2,2:10 AM,0:06,MISS Curry 30' 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,344,4,0,2,2:10 AM,0:02,Looney REBOUND (Off:3 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,345,1,63,2,2:10 AM,0:00,Looney 20' Fadeaway Jumper (4 PTS),,,56 - 54,-2,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,346,6,2,2,2:10 AM,0:00,,,Porzingis S.FOUL (P3.T3) (J.DeRosa),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,348,3,10,2,2:10 AM,0:00,MISS Looney Free Throw 1 of 1,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,349,4,0,2,2:10 AM,0:00,,,Porzingis REBOUND (Off:0 Def:3),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,350,13,0,2,2:10 AM,0:00,,End of 2nd Period (2:10 AM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,363,12,0,3,2:27 AM,12:00,,Start of 3rd Period (2:27 AM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,364,1,108,3,2:27 AM,11:49,,,Kuzma 1' Cutting Dunk Shot (6 PTS) (Porzingis 2 AST),58 - 54,-4,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,366,2,1,3,2:28 AM,11:30,MISS DiVincenzo 26' 3PT Jump Shot,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,367,4,0,3,2:28 AM,11:27,,,Kuzma REBOUND (Off:0 Def:2),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,368,1,76,3,2:28 AM,11:22,,,Kuzma 2' Running Finger Roll Layup (8 PTS),60 - 54,-6,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,369,5,1,3,2:28 AM,11:04,DiVincenzo Bad Pass Turnover (P3.T16),,Porzingis STEAL (2 STL),,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,371,1,79,3,2:28 AM,10:52,,,Barton 19' Pullup Jump Shot (11 PTS) (Kuzma 1 AST),62 - 54,-8,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,373,1,75,3,2:28 AM,10:39,Poole 2' Driving Finger Roll Layup (7 PTS),,,62 - 56,-6,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,374,2,1,3,2:29 AM,10:23,,,MISS Porzingis 17' Jump Shot,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,375,4,0,3,2:29 AM,10:19,Kuminga REBOUND (Off:0 Def:2),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,376,2,63,3,2:29 AM,10:11,MISS Poole 24' 3PT Fadeaway Jumper,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,377,4,0,3,2:29 AM,10:07,,,Hachimura REBOUND (Off:1 Def:7),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,378,2,1,3,2:29 AM,9:55,,,MISS Barton 27' 3PT Jump Shot,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,379,4,0,3,2:29 AM,9:52,,,Porzingis REBOUND (Off:1 Def:3),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,380,6,1,3,2:29 AM,9:51,J. Green P.FOUL (P1.T1) (J.DeRosa),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,382,1,5,3,2:30 AM,9:44,,,Porzingis 2' Layup (11 PTS) (Morris 3 AST),64 - 56,-8,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,384,6,2,3,2:30 AM,9:44,Wiseman S.FOUL (P4.T2) (J.Williams),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,386,3,10,3,2:30 AM,9:44,,,Porzingis Free Throw 1 of 1 (12 PTS),65 - 56,-9,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,387,2,79,3,2:30 AM,9:29,MISS Poole 12' Pullup Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,388,4,0,3,2:30 AM,9:25,,,Kuzma REBOUND (Off:0 Def:3),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,389,1,1,3,2:31 AM,9:18,,,Porzingis 29' 3PT Jump Shot (15 PTS) (Kuzma 2 AST),68 - 56,-12,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,391,9,1,3,2:31 AM,9:15,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,392,6,6,3,2:34 AM,9:07,,,Porzingis AWAY.FROM.PLAY.FOUL (P4.T1) (J.DeRosa),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,394,2,78,3,2:34 AM,9:02,MISS Wiseman 9' Floating Jump Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,395,4,0,3,2:34 AM,8:55,,,Kuzma REBOUND (Off:0 Def:4),,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,396,2,79,3,2:34 AM,8:49,,,MISS Kuzma 13' Pullup Jump Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,397,4,0,3,2:34 AM,8:45,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,398,2,106,3,2:34 AM,8:42,MISS Wiseman 1' Running Alley Oop Dunk Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,399,4,0,3,2:35 AM,8:38,Wiseman REBOUND (Off:1 Def:2),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,400,2,1,3,2:35 AM,8:36,MISS J. Green 26' 3PT Jump Shot,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,401,4,0,3,2:35 AM,8:33,,,Porzingis REBOUND (Off:1 Def:4),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,402,6,1,3,2:35 AM,8:21,Poole P.FOUL (P2.T3) (J.Williams),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,404,2,79,3,2:35 AM,8:15,,,MISS Hachimura 17' Pullup Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,405,4,0,3,2:35 AM,8:12,J. Green REBOUND (Off:0 Def:3),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,406,1,1,3,2:36 AM,7:53,Kuminga 27' 3PT Jump Shot (3 PTS) (DiVincenzo 2 AST),,,68 - 59,-9,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,409,6,4,3,2:36 AM,7:42,,,Hachimura OFF.Foul (P1) (J.Williams),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,411,5,37,3,2:36 AM,7:42,,,Hachimura Offensive Foul Turnover (P2.T7),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,412,5,1,3,2:36 AM,7:27,Poole Bad Pass Turnover (P5.T17),,Hachimura STEAL (2 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,414,1,2,3,2:36 AM,7:22,,,Porzingis 9' Running Jump Shot (17 PTS) (Barton 3 AST),70 - 59,-11,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,416,6,2,3,2:36 AM,7:22,J. Green S.FOUL (P2.T4) (G.Petraitis),,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,418,3,10,3,2:37 AM,7:22,,,Porzingis Free Throw 1 of 1 (18 PTS),71 - 59,-12,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,419,2,6,3,2:37 AM,7:05,MISS Kuminga 3' Driving Layup,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,420,4,0,3,2:37 AM,7:02,Kuminga REBOUND (Off:1 Def:2),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,421,2,97,3,2:37 AM,7:02,MISS Kuminga 3' Tip Layup Shot,,Porzingis BLOCK (2 BLK),,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,1
+0012200004,423,4,0,3,2:37 AM,6:58,,,Morris REBOUND (Off:0 Def:1),,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,424,5,1,3,2:37 AM,6:47,DiVincenzo STEAL (1 STL),,Porzingis Bad Pass Turnover (P1.T8),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,426,6,2,3,2:38 AM,6:43,,,Barton S.FOUL (P3.T2) (G.Petraitis),,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,428,3,11,3,2:38 AM,6:43,Wiseman Free Throw 1 of 2 (8 PTS),,,71 - 60,-11,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,429,8,0,3,2:38 AM,6:43,SUB: Moody FOR Kuminga,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,431,3,12,3,2:38 AM,6:43,MISS Wiseman Free Throw 2 of 2,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,432,4,0,3,2:38 AM,6:40,,,Hachimura REBOUND (Off:1 Def:8),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,433,6,2,3,2:39 AM,6:32,DiVincenzo S.FOUL (P1.PN) (G.Petraitis),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,435,3,11,3,2:39 AM,6:32,,,MISS Barton Free Throw 1 of 2,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,436,4,1,3,2:39 AM,6:32,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,437,3,12,3,2:39 AM,6:32,,,Barton Free Throw 2 of 2 (12 PTS),72 - 60,-12,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,438,2,1,3,2:39 AM,6:19,MISS J. Green 19' Jump Shot,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,439,4,0,3,2:39 AM,6:16,,,Porzingis REBOUND (Off:1 Def:5),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,440,2,1,3,2:40 AM,6:01,,,MISS Morris 25' 3PT Jump Shot,,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,441,4,0,3,2:40 AM,5:57,DiVincenzo REBOUND (Off:0 Def:2),,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,442,6,1,3,2:40 AM,5:46,,,Porzingis P.FOUL (P5.T3) (J.Williams),,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,444,8,0,3,2:40 AM,5:46,SUB: Rollins FOR DiVincenzo,,,,,4,1628978,Donte DiVincenzo,1610612744.0,Golden State,Warriors,GSW,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,445,8,0,3,2:40 AM,5:46,SUB: Weatherspoon FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629683,Quinndary Weatherspoon,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,446,8,0,3,2:40 AM,5:46,,,SUB: Gafford FOR Barton,,,5,203115,Will Barton,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,447,8,0,3,2:40 AM,5:46,,,SUB: Davis FOR Porzingis,,,5,204001,Kristaps Porzingis,1610612764.0,Washington,Wizards,WAS,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,453,2,3,3,2:41 AM,5:37,MISS Wiseman 6' Hook Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,454,4,0,3,2:41 AM,5:34,,,Hachimura REBOUND (Off:1 Def:9),,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,455,2,1,3,2:41 AM,5:21,J. Green BLOCK (2 BLK),,MISS Hachimura 26' 3PT Jump Shot,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,1
+0012200004,457,4,0,3,2:41 AM,5:17,,,Gafford REBOUND (Off:3 Def:1),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,458,6,2,3,2:41 AM,5:17,Wiseman S.FOUL (P5.PN) (J.Williams),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,460,3,11,3,2:42 AM,5:17,,,Gafford Free Throw 1 of 2 (2 PTS),73 - 60,-13,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,461,8,0,3,2:42 AM,5:17,SUB: Williams FOR J. Green,,,,,4,203210,JaMychal Green,1610612744.0,Golden State,Warriors,GSW,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,462,8,0,3,2:42 AM,5:17,SUB: Baldwin Jr. FOR Wiseman,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,465,3,12,3,2:42 AM,5:17,,,Gafford Free Throw 2 of 2 (3 PTS),74 - 60,-14,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,466,1,98,3,2:43 AM,5:08,Weatherspoon 2' Cutting Layup Shot (2 PTS) (Williams 1 AST),,,74 - 62,-12,4,1629683,Quinndary Weatherspoon,1610612744.0,Golden State,Warriors,GSW,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,468,2,57,3,2:43 AM,4:54,,,MISS Kuzma 2' Driving Hook Shot,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,469,4,0,3,2:43 AM,4:52,Williams REBOUND (Off:0 Def:1),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,470,2,103,3,2:43 AM,4:48,MISS Rollins 5' Running Pull-Up Jump Shot,,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,471,4,0,3,2:43 AM,4:45,,,Gafford REBOUND (Off:3 Def:2),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,472,2,1,3,2:43 AM,4:36,,,MISS Morris 26' 3PT Jump Shot,,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,473,4,0,3,2:43 AM,4:32,Weatherspoon REBOUND (Off:0 Def:1),,,,,4,1629683,Quinndary Weatherspoon,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,474,2,79,3,2:43 AM,4:14,MISS Rollins 14' Pullup Jump Shot,,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,475,4,0,3,2:44 AM,4:10,Williams REBOUND (Off:1 Def:1),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,476,1,1,3,2:44 AM,4:09,Baldwin Jr. 27' 3PT Jump Shot (3 PTS) (Williams 2 AST),,,74 - 65,-9,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,478,9,1,3,2:44 AM,4:08,,,Wizards Timeout: Regular (Reg.4 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,480,8,0,3,2:46 AM,4:08,,,SUB: Wright FOR Morris,,,5,1628420,Monte Morris,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,481,8,0,3,2:46 AM,4:08,,,SUB: Schakel FOR Kuzma,,,5,1628398,Kyle Kuzma,1610612764.0,Washington,Wizards,WAS,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,485,5,4,3,2:47 AM,3:55,,,Wright Traveling Turnover (P4.T9),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,486,8,0,3,2:47 AM,3:55,,,SUB: Gill FOR Hachimura,,,5,1629060,Rui Hachimura,1610612764.0,Washington,Wizards,WAS,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,488,6,1,3,2:48 AM,3:46,,,Davis P.FOUL (P2.T4) (J.Williams),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,491,2,101,3,2:48 AM,3:40,MISS Rollins 8' Driving Floating Jump Shot,,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,492,4,0,3,2:48 AM,3:40,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,494,6,2,3,2:49 AM,3:26,Moody S.FOUL (P2.PN) (G.Petraitis),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,497,3,11,3,2:49 AM,3:26,,,Schakel Free Throw 1 of 2 (1 PTS),75 - 65,-10,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,498,3,12,3,2:49 AM,3:26,,,Schakel Free Throw 2 of 2 (2 PTS),76 - 65,-11,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,499,2,1,3,2:49 AM,3:16,MISS Williams 28' 3PT Jump Shot,,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,500,4,0,3,2:50 AM,3:13,Williams REBOUND (Off:2 Def:1),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,501,1,1,3,2:50 AM,3:05,Baldwin Jr. 27' 3PT Jump Shot (6 PTS) (Rollins 1 AST),,,76 - 68,-8,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,503,2,79,3,2:50 AM,2:51,,,MISS Schakel 28' 3PT Pullup Jump Shot,,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,504,4,0,3,2:50 AM,2:47,Williams REBOUND (Off:2 Def:2),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,505,6,2,3,2:50 AM,2:44,,,Schakel S.FOUL (P1.PN) (G.Petraitis),,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,507,3,11,3,2:50 AM,2:44,MISS Williams Free Throw 1 of 2,,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,508,4,1,3,2:50 AM,2:44,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,509,3,12,3,2:51 AM,2:44,MISS Williams Free Throw 2 of 2,,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,510,4,0,3,2:51 AM,2:42,,,Wright REBOUND (Off:0 Def:2),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,511,2,79,3,2:51 AM,2:22,,,MISS Davis 22' Pullup Jump Shot,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,512,4,0,3,2:51 AM,2:18,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,514,2,1,3,2:52 AM,2:16,,,MISS Schakel 14' Jump Shot,,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,515,4,0,3,2:52 AM,2:10,Williams REBOUND (Off:2 Def:3),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,516,2,79,3,2:52 AM,1:55,MISS Rollins 16' Pullup Jump Shot,,,,,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,517,4,0,3,2:52 AM,1:53,,,Davis REBOUND (Off:0 Def:4),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,518,2,1,3,2:52 AM,1:43,Baldwin Jr. BLOCK (1 BLK),,MISS Wright 7' Jump Shot,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,1
+0012200004,520,4,0,3,2:52 AM,1:38,Baldwin Jr. REBOUND (Off:0 Def:1),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,521,1,98,3,2:52 AM,1:37,Weatherspoon 2' Cutting Layup Shot (4 PTS) (Rollins 2 AST),,,76 - 70,-6,4,1629683,Quinndary Weatherspoon,1610612744.0,Golden State,Warriors,GSW,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,523,1,5,3,2:52 AM,1:31,,,Schakel 1' Layup (4 PTS) (Wright 3 AST),78 - 70,-8,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,524,2,79,3,2:53 AM,1:10,MISS Baldwin Jr. 19' Pullup Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,525,4,0,3,2:53 AM,1:06,Williams REBOUND (Off:3 Def:3),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,526,1,79,3,2:53 AM,1:06,Williams 8' Pullup Jump Shot (2 PTS),,,78 - 72,-6,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,527,1,98,3,2:53 AM,0:53,,,Schakel 2' Cutting Layup Shot (6 PTS) (Gafford 3 AST),80 - 72,-8,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,529,2,6,3,2:53 AM,0:40,MISS Moody 3' Driving Layup,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,530,4,0,3,2:53 AM,0:37,,,Gafford REBOUND (Off:3 Def:3),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,531,1,2,3,2:53 AM,0:34,,,Gill 27' 3PT Running Jump Shot (7 PTS) (Wright 4 AST),83 - 72,-11,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,533,6,2,3,2:54 AM,0:18,,,Gafford S.FOUL (P1.PN) (J.DeRosa),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,535,3,11,3,2:54 AM,0:18,Rollins Free Throw 1 of 2 (1 PTS),,,83 - 73,-10,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,536,3,12,3,2:54 AM,0:18,Rollins Free Throw 2 of 2 (2 PTS),,,83 - 74,-9,4,1631157,Ryan Rollins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,537,1,58,3,2:55 AM,0:03,,,Gill 8' Turnaround Hook Shot (9 PTS) (Wright 5 AST),85 - 74,-11,5,1630264,Anthony Gill,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,539,2,79,3,2:55 AM,0:00,MISS Moody 46' 3PT Pullup Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,540,4,0,3,2:55 AM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,541,13,0,3,2:55 AM,0:00,,End of 3rd Period (2:55 AM EST),,85 - 74,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,552,12,0,4,2:58 AM,12:00,,Start of 4th Period (2:58 AM EST),,85 - 74,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,554,2,1,4,2:58 AM,11:40,MISS Williams 27' 3PT Jump Shot,,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,555,4,0,4,2:58 AM,11:37,Baldwin Jr. REBOUND (Off:1 Def:1),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,556,5,1,4,2:58 AM,11:30,Kuminga Bad Pass Turnover (P1.T18),,Wright STEAL (2 STL),,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,558,2,47,4,2:59 AM,11:16,,,MISS Gibson 12' Turnaround Jump Shot,,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,559,4,0,4,2:59 AM,11:12,Baldwin Jr. REBOUND (Off:1 Def:2),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,560,6,4,4,2:59 AM,11:07,Baldwin Jr. OFF.Foul (P1) (J.Williams),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,562,5,37,4,2:59 AM,11:07,Baldwin Jr. Offensive Foul Turnover (P1.T19),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,563,2,101,4,2:59 AM,10:55,,,MISS Wright 12' Driving Floating Jump Shot,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,564,4,0,4,2:59 AM,10:52,,,Wright REBOUND (Off:1 Def:2),,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,565,1,1,4,2:59 AM,10:42,,,Gibson 24' 3PT Jump Shot (3 PTS) (Wright 6 AST),88 - 74,-14,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,567,5,4,4,3:00 AM,10:21,Kuminga Traveling Turnover (P2.T20),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,568,5,1,4,3:00 AM,10:12,McClung STEAL (1 STL),,Gafford Bad Pass Turnover (P1.T10),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,570,2,76,4,3:00 AM,10:08,MISS McClung 1' Running Finger Roll Layup,,,,,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,571,4,0,4,3:00 AM,10:06,,,Gafford REBOUND (Off:3 Def:4),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,572,2,2,4,3:00 AM,10:02,,,MISS Wright 27' 3PT Running Jump Shot,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,573,4,0,4,3:00 AM,9:58,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,575,6,2,4,3:01 AM,9:54,Williams S.FOUL (P1.T1) (G.Petraitis),,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,577,3,11,4,3:01 AM,9:54,,,Schakel Free Throw 1 of 2 (7 PTS),89 - 74,-15,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,578,3,12,4,3:01 AM,9:54,,,Schakel Free Throw 2 of 2 (8 PTS),90 - 74,-16,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,579,1,80,4,3:02 AM,9:42,Baldwin Jr. 24' 3PT Step Back Jump Shot (9 PTS) (McClung 1 AST),,,90 - 77,-13,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,581,5,1,4,3:02 AM,9:32,McClung STEAL (2 STL),,Gafford Bad Pass Turnover (P2.T11),,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,583,6,1,4,3:02 AM,9:22,,,Gibson P.FOUL (P1.T1) (J.DeRosa),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,585,2,1,4,3:02 AM,9:11,MISS Kuminga 28' 3PT Jump Shot,,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,586,4,0,4,3:02 AM,9:07,,,Gibson REBOUND (Off:0 Def:1),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,587,2,1,4,3:03 AM,8:56,,,MISS Gibson 28' 3PT Jump Shot,,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,588,4,0,4,3:03 AM,8:54,Baldwin Jr. REBOUND (Off:1 Def:3),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,589,6,2,4,3:03 AM,8:41,,,Todd S.FOUL (P1.T2) (G.Petraitis),,,5,1630225,Isaiah Todd,1610612764.0,Washington,Wizards,WAS,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,591,3,11,4,3:03 AM,8:41,Spencer Free Throw 1 of 2 (1 PTS),,,90 - 78,-12,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,592,8,0,4,3:03 AM,8:41,SUB: Wiseman FOR Williams,,,,,4,1630652,Trevion Williams,1610612744.0,Golden State,Warriors,GSW,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,594,3,12,4,3:04 AM,8:41,Spencer Free Throw 2 of 2 (2 PTS),,,90 - 79,-11,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,595,5,1,4,3:04 AM,8:23,Baldwin Jr. STEAL (1 STL),,Gibson Bad Pass Turnover (P1.T12),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,597,1,50,4,3:04 AM,8:19,McClung 2' Running Dunk (2 PTS) (Baldwin Jr. 1 AST),,,90 - 81,-9,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,599,9,1,4,3:04 AM,8:19,,,Wizards Timeout: Regular (Reg.5 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,600,8,0,4,3:07 AM,8:19,,,SUB: Davis FOR Wright,,,5,1626153,Delon Wright,1610612764.0,Washington,Wizards,WAS,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,602,2,1,4,3:07 AM,8:08,,,MISS Schakel 25' 3PT Jump Shot,,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,603,4,0,4,3:07 AM,8:05,,,Gibson REBOUND (Off:1 Def:1),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0012200004,604,2,79,4,3:07 AM,7:58,,,MISS Davis 17' Pullup Jump Shot,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,605,4,0,4,3:07 AM,7:53,Kuminga REBOUND (Off:1 Def:3),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,606,1,6,4,3:07 AM,7:45,Kuminga 3' Driving Layup (5 PTS),,,90 - 83,-7,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,608,8,0,4,3:08 AM,7:29,,,SUB: Carey Jr. FOR Gafford,,,5,1629655,Daniel Gafford,1610612764.0,Washington,Wizards,WAS,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0012200004,610,6,4,4,3:08 AM,7:22,,,Carey Jr. OFF.Foul (P1) (J.Williams),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,612,5,37,4,3:08 AM,7:22,,,Carey Jr. Offensive Foul Turnover (P1.T13),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,613,2,1,4,3:09 AM,7:04,MISS Baldwin Jr. 29' 3PT Jump Shot,,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,614,4,0,4,3:09 AM,7:03,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,615,6,3,4,3:09 AM,7:03,,,Gibson L.B.FOUL (P2.T3) (J.Williams),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,617,2,1,4,3:09 AM,6:58,MISS Wiseman 16' Jump Shot,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,618,4,0,4,3:09 AM,6:54,,,Carey Jr. REBOUND (Off:0 Def:1),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,619,2,1,4,3:09 AM,6:41,,,MISS Schakel 26' 3PT Jump Shot,,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,620,4,0,4,3:10 AM,6:37,McClung REBOUND (Off:0 Def:1),,,,,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,622,1,1,4,3:10 AM,6:30,McClung 26' 3PT Jump Shot (5 PTS) (Spencer 1 AST),,,90 - 86,-4,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,624,2,79,4,3:10 AM,6:05,,,MISS Davis 10' Pullup Jump Shot,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,625,4,0,4,3:10 AM,6:03,,,Schakel REBOUND (Off:1 Def:0),,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,626,2,72,4,3:10 AM,6:02,Wiseman BLOCK (1 BLK),,MISS Schakel 1' Putback Layup,,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,1
+0012200004,628,4,0,4,3:10 AM,5:59,,,Carey Jr. REBOUND (Off:1 Def:1),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,629,2,72,4,3:10 AM,5:59,,,MISS Carey Jr. 3' Putback Layup,,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,630,4,0,4,3:10 AM,5:59,,,Carey Jr. REBOUND (Off:2 Def:1),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,631,6,2,4,3:10 AM,5:59,Wiseman S.FOUL (P6.T2) (J.DeRosa),,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,633,9,1,4,3:11 AM,5:59,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,634,18,6,4,3:11 AM,5:59,,Instant Replay4th Period (3:11 AM EST),,90 - 86,-4,0,631,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200004,636,8,0,4,3:13 AM,5:59,SUB: Moody FOR Wiseman,,,,,4,1630164,James Wiseman,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012200004,638,3,11,4,3:14 AM,5:59,,,Carey Jr. Free Throw 1 of 2 (1 PTS),91 - 86,-5,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,639,3,12,4,3:14 AM,5:59,,,MISS Carey Jr. Free Throw 2 of 2,,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,640,4,0,4,3:14 AM,5:55,Spencer REBOUND (Off:0 Def:1),,,,,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,641,6,1,4,3:14 AM,5:48,,,Schakel P.FOUL (P2.T4) (J.DeRosa),,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,643,2,79,4,3:14 AM,5:40,MISS McClung 12' Pullup Jump Shot,,,,,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,644,4,0,4,3:15 AM,5:35,,,Carey Jr. REBOUND (Off:2 Def:2),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,645,2,75,4,3:15 AM,5:25,,,MISS Davis 6' Driving Finger Roll Layup,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,646,4,0,4,3:15 AM,5:22,Baldwin Jr. REBOUND (Off:1 Def:4),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,647,1,1,4,3:15 AM,5:13,Moody 29' 3PT Jump Shot (8 PTS) (Kuminga 1 AST),,,91 - 89,-2,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,649,2,78,4,3:15 AM,4:56,,,MISS Carey Jr. 14' Floating Jump Shot,,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,650,4,0,4,3:15 AM,4:54,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,652,2,1,4,3:16 AM,4:31,MISS Moody 31' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,653,4,0,4,3:16 AM,4:29,,,Davis REBOUND (Off:0 Def:5),,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,654,5,45,4,3:16 AM,4:20,,,Carey Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0012200004,655,1,9,4,3:17 AM,4:05,Moody 1' Driving Dunk (10 PTS) (McClung 2 AST),,,91 - 91,TIE,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,657,9,1,4,3:17 AM,4:04,,,Wizards Timeout: Regular (Reg.6 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200004,658,5,45,4,3:19 AM,3:46,,,Schakel Out of Bounds - Bad Pass Turnover Turnover (P1.T15),,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,659,2,1,4,3:19 AM,3:34,MISS Moody 25' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,660,4,0,4,3:19 AM,3:29,Spencer REBOUND (Off:1 Def:1),,,,,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,661,5,40,4,3:19 AM,3:26,Moody Out of Bounds Lost Ball Turnover (P2.T21),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,662,2,1,4,3:20 AM,3:12,,,MISS Todd 24' 3PT Jump Shot,,,5,1630225,Isaiah Todd,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,663,4,0,4,3:20 AM,3:08,Spencer REBOUND (Off:1 Def:2),,,,,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,664,1,6,4,3:20 AM,3:01,McClung 5' Driving Layup (7 PTS) (Moody 2 AST),,,91 - 93,2,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,666,5,11,4,3:20 AM,2:35,,,Wizards Turnover: Shot Clock (T#16),,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200004,667,6,4,4,3:21 AM,2:29,Baldwin Jr. OFF.Foul (P2) (J.DeRosa),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,669,5,37,4,3:21 AM,2:29,Baldwin Jr. Offensive Foul Turnover (P2.T22),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012200004,670,1,79,4,3:21 AM,2:15,,,Schakel 13' Pullup Jump Shot (10 PTS) (Carey Jr. 1 AST),93 - 93,TIE,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1
+0012200004,672,1,1,4,3:21 AM,2:02,Baldwin Jr. 28' 3PT Jump Shot (12 PTS) (Spencer 2 AST),,,93 - 96,3,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,674,5,4,4,3:21 AM,1:49,,,Gibson Traveling Turnover (P2.T17),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,1
+0012200004,676,6,2,4,3:22 AM,1:31,,,Todd S.FOUL (P2.PN) (J.Williams),,,5,1630225,Isaiah Todd,1610612764.0,Washington,Wizards,WAS,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,678,3,11,4,3:23 AM,1:31,Spencer Free Throw 1 of 2 (3 PTS),,,93 - 97,4,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,679,3,12,4,3:23 AM,1:31,Spencer Free Throw 2 of 2 (4 PTS),,,93 - 98,5,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,680,2,6,4,3:23 AM,1:11,,,MISS Davis 4' Driving Layup,,,5,1631098,Johnny Davis,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,681,4,0,4,3:23 AM,1:08,McClung REBOUND (Off:0 Def:2),,,,,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,682,1,108,4,3:23 AM,1:07,Moody 1' Cutting Dunk Shot (12 PTS) (Spencer 3 AST),,,93 - 100,7,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012200004,684,2,1,4,3:24 AM,0:49,,,MISS Carey Jr. 24' 3PT Jump Shot,,,5,1630176,Vernon Carey Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,685,4,0,4,3:24 AM,0:46,Baldwin Jr. REBOUND (Off:1 Def:5),,,,,4,1631116,Patrick Baldwin Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,686,1,6,4,3:24 AM,0:27,McClung 2' Driving Layup (9 PTS),,,93 - 102,9,4,1630644,Mac McClung,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,687,6,2,4,3:24 AM,0:18,Kuminga S.FOUL (P2.T3) (J.DeRosa),,,,,4,1630228,Jonathan Kuminga,1610612744.0,Golden State,Warriors,GSW,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,1
+0012200004,689,3,11,4,3:25 AM,0:18,,,Gibson Free Throw 1 of 2 (4 PTS),94 - 102,8,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,690,3,12,4,3:25 AM,0:18,,,Gibson Free Throw 2 of 2 (5 PTS),95 - 102,7,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,691,6,1,4,3:25 AM,0:09,,,Gibson P.FOUL (P3.PN) (G.Petraitis),,,5,201959,Taj Gibson,1610612764.0,Washington,Wizards,WAS,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012200004,693,3,11,4,3:26 AM,0:09,Spencer Free Throw 1 of 2 (5 PTS),,,95 - 103,8,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,694,3,12,4,3:26 AM,0:09,Spencer Free Throw 2 of 2 (6 PTS),,,95 - 104,9,4,1630311,Pat Spencer,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012200004,695,2,80,4,3:26 AM,0:00,,,MISS Schakel 14' Step Back Jump Shot,,,5,1630648,Jordan Schakel,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,1
+0012200004,696,4,0,4,3:26 AM,0:00,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200004,697,13,0,4,3:26 AM,0:00,,End of 4th Period (3:26 AM EST),,95 - 104,9,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

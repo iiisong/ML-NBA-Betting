@@ -1,0 +1,492 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400005,0,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,1,10,0,1,10:11 PM,12:00,Jump Ball Hill vs. Mozgov: Tip to Lawson,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,2,5,1,1,10:11 PM,11:56,,,Lawson Bad Pass Turnover (P1.T1),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,3,2,1,1,10:11 PM,11:44,MISS Bryant 17' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,4,4,0,1,10:12 PM,11:43,Hill REBOUND (Off:1 Def:0),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,5,2,1,1,10:12 PM,11:34,MISS W. Johnson 21' Jump Shot,,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,6,4,0,1,10:12 PM,11:33,,,Mozgov REBOUND (Off:0 Def:1),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,7,1,1,1,10:12 PM,11:18,,,Afflalo 25' 3PT Jump Shot (3 PTS) (Foye 1 AST),3 - 0,-3,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,8,1,86,1,10:12 PM,11:04,Bryant 14' Turnaround Fadeaway (2 PTS),,,3 - 2,-1,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,9,6,1,1,10:12 PM,10:58,Bryant P.FOUL (P1.T1),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,10,3,13,1,10:13 PM,10:58,,,Afflalo Free Throw 1 of 3 (4 PTS),4 - 2,-2,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,12,3,14,1,10:13 PM,10:58,,,Afflalo Free Throw 2 of 3 (5 PTS),5 - 2,-3,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,14,3,15,1,10:13 PM,10:58,,,Afflalo Free Throw 3 of 3 (6 PTS),6 - 2,-4,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,16,2,1,1,10:13 PM,10:38,MISS Hill 12' Jump Shot,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,17,4,0,1,10:14 PM,10:35,Boozer REBOUND (Off:1 Def:0),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,18,2,1,1,10:14 PM,10:29,MISS Boozer 19' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,19,4,0,1,10:14 PM,10:28,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,20,6,2,1,10:14 PM,10:16,Hill S.FOUL (P1.T2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,21,3,11,1,10:14 PM,10:16,,,MISS Faried Free Throw 1 of 2,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,22,4,1,1,10:14 PM,10:16,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,23,3,12,1,10:14 PM,10:16,,,MISS Faried Free Throw 2 of 2,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,25,4,0,1,10:15 PM,10:16,Hill REBOUND (Off:1 Def:1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,26,1,1,1,10:15 PM,10:03,Bryant 22' Jump Shot (4 PTS) (W. Johnson 1 AST),,,6 - 4,-2,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,27,1,42,1,10:15 PM,9:51,,,Lawson 2' Driving Layup (2 PTS),8 - 4,-4,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,28,2,47,1,10:15 PM,9:25,MISS Bryant 11' Turnaround Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,29,4,0,1,10:16 PM,9:21,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,30,6,3,1,10:16 PM,9:21,,,Mozgov L.B.FOUL (P1.T1),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,31,1,75,1,10:16 PM,9:11,Boozer 3' Driving Finger Roll Layup (2 PTS) (Bryant 1 AST),,,8 - 6,-2,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,32,2,1,1,10:16 PM,8:54,,,MISS Foye 23' Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,33,4,0,1,10:16 PM,8:53,Boozer REBOUND (Off:1 Def:1),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,34,1,86,1,10:17 PM,8:39,Bryant 14' Turnaround Fadeaway (6 PTS) (Nash 1 AST),,,8 - 8,TIE,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,36,1,1,1,10:17 PM,8:21,,,Mozgov 16' Jump Shot (2 PTS),10 - 8,-2,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,37,1,63,1,10:17 PM,8:01,Hill 16' Fadeaway Jumper (2 PTS) (Bryant 2 AST),,,10 - 10,TIE,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,40,7,5,1,10:18 PM,7:44,Hill Violation:Kicked Ball,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400005,42,2,5,1,10:18 PM,7:44,,,MISS Faried  Layup,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,43,4,0,1,10:18 PM,7:42,Hill REBOUND (Off:1 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,44,1,1,1,10:18 PM,7:37,W. Johnson  3PT Jump Shot (3 PTS) (Bryant 3 AST),,,10 - 13,3,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,46,1,1,1,10:19 PM,7:16,,,Lawson 25' 3PT Jump Shot (5 PTS) (Mozgov 1 AST),13 - 13,TIE,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,48,6,1,1,10:19 PM,6:54,,,Lawson P.FOUL (P1.T2),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,50,2,5,1,10:19 PM,6:54,MISS W. Johnson 3' Layup,,Foye BLOCK (1 BLK),,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,51,4,0,1,10:19 PM,6:52,,,Foye REBOUND (Off:0 Def:1),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,52,1,63,1,10:20 PM,6:38,,,Afflalo 11' Fadeaway Jumper (8 PTS),15 - 13,-2,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,54,1,42,1,10:20 PM,6:19,Nash 2' Driving Layup (2 PTS),,,15 - 15,TIE,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,55,5,1,1,10:20 PM,6:04,Boozer STEAL (1 STL),,Lawson Bad Pass Turnover (P2.T2),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,56,1,43,1,10:20 PM,5:58,W. Johnson 1' Alley Oop Layup (5 PTS) (Nash 2 AST),,,15 - 17,2,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,57,1,5,1,10:20 PM,5:42,,,Mozgov 2' Layup (4 PTS) (Lawson 1 AST),17 - 17,TIE,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,58,6,2,1,10:20 PM,5:42,W. Johnson S.FOUL (P1.T3),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,59,9,1,1,10:21 PM,5:42,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,63,3,10,1,10:23 PM,5:42,,,MISS Mozgov Free Throw 1 of 1,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,65,4,0,1,10:24 PM,5:42,Bryant REBOUND (Off:0 Def:1),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,66,2,1,1,10:24 PM,5:27,MISS Bryant 19' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,67,4,0,1,10:24 PM,5:26,Hill REBOUND (Off:2 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,68,2,1,1,10:24 PM,5:16,MISS Boozer 3' Jump Shot,,Faried BLOCK (1 BLK),,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,69,4,0,1,10:24 PM,5:13,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,70,1,8,1,10:25 PM,5:05,Hill  Slam Dunk (4 PTS) (Bryant 4 AST),,,17 - 19,2,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,71,6,1,1,10:25 PM,4:47,Boozer P.FOUL (P1.T4),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,72,1,1,1,10:26 PM,4:39,,,Lawson 4' Jump Shot (7 PTS),19 - 19,TIE,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,73,6,2,1,10:26 PM,4:39,Hill S.FOUL (P2.PN),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,74,8,0,1,10:26 PM,4:39,,,SUB: Harris FOR Foye,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,75,8,0,1,10:26 PM,4:39,,,SUB: Chandler FOR Afflalo,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,76,8,0,1,10:26 PM,4:39,SUB: Sacre FOR Hill,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,77,3,10,1,10:26 PM,4:39,,,Lawson Free Throw 1 of 1 (8 PTS),20 - 19,-1,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,79,5,4,1,10:27 PM,4:22,Bryant Traveling Turnover (P1.T1),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400005,80,1,5,1,10:27 PM,4:09,,,Mozgov 2' Layup (6 PTS) (Lawson 2 AST),22 - 19,-3,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,81,6,2,1,10:27 PM,4:02,,,Lawson S.FOUL (P2.T3),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,82,3,11,1,10:27 PM,4:02,Nash Free Throw 1 of 2 (3 PTS),,,22 - 20,-2,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,84,8,0,1,10:28 PM,4:02,,,SUB: Green FOR Lawson,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,85,3,12,1,10:28 PM,4:02,Nash Free Throw 2 of 2 (4 PTS),,,22 - 21,-1,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,87,2,1,1,10:28 PM,3:41,,,MISS Faried 16' Jump Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,88,4,0,1,10:28 PM,3:40,Bryant REBOUND (Off:0 Def:2),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,89,1,1,1,10:28 PM,3:26,Nash 25' 3PT Jump Shot (7 PTS) (Boozer 1 AST),,,22 - 24,2,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,90,6,1,1,10:29 PM,3:19,Bryant P.FOUL (P2.PN),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,91,3,11,1,10:29 PM,3:19,,,Green Free Throw 1 of 2 (1 PTS),23 - 24,1,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,93,8,0,1,10:29 PM,3:19,,,SUB: Arthur FOR Faried,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,94,8,0,1,10:29 PM,3:19,SUB: Clarkson FOR Bryant,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,95,3,12,1,10:29 PM,3:19,,,Green Free Throw 2 of 2 (2 PTS),24 - 24,TIE,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,97,2,1,1,10:30 PM,3:00,MISS Nash 19' Jump Shot,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,98,4,0,1,10:30 PM,2:59,,,Chandler REBOUND (Off:0 Def:1),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,99,2,63,1,10:30 PM,2:48,,,MISS Mozgov 8' Fadeaway Jumper,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,100,4,0,1,10:30 PM,2:44,Boozer REBOUND (Off:1 Def:2),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,101,5,1,1,10:30 PM,2:36,Nash Bad Pass Turnover (P1.T2),,Arthur STEAL (1 STL),,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,102,1,42,1,10:30 PM,2:31,,,Green 2' Driving Layup (4 PTS) (Arthur 1 AST),26 - 24,-2,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,103,2,1,1,10:31 PM,2:14,MISS Nash 20' Jump Shot,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,104,4,0,1,10:31 PM,2:13,,,Chandler REBOUND (Off:0 Def:2),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,105,1,1,1,10:31 PM,1:58,,,Arthur 25' 3PT Jump Shot (3 PTS) (Chandler 1 AST),29 - 24,-5,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,106,1,1,1,10:31 PM,1:39,Boozer 16' Jump Shot (4 PTS) (Nash 3 AST),,,29 - 26,-3,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,107,2,1,1,10:31 PM,1:25,,,MISS Green 20' Jump Shot,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,108,4,0,1,10:31 PM,1:24,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,109,9,1,1,10:31 PM,1:22,,,Nuggets Timeout: Regular (Reg.1 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,111,8,0,1,10:33 PM,1:22,SUB: Randle FOR Boozer,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,112,8,0,1,10:33 PM,1:22,SUB: Lin FOR Nash,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,113,8,0,1,10:34 PM,1:22,,,SUB: Nurkic FOR Mozgov,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,114,6,1,1,10:34 PM,1:13,,,Chandler P.FOUL (P1.T4),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,115,2,1,1,10:35 PM,0:59,MISS Randle 16' Jump Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,116,4,0,1,10:35 PM,0:57,,,Nurkic REBOUND (Off:0 Def:1),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,117,2,1,1,10:35 PM,0:46,,,MISS Arthur 13' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,118,4,0,1,10:35 PM,0:46,Clarkson REBOUND (Off:0 Def:1),,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,119,2,78,1,10:35 PM,0:36,MISS Clarkson 13' Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,120,4,0,1,10:35 PM,0:32,,,Arthur REBOUND (Off:0 Def:1),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,121,2,67,1,10:35 PM,0:26,,,MISS Nurkic 7' Hook Bank Shot,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,122,4,0,1,10:35 PM,0:21,Sacre REBOUND (Off:0 Def:1),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,123,2,1,1,10:36 PM,0:03,MISS Lin 10' Jump Shot,,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,124,4,0,1,10:36 PM,0:02,Sacre REBOUND (Off:1 Def:1),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,125,6,2,1,10:36 PM,0:00,,,Arthur S.FOUL (P1.PN),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,126,3,11,1,10:36 PM,0:00,MISS Sacre Free Throw 1 of 2,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,127,4,1,1,10:36 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,128,3,12,1,10:36 PM,0:00,Sacre Free Throw 2 of 2 (1 PTS),,,29 - 27,-2,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,130,13,0,1,10:36 PM,0:00,,End of 1st Period (10:36 PM EST),,29 - 27,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,132,12,0,2,10:39 PM,12:00,,Start of 2nd Period (10:39 PM EST),,29 - 27,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,133,6,17,2,10:40 PM,11:44,,,Nuggets T.Foul (Def. 3 Sec Arthur ),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,134,3,16,2,10:40 PM,11:44,MISS Lin Free Throw Technical,,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,135,4,1,2,10:40 PM,11:44,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,136,1,1,2,10:40 PM,11:40,Sacre 18' Jump Shot (3 PTS) (Lin 1 AST),,,29 - 29,TIE,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,137,2,1,2,10:41 PM,11:19,,,MISS Nurkic 8' Jump Shot,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,138,4,0,2,10:41 PM,11:17,,,Harris REBOUND (Off:1 Def:0),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,139,2,1,2,10:41 PM,11:16,,,MISS Harris 12' Jump Shot,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,140,4,0,2,10:41 PM,11:12,Lin REBOUND (Off:0 Def:1),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,141,2,1,2,10:41 PM,11:03,MISS Clarkson 20' Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,142,4,0,2,10:41 PM,11:02,,,Chandler REBOUND (Off:0 Def:3),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,143,6,1,2,10:41 PM,10:57,Randle P.FOUL (P1.T1),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,144,2,3,2,10:42 PM,10:45,,,MISS Nurkic 8' Hook Shot,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,145,4,0,2,10:42 PM,10:42,Ellington REBOUND (Off:0 Def:1),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,146,1,49,2,10:42 PM,10:36,Randle  Driving Dunk (2 PTS) (Ellington 1 AST),,,29 - 31,2,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,147,6,2,2,10:42 PM,10:18,Ellington S.FOUL (P1.T2),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,148,3,11,2,10:42 PM,10:18,,,Harris Free Throw 1 of 2 (1 PTS),30 - 31,1,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,150,3,12,2,10:42 PM,10:18,,,MISS Harris Free Throw 2 of 2,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,152,4,0,2,10:43 PM,10:17,Randle REBOUND (Off:0 Def:1),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,153,6,1,2,10:43 PM,10:09,,,Nurkic P.FOUL (P1.T1),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,154,2,3,2,10:44 PM,9:53,MISS Sacre 6' Hook Shot,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,155,4,0,2,10:44 PM,9:49,,,Nurkic REBOUND (Off:0 Def:2),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,156,2,1,2,10:44 PM,9:40,,,MISS Green 11' Jump Shot,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,157,4,0,2,10:44 PM,9:38,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,158,6,3,2,10:44 PM,9:38,Sacre L.B.FOUL (P1.T3),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,159,2,1,2,10:44 PM,9:29,,,MISS Chandler  3PT Jump Shot,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,160,4,0,2,10:44 PM,9:28,,,Nurkic REBOUND (Off:1 Def:2),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,161,2,1,2,10:44 PM,9:24,,,MISS Harris  3PT Jump Shot,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,162,4,0,2,10:44 PM,9:23,,,Harris REBOUND (Off:2 Def:0),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,163,2,1,2,10:45 PM,9:10,,,MISS Arthur 25' 3PT Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,164,4,0,2,10:45 PM,9:08,,,Chandler REBOUND (Off:1 Def:3),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,165,1,44,2,10:45 PM,8:58,,,Chandler 2' Reverse Layup (2 PTS) (Nurkic 1 AST),32 - 31,-1,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,166,1,46,2,10:45 PM,8:37,Randle 5' Running Jump Shot (4 PTS),,,32 - 33,1,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,167,5,2,2,10:45 PM,8:27,Sacre STEAL (1 STL),,Harris Lost Ball Turnover (P1.T3),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,168,6,1,2,10:46 PM,8:24,,,Harris P.FOUL (P1.T2),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,169,9,4,2,10:46 PM,8:24,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,172,8,0,2,10:48 PM,8:24,,,SUB: Foye FOR Green,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,173,2,78,2,10:49 PM,7:59,MISS Clarkson 7' Floating Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,174,4,0,2,10:49 PM,7:57,,,Nurkic REBOUND (Off:1 Def:3),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,175,2,1,2,10:49 PM,7:52,,,MISS Chandler 21' Jump Shot,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,176,4,0,2,10:49 PM,7:51,Randle REBOUND (Off:0 Def:2),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,177,2,1,2,10:49 PM,7:42,MISS Clarkson 9' Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,178,4,0,2,10:49 PM,7:41,,,Chandler REBOUND (Off:1 Def:4),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,179,2,5,2,10:49 PM,7:35,,,MISS Chandler 3' Layup,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,180,4,0,2,10:49 PM,7:33,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,181,1,1,2,10:50 PM,7:28,,,Arthur 15' Jump Shot (5 PTS) (Harris 1 AST),34 - 33,-1,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,182,2,1,2,10:50 PM,7:05,MISS Randle 16' Jump Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,183,4,0,2,10:50 PM,7:04,,,Nurkic REBOUND (Off:1 Def:4),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,185,8,0,2,10:50 PM,6:56,,,SUB: Q. Miller FOR Chandler,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,186,6,2,2,10:51 PM,6:53,Lin S.FOUL (P1.T4),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,187,3,11,2,10:51 PM,6:53,,,Foye Free Throw 1 of 2 (1 PTS),35 - 33,-2,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,190,8,0,2,10:51 PM,6:53,,,SUB: Benimon FOR Nurkic,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,192,8,0,2,10:51 PM,6:53,SUB: Davis FOR Sacre,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,193,3,12,2,10:51 PM,6:53,,,MISS Foye Free Throw 2 of 2,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,195,4,0,2,10:52 PM,6:53,Clarkson REBOUND (Off:0 Def:2),,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,196,1,1,2,10:52 PM,6:35,Clarkson  3PT Jump Shot (3 PTS) (Randle 1 AST),,,35 - 36,1,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,197,6,4,2,10:52 PM,6:24,,,Q. Miller OFF.Foul (P1),,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,198,5,5,2,10:52 PM,6:24,,,Q. Miller Foul Turnover (P1.T4),,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,199,2,5,2,10:53 PM,6:08,MISS Davis 2' Layup,,Benimon BLOCK (1 BLK),,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,201,4,0,2,10:53 PM,6:08,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,200,10,0,2,10:53 PM,6:08,Jump Ball Davis vs. Benimon: Tip to Clarkson,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,202,2,1,2,10:53 PM,6:03,MISS Clarkson 17' Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,203,4,0,2,10:53 PM,6:02,,,Benimon REBOUND (Off:0 Def:1),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,204,1,1,2,10:53 PM,5:47,,,Harris 22' Jump Shot (3 PTS) (Foye 2 AST),37 - 36,-1,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,205,1,7,2,10:54 PM,5:35,Davis  Dunk (2 PTS) (Lin 2 AST),,,37 - 38,1,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,206,2,1,2,10:54 PM,5:24,Davis BLOCK (1 BLK),,MISS Foye 5' Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,207,4,0,2,10:54 PM,5:22,Randle REBOUND (Off:0 Def:3),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,208,1,1,2,10:54 PM,5:17,Clarkson 25' 3PT Jump Shot (6 PTS) (Lin 3 AST),,,37 - 41,4,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,209,9,1,2,10:54 PM,5:13,,,Nuggets Timeout: Regular (Reg.2 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,212,8,0,2,10:56 PM,5:13,,,SUB: Faried FOR Harris,,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,213,8,0,2,10:56 PM,5:13,,,SUB: Lawson FOR Arthur,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,214,6,1,2,10:57 PM,5:02,Davis P.FOUL (P1.PN),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,215,3,11,2,10:57 PM,5:02,,,Faried Free Throw 1 of 2 (1 PTS),38 - 41,3,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,217,3,12,2,10:57 PM,5:02,,,Faried Free Throw 2 of 2 (2 PTS),39 - 41,2,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,219,6,1,2,10:58 PM,4:50,,,Benimon P.FOUL (P1.T3),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,220,5,1,2,10:58 PM,4:34,Lin Bad Pass Turnover (P1.T3),,Benimon STEAL (1 STL),,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,221,2,3,2,10:58 PM,4:28,Davis BLOCK (2 BLK),,MISS Benimon 6' Hook Shot,,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,222,4,0,2,10:58 PM,4:25,Lin REBOUND (Off:0 Def:2),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,223,2,44,2,10:59 PM,4:21,MISS Clarkson 2' Reverse Layup,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,224,4,0,2,10:59 PM,4:15,Randle REBOUND (Off:1 Def:3),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,225,2,5,2,10:59 PM,4:14,MISS Randle 2' Layup,,Benimon BLOCK (2 BLK),,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,226,4,0,2,10:59 PM,4:13,,,Q. Miller REBOUND (Off:0 Def:1),,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,227,2,1,2,10:59 PM,4:11,,,MISS Lawson 26' 3PT Jump Shot,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,229,4,0,2,10:59 PM,4:06,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,228,10,0,2,10:59 PM,4:06,Jump Ball Davis vs. Faried: Tip to Randle,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,230,6,1,2,11:00 PM,3:49,,,Benimon P.FOUL (P2.T4),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,231,1,42,2,11:00 PM,3:40,Davis 2' Driving Layup (4 PTS) (Lin 4 AST),,,39 - 43,4,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,232,1,65,2,11:00 PM,3:22,,,Benimon 4' Jump Hook Shot (2 PTS) (Q. Miller 1 AST),41 - 43,2,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,233,1,42,2,11:00 PM,3:02,Davis 2' Driving Layup (6 PTS) (Lin 5 AST),,,41 - 45,4,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,234,2,1,2,11:01 PM,2:51,,,MISS Faried 11' Jump Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,235,4,0,2,11:01 PM,2:49,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,236,9,1,2,11:01 PM,2:47,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,239,8,0,2,11:03 PM,2:47,,,SUB: Gee FOR Foye,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,240,2,1,2,11:04 PM,2:28,MISS Ellington 25' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,241,4,0,2,11:04 PM,2:27,,,Benimon REBOUND (Off:0 Def:2),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,242,6,2,2,11:04 PM,2:17,Lin S.FOUL (P2.PN),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,243,3,11,2,11:04 PM,2:17,,,Gee Free Throw 1 of 2 (1 PTS),42 - 45,3,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,245,3,12,2,11:04 PM,2:17,,,MISS Gee Free Throw 2 of 2,,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,247,4,0,2,11:05 PM,2:17,,,Gee REBOUND (Off:1 Def:0),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,248,6,1,2,11:05 PM,2:09,Randle P.FOUL (P2.PN),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,249,3,11,2,11:05 PM,2:09,,,Faried Free Throw 1 of 2 (3 PTS),43 - 45,2,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,251,3,12,2,11:05 PM,2:09,,,Faried Free Throw 2 of 2 (4 PTS),44 - 45,1,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,253,6,1,2,11:06 PM,2:02,,,Gee P.FOUL (P1.PN),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,254,3,11,2,11:06 PM,2:02,Clarkson Free Throw 1 of 2 (7 PTS),,,44 - 46,2,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,256,3,12,2,11:06 PM,2:02,Clarkson Free Throw 2 of 2 (8 PTS),,,44 - 47,3,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,258,6,1,2,11:06 PM,1:53,Randle P.FOUL (P3.PN),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,259,3,11,2,11:07 PM,1:53,,,Faried Free Throw 1 of 2 (5 PTS),45 - 47,2,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,261,3,12,2,11:07 PM,1:53,,,Faried Free Throw 2 of 2 (6 PTS),46 - 47,1,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,263,2,1,2,11:07 PM,1:36,MISS Ellington 19' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,264,4,0,2,11:08 PM,1:35,Lin REBOUND (Off:1 Def:2),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,265,2,1,2,11:08 PM,1:26,MISS Ellington 3' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,267,4,0,2,11:08 PM,1:23,Davis REBOUND (Off:1 Def:0),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,266,1,4,2,11:08 PM,1:23,Davis  Tip Shot (8 PTS),,,46 - 49,3,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,268,1,1,2,11:08 PM,1:16,,,Q. Miller 26' 3PT Jump Shot (3 PTS) (Lawson 3 AST),49 - 49,TIE,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,269,1,44,2,11:08 PM,0:53,Randle 2' Reverse Layup (6 PTS),,,49 - 51,2,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,270,1,1,2,11:08 PM,0:47,,,Q. Miller 25' 3PT Jump Shot (6 PTS) (Lawson 4 AST),52 - 51,-1,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,271,2,5,2,11:09 PM,0:42,MISS Ellington 2' Layup,,Faried BLOCK (2 BLK),,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,272,4,0,2,11:09 PM,0:40,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,274,2,1,2,11:09 PM,0:28,MISS Lin 20' Jump Shot,,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,275,4,0,2,11:09 PM,0:28,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,276,5,2,2,11:10 PM,0:23,Davis Lost Ball Turnover (P1.T4),,Q. Miller STEAL (1 STL),,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,277,1,77,2,11:10 PM,0:19,,,Gee 3' Driving Jump Shot (3 PTS) (Q. Miller 2 AST),54 - 51,-3,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,278,2,1,2,11:10 PM,0:01,MISS Clarkson 4' Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,279,4,0,2,11:10 PM,0:00,,,Benimon REBOUND (Off:0 Def:3),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,280,13,0,2,11:10 PM,0:00,,End of 2nd Period (11:10 PM EST),,54 - 51,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,282,12,0,3,11:28 PM,12:00,,Start of 3rd Period (11:28 PM EST),,54 - 51,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,283,2,71,3,11:28 PM,11:34,MISS Nash 3' Finger Roll Layup,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,284,4,0,3,11:28 PM,11:32,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,285,2,1,3,11:29 PM,11:15,,,MISS Mozgov 25' 3PT Jump Shot,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,286,4,0,3,11:29 PM,11:14,W. Johnson REBOUND (Off:0 Def:1),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,287,5,1,3,11:29 PM,11:04,Bryant Bad Pass Turnover (P2.T5),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,288,5,4,3,11:29 PM,10:55,,,Foye Traveling Turnover (P1.T5),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,289,2,1,3,11:30 PM,10:36,MISS Bryant 17' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,290,4,0,3,11:30 PM,10:35,Hill REBOUND (Off:3 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,291,1,3,3,11:30 PM,10:30,Hill 3' Hook Shot (6 PTS),,,54 - 53,-1,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,292,2,1,3,11:30 PM,10:19,,,MISS Afflalo 20' Jump Shot,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,293,4,0,3,11:30 PM,10:18,Boozer REBOUND (Off:1 Def:3),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,295,6,1,3,11:31 PM,10:06,,,Foye P.FOUL (P1.T1),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,296,1,42,3,11:31 PM,10:00,Nash 2' Driving Layup (9 PTS),,,54 - 55,1,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,298,6,1,3,11:32 PM,9:39,Bryant P.FOUL (P3.T1),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,299,2,1,3,11:32 PM,9:27,,,MISS Foye  3PT Jump Shot,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,300,4,0,3,11:32 PM,9:26,Hill REBOUND (Off:3 Def:3),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,301,1,66,3,11:32 PM,9:19,W. Johnson 8' Jump Bank Shot (7 PTS) (Bryant 5 AST),,,54 - 57,3,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,302,5,1,3,11:33 PM,9:06,W. Johnson STEAL (1 STL),,Lawson Bad Pass Turnover (P3.T6),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,303,2,78,3,11:33 PM,9:00,MISS Nash 7' Floating Jump Shot,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,304,4,0,3,11:33 PM,8:56,,,Mozgov REBOUND (Off:0 Def:2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,305,1,5,3,11:33 PM,8:48,,,Mozgov 2' Layup (8 PTS) (Lawson 5 AST),56 - 57,1,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,306,6,2,3,11:33 PM,8:48,Boozer S.FOUL (P2.T2),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,307,3,10,3,11:33 PM,8:48,,,Mozgov Free Throw 1 of 1 (9 PTS),57 - 57,TIE,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,309,5,41,3,11:34 PM,8:38,W. Johnson Poss Lost Ball Turnover (P1.T6),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,310,1,42,3,11:34 PM,8:30,,,Lawson 2' Driving Layup (10 PTS),59 - 57,-2,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,313,1,1,3,11:36 PM,8:13,Bryant 17' Jump Shot (8 PTS) (Hill 1 AST),,,59 - 59,TIE,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,314,1,49,3,11:36 PM,7:55,,,Mozgov  Driving Dunk (11 PTS) (Lawson 6 AST),61 - 59,-2,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,315,1,1,3,11:36 PM,7:41,W. Johnson 20' Jump Shot (9 PTS) (Nash 4 AST),,,61 - 61,TIE,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,316,6,4,3,11:36 PM,7:31,,,Faried OFF.Foul (P1),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,317,5,5,3,11:36 PM,7:31,,,Faried Foul Turnover (P1.T7),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,319,6,2,3,11:37 PM,7:13,,,Foye S.FOUL (P2.T2),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,320,3,11,3,11:37 PM,7:13,Bryant Free Throw 1 of 2 (9 PTS),,,61 - 62,1,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,322,3,12,3,11:37 PM,7:13,Bryant Free Throw 2 of 2 (10 PTS),,,61 - 63,2,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,324,6,1,3,11:38 PM,7:07,W. Johnson P.FOUL (P2.T3),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,326,2,1,3,11:39 PM,6:51,,,MISS Faried 7' Jump Shot,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,327,4,0,3,11:39 PM,6:50,,,Mozgov REBOUND (Off:1 Def:2),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,328,6,2,3,11:39 PM,6:50,Hill S.FOUL (P3.T4),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,329,3,11,3,11:39 PM,6:50,,,Mozgov Free Throw 1 of 2 (12 PTS),62 - 63,1,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,331,3,12,3,11:39 PM,6:50,,,Mozgov Free Throw 2 of 2 (13 PTS),63 - 63,TIE,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,333,1,63,3,11:40 PM,6:34,Bryant 18' Fadeaway Jumper (12 PTS) (Boozer 2 AST),,,63 - 65,2,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,334,5,1,3,11:40 PM,6:24,,,Mozgov Bad Pass Turnover (P1.T8),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,335,6,1,3,11:40 PM,6:07,,,Foye P.FOUL (P3.T3),,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,336,9,1,3,11:40 PM,6:07,,,Nuggets Timeout: Regular (Reg.3 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,340,2,63,3,11:43 PM,5:57,MISS Bryant 15' Fadeaway Jumper,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,341,4,0,3,11:43 PM,5:55,,,Lawson REBOUND (Off:0 Def:1),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,342,2,1,3,11:43 PM,5:50,,,MISS Afflalo 16' Jump Shot,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,343,4,0,3,11:44 PM,5:47,Hill REBOUND (Off:3 Def:4),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,344,5,1,3,11:44 PM,5:38,Bryant Bad Pass Turnover (P3.T7),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,345,2,5,3,11:44 PM,5:17,,,MISS Lawson 2' Layup,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,346,4,0,3,11:44 PM,5:16,,,Faried REBOUND (Off:1 Def:0),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,347,5,2,3,11:44 PM,5:15,W. Johnson STEAL (2 STL),,Faried Lost Ball Turnover (P2.T9),,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,348,2,5,3,11:44 PM,5:09,MISS Boozer 2' Layup,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,349,4,0,3,11:44 PM,5:07,,,Lawson REBOUND (Off:0 Def:2),,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,350,6,2,3,11:45 PM,4:59,Nash S.FOUL (P1.PN),,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,351,3,11,3,11:45 PM,4:59,,,Afflalo Free Throw 1 of 2 (9 PTS),64 - 65,1,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,353,8,0,3,11:45 PM,4:59,,,SUB: Arthur FOR Faried,,,5,202702,Kenneth Faried,1610612743.0,Denver,Nuggets,DEN,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,354,8,0,3,11:45 PM,4:59,,,SUB: Chandler FOR Foye,,,5,200751,Randy Foye,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,355,3,12,3,11:45 PM,4:59,,,Afflalo Free Throw 2 of 2 (10 PTS),65 - 65,TIE,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,357,5,40,3,11:46 PM,4:43,W. Johnson Out of Bounds Lost Ball Turnover (P2.T8),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,358,2,1,3,11:46 PM,4:29,,,MISS Arthur 17' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,359,4,0,3,11:46 PM,4:28,Nash REBOUND (Off:0 Def:1),,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,360,1,5,3,11:46 PM,4:17,Hill 2' Layup (8 PTS) (Boozer 3 AST),,,65 - 67,2,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,361,6,2,3,11:46 PM,4:17,,,Arthur S.FOUL (P2.T4),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,362,3,10,3,11:47 PM,4:17,Hill Free Throw 1 of 1 (9 PTS),,,65 - 68,3,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,365,2,7,3,11:47 PM,4:17,,,MISS Mozgov  Dunk,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,366,4,0,3,11:47 PM,4:15,Hill REBOUND (Off:3 Def:5),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,367,1,1,3,11:47 PM,4:09,Boozer 15' Jump Shot (6 PTS) (Nash 5 AST),,,65 - 70,5,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,369,6,2,3,11:47 PM,3:44,Boozer S.FOUL (P3.PN),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,371,3,11,3,11:48 PM,3:44,,,Chandler Free Throw 1 of 2 (3 PTS),66 - 70,4,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,373,3,12,3,11:48 PM,3:44,,,Chandler Free Throw 2 of 2 (4 PTS),67 - 70,3,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,376,1,71,3,11:48 PM,3:23,Nash 2' Finger Roll Layup (11 PTS),,,67 - 72,5,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,377,1,80,3,11:49 PM,3:08,,,Lawson 12' Step Back Jump Shot (12 PTS),69 - 72,3,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,378,6,17,3,11:49 PM,2:53,,,Nuggets T.Foul (Def. 3 Sec Chandler ),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,379,9,1,3,11:49 PM,2:53,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,383,3,16,3,11:52 PM,2:53,MISS Nash Free Throw Technical,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,384,4,1,3,11:52 PM,2:53,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,385,6,4,3,11:52 PM,2:49,Nash OFF.Foul (P2),,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,386,5,5,3,11:52 PM,2:49,Nash Foul Turnover (P2.T9),,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400005,387,2,1,3,11:53 PM,2:41,,,MISS Arthur 19' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,388,4,0,3,11:53 PM,2:40,W. Johnson REBOUND (Off:0 Def:2),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,389,2,1,3,11:53 PM,2:30,MISS Boozer 13' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,390,4,0,3,11:53 PM,2:29,,,Chandler REBOUND (Off:1 Def:5),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,391,2,5,3,11:53 PM,2:17,,,MISS Lawson 2' Layup,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,392,4,0,3,11:53 PM,2:16,Hill REBOUND (Off:3 Def:6),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,393,5,2,3,11:53 PM,2:14,Hill Lost Ball Turnover (P1.T10),,Lawson STEAL (1 STL),,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,394,6,1,3,11:53 PM,2:11,Hill P.FOUL (P4.PN),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,395,3,11,3,11:53 PM,2:11,,,MISS Lawson Free Throw 1 of 2,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,396,4,1,3,11:53 PM,2:11,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,397,8,0,3,11:54 PM,2:11,SUB: Lin FOR Nash,,,,,4,959,Steve Nash,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,398,3,12,3,11:54 PM,2:11,,,MISS Lawson Free Throw 2 of 2,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,400,4,0,3,11:54 PM,2:11,Hill REBOUND (Off:3 Def:7),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,401,6,2,3,11:54 PM,1:55,,,Afflalo S.FOUL (P1.PN),,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,402,3,11,3,11:54 PM,1:55,MISS Bryant Free Throw 1 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,403,4,1,3,11:54 PM,1:55,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,404,8,0,3,11:54 PM,1:55,SUB: Randle FOR Boozer,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,405,3,12,3,11:55 PM,1:55,Bryant Free Throw 2 of 2 (13 PTS),,,69 - 73,4,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,407,2,5,3,11:55 PM,1:46,,,MISS Afflalo 2' Layup,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,408,4,0,3,11:55 PM,1:45,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,409,6,3,3,11:55 PM,1:45,,,Mozgov L.B.FOUL (P2.PN),,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,410,3,11,3,11:55 PM,1:45,Hill Free Throw 1 of 2 (10 PTS),,,69 - 74,5,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,412,3,12,3,11:56 PM,1:45,MISS Hill Free Throw 2 of 2,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,414,4,0,3,11:56 PM,1:45,,,Arthur REBOUND (Off:0 Def:2),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,415,6,1,3,11:56 PM,1:35,Lin P.FOUL (P3.PN),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,416,3,11,3,11:56 PM,1:35,,,Lawson Free Throw 1 of 2 (13 PTS),70 - 74,4,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,418,8,0,3,11:57 PM,1:35,,,SUB: Gee FOR Afflalo,,,5,201167,Arron Afflalo,1610612743.0,Denver,Nuggets,DEN,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,419,3,12,3,11:57 PM,1:35,,,Lawson Free Throw 2 of 2 (14 PTS),71 - 74,3,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,421,5,2,3,11:57 PM,1:19,Randle Lost Ball Turnover (P1.T11),,Gee STEAL (1 STL),,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,422,6,2,3,11:57 PM,1:15,W. Johnson S.FOUL (P3.PN),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,423,3,11,3,11:57 PM,1:15,,,MISS Gee Free Throw 1 of 2,,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,424,4,1,3,11:57 PM,1:15,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,426,8,0,3,11:58 PM,1:15,,,SUB: Nurkic FOR Mozgov,,,5,202389,Timofey Mozgov,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,427,3,12,3,11:58 PM,1:15,,,Gee Free Throw 2 of 2 (4 PTS),72 - 74,2,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,430,1,1,3,11:58 PM,1:02,Randle 6' Jump Shot (8 PTS) (Lin 6 AST),,,72 - 76,4,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,431,6,2,3,11:58 PM,1:02,,,Chandler S.FOUL (P2.PN),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,432,3,10,3,11:59 PM,1:02,MISS Randle Free Throw 1 of 1,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,434,4,0,3,11:59 PM,1:02,,,Arthur REBOUND (Off:0 Def:3),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,435,6,4,3,11:59 PM,0:55,,,Arthur OFF.Foul (P3),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,436,5,5,3,11:59 PM,0:55,,,Arthur Foul Turnover (P1.T10),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,437,2,1,3,11:59 PM,0:40,MISS Lin 3' Jump Shot,,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,438,4,0,3,11:59 PM,0:39,Hill REBOUND (Off:4 Def:7),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,439,2,1,3,11:59 PM,0:35,MISS Bryant 15' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,440,4,0,3,11:59 PM,0:34,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,441,2,5,3,12:00 AM,0:11,,,MISS Nurkic 1' Layup,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,443,4,0,3,12:00 AM,0:10,,,Nurkic REBOUND (Off:2 Def:4),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,442,2,4,3,12:00 AM,0:10,,,MISS Nurkic 2' Tip Shot,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,444,4,0,3,12:00 AM,0:07,Randle REBOUND (Off:1 Def:4),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,447,8,0,3,12:00 AM,0:03,,,SUB: Green FOR Lawson,,,5,201951,Ty Lawson,1610612743.0,Denver,Nuggets,DEN,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,449,2,1,3,12:01 AM,0:01,MISS Bryant 17' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,450,4,0,3,12:01 AM,0:01,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,451,13,0,3,12:01 AM,0:00,,End of 3rd Period (12:01 AM EST),,72 - 76,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,453,12,0,4,12:03 AM,12:00,,Start of 4th Period (12:03 AM EST),,72 - 76,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,454,6,4,4,12:04 AM,11:49,,,Chandler OFF.Foul (P3),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,455,5,5,4,12:04 AM,11:49,,,Chandler Foul Turnover (P1.T11),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,456,1,1,4,12:04 AM,11:24,Sacre 17' Jump Shot (5 PTS) (Lin 7 AST),,,72 - 78,6,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,457,2,1,4,12:05 AM,11:12,,,MISS Arthur 25' 3PT Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,458,4,0,4,12:05 AM,11:11,Sacre REBOUND (Off:1 Def:2),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,459,5,2,4,12:05 AM,10:54,Randle Lost Ball Turnover (P2.T12),,Chandler STEAL (1 STL),,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,460,2,5,4,12:05 AM,10:48,,,MISS Green 1' Layup,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,462,4,0,4,12:05 AM,10:47,,,Chandler REBOUND (Off:2 Def:5),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,461,2,4,4,12:05 AM,10:47,,,MISS Chandler 1' Tip Shot,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,463,4,0,4,12:05 AM,10:46,Randle REBOUND (Off:1 Def:5),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,464,2,1,4,12:05 AM,10:40,MISS Clarkson 27' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,465,4,0,4,12:05 AM,10:39,,,Green REBOUND (Off:0 Def:1),,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,466,5,1,4,12:05 AM,10:27,Ellington STEAL (1 STL),,Gee Bad Pass Turnover (P1.T12),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,469,6,4,4,12:06 AM,10:07,Sacre OFF.Foul (P2),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,470,5,5,4,12:06 AM,10:07,Sacre Foul Turnover (P1.T13),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400005,471,6,2,4,12:07 AM,9:54,Ellington S.FOUL (P2.T1),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,472,3,11,4,12:07 AM,9:54,,,MISS Chandler Free Throw 1 of 2,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,473,4,1,4,12:07 AM,9:54,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,474,3,12,4,12:07 AM,9:54,,,Chandler Free Throw 2 of 2 (5 PTS),73 - 78,5,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,476,2,1,4,12:08 AM,9:30,MISS Clarkson 13' Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,477,4,0,4,12:08 AM,9:29,,,Arthur REBOUND (Off:0 Def:4),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,478,2,5,4,12:08 AM,9:23,Randle BLOCK (1 BLK),,MISS Gee 1' Layup,,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,479,4,0,4,12:08 AM,9:19,Ellington REBOUND (Off:0 Def:2),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,480,1,1,4,12:08 AM,9:15,Ellington 17' Jump Shot (2 PTS),,,73 - 80,7,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,481,9,1,4,12:08 AM,9:13,,,Nuggets Timeout: Regular (Reg.4 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,484,6,1,4,12:11 AM,9:06,Clarkson P.FOUL (P1.T2),,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,485,1,78,4,12:11 AM,9:06,,,Green 9' Floating Jump Shot (6 PTS),75 - 80,5,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,486,2,1,4,12:11 AM,8:51,MISS Lin 20' Jump Shot,,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,487,4,0,4,12:11 AM,8:50,,,Chandler REBOUND (Off:2 Def:6),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,488,1,1,4,12:12 AM,8:30,,,Green 13' Jump Shot (8 PTS) (Chandler 2 AST),77 - 80,3,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,489,6,2,4,12:12 AM,8:30,Lin S.FOUL (P4.T3),,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,490,5,17,4,12:12 AM,8:30,,,Gee Lane Violation Turnover (P2.T13),,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,493,2,1,4,12:12 AM,8:30,MISS Sacre 13' Jump Shot,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,494,4,0,4,12:12 AM,8:29,,,Chandler REBOUND (Off:2 Def:7),,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,495,2,1,4,12:13 AM,7:59,,,MISS Green 11' Jump Shot,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,496,4,0,4,12:13 AM,7:55,Ellington REBOUND (Off:0 Def:3),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,497,6,3,4,12:13 AM,7:55,,,Nurkic L.B.FOUL (P2.T1),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,498,2,5,4,12:13 AM,7:55,MISS Lin 2' Layup,,Arthur BLOCK (1 BLK),,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,499,4,0,4,12:13 AM,7:53,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,500,8,0,4,12:13 AM,7:44,,,SUB: Harris FOR Chandler,,,5,201163,Wilson Chandler,1610612743.0,Denver,Nuggets,DEN,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,502,5,4,4,12:14 AM,7:35,Randle Traveling Turnover (P3.T14),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400005,504,2,1,4,12:14 AM,7:23,,,MISS Arthur 21' Jump Shot,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,505,4,0,4,12:14 AM,7:22,,,Nurkic REBOUND (Off:3 Def:4),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,507,1,5,4,12:14 AM,7:19,,,Nurkic 2' Layup (2 PTS),79 - 80,1,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,508,1,50,4,12:14 AM,7:14,Clarkson 1' Running Dunk (10 PTS) (Lin 8 AST),,,79 - 82,3,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,509,1,1,4,12:14 AM,7:00,,,Harris 26' 3PT Jump Shot (6 PTS) (Nurkic 2 AST),82 - 82,TIE,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,512,2,1,4,12:15 AM,6:31,MISS Sacre 11' Jump Shot,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,513,4,0,4,12:15 AM,6:30,,,Arthur REBOUND (Off:0 Def:5),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,514,6,4,4,12:15 AM,6:24,,,Harris OFF.Foul (P2),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,515,5,5,4,12:15 AM,6:24,,,Harris Foul Turnover (P2.T14),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,516,2,5,4,12:16 AM,6:08,MISS Lin 2' Layup,,Nurkic BLOCK (1 BLK),,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0
+0011400005,517,4,0,4,12:16 AM,6:06,,,Arthur REBOUND (Off:0 Def:6),,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,518,5,1,4,12:16 AM,5:57,Lin STEAL (1 STL),,Nurkic Bad Pass Turnover (P1.T15),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,519,1,46,4,12:16 AM,5:49,Ellington 12' Running Jump Shot (4 PTS),,,82 - 84,2,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,520,6,1,4,12:17 AM,5:31,Sacre P.FOUL (P3.T4),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,521,9,4,4,12:17 AM,5:31,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,523,8,0,4,12:19 AM,5:31,SUB: Davis FOR Sacre,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,525,2,1,4,12:19 AM,5:27,,,MISS Green 26' 3PT Jump Shot,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,526,4,0,4,12:19 AM,5:26,Clarkson REBOUND (Off:0 Def:3),,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,527,1,1,4,12:20 AM,5:07,Ellington 25' 3PT Jump Shot (7 PTS) (Lin 9 AST),,,82 - 87,5,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,528,1,3,4,12:20 AM,4:50,,,Arthur 5' Hook Shot (7 PTS) (Nurkic 3 AST),84 - 87,3,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,529,1,42,4,12:20 AM,4:35,Davis 3' Driving Layup (10 PTS) (Ellington 2 AST),,,84 - 89,5,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,531,1,1,4,12:20 AM,4:25,,,Harris 25' 3PT Jump Shot (9 PTS) (Arthur 2 AST),87 - 89,2,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,532,6,2,4,12:21 AM,4:00,,,Nurkic S.FOUL (P3.T2),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,533,3,11,4,12:21 AM,4:00,MISS Lin Free Throw 1 of 2,,,,,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,534,4,1,4,12:21 AM,4:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,535,8,0,4,12:21 AM,4:00,,,SUB: Benimon FOR Arthur,,,5,201589,Darrell Arthur,1610612743.0,Denver,Nuggets,DEN,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,536,8,0,4,12:21 AM,4:00,,,SUB: Q. Miller FOR Gee,,,5,202087,Alonzo Gee,1610612743.0,Denver,Nuggets,DEN,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,537,3,12,4,12:22 AM,4:00,Lin Free Throw 2 of 2 (1 PTS),,,87 - 90,3,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,539,5,4,4,12:22 AM,3:51,,,Harris Traveling Turnover (P3.T16),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,1,0,,,,,,0
+0011400005,540,6,4,4,12:22 AM,3:39,Davis OFF.Foul (P2),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,541,5,5,4,12:22 AM,3:39,Davis Foul Turnover (P2.T15),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400005,542,2,1,4,12:23 AM,3:22,,,MISS Q. Miller 13' Jump Shot,,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,543,4,0,4,12:23 AM,3:21,Ellington REBOUND (Off:0 Def:4),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,544,2,1,4,12:23 AM,3:13,MISS Ellington 14' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,545,4,0,4,12:23 AM,3:11,,,Benimon REBOUND (Off:0 Def:4),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,546,2,1,4,12:23 AM,3:06,,,MISS Green 6' Jump Shot,,,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,547,4,0,4,12:23 AM,3:04,Randle REBOUND (Off:1 Def:6),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,548,6,2,4,12:23 AM,2:58,,,Benimon S.FOUL (P3.T3),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,549,9,1,4,12:24 AM,2:58,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,552,3,11,4,12:26 AM,2:58,Clarkson Free Throw 1 of 2 (11 PTS),,,87 - 91,4,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,554,3,12,4,12:26 AM,2:58,Clarkson Free Throw 2 of 2 (12 PTS),,,87 - 92,5,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,556,6,2,4,12:27 AM,2:42,Ellington S.FOUL (P3.PN),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,557,3,11,4,12:27 AM,2:42,,,MISS Q. Miller Free Throw 1 of 2,,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,564,4,0,4,12:27 AM,2:42,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,559,3,12,4,12:27 AM,2:42,,,Q. Miller Free Throw 2 of 2 (7 PTS),88 - 92,4,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,561,1,52,4,12:28 AM,2:27,Davis  Alley Oop Dunk (12 PTS) (Lin 10 AST),,,88 - 94,6,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,562,9,1,4,12:28 AM,2:21,,,Nuggets Timeout: Regular (Reg.5 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,565,2,5,4,12:30 AM,2:08,Davis BLOCK (3 BLK),,MISS Nurkic 1' Layup,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,566,4,0,4,12:30 AM,2:07,Ellington REBOUND (Off:0 Def:5),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,567,2,1,4,12:31 AM,1:45,MISS Randle 25' 3PT Jump Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,568,4,0,4,12:31 AM,1:44,Clarkson REBOUND (Off:1 Def:3),,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,569,6,1,4,12:31 AM,1:33,,,Harris P.FOUL (P3.T4),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,202391,Jeremy Lin,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,570,5,1,4,12:31 AM,1:25,Davis Bad Pass Turnover (P3.T16),,Harris STEAL (1 STL),,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0
+0011400005,571,6,1,4,12:31 AM,1:17,Ellington P.FOUL (P4.PN),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,572,3,11,4,12:32 AM,1:17,,,Harris Free Throw 1 of 2 (10 PTS),89 - 94,5,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,574,3,12,4,12:32 AM,1:17,,,Harris Free Throw 2 of 2 (11 PTS),90 - 94,4,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,576,2,1,4,12:32 AM,1:17,MISS Ellington 25' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,577,4,0,4,12:32 AM,1:16,,,Benimon REBOUND (Off:0 Def:5),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,578,6,2,4,12:33 AM,0:50,Davis S.FOUL (P3.PN),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,579,3,11,4,12:33 AM,0:50,,,MISS Benimon Free Throw 1 of 2,,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,580,4,1,4,12:33 AM,0:50,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,581,3,12,4,12:33 AM,0:50,,,MISS Benimon Free Throw 2 of 2,,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,583,4,0,4,12:33 AM,0:49,,,Nurkic REBOUND (Off:4 Def:4),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,584,2,5,4,12:33 AM,0:47,Davis BLOCK (4 BLK),,MISS Nurkic 1' Layup,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400005,585,4,0,4,12:33 AM,0:46,Randle REBOUND (Off:1 Def:7),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,586,2,1,4,12:33 AM,0:30,MISS Clarkson 25' 3PT Jump Shot,,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,587,4,0,4,12:33 AM,0:29,,,Benimon REBOUND (Off:0 Def:6),,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,588,1,1,4,12:33 AM,0:21,,,Green 20' Jump Shot (10 PTS),92 - 94,2,5,203475,Erick Green,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,589,1,7,4,12:34 AM,0:08,Randle  Dunk (10 PTS) (Ellington 3 AST),,,92 - 96,4,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400005,590,9,1,4,12:34 AM,0:08,,,Nuggets Timeout: Regular (Reg.6 Short 0),,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,592,2,5,4,12:36 AM,0:05,,,MISS Benimon 2' Layup,,,5,203968,Jerrelle Benimon,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,594,4,0,4,12:36 AM,0:03,,,Q. Miller REBOUND (Off:1 Def:1),,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,593,2,4,4,12:36 AM,0:03,,,MISS Q. Miller 2' Tip Shot,,,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,595,4,0,4,12:36 AM,0:03,,,Nurkic REBOUND (Off:5 Def:4),,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,596,6,2,4,12:36 AM,0:03,Randle S.FOUL (P4.PN),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,1,0,,,,,,0
+0011400005,597,3,11,4,12:36 AM,0:03,,,MISS Nurkic Free Throw 1 of 2,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,598,4,1,4,12:36 AM,0:03,,,Nuggets Rebound,,,3,1610612743,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400005,599,3,12,4,12:37 AM,0:03,,,MISS Nurkic Free Throw 2 of 2,,,5,203994,Jusuf Nurkic,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,601,4,0,4,12:37 AM,0:02,Clarkson REBOUND (Off:1 Def:4),,,,,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,602,6,28,4,12:37 AM,0:01,,,Harris Personal Take Foul (P4.PN),,,5,203914,Gary Harris,1610612743.0,Denver,Nuggets,DEN,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400005,603,3,11,4,12:37 AM,0:01,Clarkson Free Throw 1 of 2 (13 PTS),,,92 - 97,5,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,605,3,12,4,12:37 AM,0:01,Clarkson Free Throw 2 of 2 (14 PTS),,,92 - 98,6,4,203903,Jordan Clarkson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400005,607,1,1,4,12:38 AM,0:00,,,Q. Miller 54' 3PT Jump Shot (10 PTS),95 - 98,3,5,203113,Quincy Miller,1610612743.0,Denver,Nuggets,DEN,0,0,,,,,,0,0,,,,,,0
+0011400005,610,18,0,4,12:40 AM,0:00,,Support Ruling,,,,0,607,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400005,611,13,0,4,12:40 AM,0:00,,End of 4th Period (12:40 AM EST),,95 - 98,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

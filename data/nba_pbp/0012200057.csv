@@ -1,0 +1,522 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200057,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,4,10,0,1,10:11 PM,12:00,Jump Ball Davis vs. Reid: Tip to James,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,7,1,1,1,10:11 PM,11:46,James 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),,,0 - 3,3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,9,2,1,1,10:12 PM,11:26,,,MISS McDaniels 25' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,10,4,0,1,10:12 PM,11:22,Walker IV REBOUND (Off:0 Def:1),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,11,2,1,1,10:12 PM,11:19,MISS Beverley 27' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,12,4,0,1,10:12 PM,11:16,,,Anderson REBOUND (Off:0 Def:1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,13,5,1,1,10:12 PM,11:14,Beverley STEAL (1 STL),,Anderson Bad Pass Turnover (P1.T1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,15,1,73,1,10:12 PM,11:07,James 2' Driving Reverse Layup (5 PTS) (Davis 2 AST),,,0 - 5,5,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,17,2,58,1,10:12 PM,10:52,,,MISS Edwards 8' Turnaround Hook Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,18,4,0,1,10:12 PM,10:50,Davis REBOUND (Off:0 Def:1),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,20,1,78,1,10:13 PM,10:42,Walker IV 4' Floating Jump Shot (2 PTS) (Westbrook 1 AST),,,0 - 7,7,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,22,2,6,1,10:13 PM,10:28,Westbrook BLOCK (1 BLK),,MISS McDaniels 3' Driving Layup,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,24,4,0,1,10:13 PM,10:25,,,Anderson REBOUND (Off:1 Def:1),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,25,1,1,1,10:13 PM,10:24,,,Reid 27' 3PT Jump Shot (3 PTS) (Anderson 1 AST),3 - 7,4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,27,6,16,1,10:13 PM,10:24,,"Double Technical - McDaniels, Westbrook (C.Flores)",,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,29,6,1,1,10:14 PM,10:08,,,Anderson P.FOUL (P1.T1) (B.Barnaky),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,31,1,79,1,10:14 PM,10:02,Walker IV 15' Pullup Jump Shot (4 PTS) (Westbrook 2 AST),,,3 - 9,6,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,33,10,0,1,10:15 PM,9:46,Jump Ball Davis vs. Russell: Tip to Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,36,5,2,1,10:15 PM,9:46,Davis STEAL (1 STL),,Russell Lost Ball Turnover (P1.T2),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,38,2,6,1,10:15 PM,9:42,MISS James 3' Driving Layup,,Russell BLOCK (1 BLK),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200057,40,4,0,1,10:15 PM,9:39,,,McDaniels REBOUND (Off:0 Def:1),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,41,1,1,1,10:15 PM,9:30,,,Russell 25' 3PT Jump Shot (3 PTS) (McDaniels 1 AST),6 - 9,3,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,43,5,1,1,10:15 PM,9:20,Beverley Bad Pass Turnover (P1.T1),,Russell STEAL (1 STL),,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,45,1,41,1,10:15 PM,9:14,,,Reid 2' Running Layup (5 PTS) (Russell 1 AST),8 - 9,1,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,47,2,63,1,10:16 PM,8:57,MISS Davis 5' Fadeaway Jumper,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,48,4,0,1,10:16 PM,8:55,,,Edwards REBOUND (Off:0 Def:1),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,49,1,103,1,10:16 PM,8:51,,,Edwards 27' 3PT Running Pull-Up Jump Shot (3 PTS),11 - 9,-2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,50,9,1,1,10:16 PM,8:49,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,51,2,1,1,10:19 PM,8:39,MISS Beverley 27' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,52,4,0,1,10:19 PM,8:35,,,Anderson REBOUND (Off:1 Def:2),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,53,2,6,1,10:20 PM,8:28,,,MISS Edwards 2' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,55,1,72,1,10:20 PM,8:22,,,Reid Putback Layup (7 PTS),13 - 9,-4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,54,4,0,1,10:20 PM,8:22,,,Reid REBOUND (Off:1 Def:0),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,56,1,98,1,10:20 PM,8:09,Walker IV 3' Cutting Layup Shot (6 PTS) (Davis 3 AST),,,13 - 11,-2,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,58,6,2,1,10:20 PM,8:09,,,Edwards S.FOUL (P1.T2) (B.Barnaky),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,60,3,10,1,10:20 PM,8:09,Walker IV Free Throw 1 of 1 (7 PTS),,,13 - 12,-1,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,61,2,6,1,10:21 PM,7:57,Davis BLOCK (1 BLK),,MISS Edwards 4' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,63,4,0,1,10:21 PM,7:53,James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,64,2,1,1,10:21 PM,7:46,MISS Walker IV 25' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,65,4,0,1,10:21 PM,7:43,,,Reid REBOUND (Off:1 Def:1),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,66,2,1,1,10:21 PM,7:31,,,MISS Edwards 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,67,4,0,1,10:21 PM,7:28,James REBOUND (Off:0 Def:2),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,68,6,2,1,10:21 PM,7:26,,,Reid S.FOUL (P1.T3) (C.Flores),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,70,3,11,1,10:22 PM,7:26,Davis Free Throw 1 of 2 (1 PTS),,,13 - 13,TIE,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,71,3,12,1,10:22 PM,7:26,MISS Davis Free Throw 2 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,72,4,0,1,10:22 PM,7:24,,,McDaniels REBOUND (Off:0 Def:2),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,73,1,79,1,10:22 PM,7:13,,,Russell 13' Pullup Jump Shot (5 PTS) (Reid 1 AST),15 - 13,-2,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,75,2,1,1,10:23 PM,6:57,MISS James 24' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,76,4,0,1,10:23 PM,6:54,,,Reid REBOUND (Off:1 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,77,2,63,1,10:23 PM,6:44,,,MISS McDaniels 15' Fadeaway Jumper,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,78,4,0,1,10:23 PM,6:41,Walker IV REBOUND (Off:0 Def:2),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,79,1,98,1,10:23 PM,6:37,James 2' Cutting Layup Shot (7 PTS) (Walker IV 1 AST),,,15 - 15,TIE,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,81,6,2,1,10:23 PM,6:32,James S.FOUL (P1.T1) (B.Barnaky),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,83,3,11,1,10:23 PM,6:32,,,Anderson Free Throw 1 of 2 (1 PTS),16 - 15,-1,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,84,8,0,1,10:23 PM,6:32,SUB: Bryant FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,86,3,12,1,10:24 PM,6:32,,,Anderson Free Throw 2 of 2 (2 PTS),17 - 15,-2,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,87,5,39,1,10:24 PM,6:17,Westbrook Step Out of Bounds Turnover (P1.T2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,88,8,0,1,10:24 PM,6:17,,,SUB: Nowell FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,90,2,1,1,10:25 PM,6:06,,,MISS McDaniels 25' 3PT Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,91,4,0,1,10:25 PM,6:03,Walker IV REBOUND (Off:0 Def:3),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,92,1,41,1,10:25 PM,5:58,Walker IV 2' Running Layup (9 PTS),,,17 - 17,TIE,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,93,9,1,1,10:25 PM,5:56,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,94,8,0,1,10:28 PM,5:56,SUB: Reaves FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,95,8,0,1,10:28 PM,5:56,SUB: Schroder FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,98,2,1,1,10:28 PM,5:42,,,MISS Reid 24' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,99,4,0,1,10:28 PM,5:39,James REBOUND (Off:0 Def:3),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,100,2,1,1,10:29 PM,5:34,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,101,4,0,1,10:29 PM,5:31,,,Edwards REBOUND (Off:0 Def:2),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,103,5,2,1,10:29 PM,5:20,Beverley STEAL (2 STL),,Nowell Lost Ball Turnover (P1.T3),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,105,1,50,1,10:29 PM,5:16,James 2' Running Dunk (9 PTS) (Beverley 1 AST),,,17 - 19,2,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,107,2,1,1,10:29 PM,4:47,,,MISS Edwards 26' 3PT Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,108,4,0,1,10:29 PM,4:46,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,109,6,3,1,10:29 PM,4:46,Schroder L.B.FOUL (P1.T2) (C.Blair),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,111,8,0,1,10:30 PM,4:46,SUB: Nunn FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,113,2,79,1,10:30 PM,4:32,,,MISS Russell 28' 3PT Pullup Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,114,4,0,1,10:30 PM,4:30,,,Reid REBOUND (Off:2 Def:2),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,115,2,72,1,10:30 PM,4:29,,,MISS Reid 4' Putback Layup,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,117,4,0,1,10:30 PM,4:25,,,McDaniels REBOUND (Off:1 Def:2),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,118,6,2,1,10:30 PM,4:25,Beverley S.FOUL (P1.T3) (B.Barnaky),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,120,3,11,1,10:31 PM,4:25,,,Russell Free Throw 1 of 2 (6 PTS),18 - 19,1,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,123,3,12,1,10:31 PM,4:25,,,MISS Russell Free Throw 2 of 2,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,121,8,0,1,10:31 PM,4:25,SUB: Davis FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,130,8,0,1,10:31 PM,4:25,,,SUB: Knight FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,124,4,0,1,10:31 PM,4:23,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,126,6,2,1,10:31 PM,4:14,,,Knight S.FOUL (P1.T4) (B.Barnaky),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,128,3,11,1,10:32 PM,4:14,Nunn Free Throw 1 of 2 (1 PTS),,,18 - 20,2,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,129,3,12,1,10:32 PM,4:14,Nunn Free Throw 2 of 2 (2 PTS),,,18 - 21,3,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,132,1,86,1,10:32 PM,4:04,,,Nowell 8' Turnaround Fadeaway (2 PTS) (Russell 2 AST),20 - 21,1,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,134,6,2,1,10:32 PM,3:54,,,McDaniels S.FOUL (P1.PN) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,136,3,11,1,10:33 PM,3:54,MISS Davis Free Throw 1 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,137,4,1,1,10:33 PM,3:54,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,140,3,12,1,10:33 PM,3:54,MISS Davis Free Throw 2 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,138,8,0,1,10:33 PM,3:54,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,141,4,0,1,10:33 PM,3:51,,,Anderson REBOUND (Off:1 Def:3),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,142,2,101,1,10:33 PM,3:38,,,MISS Nowell 5' Driving Floating Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,143,4,0,1,10:33 PM,3:36,Nunn REBOUND (Off:0 Def:1),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,144,5,4,1,10:33 PM,3:34,Schroder Traveling Turnover (P1.T3),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,145,6,2,1,10:34 PM,3:26,Bryant S.FOUL (P1.T4) (C.Blair),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,147,3,11,1,10:34 PM,3:26,,,MISS Russell Free Throw 1 of 2,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,148,4,1,1,10:34 PM,3:26,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,149,3,12,1,10:35 PM,3:26,,,Russell Free Throw 2 of 2 (7 PTS),21 - 21,TIE,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,150,1,78,1,10:35 PM,3:02,Nunn 17' Floating Jump Shot (4 PTS),,,21 - 23,2,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,152,6,2,1,10:35 PM,2:50,Davis S.FOUL (P1.PN) (B.Barnaky),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,154,3,11,1,10:36 PM,2:50,,,Nowell Free Throw 1 of 2 (3 PTS),22 - 23,1,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,155,8,0,1,10:36 PM,2:50,SUB: Westbrook FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,156,8,0,1,10:36 PM,2:50,,,SUB: Rivers FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,159,3,12,1,10:36 PM,2:50,,,Nowell Free Throw 2 of 2 (4 PTS),23 - 23,TIE,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,160,2,1,1,10:37 PM,2:35,MISS Westbrook 26' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,161,4,0,1,10:37 PM,2:33,,,Anderson REBOUND (Off:1 Def:4),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,162,1,73,1,10:37 PM,2:26,,,Edwards 1' Driving Reverse Layup (5 PTS),25 - 23,-2,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,163,1,52,1,10:37 PM,2:20,Davis 1' Alley Oop Dunk (3 PTS) (Westbrook 3 AST),,,25 - 25,TIE,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,165,2,6,1,10:37 PM,2:06,,,MISS Edwards 3' Driving Layup,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,166,4,0,1,10:37 PM,2:04,Davis REBOUND (Off:0 Def:2),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,167,5,39,1,10:37 PM,2:00,Westbrook Step Out of Bounds Turnover (P2.T4),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,168,8,0,1,10:37 PM,2:00,,,SUB: Forbes FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,170,2,79,1,10:38 PM,1:46,,,MISS Nowell 27' 3PT Pullup Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,171,4,0,1,10:38 PM,1:42,Davis REBOUND (Off:0 Def:3),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,172,2,1,1,10:38 PM,1:33,MISS Westbrook 26' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,173,4,0,1,10:38 PM,1:30,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,174,6,2,1,10:38 PM,1:23,Davis S.FOUL (P2.PN) (C.Flores),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,176,3,11,1,10:39 PM,1:23,,,Knight Free Throw 1 of 2 (1 PTS),26 - 25,-1,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,177,3,12,1,10:39 PM,1:23,,,Knight Free Throw 2 of 2 (2 PTS),27 - 25,-2,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200057,178,2,80,1,10:40 PM,1:00,MISS Schroder 14' Step Back Jump Shot,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,179,4,0,1,10:40 PM,1:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200057,180,6,3,1,10:40 PM,1:00,,,Knight L.B.FOUL (P2.PN) (C.Flores),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,182,3,11,1,10:40 PM,1:00,Davis Free Throw 1 of 2 (4 PTS),,,27 - 26,-1,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,183,3,12,1,10:41 PM,1:00,Davis Free Throw 2 of 2 (5 PTS),,,27 - 27,TIE,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,184,1,1,1,10:41 PM,0:44,,,Forbes 25' 3PT Jump Shot (3 PTS) (Nowell 1 AST),30 - 27,-3,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,186,6,1,1,10:41 PM,0:34,,,Anderson P.FOUL (P2.PN) (C.Blair),,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,188,3,11,1,10:42 PM,0:34,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,189,4,1,1,10:42 PM,0:34,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,190,3,12,1,10:42 PM,0:34,Westbrook Free Throw 2 of 2 (1 PTS),,,30 - 28,-2,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,193,2,79,1,10:43 PM,0:13,,,MISS Nowell 27' 3PT Pullup Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,194,4,0,1,10:43 PM,0:11,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,196,1,1,1,10:44 PM,0:00,Davis 5' Jump Shot (7 PTS),,,30 - 30,TIE,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,198,18,0,1,10:44 PM,0:00,,Instant Replay1st Period (10:44 PM EST),,30 - 30,TIE,0,196,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200057,197,13,0,1,10:44 PM,0:00,,End of 1st Period (10:44 PM EST),,30 - 30,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200057,207,12,0,2,10:47 PM,12:00,,Start of 2nd Period (10:47 PM EST),,30 - 30,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,209,6,4,2,10:47 PM,11:52,,,Knight OFF.Foul (P3) (B.Barnaky),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0012200057,211,5,37,2,10:47 PM,11:52,,,Knight Offensive Foul Turnover (P1.T4),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0012200057,212,5,1,2,10:48 PM,11:36,Davis Bad Pass Turnover (P1.T5),,Knight STEAL (1 STL),,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,214,1,103,2,10:48 PM,11:29,,,McDaniels 9' Running Pull-Up Jump Shot (2 PTS),32 - 30,-2,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,215,2,1,2,10:48 PM,11:09,MISS Walker IV 25' 3PT Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,216,4,0,2,10:48 PM,11:07,Davis REBOUND (Off:1 Def:3),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,217,1,72,2,10:48 PM,11:07,Davis 4' Putback Layup (9 PTS),,,32 - 32,TIE,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,218,6,2,2,10:48 PM,11:07,,,Knight S.FOUL (P4.T1) (B.Barnaky),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,220,8,0,2,10:49 PM,11:07,,,SUB: Reid FOR Knight,,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,222,3,10,2,10:49 PM,11:07,Davis Free Throw 1 of 1 (10 PTS),,,32 - 33,1,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,223,1,101,2,10:49 PM,10:48,,,Nowell 8' Driving Floating Jump Shot (6 PTS),34 - 33,-1,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,224,1,6,2,10:50 PM,10:34,Davis 3' Driving Layup (12 PTS) (Beverley 2 AST),,,34 - 35,1,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,226,2,58,2,10:50 PM,10:14,,,MISS Reid 9' Turnaround Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,227,4,0,2,10:50 PM,10:12,Westbrook REBOUND (Off:0 Def:1),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,228,6,2,2,10:50 PM,10:00,,,Reid S.FOUL (P2.T2) (B.Barnaky),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,230,3,11,2,10:51 PM,10:00,James Free Throw 1 of 2 (10 PTS),,,34 - 36,2,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,231,3,12,2,10:51 PM,10:00,James Free Throw 2 of 2 (11 PTS),,,34 - 37,3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,232,2,79,2,10:51 PM,9:46,,,MISS Forbes 17' Pullup Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,233,4,0,2,10:51 PM,9:41,James REBOUND (Off:0 Def:4),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,234,2,1,2,10:52 PM,9:36,MISS Davis 28' 3PT Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,235,4,0,2,10:52 PM,9:33,,,McDaniels REBOUND (Off:1 Def:3),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,236,2,103,2,10:52 PM,9:27,,,MISS McDaniels 26' 3PT Running Pull-Up Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,237,4,0,2,10:52 PM,9:25,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,238,2,57,2,10:52 PM,9:18,MISS Beverley 7' Driving Hook Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,239,4,0,2,10:52 PM,9:15,,,McDaniels REBOUND (Off:1 Def:4),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,240,1,76,2,10:52 PM,9:12,,,Nowell 2' Running Finger Roll Layup (8 PTS) (McDaniels 2 AST),36 - 37,1,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,242,5,1,2,10:52 PM,8:56,Westbrook Bad Pass Turnover (P3.T6),,Rivers STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,244,2,2,2,10:52 PM,8:51,,,MISS Forbes 27' 3PT Running Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,245,4,0,2,10:52 PM,8:48,Beverley REBOUND (Off:0 Def:2),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,246,1,5,2,10:53 PM,8:35,James 3' Layup (13 PTS),,,36 - 39,3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,247,5,2,2,10:53 PM,8:15,James STEAL (1 STL),,Reid Lost Ball Turnover (P1.T5),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,249,6,1,2,10:53 PM,8:11,,,Forbes P.FOUL (P1.T3) (C.Flores),,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,251,9,1,2,10:53 PM,8:11,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,252,8,0,2,10:56 PM,8:11,SUB: Nunn FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,253,8,0,2,10:56 PM,8:11,,,SUB: Russell FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,254,8,0,2,10:56 PM,8:11,,,SUB: Edwards FOR Rivers,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,258,2,80,2,10:57 PM,8:05,MISS Walker IV 16' Step Back Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,259,4,0,2,10:57 PM,8:03,,,Reid REBOUND (Off:2 Def:3),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,260,1,1,2,10:57 PM,7:54,,,Russell 27' 3PT Jump Shot (10 PTS) (Edwards 1 AST),39 - 39,TIE,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,262,2,1,2,10:57 PM,7:36,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,263,4,0,2,10:57 PM,7:33,,,Reid REBOUND (Off:2 Def:4),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,264,2,79,2,10:57 PM,7:26,,,MISS Edwards 12' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,265,4,0,2,10:57 PM,7:23,Davis REBOUND (Off:1 Def:4),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,266,2,1,2,10:57 PM,7:18,MISS Nunn 27' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,267,4,0,2,10:58 PM,7:15,,,Edwards REBOUND (Off:0 Def:3),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,268,5,1,2,10:58 PM,7:13,Davis STEAL (2 STL),,Edwards Bad Pass Turnover (P1.T6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,270,2,1,2,10:58 PM,7:05,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,271,4,0,2,10:58 PM,7:02,,,Reid REBOUND (Off:2 Def:5),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,272,1,1,2,10:58 PM,6:53,,,Reid 27' 3PT Jump Shot (10 PTS),42 - 39,-3,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,273,6,1,2,10:58 PM,6:34,,,Forbes P.FOUL (P2.T4) (B.Barnaky),,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,275,8,0,2,10:58 PM,6:34,SUB: Ryan FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,276,8,0,2,10:58 PM,6:34,,,SUB: Anderson FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,279,6,1,2,10:59 PM,6:30,,,Forbes P.FOUL (P3.PN) (C.Blair),,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,281,3,11,2,10:59 PM,6:30,Beverley Free Throw 1 of 2 (1 PTS),,,42 - 40,-2,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,282,3,12,2,11:00 PM,6:30,Beverley Free Throw 2 of 2 (2 PTS),,,42 - 41,-1,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,283,2,96,2,11:00 PM,6:18,,,MISS Anderson 4' Turnaround Bank Hook Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,284,4,0,2,11:00 PM,6:14,Davis REBOUND (Off:1 Def:5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,286,8,0,2,11:00 PM,5:59,SUB: Reaves FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,288,5,1,2,11:01 PM,5:57,Beverley Bad Pass Turnover (P2.T7),,Russell STEAL (2 STL),,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,290,1,41,2,11:01 PM,5:51,,,Anderson 1' Running Layup (4 PTS) (Russell 3 AST),44 - 41,-3,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,292,2,79,2,11:01 PM,5:36,MISS Nunn 27' 3PT Pullup Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,293,4,0,2,11:01 PM,5:33,,,Russell REBOUND (Off:0 Def:1),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,294,1,76,2,11:01 PM,5:31,,,Reid 2' Running Finger Roll Layup (12 PTS) (Russell 4 AST),46 - 41,-5,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,296,9,1,2,11:01 PM,5:23,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,298,8,0,2,11:05 PM,5:10,,,SUB: Nowell FOR Forbes,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,301,2,80,2,11:05 PM,5:03,MISS Reaves 26' 3PT Step Back Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,302,4,0,2,11:05 PM,5:00,,,Nowell REBOUND (Off:0 Def:1),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,303,1,1,2,11:05 PM,4:52,,,Reid 25' 3PT Jump Shot (15 PTS) (Edwards 2 AST),49 - 41,-8,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,305,2,79,2,11:06 PM,4:36,MISS Nunn 14' Pullup Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,306,4,0,2,11:06 PM,4:30,Davis REBOUND (Off:2 Def:5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,307,1,107,2,11:06 PM,4:30,Davis Tip Dunk Shot (14 PTS),,,49 - 43,-6,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,308,1,63,2,11:06 PM,4:20,,,Nowell 6' Fadeaway Jumper (10 PTS) (Reid 2 AST),51 - 43,-8,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,309,2,1,2,11:06 PM,4:06,MISS Ryan 26' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,310,4,0,2,11:06 PM,4:04,,,Edwards REBOUND (Off:0 Def:4),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,311,1,50,2,11:06 PM,4:02,,,Nowell 1' Running Dunk (12 PTS) (Edwards 3 AST),53 - 43,-10,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,314,6,1,2,11:07 PM,3:50,,,Edwards P.FOUL (P2.PN) (C.Flores),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,316,3,11,2,11:07 PM,3:50,Beverley Free Throw 1 of 2 (3 PTS),,,53 - 44,-9,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,321,3,12,2,11:07 PM,3:50,MISS Beverley Free Throw 2 of 2,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,317,8,0,2,11:07 PM,3:50,SUB: Bryant FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,318,8,0,2,11:07 PM,3:50,SUB: Schroder FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,322,4,0,2,11:07 PM,3:47,,,Reid REBOUND (Off:2 Def:6),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,323,5,45,2,11:08 PM,3:43,,,Russell Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200057,324,8,0,2,11:08 PM,3:43,SUB: James FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,326,1,58,2,11:08 PM,3:26,Bryant 3' Turnaround Hook Shot (2 PTS) (James 1 AST),,,53 - 46,-7,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,328,1,79,2,11:08 PM,3:16,,,Russell 26' 3PT Pullup Jump Shot (13 PTS) (Anderson 2 AST),56 - 46,-10,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,330,2,6,2,11:09 PM,3:02,MISS Schroder 2' Driving Layup,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,331,4,0,2,11:09 PM,2:59,,,Reid REBOUND (Off:2 Def:7),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,332,2,6,2,11:09 PM,2:55,,,MISS Nowell 3' Driving Layup,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,333,4,0,2,11:09 PM,2:53,,,Reid REBOUND (Off:3 Def:7),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,334,2,1,2,11:09 PM,2:49,,,MISS Russell 26' 3PT Jump Shot,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,335,4,0,2,11:09 PM,2:45,James REBOUND (Off:0 Def:5),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,336,6,1,2,11:09 PM,2:40,,,Nowell P.FOUL (P1.PN) (B.Barnaky),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,338,3,11,2,11:09 PM,2:40,Reaves Free Throw 1 of 2 (1 PTS),,,56 - 47,-9,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,339,3,12,2,11:10 PM,2:40,Reaves Free Throw 2 of 2 (2 PTS),,,56 - 48,-8,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,340,2,1,2,11:10 PM,2:23,,,MISS Reid 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,341,4,0,2,11:10 PM,2:21,Schroder REBOUND (Off:0 Def:1),,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,342,2,1,2,11:10 PM,2:16,MISS Ryan 25' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,343,4,0,2,11:10 PM,2:16,,,Russell REBOUND (Off:0 Def:2),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,344,1,41,2,11:10 PM,2:07,,,Reid 4' Running Layup (17 PTS) (Russell 5 AST),58 - 48,-10,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,346,5,2,2,11:10 PM,1:57,Reaves Lost Ball Turnover (P1.T8),,Anderson STEAL (1 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,348,1,41,2,11:10 PM,1:53,,,Russell Running Layup (15 PTS) (Anderson 3 AST),60 - 48,-12,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,350,6,1,2,11:11 PM,1:39,,,Edwards P.FOUL (P3.PN) (B.Barnaky),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,352,3,11,2,11:11 PM,1:39,James Free Throw 1 of 2 (14 PTS),,,60 - 49,-11,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,355,3,12,2,11:11 PM,1:39,MISS James Free Throw 2 of 2,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,353,8,0,2,11:11 PM,1:39,SUB: Westbrook FOR Ryan,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,356,4,0,2,11:11 PM,1:36,,,Reid REBOUND (Off:3 Def:8),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,357,5,45,2,11:12 PM,1:24,,,Reid Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200057,359,7,5,2,11:12 PM,1:06,,,Edwards Violation:Kicked Ball (B.Barnaky),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0012200057,360,2,63,2,11:13 PM,0:56,MISS Schroder 11' Fadeaway Jumper,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,361,4,0,2,11:13 PM,0:54,,,Russell REBOUND (Off:0 Def:3),,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,362,2,1,2,11:13 PM,0:41,,,MISS Reid 25' 3PT Jump Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,363,4,0,2,11:13 PM,0:39,Bryant REBOUND (Off:0 Def:1),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,364,1,1,2,11:13 PM,0:30,Reaves 3PT Jump Shot (5 PTS) (Westbrook 4 AST),,,60 - 52,-8,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,366,1,98,2,11:13 PM,0:19,,,Reid 1' Cutting Layup Shot (19 PTS) (Russell 6 AST),62 - 52,-10,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,368,6,2,2,11:13 PM,0:19,Bryant S.FOUL (P2.T1) (C.Flores),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,370,8,0,2,11:14 PM,0:19,SUB: Davis FOR Schroder,,,,,4,203471,Dennis Schroder,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,371,8,0,2,11:14 PM,0:19,SUB: Ryan FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,372,8,0,2,11:14 PM,0:19,,,SUB: McDaniels FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,373,8,0,2,11:14 PM,0:19,,,SUB: Rivers FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,378,3,10,2,11:14 PM,0:19,,,MISS Reid Free Throw 1 of 1,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,379,4,0,2,11:14 PM,0:16,James REBOUND (Off:0 Def:6),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,380,2,6,2,11:14 PM,0:02,MISS Reaves 3' Driving Layup,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,381,4,0,2,11:14 PM,0:01,James REBOUND (Off:1 Def:6),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,382,1,97,2,11:15 PM,0:01,James Tip Layup Shot (16 PTS),,,62 - 54,-8,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,384,18,0,2,11:15 PM,0:00,,Instant Replay2nd Period (11:15 PM EST),,62 - 54,-8,0,382,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200057,383,13,0,2,11:15 PM,0:00,,End of 2nd Period (11:15 PM EST),,62 - 54,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200057,393,12,0,3,11:31 PM,12:00,,Start of 3rd Period (11:31 PM EST),,62 - 54,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,394,2,79,3,11:31 PM,11:41,,,MISS Edwards 16' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,395,4,0,3,11:31 PM,11:39,Westbrook REBOUND (Off:0 Def:2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,396,6,2,3,11:31 PM,11:39,,,McDaniels S.FOUL (P2.T1) (B.Barnaky),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,398,3,11,3,11:31 PM,11:39,Westbrook Free Throw 1 of 2 (2 PTS),,,62 - 55,-7,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,399,3,12,3,11:31 PM,11:39,MISS Westbrook Free Throw 2 of 2,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,400,4,0,3,11:31 PM,11:37,,,Reid REBOUND (Off:3 Def:9),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,401,2,1,3,11:32 PM,11:29,,,MISS Anderson 26' 3PT Jump Shot,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,402,4,0,3,11:32 PM,11:27,Beverley REBOUND (Off:0 Def:3),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,403,1,78,3,11:32 PM,11:16,Beverley 14' Floating Jump Shot (5 PTS) (James 2 AST),,,62 - 57,-5,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,404,1,1,3,11:32 PM,10:55,,,Anderson 25' 3PT Jump Shot (7 PTS) (Edwards 4 AST),65 - 57,-8,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,406,1,5,3,11:33 PM,10:40,Davis 2' Layup (16 PTS) (James 3 AST),,,65 - 59,-6,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,408,6,2,3,11:33 PM,10:40,,,McDaniels S.FOUL (P3.T2) (C.Flores),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,410,3,10,3,11:33 PM,10:40,Davis Free Throw 1 of 1 (17 PTS),,,65 - 60,-5,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,411,2,6,3,11:33 PM,10:28,Davis BLOCK (2 BLK),,MISS Russell 3' Driving Layup,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,413,4,0,3,11:33 PM,10:25,Davis REBOUND (Off:2 Def:6),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,471,5,2,3,11:34 PM,10:21,James Lost Ball Turnover (P1.T9),,Edwards STEAL (1 STL),,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,418,5,1,3,11:34 PM,10:15,Beverley STEAL (3 STL),,Edwards Bad Pass Turnover (P2.T9),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,420,1,44,3,11:34 PM,10:14,James 2' Reverse Layup (18 PTS) (Beverley 3 AST),,,65 - 62,-3,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,422,1,5,3,11:34 PM,10:05,,,McDaniels 3' Layup (4 PTS) (Anderson 4 AST),67 - 62,-5,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,424,6,2,3,11:34 PM,10:05,Westbrook S.FOUL (P1.T1) (C.Flores),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,426,3,10,3,11:34 PM,10:05,,,McDaniels Free Throw 1 of 1 (5 PTS),68 - 62,-6,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,427,1,1,3,11:35 PM,9:46,Walker IV 25' 3PT Jump Shot (12 PTS) (Beverley 4 AST),,,68 - 65,-3,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,429,2,101,3,11:35 PM,9:28,,,MISS McDaniels 9' Driving Floating Jump Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,430,4,0,3,11:35 PM,9:24,Davis REBOUND (Off:2 Def:7),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,431,6,1,3,11:35 PM,9:11,,,Reid P.FOUL (P3.T3) (C.Flores),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,433,2,6,3,11:36 PM,9:04,MISS Walker IV 2' Driving Layup,,Reid BLOCK (1 BLK),,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200057,435,4,0,3,11:36 PM,9:04,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200057,437,2,98,3,11:36 PM,9:01,MISS Walker IV 1' Cutting Layup Shot,,McDaniels BLOCK (1 BLK),,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200057,439,4,0,3,11:36 PM,8:59,,,Reid REBOUND (Off:3 Def:10),,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,440,6,1,3,11:36 PM,8:59,Beverley P.FOUL (P2.T2) (C.Blair),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,442,2,80,3,11:37 PM,8:43,,,MISS Edwards 24' 3PT Step Back Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,443,4,0,3,11:37 PM,8:41,Davis REBOUND (Off:2 Def:8),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,444,1,79,3,11:37 PM,8:33,Westbrook 13' Pullup Jump Shot (4 PTS),,,68 - 67,-1,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,445,1,78,3,11:37 PM,8:14,,,Anderson 12' Floating Jump Shot (9 PTS) (Russell 7 AST),70 - 67,-3,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,447,6,4,3,11:37 PM,8:03,Beverley OFF.Foul (P3) (C.Flores),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,449,5,37,3,11:37 PM,8:03,Beverley Offensive Foul Turnover (P3.T10),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,450,1,75,3,11:38 PM,7:52,,,McDaniels 4' Driving Finger Roll Layup (7 PTS),72 - 67,-5,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,452,6,1,3,11:38 PM,7:42,,,McDaniels P.FOUL (P4.T4) (C.Blair),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,454,2,78,3,11:39 PM,7:36,MISS Walker IV 5' Floating Jump Shot,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,455,4,0,3,11:39 PM,7:34,,,McDaniels REBOUND (Off:1 Def:5),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,456,6,2,3,11:39 PM,7:32,Walker IV S.FOUL (P1.T3) (C.Blair),,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,458,3,11,3,11:39 PM,7:32,,,MISS McDaniels Free Throw 1 of 2,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,459,4,1,3,11:39 PM,7:32,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,460,3,12,3,11:39 PM,7:32,,,McDaniels Free Throw 2 of 2 (8 PTS),73 - 67,-6,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200057,461,1,1,3,11:40 PM,7:17,Davis 12' Jump Shot (19 PTS) (Beverley 5 AST),,,73 - 69,-4,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,463,2,96,3,11:40 PM,6:59,,,MISS Reid 6' Turnaround Bank Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,464,4,0,3,11:40 PM,6:52,,,McDaniels REBOUND (Off:2 Def:5),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,465,2,97,3,11:40 PM,6:52,,,MISS McDaniels Tip Layup Shot,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,466,4,0,3,11:40 PM,6:52,Davis REBOUND (Off:2 Def:9),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,467,6,4,3,11:40 PM,6:51,Davis OFF.Foul (P3) (C.Blair),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,469,5,37,3,11:40 PM,6:51,Davis Offensive Foul Turnover (P2.T11),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,470,9,1,3,11:40 PM,6:51,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,473,8,0,3,11:43 PM,6:51,SUB: Ryan FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,475,2,58,3,11:44 PM,6:31,,,MISS Reid 5' Turnaround Hook Shot,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,476,4,0,3,11:44 PM,6:29,Davis REBOUND (Off:2 Def:10),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,477,1,6,3,11:44 PM,6:20,Beverley 3' Driving Layup (7 PTS),,,73 - 71,-2,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,478,1,5,3,11:44 PM,6:05,,,Reid 2' Layup (21 PTS) (Russell 8 AST),75 - 71,-4,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,480,2,1,3,11:45 PM,5:51,MISS Ryan 27' 3PT Jump Shot,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,481,4,0,3,11:45 PM,5:48,,,Edwards REBOUND (Off:0 Def:5),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,482,1,1,3,11:45 PM,5:33,,,McDaniels 3PT Jump Shot (11 PTS) (Edwards 5 AST),78 - 71,-7,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,484,9,1,3,11:45 PM,5:31,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,485,8,0,3,11:48 PM,5:31,SUB: Reaves FOR Walker IV,,,,,4,1629022,Lonnie Walker IV,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,486,8,0,3,11:48 PM,5:31,,,SUB: Nowell FOR Anderson,,,5,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,489,6,1,3,11:49 PM,5:18,,,Nowell P.FOUL (P2.PN) (C.Blair),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,491,3,11,3,11:49 PM,5:18,MISS Westbrook Free Throw 1 of 2,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,492,4,1,3,11:49 PM,5:18,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,493,3,12,3,11:49 PM,5:18,Westbrook Free Throw 2 of 2 (5 PTS),,,78 - 72,-6,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012200057,494,6,1,3,11:50 PM,5:12,Ryan P.FOUL (P1.T4) (C.Blair),,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,496,2,63,3,11:50 PM,4:58,,,MISS Russell 19' Fadeaway Jumper,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,497,4,0,3,11:50 PM,4:56,Westbrook REBOUND (Off:0 Def:3),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,498,2,2,3,11:50 PM,4:53,MISS Davis 26' 3PT Running Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,499,4,0,3,11:50 PM,4:49,,,Edwards REBOUND (Off:0 Def:6),,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,500,6,1,3,11:50 PM,4:47,Ryan P.FOUL (P2.PN) (C.Flores),,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,502,3,11,3,11:51 PM,4:47,,,Reid Free Throw 1 of 2 (22 PTS),79 - 72,-7,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,509,3,12,3,11:51 PM,4:47,,,MISS Reid Free Throw 2 of 2,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,503,8,0,3,11:51 PM,4:47,SUB: James FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,504,8,0,3,11:51 PM,4:47,SUB: Nunn FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,507,8,0,3,11:51 PM,4:47,,,SUB: Rivers FOR Russell,,,5,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,510,4,0,3,11:51 PM,4:40,Reaves REBOUND (Off:0 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,511,2,1,3,11:52 PM,4:20,MISS Davis 10' Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,512,4,0,3,11:52 PM,4:18,,,McDaniels REBOUND (Off:2 Def:6),,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,513,2,79,3,11:52 PM,4:12,,,MISS Edwards 18' Pullup Jump Shot,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,514,4,0,3,11:52 PM,4:10,Davis REBOUND (Off:2 Def:11),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,515,1,1,3,11:52 PM,4:01,James 3PT Jump Shot (21 PTS),,,79 - 75,-4,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,516,9,1,3,11:52 PM,3:55,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,517,8,0,3,11:54 PM,3:55,,,SUB: Forbes FOR Edwards,,,5,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,519,1,1,3,11:54 PM,3:44,,,Forbes 26' 3PT Jump Shot (6 PTS) (Rivers 1 AST),82 - 75,-7,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,521,6,2,3,11:54 PM,3:44,Ryan S.FOUL (P3.PN) (B.Barnaky),,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,523,3,10,3,11:54 PM,3:44,,,Forbes Free Throw 1 of 1 (7 PTS),83 - 75,-8,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200057,524,5,2,3,11:55 PM,3:26,Nunn Lost Ball Turnover (P1.T12),,Rivers STEAL (2 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,526,2,41,3,11:55 PM,3:21,,,MISS Reid 3' Running Layup,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,527,4,0,3,11:55 PM,3:18,James REBOUND (Off:1 Def:7),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,528,6,31,3,11:55 PM,3:17,,,Rivers Transition Take Foul (P0.PN) (C.Blair),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,530,3,10,3,11:56 PM,3:17,Ryan Free Throw 1 of 1 (1 PTS),,,83 - 76,-7,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,531,8,0,3,11:56 PM,3:17,,,SUB: Knight FOR Reid,,,5,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,533,8,0,3,11:56 PM,3:17,SUB: Bryant FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,535,1,44,3,11:56 PM,3:07,James 3' Reverse Layup (23 PTS) (Reaves 1 AST),,,83 - 78,-5,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,537,1,6,3,11:56 PM,2:56,,,Nowell 1' Driving Layup (14 PTS),85 - 78,-7,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,538,7,5,3,11:56 PM,2:51,,,Knight Violation:Kicked Ball (B.Barnaky),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0012200057,539,2,79,3,11:57 PM,2:42,MISS Nunn 14' Pullup Jump Shot,,Rivers BLOCK (1 BLK),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200057,541,4,0,3,11:57 PM,2:39,,,Knight REBOUND (Off:0 Def:1),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,542,2,3,3,11:57 PM,2:32,,,MISS Knight 4' Hook Shot,,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,543,4,0,3,11:57 PM,2:31,James REBOUND (Off:1 Def:8),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,544,5,45,3,11:57 PM,2:21,James Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,545,2,102,3,11:58 PM,2:04,,,MISS Nowell 4' Driving Floating Bank Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,546,4,0,3,11:58 PM,2:01,James REBOUND (Off:1 Def:9),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,547,6,2,3,11:58 PM,2:00,,,Rivers S.FOUL (P1.PN) (C.Flores),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,549,3,11,3,11:58 PM,2:00,James Free Throw 1 of 2 (24 PTS),,,85 - 79,-6,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,550,8,0,3,11:58 PM,2:00,SUB: Westbrook FOR Ryan,,,,,4,1630346,Matt Ryan,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,551,8,0,3,11:58 PM,2:00,,,SUB: Moore Jr. FOR McDaniels,,,5,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,554,3,12,3,11:59 PM,2:00,James Free Throw 2 of 2 (25 PTS),,,85 - 80,-5,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,555,1,58,3,11:59 PM,1:35,,,Knight 3' Turnaround Hook Shot (4 PTS),87 - 80,-7,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,556,2,1,3,11:59 PM,1:24,MISS Nunn 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,557,4,0,3,11:59 PM,1:22,,,Forbes REBOUND (Off:0 Def:1),,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,558,2,1,3,12:00 AM,1:14,,,MISS Nowell 27' 3PT Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,559,4,0,3,12:00 AM,1:12,Bryant REBOUND (Off:0 Def:2),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,560,2,103,3,12:00 AM,1:07,MISS Nunn 25' 3PT Running Pull-Up Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,561,4,0,3,12:00 AM,1:04,,,Moore Jr. REBOUND (Off:0 Def:1),,,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,562,2,1,3,12:00 AM,0:45,,,MISS Nowell 26' 3PT Jump Shot,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,563,4,0,3,12:00 AM,0:43,James REBOUND (Off:1 Def:10),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,564,5,4,3,12:00 AM,0:36,James Traveling Turnover (P3.T14),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,565,9,1,3,12:00 AM,0:36,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,566,2,1,3,12:02 AM,0:18,,,MISS Moore Jr. 25' 3PT Jump Shot,,,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,567,4,0,3,12:02 AM,0:14,Nunn REBOUND (Off:0 Def:2),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,568,2,1,3,12:03 AM,0:02,MISS James 25' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,569,4,0,3,12:03 AM,0:00,,,Knight REBOUND (Off:0 Def:2),,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,570,13,0,3,12:03 AM,0:00,,End of 3rd Period (12:03 AM EST),,87 - 80,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200057,577,12,0,4,12:07 AM,12:00,,Start of 4th Period (12:07 AM EST),,87 - 80,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,578,2,1,4,12:07 AM,11:41,MISS Nunn 25' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,579,4,0,4,12:07 AM,11:38,,,Forbes REBOUND (Off:0 Def:2),,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,580,2,80,4,12:07 AM,11:28,,,MISS Forbes 18' Step Back Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,581,4,0,4,12:07 AM,11:24,Swider REBOUND (Off:0 Def:1),,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,582,1,80,4,12:07 AM,11:15,Swider 20' Step Back Jump Shot (2 PTS) (Nunn 1 AST),,,87 - 82,-5,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,583,1,6,4,12:08 AM,10:52,,,Knight 2' Driving Layup (6 PTS) (Nowell 2 AST),89 - 82,-7,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,585,6,2,4,12:08 AM,10:52,Swider S.FOUL (P1.T1) (C.Flores),,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,587,3,10,4,12:08 AM,10:52,,,MISS Knight Free Throw 1 of 1,,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,588,4,0,4,12:08 AM,10:49,Bryant REBOUND (Off:0 Def:3),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,589,2,6,4,12:08 AM,10:37,MISS Nunn 2' Driving Layup,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,590,4,0,4,12:08 AM,10:34,,,Nowell REBOUND (Off:0 Def:2),,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,591,1,6,4,12:09 AM,10:26,,,Rivers 3' Driving Layup (2 PTS),91 - 82,-9,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,592,2,1,4,12:09 AM,10:14,MISS Swider 25' 3PT Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,593,4,0,4,12:09 AM,10:09,Reaves REBOUND (Off:1 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,594,6,2,4,12:09 AM,10:07,,,Garza S.FOUL (P1.T1) (C.Blair),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,596,3,11,4,12:09 AM,10:07,Reaves Free Throw 1 of 2 (6 PTS),,,91 - 83,-8,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,597,8,0,4,12:09 AM,10:07,SUB: Gabriel FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,599,3,12,4,12:10 AM,10:07,Reaves Free Throw 2 of 2 (7 PTS),,,91 - 84,-7,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,600,6,2,4,12:10 AM,9:55,Swider S.FOUL (P2.T2) (C.Blair),,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,602,3,11,4,12:10 AM,9:55,,,Knight Free Throw 1 of 2 (7 PTS),92 - 84,-8,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,603,8,0,4,12:11 AM,9:55,,,SUB: Moore Jr. FOR Nowell,,,5,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,605,3,12,4,12:11 AM,9:55,,,Knight Free Throw 2 of 2 (8 PTS),93 - 84,-9,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,606,2,1,4,12:11 AM,9:39,MISS Nunn 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,607,4,0,4,12:11 AM,9:36,,,Rivers REBOUND (Off:0 Def:2),,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,608,1,1,4,12:11 AM,9:26,,,Garza 20' Jump Shot (2 PTS),95 - 84,-11,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,609,5,1,4,12:11 AM,9:18,Reaves Bad Pass Turnover (P2.T15),,Knight STEAL (2 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,611,2,1,4,12:11 AM,9:17,,,MISS Forbes 31' 3PT Jump Shot,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,612,4,0,4,12:11 AM,9:16,,,Garza REBOUND (Off:1 Def:0),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,613,6,2,4,12:12 AM,9:13,Gabriel S.FOUL (P1.T3) (C.Flores),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,615,3,11,4,12:12 AM,9:13,,,Garza Free Throw 1 of 2 (3 PTS),96 - 84,-12,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,616,3,12,4,12:12 AM,9:13,,,Garza Free Throw 2 of 2 (4 PTS),97 - 84,-13,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200057,617,1,73,4,12:12 AM,8:57,Nunn 3' Driving Reverse Layup (6 PTS) (Reaves 2 AST),,,97 - 86,-11,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,619,1,6,4,12:13 AM,8:40,,,Knight 2' Driving Layup (10 PTS),99 - 86,-13,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,620,1,1,4,12:13 AM,8:21,Swider 3PT Jump Shot (5 PTS) (Reaves 3 AST),,,99 - 89,-10,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,622,1,6,4,12:13 AM,8:07,,,Moore Jr. 2' Driving Layup (2 PTS) (Rivers 2 AST),101 - 89,-12,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,624,1,66,4,12:14 AM,7:49,Gabriel 25' 3PT Jump Bank Shot (3 PTS) (Christie 1 AST),,,101 - 92,-9,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,626,2,1,4,12:14 AM,7:42,,,MISS Knight 28' 3PT Jump Shot,,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,627,4,0,4,12:14 AM,7:39,Christie REBOUND (Off:0 Def:1),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,628,5,1,4,12:14 AM,7:34,Nunn Bad Pass Turnover (P2.T16),,Garza STEAL (1 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,630,1,2,4,12:14 AM,7:27,,,Garza 26' 3PT Running Jump Shot (7 PTS) (Rivers 3 AST),104 - 92,-12,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,632,6,4,4,12:14 AM,7:10,Gabriel OFF.Foul (P2) (C.Blair),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,634,5,37,4,12:14 AM,7:10,Gabriel Offensive Foul Turnover (P1.T17),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,635,8,0,4,12:14 AM,7:10,SUB: Beverley FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,637,1,1,4,12:15 AM,7:00,,,Garza 28' 3PT Jump Shot (10 PTS) (Rivers 4 AST),107 - 92,-15,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,639,9,1,4,12:15 AM,6:57,LAKERS Timeout: Regular (Full 6 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,641,8,0,4,12:18 AM,6:57,SUB: Jones FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,642,8,0,4,12:18 AM,6:57,,,SUB: Minott FOR Forbes,,,5,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,643,8,0,4,12:18 AM,6:57,,,SUB: Lawson FOR Knight,,,5,1630233,Nathan Knight,1610612750.0,Minnesota,Timberwolves,MIN,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,647,6,2,4,12:18 AM,6:44,,,Minott S.FOUL (P1.T2) (C.Blair),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,649,3,13,4,12:19 AM,6:44,Swider Free Throw 1 of 3 (6 PTS),,,107 - 93,-14,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,650,3,14,4,12:19 AM,6:44,Swider Free Throw 2 of 3 (7 PTS),,,107 - 94,-13,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,651,3,15,4,12:19 AM,6:44,Swider Free Throw 3 of 3 (8 PTS),,,107 - 95,-12,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,652,5,39,4,12:20 AM,6:28,,,Minott Step Out of Bounds Turnover (P1.T10),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200057,653,2,79,4,12:20 AM,6:16,MISS Swider 14' Pullup Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,654,4,0,4,12:20 AM,6:14,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200057,656,8,0,4,12:20 AM,6:14,,,SUB: Elleby FOR Rivers,,,5,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200057,658,2,1,4,12:20 AM,6:02,,,MISS Lawson 27' 3PT Jump Shot,,,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,659,4,0,4,12:20 AM,6:02,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,661,2,1,4,12:21 AM,5:58,,,MISS Garza 14' Jump Shot,,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,662,4,0,4,12:21 AM,5:56,Christie REBOUND (Off:0 Def:2),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,663,1,2,4,12:21 AM,5:50,Beverley 3PT Running Jump Shot (10 PTS) (Reaves 4 AST),,,107 - 98,-9,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,665,2,3,4,12:21 AM,5:35,,,MISS Garza 2' Hook Shot,,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,666,4,0,4,12:21 AM,5:31,,,Garza REBOUND (Off:2 Def:0),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,667,2,72,4,12:21 AM,5:30,Jones BLOCK (1 BLK),,MISS Garza 3' Putback Layup,,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,669,4,0,4,12:21 AM,5:26,Reaves REBOUND (Off:1 Def:2),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,670,1,2,4,12:21 AM,5:23,Swider 28' 3PT Running Jump Shot (11 PTS) (Reaves 5 AST),,,107 - 101,-6,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,672,2,1,4,12:21 AM,5:16,,,MISS Minott 27' 3PT Jump Shot,,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,673,4,0,4,12:21 AM,5:14,Christie REBOUND (Off:0 Def:3),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,674,6,2,4,12:22 AM,5:09,,,Minott S.FOUL (P2.T3) (B.Barnaky),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200057,676,3,11,4,12:22 AM,5:09,Christie Free Throw 1 of 2 (1 PTS),,,107 - 102,-5,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,677,8,0,4,12:22 AM,5:09,SUB: Gabriel FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,679,3,12,4,12:22 AM,5:09,Christie Free Throw 2 of 2 (2 PTS),,,107 - 103,-4,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,680,2,1,4,12:23 AM,4:55,,,MISS Garza 26' 3PT Jump Shot,,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,681,4,0,4,12:23 AM,4:53,Beverley REBOUND (Off:0 Def:4),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,682,5,4,4,12:23 AM,4:34,Beverley Traveling Turnover (P4.T18),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,683,6,2,4,12:24 AM,4:25,Gabriel S.FOUL (P3.T4) (C.Blair),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,685,3,11,4,12:24 AM,4:25,,,Lawson Free Throw 1 of 2 (1 PTS),108 - 103,-5,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,686,3,12,4,12:24 AM,4:25,,,Lawson Free Throw 2 of 2 (2 PTS),109 - 103,-6,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200057,687,2,79,4,12:24 AM,4:09,MISS Swider 27' 3PT Pullup Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,688,4,0,4,12:24 AM,4:06,,,Elleby REBOUND (Off:0 Def:1),,,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,689,5,45,4,12:25 AM,4:04,,,Lawson Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200057,690,5,40,4,12:25 AM,3:43,Christie Out of Bounds Lost Ball Turnover (P1.T19),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200057,691,9,1,4,12:25 AM,3:43,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,692,8,0,4,12:28 AM,3:43,SUB: Pippen Jr. FOR Beverley,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200057,694,1,1,4,12:29 AM,3:28,,,Garza 24' 3PT Jump Shot (13 PTS) (Moore Jr. 1 AST),112 - 103,-9,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,696,2,1,4,12:29 AM,3:10,MISS Swider 27' 3PT Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,697,4,0,4,12:29 AM,3:07,,,Lawson REBOUND (Off:0 Def:1),,,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,698,2,6,4,12:29 AM,3:02,Pippen Jr. BLOCK (1 BLK),,MISS Elleby 2' Driving Layup,,,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,700,4,0,4,12:29 AM,2:59,Pippen Jr. REBOUND (Off:0 Def:1),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,701,2,1,4,12:29 AM,2:53,MISS Pippen Jr. 25' 3PT Jump Shot,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,702,4,0,4,12:29 AM,2:48,,,Minott REBOUND (Off:0 Def:1),,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,703,2,41,4,12:30 AM,2:45,,,MISS Lawson 5' Running Layup,,,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,704,4,0,4,12:30 AM,2:42,Swider REBOUND (Off:0 Def:2),,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,705,2,1,4,12:30 AM,2:28,MISS Swider 25' 3PT Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,706,4,0,4,12:30 AM,2:24,,,Elleby REBOUND (Off:0 Def:2),,,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,707,2,1,4,12:30 AM,2:10,,,MISS Elleby 26' 3PT Jump Shot,,,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,708,4,0,4,12:30 AM,2:07,Jones REBOUND (Off:0 Def:1),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,709,1,1,4,12:31 AM,1:47,Jones 25' 3PT Jump Shot (3 PTS),,,112 - 106,-6,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,711,1,78,4,12:31 AM,1:36,,,Garza 4' Floating Jump Shot (15 PTS) (Moore Jr. 2 AST),114 - 106,-8,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,713,1,101,4,12:31 AM,1:17,Christie 5' Driving Floating Jump Shot (4 PTS) (Swider 1 AST),,,114 - 108,-6,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,715,2,79,4,12:31 AM,1:03,,,MISS Minott 17' Pullup Jump Shot,,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,716,4,0,4,12:31 AM,1:01,,,Garza REBOUND (Off:3 Def:0),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,717,2,1,4,12:31 AM,0:58,,,MISS Moore Jr. 3PT Jump Shot,,,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,718,4,0,4,12:32 AM,0:54,Christie REBOUND (Off:0 Def:4),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,719,5,1,4,12:32 AM,0:45,Pippen Jr. Bad Pass Turnover (P1.T20),,Moore Jr. STEAL (1 STL),,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200057,721,5,2,4,12:32 AM,0:41,Gabriel STEAL (1 STL),,Moore Jr. Lost Ball Turnover (P1.T12),,,5,1631111,Wendell Moore Jr.,1610612750.0,Minnesota,Timberwolves,MIN,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,723,1,41,4,12:32 AM,0:39,Pippen Jr. 2' Running Layup (2 PTS) (Christie 2 AST),,,114 - 110,-4,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,725,6,1,4,12:32 AM,0:35,Pippen Jr. P.FOUL (P1.PN) (C.Blair),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,727,3,11,4,12:32 AM,0:35,,,Elleby Free Throw 1 of 2 (1 PTS),115 - 110,-5,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,728,3,12,4,12:33 AM,0:35,,,Elleby Free Throw 2 of 2 (2 PTS),116 - 110,-6,5,1629604,CJ Elleby,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,729,1,1,4,12:33 AM,0:31,Gabriel 25' 3PT Jump Shot (6 PTS) (Pippen Jr. 1 AST),,,116 - 113,-3,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200057,731,6,28,4,12:33 AM,0:28,Pippen Jr. Personal Take Foul (P2.PN) (C.Blair),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,733,3,11,4,12:34 AM,0:28,,,Lawson Free Throw 1 of 2 (3 PTS),117 - 113,-4,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,734,3,12,4,12:34 AM,0:28,,,MISS Lawson Free Throw 2 of 2,,,5,1630639,A.J. Lawson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,735,4,0,4,12:34 AM,0:25,Jones REBOUND (Off:0 Def:2),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,754,2,1,4,12:34 AM,0:17,MISS Swider 25' 3PT Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012200057,755,4,0,4,12:34 AM,0:17,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,738,9,1,4,12:34 AM,0:17,,,Timberwolves Timeout: Regular (Reg.5 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,741,18,5,4,12:35 AM,0:17,,Instant Replay4th Period (12:35 AM EST),,117 - 113,-4,0,736,Cedric Lewis,,,,,0,0,,,,,,1,0,,,,,,1
+0012200057,742,10,1,4,12:37 AM,0:12,Jump Ball (CC) Jones vs. Minott: Tip to Gabriel,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200057,745,2,102,4,12:38 AM,0:07,MISS Christie 11' Driving Floating Bank Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200057,746,4,0,4,12:38 AM,0:05,,,Garza REBOUND (Off:3 Def:1),,,5,1630568,Luka Garza,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,747,6,28,4,12:38 AM,0:05,Gabriel Personal Take Foul (P4.PN) (B.Barnaky),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200057,749,3,11,4,12:38 AM,0:05,,,MISS Minott Free Throw 1 of 2,,,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,750,4,1,4,12:38 AM,0:05,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200057,751,3,12,4,12:38 AM,0:05,,,Minott Free Throw 2 of 2 (1 PTS),118 - 113,-5,5,1631169,Josh Minott,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200057,752,13,0,4,12:39 AM,0:00,,End of 4th Period (12:39 AM EST),,118 - 113,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

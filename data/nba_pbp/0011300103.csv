@@ -1,0 +1,435 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300103,0,12,0,1,9:40 PM,12:00,,Start of 1st Period (9:40 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,1,10,0,1,9:41 PM,12:00,Jump Ball Perkins vs. Mohammed: Tip to Boozer,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0
+0011300103,2,1,5,1,9:41 PM,11:41,,,Boozer 2' Layup (2 PTS),2 - 0,-2,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,3,1,1,1,9:41 PM,11:28,Jones  3PT Jump Shot (3 PTS) (Durant 1 AST),,,2 - 3,1,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,4,2,1,1,9:42 PM,11:07,,,MISS Deng 20' Jump Shot,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,5,4,0,1,9:42 PM,11:06,,,Butler REBOUND (Off:1 Def:0),,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,6,2,1,1,9:42 PM,10:54,,,MISS Boozer 18' Jump Shot,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,8,4,0,1,9:42 PM,10:54,,,Deng REBOUND (Off:1 Def:0),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,7,2,4,1,9:42 PM,10:54,,,MISS Deng 1' Tip Shot,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,9,4,0,1,9:42 PM,10:53,Durant REBOUND (Off:0 Def:1),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,10,1,1,1,9:43 PM,10:34,Durant 15' Jump Shot (2 PTS) (Jackson 1 AST),,,2 - 5,3,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,11,2,5,1,9:45 PM,10:23,,,MISS Boozer 2' Layup,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,12,4,0,1,9:45 PM,10:23,Durant REBOUND (Off:0 Def:2),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,13,2,41,1,9:45 PM,10:15,MISS Lamb 2' Running Layup,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,14,4,0,1,9:45 PM,10:13,,,Boozer REBOUND (Off:0 Def:1),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,15,6,2,1,9:45 PM,10:09,Durant S.FOUL (P1.T1),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,16,3,11,1,9:45 PM,10:09,,,Rose Free Throw 1 of 2 (1 PTS),3 - 5,2,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,18,3,12,1,9:45 PM,10:09,,,Rose Free Throw 2 of 2 (2 PTS),4 - 5,1,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,20,1,42,1,9:46 PM,9:56,Jackson 2' Driving Layup (2 PTS) (Durant 2 AST),,,4 - 7,3,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,21,6,1,1,9:46 PM,9:40,Jones P.FOUL (P1.T2),,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,22,2,1,1,9:47 PM,9:28,,,MISS Rose 25' 3PT Jump Shot,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,23,4,0,1,9:47 PM,9:28,Jones REBOUND (Off:0 Def:1),,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,24,2,1,1,9:47 PM,9:12,MISS Jones 17' Jump Shot,,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,25,4,0,1,9:47 PM,9:12,,,Mohammed REBOUND (Off:0 Def:1),,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,27,5,1,1,9:47 PM,9:04,Lamb STEAL (1 STL),,Rose Bad Pass Turnover (P1.T1),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,28,5,40,1,9:47 PM,9:03,Perkins Out of Bounds Lost Ball Turnover (P1.T1),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,29,1,44,1,9:47 PM,8:57,,,Mohammed 1' Reverse Layup (2 PTS) (Deng 1 AST),6 - 7,1,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,30,2,47,1,9:48 PM,8:40,MISS Perkins 5' Turnaround Jump Shot,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,31,4,0,1,9:48 PM,8:40,,,Boozer REBOUND (Off:0 Def:2),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,32,5,2,1,9:48 PM,8:27,Durant STEAL (1 STL),,Deng Lost Ball Turnover (P1.T2),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,33,1,5,1,9:48 PM,8:23,Lamb 1' Layup (2 PTS) (Jackson 2 AST),,,6 - 9,3,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,34,2,1,1,9:49 PM,7:54,,,MISS Deng 26' 3PT Jump Shot,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,35,4,0,1,9:49 PM,7:54,,,Rose REBOUND (Off:1 Def:0),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,37,6,1,1,9:49 PM,7:46,Durant P.FOUL (P2.T3),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,38,1,7,1,9:49 PM,7:39,,,Boozer 2' Dunk (4 PTS) (Rose 1 AST),8 - 9,1,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,39,2,1,1,9:50 PM,7:23,MISS Durant 16' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,40,4,0,1,9:50 PM,7:23,,,Boozer REBOUND (Off:0 Def:3),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,41,2,1,1,9:50 PM,7:18,Jackson BLOCK (1 BLK),,MISS Rose 25' 3PT Jump Shot,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0
+0011300103,42,4,0,1,9:50 PM,7:14,,,Boozer REBOUND (Off:1 Def:3),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,43,1,1,1,9:50 PM,7:10,,,Butler 25' 3PT Jump Shot (3 PTS) (Boozer 1 AST),11 - 9,-2,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,44,1,44,1,9:50 PM,6:55,Perkins 1' Reverse Layup (2 PTS) (Lamb 1 AST),,,11 - 11,TIE,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,45,9,1,1,9:50 PM,6:46,,,Bulls Timeout: Regular (Reg.1 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,48,8,0,1,9:53 PM,6:46,SUB: Collison FOR Jones,,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,49,6,1,1,9:54 PM,6:41,Lamb P.FOUL (P1.T4),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,51,5,40,1,9:55 PM,6:31,,,Boozer Out of Bounds Lost Ball Turnover (P1.T3),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,52,5,1,1,9:55 PM,6:17,Lamb Bad Pass Turnover (P1.T2),,Boozer STEAL (1 STL),,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,53,2,5,1,9:55 PM,6:13,,,MISS Deng 2' Layup,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,55,4,0,1,9:55 PM,6:11,,,Deng REBOUND (Off:2 Def:0),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,54,1,5,1,9:55 PM,6:11,,,Deng  Layup (2 PTS),13 - 11,-2,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,56,2,1,1,9:55 PM,6:01,MISS Durant 25' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,57,4,0,1,9:55 PM,5:58,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,58,5,1,1,9:56 PM,5:45,Durant STEAL (2 STL),,Boozer Bad Pass Turnover (P2.T4),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,59,2,1,1,9:56 PM,5:34,MISS Durant 16' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,60,4,0,1,9:56 PM,5:34,,,Boozer REBOUND (Off:1 Def:4),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,61,1,1,1,9:56 PM,5:14,,,Butler 3' Jump Shot (5 PTS) (Mohammed 1 AST),15 - 11,-4,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,62,7,1,1,9:56 PM,5:13,,,Bulls Violation: Delay of game Violation,,,3,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,63,1,1,1,9:57 PM,5:00,Collison 20' Jump Shot (2 PTS) (Jackson 3 AST),,,15 - 13,-2,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,64,1,1,1,9:57 PM,4:35,,,Rose 24' 3PT Jump Shot (5 PTS) (Boozer 2 AST),18 - 13,-5,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,65,2,7,1,9:57 PM,4:22,MISS Durant 2' Dunk,,Boozer BLOCK (1 BLK),,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0
+0011300103,66,4,0,1,9:57 PM,4:21,Lamb REBOUND (Off:1 Def:0),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,67,2,1,1,9:57 PM,4:13,MISS Collison 20' Jump Shot,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,68,4,0,1,9:57 PM,4:13,,,Deng REBOUND (Off:2 Def:1),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,69,2,1,1,9:58 PM,4:02,,,MISS Boozer 16' Jump Shot,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,70,4,0,1,9:58 PM,4:02,Durant REBOUND (Off:0 Def:3),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,71,5,1,1,9:58 PM,3:57,Perkins Bad Pass Turnover (P2.T3),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,72,8,0,1,9:58 PM,3:57,,,SUB: Gibson FOR Mohammed,,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,73,6,1,1,9:58 PM,3:47,Perkins P.FOUL (P1.PN),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,74,3,11,1,9:58 PM,3:47,,,Boozer Free Throw 1 of 2 (5 PTS),19 - 13,-6,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,76,3,12,1,9:59 PM,3:47,,,Boozer Free Throw 2 of 2 (6 PTS),20 - 13,-7,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,78,2,44,1,9:59 PM,3:26,MISS Perkins 1' Reverse Layup,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,79,4,0,1,9:59 PM,3:25,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,80,8,0,1,9:59 PM,3:25,SUB: Adams FOR Perkins,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,81,6,17,1,10:00 PM,3:21,,,Bulls T.Foul (Def. 3 Sec Boozer ),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,82,3,16,1,10:00 PM,3:21,Durant Free Throw Technical (3 PTS),,,20 - 14,-6,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,84,6,1,1,10:00 PM,3:14,,,Boozer P.FOUL (P1.T1),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,85,3,11,1,10:01 PM,3:14,Collison Free Throw 1 of 2 (3 PTS),,,20 - 15,-5,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,87,3,12,1,10:01 PM,3:14,Collison Free Throw 2 of 2 (4 PTS),,,20 - 16,-4,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,89,6,1,1,10:01 PM,3:08,Durant P.FOUL (P3.PN),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,90,3,11,1,10:02 PM,3:08,,,Deng Free Throw 1 of 2 (3 PTS),21 - 16,-5,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,92,8,0,1,10:02 PM,3:08,SUB: McGruder FOR Durant,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,93,8,0,1,10:02 PM,3:08,,,SUB: Dunleavy FOR Butler,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,94,3,12,1,10:02 PM,3:08,,,MISS Deng Free Throw 2 of 2,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,96,4,0,1,10:02 PM,3:08,Adams REBOUND (Off:0 Def:1),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,97,5,1,1,10:03 PM,2:50,Jackson Bad Pass Turnover (P1.T4),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,98,9,1,1,10:03 PM,2:50,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,102,5,2,1,10:06 PM,2:29,Collison STEAL (1 STL),,Boozer Lost Ball Turnover (P3.T5),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,103,2,1,1,10:06 PM,2:07,MISS McGruder 25' 3PT Jump Shot,,,,,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,104,4,0,1,10:06 PM,2:06,,,Deng REBOUND (Off:2 Def:2),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,105,5,2,1,10:07 PM,1:48,McGruder STEAL (1 STL),,Dunleavy Lost Ball Turnover (P1.T6),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,106,1,5,1,10:07 PM,1:45,Lamb  Layup (4 PTS) (Jackson 4 AST),,,21 - 18,-3,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,107,5,1,1,10:07 PM,1:24,Lamb STEAL (2 STL),,Rose Bad Pass Turnover (P2.T7),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,108,1,7,1,10:07 PM,1:21,Lamb 1' Dunk (6 PTS),,,21 - 20,-1,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,109,6,1,1,10:07 PM,1:03,Lamb P.FOUL (P2.PN),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,110,3,11,1,10:08 PM,1:03,,,Deng Free Throw 1 of 2 (4 PTS),22 - 20,-2,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,112,8,0,1,10:08 PM,1:03,,,SUB: Murphy FOR Boozer,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,113,8,0,1,10:08 PM,1:03,,,SUB: Teague FOR Rose,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,114,3,12,1,10:08 PM,1:03,,,Deng Free Throw 2 of 2 (5 PTS),23 - 20,-3,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,116,5,7,1,10:09 PM,0:52,Jackson Discontinue Dribble Turnover (P2.T5),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,117,8,0,1,10:09 PM,0:52,,,SUB: Snell FOR Deng,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,118,1,1,1,10:09 PM,0:35,,,Gibson 21' Jump Shot (2 PTS) (Snell 1 AST),25 - 20,-5,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,119,2,80,1,10:09 PM,0:33,MISS Jackson 25' 3PT Step Back Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,120,4,0,1,10:09 PM,0:33,,,Dunleavy REBOUND (Off:0 Def:1),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,121,6,4,1,10:09 PM,0:22,,,Gibson OFF.Foul (P1),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,122,5,5,1,10:09 PM,0:22,,,Gibson Foul Turnover (P1.T8),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,123,8,0,1,10:10 PM,0:22,SUB: Fisher FOR Adams,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,124,6,1,1,10:10 PM,0:06,,,Teague P.FOUL (P1.T2),,,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,125,2,46,1,10:11 PM,0:01,MISS Jackson 4' Running Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,126,4,0,1,10:11 PM,0:00,,,Gibson REBOUND (Off:0 Def:1),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,127,2,1,1,10:11 PM,0:00,,,MISS Gibson 80' 3PT Jump Shot,,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,128,4,0,1,10:11 PM,0:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,129,13,0,1,10:11 PM,0:00,,End of 1st Period (10:11 PM EST),,25 - 20,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,131,12,0,2,10:14 PM,12:00,,Start of 2nd Period (10:14 PM EST),,25 - 20,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,132,1,58,2,10:15 PM,11:42,Adams 7' Turnaround Hook Shot (2 PTS) (Collison 1 AST),,,25 - 22,-3,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,133,5,1,2,10:15 PM,11:16,,,Teague Bad Pass Turnover (P1.T9),,,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,134,1,46,2,10:16 PM,11:03,Lamb 5' Running Jump Shot (8 PTS) (Fisher 1 AST),,,25 - 24,-1,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,135,5,2,2,10:16 PM,10:47,Adams STEAL (1 STL),,Teague Lost Ball Turnover (P2.T10),,,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,136,6,3,2,10:16 PM,10:47,,,Teague L.B.FOUL (P2.T1),,,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,137,5,1,2,10:16 PM,10:32,Lamb Bad Pass Turnover (P2.T6),,Murphy STEAL (1 STL),,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,138,2,47,2,10:17 PM,10:21,Adams BLOCK (1 BLK),,MISS Gibson 9' Turnaround Jump Shot,,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0
+0011300103,139,4,0,2,10:17 PM,10:20,,,Gibson REBOUND (Off:1 Def:1),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,140,2,5,2,10:17 PM,10:18,Collison BLOCK (1 BLK),,MISS Gibson 2' Layup,,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0
+0011300103,141,4,0,2,10:17 PM,10:16,Lamb REBOUND (Off:1 Def:1),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,142,2,78,2,10:17 PM,10:14,MISS Lamb 5' Floating Jump Shot,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,143,4,0,2,10:17 PM,10:14,Adams REBOUND (Off:1 Def:1),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,144,2,5,2,10:17 PM,10:12,MISS Adams 2' Layup,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,145,4,0,2,10:17 PM,10:10,,,Dunleavy REBOUND (Off:0 Def:2),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,146,2,1,2,10:17 PM,9:51,,,MISS Murphy 24' 3PT Jump Shot,,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,147,4,0,2,10:17 PM,9:51,Lamb REBOUND (Off:1 Def:2),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,148,1,5,2,10:17 PM,9:46,McGruder 1' Layup (2 PTS) (Lamb 2 AST),,,25 - 26,1,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,149,2,1,2,10:17 PM,9:23,,,MISS Gibson 16' Jump Shot,,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,150,4,0,2,10:17 PM,9:23,Fisher REBOUND (Off:0 Def:1),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,151,2,1,2,10:18 PM,9:10,MISS McGruder 13' Jump Shot,,,,,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,152,4,0,2,10:18 PM,9:09,Collison REBOUND (Off:1 Def:0),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,153,6,2,2,10:18 PM,9:09,,,Murphy S.FOUL (P1.T2),,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,154,3,11,2,10:18 PM,9:09,MISS Collison Free Throw 1 of 2,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,155,4,1,2,10:18 PM,9:09,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,156,3,12,2,10:18 PM,9:09,Collison Free Throw 2 of 2 (5 PTS),,,25 - 27,2,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,158,1,5,2,10:19 PM,8:55,,,Gibson 2' Layup (4 PTS) (Dunleavy 1 AST),27 - 27,TIE,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,159,1,80,2,10:19 PM,8:34,Lamb 9' Step Back Jump Shot (10 PTS),,,27 - 29,2,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,160,1,1,2,10:19 PM,8:09,,,Murphy 21' Jump Shot (2 PTS),29 - 29,TIE,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,161,9,1,2,10:20 PM,7:54,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,164,2,1,2,10:24 PM,7:37,MISS Collison 23' Jump Shot,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,165,4,0,2,10:24 PM,7:36,,,Dunleavy REBOUND (Off:0 Def:3),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,166,1,1,2,10:24 PM,7:14,,,Snell 25' 3PT Jump Shot (3 PTS) (Murphy 1 AST),32 - 29,-3,5,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,167,2,1,2,10:24 PM,6:57,MISS Fisher 20' Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,168,4,0,2,10:24 PM,6:57,,,Snell REBOUND (Off:0 Def:1),,,5,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,169,6,2,2,10:24 PM,6:50,McGruder S.FOUL (P1.T1),,,,,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,170,3,11,2,10:25 PM,6:50,,,MISS Dunleavy Free Throw 1 of 2,,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,171,4,1,2,10:25 PM,6:50,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,172,8,0,2,10:25 PM,6:50,SUB: Durant FOR Collison,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,173,3,12,2,10:25 PM,6:50,,,Dunleavy Free Throw 2 of 2 (1 PTS),33 - 29,-4,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,175,6,26,2,10:25 PM,6:36,Lamb Offensive Charge Foul (P3.T2),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,176,5,5,2,10:25 PM,6:36,Lamb Foul Turnover (P3.T7),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,177,8,0,2,10:26 PM,6:36,SUB: Roberson FOR Lamb,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,178,2,1,2,10:26 PM,6:19,,,MISS Snell 25' 3PT Jump Shot,,,5,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,179,4,0,2,10:26 PM,6:18,Adams REBOUND (Off:1 Def:2),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,180,6,2,2,10:26 PM,6:12,,,Murphy S.FOUL (P2.T3),,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,181,3,11,2,10:27 PM,6:12,Durant Free Throw 1 of 2 (4 PTS),,,33 - 30,-3,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,182,8,0,2,10:27 PM,6:12,,,SUB: Butler FOR Snell,,,5,203503,Tony Snell,1610612741.0,Chicago,Bulls,CHI,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,183,8,0,2,10:27 PM,6:12,,,SUB: Rose FOR Teague,,,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,184,3,12,2,10:27 PM,6:12,Durant Free Throw 2 of 2 (5 PTS),,,33 - 31,-2,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,186,1,1,2,10:27 PM,5:51,,,Butler 20' Jump Shot (7 PTS) (Gibson 1 AST),35 - 31,-4,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,187,6,2,2,10:27 PM,5:51,Roberson S.FOUL (P1.T3),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,188,9,4,2,10:28 PM,5:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,190,18,0,2,10:29 PM,5:51,,Support Ruling,,,,0,186,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,192,8,0,2,10:30 PM,5:51,,,SUB: Deng FOR Murphy,,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,193,3,10,2,10:30 PM,5:51,,,Butler Free Throw 1 of 1 (8 PTS),36 - 31,-5,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,195,1,1,2,10:31 PM,5:42,Durant 23' Jump Shot (7 PTS) (Adams 1 AST),,,36 - 33,-3,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,196,1,42,2,10:31 PM,5:24,,,Rose 1' Driving Layup (7 PTS),38 - 33,-5,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,197,2,42,2,10:31 PM,5:15,MISS Fisher 2' Driving Layup,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,198,4,0,2,10:31 PM,5:14,,,Gibson REBOUND (Off:1 Def:2),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,199,5,1,2,10:31 PM,5:07,Fisher STEAL (1 STL),,Rose Bad Pass Turnover (P3.T11),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,200,6,28,2,10:31 PM,5:06,,,Deng Personal Take Foul (P1.T4),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,201,2,1,2,10:32 PM,4:44,MISS Fisher 22' Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,202,4,0,2,10:32 PM,4:43,,,Butler REBOUND (Off:1 Def:1),,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,203,1,1,2,10:32 PM,4:35,,,Dunleavy  3PT Jump Shot (4 PTS) (Rose 2 AST),41 - 33,-8,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,204,5,4,2,10:33 PM,4:19,Roberson Traveling Turnover (P1.T8),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,205,5,40,2,10:33 PM,4:07,,,Rose Out of Bounds Lost Ball Turnover (P4.T12),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,206,8,0,2,10:33 PM,4:07,SUB: Jackson FOR Roberson,,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,207,2,46,2,10:34 PM,3:49,MISS Jackson 5' Running Jump Shot,,Butler BLOCK (1 BLK),,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0
+0011300103,208,4,0,2,10:34 PM,3:48,,,Gibson REBOUND (Off:1 Def:3),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,209,1,1,2,10:34 PM,3:41,,,Dunleavy  3PT Jump Shot (7 PTS) (Butler 1 AST),44 - 33,-11,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,210,9,2,2,10:34 PM,3:33,THUNDER Timeout: Short (Full 2 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,211,8,0,2,10:35 PM,3:33,SUB: Lamb FOR Fisher,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,212,1,79,2,10:36 PM,3:18,Lamb 14' Pullup Jump Shot (12 PTS),,,44 - 35,-9,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,213,2,42,2,10:36 PM,3:00,,,MISS Rose 2' Driving Layup,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,214,4,0,2,10:36 PM,2:59,,,Rose REBOUND (Off:2 Def:0),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,215,6,2,2,10:36 PM,2:59,Adams S.FOUL (P1.T4),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,216,9,1,2,10:36 PM,2:59,,,Bulls Timeout: Regular (Reg.2 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,218,3,11,2,10:39 PM,2:59,,,Rose Free Throw 1 of 2 (8 PTS),45 - 35,-10,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,220,3,12,2,10:39 PM,2:59,,,Rose Free Throw 2 of 2 (9 PTS),46 - 35,-11,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,222,2,1,2,10:40 PM,2:40,MISS Durant 8' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,224,4,0,2,10:40 PM,2:39,Adams REBOUND (Off:2 Def:2),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,223,2,4,2,10:40 PM,2:39,MISS Adams 1' Tip Shot,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,225,4,0,2,10:40 PM,2:38,,,Deng REBOUND (Off:2 Def:3),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,226,2,5,2,10:40 PM,2:33,,,MISS Rose 3' Layup,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,227,4,0,2,10:40 PM,2:32,Adams REBOUND (Off:2 Def:3),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,228,2,1,2,10:40 PM,2:21,MISS Jackson 25' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,229,4,0,2,10:40 PM,2:21,,,Rose REBOUND (Off:2 Def:1),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,230,1,5,2,10:40 PM,2:17,,,Butler 1' Layup (10 PTS) (Rose 3 AST),48 - 35,-13,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,231,6,2,2,10:40 PM,2:17,Jackson S.FOUL (P1.PN),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,232,3,10,2,10:40 PM,2:17,,,Butler Free Throw 1 of 1 (11 PTS),49 - 35,-14,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,234,2,1,2,10:41 PM,1:59,MISS Lamb 24' 3PT Jump Shot,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,235,4,0,2,10:41 PM,1:59,,,Deng REBOUND (Off:2 Def:4),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,236,2,84,2,10:41 PM,1:52,,,MISS Deng 4' Running Bank Shot,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,237,4,0,2,10:41 PM,1:52,Adams REBOUND (Off:2 Def:4),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,238,1,1,2,10:41 PM,1:46,Durant 25' 3PT Jump Shot (10 PTS) (Jackson 5 AST),,,49 - 38,-11,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,239,1,1,2,10:42 PM,1:28,,,Deng 22' Jump Shot (7 PTS) (Rose 4 AST),51 - 38,-13,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,240,2,1,2,10:42 PM,1:12,MISS McGruder 24' 3PT Jump Shot,,,,,4,203585,Rodney McGruder,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,241,4,0,2,10:42 PM,1:11,,,Deng REBOUND (Off:2 Def:5),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,242,2,1,2,10:42 PM,0:57,,,MISS Deng 21' Jump Shot,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,243,4,0,2,10:42 PM,0:54,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,244,5,1,2,10:43 PM,0:34,Jackson Bad Pass Turnover (P3.T9),,Rose STEAL (1 STL),,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,245,2,5,2,10:43 PM,0:30,,,MISS Deng 2' Layup,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,246,4,0,2,10:43 PM,0:29,Adams REBOUND (Off:2 Def:5),,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,247,6,1,2,10:43 PM,0:06,,,Dunleavy P.FOUL (P1.PN),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,248,3,11,2,10:44 PM,0:06,Durant Free Throw 1 of 2 (11 PTS),,,51 - 39,-12,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,250,3,12,2,10:44 PM,0:06,Durant Free Throw 2 of 2 (12 PTS),,,51 - 40,-11,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,252,2,1,2,10:44 PM,0:00,,,MISS Rose 25' 3PT Jump Shot,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,254,4,0,2,10:44 PM,0:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,253,13,0,2,10:44 PM,0:00,,End of 2nd Period (10:44 PM EST),,51 - 40,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,256,12,0,3,11:02 PM,12:00,,Start of 3rd Period (11:02 PM EST),,51 - 40,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,257,6,2,3,11:02 PM,11:49,,,Deng S.FOUL (P2.T1),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,258,3,11,3,11:02 PM,11:49,Durant Free Throw 1 of 2 (13 PTS),,,51 - 41,-10,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,260,3,12,3,11:02 PM,11:49,Durant Free Throw 2 of 2 (14 PTS),,,51 - 42,-9,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,262,6,2,3,11:03 PM,11:30,Collison S.FOUL (P1.T1),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,263,3,11,3,11:03 PM,11:30,,,Boozer Free Throw 1 of 2 (7 PTS),52 - 42,-10,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,265,3,12,3,11:03 PM,11:30,,,Boozer Free Throw 2 of 2 (8 PTS),53 - 42,-11,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,267,1,1,3,11:04 PM,11:19,Collison 17' Jump Shot (7 PTS) (Perkins 1 AST),,,53 - 44,-9,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,268,1,5,3,11:04 PM,11:02,,,Deng 1' Layup (9 PTS) (Boozer 3 AST),55 - 44,-11,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,269,6,4,3,11:04 PM,10:47,Perkins OFF.Foul (P2),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,270,5,5,3,11:04 PM,10:47,Perkins Foul Turnover (P3.T10),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,271,6,2,3,11:05 PM,10:37,Lamb S.FOUL (P4.T2),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,272,3,11,3,11:05 PM,10:37,,,MISS Butler Free Throw 1 of 2,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,273,4,1,3,11:05 PM,10:37,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,274,3,12,3,11:05 PM,10:37,,,Butler Free Throw 2 of 2 (12 PTS),56 - 44,-12,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,276,2,1,3,11:06 PM,10:27,MISS Collison 22' Jump Shot,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,277,4,0,3,11:06 PM,10:27,,,Butler REBOUND (Off:1 Def:2),,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,278,2,5,3,11:06 PM,10:10,Lamb BLOCK (1 BLK),,MISS Mohammed 3' Layup,,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0
+0011300103,279,4,0,3,11:06 PM,10:09,Jackson REBOUND (Off:0 Def:1),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,280,1,5,3,11:06 PM,10:05,Jackson 1' Layup (4 PTS),,,56 - 46,-10,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,281,5,11,3,11:06 PM,9:37,,,Bulls Turnover: Shot Clock (T#13),,,3,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,282,1,5,3,11:07 PM,9:30,Collison 1' Layup (9 PTS),,,56 - 48,-8,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,284,2,1,3,11:08 PM,9:02,,,MISS Butler 13' Jump Shot,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,285,4,0,3,11:08 PM,9:02,Collison REBOUND (Off:1 Def:1),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,287,6,2,3,11:08 PM,8:47,,,Mohammed S.FOUL (P1.T2),,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,288,3,11,3,11:08 PM,8:47,Durant Free Throw 1 of 2 (15 PTS),,,56 - 49,-7,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,290,3,12,3,11:09 PM,8:47,Durant Free Throw 2 of 2 (16 PTS),,,56 - 50,-6,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,292,6,2,3,11:09 PM,8:39,Perkins S.FOUL (P3.T3),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,293,3,11,3,11:09 PM,8:39,,,Rose Free Throw 1 of 2 (10 PTS),57 - 50,-7,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,296,3,12,3,11:10 PM,8:39,,,Rose Free Throw 2 of 2 (11 PTS),58 - 50,-8,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,300,2,45,3,11:10 PM,8:20,MISS Jackson 25' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,299,4,0,3,11:10 PM,8:19,,,Butler REBOUND (Off:1 Def:3),,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,301,7,5,3,11:11 PM,8:06,Jackson Violation:Kicked Ball,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,303,5,4,3,11:11 PM,7:58,,,Boozer Traveling Turnover (P4.T14),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,305,2,42,3,11:12 PM,7:43,MISS Collison 2' Driving Layup,,Mohammed BLOCK (1 BLK),,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0
+0011300103,306,4,0,3,11:12 PM,7:42,Perkins REBOUND (Off:1 Def:0),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,308,2,1,3,11:12 PM,7:34,MISS Jackson 20' Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,309,4,0,3,11:12 PM,7:33,Perkins REBOUND (Off:2 Def:0),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,310,1,1,3,11:12 PM,7:21,Jackson 24' 3PT Jump Shot (7 PTS) (Perkins 2 AST),,,58 - 53,-5,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,311,1,5,3,11:12 PM,7:08,,,Deng 1' Layup (11 PTS) (Mohammed 2 AST),60 - 53,-7,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,312,6,2,3,11:13 PM,6:50,,,Mohammed S.FOUL (P2.T3),,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,313,3,11,3,11:13 PM,6:50,Jackson Free Throw 1 of 2 (8 PTS),,,60 - 54,-6,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,315,3,12,3,11:13 PM,6:50,Jackson Free Throw 2 of 2 (9 PTS),,,60 - 55,-5,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,317,1,42,3,11:14 PM,6:31,,,Rose 1' Driving Layup (13 PTS),62 - 55,-7,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,318,1,79,3,11:14 PM,6:18,Durant 15' Pullup Jump Shot (18 PTS),,,62 - 57,-5,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,319,2,42,3,11:14 PM,5:57,,,MISS Boozer 1' Driving Layup,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,321,4,0,3,11:14 PM,5:56,,,Boozer REBOUND (Off:2 Def:4),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,320,1,4,3,11:14 PM,5:56,,,Boozer 2' Tip Shot (10 PTS),64 - 57,-7,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,322,1,5,3,11:15 PM,5:45,Collison 1' Layup (11 PTS) (Jackson 6 AST),,,64 - 59,-5,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,323,6,2,3,11:15 PM,5:45,,,Mohammed S.FOUL (P3.T4),,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,324,9,1,3,11:15 PM,5:45,THUNDER Timeout: Regular (Full 3 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,326,3,10,3,11:18 PM,5:45,Collison Free Throw 1 of 1 (12 PTS),,,64 - 60,-4,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,328,2,86,3,11:18 PM,5:30,,,MISS Boozer 10' Turnaround Fadeaway Shot,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,329,4,0,3,11:18 PM,5:30,Durant REBOUND (Off:0 Def:4),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,330,1,78,3,11:18 PM,5:20,Durant 11' Floating Jump Shot (20 PTS),,,64 - 62,-2,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,332,7,1,3,11:19 PM,5:20,THUNDER Violation: Delay of game Violation,,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,333,2,47,3,11:19 PM,4:57,,,MISS Mohammed 5' Turnaround Jump Shot,,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,335,4,0,3,11:19 PM,4:57,,,Boozer REBOUND (Off:3 Def:4),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,334,1,72,3,11:19 PM,4:57,,,Boozer 2' Putback Layup (12 PTS),66 - 62,-4,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,336,2,1,3,11:19 PM,4:38,MISS Collison 22' Jump Shot,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,337,4,0,3,11:19 PM,4:37,,,Mohammed REBOUND (Off:0 Def:2),,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,338,2,1,3,11:20 PM,4:18,,,MISS Rose 25' 3PT Jump Shot,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,339,4,0,3,11:20 PM,4:18,Perkins REBOUND (Off:2 Def:1),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,340,2,1,3,11:20 PM,4:12,MISS Lamb  3PT Jump Shot,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,341,4,0,3,11:20 PM,4:11,,,Rose REBOUND (Off:2 Def:2),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,342,1,1,3,11:20 PM,3:54,,,Mohammed 13' Jump Shot (4 PTS) (Butler 2 AST),68 - 62,-6,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,343,6,2,3,11:20 PM,3:36,,,Boozer S.FOUL (P2.PN),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,345,3,11,3,11:21 PM,3:36,Perkins Free Throw 1 of 2 (3 PTS),,,68 - 63,-5,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,347,8,0,3,11:21 PM,3:36,,,SUB: Gibson FOR Mohammed,,,5,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,348,3,12,3,11:21 PM,3:36,MISS Perkins Free Throw 2 of 2,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,351,4,0,3,11:21 PM,3:36,,,Gibson REBOUND (Off:1 Def:4),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,352,7,5,3,11:21 PM,3:25,Durant Violation:Kicked Ball,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,353,8,0,3,11:22 PM,3:25,SUB: Roberson FOR Lamb,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,354,2,46,3,11:22 PM,3:15,,,MISS Rose 4' Running Jump Shot,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,355,4,0,3,11:22 PM,3:15,Jackson REBOUND (Off:0 Def:2),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,356,5,1,3,11:22 PM,3:07,Jackson Bad Pass Turnover (P4.T11),,Deng STEAL (1 STL),,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,357,2,5,3,11:22 PM,3:03,,,MISS Butler 2' Layup,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,358,4,0,3,11:22 PM,3:01,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,359,6,3,3,11:22 PM,3:01,Roberson L.B.FOUL (P2.T4),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,360,8,0,3,11:23 PM,3:01,SUB: Adams FOR Perkins,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,361,2,42,3,11:23 PM,2:57,,,MISS Rose 1' Driving Layup,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,362,4,0,3,11:23 PM,2:57,Roberson REBOUND (Off:0 Def:1),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,363,2,78,3,11:23 PM,2:44,MISS Durant 8' Floating Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,364,4,0,3,11:23 PM,2:44,,,Boozer REBOUND (Off:3 Def:5),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,365,1,1,3,11:23 PM,2:32,,,Deng 19' Jump Shot (13 PTS) (Butler 3 AST),70 - 63,-7,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,366,1,5,3,11:24 PM,2:11,Adams 1' Layup (4 PTS) (Durant 3 AST),,,70 - 65,-5,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,367,6,2,3,11:24 PM,2:11,,,Deng S.FOUL (P3.PN),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,368,9,1,3,11:24 PM,2:11,,,Bulls Timeout: Regular (Reg.3 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,370,8,0,3,11:27 PM,2:11,,,SUB: Dunleavy FOR Deng,,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,372,3,10,3,11:27 PM,2:11,Adams Free Throw 1 of 1 (5 PTS),,,70 - 66,-4,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,374,2,1,3,11:28 PM,1:56,,,MISS Rose 19' Jump Shot,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,375,4,0,3,11:28 PM,1:56,Collison REBOUND (Off:1 Def:2),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,376,5,39,3,11:28 PM,1:39,Roberson Step Out of Bounds Turnover (P2.T12),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,377,8,0,3,11:28 PM,1:39,,,SUB: Teague FOR Rose,,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,378,6,4,3,11:28 PM,1:33,,,Boozer OFF.Foul (P3),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,379,5,5,3,11:28 PM,1:33,,,Boozer Foul Turnover (P5.T15),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,380,1,71,3,11:29 PM,1:11,Jackson 3' Finger Roll Layup (11 PTS) (Durant 4 AST),,,70 - 68,-2,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,381,6,2,3,11:29 PM,1:11,,,Dunleavy S.FOUL (P2.PN),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,382,8,0,3,11:29 PM,1:11,SUB: Jones FOR Collison,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,383,3,10,3,11:29 PM,1:11,Jackson Free Throw 1 of 1 (12 PTS),,,70 - 69,-1,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,385,1,42,3,11:30 PM,0:52,,,Boozer  Driving Layup (14 PTS),72 - 69,-3,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,386,1,80,3,11:30 PM,0:34,Jackson 23' Step Back Jump Shot (14 PTS) (Adams 2 AST),,,72 - 71,-1,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,387,1,1,3,11:31 PM,0:14,,,Boozer 17' Jump Shot (16 PTS),74 - 71,-3,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,388,2,1,3,11:31 PM,0:00,MISS Jackson 25' 3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,389,4,0,3,11:31 PM,0:00,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,390,13,0,3,11:31 PM,0:00,,End of 3rd Period (11:31 PM EST),,74 - 71,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,392,12,0,4,11:34 PM,12:00,,Start of 4th Period (11:34 PM EST),,74 - 71,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,393,2,1,4,11:35 PM,11:47,,,MISS Gibson 13' Jump Shot,,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,394,4,0,4,11:35 PM,11:47,Roberson REBOUND (Off:0 Def:2),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,395,6,2,4,11:35 PM,11:32,,,Dunleavy S.FOUL (P3.T1),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,396,3,11,4,11:36 PM,11:32,Adams Free Throw 1 of 2 (6 PTS),,,74 - 72,-2,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,398,3,12,4,11:36 PM,11:32,MISS Adams Free Throw 2 of 2,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,400,4,0,4,11:36 PM,11:31,,,Murphy REBOUND (Off:0 Def:1),,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,401,1,1,4,11:37 PM,11:10,,,Gibson 20' Jump Shot (6 PTS) (Murphy 2 AST),76 - 72,-4,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,402,1,1,4,11:37 PM,10:47,Fisher 21' Jump Shot (2 PTS),,,76 - 74,-2,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,403,2,1,4,11:37 PM,10:29,,,MISS Dunleavy 24' 3PT Jump Shot,,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,404,4,0,4,11:37 PM,10:29,Roberson REBOUND (Off:0 Def:3),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,405,1,7,4,11:37 PM,10:18,Jones 1' Dunk (5 PTS) (Durant 5 AST),,,76 - 76,TIE,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,406,9,1,4,11:38 PM,10:08,,,Bulls Timeout: Regular (Reg.4 Short 0),,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,409,6,2,4,11:41 PM,9:57,Roberson S.FOUL (P3.T1),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,410,3,11,4,11:41 PM,9:57,,,MISS Butler Free Throw 1 of 2,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,411,4,1,4,11:41 PM,9:57,,,Bulls Rebound,,,3,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,412,3,12,4,11:42 PM,9:57,,,MISS Butler Free Throw 2 of 2,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,414,4,0,4,11:42 PM,9:57,,,Murphy REBOUND (Off:1 Def:1),,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,415,5,2,4,11:42 PM,9:53,Fisher STEAL (2 STL),,Murphy Lost Ball Turnover (P1.T16),,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,416,1,5,4,11:42 PM,9:47,Adams 1' Layup (8 PTS) (Fisher 2 AST),,,76 - 78,2,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,417,2,1,4,11:42 PM,9:22,,,MISS Gibson 17' Jump Shot,,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,418,4,0,4,11:42 PM,9:22,Jones REBOUND (Off:0 Def:2),,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,419,5,2,4,11:43 PM,9:02,Jones Lost Ball Turnover (P1.T13),,Butler STEAL (1 STL),,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,420,6,1,4,11:43 PM,9:01,Fisher P.FOUL (P1.T2),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,421,8,0,4,11:43 PM,9:01,,,SUB: Deng FOR Murphy,,,5,203513,Erik Murphy,1610612741.0,Chicago,Bulls,CHI,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,422,8,0,4,11:43 PM,9:01,,,SUB: Boozer FOR Butler,,,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,423,1,47,4,11:43 PM,8:50,,,Boozer 10' Turnaround Jump Shot (18 PTS) (Dunleavy 2 AST),78 - 78,TIE,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,424,1,80,4,11:44 PM,8:24,Durant 17' Step Back Jump Shot (22 PTS),,,78 - 80,2,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,426,8,0,4,11:44 PM,8:06,SUB: Lamb FOR Durant,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,427,2,1,4,11:45 PM,8:02,,,MISS Boozer 16' Jump Shot,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,428,4,0,4,11:45 PM,8:01,Fisher REBOUND (Off:0 Def:2),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,429,1,47,4,11:45 PM,7:49,Adams 4' Turnaround Jump Shot (10 PTS),,,78 - 82,4,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,430,5,1,4,11:45 PM,7:32,Adams STEAL (2 STL),,Dunleavy Bad Pass Turnover (P2.T17),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,432,8,0,4,11:45 PM,7:30,,,SUB: Rose FOR Teague,,,5,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,433,1,1,4,11:46 PM,7:18,Fisher 23' Jump Shot (4 PTS) (Lamb 3 AST),,,78 - 84,6,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,434,6,4,4,11:46 PM,6:58,,,Gibson OFF.Foul (P2),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,435,5,5,4,11:46 PM,6:58,,,Gibson Foul Turnover (P2.T18),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,436,5,1,4,11:46 PM,6:45,Lamb Bad Pass Turnover (P4.T14),,Gibson STEAL (1 STL),,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,437,6,27,4,11:47 PM,6:42,Fisher Personal Block Foul (P2.T3),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,439,1,5,4,11:47 PM,6:31,,,Deng 1' Layup (15 PTS),80 - 84,4,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,440,2,1,4,11:48 PM,6:04,MISS Fisher 14' Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,441,4,0,4,11:48 PM,6:02,,,Deng REBOUND (Off:2 Def:6),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,442,1,5,4,11:48 PM,5:57,,,Dunleavy 1' Layup (9 PTS) (Deng 2 AST),82 - 84,2,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,444,6,18,4,11:48 PM,5:56,,,Bulls Foul,,,3,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,445,3,16,4,11:49 PM,5:56,Lamb Free Throw Technical (13 PTS),,,82 - 85,3,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,447,2,1,4,11:49 PM,5:44,MISS Lamb 15' Jump Shot,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,448,4,0,4,11:49 PM,5:44,,,Boozer REBOUND (Off:3 Def:6),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,449,2,47,4,11:49 PM,5:26,,,MISS Boozer 5' Turnaround Jump Shot,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,450,4,0,4,11:49 PM,5:25,Roberson REBOUND (Off:0 Def:4),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,451,5,7,4,11:50 PM,5:16,Lamb Discontinue Dribble Turnover (P5.T15),,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,452,9,4,4,11:50 PM,5:16,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,454,18,1,4,11:50 PM,5:16,,Overturn Ruling,,,,0,433,Buck Williams,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,457,1,1,4,11:53 PM,5:06,,,Deng 16' Jump Shot (17 PTS) (Rose 5 AST),84 - 85,1,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,458,2,1,4,11:53 PM,4:47,MISS Fisher 24' 3PT Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,459,4,0,4,11:53 PM,4:46,Roberson REBOUND (Off:1 Def:4),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,460,6,2,4,11:53 PM,4:46,,,Gibson S.FOUL (P3.T2),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,461,3,11,4,11:53 PM,4:46,MISS Roberson Free Throw 1 of 2,,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,462,4,1,4,11:53 PM,4:46,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,463,3,12,4,11:53 PM,4:46,MISS Roberson Free Throw 2 of 2,,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,465,4,0,4,11:54 PM,4:46,,,Deng REBOUND (Off:2 Def:7),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,466,6,2,4,11:54 PM,4:32,Fisher S.FOUL (P3.T4),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,467,3,11,4,11:54 PM,4:32,,,Rose Free Throw 1 of 2 (14 PTS),85 - 85,TIE,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,469,3,12,4,11:54 PM,4:32,,,Rose Free Throw 2 of 2 (15 PTS),86 - 85,-1,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,471,2,1,4,11:55 PM,4:09,MISS Jones  3PT Jump Shot,,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,472,4,0,4,11:55 PM,4:08,,,Deng REBOUND (Off:2 Def:8),,,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,473,1,1,4,11:55 PM,3:52,,,Rose 25' 3PT Jump Shot (18 PTS),89 - 85,-4,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,474,6,2,4,11:56 PM,3:32,,,Dunleavy S.FOUL (P4.T3),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,475,3,11,4,11:56 PM,3:32,Adams Free Throw 1 of 2 (11 PTS),,,89 - 86,-3,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,477,3,12,4,11:56 PM,3:32,MISS Adams Free Throw 2 of 2,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,479,4,0,4,11:56 PM,3:32,,,Boozer REBOUND (Off:3 Def:7),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,480,1,1,4,11:57 PM,3:16,,,Deng  3PT Jump Shot (20 PTS) (Rose 6 AST),92 - 86,-6,5,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,481,9,1,4,11:57 PM,3:13,THUNDER Timeout: Regular (Full 4 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,483,1,79,4,12:00 AM,3:03,Lamb 12' Pullup Jump Shot (15 PTS),,,92 - 88,-4,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,484,6,2,4,12:00 AM,3:03,,,Dunleavy S.FOUL (P5.T4),,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,485,3,10,4,12:00 AM,3:03,Lamb Free Throw 1 of 1 (16 PTS),,,92 - 89,-3,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,487,1,85,4,12:01 AM,2:40,,,Boozer 3' Turnaround Bank Shot (20 PTS) (Dunleavy 3 AST),94 - 89,-5,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,488,6,2,4,12:01 AM,2:28,,,Boozer S.FOUL (P4.PN),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+0011300103,489,3,11,4,12:01 AM,2:28,Lamb Free Throw 1 of 2 (17 PTS),,,94 - 90,-4,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,491,8,0,4,12:02 AM,2:28,,,SUB: Butler FOR Dunleavy,,,5,2399,Mike Dunleavy,1610612741.0,Chicago,Bulls,CHI,5,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+0011300103,492,3,12,4,12:02 AM,2:28,MISS Lamb Free Throw 2 of 2,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,494,4,0,4,12:02 AM,2:27,,,Boozer REBOUND (Off:3 Def:8),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,495,1,1,4,12:02 AM,2:06,,,Rose 25' 3PT Jump Shot (21 PTS),97 - 90,-7,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,496,2,46,4,12:02 AM,1:52,MISS Lamb 8' Running Jump Shot,,Boozer BLOCK (2 BLK),,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0
+0011300103,497,4,0,4,12:02 AM,1:51,,,Boozer REBOUND (Off:3 Def:9),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,498,5,40,4,12:03 AM,1:29,,,Rose Out of Bounds Lost Ball Turnover (P5.T19),,,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+0011300103,499,1,1,4,12:03 AM,1:19,Lamb 18' Jump Shot (19 PTS) (Fisher 3 AST),,,97 - 92,-5,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,500,2,5,4,12:04 AM,0:56,Adams BLOCK (2 BLK),,MISS Boozer 1' Layup,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,4,203500,Steven Adams,1610612760.0,Oklahoma City,Thunder,OKC,0
+0011300103,501,4,0,4,12:04 AM,0:55,,,Boozer REBOUND (Off:4 Def:9),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,502,2,5,4,12:04 AM,0:54,,,MISS Boozer 2' Layup,,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,503,4,0,4,12:04 AM,0:53,Jones REBOUND (Off:0 Def:3),,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,504,5,1,4,12:04 AM,0:48,Jones Bad Pass Turnover (P2.T16),,,,,4,203103,Perry Jones III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+0011300103,505,1,1,4,12:04 AM,0:36,,,Rose 24' 3PT Jump Shot (24 PTS),100 - 92,-8,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,506,9,1,4,12:04 AM,0:34,THUNDER Timeout: Regular (Full 5 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,508,18,0,4,12:04 AM,0:34,,Support Ruling,,,,0,505,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300103,510,1,79,4,12:07 AM,0:32,Lamb 24' 3PT Pullup Jump Shot (22 PTS) (Roberson 1 AST),,,100 - 95,-5,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0011300103,511,6,28,4,12:07 AM,0:27,Fisher Personal Take Foul (P4.PN),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,512,3,11,4,12:07 AM,0:27,,,Rose Free Throw 1 of 2 (25 PTS),101 - 95,-6,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,514,3,12,4,12:07 AM,0:27,,,Rose Free Throw 2 of 2 (26 PTS),102 - 95,-7,5,201565,Derrick Rose,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,516,9,2,4,12:08 AM,0:27,THUNDER Timeout: Short (Full 5 Short 2),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300103,518,2,1,4,12:09 AM,0:24,MISS Lamb 26' 3PT Jump Shot,,,,,4,203087,Jeremy Lamb,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,519,4,0,4,12:09 AM,0:24,,,Gibson REBOUND (Off:1 Def:5),,,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,520,6,28,4,12:09 AM,0:22,Roberson Personal Take Foul (P4.PN),,,,,4,203460,Andre Roberson,1610612760.0,Oklahoma City,Thunder,OKC,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+0011300103,522,3,11,4,12:09 AM,0:22,,,Gibson Free Throw 1 of 2 (7 PTS),103 - 95,-8,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,524,3,12,4,12:10 AM,0:22,,,Gibson Free Throw 2 of 2 (8 PTS),104 - 95,-9,5,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,526,2,1,4,12:10 AM,0:15,MISS Fisher 26' 3PT Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0011300103,527,4,0,4,12:10 AM,0:14,,,Boozer REBOUND (Off:4 Def:10),,,5,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+0011300103,528,13,0,4,12:10 AM,0:00,,End of 4th Period (12:10 AM EST),,104 - 95,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

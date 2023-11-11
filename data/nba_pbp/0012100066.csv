@@ -1,0 +1,485 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012100066,2,12,0,1,10:11 PM,12:00,,Start of 1st Period (10:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,4,10,0,1,10:11 PM,12:00,Jump Ball Looney vs. Nurkic: Tip to Green,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0012100066,7,6,2,1,10:11 PM,11:39,,,Smith Jr. S.FOUL (P1.T1) (D.Richardson),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,9,3,11,1,10:12 PM,11:39,Curry Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,10,3,12,1,10:12 PM,11:39,Curry Free Throw 2 of 2 (2 PTS),,,0 - 2,2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,12,1,1,1,10:13 PM,11:20,,,McCollum 16' Jump Shot (2 PTS) (Smith Jr. 1 AST),2 - 2,TIE,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,14,1,101,1,10:13 PM,11:04,Poole 6' Driving Floating Jump Shot (2 PTS) (Looney 1 AST),,,2 - 4,2,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,15,6,1,1,10:13 PM,10:50,Green P.FOUL (P1.T1) (D.Collins),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,17,2,98,1,10:14 PM,10:44,Looney BLOCK (1 BLK),,MISS Nurkic 5' Cutting Layup Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,1
+0012100066,19,4,0,1,10:14 PM,10:42,,,Nurkic REBOUND (Off:1 Def:0),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,20,2,1,1,10:14 PM,10:37,,,MISS McCollum 26' 3PT Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,21,4,0,1,10:14 PM,10:35,Curry REBOUND (Off:0 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,22,2,5,1,10:14 PM,10:29,MISS Green 4' Layup,,Covington BLOCK (1 BLK),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,24,4,0,1,10:14 PM,10:27,,,Covington REBOUND (Off:0 Def:1),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,25,2,1,1,10:14 PM,10:12,,,MISS Powell 26' 3PT Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,26,4,0,1,10:14 PM,10:10,Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,27,2,1,1,10:14 PM,10:04,MISS Poole 19' Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,28,4,0,1,10:14 PM,10:02,,,Nurkic REBOUND (Off:1 Def:1),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,29,1,98,1,10:14 PM,9:51,,,Nurkic 3' Cutting Layup Shot (2 PTS) (McCollum 1 AST),4 - 4,TIE,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,31,2,1,1,10:15 PM,9:35,MISS Green 3PT Jump Shot,,Covington BLOCK (2 BLK),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,33,4,0,1,10:15 PM,9:35,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,34,2,80,1,10:15 PM,9:24,MISS Wiggins 26' 3PT Step Back Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,35,4,0,1,10:15 PM,9:22,,,Covington REBOUND (Off:0 Def:2),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,36,2,1,1,10:15 PM,9:10,,,MISS Powell 26' 3PT Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,37,4,0,1,10:15 PM,9:08,Wiggins REBOUND (Off:0 Def:1),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,38,2,1,1,10:16 PM,8:57,MISS Poole 26' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,39,4,0,1,10:16 PM,8:56,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,41,2,79,1,10:16 PM,8:47,,,MISS McCollum 26' 3PT Pullup Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0012100066,42,4,0,1,10:16 PM,8:45,Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0012100066,43,2,1,1,10:16 PM,8:36,MISS Poole 28' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,44,4,0,1,10:16 PM,8:34,,,Nurkic REBOUND (Off:1 Def:2),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,45,2,6,1,10:16 PM,8:16,,,MISS Powell 3' Driving Layup,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,46,4,0,1,10:16 PM,8:14,,,Nurkic REBOUND (Off:2 Def:2),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,47,2,97,1,10:16 PM,8:11,,,MISS Nurkic Tip Layup Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,48,4,0,1,10:17 PM,8:10,Wiggins REBOUND (Off:0 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,49,5,1,1,10:17 PM,8:09,Wiggins Bad Pass Turnover (P1.T1),,Smith Jr. STEAL (1 STL),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,51,1,1,1,10:17 PM,8:04,,,Powell 26' 3PT Jump Shot (3 PTS) (Smith Jr. 2 AST),7 - 4,-3,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,53,1,108,1,10:17 PM,7:56,Green 3' Cutting Dunk Shot (2 PTS) (Curry 1 AST),,,7 - 6,-1,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,55,2,80,1,10:17 PM,7:42,,,MISS McCollum 25' 3PT Step Back Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,56,4,0,1,10:17 PM,7:39,Curry REBOUND (Off:0 Def:2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,57,2,1,1,10:17 PM,7:37,MISS Curry 32' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,58,4,0,1,10:17 PM,7:35,,,Smith Jr. REBOUND (Off:0 Def:1),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,59,1,1,1,10:17 PM,7:30,,,Powell 19' Jump Shot (5 PTS),9 - 6,-3,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,60,2,1,1,10:17 PM,7:13,MISS Looney 20' Jump Shot,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,61,4,0,1,10:17 PM,7:10,,,Nurkic REBOUND (Off:2 Def:3),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,62,1,6,1,10:18 PM,7:03,,,Nurkic 6' Driving Layup (4 PTS),11 - 6,-5,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,63,6,2,1,10:18 PM,7:03,Looney S.FOUL (P1.T2) (D.Richardson),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,65,9,1,1,10:18 PM,7:03,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,66,3,10,1,10:21 PM,7:03,,,Nurkic Free Throw 1 of 1 (5 PTS),12 - 6,-6,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,67,2,1,1,10:21 PM,6:46,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,68,4,0,1,10:21 PM,6:43,,,Nurkic REBOUND (Off:2 Def:4),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,69,2,41,1,10:22 PM,6:36,,,MISS Nurkic 6' Running Layup,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,70,4,0,1,10:22 PM,6:34,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,72,8,0,1,10:22 PM,6:34,SUB: Bjelica FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,74,1,98,1,10:22 PM,6:25,Curry 4' Cutting Layup Shot (4 PTS) (Green 1 AST),,,12 - 8,-4,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,76,2,58,1,10:22 PM,6:06,,,MISS Nurkic 10' Turnaround Hook Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,77,4,0,1,10:22 PM,6:04,Bjelica REBOUND (Off:0 Def:1),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,78,2,101,1,10:23 PM,5:49,MISS Bjelica 10' Driving Floating Jump Shot,,Nurkic BLOCK (1 BLK),,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,80,4,0,1,10:23 PM,5:49,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,82,8,0,1,10:23 PM,5:49,SUB: Lee FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,83,8,0,1,10:23 PM,5:49,,,SUB: McLemore FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,84,8,0,1,10:23 PM,5:49,,,SUB: Chriss FOR Nurkic,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,88,2,1,1,10:23 PM,5:29,,,MISS Powell 28' 3PT Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,89,4,0,1,10:23 PM,5:26,Curry REBOUND (Off:0 Def:3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,90,2,47,1,10:24 PM,5:08,MISS Green 8' Turnaround Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,91,4,0,1,10:24 PM,5:06,Bjelica REBOUND (Off:1 Def:1),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,92,2,97,1,10:24 PM,5:01,MISS Bjelica Tip Layup Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,93,4,0,1,10:24 PM,5:01,,,Powell REBOUND (Off:0 Def:1),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,94,2,103,1,10:24 PM,5:01,,,MISS McCollum 25' 3PT Running Pull-Up Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,95,4,0,1,10:24 PM,5:01,,,Covington REBOUND (Off:1 Def:2),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,96,6,2,1,10:24 PM,5:01,Wiggins S.FOUL (P1.T3) (D.Collins),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,98,3,11,1,10:24 PM,5:01,,,Covington Free Throw 1 of 2 (1 PTS),13 - 8,-5,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,99,3,12,1,10:25 PM,5:01,,,Covington Free Throw 2 of 2 (2 PTS),14 - 8,-6,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,100,1,1,1,10:25 PM,4:48,Bjelica 3PT Jump Shot (3 PTS) (Wiggins 1 AST),,,14 - 11,-3,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,102,2,101,1,10:25 PM,4:29,,,MISS Powell 8' Driving Floating Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,103,4,0,1,10:25 PM,4:26,Lee REBOUND (Off:0 Def:1),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,104,1,7,1,10:25 PM,4:23,Green 3' Dunk (4 PTS) (Bjelica 1 AST),,,14 - 13,-1,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,106,1,101,1,10:26 PM,4:09,,,McCollum 10' Driving Floating Jump Shot (4 PTS),16 - 13,-3,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,107,1,6,1,10:26 PM,3:58,Curry 3' Driving Layup (6 PTS),,,16 - 15,-1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,108,1,41,1,10:26 PM,3:51,,,McLemore 3' Running Layup (2 PTS) (McCollum 2 AST),18 - 15,-3,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,110,9,1,1,10:26 PM,3:51,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,112,8,0,1,10:28 PM,3:51,SUB: Porter Jr. FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,113,8,0,1,10:28 PM,3:51,SUB: Iguodala FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,114,8,0,1,10:28 PM,3:51,,,SUB: Brown III FOR Covington,,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,118,2,5,1,10:29 PM,3:32,MISS Porter Jr. 6' Layup,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,119,4,0,1,10:29 PM,3:30,,,Brown III REBOUND (Off:0 Def:1),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,121,1,73,1,10:29 PM,3:19,,,Powell 3' Driving Reverse Layup (7 PTS),20 - 15,-5,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,122,2,80,1,10:30 PM,3:12,MISS Curry 30' 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,123,4,0,1,10:30 PM,3:12,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,124,5,1,1,10:30 PM,3:03,Curry STEAL (1 STL),,Brown III Bad Pass Turnover (P1.T1),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,126,5,40,1,10:30 PM,2:55,Curry Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,127,1,103,1,10:30 PM,2:49,,,McCollum 30' 3PT Running Pull-Up Jump Shot (7 PTS),23 - 15,-8,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,128,2,1,1,10:31 PM,2:33,MISS Curry 27' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,129,4,0,1,10:31 PM,2:31,,,Chriss REBOUND (Off:0 Def:1),,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,130,1,6,1,10:31 PM,2:21,,,McCollum 2' Driving Layup (9 PTS),25 - 15,-10,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,131,1,102,1,10:31 PM,2:04,Lee 8' Driving Floating Bank Jump Shot (2 PTS) (Bjelica 2 AST),,,25 - 17,-8,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,133,5,45,1,10:32 PM,1:47,,,Brown III Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,134,8,0,1,10:32 PM,1:47,,,SUB: Elleby FOR McCollum,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,135,8,0,1,10:32 PM,1:47,,,SUB: Smith Jr. FOR Powell,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,138,6,1,1,10:32 PM,1:43,,,Elleby P.FOUL (P1.T2) (B.Schwab),,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,140,2,80,1,10:33 PM,1:30,MISS Porter Jr. 9' Step Back Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,141,4,0,1,10:33 PM,1:28,,,Chriss REBOUND (Off:0 Def:2),,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,142,1,5,1,10:33 PM,1:20,,,Chriss 1' Layup (2 PTS) (Elleby 1 AST),27 - 17,-10,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,144,5,39,1,10:33 PM,1:05,Iguodala Step Out of Bounds Turnover (P1.T3),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,145,2,1,1,10:33 PM,0:53,,,MISS Elleby 3PT Jump Shot,,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,146,4,0,1,10:33 PM,0:51,Bjelica REBOUND (Off:1 Def:2),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,148,2,1,1,10:34 PM,0:37,MISS Bjelica 28' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,149,4,0,1,10:34 PM,0:34,,,Brown III REBOUND (Off:0 Def:2),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,150,2,6,1,10:34 PM,0:27,Bjelica BLOCK (1 BLK),,MISS Smith Jr. 4' Driving Layup,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,1
+0012100066,152,4,0,1,10:34 PM,0:25,Curry REBOUND (Off:0 Def:4),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,153,5,1,1,10:34 PM,0:08,Curry Bad Pass Turnover (P2.T4),,Chriss STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,155,2,7,1,10:35 PM,0:05,,,MISS Chriss 3' Dunk,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,156,4,0,1,10:35 PM,0:04,,,Smith Jr. REBOUND (Off:1 Def:1),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,157,2,1,1,10:35 PM,0:01,,,MISS Smith Jr. 30' 3PT Jump Shot,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,158,4,0,1,10:35 PM,0:00,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,159,13,0,1,10:35 PM,0:00,,End of 1st Period (10:35 PM EST),,27 - 17,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100066,168,12,0,2,10:38 PM,12:00,,Start of 2nd Period (10:38 PM EST),,27 - 17,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,169,2,79,2,10:38 PM,11:48,,,MISS Powell 17' Pullup Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,170,4,0,2,10:38 PM,11:46,,,Covington REBOUND (Off:2 Def:2),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,171,1,87,2,10:38 PM,11:42,,,Covington Putback Dunk (4 PTS),29 - 17,-12,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,172,1,1,2,10:38 PM,11:26,Bjelica 26' 3PT Jump Shot (6 PTS) (Iguodala 1 AST),,,29 - 20,-9,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,174,2,101,2,10:38 PM,11:12,,,MISS Powell 13' Driving Floating Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,175,4,0,2,10:38 PM,11:10,Iguodala REBOUND (Off:0 Def:1),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,176,2,1,2,10:38 PM,11:04,MISS Porter Jr. 24' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,177,4,0,2,10:38 PM,11:02,,,Nurkic REBOUND (Off:2 Def:5),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,178,1,98,2,10:38 PM,10:53,,,Elleby 3' Cutting Layup Shot (2 PTS) (Nurkic 1 AST),31 - 20,-11,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,180,9,1,2,10:39 PM,10:53,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,181,1,1,2,10:42 PM,10:41,Lee 26' 3PT Jump Shot (5 PTS) (Iguodala 2 AST),,,31 - 23,-8,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,183,1,1,2,10:42 PM,10:17,,,Covington 26' 3PT Jump Shot (7 PTS) (Nurkic 2 AST),34 - 23,-11,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,185,2,1,2,10:42 PM,9:53,MISS Iguodala 22' Jump Shot,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,186,4,0,2,10:42 PM,9:51,,,Covington REBOUND (Off:2 Def:3),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,187,5,1,2,10:43 PM,9:41,Bjelica STEAL (1 STL),,Covington Bad Pass Turnover (P1.T3),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,189,6,1,2,10:43 PM,9:38,,,Smith Jr. P.FOUL (P2.T1) (B.Schwab),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,191,8,0,2,10:43 PM,9:38,SUB: Moody FOR Lee,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,193,1,78,2,10:43 PM,9:33,Poole 6' Floating Jump Shot (4 PTS) (Iguodala 3 AST),,,34 - 25,-9,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,195,1,101,2,10:43 PM,9:22,,,Powell 10' Driving Floating Jump Shot (9 PTS),36 - 25,-11,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,196,6,2,2,10:43 PM,9:22,Bjelica S.FOUL (P1.T1) (B.Schwab),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,198,3,10,2,10:44 PM,9:22,,,Powell Free Throw 1 of 1 (10 PTS),37 - 25,-12,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,199,2,6,2,10:44 PM,9:12,MISS Poole 4' Driving Layup,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,200,4,0,2,10:44 PM,9:10,Porter Jr. REBOUND (Off:1 Def:0),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,201,2,1,2,10:44 PM,9:06,MISS Poole 27' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,202,4,0,2,10:44 PM,9:03,,,Powell REBOUND (Off:0 Def:2),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,203,2,41,2,10:44 PM,8:50,,,MISS Nurkic 4' Running Layup,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,204,4,0,2,10:44 PM,8:48,Moody REBOUND (Off:0 Def:1),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,205,6,28,2,10:45 PM,8:48,,,Nurkic Personal Take Foul (P1.T2) (D.Richardson),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,207,8,0,2,10:45 PM,8:48,,,SUB: McCollum FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,209,8,0,2,10:45 PM,8:48,,,SUB: McLemore FOR Powell,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,211,1,1,2,10:45 PM,8:42,Iguodala 28' 3PT Jump Shot (3 PTS) (Bjelica 3 AST),,,37 - 28,-9,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,213,6,1,2,10:45 PM,8:27,Iguodala P.FOUL (P1.T2) (D.Collins),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,215,1,108,2,10:46 PM,8:22,,,Nurkic 1' Cutting Dunk Shot (7 PTS) (McLemore 1 AST),39 - 28,-11,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,217,2,1,2,10:46 PM,8:08,MISS Bjelica 30' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,218,4,0,2,10:46 PM,8:06,Moody REBOUND (Off:1 Def:1),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,219,2,80,2,10:46 PM,7:55,MISS Porter Jr. 29' 3PT Step Back Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,220,4,0,2,10:46 PM,7:52,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,222,8,0,2,10:46 PM,7:52,SUB: Looney FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,223,8,0,2,10:46 PM,7:52,SUB: Green FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,224,8,0,2,10:46 PM,7:52,,,SUB: Chriss FOR Nurkic,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,228,5,1,2,10:47 PM,7:47,Green Bad Pass Turnover (P1.T5),,Chriss STEAL (2 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,230,5,45,2,10:47 PM,7:45,,,McLemore Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,231,2,47,2,10:47 PM,7:29,MISS Green 12' Turnaround Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,232,4,0,2,10:47 PM,7:27,,,Chriss REBOUND (Off:0 Def:3),,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,233,2,1,2,10:47 PM,7:19,,,MISS McCollum 26' 3PT Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,234,4,0,2,10:47 PM,7:16,Looney REBOUND (Off:0 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,235,5,2,2,10:48 PM,7:09,Poole Lost Ball Turnover (P1.T6),,McCollum STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,237,5,39,2,10:48 PM,7:09,,,McCollum Step Out of Bounds Turnover (P1.T5),,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,238,1,98,2,10:48 PM,7:01,Green 5' Cutting Layup Shot (6 PTS) (Looney 2 AST),,,39 - 30,-9,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,240,2,98,2,10:48 PM,6:49,Green BLOCK (1 BLK),,MISS Chriss 2' Cutting Layup Shot,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1
+0012100066,242,4,0,2,10:48 PM,6:47,Moody REBOUND (Off:1 Def:2),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,243,5,1,2,10:48 PM,6:43,Poole Bad Pass Turnover (P2.T7),,Elleby STEAL (1 STL),,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,245,1,5,2,10:48 PM,6:39,,,McCollum 7' Layup (11 PTS) (Elleby 2 AST),41 - 30,-11,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,247,2,5,2,10:49 PM,6:12,MISS Looney 4' Layup,,Chriss BLOCK (1 BLK),,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,249,4,0,2,10:49 PM,6:11,,,Chriss REBOUND (Off:0 Def:4),,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,269,5,45,2,10:49 PM,6:11,,,Chriss Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,251,8,0,2,10:49 PM,6:11,SUB: Curry FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,252,8,0,2,10:49 PM,6:11,SUB: Wiggins FOR Iguodala,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,255,1,1,2,10:50 PM,6:05,Curry 26' 3PT Jump Shot (9 PTS) (Green 2 AST),,,41 - 33,-8,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,257,1,75,2,10:50 PM,5:41,,,McCollum 5' Driving Finger Roll Layup (13 PTS),43 - 33,-10,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,258,2,47,2,10:50 PM,5:29,MISS Curry 9' Turnaround Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,259,4,0,2,10:50 PM,5:27,Looney REBOUND (Off:1 Def:1),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,260,1,1,2,10:50 PM,5:22,Wiggins 25' 3PT Jump Shot (3 PTS) (Looney 3 AST),,,43 - 36,-7,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,262,6,1,2,10:51 PM,5:09,Looney P.FOUL (P2.T3) (D.Collins),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,264,1,102,2,10:51 PM,5:04,,,McCollum 9' Driving Floating Bank Jump Shot (15 PTS),45 - 36,-9,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,265,2,73,2,10:51 PM,4:48,MISS Green 4' Driving Reverse Layup,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,266,4,0,2,10:51 PM,4:47,Wiggins REBOUND (Off:1 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,267,1,107,2,10:51 PM,4:47,Wiggins Tip Dunk Shot (5 PTS),,,45 - 38,-7,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,268,9,1,2,10:51 PM,4:47,,,Trail Blazers Timeout: Regular (Reg.1 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,270,8,0,2,10:54 PM,4:47,,,SUB: Powell FOR Chriss,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,271,8,0,2,10:54 PM,4:47,,,SUB: Smith Jr. FOR Elleby,,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,272,8,0,2,10:54 PM,4:47,,,SUB: Nurkic FOR McLemore,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,276,5,2,2,10:54 PM,4:30,Green STEAL (1 STL),,Nurkic Lost Ball Turnover (P1.T7),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,278,6,2,2,10:55 PM,4:17,,,Smith Jr. S.FOUL (P3.T3) (D.Collins),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,280,3,11,2,10:55 PM,4:17,MISS Curry Free Throw 1 of 2,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,281,4,1,2,10:55 PM,4:17,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,282,3,12,2,10:55 PM,4:17,MISS Curry Free Throw 2 of 2,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,283,4,0,2,10:55 PM,4:14,Green REBOUND (Off:1 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,285,8,0,2,10:56 PM,4:11,SUB: Lee FOR Moody,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,287,2,102,2,10:56 PM,4:03,MISS Wiggins 8' Driving Floating Bank Jump Shot,,Nurkic BLOCK (2 BLK),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,289,4,0,2,10:56 PM,4:01,Wiggins REBOUND (Off:2 Def:2),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,290,2,78,2,10:56 PM,3:55,MISS Wiggins 9' Floating Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,291,4,0,2,10:56 PM,3:52,,,Powell REBOUND (Off:0 Def:3),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,292,2,5,2,10:56 PM,3:49,,,MISS McCollum 8' Layup,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,293,4,0,2,10:56 PM,3:47,Lee REBOUND (Off:0 Def:2),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,294,2,98,2,10:56 PM,3:38,MISS Wiggins 5' Cutting Layup Shot,,Covington BLOCK (3 BLK),,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,296,4,0,2,10:56 PM,3:37,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,299,5,40,2,10:58 PM,3:27,Wiggins Out of Bounds Lost Ball Turnover (P2.T8),,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,300,7,5,2,10:58 PM,3:20,Looney Violation:Kicked Ball (B.Schwab),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0012100066,301,5,1,2,10:58 PM,3:13,Looney STEAL (1 STL),,McCollum Bad Pass Turnover (P2.T8),,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,304,1,1,2,10:59 PM,2:58,Curry 32' 3PT Jump Shot (12 PTS) (Lee 1 AST),,,45 - 41,-4,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,306,1,1,2,10:59 PM,2:43,,,McCollum 28' 3PT Jump Shot (18 PTS) (Smith Jr. 3 AST),48 - 41,-7,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,308,2,1,2,10:59 PM,2:28,MISS Lee 24' 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,309,4,0,2,10:59 PM,2:25,Lee REBOUND (Off:1 Def:2),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,310,1,6,2,10:59 PM,2:19,Lee 4' Driving Layup (7 PTS) (Wiggins 2 AST),,,48 - 43,-5,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,312,2,1,2,11:00 PM,2:01,,,MISS Nurkic 27' 3PT Jump Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,313,4,0,2,11:00 PM,1:58,Curry REBOUND (Off:0 Def:5),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,314,5,45,2,11:00 PM,1:56,Curry Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,315,7,5,2,11:00 PM,1:41,Green Violation:Kicked Ball (B.Schwab),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+0012100066,316,2,1,2,11:00 PM,1:35,,,MISS Nurkic 27' 3PT Jump Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,317,4,0,2,11:00 PM,1:33,Curry REBOUND (Off:0 Def:6),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,318,1,1,2,11:00 PM,1:27,Curry 28' 3PT Jump Shot (15 PTS),,,48 - 46,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,319,2,98,2,11:01 PM,1:13,,,MISS Nurkic 3' Cutting Layup Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,320,4,0,2,11:01 PM,1:10,Lee REBOUND (Off:1 Def:3),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,321,6,2,2,11:01 PM,1:09,,,McCollum S.FOUL (P1.T4) (B.Schwab),,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,323,3,11,2,11:01 PM,1:09,MISS Wiggins Free Throw 1 of 2,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,324,4,1,2,11:01 PM,1:09,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,325,3,12,2,11:02 PM,1:09,Wiggins Free Throw 2 of 2 (6 PTS),,,48 - 47,-1,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,326,1,1,2,11:02 PM,1:00,,,Covington 26' 3PT Jump Shot (10 PTS) (McCollum 3 AST),51 - 47,-4,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,328,1,75,2,11:02 PM,0:45,Curry 9' Driving Finger Roll Layup (17 PTS),,,51 - 49,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,329,6,2,2,11:02 PM,0:45,,,Nurkic S.FOUL (P2.PN) (D.Richardson),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,331,3,10,2,11:03 PM,0:45,Curry Free Throw 1 of 1 (18 PTS),,,51 - 50,-1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,332,6,4,2,11:03 PM,0:39,,,Powell OFF.Foul (P1) (D.Collins),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,334,5,37,2,11:03 PM,0:39,,,Powell Offensive Foul Turnover (P1.T9),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,335,8,0,2,11:03 PM,0:39,SUB: Poole FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,337,1,80,2,11:03 PM,0:31,Curry 26' 3PT Step Back Jump Shot (21 PTS),,,51 - 53,2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,338,2,80,2,11:04 PM,0:12,,,MISS McCollum 16' Step Back Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,339,4,0,2,11:04 PM,0:10,Curry REBOUND (Off:0 Def:7),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,340,2,80,2,11:04 PM,0:02,MISS Curry 29' 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,341,4,0,2,11:04 PM,0:00,Lee REBOUND (Off:2 Def:3),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,342,1,97,2,11:04 PM,0:00,Lee Tip Layup Shot (9 PTS),,,51 - 55,4,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,343,18,0,2,11:05 PM,0:00,,Instant Replay2nd Period (11:05 PM EST),,51 - 55,4,0,342,Andy Toolson,,,,,0,0,,,,,,1,0,,,,,,0
+0012100066,344,13,0,2,11:05 PM,0:00,,End of 2nd Period (11:05 PM EST),,51 - 55,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100066,347,12,0,3,11:20 PM,12:00,,Start of 3rd Period (11:20 PM EST),,51 - 55,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,348,7,1,3,11:21 PM,12:00,WARRIORS Violation: Delay of game Violation,,,,,2,1610612744,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100066,349,2,101,3,11:21 PM,11:45,,,MISS McCollum 10' Driving Floating Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,350,4,0,3,11:21 PM,11:43,Looney REBOUND (Off:1 Def:2),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,351,1,5,3,11:21 PM,11:28,Looney 3' Layup (2 PTS) (Green 3 AST),,,51 - 57,6,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,353,1,96,3,11:21 PM,11:16,,,Nurkic 8' Turnaround Bank Hook Shot (9 PTS) (McCollum 4 AST),53 - 57,4,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,355,6,2,3,11:21 PM,11:04,,,Smith Jr. S.FOUL (P4.T1) (B.Schwab),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,357,3,11,3,11:22 PM,11:04,Curry Free Throw 1 of 2 (22 PTS),,,53 - 58,5,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,358,8,0,3,11:22 PM,11:04,,,SUB: McLemore FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,360,3,12,3,11:22 PM,11:04,Curry Free Throw 2 of 2 (23 PTS),,,53 - 59,6,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,361,2,6,3,11:23 PM,10:56,,,MISS Powell 5' Driving Layup,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,362,4,0,3,11:23 PM,10:54,,,Powell REBOUND (Off:1 Def:3),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,363,1,78,3,11:23 PM,10:48,,,Powell 9' Floating Jump Shot (12 PTS),55 - 59,4,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,364,2,1,3,11:23 PM,10:41,MISS Poole 28' 3PT Jump Shot,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,365,4,0,3,11:23 PM,10:39,,,Nurkic REBOUND (Off:2 Def:6),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,366,1,6,3,11:23 PM,10:31,,,McCollum 4' Driving Layup (20 PTS) (Nurkic 3 AST),57 - 59,2,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,368,2,1,3,11:23 PM,10:19,MISS Green 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,369,4,0,3,11:23 PM,10:17,,,McCollum REBOUND (Off:0 Def:1),,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,370,5,1,3,11:23 PM,10:11,Curry STEAL (2 STL),,McLemore Bad Pass Turnover (P2.T10),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,372,6,1,3,11:24 PM,10:08,,,Covington P.FOUL (P1.T2) (B.Schwab),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,374,2,1,3,11:24 PM,10:02,MISS Wiggins 26' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,375,4,0,3,11:24 PM,10:00,,,Nurkic REBOUND (Off:2 Def:7),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,376,6,26,3,11:24 PM,9:44,,,Nurkic Offensive Charge Foul (P3) (B.Schwab),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,378,5,37,3,11:24 PM,9:44,,,Nurkic Offensive Foul Turnover (P2.T11),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,379,1,52,3,11:25 PM,9:32,Wiggins 3' Alley Oop Dunk (8 PTS) (Green 4 AST),,,57 - 61,4,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,381,2,79,3,11:25 PM,9:18,,,MISS Powell 17' Pullup Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,382,4,0,3,11:25 PM,9:16,Poole REBOUND (Off:0 Def:1),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,383,1,6,3,11:25 PM,9:10,Poole 2' Driving Layup (6 PTS),,,57 - 63,6,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,384,6,2,3,11:25 PM,9:10,,,Covington S.FOUL (P2.T3) (D.Collins),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,386,9,1,3,11:25 PM,9:10,,,Trail Blazers Timeout: Regular (Reg.2 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,387,3,10,3,11:28 PM,9:10,Poole Free Throw 1 of 1 (7 PTS),,,57 - 64,7,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,388,2,1,3,11:29 PM,8:48,,,MISS Covington 27' 3PT Jump Shot,,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,389,4,0,3,11:29 PM,8:43,Poole REBOUND (Off:0 Def:2),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,390,1,1,3,11:29 PM,8:33,Curry 26' 3PT Jump Shot (26 PTS) (Green 5 AST),,,57 - 67,10,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,392,6,2,3,11:29 PM,8:33,,,McCollum S.FOUL (P2.T4) (B.Schwab),,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,394,3,10,3,11:30 PM,8:33,Curry Free Throw 1 of 1 (27 PTS),,,57 - 68,11,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,395,6,1,3,11:30 PM,8:23,Poole P.FOUL (P1.T1) (D.Richardson),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,397,2,103,3,11:30 PM,8:17,,,MISS McCollum 14' Running Pull-Up Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,398,4,0,3,11:30 PM,8:15,Green REBOUND (Off:1 Def:3),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,399,6,2,3,11:30 PM,8:11,,,Covington S.FOUL (P3.PN) (B.Schwab),,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,401,3,11,3,11:31 PM,8:11,Green Free Throw 1 of 2 (7 PTS),,,57 - 69,12,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0012100066,402,3,12,3,11:31 PM,8:11,Green Free Throw 2 of 2 (8 PTS),,,57 - 70,13,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,403,6,2,3,11:31 PM,7:55,Curry S.FOUL (P1.T2) (B.Schwab),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,405,3,11,3,11:32 PM,7:55,,,Nurkic Free Throw 1 of 2 (10 PTS),58 - 70,12,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,406,3,12,3,11:32 PM,7:55,,,Nurkic Free Throw 2 of 2 (11 PTS),59 - 70,11,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,407,5,1,3,11:32 PM,7:45,Green Bad Pass Turnover (P2.T10),,McCollum STEAL (2 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,409,1,80,3,11:32 PM,7:35,,,Powell 24' 3PT Step Back Jump Shot (15 PTS) (McLemore 2 AST),62 - 70,8,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,411,1,1,3,11:32 PM,7:19,Curry 30' 3PT Jump Shot (30 PTS) (Looney 4 AST),,,62 - 73,11,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,413,2,1,3,11:33 PM,7:06,,,MISS McLemore 28' 3PT Jump Shot,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,414,4,0,3,11:33 PM,7:03,Green REBOUND (Off:1 Def:4),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,415,1,98,3,11:33 PM,6:56,Curry 3' Cutting Layup Shot (32 PTS),,,62 - 75,13,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,416,2,98,3,11:33 PM,6:45,,,MISS Nurkic 5' Cutting Layup Shot,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,417,4,0,3,11:33 PM,6:42,Poole REBOUND (Off:0 Def:3),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,418,2,1,3,11:33 PM,6:33,MISS Curry 24' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,419,4,0,3,11:33 PM,6:31,,,Nurkic REBOUND (Off:2 Def:8),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,420,6,28,3,11:33 PM,6:28,Green Personal Take Foul (P2.T3) (B.Schwab),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,422,2,1,3,11:34 PM,6:19,,,MISS Powell 3PT Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,423,4,0,3,11:34 PM,6:17,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,424,6,3,3,11:34 PM,6:17,,,Nurkic L.B.FOUL (P4.PN) (D.Richardson),,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,426,3,11,3,11:35 PM,6:17,MISS Green Free Throw 1 of 2,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,427,4,1,3,11:35 PM,6:17,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,428,8,0,3,11:35 PM,6:17,SUB: Moody FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,429,8,0,3,11:35 PM,6:17,,,SUB: Chriss FOR Nurkic,,,5,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,432,3,12,3,11:35 PM,6:17,MISS Green Free Throw 2 of 2,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+0012100066,433,4,0,3,11:35 PM,6:14,,,Powell REBOUND (Off:1 Def:4),,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,434,1,79,3,11:35 PM,6:01,,,McCollum 27' 3PT Pullup Jump Shot (23 PTS),65 - 75,10,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,435,1,44,3,11:35 PM,5:45,Curry 3' Reverse Layup (34 PTS) (Green 6 AST),,,65 - 77,12,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,437,2,79,3,11:36 PM,5:33,Wiggins BLOCK (1 BLK),,MISS McCollum 26' 3PT Pullup Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,1
+0012100066,439,4,0,3,11:36 PM,5:31,Green REBOUND (Off:1 Def:5),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,440,5,2,3,11:36 PM,5:23,Looney Lost Ball Turnover (P1.T11),,Covington STEAL (1 STL),,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,442,6,1,3,11:36 PM,5:20,Curry P.FOUL (P2.T4) (D.Richardson),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,444,2,1,3,11:36 PM,5:18,,,MISS McCollum 3PT Jump Shot,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,445,4,0,3,11:36 PM,5:16,Looney REBOUND (Off:1 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,446,2,99,3,11:37 PM,5:05,MISS Curry 8' Cutting Finger Roll Layup Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,447,4,0,3,11:37 PM,5:03,Looney REBOUND (Off:2 Def:3),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,448,1,6,3,11:37 PM,4:57,Curry 4' Driving Layup (36 PTS) (Green 7 AST),,,65 - 79,14,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,450,2,1,3,11:37 PM,4:33,,,MISS Chriss 24' 3PT Jump Shot,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,451,4,0,3,11:37 PM,4:31,Looney REBOUND (Off:2 Def:4),,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,452,1,58,3,11:37 PM,4:21,Green 6' Turnaround Hook Shot (10 PTS),,,65 - 81,16,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,453,9,1,3,11:37 PM,4:18,,,Trail Blazers Timeout: Regular (Reg.3 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,455,8,0,3,11:40 PM,4:18,SUB: Iguodala FOR Looney,,,,,4,1626172,Kevon Looney,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,456,8,0,3,11:40 PM,4:18,SUB: Bjelica FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612744.0,Golden State,Warriors,GSW,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,457,8,0,3,11:40 PM,4:18,SUB: Porter Jr. FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,458,8,0,3,11:40 PM,4:18,,,SUB: Brown III FOR Covington,,,5,203496,Robert Covington,1610612757.0,Portland,Trail Blazers,POR,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,463,6,1,3,11:40 PM,4:13,Bjelica P.FOUL (P2.PN) (D.Collins),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,465,3,11,3,11:41 PM,4:13,,,Chriss Free Throw 1 of 2 (3 PTS),66 - 81,15,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,466,3,12,3,11:41 PM,4:13,,,Chriss Free Throw 2 of 2 (4 PTS),67 - 81,14,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,467,1,6,3,11:41 PM,4:01,Bjelica 6' Driving Layup (8 PTS) (Curry 2 AST),,,67 - 83,16,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,469,2,80,3,11:41 PM,3:40,,,MISS Powell 19' Step Back Jump Shot,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,470,4,0,3,11:42 PM,3:38,Curry REBOUND (Off:0 Def:8),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,471,2,1,3,11:42 PM,3:35,MISS Curry 28' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,472,4,0,3,11:42 PM,3:33,Bjelica REBOUND (Off:2 Def:2),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,473,1,1,3,11:42 PM,3:26,Moody 3PT Jump Shot (3 PTS) (Porter Jr. 1 AST),,,67 - 86,19,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,475,1,1,3,11:42 PM,3:04,,,McCollum 26' 3PT Jump Shot (26 PTS) (McLemore 3 AST),70 - 86,16,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,477,1,6,3,11:42 PM,2:47,Bjelica 5' Driving Layup (10 PTS),,,70 - 88,18,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,478,6,11,3,11:43 PM,2:45,,,Chriss T.FOUL (P0.PN) (D.Collins),,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,479,3,16,3,11:43 PM,2:45,Curry Free Throw Technical (37 PTS),,,70 - 89,19,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,480,8,0,3,11:43 PM,2:45,,,SUB: Smith Jr. FOR McCollum,,,5,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,482,1,98,3,11:43 PM,2:37,,,Powell 4' Cutting Layup Shot (17 PTS) (Smith Jr. 4 AST),72 - 89,17,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,484,6,2,3,11:43 PM,2:37,Bjelica S.FOUL (P3.PN) (B.Schwab),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,486,3,10,3,11:44 PM,2:37,,,Powell Free Throw 1 of 1 (18 PTS),73 - 89,16,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,487,7,5,3,11:44 PM,2:24,,,Smith Jr. Violation:Kicked Ball (D.Collins),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0012100066,488,8,0,3,11:44 PM,2:24,,,SUB: Elleby FOR Powell,,,5,1626181,Norman Powell,1610612757.0,Portland,Trail Blazers,POR,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,490,2,5,3,11:45 PM,2:11,MISS Moody 2' Layup,,Chriss BLOCK (2 BLK),,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,492,4,0,3,11:45 PM,2:09,Bjelica REBOUND (Off:3 Def:2),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,523,2,72,3,11:45 PM,2:09,MISS Bjelica 3' Putback Layup,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,524,4,0,3,11:45 PM,2:08,Bjelica REBOUND (Off:4 Def:2),,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,572,2,97,3,11:45 PM,2:07,MISS Bjelica 3' Tip Layup Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,573,4,0,3,11:45 PM,2:06,,,Brown III REBOUND (Off:0 Def:3),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,493,2,1,3,11:45 PM,2:00,,,MISS Chriss 27' 3PT Jump Shot,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,494,4,0,3,11:45 PM,1:58,Iguodala REBOUND (Off:0 Def:2),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,495,2,1,3,11:45 PM,1:51,MISS Moody 27' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,496,4,0,3,11:45 PM,1:47,Iguodala REBOUND (Off:1 Def:2),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,497,2,1,3,11:45 PM,1:45,MISS Curry 30' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,498,4,0,3,11:45 PM,1:42,,,Smith Jr. REBOUND (Off:1 Def:2),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,499,2,1,3,11:45 PM,1:40,,,MISS Elleby 15' Jump Shot,,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,500,4,0,3,11:45 PM,1:38,Iguodala REBOUND (Off:1 Def:3),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,501,1,1,3,11:45 PM,1:32,Porter Jr. 26' 3PT Jump Shot (3 PTS) (Iguodala 4 AST),,,73 - 92,19,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,503,1,6,3,11:46 PM,1:14,,,Smith Jr. 7' Driving Layup (2 PTS),75 - 92,17,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,504,1,1,3,11:46 PM,1:05,Curry 28' 3PT Jump Shot (40 PTS) (Iguodala 5 AST),,,75 - 95,20,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,506,6,2,3,11:46 PM,1:05,,,Smith Jr. S.FOUL (P5.PN) (D.Collins),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,508,3,10,3,11:46 PM,1:05,Curry Free Throw 1 of 1 (41 PTS),,,75 - 96,21,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,509,5,39,3,11:47 PM,0:52,,,McLemore Step Out of Bounds Turnover (P3.T12),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,510,5,1,3,11:47 PM,0:42,Curry Bad Pass Turnover (P4.T12),,Smith Jr. STEAL (2 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,512,1,50,3,11:47 PM,0:38,,,Smith Jr. 1' Running Dunk (4 PTS) (Chriss 1 AST),77 - 96,19,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,514,2,6,3,11:47 PM,0:32,MISS Curry 3' Driving Layup,,McLemore BLOCK (1 BLK),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,516,4,0,3,11:47 PM,0:31,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,518,1,98,3,11:48 PM,0:26,Bjelica 2' Cutting Layup Shot (12 PTS) (Porter Jr. 2 AST),,,77 - 98,21,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,520,2,80,3,11:48 PM,0:03,,,MISS McLemore 25' 3PT Step Back Jump Shot,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,521,4,0,3,11:48 PM,0:01,Curry REBOUND (Off:0 Def:9),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,522,13,0,3,11:48 PM,0:00,,End of 3rd Period (11:48 PM EST),,77 - 98,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100066,529,12,0,4,11:51 PM,12:00,,Start of 4th Period (11:51 PM EST),,77 - 98,21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,530,2,1,4,11:51 PM,11:41,MISS Bjelica 28' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,531,4,0,4,11:51 PM,11:40,,,Brown III REBOUND (Off:0 Def:4),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,532,2,1,4,11:51 PM,11:26,,,MISS Brown III 3PT Jump Shot,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,533,4,0,4,11:51 PM,11:24,Lee REBOUND (Off:2 Def:4),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,534,5,39,4,11:52 PM,11:14,Lee Step Out of Bounds Turnover (P1.T13),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,535,2,1,4,11:52 PM,11:04,,,MISS Elleby 24' 3PT Jump Shot,,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,536,4,0,4,11:52 PM,11:01,Iguodala REBOUND (Off:1 Def:4),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,537,1,99,4,11:52 PM,10:50,Poole 6' Cutting Finger Roll Layup Shot (9 PTS) (Iguodala 6 AST),,,77 - 100,23,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,540,6,2,4,11:52 PM,10:50,,,McLemore S.FOUL (P1.T1) (B.Schwab),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,1
+0012100066,542,3,10,4,11:53 PM,10:50,Poole Free Throw 1 of 1 (10 PTS),,,77 - 101,24,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,543,6,1,4,11:53 PM,10:44,Poole P.FOUL (P2.T1) (D.Collins),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,545,1,1,4,11:53 PM,10:37,,,Chriss 18' Jump Shot (6 PTS) (Smith Jr. 5 AST),79 - 101,22,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,547,5,45,4,11:53 PM,10:24,Iguodala Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,548,5,45,4,11:54 PM,10:17,,,Elleby Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,549,1,6,4,11:54 PM,10:01,Poole 5' Driving Layup (12 PTS),,,79 - 103,24,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,550,2,1,4,11:54 PM,9:42,,,MISS McLemore 29' 3PT Jump Shot,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,551,4,0,4,11:54 PM,9:39,Iguodala REBOUND (Off:1 Def:5),,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,552,2,44,4,11:54 PM,9:33,MISS Bjelica 5' Reverse Layup,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,553,4,0,4,11:54 PM,9:31,,,Smith Jr. REBOUND (Off:1 Def:3),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,554,5,1,4,11:54 PM,9:25,Bjelica STEAL (2 STL),,Smith Jr. Bad Pass Turnover (P1.T14),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,556,5,13,4,11:55 PM,9:15,Poole Backcourt Turnover (P3.T15),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,557,8,0,4,11:55 PM,9:15,,,SUB: Watford FOR Chriss,,,5,1627737,Marquese Chriss,1610612757.0,Portland,Trail Blazers,POR,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012100066,559,2,9,4,11:55 PM,8:57,Bjelica BLOCK (2 BLK),,MISS Smith Jr. 5' Driving Dunk,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,1
+0012100066,561,4,0,4,11:55 PM,8:56,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,563,1,6,4,11:56 PM,8:47,Poole 5' Driving Layup (14 PTS),,,79 - 105,26,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,564,7,2,4,11:56 PM,8:47,,,Brown III Violation:Defensive Goaltending (D.Collins),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,565,2,1,4,11:56 PM,8:37,,,MISS Brown III 18' Jump Shot,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,566,4,0,4,11:56 PM,8:35,,,Watford REBOUND (Off:1 Def:0),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,567,1,1,4,11:56 PM,8:29,,,Elleby 27' 3PT Jump Shot (5 PTS) (Smith Jr. 6 AST),82 - 105,23,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,569,1,1,4,11:56 PM,8:17,Porter Jr. 24' 3PT Jump Shot (6 PTS) (Poole 1 AST),,,82 - 108,26,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,571,9,1,4,11:57 PM,8:15,,,Trail Blazers Timeout: Regular (Reg.4 Short 0),,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,574,5,45,4,12:00 AM,8:09,,,Elleby Out of Bounds - Bad Pass Turnover Turnover (P2.T15),,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,575,2,6,4,12:00 AM,7:58,MISS Poole 4' Driving Layup,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,576,4,0,4,12:00 AM,7:56,,,Brown III REBOUND (Off:0 Def:5),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,577,2,1,4,12:00 AM,7:43,,,MISS McLemore 27' 3PT Jump Shot,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,578,4,0,4,12:00 AM,7:41,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,580,2,1,4,12:01 AM,7:19,MISS Bjelica 28' 3PT Jump Shot,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,581,4,0,4,12:01 AM,7:17,,,Smith Jr. REBOUND (Off:1 Def:4),,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,582,2,1,4,12:01 AM,7:05,,,MISS Brown III 28' 3PT Jump Shot,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,583,4,0,4,12:01 AM,7:03,Lee REBOUND (Off:2 Def:5),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,584,2,6,4,12:01 AM,6:52,MISS Poole 4' Driving Layup,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,585,4,0,4,12:01 AM,6:50,,,Watford REBOUND (Off:1 Def:1),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,586,2,1,4,12:01 AM,6:45,,,MISS McLemore 25' 3PT Jump Shot,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,587,4,0,4,12:01 AM,6:43,Porter Jr. REBOUND (Off:1 Def:1),,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,588,1,7,4,12:01 AM,6:40,Poole 2' Dunk (16 PTS) (Porter Jr. 3 AST),,,82 - 110,28,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,590,6,1,4,12:02 AM,6:28,Poole P.FOUL (P3.T2) (B.Schwab),,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,592,8,0,4,12:02 AM,6:28,SUB: Toscano-Anderson FOR Poole,,,,,4,1629673,Jordan Poole,1610612744.0,Golden State,Warriors,GSW,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,593,8,0,4,12:02 AM,6:28,SUB: Chiozza FOR Bjelica,,,,,4,202357,Nemanja Bjelica,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,594,8,0,4,12:02 AM,6:28,SUB: Moody FOR Iguodala,,,,,4,2738,Andre Iguodala,1610612744.0,Golden State,Warriors,GSW,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,595,8,0,4,12:02 AM,6:28,SUB: Bell FOR Porter Jr.,,,,,4,203490,Otto Porter Jr.,1610612744.0,Golden State,Warriors,GSW,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,600,2,9,4,12:02 AM,6:15,,,MISS Smith Jr. 6' Driving Dunk,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,601,4,0,4,12:02 AM,6:14,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,602,5,11,4,12:02 AM,6:14,,,Trail Blazers Turnover: Shot Clock (T#16),,,3,1610612757,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100066,603,5,2,4,12:03 AM,6:04,Bell Lost Ball Turnover (P1.T16),,Watford STEAL (1 STL),,,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,605,1,5,4,12:03 AM,5:59,,,Watford 4' Layup (2 PTS),84 - 110,26,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,606,2,1,4,12:03 AM,5:48,MISS Lee 24' 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,607,4,0,4,12:03 AM,5:45,,,McLemore REBOUND (Off:0 Def:1),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,608,6,2,4,12:03 AM,5:38,Moody S.FOUL (P1.T3) (D.Collins),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,610,3,11,4,12:04 AM,5:38,,,MISS Watford Free Throw 1 of 2,,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,611,4,1,4,12:04 AM,5:38,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,612,3,12,4,12:04 AM,5:38,,,Watford Free Throw 2 of 2 (3 PTS),85 - 110,25,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,613,2,1,4,12:04 AM,5:15,MISS Moody 28' 3PT Jump Shot,,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,614,4,0,4,12:04 AM,5:13,Chiozza REBOUND (Off:1 Def:0),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,615,5,45,4,12:04 AM,5:10,Moody Out of Bounds - Bad Pass Turnover Turnover (P1.T17),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,616,2,1,4,12:05 AM,4:57,,,MISS Elleby 28' 3PT Jump Shot,,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,617,4,0,4,12:05 AM,4:54,Toscano-Anderson REBOUND (Off:0 Def:1),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,618,1,98,4,12:05 AM,4:41,Moody 6' Cutting Layup Shot (5 PTS) (Bell 1 AST),,,85 - 112,27,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,620,2,1,4,12:05 AM,4:27,,,MISS McLemore 27' 3PT Jump Shot,,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,621,4,0,4,12:05 AM,4:25,,,Brown III REBOUND (Off:1 Def:5),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,622,1,87,4,12:05 AM,4:22,,,Brown III 2' Putback Dunk (2 PTS),87 - 112,25,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,623,6,1,4,12:05 AM,4:11,,,Watford P.FOUL (P1.T2) (B.Schwab),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+0012100066,625,6,16,4,12:06 AM,4:11,,"Double Technical - Toscano-Anderson, Watford (D.Collins)",,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0012100066,627,5,13,4,12:06 AM,4:10,Chiozza Backcourt Turnover (P1.T18),,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,628,5,2,4,12:07 AM,3:57,Chiozza STEAL (1 STL),,McLemore Lost Ball Turnover (P4.T17),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,630,2,1,4,12:07 AM,3:52,MISS Chiozza 25' 3PT Jump Shot,,,,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,631,4,0,4,12:07 AM,3:50,Moody REBOUND (Off:2 Def:2),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,632,1,107,4,12:07 AM,3:49,Moody Tip Dunk Shot (7 PTS),,,87 - 114,27,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,633,5,2,4,12:07 AM,3:33,Lee STEAL (1 STL),,Watford Lost Ball Turnover (P1.T18),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,635,2,1,4,12:07 AM,3:29,MISS Lee 26' 3PT Jump Shot,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,636,4,0,4,12:07 AM,3:27,Moody REBOUND (Off:3 Def:2),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,637,1,97,4,12:07 AM,3:26,Moody Tip Layup Shot (9 PTS),,,87 - 116,29,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,638,6,2,4,12:08 AM,3:05,Lee S.FOUL (P1.T4) (B.Schwab),,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,640,3,11,4,12:08 AM,3:05,,,MISS Smith Jr. Free Throw 1 of 2,,,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,641,4,1,4,12:08 AM,3:05,,,Trail Blazers Rebound,,,3,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,642,8,0,4,12:08 AM,3:05,SUB: Figueroa FOR Lee,,,,,4,1627814,Damion Lee,1610612744.0,Golden State,Warriors,GSW,4,1630835,L.J. Figueroa,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+0012100066,644,3,12,4,12:08 AM,3:05,,,Smith Jr. Free Throw 2 of 2 (5 PTS),88 - 116,28,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,645,2,6,4,12:09 AM,2:54,MISS Toscano-Anderson 3' Driving Layup,,Brown III BLOCK (1 BLK),,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,1
+0012100066,647,4,0,4,12:09 AM,2:54,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,649,9,1,4,12:09 AM,2:54,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100066,650,2,1,4,12:12 AM,2:44,MISS Toscano-Anderson 26' 3PT Jump Shot,,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,651,4,0,4,12:12 AM,2:42,,,Watford REBOUND (Off:1 Def:2),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,652,6,2,4,12:12 AM,2:36,Toscano-Anderson S.FOUL (P1.PN) (D.Collins),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,654,3,11,4,12:13 AM,2:36,,,Smith Jr. Free Throw 1 of 2 (6 PTS),89 - 116,27,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,655,3,12,4,12:13 AM,2:36,,,Smith Jr. Free Throw 2 of 2 (7 PTS),90 - 116,26,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,656,5,1,4,12:13 AM,2:27,Chiozza Bad Pass Turnover (P2.T19),,McLemore STEAL (1 STL),,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,658,5,1,4,12:13 AM,2:22,Figueroa STEAL (1 STL),,McLemore Bad Pass Turnover (P5.T19),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,4,1630835,L.J. Figueroa,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,660,5,2,4,12:13 AM,2:20,Figueroa Lost Ball Turnover (P1.T20),,Smith Jr. STEAL (3 STL),,,4,1630835,L.J. Figueroa,1610612744.0,Golden State,Warriors,GSW,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,662,1,47,4,12:13 AM,2:07,,,Elleby 9' Turnaround Jump Shot (7 PTS),92 - 116,24,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,663,2,1,4,12:13 AM,1:53,MISS Figueroa 3PT Jump Shot,,,,,4,1630835,L.J. Figueroa,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,664,4,0,4,12:13 AM,1:50,,,Brown III REBOUND (Off:1 Def:6),,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,665,5,4,4,12:14 AM,1:46,,,Watford Traveling Turnover (P2.T20),,,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012100066,666,5,2,4,12:14 AM,1:36,Chiozza Lost Ball Turnover (P3.T21),,Watford STEAL (2 STL),,,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,668,1,50,4,12:14 AM,1:32,,,Elleby 3' Running Dunk (9 PTS) (Watford 1 AST),94 - 116,22,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,5,1630570,Trendon Watford,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,670,6,26,4,12:14 AM,1:23,Toscano-Anderson Offensive Charge Foul (P2) (D.Collins),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012100066,672,5,37,4,12:14 AM,1:23,Toscano-Anderson Offensive Foul Turnover (P1.T22),,,,,4,1629308,Juan Toscano-Anderson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,1
+0012100066,673,1,1,4,12:15 AM,1:01,,,Brown III 3PT Jump Shot (5 PTS) (Smith Jr. 7 AST),97 - 116,19,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,5,1628372,Dennis Smith Jr.,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012100066,675,1,1,4,12:15 AM,0:40,Bell 24' 3PT Jump Shot (3 PTS) (Chiozza 1 AST),,,97 - 119,22,4,1628395,Jordan Bell,1610612744.0,Golden State,Warriors,GSW,4,1629185,Chris Chiozza,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1
+0012100066,677,2,1,4,12:16 AM,0:27,,,MISS Brown III 24' 3PT Jump Shot,,,5,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,678,4,0,4,12:16 AM,0:25,,,McLemore REBOUND (Off:1 Def:1),,,5,203463,Ben McLemore,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,679,2,1,4,12:16 AM,0:21,,,MISS Elleby 27' 3PT Jump Shot,,,5,1629604,CJ Elleby,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012100066,680,4,0,4,12:16 AM,0:19,Moody REBOUND (Off:3 Def:3),,,,,4,1630541,Moses Moody,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,1
+0012100066,681,13,0,4,12:16 AM,0:00,,End of 4th Period (12:16 AM EST),,97 - 119,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

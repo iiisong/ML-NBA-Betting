@@ -1,0 +1,503 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400064,0,12,0,1,10:10 PM,12:00,,Start of 1st Period (10:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,1,10,0,1,10:11 PM,12:00,Jump Ball Hill vs. Favors: Tip to Kanter,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0
+0011400064,2,5,1,1,10:11 PM,11:43,W. Johnson STEAL (1 STL),,Kanter Bad Pass Turnover (P1.T1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,3,2,1,1,10:11 PM,11:26,MISS Hill 18' Jump Shot,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,4,4,0,1,10:11 PM,11:25,,,Favors REBOUND (Off:0 Def:1),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,5,2,1,1,10:12 PM,11:06,,,MISS Burke 21' Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,7,4,0,1,10:12 PM,11:04,,,Kanter REBOUND (Off:1 Def:0),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,6,2,4,1,10:12 PM,11:04,,,MISS Kanter 2' Tip Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,8,4,0,1,10:12 PM,11:00,Hill REBOUND (Off:0 Def:1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,9,2,1,1,10:12 PM,10:52,MISS Bryant 20' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,10,4,0,1,10:12 PM,10:51,Hill REBOUND (Off:1 Def:1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,11,1,5,1,10:12 PM,10:46,Hill 1' Layup (2 PTS),,,0 - 2,2,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,12,5,1,1,10:12 PM,10:34,W. Johnson STEAL (2 STL),,Favors Bad Pass Turnover (P1.T2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,13,2,1,1,10:12 PM,10:15,MISS Bryant 19' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,14,4,0,1,10:12 PM,10:14,,,Favors REBOUND (Off:0 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,15,6,1,1,10:13 PM,10:02,Bryant P.FOUL (P1.T1),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,16,2,5,1,10:13 PM,9:51,Hill BLOCK (1 BLK),,MISS Favors 2' Layup,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,18,4,0,1,10:13 PM,9:49,,,Kanter REBOUND (Off:2 Def:0),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,17,1,4,1,10:13 PM,9:49,,,Kanter 3' Tip Shot (2 PTS),2 - 2,TIE,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,19,6,2,1,10:14 PM,9:29,,,Hayward S.FOUL (P1.T1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,20,3,11,1,10:14 PM,9:29,Bryant Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,22,3,12,1,10:14 PM,9:29,Bryant Free Throw 2 of 2 (2 PTS),,,2 - 4,2,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,25,1,1,1,10:15 PM,9:14,,,Hood 25' 3PT Jump Shot (3 PTS) (Kanter 1 AST),5 - 4,-1,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,27,1,79,1,10:15 PM,9:05,Price 18' Pullup Jump Shot (2 PTS),,,5 - 6,1,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,28,2,1,1,10:15 PM,8:54,,,MISS Kanter  3PT Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,29,4,0,1,10:15 PM,8:53,Bryant REBOUND (Off:0 Def:1),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,30,5,1,1,10:15 PM,8:38,Bryant Bad Pass Turnover (P1.T1),,Hayward STEAL (1 STL),,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,31,2,1,1,10:15 PM,8:30,,,MISS Hayward  3PT Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,32,4,0,1,10:15 PM,8:29,Price REBOUND (Off:0 Def:1),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,33,2,1,1,10:16 PM,8:11,MISS W. Johnson 25' 3PT Jump Shot,,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,34,4,0,1,10:16 PM,8:10,,,Kanter REBOUND (Off:2 Def:1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,35,5,2,1,10:16 PM,7:57,Price STEAL (1 STL),,Favors Lost Ball Turnover (P2.T3),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,36,2,1,1,10:16 PM,7:47,MISS W. Johnson 25' 3PT Jump Shot,,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,37,4,0,1,10:16 PM,7:46,,,Burke REBOUND (Off:0 Def:1),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,38,6,1,1,10:16 PM,7:25,Price P.FOUL (P1.T2),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,39,1,5,1,10:17 PM,7:15,,,Favors 1' Layup (2 PTS) (Burke 1 AST),7 - 6,-1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,40,6,2,1,10:17 PM,7:15,Hill S.FOUL (P1.T3),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,41,3,10,1,10:17 PM,7:15,,,Favors Free Throw 1 of 1 (3 PTS),8 - 6,-2,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,44,1,79,1,10:17 PM,7:03,Bryant 17' Pullup Jump Shot (4 PTS),,,8 - 8,TIE,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,45,2,78,1,10:18 PM,6:49,,,MISS Kanter 7' Floating Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,46,4,0,1,10:18 PM,6:46,Boozer REBOUND (Off:0 Def:1),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,47,5,1,1,10:18 PM,6:36,Boozer Bad Pass Turnover (P1.T2),,Hayward STEAL (2 STL),,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,49,1,47,1,10:19 PM,6:18,,,Hood 9' Turnaround Jump Shot (5 PTS),10 - 8,-2,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,50,2,1,1,10:19 PM,6:00,MISS Bryant 15' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,51,4,0,1,10:19 PM,5:59,Hill REBOUND (Off:2 Def:1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,52,1,63,1,10:19 PM,5:49,Bryant 7' Fadeaway Jumper (6 PTS),,,10 - 10,TIE,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,53,6,2,1,10:19 PM,5:49,,,Hood S.FOUL (P1.T2),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,54,9,1,1,10:19 PM,5:49,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,58,3,10,1,10:22 PM,5:49,Bryant Free Throw 1 of 1 (7 PTS),,,10 - 11,1,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,60,2,1,1,10:22 PM,5:39,,,MISS Favors 17' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,61,4,0,1,10:22 PM,5:38,,,Kanter REBOUND (Off:3 Def:1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,62,1,5,1,10:22 PM,5:35,,,Kanter 1' Layup (4 PTS),12 - 11,-1,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,63,1,1,1,10:22 PM,5:25,Bryant 19' Jump Shot (9 PTS) (Price 1 AST),,,12 - 13,1,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,64,2,3,1,10:23 PM,5:09,,,MISS Favors 6' Hook Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,65,4,0,1,10:23 PM,5:06,Hill REBOUND (Off:2 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,66,6,1,1,10:23 PM,4:59,,,Hayward P.FOUL (P2.T3),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,67,8,0,1,10:23 PM,4:59,SUB: Ellington FOR Bryant,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,68,8,0,1,10:23 PM,4:59,,,SUB: Clark FOR Hayward,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,69,2,1,1,10:24 PM,4:53,MISS Boozer 17' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,70,4,0,1,10:24 PM,4:52,,,Clark REBOUND (Off:0 Def:1),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,71,6,2,1,10:24 PM,4:37,W. Johnson S.FOUL (P1.T4),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,72,3,11,1,10:24 PM,4:37,,,MISS Hood Free Throw 1 of 2,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,73,4,1,1,10:24 PM,4:37,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,75,8,0,1,10:25 PM,4:37,,,SUB: Booker FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,76,3,12,1,10:25 PM,4:37,,,Hood Free Throw 2 of 2 (6 PTS),13 - 13,TIE,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,78,5,40,1,10:25 PM,4:22,W. Johnson Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,80,2,1,1,10:25 PM,4:10,Price BLOCK (1 BLK),,MISS Burke 17' Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,81,4,0,1,10:25 PM,4:08,Ellington REBOUND (Off:0 Def:1),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,82,5,4,1,10:26 PM,3:59,Price Traveling Turnover (P1.T4),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,83,8,0,1,10:26 PM,3:59,SUB: Randle FOR Boozer,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,84,6,2,1,10:26 PM,3:44,Hill S.FOUL (P2.PN),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,85,3,11,1,10:26 PM,3:44,,,MISS Booker Free Throw 1 of 2,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,86,4,1,1,10:26 PM,3:44,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,87,3,12,1,10:27 PM,3:44,,,Booker Free Throw 2 of 2 (1 PTS),14 - 13,-1,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,89,5,2,1,10:27 PM,3:28,Price Lost Ball Turnover (P2.T5),,Favors STEAL (1 STL),,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,90,1,42,1,10:27 PM,3:12,,,Booker 2' Driving Layup (3 PTS) (Burke 2 AST),16 - 13,-3,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,91,6,2,1,10:27 PM,3:12,Randle S.FOUL (P1.PN),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,92,3,10,1,10:28 PM,3:12,,,Booker Free Throw 1 of 1 (4 PTS),17 - 13,-4,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,94,2,3,1,10:28 PM,2:52,MISS Hill 7' Hook Shot,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,95,4,0,1,10:28 PM,2:50,,,Booker REBOUND (Off:0 Def:1),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,96,2,1,1,10:29 PM,2:37,,,MISS Burke  3PT Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,97,4,0,1,10:29 PM,2:36,,,Favors REBOUND (Off:1 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,98,1,66,1,10:29 PM,2:32,,,Favors 13' Jump Bank Shot (5 PTS) (Clark 1 AST),19 - 13,-6,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,99,1,42,1,10:29 PM,2:06,Hill 1' Driving Layup (4 PTS) (W. Johnson 1 AST),,,19 - 15,-4,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,100,6,2,1,10:29 PM,2:06,,,Favors S.FOUL (P1.T4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,101,9,1,1,10:29 PM,2:06,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,104,8,0,1,10:31 PM,2:06,,,SUB: Exum FOR Favors,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,105,8,0,1,10:31 PM,2:06,,,SUB: Gobert FOR Burke,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,106,3,10,1,10:31 PM,2:06,Hill Free Throw 1 of 1 (5 PTS),,,19 - 16,-3,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,108,1,42,1,10:32 PM,1:49,,,Booker 2' Driving Layup (6 PTS),21 - 16,-5,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,109,1,1,1,10:32 PM,1:34,W. Johnson 20' Jump Shot (2 PTS) (Randle 1 AST),,,21 - 18,-3,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,110,1,1,1,10:33 PM,1:10,,,Hood 18' Jump Shot (8 PTS) (Gobert 1 AST),23 - 18,-5,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,111,5,4,1,10:33 PM,0:52,Randle Traveling Turnover (P1.T6),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,112,8,0,1,10:33 PM,0:52,,,SUB: Jones FOR Hood,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,113,8,0,1,10:33 PM,0:52,SUB: Davis FOR Hill,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,114,1,43,1,10:34 PM,0:42,,,Gobert  Alley Oop Layup (2 PTS) (Exum 1 AST),25 - 18,-7,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,115,1,1,1,10:34 PM,0:30,Price 17' Jump Shot (4 PTS),,,25 - 20,-5,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,116,2,7,1,10:34 PM,0:10,Davis BLOCK (1 BLK),,MISS Jones  Dunk,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,117,4,0,1,10:34 PM,0:10,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,118,2,1,1,10:35 PM,0:02,MISS Price 13' Jump Shot,,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,119,4,0,1,10:35 PM,0:00,Davis REBOUND (Off:1 Def:0),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,120,13,0,1,10:35 PM,0:00,,End of 1st Period (10:35 PM EST),,25 - 20,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,122,12,0,2,10:37 PM,12:00,,Start of 2nd Period (10:37 PM EST),,25 - 20,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,123,1,1,2,10:38 PM,11:46,Randle 17' Jump Shot (2 PTS) (Brown 1 AST),,,25 - 22,-3,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,203913,Jabari Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,124,1,7,2,10:38 PM,11:24,,,Gobert  Dunk (4 PTS) (Exum 2 AST),27 - 22,-5,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,125,5,40,2,10:38 PM,11:11,Brown Out of Bounds Lost Ball Turnover (P1.T7),,,,,4,203913,Jabari Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,126,6,2,2,10:39 PM,10:53,Davis S.FOUL (P1.T1),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,127,3,11,2,10:39 PM,10:53,,,Gobert Free Throw 1 of 2 (5 PTS),28 - 22,-6,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,129,3,12,2,10:39 PM,10:53,,,Gobert Free Throw 2 of 2 (6 PTS),29 - 22,-7,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,131,5,2,2,10:40 PM,10:41,Brown Lost Ball Turnover (P2.T8),,Booker STEAL (1 STL),,,4,203913,Jabari Brown,1610612747.0,Los Angeles,Lakers,LAL,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,132,6,2,2,10:40 PM,10:37,Randle S.FOUL (P2.T2),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,133,3,11,2,10:40 PM,10:37,,,Booker Free Throw 1 of 2 (7 PTS),30 - 22,-8,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,135,3,12,2,10:40 PM,10:37,,,Booker Free Throw 2 of 2 (8 PTS),31 - 22,-9,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,137,2,1,2,10:41 PM,10:22,MISS Brown 22' Jump Shot,,,,,4,203913,Jabari Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,138,4,0,2,10:41 PM,10:21,,,Clark REBOUND (Off:0 Def:2),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,139,1,75,2,10:41 PM,10:07,,,Exum 2' Driving Finger Roll Layup (2 PTS),33 - 22,-11,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,140,2,1,2,10:41 PM,9:48,MISS Randle 22' Jump Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,141,4,0,2,10:41 PM,9:47,Smith REBOUND (Off:1 Def:0),,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,142,1,5,2,10:41 PM,9:45,Smith 1' Layup (2 PTS),,,33 - 24,-9,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,143,1,5,2,10:41 PM,9:31,,,Gobert 2' Layup (8 PTS) (Jones 1 AST),35 - 24,-11,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,144,6,2,2,10:42 PM,9:19,,,Jones S.FOUL (P1.T1),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,145,3,11,2,10:42 PM,9:19,MISS Davis Free Throw 1 of 2,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,146,4,1,2,10:42 PM,9:19,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,147,8,0,2,10:42 PM,9:19,,,SUB: Felix FOR Clark,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,148,3,12,2,10:42 PM,9:19,MISS Davis Free Throw 2 of 2,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,150,4,0,2,10:42 PM,9:19,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,151,1,1,2,10:43 PM,9:03,,,Jones 20' Jump Shot (2 PTS) (Exum 3 AST),37 - 24,-13,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,152,5,2,2,10:43 PM,8:43,Ellington Lost Ball Turnover (P1.T9),,Gobert STEAL (1 STL),,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,153,1,42,2,10:43 PM,8:37,,,Jones 1' Driving Layup (4 PTS) (Exum 4 AST),39 - 24,-15,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,154,6,2,2,10:43 PM,8:37,Brown S.FOUL (P1.T3),,,,,4,203913,Jabari Brown,1610612747.0,Los Angeles,Lakers,LAL,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,155,9,4,2,10:43 PM,8:37,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,157,8,0,2,10:45 PM,8:37,SUB: Appling FOR Brown,,,,,4,203913,Jabari Brown,1610612747.0,Los Angeles,Lakers,LAL,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,158,8,0,2,10:45 PM,8:37,,,SUB: Novak FOR Booker,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,159,3,10,2,10:45 PM,8:37,,,Jones Free Throw 1 of 1 (5 PTS),40 - 24,-16,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,161,2,1,2,10:46 PM,8:23,MISS Ellington 21' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,162,4,0,2,10:46 PM,8:22,,,Jones REBOUND (Off:0 Def:1),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,163,2,5,2,10:46 PM,8:11,,,MISS Felix 1' Layup,,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,164,4,0,2,10:46 PM,8:10,Smith REBOUND (Off:1 Def:1),,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,165,2,5,2,10:46 PM,8:05,MISS Randle 1' Layup,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,166,4,0,2,10:46 PM,8:03,,,Gobert REBOUND (Off:0 Def:2),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,167,2,1,2,10:46 PM,7:45,,,MISS Exum 21' Jump Shot,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,168,4,0,2,10:47 PM,7:44,Appling REBOUND (Off:0 Def:1),,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,169,6,1,2,10:47 PM,7:37,,,Felix P.FOUL (P1.T2),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,170,8,0,2,10:47 PM,7:37,,,SUB: Kanter FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,171,8,0,2,10:47 PM,7:37,,,SUB: Hayward FOR Jones,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,172,8,0,2,10:47 PM,7:37,SUB: Bryant FOR Smith,,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,173,2,1,2,10:47 PM,7:27,MISS Bryant 18' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,174,4,0,2,10:47 PM,7:27,,,Felix REBOUND (Off:0 Def:1),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,175,2,1,2,10:48 PM,7:12,,,MISS Novak 21' Jump Shot,,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,176,4,0,2,10:48 PM,7:11,Bryant REBOUND (Off:0 Def:2),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,177,1,47,2,10:48 PM,6:51,Randle 5' Turnaround Jump Shot (4 PTS) (Bryant 1 AST),,,40 - 26,-14,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,178,2,1,2,10:48 PM,6:31,,,MISS Novak 24' 3PT Jump Shot,,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,179,4,0,2,10:48 PM,6:30,Bryant REBOUND (Off:0 Def:3),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,180,2,63,2,10:48 PM,6:19,MISS Bryant 5' Fadeaway Jumper,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,181,4,0,2,10:49 PM,6:17,,,Kanter REBOUND (Off:3 Def:2),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,182,5,1,2,10:49 PM,6:14,Ellington STEAL (1 STL),,Felix Bad Pass Turnover (P1.T4),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,183,2,1,2,10:49 PM,6:03,MISS Randle 10' Jump Shot,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,184,4,0,2,10:49 PM,5:59,,,Kanter REBOUND (Off:3 Def:3),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,185,2,44,2,10:49 PM,5:54,,,MISS Exum 2' Reverse Layup,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,186,4,0,2,10:49 PM,5:52,Randle REBOUND (Off:0 Def:1),,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,187,1,1,2,10:49 PM,5:27,Bryant 22' Jump Shot (11 PTS),,,40 - 28,-12,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,188,9,1,2,10:50 PM,5:21,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,190,8,0,2,10:52 PM,5:21,,,SUB: Burke FOR Exum,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,191,8,0,2,10:52 PM,5:21,,,SUB: Hood FOR Felix,,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,192,8,0,2,10:52 PM,5:21,SUB: Boozer FOR Randle,,,,,4,203944,Julius Randle,1610612747.0,Los Angeles,Lakers,LAL,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,193,1,1,2,10:52 PM,5:14,,,Novak 20' Jump Shot (2 PTS) (Hayward 1 AST),42 - 28,-14,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,194,1,1,2,10:52 PM,5:02,Bryant 20' Jump Shot (13 PTS),,,42 - 30,-12,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,195,1,44,2,10:53 PM,4:41,,,Kanter 2' Reverse Layup (6 PTS) (Burke 3 AST),44 - 30,-14,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,196,2,1,2,10:53 PM,4:24,MISS Boozer 14' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,197,4,0,2,10:53 PM,4:23,,,Kanter REBOUND (Off:3 Def:4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,198,1,80,2,10:53 PM,4:10,,,Hayward 16' Step Back Jump Shot (2 PTS),46 - 30,-16,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,199,2,1,2,10:53 PM,3:56,MISS Bryant 16' Jump Shot,,Hayward BLOCK (1 BLK),,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0
+0011400064,200,4,0,2,10:53 PM,3:54,,,Burke REBOUND (Off:0 Def:2),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,201,2,1,2,10:54 PM,3:50,,,MISS Hood  3PT Jump Shot,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,202,4,0,2,10:54 PM,3:49,Bryant REBOUND (Off:0 Def:4),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,203,1,5,2,10:54 PM,3:39,Boozer 2' Layup (2 PTS) (Bryant 2 AST),,,46 - 32,-14,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,204,1,1,2,10:54 PM,3:19,,,Novak 19' Jump Shot (4 PTS) (Burke 4 AST),48 - 32,-16,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,205,1,1,2,10:54 PM,3:05,Boozer 16' Jump Shot (4 PTS) (Bryant 3 AST),,,48 - 34,-14,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,206,2,66,2,10:55 PM,2:52,,,MISS Burke 10' Jump Bank Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,207,4,0,2,10:55 PM,2:50,,,Kanter REBOUND (Off:4 Def:4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,208,2,1,2,10:55 PM,2:48,Davis BLOCK (2 BLK),,MISS Kanter 5' Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,209,4,0,2,10:55 PM,2:47,Boozer REBOUND (Off:0 Def:2),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,210,2,1,2,10:55 PM,2:37,MISS Bryant 15' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,212,4,0,2,10:55 PM,2:36,Davis REBOUND (Off:2 Def:0),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,211,2,5,2,10:55 PM,2:36,MISS Davis 2' Layup,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,213,4,0,2,10:55 PM,2:34,Davis REBOUND (Off:3 Def:0),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,214,5,2,2,10:55 PM,2:33,Davis Lost Ball Turnover (P1.T10),,Hayward STEAL (3 STL),,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,215,5,1,2,10:55 PM,2:29,Boozer STEAL (1 STL),,Hayward Bad Pass Turnover (P1.T5),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,216,6,2,2,10:55 PM,2:19,,,Hood S.FOUL (P2.T3),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,443,9,1,2,10:56 PM,2:19,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,219,8,0,2,10:57 PM,2:19,SUB: W. Johnson FOR Davis,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,536,8,0,2,10:57 PM,2:19,SUB: Price FOR Ellington,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,220,8,0,2,10:57 PM,2:19,SUB: Hill FOR Appling,,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,221,8,0,2,10:57 PM,2:19,,,SUB: Favors FOR Novak,,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,222,3,11,2,10:58 PM,2:19,MISS Bryant Free Throw 1 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,223,4,1,2,10:58 PM,2:19,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,224,3,12,2,10:58 PM,2:19,MISS Bryant Free Throw 2 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,226,4,0,2,10:58 PM,2:19,,,Kanter REBOUND (Off:4 Def:5),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,227,2,1,2,10:58 PM,2:07,,,MISS Burke  3PT Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,228,4,0,2,10:58 PM,2:06,,,Favors REBOUND (Off:2 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,229,1,7,2,10:58 PM,2:04,,,Favors  Dunk (7 PTS),50 - 34,-16,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,230,6,2,2,10:58 PM,2:04,Boozer S.FOUL (P1.T4),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,231,3,10,2,10:59 PM,2:04,,,Favors Free Throw 1 of 1 (8 PTS),51 - 34,-17,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,234,2,5,2,10:59 PM,1:56,MISS Bryant 1' Layup,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,235,4,0,2,10:59 PM,1:55,,,Kanter REBOUND (Off:4 Def:6),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,236,5,1,2,10:59 PM,1:48,W. Johnson STEAL (3 STL),,Burke Bad Pass Turnover (P1.T6),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,238,2,1,2,10:59 PM,1:41,MISS Boozer 20' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,239,4,0,2,11:00 PM,1:41,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,240,6,3,2,11:00 PM,1:38,,,Favors L.B.FOUL (P2.T4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,241,5,8,2,11:00 PM,1:29,Boozer 3 Second Violation Turnover (P2.T11),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,242,1,1,2,11:00 PM,1:16,,,Burke 25' 3PT Jump Shot (3 PTS) (Hood 1 AST),54 - 34,-20,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,243,2,1,2,11:01 PM,0:58,MISS Boozer 20' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,244,4,0,2,11:01 PM,0:57,,,Burke REBOUND (Off:0 Def:3),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,245,1,3,2,11:01 PM,0:39,,,Kanter 4' Hook Shot (8 PTS) (Hayward 2 AST),56 - 34,-22,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,246,2,5,2,11:01 PM,0:29,MISS Bryant 3' Layup,,Favors BLOCK (1 BLK),,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0
+0011400064,247,4,0,2,11:01 PM,0:26,Hill REBOUND (Off:3 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,248,6,2,2,11:01 PM,0:26,,,Kanter S.FOUL (P1.PN),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,249,3,11,2,11:02 PM,0:26,Hill Free Throw 1 of 2 (6 PTS),,,56 - 35,-21,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,251,3,12,2,11:02 PM,0:26,MISS Hill Free Throw 2 of 2,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,253,4,0,2,11:02 PM,0:26,,,Hood REBOUND (Off:0 Def:1),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,254,2,47,2,11:02 PM,0:04,,,MISS Kanter 10' Turnaround Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,255,4,0,2,11:02 PM,0:02,Hill REBOUND (Off:3 Def:3),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,256,5,6,2,11:03 PM,0:00,Hill Double Dribble Turnover (P1.T12),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,257,9,2,2,11:03 PM,0:00,,,Jazz Timeout: Short (Reg.2 Short 1),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,259,2,1,2,11:04 PM,0:00,,,MISS Hood  3PT Jump Shot,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,260,4,0,2,11:04 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,261,13,0,2,11:04 PM,0:00,,End of 2nd Period (11:04 PM EST),,56 - 35,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,263,12,0,3,11:21 PM,12:00,,Start of 3rd Period (11:21 PM EST),,56 - 35,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,264,2,1,3,11:21 PM,11:42,MISS Boozer 10' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,265,4,0,3,11:21 PM,11:41,Hill REBOUND (Off:4 Def:3),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,266,1,5,3,11:21 PM,11:40,Hill 1' Layup (8 PTS),,,56 - 37,-19,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,267,2,1,3,11:21 PM,11:24,,,MISS Burke 8' Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,268,4,0,3,11:21 PM,11:23,,,Favors REBOUND (Off:3 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,269,1,5,3,11:21 PM,11:20,,,Favors 1' Layup (10 PTS),58 - 37,-21,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,270,6,2,3,11:21 PM,11:20,Hill S.FOUL (P3.T1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,271,3,10,3,11:22 PM,11:20,,,Favors Free Throw 1 of 1 (11 PTS),59 - 37,-22,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,273,5,1,3,11:22 PM,11:05,Price Bad Pass Turnover (P3.T13),,Hayward STEAL (4 STL),,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,274,1,42,3,11:22 PM,11:00,,,Hayward 1' Driving Layup (4 PTS),61 - 37,-24,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,275,1,42,3,11:23 PM,10:39,Boozer 3' Driving Layup (6 PTS) (Price 2 AST),,,61 - 39,-22,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,276,5,1,3,11:23 PM,10:24,W. Johnson STEAL (4 STL),,Hayward Bad Pass Turnover (P2.T7),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,277,6,1,3,11:23 PM,10:20,,,Hayward P.FOUL (P3.T1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,278,3,11,3,11:23 PM,10:20,MISS Bryant Free Throw 1 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,279,4,1,3,11:23 PM,10:20,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,280,3,12,3,11:23 PM,10:20,MISS Bryant Free Throw 2 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,282,4,0,3,11:24 PM,10:20,,,Kanter REBOUND (Off:4 Def:7),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,283,5,7,3,11:24 PM,10:07,,,Kanter Discontinue Dribble Turnover (P2.T8),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400064,284,2,1,3,11:24 PM,9:58,MISS Bryant 19' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,285,4,0,3,11:24 PM,9:57,,,Hood REBOUND (Off:0 Def:2),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,286,1,5,3,11:25 PM,9:36,,,Favors 2' Layup (13 PTS) (Hayward 3 AST),63 - 39,-24,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,287,1,1,3,11:25 PM,9:26,Hill 19' Jump Shot (10 PTS) (Boozer 1 AST),,,63 - 41,-22,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,288,2,1,3,11:25 PM,9:08,,,MISS Kanter 17' Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,289,4,0,3,11:25 PM,9:07,Hill REBOUND (Off:4 Def:4),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,290,1,1,3,11:25 PM,8:53,Boozer 13' Jump Shot (8 PTS) (W. Johnson 2 AST),,,63 - 43,-20,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,291,1,1,3,11:26 PM,8:29,,,Burke 25' 3PT Jump Shot (6 PTS) (Hood 2 AST),66 - 43,-23,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,292,2,1,3,11:26 PM,8:07,MISS W. Johnson 25' 3PT Jump Shot,,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,293,4,0,3,11:26 PM,8:06,Bryant REBOUND (Off:1 Def:4),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,294,1,5,3,11:26 PM,8:03,Boozer 1' Layup (10 PTS) (Bryant 4 AST),,,66 - 45,-21,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,295,6,2,3,11:26 PM,8:03,,,Hood S.FOUL (P3.T2),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,296,3,10,3,11:26 PM,8:03,Boozer Free Throw 1 of 1 (11 PTS),,,66 - 46,-20,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,298,5,1,3,11:27 PM,7:54,Boozer STEAL (2 STL),,Burke Bad Pass Turnover (P2.T9),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,299,1,5,3,11:27 PM,7:47,Bryant 2' Layup (15 PTS),,,66 - 48,-18,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,300,6,2,3,11:27 PM,7:41,W. Johnson S.FOUL (P2.T2),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,301,3,11,3,11:27 PM,7:41,,,MISS Hayward Free Throw 1 of 2,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,302,4,1,3,11:27 PM,7:41,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,303,3,12,3,11:28 PM,7:41,,,Hayward Free Throw 2 of 2 (5 PTS),67 - 48,-19,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,305,2,1,3,11:28 PM,7:25,MISS Boozer 18' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,306,4,0,3,11:28 PM,7:24,Hill REBOUND (Off:5 Def:4),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,307,1,3,3,11:28 PM,7:22,Hill 5' Hook Shot (12 PTS),,,67 - 50,-17,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,308,1,42,3,11:28 PM,7:08,,,Favors 2' Driving Layup (15 PTS) (Burke 5 AST),69 - 50,-19,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,309,6,4,3,11:28 PM,6:59,Bryant OFF.Foul (P2),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,310,5,5,3,11:28 PM,6:59,Bryant Foul Turnover (P2.T14),,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,311,6,1,3,11:29 PM,6:45,Boozer P.FOUL (P2.T3),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,312,1,1,3,11:29 PM,6:34,,,Hayward 22' Jump Shot (7 PTS),71 - 50,-21,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,313,6,2,3,11:30 PM,6:21,,,Kanter S.FOUL (P2.T3),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,314,3,11,3,11:30 PM,6:21,Boozer Free Throw 1 of 2 (12 PTS),,,71 - 51,-20,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,316,3,12,3,11:30 PM,6:21,Boozer Free Throw 2 of 2 (13 PTS),,,71 - 52,-19,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,318,1,1,3,11:31 PM,6:03,,,Hayward  3PT Jump Shot (10 PTS) (Burke 6 AST),74 - 52,-22,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,319,6,2,3,11:31 PM,5:52,,,Hayward S.FOUL (P4.T4),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,320,9,1,3,11:31 PM,5:52,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,324,3,11,3,11:34 PM,5:52,Bryant Free Throw 1 of 2 (16 PTS),,,74 - 53,-21,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,326,3,12,3,11:34 PM,5:52,Bryant Free Throw 2 of 2 (17 PTS),,,74 - 54,-20,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,329,8,0,3,11:35 PM,5:36,SUB: Ellington FOR Bryant,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,330,2,1,3,11:35 PM,5:28,,,MISS Kanter 18' Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,331,4,0,3,11:35 PM,5:27,Hill REBOUND (Off:5 Def:5),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,332,2,1,3,11:35 PM,5:08,MISS Boozer 15' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,333,4,0,3,11:35 PM,5:07,,,Hood REBOUND (Off:0 Def:3),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,334,6,2,3,11:36 PM,4:57,Boozer S.FOUL (P3.T4),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,335,3,11,3,11:36 PM,4:57,,,Hayward Free Throw 1 of 2 (11 PTS),75 - 54,-21,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,337,8,0,3,11:36 PM,4:57,,,SUB: Booker FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,338,3,12,3,11:36 PM,4:57,,,Hayward Free Throw 2 of 2 (12 PTS),76 - 54,-22,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,340,5,1,3,11:37 PM,4:43,Price Bad Pass Turnover (P4.T15),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,341,2,1,3,11:37 PM,4:32,,,MISS Burke 22' Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,342,4,0,3,11:37 PM,4:31,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,343,2,1,3,11:37 PM,4:13,MISS Price 22' Jump Shot,,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,344,4,0,3,11:37 PM,4:12,,,Hood REBOUND (Off:0 Def:4),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,345,6,27,3,11:38 PM,4:12,Price Personal Block Foul (P2.PN),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,346,3,11,3,11:38 PM,4:12,,,Hayward Free Throw 1 of 2 (13 PTS),77 - 54,-23,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,348,8,0,3,11:38 PM,4:12,SUB: Tyler FOR Boozer,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,349,8,0,3,11:38 PM,4:12,,,SUB: Exum FOR Burke,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,350,3,12,3,11:38 PM,4:12,,,Hayward Free Throw 2 of 2 (14 PTS),78 - 54,-24,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,352,5,1,3,11:38 PM,3:58,Tyler Bad Pass Turnover (P1.T16),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,353,8,0,3,11:39 PM,3:58,,,SUB: Burke FOR Hood,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,354,6,2,3,11:39 PM,3:45,W. Johnson S.FOUL (P3.PN),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,355,3,11,3,11:39 PM,3:45,,,MISS Favors Free Throw 1 of 2,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,356,4,1,3,11:39 PM,3:45,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,357,3,12,3,11:40 PM,3:45,,,MISS Favors Free Throw 2 of 2,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,359,4,0,3,11:40 PM,3:45,Hill REBOUND (Off:5 Def:6),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,360,1,73,3,11:40 PM,3:24,Price 2' Driving Reverse Layup (6 PTS),,,78 - 56,-22,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,361,2,5,3,11:40 PM,3:12,,,MISS Hayward 3' Layup,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,362,4,0,3,11:40 PM,3:11,Hill REBOUND (Off:5 Def:7),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,363,2,63,3,11:41 PM,2:53,MISS Tyler 12' Fadeaway Jumper,,Favors BLOCK (2 BLK),,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0
+0011400064,364,4,0,3,11:41 PM,2:51,,,Booker REBOUND (Off:0 Def:2),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,365,5,1,3,11:41 PM,2:36,Price STEAL (2 STL),,Burke Bad Pass Turnover (P3.T10),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,366,1,49,3,11:41 PM,2:33,Price  Driving Dunk (8 PTS),,,78 - 58,-20,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,367,9,1,3,11:41 PM,2:32,,,Jazz Timeout: Regular (Reg.3 Short 1),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,369,8,0,3,11:43 PM,2:32,,,SUB: Clark FOR Favors,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,370,8,0,3,11:43 PM,2:32,,,SUB: Gobert FOR Burke,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,371,8,0,3,11:43 PM,2:32,SUB: Davis FOR Hill,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,372,6,1,3,11:44 PM,2:21,Price P.FOUL (P3.PN),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,373,3,11,3,11:44 PM,2:21,,,Exum Free Throw 1 of 2 (3 PTS),79 - 58,-21,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,375,3,12,3,11:44 PM,2:21,,,Exum Free Throw 2 of 2 (4 PTS),80 - 58,-22,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,377,6,4,3,11:45 PM,2:11,Tyler OFF.Foul (P1),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,407,5,37,3,11:45 PM,1:52,Tyler Offensive Foul Turnover (P2.T17),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,378,7,5,3,11:45 PM,1:52,Tyler Violation:Kicked Ball,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0011400064,379,1,49,3,11:46 PM,1:44,,,Hayward  Driving Dunk (16 PTS) (Gobert 2 AST),82 - 58,-24,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,380,6,1,3,11:46 PM,1:41,,,Booker P.FOUL (P1.PN),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,382,3,11,3,11:46 PM,1:41,W. Johnson Free Throw 1 of 2 (3 PTS),,,82 - 59,-23,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,383,8,0,3,11:46 PM,1:41,,,SUB: Felix FOR Hayward,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,385,3,12,3,11:46 PM,1:41,W. Johnson Free Throw 2 of 2 (4 PTS),,,82 - 60,-22,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,388,5,40,3,11:47 PM,1:34,,,Clark Out of Bounds Lost Ball Turnover (P1.T11),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,390,5,1,3,11:47 PM,1:27,Price Bad Pass Turnover (P5.T18),,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,392,2,1,3,11:47 PM,1:16,Tyler BLOCK (1 BLK),,MISS Felix 6' Jump Shot,,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,393,4,0,3,11:47 PM,1:14,,,Felix REBOUND (Off:1 Def:1),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,394,1,5,3,11:47 PM,1:11,,,Booker 3' Layup (10 PTS) (Felix 1 AST),84 - 60,-24,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,395,6,2,3,11:47 PM,1:11,Tyler S.FOUL (P2.PN),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,397,3,10,3,11:48 PM,1:11,,,MISS Booker Free Throw 1 of 1,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,399,4,0,3,11:48 PM,1:11,,,Felix REBOUND (Off:2 Def:1),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,401,2,1,3,11:48 PM,1:03,Tyler BLOCK (2 BLK),,MISS Booker 18' Jump Shot,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,402,4,0,3,11:48 PM,1:01,Ellington REBOUND (Off:0 Def:2),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,403,2,1,3,11:48 PM,0:55,MISS Ellington 18' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,404,4,0,3,11:48 PM,0:54,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,405,6,3,3,11:48 PM,0:52,,,Gobert L.B.FOUL (P1.PN),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,406,3,11,3,11:48 PM,0:52,MISS Tyler Free Throw 1 of 2,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,487,4,0,3,11:49 PM,0:52,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,409,8,0,3,11:49 PM,0:52,,,SUB: Novak FOR Booker,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,410,3,12,3,11:49 PM,0:52,Tyler Free Throw 2 of 2 (1 PTS),,,84 - 61,-23,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,413,2,1,3,11:49 PM,0:27,,,MISS Exum 8' Jump Shot,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,414,4,0,3,11:49 PM,0:27,W. Johnson REBOUND (Off:0 Def:1),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,415,2,1,3,11:49 PM,0:19,MISS Ellington 25' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,417,4,0,3,11:49 PM,0:19,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,419,6,3,3,11:50 PM,0:19,Tyler L.B.FOUL (P3.PN),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,420,3,11,3,11:50 PM,0:19,,,MISS Felix Free Throw 1 of 2,,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,422,4,1,3,11:50 PM,0:19,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,426,5,17,3,11:51 PM,0:19,,,Gobert Lane Violation Turnover (P1.T12),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,428,6,3,3,11:51 PM,0:19,,,Gobert L.B.FOUL (P2.PN),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,429,3,11,3,11:51 PM,0:19,Tyler Free Throw 1 of 2 (2 PTS),,,84 - 62,-22,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,431,3,12,3,11:51 PM,0:19,MISS Tyler Free Throw 2 of 2,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,433,4,0,3,11:51 PM,0:19,,,Gobert REBOUND (Off:0 Def:3),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,434,6,29,3,11:52 PM,0:03,Tyler Shooting Block Foul (P4.PN),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,435,3,11,3,11:52 PM,0:03,,,Exum Free Throw 1 of 2 (5 PTS),85 - 62,-23,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,437,3,12,3,11:52 PM,0:03,,,Exum Free Throw 2 of 2 (6 PTS),86 - 62,-24,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,439,2,1,3,11:53 PM,0:00,MISS Ellington 32' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,440,4,0,3,11:53 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,441,13,0,3,11:53 PM,0:00,,End of 3rd Period (11:53 PM EST),,86 - 62,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,444,12,0,4,11:55 PM,12:00,,Start of 4th Period (11:55 PM EST),,86 - 62,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,445,2,1,4,11:56 PM,11:46,,,MISS Clark 20' Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,446,4,0,4,11:56 PM,11:45,Ellington REBOUND (Off:0 Def:3),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,448,2,1,4,11:56 PM,11:23,MISS Smith 13' Jump Shot,,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,449,4,0,4,11:56 PM,11:22,,,Novak REBOUND (Off:0 Def:1),,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,450,6,2,4,11:57 PM,11:05,Davis S.FOUL (P2.T1),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,451,3,11,4,11:57 PM,11:05,,,MISS Gobert Free Throw 1 of 2,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,452,4,1,4,11:57 PM,11:05,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,453,3,12,4,11:57 PM,11:05,,,Gobert Free Throw 2 of 2 (9 PTS),87 - 62,-25,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,454,2,1,4,11:57 PM,10:47,MISS Ellington 11' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,456,4,0,4,11:57 PM,10:46,Ellington REBOUND (Off:1 Def:3),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,457,2,5,4,11:57 PM,10:44,MISS Ellington 2' Layup,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,458,4,0,4,11:57 PM,10:43,Smith REBOUND (Off:2 Def:1),,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,459,6,2,4,11:58 PM,10:42,,,Felix S.FOUL (P2.T1),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,460,3,11,4,11:58 PM,10:42,Smith Free Throw 1 of 2 (3 PTS),,,87 - 63,-24,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,462,3,12,4,11:58 PM,10:42,MISS Smith Free Throw 2 of 2,,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,464,4,0,4,11:58 PM,10:42,,,Gobert REBOUND (Off:0 Def:4),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,465,1,1,4,11:59 PM,10:25,,,Novak 25' 3PT Jump Shot (7 PTS) (Exum 5 AST),90 - 63,-27,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,466,2,1,4,11:59 PM,10:10,MISS Appling 7' Jump Shot,,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,467,4,0,4,11:59 PM,10:09,,,Exum REBOUND (Off:0 Def:1),,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,468,6,2,4,11:59 PM,10:06,Ellington S.FOUL (P1.T2),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,469,3,11,4,11:59 PM,10:06,,,Exum Free Throw 1 of 2 (7 PTS),91 - 63,-28,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,471,8,0,4,11:59 PM,10:06,SUB: Bryant FOR Smith,,,,,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,472,8,0,4,11:59 PM,10:06,SUB: Boozer FOR Tyler,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,473,8,0,4,12:00 AM,10:06,,,SUB: Cooley FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,474,8,0,4,12:00 AM,10:06,,,SUB: Hayward FOR Felix,,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,475,8,0,4,12:00 AM,10:06,,,SUB: Motum FOR Novak,,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,476,3,12,4,12:00 AM,10:06,,,Exum Free Throw 2 of 2 (8 PTS),92 - 63,-29,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,478,2,1,4,12:00 AM,9:50,MISS Boozer 8' Jump Shot,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,479,4,0,4,12:00 AM,9:49,,,Cooley REBOUND (Off:0 Def:1),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,480,1,1,4,12:00 AM,9:41,,,Exum 24' 3PT Jump Shot (11 PTS) (Hayward 4 AST),95 - 63,-32,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,481,1,47,4,12:00 AM,9:29,Bryant 18' Turnaround Jump Shot (19 PTS),,,95 - 65,-30,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,483,1,78,4,12:01 AM,9:11,,,Exum 8' Floating Jump Shot (13 PTS) (Clark 2 AST),97 - 65,-32,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,485,1,47,4,12:01 AM,9:00,Bryant 18' Turnaround Jump Shot (21 PTS) (Appling 1 AST),,,97 - 67,-30,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,488,6,1,4,12:01 AM,8:42,Davis P.FOUL (P3.T3),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,490,9,4,4,12:02 AM,8:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,492,8,0,4,12:03 AM,8:42,SUB: Hill FOR Davis,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,493,2,5,4,12:03 AM,8:33,Hill BLOCK (2 BLK),,MISS Cooley 2' Layup,,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,494,4,0,4,12:03 AM,8:30,Hill REBOUND (Off:5 Def:8),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,495,1,1,4,12:04 AM,8:23,Bryant 12' Jump Shot (23 PTS),,,97 - 69,-28,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,496,2,1,4,12:04 AM,8:10,Boozer BLOCK (1 BLK),,MISS Motum 6' Jump Shot,,,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,497,4,0,4,12:04 AM,8:08,Appling REBOUND (Off:0 Def:2),,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,498,2,5,4,12:04 AM,8:05,MISS Ellington 2' Layup,,Hayward BLOCK (2 BLK),,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0
+0011400064,500,4,0,4,12:04 AM,8:03,Boozer REBOUND (Off:1 Def:2),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,499,1,4,4,12:04 AM,8:03,Boozer 1' Tip Shot (15 PTS),,,97 - 71,-26,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,501,1,1,4,12:04 AM,7:48,,,Clark 14' Jump Shot (2 PTS),99 - 71,-28,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,503,6,2,4,12:04 AM,7:48,Appling S.FOUL (P1.T4),,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,504,8,0,4,12:04 AM,7:48,,,SUB: Hood FOR Hayward,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,505,3,10,4,12:05 AM,7:48,,,MISS Clark Free Throw 1 of 1,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,507,4,0,4,12:05 AM,7:48,Hill REBOUND (Off:5 Def:9),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,508,2,1,4,12:05 AM,7:38,MISS Bryant 20' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,509,4,0,4,12:05 AM,7:37,,,Cooley REBOUND (Off:0 Def:2),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,511,1,43,4,12:05 AM,7:24,,,Cooley 2' Alley Oop Layup (2 PTS) (Exum 6 AST),101 - 71,-30,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,513,1,1,4,12:05 AM,7:07,Appling 19' Jump Shot (2 PTS) (Hill 1 AST),,,101 - 73,-28,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,514,1,5,4,12:06 AM,6:55,,,Cooley 1' Layup (4 PTS) (Motum 1 AST),103 - 73,-30,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,515,2,1,4,12:06 AM,6:29,MISS Bryant 16' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,516,4,0,4,12:06 AM,6:29,,,Cooley REBOUND (Off:0 Def:3),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,517,5,1,4,12:06 AM,6:25,Bryant STEAL (1 STL),,Cooley Bad Pass Turnover (P1.T13),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,518,6,2,4,12:06 AM,6:15,,,Cooley S.FOUL (P1.T2),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,519,3,11,4,12:06 AM,6:15,MISS Bryant Free Throw 1 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,520,4,1,4,12:06 AM,6:15,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,521,8,0,4,12:07 AM,6:15,,,SUB: Murry FOR Exum,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,522,3,12,4,12:07 AM,6:15,MISS Bryant Free Throw 2 of 2,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,525,4,0,4,12:07 AM,6:15,,,Motum REBOUND (Off:0 Def:1),,,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,527,1,1,4,12:07 AM,6:06,,,Hood 19' Jump Shot (10 PTS),105 - 73,-32,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,528,6,2,4,12:07 AM,6:06,Hill S.FOUL (P4.PN),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,529,3,10,4,12:07 AM,6:06,,,Hood Free Throw 1 of 1 (11 PTS),106 - 73,-33,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,531,2,1,4,12:08 AM,5:53,MISS Appling 22' Jump Shot,,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,532,4,0,4,12:08 AM,5:49,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,533,6,3,4,12:08 AM,5:49,,,Hood L.B.FOUL (P4.T3),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,534,9,1,4,12:08 AM,5:49,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,537,2,1,4,12:11 AM,5:39,MISS Bryant 15' Jump Shot,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,538,4,0,4,12:11 AM,5:36,,,Hood REBOUND (Off:0 Def:5),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,539,1,1,4,12:11 AM,5:21,,,Motum 24' 3PT Jump Shot (3 PTS) (Clark 3 AST),109 - 73,-36,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,540,1,1,4,12:11 AM,4:58,Bryant 12' Jump Shot (25 PTS),,,109 - 75,-34,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,541,2,1,4,12:11 AM,4:43,,,MISS Clark 25' 3PT Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,542,4,0,4,12:11 AM,4:42,Appling REBOUND (Off:0 Def:3),,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,543,6,2,4,12:12 AM,4:28,,,Hood S.FOUL (P5.T4),,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,544,3,11,4,12:12 AM,4:28,Bryant Free Throw 1 of 2 (26 PTS),,,109 - 76,-33,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,546,8,0,4,12:12 AM,4:28,SUB: W. Johnson FOR Ellington,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,547,8,0,4,12:12 AM,4:28,,,SUB: Felix FOR Hood,,,5,203918,Rodney Hood,1610612762.0,Utah,Jazz,UTA,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,548,3,12,4,12:12 AM,4:28,Bryant Free Throw 2 of 2 (27 PTS),,,109 - 77,-32,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,551,2,1,4,12:13 AM,4:05,,,MISS Clark 25' 3PT Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,552,4,0,4,12:13 AM,4:04,,,Cooley REBOUND (Off:1 Def:3),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,554,6,2,4,12:13 AM,4:02,Boozer S.FOUL (P4.PN),,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,556,3,11,4,12:13 AM,4:02,,,Cooley Free Throw 1 of 2 (5 PTS),110 - 77,-33,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,558,3,12,4,12:13 AM,4:02,,,Cooley Free Throw 2 of 2 (6 PTS),111 - 77,-34,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,561,1,3,4,12:14 AM,3:37,Boozer 5' Hook Shot (17 PTS) (Appling 2 AST),,,111 - 79,-32,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,563,2,5,4,12:14 AM,3:18,W. Johnson BLOCK (1 BLK),,MISS Cooley 2' Layup,,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0
+0011400064,564,4,0,4,12:14 AM,3:16,,,Clark REBOUND (Off:1 Def:2),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,565,2,1,4,12:14 AM,3:14,,,MISS Felix  3PT Jump Shot,,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,566,4,0,4,12:14 AM,3:11,,,Cooley REBOUND (Off:2 Def:3),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,567,6,4,4,12:14 AM,3:09,,,Felix OFF.Foul (P3),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,568,5,5,4,12:14 AM,3:09,,,Felix Foul Turnover (P2.T14),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400064,569,8,0,4,12:15 AM,3:09,SUB: Ellington FOR Boozer,,,,,4,2430,Carlos Boozer,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,570,8,0,4,12:15 AM,3:09,SUB: Tyler FOR Hill,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,571,8,0,4,12:15 AM,3:09,SUB: Davis FOR Bryant,,,,,4,977,Kobe Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,572,2,63,4,12:15 AM,2:56,MISS Tyler 12' Fadeaway Jumper,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,573,4,0,4,12:15 AM,2:54,,,Motum REBOUND (Off:0 Def:2),,,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,574,1,1,4,12:15 AM,2:46,,,Clark 25' 3PT Jump Shot (5 PTS) (Murry 1 AST),114 - 79,-35,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,575,1,77,4,12:16 AM,2:21,Davis 4' Driving Jump Shot (2 PTS),,,114 - 81,-33,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,576,1,1,4,12:16 AM,2:08,,,Motum 20' Jump Shot (5 PTS) (Murry 2 AST),116 - 81,-35,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,577,2,1,4,12:16 AM,1:47,MISS Ellington 21' Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,578,4,0,4,12:16 AM,1:46,,,Murry REBOUND (Off:0 Def:1),,,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,579,2,44,4,12:16 AM,1:39,,,MISS Motum 2' Reverse Layup,,,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,580,4,0,4,12:17 AM,1:37,Tyler REBOUND (Off:0 Def:1),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,581,9,2,4,12:17 AM,1:35,LAKERS Timeout: Short (Full 4 Short 1),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,583,9,1,4,12:18 AM,1:32,,,Jazz Timeout: Regular (Reg.4 Short 1),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,585,8,0,4,12:19 AM,1:32,SUB: Price FOR Appling,,,,,4,203951,Keith Appling,1610612747.0,Los Angeles,Lakers,LAL,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,586,2,1,4,12:19 AM,1:20,MISS Price 20' Jump Shot,,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,587,4,0,4,12:19 AM,1:19,,,Murry REBOUND (Off:0 Def:2),,,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,588,6,2,4,12:19 AM,1:13,W. Johnson S.FOUL (P4.PN),,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,589,3,11,4,12:19 AM,1:13,,,MISS Cooley Free Throw 1 of 2,,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,591,4,0,4,12:20 AM,1:13,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,592,8,0,4,12:20 AM,1:13,SUB: Smith FOR Price,,,,,4,101179,Ronnie Price,1610612747.0,Los Angeles,Lakers,LAL,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,593,3,12,4,12:20 AM,1:13,,,Cooley Free Throw 2 of 2 (7 PTS),117 - 81,-36,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,596,2,1,4,12:20 AM,1:02,MISS W. Johnson 20' Jump Shot,,,,,4,202325,Wesley Johnson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,597,4,0,4,12:20 AM,0:59,Tyler REBOUND (Off:1 Def:1),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,598,1,5,4,12:20 AM,0:56,Smith 1' Layup (5 PTS) (Tyler 1 AST),,,117 - 83,-34,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0011400064,599,6,2,4,12:20 AM,0:56,,,Motum S.FOUL (P1.PN),,,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,600,3,10,4,12:21 AM,0:56,Smith Free Throw 1 of 1 (6 PTS),,,117 - 84,-33,4,203964,Roscoe Smith,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,602,2,44,4,12:21 AM,0:41,,,MISS Murry 1' Reverse Layup,,,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,604,4,0,4,12:21 AM,0:40,,,Cooley REBOUND (Off:3 Def:3),,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,603,2,4,4,12:21 AM,0:40,,,MISS Cooley 2' Tip Shot,,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,605,4,0,4,12:21 AM,0:36,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,606,1,1,4,12:21 AM,0:35,,,Motum 3' Jump Shot (7 PTS) (Felix 2 AST),119 - 84,-35,5,204026,Brock Motum,1610612762.0,Utah,Jazz,UTA,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400064,607,2,1,4,12:22 AM,0:27,MISS Tyler 16' Jump Shot,,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,608,4,0,4,12:22 AM,0:27,Davis REBOUND (Off:4 Def:0),,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,609,1,5,4,12:22 AM,0:17,Davis 3' Layup (4 PTS),,,119 - 86,-33,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,610,6,2,4,12:22 AM,0:17,,,Felix S.FOUL (P4.PN),,,5,203467,Carrick Felix,1610612762.0,Utah,Jazz,UTA,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0011400064,611,3,10,4,12:22 AM,0:17,MISS Davis Free Throw 1 of 1,,,,,4,202334,Ed Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0011400064,613,4,0,4,12:22 AM,0:17,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,614,6,3,4,12:22 AM,0:17,Tyler L.B.FOUL (P5.PN),,,,,4,202719,Jeremy Tyler,1610612747.0,Los Angeles,Lakers,LAL,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400064,615,3,11,4,12:23 AM,0:17,,,MISS Cooley Free Throw 1 of 2,,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,616,4,1,4,12:23 AM,0:17,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400064,617,3,12,4,12:23 AM,0:17,,,MISS Cooley Free Throw 2 of 2,,,5,204022,Jack Cooley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,619,4,0,4,12:23 AM,0:17,,,Murry REBOUND (Off:1 Def:2),,,5,203315,Toure' Murry,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400064,621,13,0,4,12:23 AM,0:00,,End of 4th Period (12:23 AM EST),,119 - 86,-33,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

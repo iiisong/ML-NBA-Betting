@@ -1,0 +1,483 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300079,0,12,0,1,3:11 PM,12:00,,Start of 1st Period (3:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,1,10,0,1,3:11 PM,12:00,Jump Ball Horford vs. Gasol: Tip to Korver,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,2,6,2,1,3:11 PM,11:46,,,Allen S.FOUL (P1.T1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,3,3,11,1,3:12 PM,11:46,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,4,4,1,1,3:12 PM,11:46,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,5,3,12,1,3:12 PM,11:46,Millsap Free Throw 2 of 2 (1 PTS),,,0 - 1,1,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,7,2,5,1,3:12 PM,11:29,,,MISS Gasol 2' Layup,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,8,4,0,1,3:12 PM,11:29,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,9,2,77,1,3:13 PM,11:15,Korver BLOCK (1 BLK),,MISS Allen 4' Driving Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,10,4,0,1,3:13 PM,11:13,Millsap REBOUND (Off:0 Def:1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,11,2,1,1,3:13 PM,10:56,MISS Millsap 19' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,12,4,0,1,3:13 PM,10:55,,,Miller REBOUND (Off:0 Def:1),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,13,6,17,1,3:13 PM,10:47,HAWKS T.Foul (Def. 3 Sec Korver ),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,14,3,16,1,3:13 PM,10:47,,,Allen Free Throw Technical (1 PTS),1 - 1,TIE,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,16,1,1,1,3:14 PM,10:39,,,Bayless 24' 3PT Jump Shot (3 PTS) (Allen 1 AST),4 - 1,-3,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,17,2,1,1,3:14 PM,10:21,MISS Korver  3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,18,4,0,1,3:14 PM,10:20,,,Randolph REBOUND (Off:0 Def:1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,19,1,5,1,3:14 PM,10:14,,,Gasol 1' Layup (2 PTS) (Miller 1 AST),6 - 1,-5,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,20,6,2,1,3:14 PM,10:14,Korver S.FOUL (P1.T1),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,21,3,10,1,3:15 PM,10:14,,,Gasol Free Throw 1 of 1 (3 PTS),7 - 1,-6,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,24,5,1,1,3:15 PM,10:07,Millsap Bad Pass Turnover (P1.T1),,Allen STEAL (1 STL),,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,25,5,1,1,3:15 PM,9:51,,,Gasol Bad Pass Turnover (P1.T1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,27,1,1,1,3:16 PM,9:38,Teague 19' Jump Shot (2 PTS) (Korver 1 AST),,,7 - 3,-4,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,28,5,1,1,3:16 PM,9:27,Millsap STEAL (1 STL),,Miller Bad Pass Turnover (P1.T2),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,29,6,1,1,3:16 PM,9:27,,,Miller P.FOUL (P1.T2),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,30,1,1,1,3:16 PM,9:16,Carroll  3PT Jump Shot (3 PTS) (Millsap 1 AST),,,7 - 6,-1,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,31,1,1,1,3:17 PM,8:50,,,Bayless  3PT Jump Shot (6 PTS) (Allen 2 AST),10 - 6,-4,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,32,2,1,1,3:17 PM,8:38,MISS Horford 21' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,33,4,0,1,3:17 PM,8:37,,,Randolph REBOUND (Off:0 Def:2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,34,1,1,1,3:17 PM,8:25,,,Gasol 16' Jump Shot (5 PTS),12 - 6,-6,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,35,5,4,1,3:17 PM,8:17,Carroll Traveling Turnover (P1.T2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,37,2,42,1,3:18 PM,8:01,Millsap BLOCK (1 BLK),,MISS Randolph 2' Driving Layup,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,38,4,0,1,3:18 PM,7:59,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,39,2,1,1,3:18 PM,7:51,MISS Teague 17' Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,40,4,0,1,3:18 PM,7:50,,,Allen REBOUND (Off:0 Def:1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,41,2,1,1,3:18 PM,7:40,,,MISS Miller  3PT Jump Shot,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,42,4,0,1,3:18 PM,7:39,Millsap REBOUND (Off:0 Def:2),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,43,5,2,1,3:18 PM,7:26,Millsap Lost Ball Turnover (P2.T3),,Randolph STEAL (1 STL),,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,44,2,41,1,3:19 PM,7:22,Millsap BLOCK (2 BLK),,MISS Allen  Running Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,45,4,0,1,3:19 PM,7:22,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,46,6,2,1,3:19 PM,7:20,Korver S.FOUL (P2.T2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,47,3,11,1,3:19 PM,7:20,,,Randolph Free Throw 1 of 2 (1 PTS),13 - 6,-7,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,49,3,12,1,3:19 PM,7:20,,,Randolph Free Throw 2 of 2 (2 PTS),14 - 6,-8,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,51,2,1,1,3:20 PM,7:05,MISS Korver 25' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,52,4,0,1,3:20 PM,7:02,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,53,6,1,1,3:20 PM,6:55,,,Gasol P.FOUL (P1.T3),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,54,1,42,1,3:21 PM,6:47,Millsap 2' Driving Layup (3 PTS) (Horford 1 AST),,,14 - 8,-6,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,55,2,1,1,3:21 PM,6:32,,,MISS Allen 20' Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,56,4,0,1,3:21 PM,6:31,Millsap REBOUND (Off:0 Def:3),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,57,1,1,1,3:21 PM,6:21,Millsap 25' 3PT Jump Shot (6 PTS) (Teague 1 AST),,,14 - 11,-3,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,58,6,26,1,3:22 PM,5:59,,,Randolph Offensive Charge Foul (P1.T4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,59,5,5,1,3:22 PM,5:59,,,Randolph Foul Turnover (P1.T3),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,60,9,1,1,3:22 PM,5:59,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,62,8,0,1,3:24 PM,5:59,,,SUB: Pondexter FOR Miller,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,63,8,0,1,3:24 PM,5:59,SUB: Cunningham FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,64,2,73,1,3:24 PM,5:47,MISS Carroll 1' Driving Reverse Layup,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,65,4,0,1,3:24 PM,5:46,,,Randolph REBOUND (Off:0 Def:3),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,66,1,1,1,3:25 PM,5:25,,,Bayless 25' 3PT Jump Shot (9 PTS) (Pondexter 1 AST),17 - 11,-6,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,67,7,1,1,3:25 PM,5:23,,,Grizzlies Violation: Delay of game Violation,,,3,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300079,68,2,1,1,3:25 PM,5:03,MISS Cunningham 25' 3PT Jump Shot,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,69,4,0,1,3:25 PM,5:02,,,Bayless REBOUND (Off:0 Def:1),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,70,1,42,1,3:25 PM,4:54,,,Randolph  Driving Layup (4 PTS) (Bayless 1 AST),19 - 11,-8,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,71,2,1,1,3:26 PM,4:37,MISS Horford 20' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,72,4,0,1,3:26 PM,4:36,,,Randolph REBOUND (Off:0 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,73,1,58,1,3:26 PM,4:25,,,Gasol 6' Turnaround Hook Shot (7 PTS) (Randolph 1 AST),21 - 11,-10,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,74,6,2,1,3:26 PM,4:05,,,Gasol S.FOUL (P2.PN),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,75,3,11,1,3:27 PM,4:05,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,76,4,1,1,3:27 PM,4:05,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,77,8,0,1,3:27 PM,4:05,,,SUB: Franklin FOR Gasol,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,78,8,0,1,3:27 PM,4:05,,,SUB: Leuer FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,79,8,0,1,3:27 PM,4:05,SUB: Brand FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,80,3,12,1,3:27 PM,4:05,Millsap Free Throw 2 of 2 (7 PTS),,,21 - 12,-9,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,82,9,1,1,3:28 PM,3:56,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,84,6,1,1,3:30 PM,3:50,Carroll P.FOUL (P1.T3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,85,8,0,1,3:30 PM,3:50,,,SUB: Calathes FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,86,6,2,1,3:31 PM,3:44,Carroll S.FOUL (P2.T4),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,87,3,11,1,3:31 PM,3:44,,,MISS Pondexter Free Throw 1 of 2,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,88,4,1,1,3:31 PM,3:44,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,89,8,0,1,3:31 PM,3:44,SUB: Korver FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,90,3,12,1,3:31 PM,3:44,,,MISS Pondexter Free Throw 2 of 2,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,92,4,0,1,3:31 PM,3:43,Brand REBOUND (Off:0 Def:1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,93,1,1,1,3:31 PM,3:30,Millsap 18' Jump Shot (9 PTS) (Korver 2 AST),,,21 - 14,-7,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,94,2,1,1,3:32 PM,3:19,,,MISS Leuer 19' Jump Shot,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,95,4,0,1,3:32 PM,3:17,Cunningham REBOUND (Off:0 Def:1),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,96,2,1,1,3:32 PM,3:04,MISS Millsap 24' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,97,4,0,1,3:32 PM,3:03,,,Franklin REBOUND (Off:0 Def:1),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,98,8,0,1,3:32 PM,2:57,SUB: Schroder FOR Cunningham,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,99,10,0,1,3:32 PM,2:57,Jump Ball Teague vs. Calathes: Tip to Franklin,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,100,2,1,1,3:33 PM,2:46,,,MISS Randolph 18' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,101,4,0,1,3:33 PM,2:44,Millsap REBOUND (Off:0 Def:4),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,102,5,40,1,3:33 PM,2:36,Teague Out of Bounds Lost Ball Turnover (P1.T4),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,103,8,0,1,3:33 PM,2:36,SUB: Cunningham FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,104,5,1,1,3:33 PM,2:17,Korver STEAL (1 STL),,Pondexter Bad Pass Turnover (P1.T4),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,105,2,41,1,3:34 PM,2:12,MISS Cunningham 2' Running Layup,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,106,4,0,1,3:34 PM,2:11,,,Leuer REBOUND (Off:0 Def:1),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,107,2,77,1,3:34 PM,1:56,Brand BLOCK (1 BLK),,MISS Pondexter 4' Driving Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,108,4,0,1,3:34 PM,1:54,,,Leuer REBOUND (Off:1 Def:1),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,109,1,5,1,3:34 PM,1:48,,,Leuer 2' Layup (2 PTS) (Calathes 1 AST),23 - 14,-9,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,110,6,2,1,3:34 PM,1:48,Cunningham S.FOUL (P1.PN),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,111,8,0,1,3:34 PM,1:48,SUB: Antic FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,112,8,0,1,3:34 PM,1:48,SUB: Martin FOR Cunningham,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,113,8,0,1,3:35 PM,1:48,,,SUB: Davis FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,116,3,10,1,3:35 PM,1:48,,,Leuer Free Throw 1 of 1 (3 PTS),24 - 14,-10,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,119,5,1,1,3:36 PM,1:32,Schroder Bad Pass Turnover (P1.T5),,Pondexter STEAL (1 STL),,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,120,6,26,1,3:36 PM,1:28,,,Davis Offensive Charge Foul (P1.PN),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,121,5,5,1,3:36 PM,1:28,,,Davis Foul Turnover (P1.T5),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,123,2,77,1,3:36 PM,1:10,MISS Martin 3' Driving Jump Shot,,Davis BLOCK (1 BLK),,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,124,4,0,1,3:36 PM,1:07,Brand REBOUND (Off:1 Def:1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,125,2,1,1,3:36 PM,1:04,MISS Martin 20' Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,126,4,0,1,3:36 PM,1:03,,,Franklin REBOUND (Off:0 Def:2),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,127,2,77,1,3:36 PM,0:57,,,MISS Franklin 4' Driving Jump Shot,,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,128,4,0,1,3:36 PM,0:56,Schroder REBOUND (Off:0 Def:1),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,129,2,44,1,3:37 PM,0:49,MISS Antic 1' Reverse Layup,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,130,4,0,1,3:37 PM,0:47,,,Franklin REBOUND (Off:0 Def:3),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,131,1,1,1,3:37 PM,0:34,,,Leuer 17' Jump Shot (5 PTS) (Calathes 2 AST),26 - 14,-12,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,133,2,42,1,3:37 PM,0:24,MISS Schroder 2' Driving Layup,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,134,4,0,1,3:37 PM,0:21,,,Leuer REBOUND (Off:1 Def:2),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,135,2,1,1,3:37 PM,0:02,,,MISS Calathes 18' Jump Shot,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,136,4,0,1,3:37 PM,0:01,,,Davis REBOUND (Off:1 Def:0),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,137,1,87,1,3:37 PM,0:01,,,Davis  Putback Dunk (2 PTS),28 - 14,-14,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,138,2,1,1,3:38 PM,0:00,MISS Schroder 39' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,139,4,0,1,3:38 PM,0:00,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,141,13,0,1,3:38 PM,0:00,,End of 1st Period (3:38 PM EST),,28 - 14,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,143,12,0,2,3:40 PM,12:00,,Start of 2nd Period (3:40 PM EST),,28 - 14,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,144,2,1,2,3:41 PM,11:36,,,MISS Pondexter 25' 3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,145,4,0,2,3:41 PM,11:35,Antic REBOUND (Off:0 Def:1),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,146,1,86,2,3:41 PM,11:20,Brand 11' Turnaround Fadeaway (2 PTS),,,28 - 16,-12,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,147,5,4,2,3:41 PM,11:09,,,Davis Traveling Turnover (P2.T6),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,148,8,0,2,3:41 PM,11:09,,,SUB: Allen FOR Franklin,,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,149,2,1,2,3:42 PM,10:52,MISS Martin 20' Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,150,4,0,2,3:42 PM,10:51,,,Leuer REBOUND (Off:1 Def:3),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,151,5,4,2,3:42 PM,10:40,,,Pondexter Traveling Turnover (P2.T7),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,152,2,1,2,3:42 PM,10:30,MISS Korver 19' Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,153,4,0,2,3:42 PM,10:29,,,Davis REBOUND (Off:1 Def:1),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,154,2,77,2,3:42 PM,10:20,,,MISS Calathes 5' Driving Jump Shot,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,155,4,0,2,3:42 PM,10:18,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,156,8,0,2,3:43 PM,10:18,,,SUB: Gasol FOR Leuer,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,157,8,0,2,3:43 PM,10:18,,,SUB: Miller FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,158,2,1,2,3:43 PM,10:04,MISS Antic 25' 3PT Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,159,4,0,2,3:43 PM,10:02,,,Gasol REBOUND (Off:0 Def:1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,160,2,1,2,3:43 PM,9:56,,,MISS Allen 22' Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,161,4,0,2,3:43 PM,9:55,Martin REBOUND (Off:0 Def:1),,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,162,2,1,2,3:43 PM,9:39,MISS Brand 19' Jump Shot,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,163,4,0,2,3:43 PM,9:38,,,Allen REBOUND (Off:0 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,164,1,42,2,3:44 PM,9:22,,,Calathes 1' Driving Layup (2 PTS) (Gasol 1 AST),30 - 16,-14,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,165,5,12,2,3:44 PM,9:20,Korver Inbound Turnover (P1.T6),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,166,2,58,2,3:44 PM,9:13,,,MISS Davis 14' Turnaround Hook Shot,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,167,4,0,2,3:44 PM,9:12,Brand REBOUND (Off:1 Def:2),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,168,5,1,2,3:44 PM,8:55,Schroder Bad Pass Turnover (P2.T7),,Gasol STEAL (1 STL),,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,169,1,1,2,3:45 PM,8:47,,,Miller 25' 3PT Jump Shot (3 PTS) (Calathes 3 AST),33 - 16,-17,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,170,9,1,2,3:45 PM,8:45,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,172,8,0,2,3:47 PM,8:45,SUB: Horford FOR Brand,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,173,8,0,2,3:47 PM,8:45,,,SUB: Bayless FOR Calathes,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,174,2,1,2,3:47 PM,8:32,MISS Martin 25' 3PT Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,175,4,0,2,3:47 PM,8:31,,,Allen REBOUND (Off:0 Def:3),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,176,6,1,2,3:48 PM,8:15,Martin P.FOUL (P1.T1),,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,177,2,1,2,3:48 PM,8:07,,,MISS Gasol 13' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,178,4,0,2,3:48 PM,8:06,Antic REBOUND (Off:0 Def:2),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,179,6,17,2,3:48 PM,7:54,,,Grizzlies T.Foul (Def. 3 Sec Allen ),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,180,3,16,2,3:49 PM,7:54,Korver Free Throw Technical (1 PTS),,,33 - 17,-16,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,182,8,0,2,3:49 PM,7:54,,,SUB: Randolph FOR Davis,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,183,1,1,2,3:49 PM,7:43,Schroder 18' Jump Shot (2 PTS) (Korver 3 AST),,,33 - 19,-14,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,185,5,1,2,3:49 PM,7:27,,,Bayless Bad Pass Turnover (P1.T8),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,186,6,2,2,3:50 PM,7:16,,,Randolph S.FOUL (P2.T1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,187,3,11,2,3:50 PM,7:16,Horford Free Throw 1 of 2 (1 PTS),,,33 - 20,-13,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,189,3,12,2,3:50 PM,7:16,Horford Free Throw 2 of 2 (2 PTS),,,33 - 21,-12,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,192,2,1,2,3:51 PM,7:02,,,MISS Miller 16' Jump Shot,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,194,4,0,2,3:51 PM,7:01,,,Gasol REBOUND (Off:1 Def:1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,193,2,87,2,3:51 PM,7:01,,,MISS Gasol 1' Putback Dunk,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,195,4,0,2,3:51 PM,6:59,Schroder REBOUND (Off:0 Def:2),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,196,1,41,2,3:51 PM,6:55,Antic 2' Running Layup (2 PTS) (Schroder 1 AST),,,33 - 23,-10,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,198,9,1,2,3:51 PM,6:48,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,199,8,0,2,3:53 PM,6:48,SUB: Teague FOR Schroder,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,201,5,1,2,3:54 PM,6:38,,,Randolph Bad Pass Turnover (P2.T9),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,202,1,1,2,3:54 PM,6:17,Korver 24' 3PT Jump Shot (4 PTS) (Horford 2 AST),,,33 - 26,-7,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,204,1,1,2,3:55 PM,5:55,,,Bayless  3PT Jump Shot (12 PTS) (Gasol 2 AST),36 - 26,-10,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,205,5,4,2,3:55 PM,5:46,Horford Traveling Turnover (P1.T8),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,206,2,44,2,3:55 PM,5:29,,,MISS Allen 1' Reverse Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,207,4,0,2,3:55 PM,5:27,Korver REBOUND (Off:0 Def:1),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,208,2,1,2,3:55 PM,5:22,MISS Korver 26' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,209,4,0,2,3:55 PM,5:20,,,Gasol REBOUND (Off:1 Def:2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,210,6,1,2,3:55 PM,5:19,Antic P.FOUL (P1.T2),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,211,8,0,2,3:56 PM,5:19,SUB: Millsap FOR Antic,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,212,8,0,2,3:56 PM,5:19,SUB: Carroll FOR Martin,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,215,2,1,2,3:56 PM,5:00,,,MISS Allen 24' 3PT Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,216,4,0,2,3:56 PM,4:59,Millsap REBOUND (Off:0 Def:5),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,217,5,1,2,3:56 PM,4:52,Korver Bad Pass Turnover (P2.T9),,Allen STEAL (2 STL),,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,218,1,50,2,3:56 PM,4:48,,,Allen 1' Running Dunk (3 PTS) (Miller 2 AST),38 - 26,-12,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,219,1,1,2,3:57 PM,4:31,Horford 19' Jump Shot (4 PTS) (Teague 2 AST),,,38 - 28,-10,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,220,1,42,2,3:57 PM,4:18,,,Allen 2' Driving Layup (5 PTS),40 - 28,-12,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,221,1,1,2,3:57 PM,4:10,Teague 18' Jump Shot (4 PTS),,,40 - 30,-10,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,222,2,1,2,3:58 PM,3:49,,,MISS Gasol 20' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,223,4,0,2,3:58 PM,3:48,Carroll REBOUND (Off:0 Def:1),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,224,1,1,2,3:58 PM,3:39,Millsap 20' Jump Shot (11 PTS) (Korver 4 AST),,,40 - 32,-8,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,225,6,1,2,3:58 PM,3:30,Millsap P.FOUL (P1.T3),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,226,8,0,2,3:58 PM,3:30,SUB: Schroder FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,227,2,1,2,3:58 PM,3:24,,,MISS Miller 21' Jump Shot,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,228,4,0,2,3:59 PM,3:21,,,Allen REBOUND (Off:1 Def:3),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,229,1,5,2,3:59 PM,3:21,,,Allen 3' Layup (7 PTS),42 - 32,-10,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,230,6,2,2,3:59 PM,3:21,Horford S.FOUL (P1.T4),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,231,3,10,2,3:59 PM,3:21,,,MISS Allen Free Throw 1 of 1,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,233,4,0,2,3:59 PM,3:20,Carroll REBOUND (Off:0 Def:2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,234,1,41,2,3:59 PM,3:15,Teague 3' Running Layup (6 PTS),,,42 - 34,-8,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,235,1,1,2,4:00 PM,2:52,,,Bayless 24' 3PT Jump Shot (15 PTS) (Gasol 3 AST),45 - 34,-11,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,236,2,1,2,4:00 PM,2:39,MISS Teague 25' 3PT Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,237,4,0,2,4:00 PM,2:38,,,Miller REBOUND (Off:0 Def:2),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,238,6,1,2,4:00 PM,2:27,Schroder P.FOUL (P1.PN),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,239,9,4,2,4:00 PM,2:27,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,241,8,0,2,4:02 PM,2:27,,,SUB: Davis FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,242,8,0,2,4:02 PM,2:27,,,SUB: Pondexter FOR Gasol,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,243,8,0,2,4:02 PM,2:27,,,SUB: Leuer FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,244,8,0,2,4:02 PM,2:27,,,SUB: Calathes FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,245,3,11,2,4:03 PM,2:27,,,Miller Free Throw 1 of 2 (4 PTS),46 - 34,-12,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,247,3,12,2,4:03 PM,2:27,,,Miller Free Throw 2 of 2 (5 PTS),47 - 34,-13,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,249,6,1,2,4:03 PM,2:14,,,Leuer P.FOUL (P1.T2),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,251,2,1,2,4:04 PM,2:04,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,252,4,0,2,4:04 PM,2:03,,,Davis REBOUND (Off:1 Def:2),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,254,1,5,2,4:04 PM,1:45,,,Davis  Layup (4 PTS) (Leuer 1 AST),49 - 34,-15,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,256,1,42,2,4:04 PM,1:29,Schroder 1' Driving Layup (4 PTS) (Millsap 2 AST),,,49 - 36,-13,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,258,1,1,2,4:04 PM,1:13,,,Leuer 20' Jump Shot (7 PTS) (Miller 3 AST),51 - 36,-15,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,259,6,2,2,4:05 PM,1:07,,,Leuer S.FOUL (P2.T3),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,260,3,11,2,4:05 PM,1:07,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,261,4,1,2,4:05 PM,1:07,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,262,8,0,2,4:05 PM,1:07,,,SUB: Bayless FOR Miller,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,263,3,12,2,4:05 PM,1:07,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,265,4,0,2,4:05 PM,1:06,,,Davis REBOUND (Off:1 Def:3),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,266,2,1,2,4:05 PM,0:50,,,MISS Leuer 20' Jump Shot,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,267,4,0,2,4:05 PM,0:49,Millsap REBOUND (Off:0 Def:6),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,268,1,41,2,4:06 PM,0:43,Millsap 3' Running Layup (13 PTS),,,51 - 38,-13,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,269,2,47,2,4:06 PM,0:28,,,MISS Davis 11' Turnaround Jump Shot,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,270,4,0,2,4:06 PM,0:25,Schroder REBOUND (Off:0 Def:3),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,271,6,1,2,4:06 PM,0:05,,,Leuer P.FOUL (P3.PN),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,272,3,11,2,4:06 PM,0:05,Teague Free Throw 1 of 2 (7 PTS),,,51 - 39,-12,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,274,8,0,2,4:07 PM,0:05,SUB: Martin FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,275,3,12,2,4:07 PM,0:05,Teague Free Throw 2 of 2 (8 PTS),,,51 - 40,-11,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,277,1,1,2,4:07 PM,0:00,,,Bayless 23' Jump Shot (17 PTS),53 - 40,-13,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,278,18,0,2,4:07 PM,0:00,,Support Ruling,,,,0,277,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300079,279,13,0,2,4:07 PM,0:00,,End of 2nd Period (4:07 PM EST),,53 - 40,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,281,12,0,3,4:23 PM,12:00,,Start of 3rd Period (4:23 PM EST),,53 - 40,-13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,282,5,2,3,4:24 PM,11:40,Carroll STEAL (1 STL),,Miller Lost Ball Turnover (P2.T10),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,283,1,41,3,4:24 PM,11:35,Teague 2' Running Layup (10 PTS) (Millsap 3 AST),,,53 - 42,-11,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,284,5,2,3,4:24 PM,11:20,Millsap STEAL (2 STL),,Randolph Lost Ball Turnover (P3.T11),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,285,2,42,3,4:24 PM,11:11,MISS Carroll 1' Driving Layup,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,286,4,0,3,4:24 PM,11:10,Carroll REBOUND (Off:1 Def:2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,287,2,72,3,4:24 PM,11:09,MISS Carroll 2' Putback Layup,,Gasol BLOCK (1 BLK),,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,288,4,0,3,4:25 PM,11:09,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,289,6,3,3,4:25 PM,11:09,Carroll L.B.FOUL (P3.T1),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,290,2,42,3,4:25 PM,10:54,,,MISS Miller 1' Driving Layup,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,291,4,0,3,4:25 PM,10:53,Carroll REBOUND (Off:1 Def:3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,292,6,1,3,4:25 PM,10:53,,,Miller P.FOUL (P2.T1),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,293,1,1,3,4:25 PM,10:36,Millsap 15' Jump Shot (15 PTS),,,53 - 44,-9,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,294,6,4,3,4:26 PM,10:27,,,Gasol OFF.Foul (P3),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,295,5,5,3,4:26 PM,10:27,,,Gasol Foul Turnover (P2.T12),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,296,5,4,3,4:26 PM,10:16,Korver Traveling Turnover (P3.T10),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,297,1,1,3,4:26 PM,10:03,,,Gasol 19' Jump Shot (9 PTS) (Bayless 2 AST),55 - 44,-11,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,298,2,1,3,4:27 PM,9:52,MISS Horford 20' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,299,4,0,3,4:27 PM,9:51,,,Miller REBOUND (Off:0 Def:3),,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,300,5,1,3,4:27 PM,9:44,Korver STEAL (2 STL),,Bayless Bad Pass Turnover (P2.T13),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,301,2,46,3,4:27 PM,9:39,MISS Carroll 5' Running Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,303,4,0,3,4:27 PM,9:38,Horford REBOUND (Off:1 Def:1),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,302,2,4,3,4:27 PM,9:38,MISS Horford 2' Tip Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,304,4,0,3,4:27 PM,9:37,,,Allen REBOUND (Off:1 Def:4),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,305,2,1,3,4:27 PM,9:17,,,MISS Randolph 20' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,306,4,0,3,4:27 PM,9:16,Horford REBOUND (Off:1 Def:2),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,307,1,5,3,4:27 PM,9:09,Millsap  Layup (17 PTS) (Horford 3 AST),,,55 - 46,-9,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,309,9,1,3,4:28 PM,9:09,,,Grizzlies Timeout: Regular (Reg.3 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,311,5,40,3,4:30 PM,8:55,,,Bayless Out of Bounds Lost Ball Turnover (P3.T14),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,312,2,42,3,4:30 PM,8:39,MISS Millsap 1' Driving Layup,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,313,4,0,3,4:30 PM,8:38,Carroll REBOUND (Off:2 Def:3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,314,1,42,3,4:30 PM,8:32,Teague 1' Driving Layup (12 PTS),,,55 - 48,-7,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,315,6,2,3,4:31 PM,8:13,Korver S.FOUL (P3.T2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,316,3,11,3,4:31 PM,8:13,,,MISS Allen Free Throw 1 of 2,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,317,4,1,3,4:31 PM,8:13,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,318,3,12,3,4:31 PM,8:13,,,Allen Free Throw 2 of 2 (8 PTS),56 - 48,-8,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,320,1,1,3,4:32 PM,7:59,Carroll 25' 3PT Jump Shot (6 PTS) (Teague 3 AST),,,56 - 51,-5,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,321,2,1,3,4:32 PM,7:39,,,MISS Gasol 13' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,322,4,0,3,4:32 PM,7:39,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,323,6,3,3,4:32 PM,7:39,Korver L.B.FOUL (P4.T3),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,324,2,1,3,4:33 PM,7:28,,,MISS Allen 4' Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,325,4,0,3,4:33 PM,7:27,,,Allen REBOUND (Off:2 Def:4),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,326,2,72,3,4:33 PM,7:26,Millsap BLOCK (3 BLK),,MISS Allen 1' Putback Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,327,4,0,3,4:33 PM,7:24,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,328,5,1,3,4:33 PM,7:20,Horford Bad Pass Turnover (P2.T11),,Randolph STEAL (2 STL),,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,329,5,1,3,4:33 PM,7:12,Horford STEAL (1 STL),,Gasol Bad Pass Turnover (P3.T15),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,330,1,1,3,4:33 PM,7:06,Korver 25' 3PT Jump Shot (7 PTS) (Horford 4 AST),,,56 - 54,-2,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,331,9,1,3,4:33 PM,7:05,,,Grizzlies Timeout: Regular (Reg.4 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,333,6,2,3,4:36 PM,6:51,Korver S.FOUL (P5.T4),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,334,3,11,3,4:36 PM,6:51,,,MISS Gasol Free Throw 1 of 2,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,335,4,1,3,4:36 PM,6:51,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,336,8,0,3,4:36 PM,6:51,SUB: Cunningham FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,337,3,12,3,4:36 PM,6:51,,,Gasol Free Throw 2 of 2 (10 PTS),57 - 54,-3,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,339,2,78,3,4:37 PM,6:42,MISS Teague 5' Floating Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,340,4,0,3,4:37 PM,6:41,,,Randolph REBOUND (Off:0 Def:5),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,341,2,1,3,4:37 PM,6:29,,,MISS Gasol 19' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,342,4,0,3,4:37 PM,6:28,Teague REBOUND (Off:0 Def:1),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,343,1,1,3,4:37 PM,6:20,Carroll  3PT Jump Shot (9 PTS) (Cunningham 1 AST),,,57 - 57,TIE,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,344,5,2,3,4:37 PM,5:59,Cunningham STEAL (1 STL),,Allen Lost Ball Turnover (P1.T16),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,345,6,1,3,4:37 PM,5:59,,,Allen P.FOUL (P2.T2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,346,8,0,3,4:38 PM,5:59,,,SUB: Calathes FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,347,8,0,3,4:38 PM,5:59,,,SUB: Leuer FOR Gasol,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,348,8,0,3,4:38 PM,5:59,,,SUB: Davis FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,350,5,4,3,4:38 PM,5:49,Carroll Traveling Turnover (P2.T12),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,352,1,1,3,4:38 PM,5:40,,,Bayless 25' 3PT Jump Shot (20 PTS) (Calathes 4 AST),60 - 57,-3,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,353,6,29,3,4:39 PM,5:32,,,Leuer Shooting Block Foul (P4.T3),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,354,3,11,3,4:39 PM,5:32,MISS Teague Free Throw 1 of 2,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,355,4,1,3,4:39 PM,5:32,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,356,8,0,3,4:39 PM,5:32,SUB: Martin FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,357,3,12,3,4:39 PM,5:32,Teague Free Throw 2 of 2 (13 PTS),,,60 - 58,-2,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,359,2,1,3,4:39 PM,5:18,,,MISS Leuer 18' Jump Shot,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,360,4,0,3,4:39 PM,5:17,Cunningham REBOUND (Off:0 Def:2),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,361,1,73,3,4:39 PM,5:08,Millsap 1' Driving Reverse Layup (19 PTS) (Teague 4 AST),,,60 - 60,TIE,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,362,1,5,3,4:40 PM,4:50,,,Davis 2' Layup (6 PTS) (Bayless 3 AST),62 - 60,-2,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,363,6,1,3,4:40 PM,4:47,,,Davis P.FOUL (P2.T4),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,364,8,0,3,4:40 PM,4:47,,,SUB: Pondexter FOR Miller,,,5,2034,Mike Miller,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,365,8,0,3,4:40 PM,4:47,SUB: Brand FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,366,6,2,3,4:41 PM,4:40,,,Davis S.FOUL (P3.PN),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,367,3,11,3,4:41 PM,4:40,Cunningham Free Throw 1 of 2 (1 PTS),,,62 - 61,-1,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,369,3,12,3,4:41 PM,4:40,Cunningham Free Throw 2 of 2 (2 PTS),,,62 - 62,TIE,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,371,1,47,3,4:41 PM,4:23,,,Davis 9' Turnaround Jump Shot (8 PTS) (Calathes 5 AST),64 - 62,-2,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,372,2,78,3,4:42 PM,3:59,MISS Teague 10' Floating Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,373,4,0,3,4:42 PM,3:56,,,Leuer REBOUND (Off:1 Def:4),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,374,1,1,3,4:42 PM,3:45,,,Bayless 19' Jump Shot (22 PTS) (Pondexter 2 AST),66 - 62,-4,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,375,2,5,3,4:42 PM,3:31,MISS Martin 1' Layup,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,376,4,0,3,4:42 PM,3:29,,,Pondexter REBOUND (Off:0 Def:1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,377,2,47,3,4:42 PM,3:18,,,MISS Bayless 19' Turnaround Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,378,4,0,3,4:42 PM,3:16,Millsap REBOUND (Off:0 Def:7),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,379,6,2,3,4:43 PM,3:07,,,Bayless S.FOUL (P1.PN),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,380,3,11,3,4:43 PM,3:07,Teague Free Throw 1 of 2 (14 PTS),,,66 - 63,-3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,382,8,0,3,4:43 PM,3:07,,,SUB: Franklin FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,383,8,0,3,4:43 PM,3:07,SUB: Schroder FOR Cunningham,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,384,3,12,3,4:43 PM,3:07,Teague Free Throw 2 of 2 (15 PTS),,,66 - 64,-2,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,386,2,1,3,4:44 PM,2:50,,,MISS Calathes 15' Jump Shot,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,387,4,0,3,4:44 PM,2:49,Brand REBOUND (Off:1 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,388,5,2,3,4:44 PM,2:34,Martin Lost Ball Turnover (P1.T13),,Franklin STEAL (1 STL),,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,389,2,5,3,4:44 PM,2:27,,,MISS Calathes 2' Layup,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,390,4,0,3,4:44 PM,2:26,Millsap REBOUND (Off:0 Def:8),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,391,2,1,3,4:44 PM,2:20,MISS Martin 26' 3PT Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,392,4,0,3,4:44 PM,2:19,Brand REBOUND (Off:2 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,393,9,1,3,4:44 PM,2:16,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,396,8,0,3,4:46 PM,2:16,SUB: Cunningham FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,397,8,0,3,4:46 PM,2:16,SUB: Antic FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,398,6,2,3,4:47 PM,2:03,,,Franklin S.FOUL (P1.PN),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,399,3,11,3,4:47 PM,2:03,Cunningham Free Throw 1 of 2 (3 PTS),,,66 - 65,-1,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,401,3,12,3,4:47 PM,2:03,Cunningham Free Throw 2 of 2 (4 PTS),,,66 - 66,TIE,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,403,6,1,3,4:47 PM,1:56,Schroder P.FOUL (P2.PN),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,404,3,11,3,4:47 PM,1:56,,,Calathes Free Throw 1 of 2 (3 PTS),67 - 66,-1,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,406,3,12,3,4:48 PM,1:56,,,Calathes Free Throw 2 of 2 (4 PTS),68 - 66,-2,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,408,2,1,3,4:48 PM,1:44,MISS Antic 18' Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,409,4,0,3,4:48 PM,1:42,Brand REBOUND (Off:3 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,410,2,63,3,4:48 PM,1:36,MISS Brand 9' Fadeaway Jumper,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,411,4,0,3,4:48 PM,1:34,,,Leuer REBOUND (Off:1 Def:5),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,412,5,4,3,4:48 PM,1:29,,,Franklin Traveling Turnover (P1.T17),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,413,5,4,3,4:49 PM,1:20,Antic Traveling Turnover (P1.T14),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,414,5,1,3,4:49 PM,1:07,Antic STEAL (1 STL),,Leuer Bad Pass Turnover (P1.T18),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,415,2,41,3,4:49 PM,1:01,MISS Cunningham 1' Running Layup,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,417,4,0,3,4:49 PM,1:00,Martin REBOUND (Off:1 Def:1),,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,416,1,4,3,4:49 PM,1:00,Martin  Tip Shot (2 PTS),,,68 - 68,TIE,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,418,6,2,3,4:50 PM,0:46,Brand S.FOUL (P1.PN),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,419,3,11,3,4:50 PM,0:46,,,Leuer Free Throw 1 of 2 (8 PTS),69 - 68,-1,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,421,3,12,3,4:50 PM,0:46,,,Leuer Free Throw 2 of 2 (9 PTS),70 - 68,-2,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,423,2,1,3,4:50 PM,0:31,MISS Schroder 19' Jump Shot,,Calathes BLOCK (1 BLK),,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,424,4,0,3,4:51 PM,0:29,,,Davis REBOUND (Off:1 Def:4),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,425,5,40,3,4:51 PM,0:20,,,Calathes Out of Bounds Lost Ball Turnover (P1.T19),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,427,13,0,3,4:51 PM,0:00,,End of 3rd Period (4:51 PM EST),,70 - 68,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,429,12,0,4,4:54 PM,12:00,,Start of 4th Period (4:54 PM EST),,70 - 68,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,430,2,1,4,4:54 PM,11:46,MISS Korver 20' Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,431,4,0,4,4:54 PM,11:45,,,Calathes REBOUND (Off:0 Def:1),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,432,1,77,4,4:54 PM,11:34,,,Davis 5' Driving Jump Shot (10 PTS) (Calathes 6 AST),72 - 68,-4,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,433,5,1,4,4:55 PM,11:21,Brand Bad Pass Turnover (P1.T15),,Pondexter STEAL (2 STL),,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,434,5,8,4,4:55 PM,11:06,,,Davis 3 Second Violation Turnover (P3.T20),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,435,2,1,4,4:55 PM,10:42,MISS Korver 25' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,436,4,0,4,4:55 PM,10:41,,,Davis REBOUND (Off:1 Def:5),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,437,5,4,4,4:56 PM,10:31,,,Calathes Traveling Turnover (P2.T21),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+0011300079,440,2,1,4,4:57 PM,10:04,MISS Brand 17' Jump Shot,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,441,4,0,4,4:57 PM,10:04,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,442,6,3,4,4:57 PM,10:04,,,Leuer L.B.FOUL (P5.T1),,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,443,8,0,4,4:57 PM,10:04,,,SUB: Reed FOR Leuer,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,444,1,77,4,4:58 PM,9:52,Antic 6' Driving Jump Shot (4 PTS) (Korver 5 AST),,,72 - 70,-2,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,445,1,1,4,4:58 PM,9:35,,,Franklin  3PT Jump Shot (3 PTS) (Pondexter 3 AST),75 - 70,-5,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,446,2,1,4,4:58 PM,9:26,MISS Martin 16' Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,447,4,0,4,4:58 PM,9:25,,,Franklin REBOUND (Off:0 Def:4),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,448,6,1,4,4:58 PM,9:16,Antic P.FOUL (P2.T1),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,449,8,0,4,4:58 PM,9:16,SUB: Horford FOR Brand,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,450,8,0,4,4:58 PM,9:16,SUB: Carroll FOR Martin,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,451,8,0,4,4:59 PM,9:16,,,SUB: Gaffney FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,452,6,2,4,4:59 PM,9:08,Korver S.FOUL (P6.T2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,453,8,0,4,4:59 PM,9:08,SUB: Teague FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,454,3,13,4,4:59 PM,9:08,,,Franklin Free Throw 1 of 3 (4 PTS),76 - 70,-6,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,456,3,14,4,5:00 PM,9:08,,,MISS Franklin Free Throw 2 of 3,,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,457,4,1,4,5:00 PM,9:08,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,458,3,15,4,5:00 PM,9:08,,,Franklin Free Throw 3 of 3 (5 PTS),77 - 70,-7,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,461,2,1,4,5:00 PM,8:55,MISS Antic  3PT Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,462,4,0,4,5:00 PM,8:54,,,Reed REBOUND (Off:0 Def:1),,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,463,2,1,4,5:00 PM,8:43,,,MISS Davis 15' Jump Shot,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,464,4,0,4,5:00 PM,8:41,Horford REBOUND (Off:1 Def:4),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,465,5,1,4,5:01 PM,8:31,Teague Bad Pass Turnover (P2.T16),,Calathes STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,466,1,50,4,5:01 PM,8:25,,,Davis  Running Dunk (12 PTS) (Calathes 7 AST),79 - 70,-9,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,467,9,1,4,5:01 PM,8:24,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,470,8,0,4,5:03 PM,8:24,,,SUB: Barrett FOR Calathes,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,5,2857,Andre Barrett,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,471,1,47,4,5:03 PM,8:13,Horford 4' Turnaround Jump Shot (6 PTS) (Teague 5 AST),,,79 - 72,-7,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,472,2,1,4,5:04 PM,7:55,,,MISS Gaffney 5' Jump Shot,,,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,473,4,0,4,5:04 PM,7:54,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,474,6,3,4,5:04 PM,7:54,,,Reed L.B.FOUL (P1.T2),,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,475,1,1,4,5:04 PM,7:45,Schroder 17' Jump Shot (6 PTS) (Horford 5 AST),,,79 - 74,-5,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,476,5,1,4,5:04 PM,7:25,Horford STEAL (2 STL),,Barrett Bad Pass Turnover (P1.T22),,,5,2857,Andre Barrett,1610612763.0,Memphis,Grizzlies,MEM,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,477,5,1,4,5:05 PM,7:17,Teague Bad Pass Turnover (P3.T17),,Franklin STEAL (2 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,478,5,1,4,5:05 PM,6:59,,,Reed Bad Pass Turnover (P1.T23),,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,479,8,0,4,5:05 PM,6:59,SUB: Scott FOR Antic,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,480,1,73,4,5:06 PM,6:43,Horford 1' Driving Reverse Layup (8 PTS),,,79 - 76,-3,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,481,2,5,4,5:06 PM,6:21,Horford BLOCK (1 BLK),,MISS Reed 1' Layup,,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0
+0011300079,482,4,0,4,5:06 PM,6:19,Schroder REBOUND (Off:0 Def:4),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,483,2,1,4,5:06 PM,6:07,MISS Scott 19' Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,484,4,0,4,5:06 PM,6:05,,,Franklin REBOUND (Off:0 Def:5),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,485,1,52,4,5:06 PM,6:00,,,Gaffney  Alley Oop Dunk (2 PTS) (Franklin 1 AST),81 - 76,-5,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,486,6,26,4,5:06 PM,5:56,Teague Offensive Charge Foul (P1.T3),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,487,5,5,4,5:06 PM,5:56,Teague Foul Turnover (P4.T18),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300079,488,9,4,4,5:07 PM,5:56,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,490,8,0,4,5:09 PM,5:56,SUB: Cunningham FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,491,8,0,4,5:09 PM,5:56,SUB: Antic FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,492,8,0,4,5:09 PM,5:56,SUB: Martin FOR Schroder,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,493,8,0,4,5:09 PM,5:56,,,SUB: Calathes FOR Barrett,,,5,2857,Andre Barrett,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,494,1,1,4,5:09 PM,5:43,,,Franklin 26' 3PT Jump Shot (8 PTS) (Calathes 8 AST),84 - 76,-8,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,495,2,1,4,5:09 PM,5:21,MISS Martin 26' 3PT Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,496,4,0,4,5:10 PM,5:21,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,497,8,0,4,5:10 PM,5:21,SUB: Schroder FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,499,5,2,4,5:10 PM,5:06,Scott STEAL (1 STL),,Reed Lost Ball Turnover (P2.T24),,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,500,2,41,4,5:10 PM,5:01,MISS Cunningham 1' Running Layup,,Gaffney BLOCK (1 BLK),,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,501,4,0,4,5:10 PM,5:01,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,502,5,1,4,5:11 PM,4:58,Cunningham Bad Pass Turnover (P1.T19),,Calathes STEAL (2 STL),,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,503,2,7,4,5:11 PM,4:54,,,MISS Gaffney 1' Dunk,,,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,504,4,0,4,5:11 PM,4:52,,,Reed REBOUND (Off:1 Def:1),,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,505,2,72,4,5:11 PM,4:50,,,MISS Reed 1' Putback Layup,,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,506,4,0,4,5:11 PM,4:49,Antic REBOUND (Off:0 Def:3),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,507,6,2,4,5:11 PM,4:36,,,Reed S.FOUL (P2.T3),,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,508,3,11,4,5:11 PM,4:36,Scott Free Throw 1 of 2 (1 PTS),,,84 - 77,-7,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,510,3,12,4,5:12 PM,4:36,Scott Free Throw 2 of 2 (2 PTS),,,84 - 78,-6,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,512,2,42,4,5:12 PM,4:19,,,MISS Davis 1' Driving Layup,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,513,4,0,4,5:12 PM,4:16,Antic REBOUND (Off:0 Def:4),,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,514,2,1,4,5:12 PM,4:05,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,515,4,0,4,5:12 PM,4:02,Cunningham REBOUND (Off:1 Def:2),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,516,6,2,4,5:12 PM,4:01,,,Gaffney S.FOUL (P1.T4),,,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,517,3,11,4,5:13 PM,4:01,Cunningham Free Throw 1 of 2 (5 PTS),,,84 - 79,-5,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,519,3,12,4,5:13 PM,4:01,Cunningham Free Throw 2 of 2 (6 PTS),,,84 - 80,-4,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,521,2,1,4,5:13 PM,3:45,,,MISS Franklin 25' 3PT Jump Shot,,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,522,4,0,4,5:13 PM,3:44,Scott REBOUND (Off:0 Def:1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,523,2,78,4,5:13 PM,3:37,MISS Schroder 9' Floating Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,524,4,0,4,5:13 PM,3:36,,,Davis REBOUND (Off:1 Def:6),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,525,9,1,4,5:13 PM,3:36,,,Grizzlies Timeout: Regular (Reg.5 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,529,1,1,4,5:16 PM,3:18,,,Reed 12' Jump Shot (2 PTS) (Calathes 9 AST),86 - 80,-6,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,532,2,5,4,5:16 PM,3:02,MISS Cunningham 3' Layup,,Davis BLOCK (2 BLK),,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,534,4,0,4,5:17 PM,3:02,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300079,533,10,0,4,5:17 PM,3:02,Jump Ball Cunningham vs. Davis: Tip to Gaffney,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,535,2,5,4,5:17 PM,2:47,,,MISS Calathes 1' Layup,,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,536,4,0,4,5:17 PM,2:45,Scott REBOUND (Off:0 Def:2),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,537,2,1,4,5:17 PM,2:32,MISS Schroder 25' 3PT Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,538,4,0,4,5:18 PM,2:30,,,Franklin REBOUND (Off:0 Def:6),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,540,2,1,4,5:18 PM,2:12,,,MISS Reed 10' Jump Shot,,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,541,4,0,4,5:18 PM,2:11,Schroder REBOUND (Off:0 Def:5),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,542,2,1,4,5:18 PM,2:07,MISS Martin 25' 3PT Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,543,4,0,4,5:18 PM,2:06,,,Gaffney REBOUND (Off:0 Def:1),,,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,544,2,5,4,5:18 PM,2:00,,,MISS Franklin 2' Layup,,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,545,4,0,4,5:18 PM,1:57,,,Calathes REBOUND (Off:1 Def:1),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,546,6,1,4,5:18 PM,1:56,Martin P.FOUL (P2.T4),,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,548,6,29,4,5:19 PM,1:52,Cunningham Shooting Block Foul (P2.PN),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+0011300079,549,3,11,4,5:19 PM,1:52,,,Franklin Free Throw 1 of 2 (9 PTS),87 - 80,-7,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,551,3,12,4,5:19 PM,1:52,,,Franklin Free Throw 2 of 2 (10 PTS),88 - 80,-8,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,553,2,1,4,5:20 PM,1:31,MISS Antic 29' 3PT Jump Shot,,,,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,554,4,0,4,5:20 PM,1:30,,,Calathes REBOUND (Off:1 Def:2),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,555,5,1,4,5:20 PM,1:13,Antic STEAL (2 STL),,Franklin Bad Pass Turnover (P2.T25),,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,556,2,1,4,5:20 PM,1:04,MISS Martin 16' Jump Shot,,,,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,557,4,0,4,5:20 PM,1:03,,,Davis REBOUND (Off:1 Def:7),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,558,2,1,4,5:20 PM,0:56,,,MISS Franklin 26' 3PT Jump Shot,,,5,203479,Jamaal Franklin,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,559,4,0,4,5:20 PM,0:54,Cunningham REBOUND (Off:1 Def:3),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,560,6,2,4,5:20 PM,0:51,,,Davis S.FOUL (P4.PN),,,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300079,561,3,11,4,5:21 PM,0:51,Cunningham Free Throw 1 of 2 (7 PTS),,,88 - 81,-7,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,563,3,12,4,5:21 PM,0:51,Cunningham Free Throw 2 of 2 (8 PTS),,,88 - 82,-6,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300079,565,1,5,4,5:21 PM,0:38,,,Davis 1' Layup (14 PTS) (Calathes 10 AST),90 - 82,-8,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,566,5,1,4,5:21 PM,0:27,Antic Bad Pass Turnover (P2.T20),,Davis STEAL (1 STL),,,4,203544,Pero Antic,1610612737.0,Atlanta,Hawks,ATL,5,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+0011300079,567,5,1,4,5:22 PM,0:06,Martin STEAL (1 STL),,Calathes Bad Pass Turnover (P3.T26),,,5,201979,Nick Calathes,1610612763.0,Memphis,Grizzlies,MEM,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300079,568,2,5,4,5:22 PM,0:00,MISS Martin 2' Layup,,Reed BLOCK (1 BLK),,,4,201858,Cartier Martin,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203186,Willie Reed,1610612763.0,Memphis,Grizzlies,MEM,0
+0011300079,569,4,0,4,5:22 PM,0:00,,,Gaffney REBOUND (Off:0 Def:2),,,5,202070,Tony Gaffney,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+0011300079,570,13,0,4,5:22 PM,0:00,,End of 4th Period (5:22 PM EST),,90 - 82,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

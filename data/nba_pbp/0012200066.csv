@@ -1,0 +1,495 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200066,2,12,0,1,8:11 PM,12:00,,Start of 1st Period (8:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,4,10,0,1,8:11 PM,12:00,Jump Ball Gobert vs. Claxton: Tip to Irving,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1
+0012200066,7,2,1,1,8:11 PM,11:42,,,MISS Durant 18' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,8,4,0,1,8:11 PM,11:40,Towns REBOUND (Off:0 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,9,5,8,1,8:12 PM,11:20,Gobert 3 Second Violation Turnover (P1.T1),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200066,10,1,79,1,8:12 PM,11:01,,,Durant 12' Pullup Jump Shot (2 PTS),2 - 0,-2,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,11,5,1,1,8:12 PM,10:51,Russell Bad Pass Turnover (P1.T2),,Claxton STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,13,1,1,1,8:13 PM,10:47,,,Durant 26' 3PT Jump Shot (5 PTS) (Simmons 1 AST),5 - 0,-5,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,15,6,1,1,8:13 PM,10:30,,,Simmons P.FOUL (P1.T1) (J.Goldenberg),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,17,2,79,1,8:13 PM,10:21,MISS Edwards 25' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,18,4,0,1,8:13 PM,10:19,,,O'Neale REBOUND (Off:0 Def:1),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,19,2,1,1,8:14 PM,10:07,,,MISS O'Neale 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,20,4,0,1,8:14 PM,10:05,McDaniels REBOUND (Off:0 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,21,2,6,1,8:14 PM,9:59,MISS Russell 5' Driving Layup,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,22,4,0,1,8:14 PM,9:55,,,Claxton REBOUND (Off:0 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,23,2,1,1,8:14 PM,9:46,,,MISS O'Neale 24' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,24,4,0,1,8:14 PM,9:43,Towns REBOUND (Off:0 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,25,2,1,1,8:14 PM,9:37,MISS Towns 27' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,26,4,0,1,8:14 PM,9:33,,,Claxton REBOUND (Off:0 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,27,6,2,1,8:14 PM,9:25,Gobert S.FOUL (P1.T1) (N.Buchert),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,29,3,11,1,8:15 PM,9:25,,,MISS Irving Free Throw 1 of 2,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,30,4,1,1,8:15 PM,9:25,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,31,3,12,1,8:15 PM,9:25,,,Irving Free Throw 2 of 2 (1 PTS),6 - 0,-6,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,32,2,79,1,8:15 PM,9:09,MISS Edwards 22' Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,33,4,0,1,8:15 PM,9:06,,,Simmons REBOUND (Off:0 Def:1),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,34,1,1,1,8:15 PM,9:01,,,Irving 25' 3PT Jump Shot (4 PTS) (O'Neale 1 AST),9 - 0,-9,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,36,6,2,1,8:16 PM,8:45,,,Claxton S.FOUL (P1.T2) (P.Fraher),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,38,3,11,1,8:16 PM,8:45,Gobert Free Throw 1 of 2 (1 PTS),,,9 - 1,-8,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,39,3,12,1,8:16 PM,8:45,MISS Gobert Free Throw 2 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,40,4,0,1,8:16 PM,8:43,,,Simmons REBOUND (Off:0 Def:2),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,41,1,76,1,8:17 PM,8:40,,,Irving 1' Running Finger Roll Layup (6 PTS) (Simmons 2 AST),11 - 1,-10,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,43,9,1,1,8:17 PM,8:38,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,44,6,1,1,8:20 PM,8:29,,,Irving P.FOUL (P1.T3) (P.Fraher),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,46,1,79,1,8:20 PM,8:22,Russell 20' Pullup Jump Shot (2 PTS),,,11 - 3,-8,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,47,2,1,1,8:20 PM,8:03,,,MISS O'Neale 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,48,4,0,1,8:21 PM,8:01,Gobert REBOUND (Off:0 Def:1),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,49,1,1,1,8:21 PM,7:51,Towns 26' 3PT Jump Shot (3 PTS) (Gobert 1 AST),,,11 - 6,-5,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,51,1,79,1,8:21 PM,7:32,,,Durant 17' Pullup Jump Shot (7 PTS),13 - 6,-7,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,52,6,2,1,8:21 PM,7:32,McDaniels S.FOUL (P1.T2) (P.Fraher),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,55,3,10,1,8:22 PM,7:32,,,Durant Free Throw 1 of 1 (8 PTS),14 - 6,-8,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,56,2,1,1,8:22 PM,7:08,MISS McDaniels 25' 3PT Jump Shot,,Durant BLOCK (1 BLK),,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0012200066,58,4,0,1,8:22 PM,7:03,,,Claxton REBOUND (Off:0 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,59,5,1,1,8:22 PM,6:58,Gobert STEAL (1 STL),,Simmons Bad Pass Turnover (P1.T1),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,61,6,4,1,8:22 PM,6:58,McDaniels OFF.Foul (P2) (N.Buchert),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,63,5,37,1,8:22 PM,6:58,McDaniels Offensive Foul Turnover (P1.T3),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200066,64,6,4,1,8:23 PM,6:52,,,Claxton OFF.Foul (P2) (P.Fraher),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,66,5,37,1,8:23 PM,6:52,,,Claxton Offensive Foul Turnover (P1.T2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200066,67,6,4,1,8:23 PM,6:37,Towns OFF.Foul (P1) (P.Fraher),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,69,5,37,1,8:23 PM,6:37,Towns Offensive Foul Turnover (P1.T4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200066,70,1,78,1,8:24 PM,6:24,,,O'Neale 8' Floating Jump Shot (2 PTS) (Claxton 1 AST),16 - 6,-10,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,71,6,1,1,8:24 PM,6:16,,,Simmons P.FOUL (P2.T4) (J.Goldenberg),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,73,5,1,1,8:24 PM,6:11,Russell Bad Pass Turnover (P2.T5),,O'Neale STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,75,2,7,1,8:24 PM,6:07,,,MISS Durant 1' Dunk,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,76,4,0,1,8:24 PM,6:05,,,O'Neale REBOUND (Off:1 Def:1),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,77,1,1,1,8:24 PM,6:03,,,Durant 10' Jump Shot (10 PTS) (O'Neale 2 AST),18 - 6,-12,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,79,6,1,1,8:25 PM,5:44,,,Simmons P.FOUL (P3.PN) (N.Buchert),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,81,3,11,1,8:25 PM,5:44,MISS Towns Free Throw 1 of 2,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,82,4,1,1,8:25 PM,5:44,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,83,8,0,1,8:25 PM,5:44,,,SUB: Sharpe FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,84,8,0,1,8:25 PM,5:44,,,SUB: Morris FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,85,8,0,1,8:25 PM,5:44,,,SUB: Mills FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,89,3,12,1,8:26 PM,5:44,Towns Free Throw 2 of 2 (4 PTS),,,18 - 7,-11,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,90,1,99,1,8:26 PM,5:27,,,Sharpe 2' Cutting Finger Roll Layup Shot (2 PTS) (Irving 1 AST),20 - 7,-13,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,92,1,6,1,8:26 PM,5:17,Russell 2' Driving Layup (4 PTS),,,20 - 9,-11,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,93,2,1,1,8:26 PM,5:02,,,MISS Morris 25' 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,94,4,0,1,8:26 PM,5:00,McDaniels REBOUND (Off:0 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,95,1,80,1,8:27 PM,4:54,Russell 15' Step Back Jump Shot (6 PTS),,,20 - 11,-9,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,96,2,1,1,8:27 PM,4:37,,,MISS Irving 27' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,97,4,0,1,8:27 PM,4:35,Gobert REBOUND (Off:0 Def:2),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,98,1,7,1,8:27 PM,4:21,Gobert 1' Dunk (3 PTS) (Russell 1 AST),,,20 - 13,-7,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,100,1,79,1,8:28 PM,3:54,,,Durant 8' Pullup Jump Shot (12 PTS),22 - 13,-9,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,101,2,79,1,8:28 PM,3:41,MISS Russell 26' 3PT Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,102,4,0,1,8:28 PM,3:41,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,103,6,3,1,8:28 PM,3:41,Gobert L.B.FOUL (P2.T3) (N.Buchert),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,105,9,1,1,8:28 PM,3:41,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,106,8,0,1,8:30 PM,3:41,SUB: Nowell FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,107,8,0,1,8:30 PM,3:41,SUB: Anderson FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,110,1,108,1,8:31 PM,3:28,,,Sharpe 1' Cutting Dunk Shot (4 PTS) (Irving 2 AST),24 - 13,-11,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,112,2,1,1,8:31 PM,3:07,MISS McDaniels 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,113,4,0,1,8:31 PM,3:04,,,Sharpe REBOUND (Off:0 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,114,2,1,1,8:31 PM,3:00,,,MISS Irving 25' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,115,4,0,1,8:32 PM,2:57,Towns REBOUND (Off:0 Def:3),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,116,1,79,1,8:32 PM,2:52,McDaniels 11' Pullup Jump Shot (2 PTS) (Anderson 1 AST),,,24 - 15,-9,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,118,2,79,1,8:32 PM,2:29,,,MISS Irving 14' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,119,4,0,1,8:32 PM,2:27,,,Sharpe REBOUND (Off:1 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,120,2,72,1,8:32 PM,2:27,,,MISS Sharpe Putback Layup,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,121,4,0,1,8:32 PM,2:25,Towns REBOUND (Off:0 Def:4),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,122,2,1,1,8:32 PM,2:14,MISS Anderson 8' Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,123,4,0,1,8:32 PM,2:11,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,124,1,1,1,8:33 PM,1:54,,,Morris 11' Jump Shot (2 PTS) (Durant 1 AST),26 - 15,-11,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,126,1,6,1,8:33 PM,1:44,Towns 3' Driving Layup (6 PTS),,,26 - 17,-9,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,127,6,2,1,8:33 PM,1:44,,,Morris S.FOUL (P1.PN) (P.Fraher),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,129,8,0,1,8:33 PM,1:44,SUB: Prince FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,130,8,0,1,8:33 PM,1:44,,,SUB: Watanabe FOR Durant,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,133,3,10,1,8:33 PM,1:44,Towns Free Throw 1 of 1 (7 PTS),,,26 - 18,-8,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,134,2,1,1,8:34 PM,1:23,,,MISS Morris 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,135,4,0,1,8:34 PM,1:20,Prince REBOUND (Off:0 Def:1),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,136,6,1,1,8:34 PM,1:15,,,Sharpe P.FOUL (P1.PN) (N.Buchert),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,138,3,11,1,8:35 PM,1:15,Towns Free Throw 1 of 2 (8 PTS),,,26 - 19,-7,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,139,8,0,1,8:35 PM,1:15,SUB: Forbes FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,141,3,12,1,8:35 PM,1:15,Towns Free Throw 2 of 2 (9 PTS),,,26 - 20,-6,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,142,1,79,1,8:35 PM,0:51,,,Irving 16' Pullup Jump Shot (8 PTS),28 - 20,-8,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,143,2,79,1,8:36 PM,0:43,MISS Towns 25' 3PT Pullup Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,144,4,0,1,8:36 PM,0:41,,,Watanabe REBOUND (Off:0 Def:1),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,145,7,5,1,8:36 PM,0:37,Towns Violation:Kicked Ball (N.Buchert),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0012200066,146,8,0,1,8:36 PM,0:37,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,148,2,1,1,8:36 PM,0:30,,,MISS Mills 26' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,149,4,0,1,8:36 PM,0:27,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,151,8,0,1,8:36 PM,0:27,,,SUB: Durant FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,153,2,1,1,8:37 PM,0:25,,,MISS Morris 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,154,4,0,1,8:37 PM,0:23,Reid REBOUND (Off:0 Def:1),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,155,1,98,1,8:37 PM,0:03,Reid 3' Cutting Layup Shot (2 PTS) (Prince 1 AST),,,28 - 22,-6,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,157,2,1,1,8:37 PM,0:00,,,MISS Irving 16' Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,158,4,0,1,8:37 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,159,13,0,1,8:37 PM,0:00,,End of 1st Period (8:37 PM EST),,28 - 22,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,166,12,0,2,8:40 PM,12:00,,Start of 2nd Period (8:40 PM EST),,28 - 22,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,167,2,80,2,8:40 PM,11:47,MISS Forbes 26' 3PT Step Back Jump Shot,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,168,4,0,2,8:40 PM,11:44,,,Morris REBOUND (Off:0 Def:1),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,170,1,67,2,8:40 PM,11:37,,,Simmons 9' Hook Bank Shot (2 PTS),30 - 22,-8,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,171,2,1,2,8:41 PM,11:21,MISS Anderson 11' Jump Shot,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,172,4,0,2,8:41 PM,11:21,,,Mills REBOUND (Off:0 Def:1),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,173,1,43,2,8:41 PM,11:15,,,Claxton Alley Oop Layup (2 PTS) (Simmons 3 AST),32 - 22,-10,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,175,2,5,2,8:41 PM,11:02,MISS Prince 8' Layup,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,176,4,0,2,8:41 PM,10:58,Prince REBOUND (Off:1 Def:1),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,177,1,79,2,8:41 PM,10:56,Prince 8' Pullup Jump Shot (2 PTS),,,32 - 24,-8,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,178,1,1,2,8:41 PM,10:41,,,Morris 3PT Jump Shot (5 PTS) (Simmons 4 AST),35 - 24,-11,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,180,6,2,2,8:41 PM,10:29,,,Thomas S.FOUL (P1.T1) (N.Buchert),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,182,3,11,2,8:42 PM,10:29,MISS Nowell Free Throw 1 of 2,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,183,4,1,2,8:42 PM,10:29,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,184,3,12,2,8:42 PM,10:29,Nowell Free Throw 2 of 2 (1 PTS),,,35 - 25,-10,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,185,2,47,2,8:43 PM,10:13,,,MISS Mills 12' Turnaround Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,186,4,0,2,8:43 PM,10:12,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,187,6,3,2,8:43 PM,10:12,Reid L.B.FOUL (P1.T1) (N.Buchert),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,189,2,78,2,8:43 PM,10:00,,,MISS Simmons 13' Floating Jump Shot,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,190,4,0,2,8:43 PM,9:56,Anderson REBOUND (Off:0 Def:1),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,191,6,2,2,8:43 PM,9:54,,,Mills S.FOUL (P1.T2) (P.Fraher),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,193,3,11,2,8:44 PM,9:54,Anderson Free Throw 1 of 2 (1 PTS),,,35 - 26,-9,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,194,3,12,2,8:44 PM,9:54,Anderson Free Throw 2 of 2 (2 PTS),,,35 - 27,-8,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,195,5,1,2,8:44 PM,9:37,Nowell STEAL (1 STL),,Thomas Bad Pass Turnover (P1.T3),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,197,2,1,2,8:45 PM,9:33,MISS Nowell 26' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,198,4,0,2,8:45 PM,9:29,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,200,2,79,2,8:45 PM,9:12,,,MISS Thomas 15' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,201,4,0,2,8:45 PM,9:12,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,202,6,3,2,8:45 PM,9:12,Reid L.B.FOUL (P2.T2) (J.Goldenberg),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,204,1,1,2,8:45 PM,9:05,,,Mills 24' 3PT Jump Shot (3 PTS) (Simmons 5 AST),38 - 27,-11,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,206,5,4,2,8:46 PM,8:47,Prince Traveling Turnover (P1.T6),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200066,207,1,79,2,8:46 PM,8:30,,,Thomas 14' Pullup Jump Shot (2 PTS) (Simmons 6 AST),40 - 27,-13,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,209,6,1,2,8:47 PM,8:20,,,Morris P.FOUL (P2.T3) (P.Fraher),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,211,8,0,2,8:47 PM,8:20,SUB: Gobert FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,213,8,0,2,8:47 PM,8:20,,,SUB: O'Neale FOR Morris,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,215,1,79,2,8:47 PM,8:16,Forbes 17' Pullup Jump Shot (2 PTS) (Anderson 2 AST),,,40 - 29,-11,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,217,2,1,2,8:47 PM,8:03,,,MISS Mills 25' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,218,4,0,2,8:47 PM,8:00,Prince REBOUND (Off:1 Def:2),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,219,6,1,2,8:48 PM,7:55,,,Simmons P.FOUL (P4.T4) (N.Buchert),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,221,8,0,2,8:48 PM,7:55,SUB: Russell FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,223,2,2,2,8:48 PM,7:40,MISS Russell 8' Running Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,224,4,0,2,8:48 PM,7:37,,,Claxton REBOUND (Off:0 Def:4),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,225,2,66,2,8:48 PM,7:21,,,MISS Simmons 9' Jump Bank Shot,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,226,4,0,2,8:49 PM,7:19,Prince REBOUND (Off:1 Def:3),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,227,6,2,2,8:49 PM,7:17,,,O'Neale S.FOUL (P1.PN) (P.Fraher),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,229,3,11,2,8:49 PM,7:17,Prince Free Throw 1 of 2 (3 PTS),,,40 - 30,-10,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200066,230,8,0,2,8:49 PM,7:17,,,SUB: Sharpe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,232,3,12,2,8:49 PM,7:17,Prince Free Throw 2 of 2 (4 PTS),,,40 - 31,-9,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,233,6,4,2,8:50 PM,7:07,,,Simmons OFF.Foul (P5) (N.Buchert),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,235,5,37,2,8:50 PM,7:07,,,Simmons Offensive Foul Turnover (P2.T4),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200066,236,9,1,2,8:50 PM,7:07,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,237,8,0,2,8:52 PM,7:07,SUB: Edwards FOR Anderson,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,238,8,0,2,8:52 PM,7:07,SUB: Towns FOR Forbes,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,239,8,0,2,8:52 PM,7:07,,,SUB: Irving FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,243,1,1,2,8:53 PM,6:53,Prince 17' Jump Shot (6 PTS) (Towns 1 AST),,,40 - 33,-7,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,244,1,6,2,8:53 PM,6:34,,,Irving 1' Driving Layup (10 PTS),42 - 33,-9,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,245,6,2,2,8:53 PM,6:34,Towns S.FOUL (P2.T3) (P.Fraher),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,247,8,0,2,8:54 PM,6:34,,,SUB: Durant FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,249,3,10,2,8:54 PM,6:34,,,Irving Free Throw 1 of 1 (11 PTS),43 - 33,-10,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,250,2,79,2,8:54 PM,6:27,MISS Towns 16' Pullup Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,251,4,0,2,8:54 PM,6:25,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,252,1,1,2,8:54 PM,6:14,,,O'Neale 25' 3PT Jump Shot (5 PTS) (Durant 2 AST),46 - 33,-13,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,254,1,1,2,8:55 PM,5:55,Edwards 25' 3PT Jump Shot (3 PTS) (Prince 2 AST),,,46 - 36,-10,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,256,6,1,2,8:55 PM,5:41,Edwards P.FOUL (P1.T4) (N.Buchert),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,258,8,0,2,8:55 PM,5:41,SUB: McDaniels FOR Prince,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,260,2,103,2,8:55 PM,5:33,,,MISS Thomas 7' Running Pull-Up Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,261,4,0,2,8:55 PM,5:32,Gobert REBOUND (Off:0 Def:3),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,262,5,1,2,8:56 PM,5:30,Gobert Bad Pass Turnover (P2.T7),,Irving STEAL (1 STL),,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,264,2,1,2,8:56 PM,5:25,,,MISS Thomas 7' Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,265,4,0,2,8:56 PM,5:24,Gobert REBOUND (Off:0 Def:4),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,266,6,1,2,8:56 PM,5:21,,,O'Neale P.FOUL (P2.PN) (N.Buchert),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,268,3,11,2,8:56 PM,5:21,Towns Free Throw 1 of 2 (10 PTS),,,46 - 37,-9,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,269,3,12,2,8:57 PM,5:21,Towns Free Throw 2 of 2 (11 PTS),,,46 - 38,-8,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,270,1,80,2,8:57 PM,5:08,,,Irving 25' 3PT Step Back Jump Shot (14 PTS),49 - 38,-11,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,271,6,1,2,8:57 PM,4:52,,,Thomas P.FOUL (P2.PN) (P.Fraher),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,273,3,11,2,8:57 PM,4:52,MISS Russell Free Throw 1 of 2,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,274,4,1,2,8:57 PM,4:52,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,275,3,12,2,8:58 PM,4:52,Russell Free Throw 2 of 2 (7 PTS),,,49 - 39,-10,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,276,2,47,2,8:58 PM,4:35,,,MISS Irving 14' Turnaround Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,277,4,0,2,8:58 PM,4:33,Towns REBOUND (Off:0 Def:5),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,278,2,44,2,8:58 PM,4:27,MISS Edwards 3' Reverse Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,279,4,0,2,8:58 PM,4:26,,,O'Neale REBOUND (Off:1 Def:2),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,280,2,1,2,8:58 PM,4:21,,,MISS O'Neale 26' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,281,4,0,2,8:58 PM,4:21,Towns REBOUND (Off:0 Def:6),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,282,5,2,2,8:58 PM,4:08,Edwards Lost Ball Turnover (P1.T8),,Irving STEAL (2 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,284,1,76,2,8:58 PM,4:05,,,O'Neale 1' Running Finger Roll Layup (7 PTS) (Durant 3 AST),51 - 39,-12,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,286,6,2,2,8:58 PM,4:05,Towns S.FOUL (P3.PN) (P.Fraher),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,288,3,10,2,8:59 PM,4:05,,,O'Neale Free Throw 1 of 1 (8 PTS),52 - 39,-13,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,289,2,1,2,8:59 PM,3:54,MISS Russell 26' 3PT Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,290,4,0,2,8:59 PM,3:52,,,Sharpe REBOUND (Off:1 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,291,2,5,2,8:59 PM,3:35,,,MISS Sharpe 3' Layup,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,292,4,0,2,9:00 PM,3:31,,,Sharpe REBOUND (Off:2 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,293,1,72,2,9:00 PM,3:31,,,Sharpe Putback Layup (6 PTS),54 - 39,-15,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,294,1,52,2,9:00 PM,3:27,McDaniels 2' Alley Oop Dunk (4 PTS) (Russell 2 AST),,,54 - 41,-13,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,296,5,2,2,9:00 PM,3:05,Gobert STEAL (2 STL),,Thomas Lost Ball Turnover (P2.T5),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,298,6,2,2,9:00 PM,2:59,,,Durant S.FOUL (P1.PN) (N.Buchert),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,300,9,1,2,9:00 PM,2:59,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,301,3,11,2,9:04 PM,2:59,Gobert Free Throw 1 of 2 (4 PTS),,,54 - 42,-12,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,302,3,12,2,9:04 PM,2:59,Gobert Free Throw 2 of 2 (5 PTS),,,54 - 43,-11,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,303,6,1,2,9:04 PM,2:48,Gobert P.FOUL (P3.PN) (J.Goldenberg),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0012200066,305,3,11,2,9:05 PM,2:48,,,MISS Durant Free Throw 1 of 2,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,306,4,1,2,9:05 PM,2:48,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,307,3,12,2,9:05 PM,2:48,,,Durant Free Throw 2 of 2 (13 PTS),55 - 43,-12,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,308,1,5,2,9:05 PM,2:35,Gobert 4' Layup (7 PTS) (Russell 3 AST),,,55 - 45,-10,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,310,6,2,2,9:05 PM,2:35,,,Thomas S.FOUL (P3.PN) (N.Buchert),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,312,3,10,2,9:06 PM,2:35,MISS Gobert Free Throw 1 of 1,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,313,4,0,2,9:06 PM,2:31,,,Sharpe REBOUND (Off:2 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,314,2,5,2,9:06 PM,2:17,Edwards BLOCK (1 BLK),,MISS Sharpe 3' Layup,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200066,316,4,0,2,9:06 PM,2:14,McDaniels REBOUND (Off:0 Def:3),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,317,1,7,2,9:06 PM,2:04,Gobert Dunk (9 PTS),,,55 - 47,-8,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,319,2,63,2,9:07 PM,1:48,,,MISS Durant 12' Fadeaway Jumper,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,320,4,0,2,9:07 PM,1:46,Towns REBOUND (Off:0 Def:7),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,321,2,79,2,9:07 PM,1:43,MISS Russell 25' 3PT Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,322,4,0,2,9:07 PM,1:39,,,Sharpe REBOUND (Off:2 Def:4),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,323,1,1,2,9:07 PM,1:24,,,Thomas 25' 3PT Jump Shot (5 PTS) (Irving 3 AST),58 - 47,-11,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,325,2,6,2,9:07 PM,1:01,MISS Edwards 8' Driving Layup,,Sharpe BLOCK (1 BLK),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1
+0012200066,327,4,0,2,9:07 PM,0:58,,,Sharpe REBOUND (Off:2 Def:5),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,328,7,5,2,9:08 PM,0:58,Russell Violation:Kicked Ball (P.Fraher),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0012200066,329,8,0,2,9:08 PM,0:58,,,SUB: Claxton FOR Sharpe,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,330,8,0,2,9:08 PM,0:58,,,SUB: Watanabe FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,333,1,1,2,9:08 PM,0:55,,,Durant 25' 3PT Jump Shot (16 PTS) (Irving 4 AST),61 - 47,-14,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,335,6,2,2,9:08 PM,0:55,McDaniels S.FOUL (P3.PN) (N.Buchert),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,337,18,0,2,9:09 PM,0:55,,Instant Replay2nd Period (9:09 PM EST),,61 - 47,-14,0,333,Kevin Gamble,,,,,0,0,,,,,,1,0,,,,,,0
+0012200066,338,8,0,2,9:10 PM,0:55,SUB: Prince FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,340,3,10,2,9:10 PM,0:55,,,Durant Free Throw 1 of 1 (17 PTS),62 - 47,-15,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,341,1,78,2,9:11 PM,0:44,Towns 10' Floating Jump Shot (13 PTS) (Russell 4 AST),,,62 - 49,-13,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,343,2,1,2,9:11 PM,0:32,,,MISS Watanabe 26' 3PT Jump Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,344,4,0,2,9:11 PM,0:29,Towns REBOUND (Off:0 Def:8),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,345,5,2,2,9:11 PM,0:11,Russell Lost Ball Turnover (P3.T9),,O'Neale STEAL (2 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,347,1,80,2,9:11 PM,0:01,,,Irving 25' 3PT Step Back Jump Shot (17 PTS),65 - 49,-16,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,348,2,1,2,9:12 PM,0:00,MISS Prince 67' 3PT Jump Shot,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,349,4,0,2,9:12 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,350,13,0,2,9:12 PM,0:00,,End of 2nd Period (9:12 PM EST),,65 - 49,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,356,7,1,3,9:27 PM,12:00,,,Nets Violation: Delay of game Violation,,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200066,355,12,0,3,9:27 PM,12:00,,Start of 3rd Period (9:27 PM EST),,65 - 49,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,357,2,5,3,9:27 PM,11:49,MISS Edwards 2' Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,358,4,0,3,9:27 PM,11:46,,,O'Neale REBOUND (Off:1 Def:3),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,359,2,79,3,9:28 PM,11:33,,,MISS Durant 13' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,360,4,0,3,9:28 PM,11:29,McDaniels REBOUND (Off:0 Def:4),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,361,1,41,3,9:28 PM,11:26,Gobert 1' Running Layup (11 PTS) (Russell 5 AST),,,65 - 51,-14,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,365,6,2,3,9:28 PM,11:10,Edwards S.FOUL (P2.T1) (J.Goldenberg),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,369,9,1,3,9:28 PM,11:10,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,368,18,6,3,9:29 PM,11:10,,Instant Replay3rd Period (9:29 PM EST),,65 - 51,-14,0,365,Derrick McKey,,,,,0,0,,,,,,1,0,,,,,,1
+0012200066,370,3,11,3,9:32 PM,11:10,,,Irving Free Throw 1 of 2 (18 PTS),66 - 51,-15,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,371,3,12,3,9:33 PM,11:10,,,Irving Free Throw 2 of 2 (19 PTS),67 - 51,-16,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,372,1,1,3,9:33 PM,10:49,Towns 20' Jump Shot (15 PTS) (Edwards 1 AST),,,67 - 53,-14,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,374,1,1,3,9:33 PM,10:33,,,O'Neale 25' 3PT Jump Shot (11 PTS) (Durant 4 AST),70 - 53,-17,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,376,6,1,3,9:33 PM,10:26,,,Simmons P.FOUL (P6.T1) (P.Fraher),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,378,8,0,3,9:34 PM,10:26,,,SUB: Watanabe FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,380,2,1,3,9:34 PM,10:12,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,381,4,0,3,9:34 PM,10:10,,,Irving REBOUND (Off:0 Def:1),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,382,2,79,3,9:35 PM,9:58,,,MISS Durant 13' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,383,4,0,3,9:35 PM,9:56,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,385,2,41,3,9:35 PM,9:41,MISS McDaniels 7' Running Layup,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,386,4,0,3,9:35 PM,9:39,Gobert REBOUND (Off:1 Def:4),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,387,1,72,3,9:35 PM,9:38,Gobert Putback Layup (13 PTS),,,70 - 55,-15,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,388,1,1,3,9:35 PM,9:27,,,Durant 26' 3PT Jump Shot (20 PTS),73 - 55,-18,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,395,2,1,3,9:36 PM,9:01,MISS Edwards 24' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,396,4,0,3,9:36 PM,9:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,391,2,1,3,9:36 PM,8:59,MISS Towns 14' Jump Shot,,Durant BLOCK (2 BLK),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0012200066,393,4,0,3,9:36 PM,8:58,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,398,2,47,3,9:37 PM,8:41,Edwards BLOCK (2 BLK),,MISS Durant 16' Turnaround Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200066,400,4,0,3,9:37 PM,8:38,Edwards REBOUND (Off:0 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,401,6,2,3,9:37 PM,8:38,,,Durant S.FOUL (P2.T2) (N.Buchert),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,403,3,11,3,9:37 PM,8:38,Edwards Free Throw 1 of 2 (4 PTS),,,73 - 56,-17,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,404,3,12,3,9:37 PM,8:38,MISS Edwards Free Throw 2 of 2,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,405,4,0,3,9:37 PM,8:35,,,O'Neale REBOUND (Off:1 Def:4),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,406,6,2,3,9:38 PM,8:22,McDaniels S.FOUL (P4.T2) (J.Goldenberg),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,408,3,13,3,9:38 PM,8:22,,,Irving Free Throw 1 of 3 (20 PTS),74 - 56,-18,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,409,3,14,3,9:38 PM,8:22,,,Irving Free Throw 2 of 3 (21 PTS),75 - 56,-19,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,410,3,15,3,9:38 PM,8:22,,,MISS Irving Free Throw 3 of 3,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,411,4,0,3,9:38 PM,8:20,Gobert REBOUND (Off:1 Def:5),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,412,6,2,3,9:39 PM,8:07,,,Claxton S.FOUL (P3.T3) (J.Goldenberg),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,414,3,11,3,9:40 PM,8:07,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,415,4,1,3,9:40 PM,8:07,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,416,3,12,3,9:40 PM,8:07,MISS Gobert Free Throw 2 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,417,4,0,3,9:40 PM,8:04,,,O'Neale REBOUND (Off:1 Def:5),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,418,2,1,3,9:40 PM,7:53,,,MISS Irving 11' Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,420,4,0,3,9:40 PM,7:49,Gobert REBOUND (Off:1 Def:6),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,421,1,1,3,9:40 PM,7:44,Russell 3PT Jump Shot (10 PTS) (Edwards 2 AST),,,75 - 59,-16,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,423,1,1,3,9:41 PM,7:24,,,Watanabe 3PT Jump Shot (3 PTS) (Claxton 2 AST),78 - 59,-19,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,425,5,2,3,9:41 PM,7:08,Russell Lost Ball Turnover (P4.T10),,Irving STEAL (3 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,427,10,0,3,9:42 PM,7:04,Jump Ball Gobert vs. Irving: Tip to Towns,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200066,430,5,2,3,9:42 PM,7:04,Gobert STEAL (3 STL),,Irving Lost Ball Turnover (P1.T6),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,432,2,1,3,9:42 PM,6:48,MISS McDaniels 24' 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,433,4,0,3,9:42 PM,6:43,,,Irving REBOUND (Off:0 Def:2),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,434,2,1,3,9:42 PM,6:40,,,MISS Durant 25' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,435,4,0,3,9:42 PM,6:36,Edwards REBOUND (Off:0 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,436,1,6,3,9:42 PM,6:30,McDaniels 2' Driving Layup (6 PTS) (Edwards 3 AST),,,78 - 61,-17,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,438,6,1,3,9:43 PM,6:13,McDaniels P.FOUL (P5.T3) (N.Buchert),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,440,8,0,3,9:43 PM,6:13,SUB: Nowell FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,442,8,0,3,9:43 PM,6:13,,,SUB: Sharpe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,449,8,0,3,9:43 PM,6:13,SUB: Prince FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,446,9,1,3,9:43 PM,6:13,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,450,1,1,3,9:46 PM,6:05,,,Irving 27' 3PT Jump Shot (24 PTS),81 - 61,-20,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,452,1,79,3,9:46 PM,5:48,Edwards 20' Pullup Jump Shot (6 PTS) (Towns 2 AST),,,81 - 63,-18,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,454,5,1,3,9:47 PM,5:27,Gobert STEAL (4 STL),,Durant Bad Pass Turnover (P1.T7),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,456,1,1,3,9:47 PM,5:16,Edwards 24' 3PT Jump Shot (9 PTS) (Towns 3 AST),,,81 - 66,-15,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,458,1,79,3,9:47 PM,4:56,,,Irving 21' Pullup Jump Shot (26 PTS),83 - 66,-17,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,459,6,1,3,9:48 PM,4:42,,,Watanabe P.FOUL (P1.T4) (N.Buchert),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,461,8,0,3,9:48 PM,4:42,,,SUB: Mills FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,463,2,79,3,9:48 PM,4:35,MISS Edwards 20' Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,464,4,0,3,9:48 PM,4:32,,,Watanabe REBOUND (Off:0 Def:2),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,465,5,2,3,9:48 PM,4:28,Prince STEAL (1 STL),,Durant Lost Ball Turnover (P2.T8),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,467,5,1,3,9:48 PM,4:21,Prince Bad Pass Turnover (P2.T11),,Durant STEAL (1 STL),,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,469,5,40,3,9:48 PM,4:21,,,Durant Out of Bounds Lost Ball Turnover (P3.T9),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200066,470,1,5,3,9:49 PM,4:09,Gobert 2' Layup (15 PTS) (Towns 4 AST),,,83 - 68,-15,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,472,6,2,3,9:49 PM,4:09,,,Mills S.FOUL (P2.PN) (P.Fraher),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,474,3,10,3,9:49 PM,4:09,MISS Gobert Free Throw 1 of 1,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,475,4,0,3,9:49 PM,4:07,,,Watanabe REBOUND (Off:0 Def:3),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,476,2,1,3,9:49 PM,4:01,,,MISS Irving 26' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,477,4,0,3,9:50 PM,3:58,Nowell REBOUND (Off:0 Def:1),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,478,6,1,3,9:50 PM,3:54,,,Mills P.FOUL (P3.PN) (N.Buchert),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,480,3,11,3,9:50 PM,3:54,MISS Nowell Free Throw 1 of 2,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,481,4,1,3,9:50 PM,3:54,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,482,8,0,3,9:50 PM,3:54,SUB: Anderson FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,483,8,0,3,9:50 PM,3:54,,,SUB: O'Neale FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,484,8,0,3,9:50 PM,3:54,,,SUB: Morris FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,488,3,12,3,9:51 PM,3:54,Nowell Free Throw 2 of 2 (2 PTS),,,83 - 69,-14,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,489,2,79,3,9:51 PM,3:39,,,MISS Mills 19' Pullup Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,490,4,0,3,9:51 PM,3:37,Prince REBOUND (Off:1 Def:4),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,491,2,6,3,9:51 PM,3:30,MISS Prince 2' Driving Layup,,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,492,4,0,3,9:51 PM,3:27,,,O'Neale REBOUND (Off:1 Def:6),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,494,2,79,3,9:52 PM,3:14,,,MISS Durant 14' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,495,4,0,3,9:52 PM,3:11,Nowell REBOUND (Off:0 Def:2),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,496,2,1,3,9:52 PM,3:05,MISS Edwards 24' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,497,4,0,3,9:52 PM,3:02,,,Sharpe REBOUND (Off:2 Def:6),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,498,2,1,3,9:52 PM,2:52,,,MISS Morris 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,499,4,0,3,9:52 PM,2:50,Nowell REBOUND (Off:0 Def:3),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,500,6,2,3,9:52 PM,2:41,,,Morris S.FOUL (P3.PN) (P.Fraher),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,502,3,11,3,9:53 PM,2:41,Nowell Free Throw 1 of 2 (3 PTS),,,83 - 70,-13,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,503,8,0,3,9:53 PM,2:41,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,504,8,0,3,9:53 PM,2:41,,,SUB: Claxton FOR Sharpe,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,507,3,12,3,9:53 PM,2:41,Nowell Free Throw 2 of 2 (4 PTS),,,83 - 71,-12,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,508,6,2,3,9:53 PM,2:34,Nowell S.FOUL (P1.T4) (P.Fraher),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,510,3,11,3,9:54 PM,2:34,,,Claxton Free Throw 1 of 2 (3 PTS),84 - 71,-13,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,511,3,12,3,9:54 PM,2:34,,,Claxton Free Throw 2 of 2 (4 PTS),85 - 71,-14,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,512,2,79,3,9:54 PM,2:17,MISS Edwards 25' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,513,4,0,3,9:54 PM,2:13,Reid REBOUND (Off:1 Def:1),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,514,2,1,3,9:55 PM,2:00,MISS Reid 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,515,4,0,3,9:55 PM,1:57,,,Morris REBOUND (Off:0 Def:2),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,516,2,1,3,9:55 PM,1:49,,,MISS O'Neale 27' 3PT Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,517,4,0,3,9:55 PM,1:46,Edwards REBOUND (Off:0 Def:3),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,518,1,79,3,9:55 PM,1:36,Edwards 3PT Pullup Jump Shot (12 PTS),,,85 - 74,-11,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,519,2,79,3,9:55 PM,1:15,,,MISS Durant 20' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,520,4,0,3,9:55 PM,1:12,Prince REBOUND (Off:1 Def:5),,,,,4,1627752,Taurean Prince,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,521,2,79,3,9:55 PM,1:05,MISS Edwards 17' Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,522,4,0,3,9:56 PM,1:01,,,Claxton REBOUND (Off:0 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,523,5,1,3,9:56 PM,0:45,Nowell STEAL (2 STL),,Durant Bad Pass Turnover (P4.T10),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,525,6,2,3,9:56 PM,0:42,,,O'Neale S.FOUL (P3.PN) (P.Fraher),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,528,3,11,3,9:57 PM,0:42,Nowell Free Throw 1 of 2 (5 PTS),,,85 - 75,-10,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,529,3,12,3,9:58 PM,0:42,Nowell Free Throw 2 of 2 (6 PTS),,,85 - 76,-9,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,530,1,98,3,9:58 PM,0:30,,,Claxton 2' Cutting Layup Shot (6 PTS) (Durant 5 AST),87 - 76,-11,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,532,5,45,3,9:58 PM,0:10,Edwards Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200066,533,8,0,3,9:58 PM,0:10,,,SUB: Irving FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,535,2,79,3,9:59 PM,0:03,,,MISS Durant 28' 3PT Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,536,4,0,3,9:59 PM,0:00,Reid REBOUND (Off:1 Def:2),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,537,2,2,3,9:59 PM,0:00,MISS Nowell 67' 3PT Running Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,538,4,0,3,9:59 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,539,13,0,3,9:59 PM,0:00,,End of 3rd Period (9:59 PM EST),,87 - 76,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,555,12,0,4,10:02 PM,12:00,,Start of 4th Period (10:02 PM EST),,87 - 76,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,556,1,1,4,10:02 PM,11:48,,,Mills 26' 3PT Jump Shot (6 PTS) (Claxton 3 AST),90 - 76,-14,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,558,1,1,4,10:02 PM,11:26,Russell 17' Jump Shot (12 PTS) (Towns 5 AST),,,90 - 78,-12,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,559,5,1,4,10:02 PM,11:11,Russell STEAL (1 STL),,Thomas Bad Pass Turnover (P3.T11),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,561,2,1,4,10:03 PM,11:06,MISS Forbes 25' 3PT Jump Shot,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,562,4,0,4,10:03 PM,11:02,,,Morris REBOUND (Off:0 Def:3),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,563,2,1,4,10:03 PM,10:51,,,MISS Mills 27' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,564,4,0,4,10:03 PM,10:48,Gobert REBOUND (Off:1 Def:7),,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,565,2,1,4,10:03 PM,10:37,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,566,4,0,4,10:03 PM,10:33,,,Morris REBOUND (Off:0 Def:4),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,567,5,39,4,10:03 PM,10:23,,,O'Neale Step Out of Bounds Turnover (P1.T12),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200066,568,2,5,4,10:04 PM,10:13,MISS Russell 8' Layup,,Thomas BLOCK (1 BLK),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1
+0012200066,570,4,0,4,10:04 PM,10:08,,,Morris REBOUND (Off:0 Def:5),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,571,1,108,4,10:04 PM,10:06,,,Claxton 1' Cutting Dunk Shot (8 PTS) (Thomas 1 AST),92 - 78,-14,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,573,1,44,4,10:04 PM,9:49,Anderson 2' Reverse Layup (4 PTS) (Towns 6 AST),,,92 - 80,-12,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,575,2,79,4,10:04 PM,9:29,,,MISS Morris 16' Pullup Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,576,4,0,4,10:04 PM,9:27,Anderson REBOUND (Off:0 Def:2),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,577,5,2,4,10:04 PM,9:19,Russell Lost Ball Turnover (P5.T13),,O'Neale STEAL (3 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,579,2,5,4,10:05 PM,9:17,Forbes BLOCK (1 BLK),,MISS Morris 4' Layup,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200066,581,4,0,4,10:05 PM,9:17,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,583,8,0,4,10:05 PM,9:17,,,SUB: Sharpe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,585,2,3,4,10:05 PM,9:09,MISS Towns 6' Hook Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,586,4,0,4,10:05 PM,9:05,,,Sharpe REBOUND (Off:2 Def:7),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,587,1,78,4,10:05 PM,8:58,,,Thomas 13' Floating Jump Shot (7 PTS),94 - 80,-14,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,588,2,1,4,10:05 PM,8:43,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,589,4,0,4,10:06 PM,8:40,,,Sharpe REBOUND (Off:2 Def:8),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,590,1,79,4,10:06 PM,8:29,,,Thomas 9' Pullup Jump Shot (9 PTS),96 - 80,-16,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,591,6,2,4,10:06 PM,8:16,,,Sharpe S.FOUL (P2.T1) (N.Buchert),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,593,3,11,4,10:06 PM,8:16,MISS Gobert Free Throw 1 of 2,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,594,4,1,4,10:06 PM,8:16,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200066,595,3,12,4,10:07 PM,8:16,Gobert Free Throw 2 of 2 (16 PTS),,,96 - 81,-15,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,596,2,79,4,10:07 PM,8:02,,,MISS Thomas 20' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,597,4,0,4,10:07 PM,7:58,Towns REBOUND (Off:0 Def:9),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,598,5,1,4,10:07 PM,7:46,Russell Bad Pass Turnover (P6.T14),,Thomas STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,600,1,5,4,10:07 PM,7:44,,,Sharpe 2' Layup (8 PTS) (Thomas 2 AST),98 - 81,-17,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,602,6,2,4,10:07 PM,7:44,Anderson S.FOUL (P1.T1) (N.Buchert),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,604,3,10,4,10:08 PM,7:44,,,Sharpe Free Throw 1 of 1 (9 PTS),99 - 81,-18,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,605,1,79,4,10:08 PM,7:32,Russell 20' Pullup Jump Shot (14 PTS) (Gobert 2 AST),,,99 - 83,-16,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,607,6,2,4,10:08 PM,7:20,Russell S.FOUL (P1.T2) (P.Fraher),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,609,3,11,4,10:09 PM,7:20,,,Thomas Free Throw 1 of 2 (10 PTS),100 - 83,-17,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,610,8,0,4,10:09 PM,7:20,,,SUB: Irving FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,612,3,12,4,10:09 PM,7:20,,,Thomas Free Throw 2 of 2 (11 PTS),101 - 83,-18,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,613,1,1,4,10:09 PM,7:08,Russell 25' 3PT Jump Shot (17 PTS) (Towns 7 AST),,,101 - 86,-15,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,614,2,79,4,10:10 PM,6:47,Anderson BLOCK (1 BLK),,MISS Irving 7' Pullup Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200066,616,4,0,4,10:10 PM,6:44,Anderson REBOUND (Off:0 Def:3),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,617,1,1,4,10:10 PM,6:40,Anderson 6' Jump Shot (6 PTS),,,101 - 88,-13,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,618,9,1,4,10:10 PM,6:39,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,619,8,0,4,10:12 PM,6:39,SUB: Nowell FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,620,8,0,4,10:12 PM,6:39,SUB: Reid FOR Gobert,,,,,4,203497,Rudy Gobert,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,621,8,0,4,10:12 PM,6:39,SUB: Rivers FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0012200066,622,8,0,4,10:12 PM,6:39,,,SUB: Durant FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,627,2,79,4,10:13 PM,6:28,,,MISS Mills 25' 3PT Pullup Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200066,628,4,0,4,10:13 PM,6:24,Anderson REBOUND (Off:0 Def:4),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0012200066,629,6,1,4,10:13 PM,6:13,,,Mills P.FOUL (P4.T2) (P.Fraher),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,631,2,78,4,10:14 PM,6:03,MISS Nowell 8' Floating Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,632,4,0,4,10:14 PM,6:00,,,Morris REBOUND (Off:0 Def:6),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,633,6,2,4,10:14 PM,5:47,Reid S.FOUL (P3.T3) (J.Goldenberg),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,635,3,11,4,10:14 PM,5:47,,,Morris Free Throw 1 of 2 (6 PTS),102 - 88,-14,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,636,3,12,4,10:14 PM,5:47,,,Morris Free Throw 2 of 2 (7 PTS),103 - 88,-15,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,637,5,1,4,10:15 PM,5:38,Nowell Bad Pass Turnover (P1.T15),,Sharpe STEAL (1 STL),,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200066,639,2,7,4,10:15 PM,5:32,,,MISS Sharpe 2' Dunk,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,640,4,0,4,10:15 PM,5:30,Reid REBOUND (Off:1 Def:3),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,641,5,45,4,10:15 PM,5:27,Reid Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0012200066,642,6,2,4,10:15 PM,5:20,Nowell S.FOUL (P2.T4) (N.Buchert),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,644,3,11,4,10:16 PM,5:20,,,Sharpe Free Throw 1 of 2 (10 PTS),104 - 88,-16,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,645,8,0,4,10:16 PM,5:20,,,SUB: Thomas FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,647,3,12,4,10:16 PM,5:20,,,Sharpe Free Throw 2 of 2 (11 PTS),105 - 88,-17,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,648,2,1,4,10:16 PM,5:10,MISS Forbes 25' 3PT Jump Shot,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,649,4,0,4,10:16 PM,5:07,,,Thomas REBOUND (Off:0 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,650,2,1,4,10:16 PM,4:55,,,MISS Irving 25' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,651,4,0,4,10:16 PM,4:52,Reid REBOUND (Off:1 Def:4),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,652,1,6,4,10:17 PM,4:40,Anderson 1' Driving Layup (8 PTS),,,105 - 90,-15,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,654,9,1,4,10:17 PM,4:39,,,Nets Timeout: Regular (Reg.5 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200066,655,8,0,4,10:19 PM,4:39,,,SUB: Duke Jr. FOR Durant,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,656,8,0,4,10:19 PM,4:39,,,SUB: Edwards FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,659,2,79,4,10:20 PM,4:27,Reid BLOCK (1 BLK),,MISS Thomas 13' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1
+0012200066,661,4,0,4,10:20 PM,4:23,,,Thomas REBOUND (Off:1 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,662,2,79,4,10:20 PM,4:22,,,MISS Thomas 6' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,663,4,0,4,10:20 PM,4:21,Nowell REBOUND (Off:0 Def:4),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,664,2,1,4,10:20 PM,4:14,MISS Forbes 3PT Jump Shot,,,,,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,665,4,0,4,10:20 PM,4:11,,,Sharpe REBOUND (Off:2 Def:9),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,666,2,1,4,10:20 PM,4:06,,,MISS Morris 25' 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,667,4,0,4,10:20 PM,4:03,Reid REBOUND (Off:1 Def:5),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,668,1,66,4,10:20 PM,3:56,Reid 26' 3PT Jump Bank Shot (5 PTS) (Forbes 1 AST),,,105 - 93,-12,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,670,6,1,4,10:21 PM,3:33,Reid P.FOUL (P4.PN) (J.Goldenberg),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,672,3,11,4,10:21 PM,3:33,,,Sharpe Free Throw 1 of 2 (12 PTS),106 - 93,-13,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,673,3,12,4,10:21 PM,3:33,,,Sharpe Free Throw 2 of 2 (13 PTS),107 - 93,-14,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,674,2,1,4,10:22 PM,3:15,MISS Nowell 25' 3PT Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,675,4,0,4,10:22 PM,3:11,,,Sharpe REBOUND (Off:2 Def:10),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,676,5,1,4,10:22 PM,3:01,Nowell STEAL (3 STL),,Sharpe Bad Pass Turnover (P1.T13),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,678,2,41,4,10:22 PM,3:00,MISS Nowell 2' Running Layup,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,679,4,0,4,10:22 PM,2:58,Anderson REBOUND (Off:1 Def:4),,,,,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,680,1,72,4,10:22 PM,2:58,Anderson Putback Layup (10 PTS),,,107 - 95,-12,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,681,6,2,4,10:22 PM,2:58,,,Morris S.FOUL (P4.T3) (J.Goldenberg),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0012200066,683,8,0,4,10:22 PM,2:58,,,SUB: Watanabe FOR Morris,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200066,685,3,10,4,10:22 PM,2:58,Anderson Free Throw 1 of 1 (11 PTS),,,107 - 96,-11,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,686,5,40,4,10:23 PM,2:49,,,Thomas Out of Bounds Lost Ball Turnover (P4.T14),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200066,687,2,78,4,10:23 PM,2:30,MISS Nowell 8' Floating Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,688,4,0,4,10:23 PM,2:27,,,Edwards REBOUND (Off:0 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,689,6,2,4,10:23 PM,2:22,Reid S.FOUL (P5.PN) (J.Goldenberg),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,691,3,11,4,10:24 PM,2:22,,,Edwards Free Throw 1 of 2 (1 PTS),108 - 96,-12,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,692,3,12,4,10:24 PM,2:22,,,Edwards Free Throw 2 of 2 (2 PTS),109 - 96,-13,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,693,1,74,4,10:24 PM,2:10,Reid 2' Running Reverse Layup (7 PTS) (Anderson 3 AST),,,109 - 98,-11,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,203937,Kyle Anderson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,695,6,2,4,10:24 PM,1:53,Nowell S.FOUL (P3.PN) (N.Buchert),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200066,697,3,11,4,10:25 PM,1:53,,,Watanabe Free Throw 1 of 2 (4 PTS),110 - 98,-12,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200066,698,3,12,4,10:25 PM,1:53,,,MISS Watanabe Free Throw 2 of 2,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,699,4,0,4,10:25 PM,1:51,Reid REBOUND (Off:1 Def:6),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,700,1,78,4,10:25 PM,1:40,Rivers 9' Floating Jump Shot (2 PTS),,,110 - 100,-10,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,701,2,78,4,10:26 PM,1:17,,,MISS Duke Jr. 7' Floating Jump Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,702,4,0,4,10:26 PM,1:17,,,Sharpe REBOUND (Off:3 Def:10),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,703,1,97,4,10:26 PM,1:17,,,Sharpe Tip Layup Shot (15 PTS),112 - 100,-12,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,704,1,78,4,10:26 PM,1:04,Forbes 7' Floating Jump Shot (4 PTS) (Reid 1 AST),,,112 - 102,-10,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,705,5,2,4,10:26 PM,0:45,Forbes STEAL (1 STL),,Thomas Lost Ball Turnover (P5.T15),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1627854,Bryn Forbes,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0012200066,707,2,1,4,10:26 PM,0:36,MISS Reid 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,708,4,0,4,10:26 PM,0:34,,,Edwards REBOUND (Off:0 Def:2),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,709,5,11,4,10:27 PM,0:11,,,Nets Turnover: Shot Clock (T#16),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200066,710,2,1,4,10:27 PM,0:04,MISS Rivers 26' 3PT Jump Shot,,,,,4,203085,Austin Rivers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0012200066,711,4,0,4,10:27 PM,0:02,,,Watanabe REBOUND (Off:0 Def:4),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200066,712,13,0,4,10:27 PM,0:00,,End of 4th Period (10:27 PM EST),,112 - 102,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

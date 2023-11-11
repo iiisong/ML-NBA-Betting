@@ -1,0 +1,491 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400068,0,12,0,1,8:14 PM,12:00,,Start of 1st Period (8:14 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,1,10,0,1,8:15 PM,12:00,Jump Ball Pekovic vs. Pachulia: Tip to LaVine,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011400068,2,5,1,1,8:15 PM,11:49,LaVine Bad Pass Turnover (P1.T1),,Parker STEAL (1 STL),,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,3,1,1,1,8:15 PM,11:29,,,Pachulia 21' Jump Shot (2 PTS),2 - 0,-2,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,4,6,1,1,8:16 PM,11:07,,,Marshall P.FOUL (P1.T1),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,6,1,46,1,8:16 PM,10:57,Brewer 4' Running Jump Shot (2 PTS),,,2 - 2,TIE,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,7,2,1,1,8:16 PM,10:42,,,MISS Marshall 24' 3PT Jump Shot,,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,8,4,0,1,8:16 PM,10:40,,,Parker REBOUND (Off:1 Def:0),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,9,6,26,1,8:16 PM,10:36,,,Parker Offensive Charge Foul (P1.T2),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,10,5,5,1,8:16 PM,10:36,,,Parker Foul Turnover (P1.T1),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,11,2,1,1,8:17 PM,10:26,MISS Brewer 14' Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,12,4,0,1,8:17 PM,10:25,,,Marshall REBOUND (Off:0 Def:1),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,13,1,1,1,8:17 PM,10:21,,,Dudley  3PT Jump Shot (3 PTS) (Parker 1 AST),5 - 2,-3,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,14,6,2,1,8:17 PM,10:21,Brewer S.FOUL (P1.T1),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,15,3,10,1,8:17 PM,10:21,,,Dudley Free Throw 1 of 1 (4 PTS),6 - 2,-4,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,17,6,1,1,8:18 PM,10:02,,,Dudley P.FOUL (P1.T3),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,19,2,47,1,8:18 PM,9:53,MISS Pekovic 5' Turnaround Jump Shot,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,20,4,0,1,8:18 PM,9:52,,,Dudley REBOUND (Off:0 Def:1),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,21,2,46,1,8:18 PM,9:41,,,MISS Parker 9' Running Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,22,4,0,1,8:18 PM,9:41,Young REBOUND (Off:0 Def:1),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,23,1,1,1,8:19 PM,9:19,Young 25' 3PT Jump Shot (3 PTS) (Wiggins 1 AST),,,6 - 5,-1,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,24,2,1,1,8:19 PM,9:09,,,MISS Middleton  3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,25,4,0,1,8:19 PM,9:08,LaVine REBOUND (Off:0 Def:1),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,26,5,2,1,8:19 PM,9:03,Young Lost Ball Turnover (P1.T2),,Middleton STEAL (1 STL),,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,27,6,26,1,8:19 PM,9:00,,,Parker Offensive Charge Foul (P2.T4),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,28,5,5,1,8:19 PM,9:00,,,Parker Foul Turnover (P2.T2),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,29,6,1,1,8:19 PM,8:54,,,Middleton P.FOUL (P1.PN),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,30,2,1,1,8:20 PM,8:46,MISS Young 18' Jump Shot,,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,31,4,0,1,8:20 PM,8:44,Pekovic REBOUND (Off:1 Def:0),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,32,2,1,1,8:20 PM,8:39,MISS LaVine 21' Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,33,4,0,1,8:20 PM,8:35,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,34,6,1,1,8:20 PM,8:25,Young P.FOUL (P1.T2),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,35,6,1,1,8:21 PM,8:23,Wiggins P.FOUL (P1.T3),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,36,2,66,1,8:21 PM,8:18,,,MISS Middleton 14' Jump Bank Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,37,4,0,1,8:21 PM,8:18,Young REBOUND (Off:0 Def:2),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,38,6,2,1,8:21 PM,8:12,,,Marshall S.FOUL (P2.PN),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,39,3,11,1,8:21 PM,8:12,Brewer Free Throw 1 of 2 (3 PTS),,,6 - 6,TIE,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,41,3,12,1,8:21 PM,8:12,Brewer Free Throw 2 of 2 (4 PTS),,,6 - 7,1,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,43,2,1,1,8:22 PM,8:01,,,MISS Pachulia 18' Jump Shot,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,44,4,0,1,8:22 PM,8:00,Wiggins REBOUND (Off:0 Def:1),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,45,5,1,1,8:22 PM,7:54,LaVine Bad Pass Turnover (P2.T3),,Parker STEAL (2 STL),,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,46,7,5,1,8:22 PM,7:49,Young Violation:Kicked Ball,,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,49,2,1,1,8:23 PM,7:39,,,MISS Dudley 17' Jump Shot,,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,50,4,0,1,8:23 PM,7:38,,,Parker REBOUND (Off:2 Def:0),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,51,2,63,1,8:23 PM,7:21,,,MISS Pachulia 8' Fadeaway Jumper,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,52,4,0,1,8:23 PM,7:20,Young REBOUND (Off:0 Def:3),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,53,5,2,1,8:23 PM,7:15,Brewer Lost Ball Turnover (P1.T4),,Middleton STEAL (2 STL),,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,54,1,42,1,8:23 PM,7:11,,,Middleton 2' Driving Layup (2 PTS) (Marshall 1 AST),8 - 7,-1,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,55,2,5,1,8:24 PM,6:53,MISS Wiggins 1' Layup,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,56,4,0,1,8:24 PM,6:52,,,Parker REBOUND (Off:2 Def:1),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,57,1,42,1,8:24 PM,6:46,,,Parker  Driving Layup (2 PTS),10 - 7,-3,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,58,6,1,1,8:24 PM,6:24,,,Middleton P.FOUL (P2.PN),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,59,3,11,1,8:24 PM,6:24,Young Free Throw 1 of 2 (4 PTS),,,10 - 8,-2,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,62,8,0,1,8:25 PM,6:24,,,SUB: Bayless FOR Marshall,,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,63,8,0,1,8:25 PM,6:24,,,SUB: Antetokounmpo FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,64,3,12,1,8:25 PM,6:24,MISS Young Free Throw 2 of 2,,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,66,4,0,1,8:25 PM,6:24,,,Parker REBOUND (Off:2 Def:2),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,67,1,1,1,8:25 PM,6:07,,,Pachulia 20' Jump Shot (4 PTS) (Bayless 1 AST),12 - 8,-4,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,68,9,1,1,8:25 PM,6:01,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,69,8,0,1,8:28 PM,6:00,,,SUB: Henson FOR Pachulia,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,70,1,5,1,8:28 PM,5:50,Brewer 1' Layup (6 PTS) (Pekovic 1 AST),,,12 - 10,-2,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,71,1,1,1,8:28 PM,5:37,,,Parker 18' Jump Shot (4 PTS) (Antetokounmpo 1 AST),14 - 10,-4,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,72,2,1,1,8:29 PM,5:15,MISS LaVine 14' Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,73,4,0,1,8:29 PM,5:14,Young REBOUND (Off:1 Def:3),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,74,2,1,1,8:29 PM,5:12,MISS Young 4' Jump Shot,,Parker BLOCK (1 BLK),,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,75,4,0,1,8:29 PM,5:11,,,Bayless REBOUND (Off:0 Def:1),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,76,1,79,1,8:29 PM,5:07,,,Dudley 24' 3PT Pullup Jump Shot (7 PTS) (Bayless 2 AST),17 - 10,-7,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,77,6,1,1,8:29 PM,4:54,,,Antetokounmpo P.FOUL (P1.PN),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,78,3,11,1,8:29 PM,4:54,MISS Wiggins Free Throw 1 of 2,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,79,4,1,1,8:29 PM,4:54,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,80,8,0,1,8:30 PM,4:54,,,SUB: Mayo FOR Dudley,,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,81,8,0,1,8:30 PM,4:54,SUB: Bennett FOR Young,,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,82,8,0,1,8:30 PM,4:54,SUB: Williams FOR LaVine,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,83,3,12,1,8:30 PM,4:54,MISS Wiggins Free Throw 2 of 2,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,85,4,0,1,8:30 PM,4:54,,,Parker REBOUND (Off:2 Def:3),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,86,6,17,1,8:30 PM,4:40,TIMBERWOLVES T.Foul (Def. 3 Sec Pekovic ),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,87,3,16,1,8:30 PM,4:40,,,Mayo Free Throw Technical (1 PTS),18 - 10,-8,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,89,8,0,1,8:31 PM,4:40,SUB: Budinger FOR Wiggins,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,90,2,1,1,8:31 PM,4:36,,,MISS Parker 21' Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,91,4,0,1,8:31 PM,4:35,Budinger REBOUND (Off:0 Def:1),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,92,1,5,1,8:31 PM,4:28,Pekovic 2' Layup (2 PTS) (Williams 1 AST),,,18 - 12,-6,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,93,2,46,1,8:31 PM,4:09,,,MISS Parker 6' Running Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,94,4,0,1,8:31 PM,4:08,Bennett REBOUND (Off:0 Def:1),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,95,1,1,1,8:31 PM,3:56,Brewer 15' Jump Shot (8 PTS) (Williams 2 AST),,,18 - 14,-4,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,96,1,1,1,8:32 PM,3:45,,,Mayo 24' 3PT Jump Shot (4 PTS),21 - 14,-7,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,98,2,1,1,8:32 PM,3:35,MISS Brewer 15' Jump Shot,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,99,4,0,1,8:32 PM,3:34,,,Parker REBOUND (Off:2 Def:4),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,100,2,42,1,8:32 PM,3:30,,,MISS Parker 1' Driving Layup,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,101,4,0,1,8:32 PM,3:29,Williams REBOUND (Off:0 Def:1),,,,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,102,6,2,1,8:32 PM,3:19,,,Henson S.FOUL (P1.PN),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,103,3,11,1,8:33 PM,3:19,Bennett Free Throw 1 of 2 (1 PTS),,,21 - 15,-6,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,105,3,12,1,8:33 PM,3:19,Bennett Free Throw 2 of 2 (2 PTS),,,21 - 16,-5,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,107,9,1,1,8:33 PM,3:14,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,108,6,1,1,8:36 PM,3:08,Brewer P.FOUL (P2.T4),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,109,5,11,1,8:36 PM,2:54,,,Bucks Turnover: Shot Clock (T#3),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400068,110,6,1,1,8:37 PM,2:44,,,Henson P.FOUL (P2.PN),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,111,3,11,1,8:37 PM,2:44,Pekovic Free Throw 1 of 2 (3 PTS),,,21 - 17,-4,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,113,3,12,1,8:37 PM,2:44,MISS Pekovic Free Throw 2 of 2,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,115,4,0,1,8:38 PM,2:44,,,Henson REBOUND (Off:0 Def:1),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,116,6,1,1,8:38 PM,2:28,Budinger P.FOUL (P1.PN),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,117,3,11,1,8:38 PM,2:28,,,Antetokounmpo Free Throw 1 of 2 (1 PTS),22 - 17,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,119,3,12,1,8:38 PM,2:28,,,Antetokounmpo Free Throw 2 of 2 (2 PTS),23 - 17,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,121,10,0,1,8:39 PM,2:20,Jump Ball Brewer vs. Antetokounmpo: Tip to Budinger,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011400068,122,1,42,1,8:40 PM,2:18,Budinger  Driving Layup (2 PTS),,,23 - 19,-4,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,123,5,4,1,8:40 PM,2:04,,,Henson Traveling Turnover (P1.T4),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,124,8,0,1,8:40 PM,2:04,SUB: Barea FOR Brewer,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,125,2,1,1,8:40 PM,1:40,MISS Barea 20' Jump Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,126,4,0,1,8:40 PM,1:39,,,Henson REBOUND (Off:0 Def:2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,127,1,47,1,8:41 PM,1:29,,,Mayo 12' Turnaround Jump Shot (6 PTS),25 - 19,-6,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,128,6,2,1,8:41 PM,1:29,Barea S.FOUL (P1.PN),,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,129,3,10,1,8:41 PM,1:29,,,Mayo Free Throw 1 of 1 (7 PTS),26 - 19,-7,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,131,2,1,1,8:41 PM,1:18,MISS Bennett 18' Jump Shot,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,132,4,0,1,8:41 PM,1:17,Budinger REBOUND (Off:1 Def:1),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,133,2,1,1,8:41 PM,1:11,MISS Bennett 4' Jump Shot,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,135,4,0,1,8:41 PM,1:10,Pekovic REBOUND (Off:2 Def:0),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,134,2,5,1,8:41 PM,1:10,MISS Pekovic 2' Layup,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,136,4,0,1,8:41 PM,1:09,Pekovic REBOUND (Off:3 Def:0),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,138,2,5,1,8:42 PM,1:00,MISS Pekovic 1' Layup,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,139,4,0,1,8:42 PM,0:59,,,Bayless REBOUND (Off:0 Def:2),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,140,1,5,1,8:42 PM,0:52,,,Parker  Layup (6 PTS) (Bayless 3 AST),28 - 19,-9,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,141,2,1,1,8:42 PM,0:50,MISS Williams 18' Jump Shot,,,,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,142,4,0,1,8:42 PM,0:49,,,Antetokounmpo REBOUND (Off:0 Def:1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,143,6,1,1,8:42 PM,0:42,Williams P.FOUL (P1.PN),,,,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,144,3,11,1,8:42 PM,0:42,,,Mayo Free Throw 1 of 2 (8 PTS),29 - 19,-10,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,146,8,0,1,8:43 PM,0:42,SUB: Dieng FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,147,3,12,1,8:43 PM,0:42,,,Mayo Free Throw 2 of 2 (9 PTS),30 - 19,-11,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,150,1,1,1,8:43 PM,0:28,Budinger  3PT Jump Shot (5 PTS) (Williams 3 AST),,,30 - 22,-8,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,152,1,1,1,8:44 PM,0:05,,,Parker 15' Jump Shot (8 PTS) (Mayo 1 AST),32 - 22,-10,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,154,2,1,1,8:44 PM,0:01,MISS Barea 21' Jump Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,155,4,0,1,8:44 PM,0:00,,,Henson REBOUND (Off:0 Def:3),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,156,13,0,1,8:44 PM,0:00,,End of 1st Period (8:44 PM EST),,32 - 22,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,158,12,0,2,8:47 PM,12:00,,Start of 2nd Period (8:47 PM EST),,32 - 22,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,159,5,1,2,8:47 PM,11:48,Bennett STEAL (1 STL),,Bayless Bad Pass Turnover (P1.T5),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,160,1,79,2,8:47 PM,11:43,Barea 24' 3PT Pullup Jump Shot (3 PTS),,,32 - 25,-7,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,161,5,2,2,8:47 PM,11:25,Barea STEAL (1 STL),,Antetokounmpo Lost Ball Turnover (P1.T6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,162,5,1,2,8:47 PM,11:15,Williams Bad Pass Turnover (P1.T5),,Bayless STEAL (1 STL),,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,163,2,5,2,8:48 PM,11:09,Dieng BLOCK (1 BLK),,MISS Henson 1' Layup,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011400068,164,4,0,2,8:48 PM,11:08,Dieng REBOUND (Off:0 Def:1),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,165,1,8,2,8:48 PM,11:02,Dieng  Slam Dunk (2 PTS) (Barea 1 AST),,,32 - 27,-5,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,166,2,47,2,8:48 PM,10:36,,,MISS Mayo 14' Turnaround Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,167,4,0,2,8:48 PM,10:35,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,168,6,5,2,8:49 PM,10:35,Williams IN.FOUL (P2.T1),,,,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,169,3,11,2,8:49 PM,10:35,,,Mayo Free Throw 1 of 2 (10 PTS),33 - 27,-6,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,171,3,12,2,8:49 PM,10:35,,,Mayo Free Throw 2 of 2 (11 PTS),34 - 27,-7,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,174,5,40,2,8:49 PM,10:30,Barea Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,176,2,42,2,8:50 PM,10:05,,,MISS Bayless 2' Driving Layup,,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,177,4,0,2,8:50 PM,10:03,,,Henson REBOUND (Off:1 Def:3),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,178,2,1,2,8:50 PM,10:01,,,MISS Mayo 24' 3PT Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,179,4,0,2,8:50 PM,10:00,Bennett REBOUND (Off:0 Def:2),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,180,1,1,2,8:50 PM,9:54,Williams 26' 3PT Jump Shot (3 PTS) (Barea 2 AST),,,34 - 30,-4,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,181,2,1,2,8:50 PM,9:36,,,MISS Henson 5' Jump Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,182,4,0,2,8:51 PM,9:30,Budinger REBOUND (Off:1 Def:2),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,183,6,1,2,8:51 PM,9:25,,,Antetokounmpo P.FOUL (P2.T1),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,184,8,0,2,8:51 PM,9:25,,,SUB: Eric FOR Henson,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,185,8,0,2,8:51 PM,9:25,,,SUB: Marshall FOR Bayless,,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,187,2,1,2,8:51 PM,9:19,MISS Budinger 24' 3PT Jump Shot,,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,188,4,0,2,8:51 PM,9:16,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,190,7,2,2,8:52 PM,8:58,Dieng Violation:Defensive Goaltending,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,189,1,42,2,8:52 PM,8:58,,,Antetokounmpo 2' Driving Layup (4 PTS),36 - 30,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,192,6,2,2,8:53 PM,8:35,,,Mayo S.FOUL (P1.T2),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,193,9,1,2,8:53 PM,8:35,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,194,3,11,2,8:55 PM,8:35,Williams Free Throw 1 of 2 (4 PTS),,,36 - 31,-5,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,196,3,12,2,8:55 PM,8:35,Williams Free Throw 2 of 2 (5 PTS),,,36 - 32,-4,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,198,5,2,2,8:56 PM,8:23,Budinger STEAL (1 STL),,Middleton Lost Ball Turnover (P1.T7),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,199,6,2,2,8:56 PM,8:17,,,Eric S.FOUL (P1.T3),,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,200,3,11,2,8:56 PM,8:17,Williams Free Throw 1 of 2 (6 PTS),,,36 - 33,-3,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,202,3,12,2,8:56 PM,8:17,Williams Free Throw 2 of 2 (7 PTS),,,36 - 34,-2,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,204,2,1,2,8:57 PM,8:07,,,MISS Antetokounmpo 21' Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,205,4,0,2,8:57 PM,8:07,Williams REBOUND (Off:0 Def:2),,,,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,206,6,2,2,8:57 PM,7:57,,,Eric S.FOUL (P2.T4),,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,207,3,11,2,8:57 PM,7:57,Dieng Free Throw 1 of 2 (3 PTS),,,36 - 35,-1,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,209,8,0,2,8:57 PM,7:57,SUB: Wiggins FOR Williams,,,,,4,2590,Mo Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,210,8,0,2,8:57 PM,7:57,,,SUB: Dudley FOR Mayo,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,211,3,12,2,8:58 PM,7:57,Dieng Free Throw 2 of 2 (4 PTS),,,36 - 36,TIE,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,213,1,49,2,8:58 PM,7:43,,,Antetokounmpo  Driving Dunk (6 PTS) (Dudley 1 AST),38 - 36,-2,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,214,2,1,2,8:58 PM,7:33,MISS Bennett 20' Jump Shot,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,215,4,0,2,8:58 PM,7:32,,,Marshall REBOUND (Off:0 Def:2),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,216,1,42,2,8:58 PM,7:24,,,Middleton 1' Driving Layup (4 PTS) (Marshall 2 AST),40 - 36,-4,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,217,9,1,2,8:59 PM,7:14,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,219,8,0,2,9:01 PM,7:14,,,SUB: Pachulia FOR Eric,,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,220,2,1,2,9:01 PM,7:02,MISS Bennett 5' Jump Shot,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,222,4,0,2,9:01 PM,7:02,Wiggins REBOUND (Off:1 Def:1),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,221,1,54,2,9:01 PM,7:02,Wiggins 2' Running Tip Shot (2 PTS),,,40 - 38,-2,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,223,1,1,2,9:01 PM,6:49,,,Middleton 20' Jump Shot (6 PTS) (Marshall 3 AST),42 - 38,-4,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,224,2,1,2,9:02 PM,6:36,MISS Dieng 18' Jump Shot,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,225,4,0,2,9:02 PM,6:32,,,Marshall REBOUND (Off:0 Def:3),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,226,2,73,2,9:02 PM,6:24,,,MISS Middleton 1' Driving Reverse Layup,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,227,4,0,2,9:02 PM,6:24,Wiggins REBOUND (Off:1 Def:2),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,228,2,82,2,9:02 PM,6:16,MISS Barea 7' Driving Bank Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,229,4,0,2,9:02 PM,6:13,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,232,8,0,2,9:02 PM,6:10,SUB: Young FOR Bennett,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,233,8,0,2,9:02 PM,6:10,SUB: LaVine FOR Budinger,,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,234,2,1,2,9:03 PM,5:53,MISS Dieng 5' Jump Shot,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,235,4,0,2,9:03 PM,5:52,,,Antetokounmpo REBOUND (Off:0 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,237,2,1,2,9:03 PM,5:33,,,MISS Antetokounmpo 24' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,238,4,0,2,9:03 PM,5:32,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,239,6,3,2,9:03 PM,5:26,Dieng L.B.FOUL (P1.T2),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,240,5,2,2,9:03 PM,5:24,Young STEAL (1 STL),,Dudley Lost Ball Turnover (P1.T8),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,241,5,4,2,9:04 PM,5:21,Wiggins Traveling Turnover (P1.T7),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,243,2,5,2,9:04 PM,5:02,,,MISS Pachulia 1' Layup,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,244,4,0,2,9:04 PM,5:01,,,Antetokounmpo REBOUND (Off:1 Def:2),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,245,6,1,2,9:04 PM,4:58,Young P.FOUL (P2.T3),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,246,8,0,2,9:05 PM,4:58,,,SUB: Parker FOR Antetokounmpo,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,247,1,42,2,9:05 PM,4:56,,,Dudley 1' Driving Layup (9 PTS) (Pachulia 1 AST),44 - 38,-6,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,248,5,8,2,9:05 PM,4:34,Dieng 3 Second Violation Turnover (P1.T8),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,249,6,2,2,9:05 PM,4:25,Dieng S.FOUL (P2.T4),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,250,3,11,2,9:06 PM,4:25,,,MISS Pachulia Free Throw 1 of 2,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,251,4,1,2,9:06 PM,4:25,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,252,3,12,2,9:06 PM,4:25,,,MISS Pachulia Free Throw 2 of 2,,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,255,4,0,2,9:06 PM,4:25,Dieng REBOUND (Off:0 Def:2),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,256,2,1,2,9:07 PM,4:01,MISS Barea 24' 3PT Jump Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,257,4,0,2,9:07 PM,4:00,,,Dudley REBOUND (Off:0 Def:2),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,258,5,1,2,9:07 PM,3:58,LaVine STEAL (1 STL),,Dudley Bad Pass Turnover (P2.T9),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,259,2,5,2,9:07 PM,3:53,MISS Wiggins 2' Layup,,Parker BLOCK (2 BLK),,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,260,4,0,2,9:07 PM,3:50,Dieng REBOUND (Off:1 Def:2),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,261,5,2,2,9:07 PM,3:49,Dieng Lost Ball Turnover (P2.T9),,Pachulia STEAL (1 STL),,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,263,9,1,2,9:07 PM,3:48,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,264,2,1,2,9:10 PM,3:34,,,MISS Middleton 21' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,265,4,0,2,9:10 PM,3:33,LaVine REBOUND (Off:0 Def:2),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,266,2,5,2,9:10 PM,3:23,MISS Dieng 1' Layup,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,267,4,0,2,9:10 PM,3:22,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,268,6,3,2,9:10 PM,3:22,Young L.B.FOUL (P3.PN),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,269,3,11,2,9:10 PM,3:22,,,Pachulia Free Throw 1 of 2 (5 PTS),45 - 38,-7,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,271,3,12,2,9:10 PM,3:22,,,Pachulia Free Throw 2 of 2 (6 PTS),46 - 38,-8,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,274,2,1,2,9:11 PM,3:05,MISS Wiggins 24' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,275,4,0,2,9:11 PM,3:04,Barea REBOUND (Off:1 Def:0),,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,276,2,1,2,9:11 PM,3:00,MISS LaVine  3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,277,4,0,2,9:11 PM,2:59,,,Parker REBOUND (Off:2 Def:5),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,278,5,4,2,9:11 PM,2:53,,,Middleton Traveling Turnover (P2.T10),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,280,6,17,2,9:12 PM,2:39,,,Bucks T.Foul (Def. 3 Sec Pachulia ),,,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,281,3,16,2,9:12 PM,2:39,Barea Free Throw Technical (4 PTS),,,46 - 39,-7,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,283,1,80,2,9:12 PM,2:31,Wiggins 15' Step Back Jump Shot (4 PTS),,,46 - 41,-5,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,284,2,1,2,9:13 PM,2:15,,,MISS Parker 15' Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,285,4,0,2,9:13 PM,2:14,Barea REBOUND (Off:1 Def:1),,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,286,6,2,2,9:13 PM,2:09,,,Marshall S.FOUL (P3.PN),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,287,3,11,2,9:13 PM,2:09,Barea Free Throw 1 of 2 (5 PTS),,,46 - 42,-4,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,289,8,0,2,9:13 PM,2:09,,,SUB: Bayless FOR Marshall,,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,290,3,12,2,9:13 PM,2:09,Barea Free Throw 2 of 2 (6 PTS),,,46 - 43,-3,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,292,2,1,2,9:14 PM,1:53,,,MISS Middleton 20' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,293,4,0,2,9:14 PM,1:52,,,Dudley REBOUND (Off:1 Def:2),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,294,1,1,2,9:14 PM,1:30,,,Pachulia 18' Jump Shot (8 PTS),48 - 43,-5,5,2585,Zaza Pachulia,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,296,9,2,2,9:15 PM,1:06,TIMBERWOLVES Timeout: Short (Full 2 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,297,2,1,2,9:16 PM,1:03,MISS Young 21' Jump Shot,,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,298,4,0,2,9:16 PM,1:02,,,Bayless REBOUND (Off:0 Def:3),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,299,1,1,2,9:16 PM,0:56,,,Middleton 24' 3PT Jump Shot (9 PTS) (Bayless 4 AST),51 - 43,-8,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,300,2,1,2,9:16 PM,0:37,MISS Barea 15' Jump Shot,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,301,4,0,2,9:16 PM,0:37,,,Dudley REBOUND (Off:1 Def:3),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,302,5,1,2,9:16 PM,0:33,Barea STEAL (2 STL),,Bayless Bad Pass Turnover (P2.T11),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,303,5,1,2,9:16 PM,0:30,Barea Bad Pass Turnover (P2.T10),,Bayless STEAL (2 STL),,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,304,1,5,2,9:16 PM,0:25,,,Middleton 1' Layup (11 PTS) (Bayless 5 AST),53 - 43,-10,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,306,2,1,2,9:17 PM,0:09,MISS LaVine 18' Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,307,4,0,2,9:17 PM,0:08,,,Parker REBOUND (Off:2 Def:6),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,308,2,1,2,9:17 PM,0:01,,,MISS Middleton  3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,309,4,0,2,9:17 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,311,13,0,2,9:17 PM,0:00,,End of 2nd Period (9:17 PM EST),,53 - 43,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,313,12,0,3,9:33 PM,12:00,,Start of 3rd Period (9:33 PM EST),,53 - 43,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,314,1,1,3,9:33 PM,11:45,,,Parker 16' Jump Shot (10 PTS) (Marshall 4 AST),55 - 43,-12,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,315,6,2,3,9:33 PM,11:32,,,Dudley S.FOUL (P2.T1),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,316,3,11,3,9:34 PM,11:32,MISS Pekovic Free Throw 1 of 2,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,317,4,1,3,9:34 PM,11:32,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,318,3,12,3,9:34 PM,11:32,Pekovic Free Throw 2 of 2 (4 PTS),,,55 - 44,-11,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,320,1,1,3,9:34 PM,11:19,,,Middleton  3PT Jump Shot (14 PTS) (Marshall 5 AST),58 - 44,-14,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,321,1,42,3,9:35 PM,11:07,Young 3' Driving Layup (6 PTS),,,58 - 46,-12,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,322,2,1,3,9:35 PM,10:46,,,MISS Middleton 24' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,323,4,0,3,9:35 PM,10:45,LaVine REBOUND (Off:0 Def:3),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,324,2,5,3,9:35 PM,10:34,MISS Pekovic 1' Layup,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,325,4,0,3,9:35 PM,10:33,,,Dudley REBOUND (Off:1 Def:4),,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,326,6,2,3,9:35 PM,10:24,Pekovic S.FOUL (P1.T1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,327,3,11,3,9:36 PM,10:24,,,MISS Henson Free Throw 1 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,328,4,1,3,9:36 PM,10:24,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,329,3,12,3,9:36 PM,10:24,,,MISS Henson Free Throw 2 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,331,4,0,3,9:36 PM,10:24,Pekovic REBOUND (Off:3 Def:1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,333,1,42,3,9:36 PM,10:15,LaVine 1' Driving Layup (2 PTS),,,58 - 48,-10,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,334,6,2,3,9:36 PM,10:15,,,Henson S.FOUL (P3.T2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,335,3,10,3,9:36 PM,10:15,MISS LaVine Free Throw 1 of 1,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,337,4,0,3,9:37 PM,10:15,,,Parker REBOUND (Off:2 Def:7),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,338,5,2,3,9:37 PM,10:00,Young STEAL (2 STL),,Marshall Lost Ball Turnover (P1.T12),,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,339,1,8,3,9:37 PM,9:56,Wiggins  Slam Dunk (6 PTS) (Young 1 AST),,,58 - 50,-8,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,340,1,1,3,9:37 PM,9:30,,,Dudley  3PT Jump Shot (12 PTS) (Middleton 1 AST),61 - 50,-11,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,341,1,1,3,9:38 PM,9:15,Young 21' Jump Shot (8 PTS),,,61 - 52,-9,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,342,2,1,3,9:38 PM,8:55,,,MISS Parker 25' 3PT Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,343,4,0,3,9:38 PM,8:53,LaVine REBOUND (Off:0 Def:4),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,344,1,8,3,9:38 PM,8:49,Young  Slam Dunk (10 PTS) (LaVine 1 AST),,,61 - 54,-7,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,345,1,1,3,9:38 PM,8:28,,,Parker 12' Jump Shot (12 PTS) (Marshall 6 AST),63 - 54,-9,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,346,2,1,3,9:39 PM,8:15,MISS LaVine 25' 3PT Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,347,4,0,3,9:39 PM,8:14,,,Parker REBOUND (Off:2 Def:8),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,348,2,5,3,9:39 PM,8:07,,,MISS Parker 1' Layup,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,350,4,0,3,9:39 PM,8:06,,,Henson REBOUND (Off:2 Def:3),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,349,1,87,3,9:39 PM,8:06,,,Henson  Putback Dunk (2 PTS),65 - 54,-11,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,351,2,1,3,9:39 PM,7:40,MISS Wiggins 10' Jump Shot,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,357,4,0,3,9:39 PM,7:35,Wiggins REBOUND (Off:2 Def:2),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,352,1,4,3,9:39 PM,7:35,Wiggins 2' Tip Shot (8 PTS),,,65 - 56,-9,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,353,6,1,3,9:40 PM,7:34,Young P.FOUL (P4.T2),,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,355,8,0,3,9:40 PM,7:34,SUB: Bennett FOR Young,,,,,4,201152,Thaddeus Young,1610612750.0,Minnesota,Timberwolves,MIN,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,356,8,0,3,9:40 PM,7:34,,,SUB: Bayless FOR Marshall,,,5,203088,Kendall Marshall,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,358,5,1,3,9:40 PM,7:33,Brewer STEAL (1 STL),,Parker Bad Pass Turnover (P3.T13),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,359,2,5,3,9:40 PM,7:14,MISS Brewer 1' Layup,,Middleton BLOCK (1 BLK),,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,360,4,0,3,9:40 PM,7:11,Pekovic REBOUND (Off:4 Def:1),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,361,1,5,3,9:40 PM,7:07,Bennett  Layup (4 PTS) (Pekovic 2 AST),,,65 - 58,-7,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,362,2,1,3,9:41 PM,7:02,,,MISS Dudley 25' 3PT Jump Shot,,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,363,4,0,3,9:41 PM,7:00,Wiggins REBOUND (Off:2 Def:3),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,365,6,4,3,9:41 PM,6:51,Pekovic OFF.Foul (P2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,366,5,5,3,9:41 PM,6:51,Pekovic Foul Turnover (P1.T11),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,367,8,0,3,9:41 PM,6:51,,,SUB: Mayo FOR Dudley,,,5,201162,Jared Dudley,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,368,2,5,3,9:41 PM,6:51,,,MISS Mayo 1' Layup,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,369,4,0,3,9:41 PM,6:50,Brewer REBOUND (Off:0 Def:1),,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,371,5,33,3,9:42 PM,6:29,LaVine Punched Ball Turnover (P3.T12),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,373,2,1,3,9:42 PM,6:16,,,MISS Henson 15' Jump Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,374,4,0,3,9:42 PM,6:16,Bennett REBOUND (Off:0 Def:3),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,376,1,1,3,9:42 PM,6:08,Bennett 20' Jump Shot (6 PTS) (LaVine 2 AST),,,65 - 60,-5,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,379,6,4,3,9:42 PM,5:57,,,Mayo OFF.Foul (P2),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,380,5,5,3,9:42 PM,5:57,,,Mayo Foul Turnover (P1.T14),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,381,9,1,3,9:43 PM,5:57,TIMBERWOLVES Timeout: Regular (Full 3 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,396,8,0,3,9:43 PM,5:57,,,SUB: Antetokounmpo FOR Henson,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,383,8,0,3,9:45 PM,5:57,,,SUB: Eric FOR Middleton,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,384,5,1,3,9:45 PM,5:46,LaVine Bad Pass Turnover (P4.T13),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,385,2,1,3,9:45 PM,5:28,,,MISS Parker 15' Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,386,4,0,3,9:45 PM,5:27,Pekovic REBOUND (Off:4 Def:2),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,387,2,1,3,9:45 PM,5:23,MISS Brewer 11' Jump Shot,,Antetokounmpo BLOCK (1 BLK),,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,388,4,0,3,9:45 PM,5:21,Wiggins REBOUND (Off:3 Def:3),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,389,2,5,3,9:46 PM,5:17,MISS Wiggins 2' Layup,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,390,4,0,3,9:46 PM,5:17,,,Antetokounmpo REBOUND (Off:1 Def:3),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,391,1,1,3,9:46 PM,5:12,,,Bayless 24' 3PT Jump Shot (3 PTS),68 - 60,-8,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,394,2,1,3,9:46 PM,4:53,MISS Wiggins 24' 3PT Jump Shot,,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,395,4,0,3,9:46 PM,4:51,,,Eric REBOUND (Off:0 Def:1),,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,397,6,2,3,9:46 PM,4:38,Pekovic S.FOUL (P3.T3),,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,398,3,11,3,9:47 PM,4:38,,,Parker Free Throw 1 of 2 (13 PTS),69 - 60,-9,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,401,8,0,3,9:47 PM,4:38,SUB: Budinger FOR Brewer,,,,,4,201147,Corey Brewer,1610612750.0,Minnesota,Timberwolves,MIN,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,402,3,12,3,9:47 PM,4:38,,,Parker Free Throw 2 of 2 (14 PTS),70 - 60,-10,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,404,5,1,3,9:47 PM,4:30,LaVine Bad Pass Turnover (P5.T14),,Eric STEAL (1 STL),,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,406,1,42,3,9:47 PM,4:24,,,Antetokounmpo  Driving Layup (8 PTS) (Mayo 2 AST),72 - 60,-12,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,407,9,1,3,9:47 PM,4:16,TIMBERWOLVES Timeout: Regular (Full 4 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,409,8,0,3,9:49 PM,4:16,SUB: Dieng FOR Pekovic,,,,,4,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,410,8,0,3,9:49 PM,4:16,SUB: Barea FOR LaVine,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,411,1,1,3,9:50 PM,4:16,Budinger 20' Jump Shot (7 PTS) (Barea 3 AST),,,72 - 62,-10,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,413,6,2,3,9:50 PM,3:51,Budinger S.FOUL (P2.T4),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,414,3,11,3,9:50 PM,3:51,,,MISS Mayo Free Throw 1 of 2,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,415,4,1,3,9:50 PM,3:51,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,416,3,12,3,9:51 PM,3:51,,,Mayo Free Throw 2 of 2 (12 PTS),73 - 62,-11,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,419,6,2,3,9:51 PM,3:38,,,Parker S.FOUL (P3.T3),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,420,3,11,3,9:51 PM,3:38,Dieng Free Throw 1 of 2 (5 PTS),,,73 - 63,-10,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,422,3,12,3,9:52 PM,3:38,Dieng Free Throw 2 of 2 (6 PTS),,,73 - 64,-9,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,424,6,17,3,9:52 PM,3:17,TIMBERWOLVES T.Foul (Def. 3 Sec Wiggins ),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,425,3,16,3,9:52 PM,3:17,,,Antetokounmpo Free Throw Technical (9 PTS),74 - 64,-10,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,428,5,1,3,9:53 PM,3:10,Bennett STEAL (2 STL),,Bayless Bad Pass Turnover (P3.T15),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,429,2,1,3,9:53 PM,2:59,MISS Bennett 19' Jump Shot,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,430,4,0,3,9:53 PM,2:59,,,Antetokounmpo REBOUND (Off:1 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,431,5,1,3,9:53 PM,2:52,,,Antetokounmpo Bad Pass Turnover (P2.T16),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,433,1,79,3,9:54 PM,2:37,Wiggins 20' Pullup Jump Shot (10 PTS),,,74 - 66,-8,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,434,2,42,3,9:54 PM,2:22,,,MISS Antetokounmpo 1' Driving Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,435,4,0,3,9:54 PM,2:21,Bennett REBOUND (Off:0 Def:4),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,437,6,1,3,9:54 PM,2:09,,,Bayless P.FOUL (P1.T4),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,438,6,2,3,9:55 PM,2:03,,,Eric S.FOUL (P3.PN),,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,439,3,11,3,9:55 PM,2:03,Dieng Free Throw 1 of 2 (7 PTS),,,74 - 67,-7,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,441,3,12,3,9:55 PM,2:03,Dieng Free Throw 2 of 2 (8 PTS),,,74 - 68,-6,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,444,2,46,3,9:56 PM,1:42,,,MISS Antetokounmpo 8' Running Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,445,4,0,3,9:56 PM,1:42,Bennett REBOUND (Off:0 Def:5),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,447,1,1,3,9:56 PM,1:24,Barea 17' Jump Shot (8 PTS),,,74 - 70,-4,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,448,1,1,3,9:57 PM,1:11,,,Mayo 25' 3PT Jump Shot (15 PTS) (Parker 2 AST),77 - 70,-7,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,449,5,2,3,9:57 PM,1:04,Barea Lost Ball Turnover (P3.T15),,Bayless STEAL (3 STL),,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,450,1,8,3,9:57 PM,0:59,,,Eric  Slam Dunk (2 PTS) (Mayo 3 AST),79 - 70,-9,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,451,5,4,3,9:57 PM,0:42,Wiggins Traveling Turnover (P2.T16),,,,,4,203952,Andrew Wiggins,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,452,2,1,3,9:58 PM,0:18,,,MISS Bayless 22' Jump Shot,,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,453,4,0,3,9:58 PM,0:17,Bennett REBOUND (Off:0 Def:6),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,455,6,1,3,9:58 PM,0:00,,,Bayless P.FOUL (P2.PN),,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,456,3,11,3,9:58 PM,0:00,Barea Free Throw 1 of 2 (9 PTS),,,79 - 71,-8,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,458,3,12,3,9:59 PM,0:00,Barea Free Throw 2 of 2 (10 PTS),,,79 - 72,-7,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,461,2,1,3,9:59 PM,0:00,,,MISS Antetokounmpo 38' 3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,462,4,0,3,9:59 PM,0:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,463,13,0,3,9:59 PM,0:00,,End of 3rd Period (9:59 PM EST),,79 - 72,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,464,12,0,4,10:01 PM,12:00,,Start of 4th Period (10:01 PM EST),,79 - 72,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,465,1,1,4,10:02 PM,11:49,Budinger 18' Jump Shot (9 PTS) (Barea 4 AST),,,79 - 74,-5,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,466,1,1,4,10:02 PM,11:31,,,Bayless 20' Jump Shot (5 PTS) (Middleton 2 AST),81 - 74,-7,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,467,6,4,4,10:02 PM,11:15,Dieng OFF.Foul (P3),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,468,5,5,4,10:02 PM,11:15,Dieng Foul Turnover (P3.T17),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,469,5,1,4,10:03 PM,11:04,Robinson STEAL (1 STL),,Middleton Bad Pass Turnover (P3.T17),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,470,1,63,4,10:03 PM,10:41,Dieng 8' Fadeaway Jumper (10 PTS) (Barea 5 AST),,,81 - 76,-5,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,471,2,5,4,10:03 PM,10:12,,,MISS Eric 2' Layup,,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,472,4,0,4,10:04 PM,10:11,Bennett REBOUND (Off:0 Def:7),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,473,2,47,4,10:04 PM,9:50,MISS Dieng 6' Turnaround Jump Shot,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,474,4,0,4,10:04 PM,9:49,,,Middleton REBOUND (Off:0 Def:1),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,475,2,1,4,10:04 PM,9:35,,,MISS Middleton 25' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,476,4,0,4,10:04 PM,9:34,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,477,6,3,4,10:04 PM,9:34,,,Eric L.B.FOUL (P4.T1),,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,478,8,0,4,10:04 PM,9:34,,,SUB: Henson FOR Eric,,,5,203149,Micheal Eric,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,479,1,42,4,10:05 PM,9:19,Bennett 1' Driving Layup (8 PTS),,,81 - 78,-3,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,480,1,73,4,10:05 PM,9:04,,,Antetokounmpo 1' Driving Reverse Layup (11 PTS),83 - 78,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,481,1,1,4,10:05 PM,8:54,Bennett 19' Jump Shot (10 PTS) (Barea 6 AST),,,83 - 80,-3,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,482,1,8,4,10:05 PM,8:42,,,Antetokounmpo  Slam Dunk (13 PTS) (Bayless 6 AST),85 - 80,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,484,6,1,4,10:06 PM,8:21,,,Henson P.FOUL (P4.T2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,485,9,1,4,10:06 PM,8:21,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,487,2,1,4,10:08 PM,8:10,MISS Robinson 21' Jump Shot,,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,488,4,0,4,10:09 PM,8:09,,,Middleton REBOUND (Off:0 Def:2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,489,6,2,4,10:09 PM,7:51,Budinger S.FOUL (P3.T1),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,490,3,11,4,10:09 PM,7:51,,,MISS Henson Free Throw 1 of 2,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,491,4,1,4,10:09 PM,7:51,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,492,3,12,4,10:09 PM,7:51,,,Henson Free Throw 2 of 2 (3 PTS),86 - 80,-6,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,494,1,7,4,10:10 PM,7:40,Dieng  Dunk (12 PTS) (Barea 7 AST),,,86 - 82,-4,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,495,2,1,4,10:10 PM,7:20,Bennett BLOCK (1 BLK),,MISS Middleton 6' Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011400068,496,4,0,4,10:10 PM,7:18,,,Middleton REBOUND (Off:1 Def:2),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,497,2,5,4,10:10 PM,7:16,Dieng BLOCK (2 BLK),,MISS Middleton 1' Layup,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011400068,498,4,0,4,10:10 PM,7:15,Bennett REBOUND (Off:0 Def:8),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,499,6,1,4,10:10 PM,7:13,,,Middleton P.FOUL (P3.T3),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,501,2,5,4,10:11 PM,6:56,MISS Robinson 3' Layup,,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,503,4,0,4,10:11 PM,6:55,Bennett REBOUND (Off:1 Def:8),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,502,2,5,4,10:11 PM,6:55,MISS Bennett 1' Layup,,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,504,4,0,4,10:11 PM,6:52,,,Middleton REBOUND (Off:1 Def:3),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,505,5,1,4,10:11 PM,6:50,Budinger STEAL (2 STL),,Middleton Bad Pass Turnover (P4.T18),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,506,1,8,4,10:11 PM,6:46,Dieng  Slam Dunk (14 PTS) (Robinson 1 AST),,,86 - 84,-2,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,507,1,46,4,10:11 PM,6:33,,,Mayo 6' Running Jump Shot (17 PTS),88 - 84,-4,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,508,6,2,4,10:11 PM,6:33,Budinger S.FOUL (P4.T2),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,509,8,0,4,10:12 PM,6:33,SUB: LaVine FOR Barea,,,,,4,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,510,3,10,4,10:12 PM,6:33,,,MISS Mayo Free Throw 1 of 1,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,512,4,0,4,10:12 PM,6:33,Robinson REBOUND (Off:0 Def:1),,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,513,2,1,4,10:12 PM,6:13,MISS LaVine 21' Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,514,4,0,4,10:12 PM,6:12,Bennett REBOUND (Off:2 Def:8),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,515,5,2,4,10:12 PM,6:10,Bennett Lost Ball Turnover (P1.T18),,Henson STEAL (1 STL),,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,516,2,5,4,10:12 PM,6:07,,,MISS Mayo 1' Layup,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,518,4,0,4,10:12 PM,6:06,,,Henson REBOUND (Off:3 Def:3),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,517,1,87,4,10:12 PM,6:06,,,Henson  Putback Dunk (5 PTS),90 - 84,-6,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,520,9,1,4,10:13 PM,5:58,TIMBERWOLVES Timeout: Regular (Full 5 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,522,8,0,4,10:15 PM,5:58,,,SUB: Parker FOR Bayless,,,5,201573,Jerryd Bayless,1610612749.0,Milwaukee,Bucks,MIL,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,523,2,1,4,10:15 PM,5:46,MISS Robinson 19' Jump Shot,,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,524,4,0,4,10:15 PM,5:45,,,Parker REBOUND (Off:2 Def:9),,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,525,5,1,4,10:15 PM,5:35,Budinger STEAL (3 STL),,Mayo Bad Pass Turnover (P2.T19),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,526,2,5,4,10:15 PM,5:31,MISS Budinger 2' Layup,,Mayo BLOCK (1 BLK),,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,527,4,0,4,10:16 PM,5:29,Robinson REBOUND (Off:1 Def:1),,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,528,1,5,4,10:16 PM,5:26,Robinson 1' Layup (2 PTS),,,90 - 86,-4,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,529,2,80,4,10:16 PM,5:10,,,MISS Parker 18' Step Back Jump Shot,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,530,4,0,4,10:16 PM,5:09,Dieng REBOUND (Off:1 Def:3),,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,531,6,1,4,10:16 PM,5:02,,,Mayo P.FOUL (P3.T4),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,532,2,1,4,10:16 PM,4:54,MISS Dieng 14' Jump Shot,,,,,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,533,4,0,4,10:16 PM,4:53,,,Middleton REBOUND (Off:1 Def:4),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,534,2,5,4,10:17 PM,4:38,,,MISS Antetokounmpo 1' Layup,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,535,4,0,4,10:17 PM,4:38,,,Antetokounmpo REBOUND (Off:2 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,536,1,5,4,10:17 PM,4:36,,,Antetokounmpo 1' Layup (15 PTS),92 - 86,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,538,5,2,4,10:18 PM,4:19,LaVine Lost Ball Turnover (P6.T19),,Antetokounmpo STEAL (1 STL),,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,539,1,7,4,10:18 PM,4:16,,,Parker  Dunk (16 PTS) (Antetokounmpo 2 AST),94 - 86,-8,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011400068,540,9,1,4,10:18 PM,4:16,TIMBERWOLVES Timeout: Regular (Full 6 Short 1),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,542,1,8,4,10:20 PM,3:57,Bennett  Slam Dunk (12 PTS) (Budinger 1 AST),,,94 - 88,-6,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,543,2,1,4,10:20 PM,3:37,,,MISS Antetokounmpo  3PT Jump Shot,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,544,4,0,4,10:20 PM,3:36,,,Antetokounmpo REBOUND (Off:3 Def:4),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,545,5,11,4,10:20 PM,3:31,,,Bucks Turnover: Shot Clock (T#20),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400068,546,6,4,4,10:21 PM,3:22,Bennett OFF.Foul (P1),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,547,5,5,4,10:21 PM,3:22,Bennett Foul Turnover (P2.T20),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011400068,548,6,1,4,10:21 PM,3:13,Robinson P.FOUL (P1.T3),,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,549,6,4,4,10:22 PM,3:12,,,Mayo OFF.Foul (P4),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,550,5,5,4,10:22 PM,3:12,,,Mayo Foul Turnover (P3.T21),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011400068,551,1,1,4,10:22 PM,2:53,Budinger  3PT Jump Shot (12 PTS) (Robinson 2 AST),,,94 - 91,-3,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,552,1,79,4,10:23 PM,2:22,,,Mayo 12' Pullup Jump Shot (19 PTS),96 - 91,-5,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,553,6,2,4,10:23 PM,2:14,,,Middleton S.FOUL (P4.PN),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,554,3,11,4,10:23 PM,2:14,MISS LaVine Free Throw 1 of 2,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,555,4,1,4,10:23 PM,2:14,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,556,3,12,4,10:24 PM,2:14,MISS LaVine Free Throw 2 of 2,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,558,4,0,4,10:24 PM,2:14,,,Middleton REBOUND (Off:1 Def:5),,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,560,2,1,4,10:24 PM,1:52,,,MISS Middleton 24' 3PT Jump Shot,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,561,4,0,4,10:24 PM,1:51,LaVine REBOUND (Off:0 Def:5),,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,562,1,75,4,10:24 PM,1:42,Robinson 1' Driving Finger Roll Layup (4 PTS) (Budinger 2 AST),,,96 - 93,-3,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,564,2,1,4,10:25 PM,1:26,,,MISS Mayo 17' Jump Shot,,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,565,4,0,4,10:25 PM,1:25,Bennett REBOUND (Off:2 Def:9),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,566,1,84,4,10:25 PM,1:17,LaVine 3' Running Bank Shot (4 PTS),,,96 - 95,-1,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,567,6,2,4,10:25 PM,1:00,Robinson S.FOUL (P2.T4),,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,568,3,11,4,10:25 PM,1:00,,,MISS Parker Free Throw 1 of 2,,,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,569,4,1,4,10:25 PM,1:00,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,570,3,12,4,10:26 PM,1:00,,,Parker Free Throw 2 of 2 (17 PTS),97 - 95,-2,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,572,6,2,4,10:26 PM,0:43,,,Mayo S.FOUL (P5.PN),,,5,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011400068,573,3,11,4,10:26 PM,0:43,MISS Budinger Free Throw 1 of 2,,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,574,4,1,4,10:26 PM,0:43,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,575,3,12,4,10:27 PM,0:43,Budinger Free Throw 2 of 2 (13 PTS),,,97 - 96,-1,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,578,9,1,4,10:27 PM,0:43,,,Bucks Timeout: Regular (Reg.3 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,579,1,49,4,10:29 PM,0:39,,,Parker  Driving Dunk (19 PTS),99 - 96,-3,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,580,2,1,4,10:29 PM,0:32,MISS Budinger 24' 3PT Jump Shot,,Middleton BLOCK (2 BLK),,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,581,4,0,4,10:29 PM,0:28,,,Antetokounmpo REBOUND (Off:3 Def:5),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,582,9,2,4,10:30 PM,0:26,,,Bucks Timeout: Short (Reg.3 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,583,6,28,4,10:31 PM,0:23,Budinger Personal Take Foul (P5.PN),,,,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,584,3,11,4,10:32 PM,0:23,,,Antetokounmpo Free Throw 1 of 2 (16 PTS),100 - 96,-4,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,586,3,12,4,10:32 PM,0:23,,,Antetokounmpo Free Throw 2 of 2 (17 PTS),101 - 96,-5,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,589,1,7,4,10:32 PM,0:16,Dieng  Dunk (16 PTS) (LaVine 3 AST),,,101 - 98,-3,4,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011400068,590,6,28,4,10:33 PM,0:13,Robinson Personal Take Foul (P3.PN),,,,,4,203922,Glenn Robinson III,1610612750.0,Minnesota,Timberwolves,MIN,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,591,3,11,4,10:33 PM,0:13,,,Parker Free Throw 1 of 2 (20 PTS),102 - 98,-4,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,593,3,12,4,10:33 PM,0:13,,,Parker Free Throw 2 of 2 (21 PTS),103 - 98,-5,5,203953,Jabari Parker,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,595,9,2,4,10:33 PM,0:13,TIMBERWOLVES Timeout: Short (Full 6 Short 2),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400068,597,2,5,4,10:34 PM,0:10,MISS Budinger 1' Layup,,Antetokounmpo BLOCK (2 BLK),,,4,201978,Chase Budinger,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011400068,598,4,0,4,10:34 PM,0:09,,,Antetokounmpo REBOUND (Off:3 Def:6),,,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,599,6,28,4,10:35 PM,0:07,Bennett Personal Take Foul (P2.PN),,,,,4,203461,Anthony Bennett,1610612750.0,Minnesota,Timberwolves,MIN,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011400068,600,3,11,4,10:35 PM,0:07,,,Antetokounmpo Free Throw 1 of 2 (18 PTS),104 - 98,-6,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,602,3,12,4,10:35 PM,0:07,,,Antetokounmpo Free Throw 2 of 2 (19 PTS),105 - 98,-7,5,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,605,2,79,4,10:35 PM,0:03,MISS LaVine 25' 3PT Pullup Jump Shot,,,,,4,203897,Zach LaVine,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011400068,606,4,0,4,10:35 PM,0:02,,,Henson REBOUND (Off:3 Def:4),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011400068,607,13,0,4,10:35 PM,0:00,,End of 4th Period (10:35 PM EST),,105 - 98,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

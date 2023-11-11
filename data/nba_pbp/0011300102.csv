@@ -1,0 +1,527 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300102,0,12,0,1,10:40 PM,12:00,,Start of 1st Period (10:40 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,1,10,0,1,10:40 PM,12:00,Jump Ball Jordan vs. Favors: Tip to Paul,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,3,1,7,1,10:41 PM,11:48,Griffin 2' Dunk (2 PTS) (Paul 1 AST),,,0 - 2,2,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,4,5,1,1,10:41 PM,11:29,Dudley STEAL (1 STL),,Kanter Bad Pass Turnover (P1.T1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,5,1,49,1,10:41 PM,11:25,Jordan 2' Driving Dunk (2 PTS) (Dudley 1 AST),,,0 - 4,4,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,6,1,8,1,10:41 PM,11:10,,,Favors 3' Slam Dunk (2 PTS) (Jefferson 1 AST),2 - 4,2,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,7,1,1,1,10:42 PM,10:52,Redick 19' Jump Shot (2 PTS) (Paul 2 AST),,,2 - 6,4,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,8,1,5,1,10:42 PM,10:31,,,Kanter 3' Layup (2 PTS) (Jefferson 2 AST),4 - 6,2,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,9,2,1,1,10:42 PM,10:23,MISS Paul 3' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,10,4,0,1,10:42 PM,10:23,,,Favors REBOUND (Off:0 Def:1),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,11,2,56,1,10:42 PM,10:11,,,MISS Hayward 3' Running Hook Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,12,4,0,1,10:42 PM,10:09,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,15,2,1,1,10:43 PM,9:55,MISS Paul 12' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,16,4,0,1,10:43 PM,9:54,,,Lucas III REBOUND (Off:0 Def:1),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,17,1,5,1,10:43 PM,9:32,,,Favors 3' Layup (4 PTS) (Jefferson 3 AST),6 - 6,TIE,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,18,1,7,1,10:44 PM,9:23,Jordan 3' Dunk (4 PTS) (Paul 3 AST),,,6 - 8,2,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,19,2,1,1,10:44 PM,9:08,,,MISS Favors 20' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,20,4,0,1,10:44 PM,9:07,Paul REBOUND (Off:0 Def:1),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,21,6,2,1,10:44 PM,9:04,,,Jefferson S.FOUL (P1.T1),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,22,3,11,1,10:44 PM,9:04,Jordan Free Throw 1 of 2 (5 PTS),,,6 - 9,3,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,24,3,12,1,10:45 PM,9:04,MISS Jordan Free Throw 2 of 2,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,26,4,0,1,10:45 PM,9:04,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,27,5,40,1,10:45 PM,8:53,,,Kanter Out of Bounds Lost Ball Turnover (P2.T2),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,28,5,1,1,10:46 PM,8:38,Dudley Bad Pass Turnover (P1.T1),,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,29,1,58,1,10:46 PM,8:20,,,Favors 7' Turnaround Hook Shot (6 PTS),8 - 9,1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,30,2,1,1,10:46 PM,8:10,MISS Redick 25' 3PT Jump Shot,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,31,4,0,1,10:46 PM,8:09,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,32,2,1,1,10:47 PM,7:49,,,MISS Favors 5' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,33,4,0,1,10:47 PM,7:47,Griffin REBOUND (Off:0 Def:1),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,34,1,1,1,10:47 PM,7:43,Redick 26' 3PT Jump Shot (5 PTS) (Paul 4 AST),,,8 - 12,4,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,35,1,42,1,10:47 PM,7:26,,,Jefferson 3' Driving Layup (2 PTS),10 - 12,2,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,36,6,2,1,10:47 PM,7:21,,,Jefferson S.FOUL (P2.T2),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,37,3,11,1,10:47 PM,7:21,MISS Dudley Free Throw 1 of 2,,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,38,4,1,1,10:47 PM,7:21,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,39,3,12,1,10:48 PM,7:21,MISS Dudley Free Throw 2 of 2,,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,41,4,0,1,10:48 PM,7:21,,,Kanter REBOUND (Off:0 Def:1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,42,6,1,1,10:48 PM,7:10,Redick P.FOUL (P1.T1),,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,43,1,1,1,10:49 PM,7:03,,,Kanter 10' Jump Shot (4 PTS) (Lucas III 1 AST),12 - 12,TIE,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,45,2,1,1,10:49 PM,6:44,MISS Griffin 20' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,46,4,0,1,10:49 PM,6:43,,,Favors REBOUND (Off:0 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,47,2,3,1,10:50 PM,6:25,,,MISS Kanter 4' Hook Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,48,4,0,1,10:50 PM,6:23,Jordan REBOUND (Off:0 Def:1),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,49,6,2,1,10:50 PM,6:20,,,Favors S.FOUL (P1.T3),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,50,3,11,1,10:50 PM,6:20,Griffin Free Throw 1 of 2 (3 PTS),,,12 - 13,1,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,51,3,12,1,10:50 PM,6:20,Griffin Free Throw 2 of 2 (4 PTS),,,12 - 14,2,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,53,2,1,1,10:51 PM,6:03,,,MISS Hayward 24' 3PT Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,54,4,0,1,10:51 PM,6:02,,,Kanter REBOUND (Off:1 Def:1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,55,2,1,1,10:51 PM,6:00,Jordan BLOCK (1 BLK),,MISS Kanter 4' Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,56,4,0,1,10:51 PM,5:57,Paul REBOUND (Off:0 Def:2),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,57,2,1,1,10:51 PM,5:52,MISS Dudley 28' 3PT Jump Shot,,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,59,4,0,1,10:51 PM,5:50,Griffin REBOUND (Off:1 Def:1),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,58,1,8,1,10:51 PM,5:50,Griffin 1' Slam Dunk (6 PTS),,,12 - 16,4,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,60,6,29,1,10:51 PM,5:37,Redick Shooting Block Foul (P2.T2),,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,61,9,1,1,10:52 PM,5:37,CLIPPERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,63,8,0,1,10:54 PM,5:37,,,SUB: Gobert FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,64,8,0,1,10:54 PM,5:37,SUB: Crawford FOR Redick,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,65,3,11,1,10:54 PM,5:37,,,Jefferson Free Throw 1 of 2 (3 PTS),13 - 16,3,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,67,3,12,1,10:54 PM,5:37,,,Jefferson Free Throw 2 of 2 (4 PTS),14 - 16,2,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,69,6,2,1,10:55 PM,5:28,,,Favors S.FOUL (P2.T4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,70,3,11,1,10:55 PM,5:28,Griffin Free Throw 1 of 2 (7 PTS),,,14 - 17,3,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,72,8,0,1,10:55 PM,5:28,,,SUB: Burks FOR Jefferson,,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,73,3,12,1,10:55 PM,5:28,MISS Griffin Free Throw 2 of 2,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,75,4,0,1,10:55 PM,5:27,,,Hayward REBOUND (Off:0 Def:1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,76,6,1,1,10:56 PM,5:17,Dudley P.FOUL (P1.T3),,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,78,2,1,1,10:56 PM,5:02,,,MISS Lucas III 27' 3PT Jump Shot,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,79,4,0,1,10:56 PM,5:02,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,80,5,11,1,10:56 PM,5:02,,,Jazz Turnover: Shot Clock (T#3),,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,81,1,8,1,10:57 PM,4:45,Jordan 1' Slam Dunk (7 PTS) (Griffin 1 AST),,,14 - 19,5,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,82,2,1,1,10:57 PM,4:22,,,MISS Favors 15' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,83,4,0,1,10:57 PM,4:21,Griffin REBOUND (Off:1 Def:2),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,84,5,40,1,10:58 PM,4:16,Paul Out of Bounds Lost Ball Turnover (P1.T2),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,85,1,47,1,10:58 PM,3:59,,,Favors 3' Turnaround Jump Shot (8 PTS) (Burks 1 AST),16 - 19,3,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,86,1,1,1,10:58 PM,3:37,Griffin 20' Jump Shot (9 PTS) (Paul 5 AST),,,16 - 21,5,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,87,2,3,1,10:59 PM,3:20,,,MISS Burks 11' Hook Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,88,4,0,1,10:59 PM,3:18,Jordan REBOUND (Off:0 Def:2),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,89,2,7,1,10:59 PM,3:13,MISS Jordan 3' Dunk,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,90,4,0,1,10:59 PM,3:10,,,Burks REBOUND (Off:0 Def:1),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,91,6,26,1,10:59 PM,3:08,,,Burks Offensive Charge Foul (P1.PN),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,92,5,5,1,10:59 PM,3:08,,,Burks Foul Turnover (P1.T4),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,93,8,0,1,10:59 PM,3:08,SUB: Mullens FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,94,8,0,1,10:59 PM,3:08,SUB: Collison FOR Paul,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,95,2,1,1,11:00 PM,2:55,MISS Crawford 19' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,96,4,0,1,11:00 PM,2:54,,,Gobert REBOUND (Off:0 Def:1),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,97,1,1,1,11:00 PM,2:42,,,Hayward 20' Jump Shot (2 PTS) (Favors 1 AST),18 - 21,3,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,98,2,1,1,11:00 PM,2:22,MISS Griffin 14' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,99,4,0,1,11:00 PM,2:21,,,Favors REBOUND (Off:0 Def:3),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,100,1,1,1,11:00 PM,2:14,,,Hayward 26' 3PT Jump Shot (5 PTS),21 - 21,TIE,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,101,2,1,1,11:01 PM,1:52,MISS Griffin 21' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,102,4,0,1,11:01 PM,1:51,,,Gobert REBOUND (Off:0 Def:2),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,103,2,1,1,11:01 PM,1:29,,,MISS Hayward 26' 3PT Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,104,4,0,1,11:01 PM,1:27,Crawford REBOUND (Off:0 Def:1),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,105,5,1,1,11:01 PM,1:13,Griffin Bad Pass Turnover (P1.T3),,Gobert STEAL (1 STL),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,106,1,42,1,11:01 PM,1:08,,,Lucas III 3' Driving Layup (2 PTS),23 - 21,-2,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,107,2,1,1,11:02 PM,0:48,MISS Mullens 4' Jump Shot,,Gobert BLOCK (1 BLK),,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011300102,108,4,0,1,11:02 PM,0:45,,,Favors REBOUND (Off:0 Def:4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,109,2,5,1,11:02 PM,0:40,Griffin BLOCK (1 BLK),,MISS Gobert 3' Layup,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,110,4,0,1,11:02 PM,0:37,Crawford REBOUND (Off:0 Def:2),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,111,2,71,1,11:02 PM,0:30,MISS Crawford 1' Finger Roll Layup,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,112,4,0,1,11:02 PM,0:25,,,Gobert REBOUND (Off:0 Def:3),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,113,2,47,1,11:02 PM,0:08,,,MISS Lucas III 14' Turnaround Jump Shot,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,114,4,0,1,11:02 PM,0:06,Mullens REBOUND (Off:0 Def:1),,,,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,115,5,1,1,11:02 PM,0:00,Griffin Bad Pass Turnover (P2.T4),,Burks STEAL (1 STL),,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,116,2,1,1,11:03 PM,0:00,,,MISS Burks 50' 3PT Jump Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,117,4,0,1,11:03 PM,0:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,118,13,0,1,11:03 PM,0:00,,End of 1st Period (11:03 PM EST),,23 - 21,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,120,12,0,2,11:06 PM,12:00,,Start of 2nd Period (11:06 PM EST),,23 - 21,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,121,2,5,2,11:06 PM,11:38,,,MISS Harris 1' Layup,,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,122,4,0,2,11:06 PM,11:36,,,Machado REBOUND (Off:1 Def:0),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,123,1,1,2,11:06 PM,11:16,,,Hayward 15' Jump Shot (7 PTS),25 - 21,-4,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,124,5,1,2,11:07 PM,10:49,Crawford Bad Pass Turnover (P1.T5),,Burks STEAL (2 STL),,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,125,6,2,2,11:07 PM,10:48,Collison S.FOUL (P1.T1),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,126,3,11,2,11:07 PM,10:48,,,Burks Free Throw 1 of 2 (1 PTS),26 - 21,-5,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,128,3,12,2,11:08 PM,10:48,,,Burks Free Throw 2 of 2 (2 PTS),27 - 21,-6,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,130,2,1,2,11:08 PM,10:33,MISS Crawford 5' Jump Shot,,Gobert BLOCK (2 BLK),,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011300102,131,4,0,2,11:08 PM,10:33,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,132,8,0,2,11:08 PM,10:33,,,SUB: Clark FOR Hayward,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,133,5,4,2,11:08 PM,10:33,Bullock Traveling Turnover (P1.T6),,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011300102,134,5,4,2,11:09 PM,10:17,,,Harris Traveling Turnover (P1.T5),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,135,2,1,2,11:09 PM,10:05,MISS Collison 3' Jump Shot,,Gobert BLOCK (3 BLK),,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011300102,136,4,0,2,11:09 PM,10:03,,,Burks REBOUND (Off:0 Def:2),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,137,6,4,2,11:09 PM,9:49,,,Harris OFF.Foul (P1),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,138,5,5,2,11:09 PM,9:49,,,Harris Foul Turnover (P2.T6),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,139,2,71,2,11:10 PM,9:40,MISS Crawford 2' Finger Roll Layup,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,140,4,0,2,11:10 PM,9:37,,,Gobert REBOUND (Off:0 Def:4),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,141,1,1,2,11:10 PM,9:17,,,Clark 6' Jump Shot (2 PTS) (Machado 1 AST),29 - 21,-8,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,142,7,1,2,11:10 PM,9:17,,,Jazz Violation: Delay of game Violation,,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,143,1,8,2,11:10 PM,9:00,Hollins 2' Slam Dunk (2 PTS) (Collison 1 AST),,,29 - 23,-6,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,144,1,1,2,11:11 PM,8:39,,,Burks 3' Jump Shot (4 PTS) (Harris 1 AST),31 - 23,-8,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,145,7,1,2,11:11 PM,8:39,,,Jazz Violation: Delay of game Violation,,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,146,6,18,2,11:11 PM,8:39,,,Jazz Foul,,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,147,9,4,2,11:11 PM,8:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,149,3,16,2,11:13 PM,8:39,Collison Free Throw Technical (1 PTS),,,31 - 24,-7,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,151,5,1,2,11:14 PM,8:28,Collison Bad Pass Turnover (P1.T7),,Harris STEAL (1 STL),,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,152,2,5,2,11:14 PM,8:25,Collison BLOCK (1 BLK),,MISS Machado  Layup,,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,154,4,0,2,11:14 PM,8:22,,,Gobert REBOUND (Off:1 Def:4),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,153,2,4,2,11:14 PM,8:22,,,MISS Gobert 3' Tip Shot,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,155,4,0,2,11:14 PM,8:20,Mullens REBOUND (Off:0 Def:2),,,,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,156,1,7,2,11:14 PM,8:18,Crawford 2' Dunk (2 PTS) (Collison 2 AST),,,31 - 26,-5,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,157,6,1,2,11:15 PM,7:57,Bullock P.FOUL (P1.T2),,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,158,5,2,2,11:15 PM,7:52,Hollins STEAL (1 STL),,Machado Lost Ball Turnover (P1.T7),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,160,5,41,2,11:15 PM,7:51,Hollins Poss Lost Ball Turnover (P1.T8),,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,161,7,5,2,11:15 PM,7:51,Hollins Violation:Kicked Ball,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011300102,162,1,1,2,11:16 PM,7:40,,,Clark 26' 3PT Jump Shot (5 PTS) (Gobert 1 AST),34 - 26,-8,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,163,2,1,2,11:16 PM,7:29,MISS Collison 18' Jump Shot,,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,164,4,0,2,11:16 PM,7:28,,,Harris REBOUND (Off:0 Def:1),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,165,2,5,2,11:16 PM,7:22,,,MISS Gobert 3' Layup,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,167,4,0,2,11:16 PM,7:20,,,Gobert REBOUND (Off:2 Def:4),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,166,2,4,2,11:16 PM,7:20,,,MISS Gobert 1' Tip Shot,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,168,4,0,2,11:16 PM,7:17,Hollins REBOUND (Off:0 Def:1),,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,169,1,1,2,11:16 PM,7:13,Crawford 5' Jump Shot (4 PTS),,,34 - 28,-6,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,170,6,2,2,11:16 PM,7:13,,,Burks S.FOUL (P2.T1),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,171,8,0,2,11:16 PM,7:13,SUB: Redick FOR Bullock,,,,,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,172,8,0,2,11:16 PM,7:13,SUB: Jordan FOR Hollins,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,173,8,0,2,11:16 PM,7:13,,,SUB: Cook FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,2567,Brian Cook,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,174,3,10,2,11:17 PM,7:13,MISS Crawford Free Throw 1 of 1,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,176,4,0,2,11:17 PM,7:10,,,Harris REBOUND (Off:0 Def:2),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,177,2,1,2,11:17 PM,6:54,,,MISS Clark 26' 3PT Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,178,4,0,2,11:17 PM,6:54,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,179,5,13,2,11:18 PM,6:38,CLIPPERS Turnover: Backcourt (T#9),,,,,2,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,180,8,0,2,11:18 PM,6:38,SUB: Dudley FOR Mullens,,,,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,181,6,1,2,11:18 PM,6:35,Crawford P.FOUL (P1.T3),,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,182,1,1,2,11:18 PM,6:24,,,Clark  3PT Jump Shot (8 PTS) (Harris 2 AST),37 - 28,-9,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,183,1,1,2,11:19 PM,6:08,Dudley 18' Jump Shot (2 PTS) (Redick 1 AST),,,37 - 30,-7,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,184,5,1,2,11:19 PM,5:55,,,Cook Bad Pass Turnover (P1.T8),,,5,2567,Brian Cook,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,185,9,1,2,11:19 PM,5:55,CLIPPERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,187,8,0,2,11:21 PM,5:55,SUB: Paul FOR Crawford,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,188,8,0,2,11:21 PM,5:55,,,SUB: Favors FOR Harris,,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,189,1,1,2,11:22 PM,5:43,Redick 25' 3PT Jump Shot (8 PTS) (Paul 6 AST),,,37 - 33,-4,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,190,2,1,2,11:22 PM,5:26,,,MISS Cook 26' 3PT Jump Shot,,,5,2567,Brian Cook,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,191,4,0,2,11:22 PM,5:25,Jordan REBOUND (Off:0 Def:3),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,192,5,4,2,11:22 PM,5:18,Collison Traveling Turnover (P2.T10),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011300102,193,5,1,2,11:22 PM,5:07,Collison STEAL (1 STL),,Machado Bad Pass Turnover (P2.T9),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,194,2,1,2,11:22 PM,5:03,MISS Redick 13' Jump Shot,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,195,4,0,2,11:23 PM,5:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,196,2,1,2,11:23 PM,4:43,,,MISS Favors 14' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,197,4,0,2,11:23 PM,4:42,Dudley REBOUND (Off:0 Def:1),,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,198,1,1,2,11:23 PM,4:35,Dudley 17' Jump Shot (4 PTS) (Collison 3 AST),,,37 - 35,-2,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,200,8,0,2,11:24 PM,4:14,,,SUB: Jefferson FOR Machado,,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,201,8,0,2,11:24 PM,4:14,,,SUB: Lucas III FOR Clark,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,202,2,42,2,11:24 PM,4:08,,,MISS Burks 2' Driving Layup,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,203,4,0,2,11:24 PM,4:06,,,Favors REBOUND (Off:1 Def:4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,204,2,1,2,11:24 PM,4:03,,,MISS Burks  3PT Jump Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,205,4,0,2,11:24 PM,4:01,Paul REBOUND (Off:0 Def:3),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,206,6,2,2,11:24 PM,3:59,,,Jefferson S.FOUL (P3.T2),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,207,3,11,2,11:24 PM,3:59,Redick Free Throw 1 of 2 (9 PTS),,,37 - 36,-1,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,209,3,12,2,11:24 PM,3:59,Redick Free Throw 2 of 2 (10 PTS),,,37 - 37,TIE,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,211,1,42,2,11:25 PM,3:53,,,Cook 2' Driving Layup (2 PTS) (Jefferson 4 AST),39 - 37,-2,5,2567,Brian Cook,1610612762.0,Utah,Jazz,UTA,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,212,2,1,2,11:25 PM,3:38,MISS Redick  3PT Jump Shot,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,213,4,0,2,11:25 PM,3:36,,,Favors REBOUND (Off:1 Def:5),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,214,9,1,2,11:25 PM,3:33,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,215,8,0,2,11:27 PM,3:33,,,SUB: Kanter FOR Burks,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,216,8,0,2,11:27 PM,3:33,,,SUB: Hayward FOR Cook,,,5,2567,Brian Cook,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,217,8,0,2,11:27 PM,3:33,SUB: Griffin FOR Collison,,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,218,6,1,2,11:28 PM,3:25,Griffin P.FOUL (P1.T4),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,219,1,5,2,11:28 PM,3:18,,,Favors 3' Layup (10 PTS) (Hayward 1 AST),41 - 37,-4,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,220,6,2,2,11:28 PM,3:18,Jordan S.FOUL (P1.PN),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,221,3,10,2,11:28 PM,3:18,,,MISS Favors Free Throw 1 of 1,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,223,4,0,2,11:29 PM,3:18,Jordan REBOUND (Off:0 Def:4),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,224,2,1,2,11:29 PM,3:03,MISS Dudley  3PT Jump Shot,,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,225,4,0,2,11:29 PM,3:02,Paul REBOUND (Off:1 Def:3),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,226,6,2,2,11:29 PM,3:02,,,Hayward S.FOUL (P1.T3),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,227,3,11,2,11:29 PM,3:02,MISS Jordan Free Throw 1 of 2,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,228,4,1,2,11:29 PM,3:02,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,229,3,12,2,11:29 PM,3:02,MISS Jordan Free Throw 2 of 2,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,231,4,0,2,11:30 PM,3:00,,,Favors REBOUND (Off:1 Def:6),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,232,2,3,2,11:30 PM,2:38,,,MISS Kanter 6' Hook Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,233,4,0,2,11:30 PM,2:36,Jordan REBOUND (Off:0 Def:5),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,234,1,1,2,11:30 PM,2:25,Paul 26' 3PT Jump Shot (3 PTS) (Jordan 1 AST),,,41 - 40,-1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,235,2,78,2,11:30 PM,2:10,,,MISS Hayward 3' Floating Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,236,4,0,2,11:30 PM,2:10,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,237,6,3,2,11:31 PM,2:10,,,Kanter L.B.FOUL (P1.T4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,238,2,1,2,11:31 PM,1:47,MISS Griffin 19' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,239,4,0,2,11:31 PM,1:46,Jordan REBOUND (Off:1 Def:5),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,240,1,52,2,11:31 PM,1:42,Jordan 2' Alley Oop Dunk (9 PTS) (Paul 7 AST),,,41 - 42,1,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,241,1,1,2,11:32 PM,1:26,,,Hayward 26' 3PT Jump Shot (10 PTS),44 - 42,-2,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,242,6,1,2,11:32 PM,1:18,,,Kanter P.FOUL (P2.PN),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,243,3,11,2,11:32 PM,1:18,Paul Free Throw 1 of 2 (4 PTS),,,44 - 43,-1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,245,8,0,2,11:32 PM,1:18,SUB: Crawford FOR Dudley,,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,246,3,12,2,11:32 PM,1:18,Paul Free Throw 2 of 2 (5 PTS),,,44 - 44,TIE,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,247,5,1,2,11:33 PM,1:09,Griffin STEAL (1 STL),,Jefferson Bad Pass Turnover (P1.T10),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,248,6,1,2,11:33 PM,1:03,,,Lucas III P.FOUL (P1.PN),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,249,3,11,2,11:33 PM,1:03,Paul Free Throw 1 of 2 (6 PTS),,,44 - 45,1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,250,3,12,2,11:33 PM,1:03,Paul Free Throw 2 of 2 (7 PTS),,,44 - 46,2,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,252,5,1,2,11:34 PM,0:49,Griffin STEAL (2 STL),,Kanter Bad Pass Turnover (P3.T11),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,253,6,1,2,11:34 PM,0:47,,,Lucas III P.FOUL (P2.PN),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,254,3,11,2,11:34 PM,0:47,Griffin Free Throw 1 of 2 (10 PTS),,,44 - 47,3,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,256,3,12,2,11:34 PM,0:47,MISS Griffin Free Throw 2 of 2,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,258,4,0,2,11:35 PM,0:46,,,Favors REBOUND (Off:1 Def:7),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,259,1,3,2,11:35 PM,0:32,,,Kanter 6' Hook Shot (6 PTS) (Hayward 2 AST),46 - 47,1,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,260,2,1,2,11:35 PM,0:25,MISS Crawford  3PT Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,261,4,0,2,11:35 PM,0:24,,,Favors REBOUND (Off:1 Def:8),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,262,1,1,2,11:35 PM,0:07,,,Hayward 21' Jump Shot (12 PTS),48 - 47,-1,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,263,9,2,2,11:35 PM,0:07,CLIPPERS Timeout: Short (Full 2 Short 1),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,265,8,0,2,11:37 PM,0:07,SUB: Collison FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,266,8,0,2,11:37 PM,0:07,,,SUB: Burks FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,267,5,4,2,11:37 PM,0:02,Griffin Traveling Turnover (P3.T11),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011300102,268,13,0,2,11:37 PM,0:00,,End of 2nd Period (11:37 PM EST),,48 - 47,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,270,12,0,3,11:53 PM,12:00,,Start of 3rd Period (11:53 PM EST),,48 - 47,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,271,2,5,3,11:54 PM,11:37,,,MISS Lucas III 2' Layup,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,272,4,0,3,11:54 PM,11:36,,,Hayward REBOUND (Off:1 Def:1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,273,1,5,3,11:54 PM,11:20,,,Kanter 2' Layup (8 PTS) (Jefferson 5 AST),50 - 47,-3,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,274,6,1,3,11:54 PM,11:09,,,Hayward P.FOUL (P2.T1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,275,2,1,3,11:55 PM,11:04,MISS Redick 4' Jump Shot,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,276,4,0,3,11:55 PM,11:03,,,Favors REBOUND (Off:1 Def:9),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,277,2,1,3,11:55 PM,10:57,Redick BLOCK (1 BLK),,MISS Jefferson 6' Jump Shot,,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,278,4,0,3,11:55 PM,10:53,Jordan REBOUND (Off:1 Def:6),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,279,1,8,3,11:55 PM,10:42,Griffin 2' Slam Dunk (12 PTS) (Dudley 2 AST),,,50 - 49,-1,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,280,2,1,3,11:55 PM,10:25,,,MISS Hayward 10' Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,281,4,0,3,11:55 PM,10:23,Griffin REBOUND (Off:1 Def:3),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,282,2,44,3,11:56 PM,10:17,MISS Redick 3' Reverse Layup,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,283,4,0,3,11:56 PM,10:13,,,Jefferson REBOUND (Off:0 Def:1),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,285,7,5,3,11:56 PM,10:01,Paul Violation:Kicked Ball,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011300102,286,1,5,3,11:56 PM,10:00,,,Favors 2' Layup (12 PTS) (Hayward 3 AST),52 - 49,-3,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,287,6,2,3,11:56 PM,10:00,Dudley S.FOUL (P2.T1),,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,288,3,10,3,11:57 PM,10:00,,,Favors Free Throw 1 of 1 (13 PTS),53 - 49,-4,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,290,6,1,3,11:57 PM,9:51,,,Lucas III P.FOUL (P3.T2),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,291,2,3,3,11:58 PM,9:38,MISS Jordan 5' Hook Shot,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,292,4,0,3,11:58 PM,9:35,,,Jefferson REBOUND (Off:0 Def:2),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,293,2,79,3,11:58 PM,9:31,,,MISS Hayward 13' Pullup Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,294,4,0,3,11:58 PM,9:29,Griffin REBOUND (Off:1 Def:4),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,295,2,1,3,11:58 PM,9:16,MISS Redick 24' 3PT Jump Shot,,Hayward BLOCK (1 BLK),,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0
+0011300102,296,4,0,3,11:58 PM,9:14,,,Kanter REBOUND (Off:1 Def:2),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,297,1,5,3,11:58 PM,9:05,,,Hayward 2' Layup (14 PTS),55 - 49,-6,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,298,2,1,3,11:58 PM,8:50,MISS Griffin 20' Jump Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,299,4,0,3,11:58 PM,8:49,,,Hayward REBOUND (Off:1 Def:2),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,300,2,1,3,11:58 PM,8:41,,,MISS Hayward 22' Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,301,4,0,3,11:58 PM,8:40,Paul REBOUND (Off:1 Def:4),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,302,6,29,3,11:59 PM,8:35,,,Lucas III Shooting Block Foul (P4.T3),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,303,3,11,3,11:59 PM,8:35,Paul Free Throw 1 of 2 (8 PTS),,,55 - 50,-5,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,305,8,0,3,11:59 PM,8:35,,,SUB: Machado FOR Lucas III,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,306,3,12,3,11:59 PM,8:35,Paul Free Throw 2 of 2 (9 PTS),,,55 - 51,-4,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,309,6,1,3,12:00 AM,8:21,Dudley P.FOUL (P3.T2),,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,310,2,1,3,12:00 AM,8:13,,,MISS Hayward 19' Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,311,4,0,3,12:00 AM,8:12,,,Favors REBOUND (Off:2 Def:9),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,312,1,5,3,12:00 AM,8:10,,,Favors 2' Layup (15 PTS),57 - 51,-6,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,313,1,46,3,12:01 AM,7:55,Paul 6' Running Jump Shot (11 PTS),,,57 - 53,-4,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,315,5,2,3,12:01 AM,7:41,Redick STEAL (1 STL),,Kanter Lost Ball Turnover (P4.T12),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,316,1,1,3,12:01 AM,7:35,Redick  3PT Jump Shot (13 PTS) (Paul 8 AST),,,57 - 56,-1,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,317,9,1,3,12:01 AM,7:22,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,319,8,0,3,12:04 AM,7:22,SUB: Green FOR Dudley,,,,,4,201162,Jared Dudley,1610612746.0,Los Angeles,Clippers,LAC,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,320,5,1,3,12:04 AM,7:22,,,Machado Bad Pass Turnover (P3.T13),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,321,6,1,3,12:04 AM,7:14,,,Machado P.FOUL (P1.T4),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,322,1,84,3,12:05 AM,7:05,Green 8' Running Bank Shot (2 PTS) (Redick 2 AST),,,57 - 58,1,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,323,6,1,3,12:05 AM,6:57,Green P.FOUL (P1.T3),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,324,6,1,3,12:05 AM,6:55,Green P.FOUL (P2.T4),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,325,6,2,3,12:06 AM,6:47,Jordan S.FOUL (P2.PN),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,326,3,11,3,12:06 AM,6:47,,,Kanter Free Throw 1 of 2 (9 PTS),58 - 58,TIE,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,328,3,12,3,12:06 AM,6:47,,,Kanter Free Throw 2 of 2 (10 PTS),59 - 58,-1,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,330,2,1,3,12:07 AM,6:36,MISS Redick 5' Jump Shot,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,331,4,0,3,12:07 AM,6:35,Griffin REBOUND (Off:2 Def:4),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,333,6,2,3,12:07 AM,6:34,,,Favors S.FOUL (P3.PN),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,334,3,11,3,12:07 AM,6:34,Griffin Free Throw 1 of 2 (13 PTS),,,59 - 59,TIE,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,336,3,12,3,12:07 AM,6:34,MISS Griffin Free Throw 2 of 2,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,338,4,0,3,12:07 AM,6:33,Green REBOUND (Off:1 Def:0),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,339,2,1,3,12:08 AM,6:30,MISS Redick 25' 3PT Jump Shot,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,340,4,0,3,12:08 AM,6:28,,,Kanter REBOUND (Off:1 Def:3),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,341,2,1,3,12:08 AM,6:06,,,MISS Jefferson 11' Jump Shot,,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,342,4,0,3,12:08 AM,6:05,Redick REBOUND (Off:0 Def:1),,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,343,6,1,3,12:08 AM,5:51,,,Machado P.FOUL (P2.PN),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,344,3,11,3,12:08 AM,5:51,Paul Free Throw 1 of 2 (12 PTS),,,59 - 60,1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,346,8,0,3,12:09 AM,5:51,SUB: Crawford FOR Redick,,,,,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,347,3,12,3,12:09 AM,5:51,MISS Paul Free Throw 2 of 2,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,349,4,0,3,12:09 AM,5:48,,,Jefferson REBOUND (Off:0 Def:3),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,350,1,1,3,12:09 AM,5:35,,,Jefferson 26' 3PT Jump Shot (7 PTS) (Hayward 4 AST),62 - 60,-2,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,351,1,71,3,12:09 AM,5:21,Crawford 3' Finger Roll Layup (6 PTS) (Griffin 2 AST),,,62 - 62,TIE,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,352,6,1,3,12:10 AM,5:13,Jordan P.FOUL (P3.PN),,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,353,3,11,3,12:10 AM,5:13,,,Jefferson Free Throw 1 of 2 (8 PTS),63 - 62,-1,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,355,8,0,3,12:10 AM,5:13,,,SUB: Gobert FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,356,3,12,3,12:10 AM,5:13,,,Jefferson Free Throw 2 of 2 (9 PTS),64 - 62,-2,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,358,2,1,3,12:10 AM,4:59,MISS Green 18' Jump Shot,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,359,4,0,3,12:11 AM,4:58,,,Gobert REBOUND (Off:2 Def:5),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,360,5,4,3,12:11 AM,4:41,,,Jefferson Traveling Turnover (P2.T14),,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,361,2,3,3,12:11 AM,4:23,MISS Griffin 8' Hook Shot,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,362,4,0,3,12:11 AM,4:20,,,Gobert REBOUND (Off:2 Def:6),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,363,2,1,3,12:11 AM,4:14,,,MISS Machado 29' 3PT Jump Shot,,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,365,4,0,3,12:11 AM,4:13,,,Favors REBOUND (Off:3 Def:9),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,364,2,4,3,12:11 AM,4:13,,,MISS Favors 3' Tip Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,366,4,0,3,12:11 AM,4:10,Green REBOUND (Off:1 Def:1),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,367,1,88,3,12:12 AM,4:02,Griffin 2' Driving Slam Dunk (15 PTS) (Paul 9 AST),,,64 - 64,TIE,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,368,1,1,3,12:12 AM,3:43,,,Jefferson 16' Jump Shot (11 PTS) (Favors 2 AST),66 - 64,-2,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,369,5,1,3,12:12 AM,3:36,Paul Bad Pass Turnover (P2.T12),,Hayward STEAL (1 STL),,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,370,6,2,3,12:13 AM,3:33,Griffin S.FOUL (P2.PN),,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,371,3,11,3,12:13 AM,3:33,,,MISS Machado Free Throw 1 of 2,,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,372,4,1,3,12:13 AM,3:33,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,373,8,0,3,12:13 AM,3:33,,,SUB: Burks FOR Hayward,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,374,8,0,3,12:13 AM,3:33,SUB: Mullens FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,375,8,0,3,12:13 AM,3:33,SUB: Amundson FOR Griffin,,,,,4,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,376,3,12,3,12:13 AM,3:33,,,Machado Free Throw 2 of 2 (1 PTS),67 - 64,-3,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,378,1,42,3,12:14 AM,3:15,Crawford 2' Driving Layup (8 PTS) (Mullens 1 AST),,,67 - 66,-1,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,379,6,1,3,12:14 AM,3:05,Green P.FOUL (P3.PN),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,380,3,11,3,12:14 AM,3:05,,,Burks Free Throw 1 of 2 (5 PTS),68 - 66,-2,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,382,3,12,3,12:14 AM,3:05,,,Burks Free Throw 2 of 2 (6 PTS),69 - 66,-3,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,384,2,1,3,12:15 AM,2:55,MISS Paul 13' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,385,4,0,3,12:15 AM,2:54,,,Favors REBOUND (Off:3 Def:10),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,386,5,1,3,12:15 AM,2:36,Paul STEAL (1 STL),,Favors Bad Pass Turnover (P1.T15),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,387,1,73,3,12:15 AM,2:33,Paul 2' Driving Reverse Layup (14 PTS),,,69 - 68,-1,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,388,6,4,3,12:15 AM,2:18,,,Gobert OFF.Foul (P1),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,389,5,5,3,12:15 AM,2:18,,,Gobert Foul Turnover (P1.T16),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,390,9,1,3,12:15 AM,2:18,CLIPPERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,392,2,1,3,12:18 AM,2:05,MISS Crawford 15' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,393,4,0,3,12:18 AM,2:04,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,394,2,1,3,12:18 AM,1:54,MISS Mullens 28' 3PT Jump Shot,,,,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,395,4,0,3,12:18 AM,1:53,,,Burks REBOUND (Off:0 Def:3),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,396,2,1,3,12:19 AM,1:33,,,MISS Burks 26' 3PT Jump Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,397,4,0,3,12:19 AM,1:32,Paul REBOUND (Off:1 Def:5),,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,398,2,1,3,12:19 AM,1:24,MISS Paul 20' Jump Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,399,4,0,3,12:19 AM,1:23,Amundson REBOUND (Off:1 Def:0),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,400,1,1,3,12:19 AM,1:20,Green 27' 3PT Jump Shot (5 PTS) (Paul 10 AST),,,69 - 71,2,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,401,6,1,3,12:19 AM,1:01,Amundson P.FOUL (P1.PN),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,402,3,11,3,12:19 AM,1:01,,,Favors Free Throw 1 of 2 (16 PTS),70 - 71,1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,404,8,0,3,12:20 AM,1:01,,,SUB: Clark FOR Jefferson,,,5,2210,Richard Jefferson,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,405,3,12,3,12:20 AM,1:01,,,MISS Favors Free Throw 2 of 2,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,407,4,0,3,12:20 AM,1:00,Amundson REBOUND (Off:1 Def:1),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,408,2,1,3,12:20 AM,0:46,MISS Mullens 4' Jump Shot,,Gobert BLOCK (4 BLK),,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011300102,409,4,0,3,12:20 AM,0:45,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,410,6,4,3,12:21 AM,0:41,Amundson OFF.Foul (P2),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,411,5,5,3,12:21 AM,0:41,Amundson Foul Turnover (P1.T13),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0011300102,412,6,2,3,12:21 AM,0:31,Amundson S.FOUL (P3.PN),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,413,3,11,3,12:22 AM,0:31,,,Favors Free Throw 1 of 2 (17 PTS),71 - 71,TIE,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,415,8,0,3,12:22 AM,0:31,SUB: Collison FOR Amundson,,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,416,8,0,3,12:22 AM,0:31,,,SUB: Harris FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,417,3,12,3,12:22 AM,0:31,,,Favors Free Throw 2 of 2 (18 PTS),72 - 71,-1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,419,2,66,3,12:23 AM,0:07,MISS Paul 11' Jump Bank Shot,,,,,4,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,420,4,0,3,12:23 AM,0:04,,,Favors REBOUND (Off:3 Def:11),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,421,6,2,3,12:23 AM,0:03,Green S.FOUL (P4.PN),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,422,3,11,3,12:23 AM,0:03,,,Burks Free Throw 1 of 2 (7 PTS),73 - 71,-2,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,424,8,0,3,12:23 AM,0:03,SUB: Redick FOR Mullens,,,,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,425,8,0,3,12:24 AM,0:03,,,SUB: Lucas III FOR Favors,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,426,3,12,3,12:24 AM,0:03,,,MISS Burks Free Throw 2 of 2,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,428,4,0,3,12:24 AM,0:02,,,Burks REBOUND (Off:1 Def:3),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,429,1,5,3,12:24 AM,0:01,,,Burks 2' Layup (9 PTS),75 - 71,-4,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,430,7,1,3,12:24 AM,0:01,,,Jazz Violation: Delay of game Violation,,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,431,6,18,3,12:24 AM,0:01,,,Jazz Foul,,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,432,3,16,3,12:24 AM,0:01,Redick Free Throw Technical (14 PTS),,,75 - 72,-3,4,200755,JJ Redick,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,434,2,1,3,12:25 AM,0:00,MISS Collison 60' 3PT Jump Shot,,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,435,4,0,3,12:25 AM,0:00,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,436,13,0,3,12:25 AM,0:00,,End of 3rd Period (12:25 AM EST),,75 - 72,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,438,12,0,4,12:27 AM,12:00,,Start of 4th Period (12:27 AM EST),,75 - 72,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,439,1,1,4,12:28 AM,11:47,Crawford 8' Jump Shot (10 PTS) (Green 1 AST),,,75 - 74,-1,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,440,2,1,4,12:28 AM,11:29,,,MISS Clark 16' Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,441,4,0,4,12:28 AM,11:28,Collison REBOUND (Off:0 Def:1),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,442,2,63,4,12:28 AM,11:18,MISS Collison 12' Fadeaway Jumper,,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,443,4,0,4,12:28 AM,11:16,,,Gobert REBOUND (Off:2 Def:7),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,444,2,1,4,12:28 AM,11:03,,,MISS Clark 24' 3PT Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,445,4,0,4,12:28 AM,11:01,,,Harris REBOUND (Off:1 Def:2),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,446,1,42,4,12:28 AM,10:55,,,Machado 2' Driving Layup (3 PTS) (Burks 2 AST),77 - 74,-3,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,447,6,2,4,12:29 AM,10:52,,,Burks S.FOUL (P3.T1),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,448,3,11,4,12:29 AM,10:52,Collison Free Throw 1 of 2 (2 PTS),,,77 - 75,-2,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,450,3,12,4,12:29 AM,10:52,Collison Free Throw 2 of 2 (3 PTS),,,77 - 76,-1,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,452,6,1,4,12:30 AM,10:43,Amundson P.FOUL (P4.T1),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,453,2,1,4,12:30 AM,10:37,,,MISS Harris 20' Jump Shot,,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,455,4,0,4,12:30 AM,10:36,,,Gobert REBOUND (Off:3 Def:7),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,454,1,87,4,12:30 AM,10:36,,,Gobert 2' Putback Dunk (2 PTS),79 - 76,-3,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,456,2,1,4,12:30 AM,10:16,MISS Crawford 14' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,457,4,0,4,12:30 AM,10:15,,,Machado REBOUND (Off:1 Def:1),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,458,1,5,4,12:30 AM,10:10,,,Machado 3' Layup (5 PTS) (Burks 3 AST),81 - 76,-5,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,459,9,1,4,12:31 AM,10:05,CLIPPERS Timeout: Regular (Full 4 Short 1),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,463,2,1,4,12:33 AM,9:58,MISS Crawford 4' Jump Shot,,Gobert BLOCK (5 BLK),,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011300102,464,4,0,4,12:33 AM,9:56,Green REBOUND (Off:2 Def:1),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,465,6,2,4,12:33 AM,9:51,,,Clark S.FOUL (P1.T2),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,466,3,11,4,12:33 AM,9:51,MISS Green Free Throw 1 of 2,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,467,4,1,4,12:33 AM,9:51,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,468,3,12,4,12:34 AM,9:51,MISS Green Free Throw 2 of 2,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,470,4,0,4,12:34 AM,9:50,Amundson REBOUND (Off:2 Def:1),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,471,2,1,4,12:34 AM,9:39,MISS Green 25' 3PT Jump Shot,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,473,4,0,4,12:34 AM,9:37,Amundson REBOUND (Off:3 Def:1),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,472,2,5,4,12:34 AM,9:37,MISS Amundson 1' Layup,,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,475,4,0,4,12:34 AM,9:36,Amundson REBOUND (Off:4 Def:1),,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,474,2,4,4,12:34 AM,9:36,MISS Amundson 2' Tip Shot,,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,476,4,0,4,12:34 AM,9:34,,,Gobert REBOUND (Off:3 Def:8),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,477,2,5,4,12:34 AM,9:28,Amundson BLOCK (1 BLK),,MISS Burks 2' Layup,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,478,4,0,4,12:34 AM,9:26,,,Harris REBOUND (Off:2 Def:2),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,479,5,2,4,12:34 AM,9:14,Amundson STEAL (1 STL),,Clark Lost Ball Turnover (P1.T17),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,480,1,5,4,12:34 AM,9:08,Collison 1' Layup (5 PTS) (Amundson 1 AST),,,81 - 78,-3,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,481,1,7,4,12:35 AM,8:58,,,Gobert 2' Dunk (4 PTS) (Harris 3 AST),83 - 78,-5,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,482,6,2,4,12:35 AM,8:44,,,Clark S.FOUL (P2.T3),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,483,3,11,4,12:35 AM,8:44,Crawford Free Throw 1 of 2 (11 PTS),,,83 - 79,-4,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,485,8,0,4,12:35 AM,8:44,SUB: Hollins FOR Mullens,,,,,4,201957,Byron Mullens,1610612746.0,Los Angeles,Clippers,LAC,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,486,3,12,4,12:35 AM,8:44,Crawford Free Throw 2 of 2 (12 PTS),,,83 - 80,-3,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,488,6,4,4,12:36 AM,8:29,,,Harris OFF.Foul (P2),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,489,5,5,4,12:36 AM,8:29,,,Harris Foul Turnover (P3.T18),,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,490,8,0,4,12:36 AM,8:29,SUB: Jamison FOR Amundson,,,,,4,200811,Lou Amundson,1610612746.0,Los Angeles,Clippers,LAC,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,491,8,0,4,12:36 AM,8:29,,,SUB: Lucas III FOR Machado,,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,492,2,8,4,12:36 AM,8:13,MISS Hollins 3' Slam Dunk,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,493,4,0,4,12:36 AM,8:10,,,Burks REBOUND (Off:1 Def:4),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,494,2,5,4,12:37 AM,8:04,Jamison BLOCK (1 BLK),,MISS Burks 3' Layup,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,495,4,0,4,12:37 AM,8:03,Green REBOUND (Off:2 Def:2),,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,496,2,5,4,12:37 AM,8:00,MISS Collison 3' Layup,,Clark BLOCK (1 BLK),,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0
+0011300102,497,4,0,4,12:37 AM,7:57,,,Gobert REBOUND (Off:3 Def:9),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,498,2,5,4,12:37 AM,7:43,Hollins BLOCK (1 BLK),,MISS Burks 3' Layup,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,499,4,0,4,12:37 AM,7:41,Collison REBOUND (Off:0 Def:2),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,500,1,42,4,12:37 AM,7:39,Collison 3' Driving Layup (7 PTS),,,83 - 82,-1,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,501,7,1,4,12:37 AM,7:38,CLIPPERS Violation: Delay of game Violation,,,,,2,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,503,2,44,4,12:38 AM,7:16,,,MISS Lucas III 1' Reverse Layup,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,504,4,0,4,12:38 AM,7:14,Jamison REBOUND (Off:0 Def:1),,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,505,1,52,4,12:38 AM,7:08,Hollins 2' Alley Oop Dunk (4 PTS) (Collison 4 AST),,,83 - 84,1,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,506,9,1,4,12:38 AM,6:57,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,508,8,0,4,12:40 AM,6:57,,,SUB: Favors FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,509,8,0,4,12:40 AM,6:57,,,SUB: Hayward FOR Burks,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,510,8,0,4,12:40 AM,6:57,,,SUB: Kanter FOR Harris,,,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,511,2,78,4,12:40 AM,6:45,,,MISS Hayward 5' Floating Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,512,4,0,4,12:40 AM,6:43,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,513,1,42,4,12:41 AM,6:33,Jamison 3' Driving Layup (2 PTS) (Crawford 1 AST),,,83 - 86,3,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,514,1,1,4,12:41 AM,6:12,,,Favors 19' Jump Shot (20 PTS) (Hayward 5 AST),85 - 86,1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,515,2,1,4,12:41 AM,5:59,MISS Green 19' Jump Shot,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,516,4,0,4,12:41 AM,5:58,,,Kanter REBOUND (Off:1 Def:4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,517,2,1,4,12:41 AM,5:46,,,MISS Favors 19' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,518,4,0,4,12:41 AM,5:45,Jamison REBOUND (Off:0 Def:2),,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,519,6,2,4,12:42 AM,5:36,,,Lucas III S.FOUL (P5.T4),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,521,9,2,4,12:42 AM,5:36,CLIPPERS Timeout: Short (Full 4 Short 2),,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,523,3,11,4,12:43 AM,5:36,Collison Free Throw 1 of 2 (8 PTS),,,85 - 87,2,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,525,3,12,4,12:43 AM,5:36,Collison Free Throw 2 of 2 (9 PTS),,,85 - 88,3,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,527,5,1,4,12:44 AM,5:18,Crawford STEAL (1 STL),,Favors Bad Pass Turnover (P2.T19),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,528,6,2,4,12:44 AM,5:03,,,Kanter S.FOUL (P3.PN),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,529,3,11,4,12:44 AM,5:03,Jamison Free Throw 1 of 2 (3 PTS),,,85 - 89,4,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,531,3,12,4,12:44 AM,5:03,Jamison Free Throw 2 of 2 (4 PTS),,,85 - 90,5,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,533,1,3,4,12:45 AM,4:47,,,Favors 16' Hook Shot (22 PTS),87 - 90,3,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,534,2,1,4,12:45 AM,4:36,MISS Jamison 27' 3PT Jump Shot,,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,535,4,0,4,12:45 AM,4:35,,,Hayward REBOUND (Off:1 Def:3),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,536,6,4,4,12:45 AM,4:28,,,Favors OFF.Foul (P4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,537,5,5,4,12:45 AM,4:28,,,Favors Foul Turnover (P3.T20),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011300102,538,6,2,4,12:46 AM,4:20,,,Favors S.FOUL (P5.PN),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,539,3,11,4,12:46 AM,4:20,Hollins Free Throw 1 of 2 (5 PTS),,,87 - 91,4,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,541,3,12,4,12:46 AM,4:20,MISS Hollins Free Throw 2 of 2,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,542,4,0,4,12:46 AM,4:17,,,Hayward REBOUND (Off:1 Def:4),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,543,2,78,4,12:46 AM,4:06,,,MISS Hayward 6' Floating Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,544,4,0,4,12:47 AM,4:03,Jamison REBOUND (Off:0 Def:3),,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,545,2,1,4,12:47 AM,3:51,MISS Green  3PT Jump Shot,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,546,4,0,4,12:47 AM,3:50,,,Lucas III REBOUND (Off:0 Def:2),,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,547,6,2,4,12:47 AM,3:41,Hollins S.FOUL (P1.T2),,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,548,3,11,4,12:47 AM,3:41,,,Hayward Free Throw 1 of 2 (15 PTS),88 - 91,3,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,550,3,12,4,12:47 AM,3:41,,,MISS Hayward Free Throw 2 of 2,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,552,4,0,4,12:48 AM,3:40,CLIPPERS Rebound,,,,,2,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,553,6,3,4,12:48 AM,3:40,,,Kanter L.B.FOUL (P4.PN),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,554,3,11,4,12:48 AM,3:40,Hollins Free Throw 1 of 2 (6 PTS),,,88 - 92,4,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,556,3,12,4,12:48 AM,3:40,Hollins Free Throw 2 of 2 (7 PTS),,,88 - 93,5,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,558,2,1,4,12:49 AM,3:24,,,MISS Hayward 7' Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,559,4,0,4,12:49 AM,3:23,Collison REBOUND (Off:0 Def:3),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,560,2,1,4,12:49 AM,3:14,MISS Jamison 25' 3PT Jump Shot,,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,561,4,0,4,12:49 AM,3:13,,,Hayward REBOUND (Off:1 Def:5),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,562,2,1,4,12:49 AM,3:05,,,MISS Lucas III 24' 3PT Jump Shot,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,563,4,0,4,12:49 AM,3:04,Hollins REBOUND (Off:0 Def:2),,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,564,2,5,4,12:49 AM,2:45,MISS Crawford 2' Layup,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,565,4,0,4,12:49 AM,2:44,,,Favors REBOUND (Off:3 Def:12),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,566,5,2,4,12:49 AM,2:42,Collison STEAL (2 STL),,Hayward Lost Ball Turnover (P1.T21),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,567,1,5,4,12:49 AM,2:37,Collison 3' Layup (11 PTS) (Crawford 2 AST),,,88 - 95,7,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,568,1,5,4,12:50 AM,2:22,,,Kanter 3' Layup (12 PTS) (Favors 3 AST),90 - 95,5,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,569,6,2,4,12:50 AM,2:22,Collison S.FOUL (P2.T3),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,570,9,4,4,12:50 AM,2:22,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,572,3,10,4,12:52 AM,2:22,,,Kanter Free Throw 1 of 1 (13 PTS),91 - 95,4,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,574,1,47,4,12:53 AM,2:02,Crawford 8' Turnaround Jump Shot (14 PTS),,,91 - 97,6,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,575,2,1,4,12:53 AM,1:37,Hollins BLOCK (2 BLK),,MISS Lucas III 3' Jump Shot,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0
+0011300102,576,4,0,4,12:53 AM,1:35,,,Favors REBOUND (Off:4 Def:12),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,577,2,1,4,12:53 AM,1:35,,,MISS Favors 16' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,578,4,0,4,12:53 AM,1:35,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,579,5,11,4,12:54 AM,1:35,,,Jazz Turnover: Shot Clock (T#22),,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300102,580,2,42,4,12:54 AM,1:17,MISS Green 2' Driving Layup,,,,,4,2584,Willie Green,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,581,4,0,4,12:54 AM,1:15,,,Favors REBOUND (Off:4 Def:13),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,582,1,1,4,12:54 AM,0:58,,,Favors 13' Jump Shot (24 PTS) (Clark 1 AST),93 - 97,4,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,583,2,1,4,12:55 AM,0:43,MISS Crawford 18' Jump Shot,,,,,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,584,4,0,4,12:55 AM,0:41,,,Kanter REBOUND (Off:1 Def:5),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,585,2,1,4,12:55 AM,0:29,,,MISS Clark 25' 3PT Jump Shot,,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,586,4,0,4,12:55 AM,0:28,Jamison REBOUND (Off:0 Def:4),,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,587,6,28,4,12:55 AM,0:18,,,Clark Personal Take Foul (P3.PN),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,588,3,11,4,12:55 AM,0:18,Collison Free Throw 1 of 2 (12 PTS),,,93 - 98,5,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,590,3,12,4,12:56 AM,0:18,Collison Free Throw 2 of 2 (13 PTS),,,93 - 99,6,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,593,9,2,4,12:56 AM,0:18,,,Jazz Timeout: Short (Reg.3 Short 1),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,594,8,0,4,12:57 AM,0:15,SUB: Bullock FOR Jamison,,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,4,203493,Reggie Bullock,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,595,6,2,4,12:57 AM,0:15,Collison S.FOUL (P3.T4),,,,,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011300102,596,3,11,4,12:57 AM,0:15,,,Hayward Free Throw 1 of 2 (16 PTS),94 - 99,5,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,598,8,0,4,12:58 AM,0:15,,,SUB: Machado FOR Lucas III,,,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,599,8,0,4,12:58 AM,0:15,SUB: Jamison FOR Hollins,,,,,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,600,8,0,4,12:58 AM,0:15,,,SUB: Harris FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,200839,Mike Harris,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,601,3,12,4,12:58 AM,0:15,,,Hayward Free Throw 2 of 2 (17 PTS),95 - 99,4,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,603,6,28,4,12:58 AM,0:14,,,Machado Personal Take Foul (P3.PN),,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,605,3,11,4,12:59 AM,0:14,Collison Free Throw 1 of 2 (14 PTS),,,95 - 100,5,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,608,8,0,4,12:59 AM,0:14,SUB: Hollins FOR Jamison,,,,,4,1712,Antawn Jamison,1610612746.0,Los Angeles,Clippers,LAC,4,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+0011300102,609,3,12,4,12:59 AM,0:14,Collison Free Throw 2 of 2 (15 PTS),,,95 - 101,6,4,201954,Darren Collison,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,611,9,2,4,12:59 AM,0:14,,,Jazz Timeout: Short (Reg.3 Short 2),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300102,613,8,0,4,1:00 AM,0:14,,,SUB: Lucas III FOR Machado,,,5,203159,Scott Machado,1610612762.0,Utah,Jazz,UTA,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,615,1,75,4,1:01 AM,0:05,,,Hayward 3' Driving Finger Roll Layup (19 PTS),97 - 101,4,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011300102,616,6,28,4,1:01 AM,0:04,,,Clark Personal Take Foul (P4.PN),,,5,203546,Ian Clark,1610612762.0,Utah,Jazz,UTA,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+0011300102,617,3,11,4,1:01 AM,0:04,Crawford Free Throw 1 of 2 (15 PTS),,,97 - 102,5,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,619,3,12,4,1:01 AM,0:04,Crawford Free Throw 2 of 2 (16 PTS),,,97 - 103,6,4,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0011300102,621,1,46,4,1:01 AM,0:00,,,Lucas III 4' Running Jump Shot (4 PTS) (Hayward 6 AST),99 - 103,4,5,101249,John Lucas III,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011300102,622,13,0,4,1:02 AM,0:00,,End of 4th Period (1:02 AM EST),,99 - 103,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

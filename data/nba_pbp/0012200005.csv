@@ -1,0 +1,504 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200005,2,12,0,1,1:11 PM,12:00,,Start of 1st Period (1:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,4,10,0,1,1:11 PM,12:00,Jump Ball Horford vs. Plumlee: Tip to La. Ball,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1
+0012200005,7,2,79,1,1:11 PM,11:35,,,MISS Oubre Jr. 24' 3PT Pullup Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,8,4,0,1,1:12 PM,11:33,White REBOUND (Off:0 Def:1),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,9,2,1,1,1:12 PM,11:24,MISS Brown 28' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,10,4,0,1,1:12 PM,11:22,,,La. Ball REBOUND (Off:0 Def:1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,11,1,103,1,1:12 PM,11:17,,,La. Ball 21' Running Pull-Up Jump Shot (2 PTS),2 - 0,-2,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,12,2,58,1,1:12 PM,11:02,MISS Smart 12' Turnaround Hook Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,13,4,0,1,1:12 PM,11:00,Brown REBOUND (Off:1 Def:0),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,14,5,2,1,1:12 PM,10:48,Tatum Lost Ball Turnover (P1.T1),,Plumlee STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,16,2,103,1,1:12 PM,10:44,,,MISS La. Ball 26' 3PT Running Pull-Up Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,17,4,0,1,1:12 PM,10:41,White REBOUND (Off:0 Def:2),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,18,1,9,1,1:13 PM,10:32,Brown 2' Driving Dunk (2 PTS) (Horford 1 AST),,,2 - 2,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,20,6,1,1,1:13 PM,10:29,Horford P.FOUL (P1.T1) (T.Mirkovich),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0012200005,22,1,101,1,1:13 PM,10:20,,,Rozier 9' Driving Floating Jump Shot (2 PTS),4 - 2,-2,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,23,2,80,1,1:13 PM,9:57,MISS Tatum 27' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,24,4,0,1,1:14 PM,9:54,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,25,2,103,1,1:14 PM,9:51,,,MISS Washington 25' 3PT Running Pull-Up Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,26,4,0,1,1:14 PM,9:47,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,27,1,63,1,1:14 PM,9:39,Brown 17' Fadeaway Jumper (4 PTS) (Horford 2 AST),,,4 - 4,TIE,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,29,6,1,1,1:14 PM,9:28,Smart P.FOUL (P1.T2) (B.Adair),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,31,2,57,1,1:14 PM,9:20,Horford BLOCK (1 BLK),,MISS Oubre Jr. 7' Driving Hook Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1
+0012200005,33,4,0,1,1:14 PM,9:17,,,Plumlee REBOUND (Off:1 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,34,1,72,1,1:14 PM,9:15,,,Plumlee 2' Putback Layup (2 PTS),6 - 4,-2,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,35,2,79,1,1:15 PM,9:05,MISS Tatum 28' 3PT Pullup Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,36,4,0,1,1:15 PM,9:05,,,La. Ball REBOUND (Off:0 Def:2),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,37,1,63,1,1:15 PM,8:55,,,Rozier 24' 3PT Fadeaway Jumper (5 PTS) (La. Ball 1 AST),9 - 4,-5,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,39,1,1,1,1:15 PM,8:36,Smart 25' 3PT Jump Shot (3 PTS) (Tatum 1 AST),,,9 - 7,-2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,41,1,99,1,1:15 PM,8:15,,,Plumlee Cutting Finger Roll Layup Shot (4 PTS) (Rozier 1 AST),11 - 7,-4,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,43,1,79,1,1:16 PM,8:08,Brown 27' 3PT Pullup Jump Shot (7 PTS) (Smart 1 AST),,,11 - 10,-1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,45,2,79,1,1:16 PM,7:52,,,MISS La. Ball 16' Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,46,4,0,1,1:16 PM,7:50,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,48,6,2,1,1:17 PM,7:43,Horford S.FOUL (P2.T3) (T.Mirkovich),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,50,3,11,1,1:17 PM,7:43,,,Oubre Jr. Free Throw 1 of 2 (1 PTS),12 - 10,-2,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,51,3,12,1,1:17 PM,7:43,,,Oubre Jr. Free Throw 2 of 2 (2 PTS),13 - 10,-3,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,52,1,1,1,1:18 PM,7:33,Horford 28' 3PT Jump Shot (3 PTS) (Smart 2 AST),,,13 - 13,TIE,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,54,2,79,1,1:18 PM,7:19,,,MISS Rozier 18' Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,55,4,0,1,1:18 PM,7:17,Brown REBOUND (Off:1 Def:1),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,56,6,1,1,1:18 PM,7:17,,,Plumlee P.FOUL (P1.T1) (B.Adair),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,71,3,10,1,1:18 PM,7:17,Brown Free Throw 1 of 1 (8 PTS),,,13 - 14,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0012200005,58,2,1,1,1:19 PM,7:06,MISS White 24' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,59,4,0,1,1:19 PM,7:03,,,Rozier REBOUND (Off:0 Def:1),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,60,2,1,1,1:19 PM,6:51,,,MISS La. Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,61,4,0,1,1:19 PM,6:50,,,Plumlee REBOUND (Off:2 Def:1),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,62,2,1,1,1:19 PM,6:47,,,MISS Oubre Jr. 25' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,63,4,0,1,1:19 PM,6:47,White REBOUND (Off:0 Def:3),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,64,5,1,1,1:19 PM,6:36,Smart Bad Pass Turnover (P1.T2),,Oubre Jr. STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,66,2,2,1,1:19 PM,6:31,,,MISS Rozier 26' 3PT Running Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,67,4,0,1,1:19 PM,6:31,,,Oubre Jr. REBOUND (Off:1 Def:0),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,68,1,72,1,1:19 PM,6:31,,,Oubre Jr. 1' Putback Layup (4 PTS),15 - 14,-1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,69,6,2,1,1:19 PM,6:31,Brown S.FOUL (P1.T4) (S.Corbin),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,72,9,1,1,1:21 PM,6:31,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,73,3,10,1,1:23 PM,6:31,,,Oubre Jr. Free Throw 1 of 1 (5 PTS),16 - 14,-2,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,74,6,2,1,1:23 PM,6:15,,,Oubre Jr. S.FOUL (P1.T2) (S.Corbin),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,76,3,11,1,1:24 PM,6:15,Tatum Free Throw 1 of 2 (1 PTS),,,16 - 15,-1,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,77,8,0,1,1:24 PM,6:15,SUB: Brogdon FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,79,3,12,1,1:24 PM,6:15,Tatum Free Throw 2 of 2 (2 PTS),,,16 - 16,TIE,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,80,6,2,1,1:24 PM,6:01,Smart S.FOUL (P2.PN) (S.Corbin),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,82,3,11,1,1:25 PM,6:01,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,83,4,1,1,1:25 PM,6:01,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,84,8,0,1,1:25 PM,6:01,,,SUB: Bouknight FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,86,3,12,1,1:25 PM,6:01,,,MISS Plumlee Free Throw 2 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,87,4,0,1,1:25 PM,6:00,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0012200005,88,6,2,1,1:25 PM,5:52,,,Plumlee S.FOUL (P2.T3) (B.Adair),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,90,3,11,1,1:26 PM,5:52,Brown Free Throw 1 of 2 (9 PTS),,,16 - 17,1,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,91,3,12,1,1:26 PM,5:52,Brown Free Throw 2 of 2 (10 PTS),,,16 - 18,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,92,1,1,1,1:26 PM,5:32,,,Oubre Jr. 3PT Jump Shot (8 PTS) (Bouknight 1 AST),19 - 18,-1,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,94,6,1,1,1:27 PM,5:16,,,Oubre Jr. P.FOUL (P2.T4) (T.Mirkovich),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,96,8,0,1,1:27 PM,5:16,,,SUB: McDaniels FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,98,1,93,1,1:27 PM,5:03,Smart 10' Driving Bank Hook Shot (5 PTS),,,19 - 20,1,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,99,6,1,1,1:28 PM,4:53,Brown P.FOUL (P2.PN) (T.Mirkovich),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,101,3,11,1,1:28 PM,4:53,,,MISS Plumlee Free Throw 1 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,102,4,1,1,1:28 PM,4:53,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,103,8,0,1,1:28 PM,4:53,SUB: Vonleh FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,105,3,12,1,1:28 PM,4:53,,,Plumlee Free Throw 2 of 2 (5 PTS),20 - 20,TIE,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,106,2,1,1,1:29 PM,4:43,MISS Smart 24' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,107,4,0,1,1:29 PM,4:40,,,La. Ball REBOUND (Off:0 Def:3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,108,2,41,1,1:29 PM,4:35,,,MISS La. Ball 6' Running Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,110,2,97,1,1:29 PM,4:32,,,MISS La. Ball Tip Layup Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,109,4,0,1,1:29 PM,4:32,,,La. Ball REBOUND (Off:2 Def:3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,111,4,0,1,1:29 PM,4:31,,,La. Ball REBOUND (Off:2 Def:3),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,112,2,97,1,1:29 PM,4:31,,,MISS La. Ball Tip Layup Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,113,4,0,1,1:29 PM,4:31,Brogdon REBOUND (Off:0 Def:1),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,114,5,1,1,1:29 PM,4:21,Smart Bad Pass Turnover (P2.T3),,Washington STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,116,2,79,1,1:29 PM,4:13,,,MISS La. Ball 17' Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,117,4,0,1,1:29 PM,4:10,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,119,8,0,1,1:29 PM,4:10,,,SUB: Thor FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,121,8,0,1,1:30 PM,4:10,,,SUB: Richards FOR Plumlee,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,123,2,1,1,1:30 PM,4:00,,,MISS La. Ball 26' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,124,4,0,1,1:30 PM,3:58,Tatum REBOUND (Off:0 Def:1),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,125,5,1,1,1:30 PM,3:50,Brogdon Bad Pass Turnover (P1.T4),,McDaniels STEAL (1 STL),,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,127,5,1,1,1:30 PM,3:44,Tatum STEAL (1 STL),,La. Ball Bad Pass Turnover (P1.T1),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,129,1,106,1,1:30 PM,3:40,Brown 3' Running Alley Oop Dunk Shot (12 PTS) (Tatum 2 AST),,,20 - 22,2,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,131,9,1,1,1:30 PM,3:40,,,Hornets Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,132,8,0,1,1:33 PM,3:40,,,SUB: Rozier FOR La. Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,134,5,39,1,1:33 PM,3:30,,,Thor Step Out of Bounds Turnover (P1.T2),,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,135,5,40,1,1:34 PM,3:20,Brogdon Out of Bounds Lost Ball Turnover (P2.T5),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,137,8,0,1,1:34 PM,2:59,SUB: Pritchard FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,138,8,0,1,1:34 PM,2:59,SUB: Williams FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,141,2,1,1,1:35 PM,2:57,,,MISS Bouknight 30' 3PT Jump Shot,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,142,4,0,1,1:35 PM,2:55,Brown REBOUND (Off:1 Def:2),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,143,5,1,1,1:35 PM,2:49,Williams Bad Pass Turnover (P1.T6),,Bouknight STEAL (1 STL),,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,145,6,2,1,1:35 PM,2:40,Vonleh S.FOUL (P1.PN) (T.Mirkovich),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,147,3,11,1,1:35 PM,2:40,,,Thor Free Throw 1 of 2 (1 PTS),21 - 22,1,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,148,3,12,1,1:35 PM,2:40,,,Thor Free Throw 2 of 2 (2 PTS),22 - 22,TIE,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,149,2,1,1,1:36 PM,2:29,MISS Brown 27' 3PT Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,150,4,0,1,1:36 PM,2:26,Williams REBOUND (Off:1 Def:0),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,151,1,1,1,1:36 PM,2:24,Pritchard 28' 3PT Jump Shot (3 PTS) (Williams 1 AST),,,22 - 25,3,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,153,2,78,1,1:36 PM,2:09,,,MISS Rozier 12' Floating Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,154,4,0,1,1:36 PM,2:09,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,155,6,3,1,1:36 PM,2:09,Williams L.B.FOUL (P1.PN) (B.Adair),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,157,3,11,1,1:37 PM,2:09,,,MISS Richards Free Throw 1 of 2,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,158,4,1,1,1:37 PM,2:09,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,159,3,12,1,1:37 PM,2:09,,,MISS Richards Free Throw 2 of 2,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,160,4,0,1,1:37 PM,2:07,Brown REBOUND (Off:1 Def:3),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,161,6,2,1,1:37 PM,2:01,,,McDaniels S.FOUL (P1.PN) (S.Corbin),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,163,3,11,1,1:37 PM,2:01,Brown Free Throw 1 of 2 (13 PTS),,,22 - 26,4,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,164,3,12,1,1:38 PM,2:01,MISS Brown Free Throw 2 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,165,4,0,1,1:38 PM,1:59,,,Richards REBOUND (Off:0 Def:1),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,166,2,1,1,1:38 PM,1:44,,,MISS Rozier 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,167,4,0,1,1:38 PM,1:41,,,Richards REBOUND (Off:1 Def:1),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,168,2,5,1,1:38 PM,1:39,,,MISS Richards 1' Layup,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,169,4,0,1,1:38 PM,1:37,Vonleh REBOUND (Off:0 Def:1),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,170,2,79,1,1:38 PM,1:25,MISS Brown 20' Pullup Jump Shot,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,171,4,0,1,1:38 PM,1:22,,,Richards REBOUND (Off:1 Def:2),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,172,1,93,1,1:39 PM,1:11,,,McDaniels 7' Driving Bank Hook Shot (2 PTS),24 - 26,2,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,173,2,79,1,1:39 PM,0:59,MISS Pritchard 28' 3PT Pullup Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,174,4,0,1,1:39 PM,0:54,Williams REBOUND (Off:2 Def:0),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,175,5,39,1,1:39 PM,0:54,Brown Step Out of Bounds Turnover (P1.T7),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,176,8,0,1,1:39 PM,0:54,SUB: Hauser FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,178,2,52,1,1:39 PM,0:44,,,MISS Thor Alley Oop Dunk,,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,179,4,0,1,1:39 PM,0:42,Vonleh REBOUND (Off:0 Def:2),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,180,6,4,1,1:40 PM,0:37,Vonleh OFF.Foul (P2) (S.Corbin),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,182,5,37,1,1:40 PM,0:37,Vonleh Offensive Foul Turnover (P1.T8),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,183,2,79,1,1:40 PM,0:32,,,MISS Rozier 25' 3PT Pullup Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,184,4,0,1,1:40 PM,0:29,Vonleh REBOUND (Off:0 Def:3),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,185,1,79,1,1:40 PM,0:06,Vonleh 27' 3PT Pullup Jump Shot (3 PTS) (Pritchard 1 AST),,,24 - 29,5,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,187,2,1,1,1:40 PM,0:00,,,MISS Rozier 33' 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,188,4,0,1,1:40 PM,0:00,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,189,13,0,1,1:40 PM,0:00,,End of 1st Period (1:40 PM EST),,24 - 29,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,190,12,0,2,1:43 PM,12:00,,Start of 2nd Period (1:43 PM EST),,24 - 29,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,191,1,1,2,1:43 PM,11:46,Hauser 25' 3PT Jump Shot (3 PTS) (Brogdon 1 AST),,,24 - 32,8,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,193,1,101,2,1:44 PM,11:25,,,McDaniels 10' Driving Floating Jump Shot (4 PTS) (Richards 1 AST),26 - 32,6,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,194,1,108,2,1:44 PM,11:15,Vonleh 2' Cutting Dunk Shot (5 PTS) (Williams 2 AST),,,26 - 34,8,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,197,6,1,2,1:44 PM,11:14,Vonleh P.FOUL (P3.T1) (T.Mirkovich),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,199,5,4,2,1:45 PM,10:59,,,McDaniels Traveling Turnover (P1.T3),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,200,8,0,2,1:45 PM,10:59,SUB: Kabengele FOR Vonleh,,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,202,6,4,2,1:45 PM,10:52,Kabengele OFF.Foul (P1) (T.Mirkovich),,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,204,5,37,2,1:45 PM,10:52,Kabengele Offensive Foul Turnover (P1.T9),,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,205,5,2,2,1:45 PM,10:44,Hauser STEAL (1 STL),,Bouknight Lost Ball Turnover (P1.T4),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,207,1,6,2,1:45 PM,10:37,Williams 9' Driving Layup (2 PTS) (Brogdon 2 AST),,,26 - 36,10,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,209,9,1,2,1:45 PM,10:36,,,Hornets Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,210,2,101,2,1:49 PM,10:14,,,MISS McDaniels 8' Driving Floating Jump Shot,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,211,4,0,2,1:49 PM,10:10,,,Bouknight REBOUND (Off:1 Def:0),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,212,2,97,2,1:49 PM,10:10,,,MISS Bouknight Tip Layup Shot,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,213,4,0,2,1:49 PM,10:10,Brogdon REBOUND (Off:0 Def:2),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,214,1,2,2,1:49 PM,10:07,Williams 24' 3PT Running Jump Shot (5 PTS) (Brogdon 3 AST),,,26 - 39,13,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,216,2,80,2,1:49 PM,9:56,,,MISS Bouknight 28' 3PT Step Back Jump Shot,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,217,4,0,2,1:49 PM,9:51,Brogdon REBOUND (Off:0 Def:3),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,218,6,1,2,1:49 PM,9:48,,,Thor P.FOUL (P1.T1) (S.Corbin),,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,220,1,1,2,1:50 PM,9:44,Hauser 25' 3PT Jump Shot (6 PTS) (Brogdon 4 AST),,,26 - 42,16,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,222,2,75,2,1:50 PM,9:22,,,MISS Rozier 8' Driving Finger Roll Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,223,4,0,2,1:50 PM,9:20,Williams REBOUND (Off:2 Def:1),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,346,5,1,2,1:50 PM,9:14,Brogdon Bad Pass Turnover (P3.T10),,Richards STEAL (1 STL),,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,226,1,2,2,1:50 PM,9:06,,,McDaniels 7' Running Jump Shot (6 PTS),28 - 42,14,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,227,2,1,2,1:50 PM,8:54,MISS Brogdon 19' Jump Shot,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,228,4,0,2,1:50 PM,8:52,,,Richards REBOUND (Off:1 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,229,1,47,2,1:51 PM,8:32,,,McDaniels 18' Turnaround Jump Shot (8 PTS),30 - 42,12,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,230,1,1,2,1:51 PM,8:18,Williams 28' 3PT Jump Shot (8 PTS) (Brogdon 5 AST),,,30 - 45,15,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,232,2,6,2,1:51 PM,8:02,,,MISS Bouknight 10' Driving Layup,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,233,4,0,2,1:51 PM,8:00,Williams REBOUND (Off:2 Def:2),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,234,5,40,2,1:52 PM,7:51,Hauser Out of Bounds Lost Ball Turnover (P1.T11),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,235,8,0,2,1:52 PM,7:51,SUB: Tatum FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,236,8,0,2,1:52 PM,7:51,SUB: White FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,237,8,0,2,1:52 PM,7:51,SUB: Horford FOR Kabengele,,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,238,8,0,2,1:52 PM,7:51,,,SUB: La. Ball FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,239,8,0,2,1:52 PM,7:51,,,SUB: Oubre Jr. FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,245,2,6,2,1:52 PM,7:37,Williams BLOCK (1 BLK),,MISS La. Ball 2' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,1
+0012200005,247,4,0,2,1:52 PM,7:35,Tatum REBOUND (Off:0 Def:2),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,248,6,1,2,1:52 PM,7:32,,,Thor P.FOUL (P2.T2) (B.Adair),,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,250,8,0,2,1:52 PM,7:32,,,SUB: McGowens FOR Bouknight,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,251,8,0,2,1:52 PM,7:32,,,SUB: Plumlee FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,254,5,2,2,1:53 PM,7:23,Tatum Lost Ball Turnover (P2.T12),,Oubre Jr. STEAL (2 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,256,1,73,2,1:53 PM,7:16,,,Oubre Jr. 2' Driving Reverse Layup (10 PTS) (La. Ball 2 AST),32 - 45,13,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,258,2,1,2,1:53 PM,6:58,MISS Williams 25' 3PT Jump Shot,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,259,4,0,2,1:53 PM,6:56,Horford REBOUND (Off:1 Def:1),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,260,2,1,2,1:53 PM,6:54,MISS White 26' 3PT Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,261,4,0,2,1:53 PM,6:51,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,262,6,3,2,1:53 PM,6:51,Williams L.B.FOUL (P2.T2) (T.Mirkovich),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,264,8,0,2,1:54 PM,6:51,SUB: Smart FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,265,8,0,2,1:54 PM,6:51,SUB: Brown FOR Brogdon,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,266,8,0,2,1:54 PM,6:51,,,SUB: Washington FOR Thor,,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,270,2,79,2,1:54 PM,6:37,,,MISS Washington 13' Pullup Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,271,4,0,2,1:54 PM,6:34,Tatum REBOUND (Off:0 Def:3),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,272,1,1,2,1:54 PM,6:29,Horford 27' 3PT Jump Shot (6 PTS) (White 1 AST),,,32 - 48,16,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,274,2,1,2,1:54 PM,6:14,,,MISS McGowens 25' 3PT Jump Shot,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,275,4,0,2,1:54 PM,6:11,White REBOUND (Off:0 Def:4),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,276,1,41,2,1:54 PM,6:07,Tatum 4' Running Layup (4 PTS) (White 2 AST),,,32 - 50,18,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,278,6,2,2,1:55 PM,6:07,,,Washington S.FOUL (P1.T3) (S.Corbin),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,280,3,10,2,1:55 PM,6:07,Tatum Free Throw 1 of 1 (5 PTS),,,32 - 51,19,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,281,2,1,2,1:55 PM,5:55,,,MISS Washington 24' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,282,4,0,2,1:55 PM,5:51,,,Oubre Jr. REBOUND (Off:2 Def:0),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,283,1,72,2,1:55 PM,5:51,,,Oubre Jr. 1' Putback Layup (12 PTS),34 - 51,17,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,284,5,45,2,1:56 PM,5:43,Smart Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,285,2,57,2,1:56 PM,5:28,,,MISS Plumlee 8' Driving Hook Shot,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,286,4,0,2,1:56 PM,5:25,Horford REBOUND (Off:1 Def:2),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,287,2,1,2,1:56 PM,5:17,MISS Tatum 27' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,288,4,0,2,1:56 PM,5:15,,,Plumlee REBOUND (Off:2 Def:2),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,289,6,2,2,1:56 PM,5:07,Horford S.FOUL (P3.T3) (S.Corbin),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,291,3,11,2,1:57 PM,5:07,,,MISS McGowens Free Throw 1 of 2,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,292,4,1,2,1:57 PM,5:07,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,293,3,12,2,1:57 PM,5:07,,,McGowens Free Throw 2 of 2 (1 PTS),35 - 51,16,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,294,1,1,2,1:57 PM,4:56,Brown 28' 3PT Jump Shot (16 PTS) (White 3 AST),,,35 - 54,19,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,296,5,4,2,1:57 PM,4:46,,,La. Ball Traveling Turnover (P2.T5),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,297,2,79,2,1:58 PM,4:38,MISS White 26' 3PT Pullup Jump Shot,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,298,4,0,2,1:58 PM,4:35,,,Washington REBOUND (Off:0 Def:1),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,299,5,1,2,1:58 PM,4:15,Tatum STEAL (2 STL),,Oubre Jr. Bad Pass Turnover (P1.T6),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,301,1,1,2,1:58 PM,4:08,White 24' 3PT Jump Shot (3 PTS) (Horford 3 AST),,,35 - 57,22,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,303,6,1,2,1:59 PM,3:57,Brown P.FOUL (P3.T4) (S.Corbin),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,305,8,0,2,1:59 PM,3:57,SUB: Brogdon FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,306,8,0,2,1:59 PM,3:57,,,SUB: Rozier FOR McGowens,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,309,2,101,2,1:59 PM,3:46,,,MISS Washington 12' Driving Floating Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,310,4,0,2,1:59 PM,3:43,Tatum REBOUND (Off:0 Def:4),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,311,5,1,2,1:59 PM,3:40,Tatum Bad Pass Turnover (P3.T14),,Rozier STEAL (1 STL),,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,313,5,45,2,1:59 PM,3:38,,,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,314,2,80,2,2:00 PM,3:27,MISS Tatum 26' 3PT Step Back Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,315,4,0,2,2:00 PM,3:23,,,Washington REBOUND (Off:0 Def:2),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,316,2,1,2,2:00 PM,3:17,,,MISS Rozier 3PT Jump Shot,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,317,4,0,2,2:00 PM,3:16,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,319,5,2,2,2:00 PM,3:04,Brown Lost Ball Turnover (P2.T15),,Rozier STEAL (2 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,321,6,1,2,2:00 PM,3:04,Brown P.FOUL (P4.PN) (S.Corbin),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,323,3,11,2,2:01 PM,3:04,,,Rozier Free Throw 1 of 2 (6 PTS),36 - 57,21,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,324,8,0,2,2:01 PM,3:04,SUB: Hauser FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,326,3,12,2,2:01 PM,3:04,,,Rozier Free Throw 2 of 2 (7 PTS),37 - 57,20,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,327,2,1,2,2:02 PM,2:53,MISS Brogdon 29' 3PT Jump Shot,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,328,4,0,2,2:02 PM,2:48,Smart REBOUND (Off:1 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,329,6,2,2,2:02 PM,2:46,,,Washington S.FOUL (P2.T4) (S.Corbin),,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,331,9,1,2,2:02 PM,2:46,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,332,3,11,2,2:05 PM,2:46,Brogdon Free Throw 1 of 2 (1 PTS),,,37 - 58,21,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,333,3,12,2,2:05 PM,2:46,MISS Brogdon Free Throw 2 of 2,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,334,4,0,2,2:05 PM,2:44,,,Plumlee REBOUND (Off:2 Def:3),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,335,6,1,2,2:06 PM,2:31,Tatum P.FOUL (P1.PN) (S.Corbin),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,337,3,11,2,2:06 PM,2:31,,,Washington Free Throw 1 of 2 (1 PTS),38 - 58,20,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,338,3,12,2,2:06 PM,2:31,,,Washington Free Throw 2 of 2 (2 PTS),39 - 58,19,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,339,2,1,2,2:06 PM,2:15,MISS Tatum 27' 3PT Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,340,4,0,2,2:07 PM,2:13,,,Plumlee REBOUND (Off:2 Def:4),,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,341,6,2,2,2:07 PM,2:01,White S.FOUL (P1.PN) (T.Mirkovich),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,343,3,11,2,2:07 PM,2:01,,,Plumlee Free Throw 1 of 2 (6 PTS),40 - 58,18,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,344,3,12,2,2:07 PM,2:01,,,MISS Plumlee Free Throw 2 of 2,,,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,345,4,0,2,2:07 PM,1:59,Hauser REBOUND (Off:0 Def:1),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,348,1,6,2,2:08 PM,1:42,White 6' Driving Layup (5 PTS) (Smart 3 AST),,,40 - 60,20,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,351,6,1,2,2:08 PM,1:35,White P.FOUL (P2.PN) (S.Corbin),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,353,3,11,2,2:09 PM,1:35,,,Plumlee Free Throw 1 of 2 (7 PTS),41 - 60,19,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,354,3,12,2,2:09 PM,1:35,,,Plumlee Free Throw 2 of 2 (8 PTS),42 - 60,18,5,203486,Mason Plumlee,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,355,1,80,2,2:09 PM,1:19,Tatum 27' 3PT Step Back Jump Shot (8 PTS),,,42 - 63,21,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,356,2,1,2,2:09 PM,1:07,,,MISS Oubre Jr. 26' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,357,4,0,2,2:09 PM,1:03,Tatum REBOUND (Off:0 Def:5),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,358,6,4,2,2:10 PM,1:01,White OFF.Foul (P3) (T.Mirkovich),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,360,5,37,2,2:10 PM,1:01,White Offensive Foul Turnover (P1.T16),,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,361,2,79,2,2:10 PM,0:50,,,MISS La. Ball 26' 3PT Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,362,4,0,2,2:10 PM,0:48,Tatum REBOUND (Off:0 Def:6),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,363,1,1,2,2:10 PM,0:43,Hauser 3PT Jump Shot (9 PTS) (Brogdon 6 AST),,,42 - 66,24,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,365,1,6,2,2:10 PM,0:35,,,Rozier 1' Driving Layup (9 PTS),44 - 66,22,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,366,5,45,2,2:10 PM,0:34,Tatum Out of Bounds - Bad Pass Turnover Turnover (P4.T17),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,367,5,40,2,2:11 PM,0:33,,,La. Ball Out of Bounds Lost Ball Turnover (P3.T8),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,0
+0012200005,368,2,80,2,2:11 PM,0:12,MISS Brogdon 28' 3PT Step Back Jump Shot,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,369,4,0,2,2:11 PM,0:09,,,La. Ball REBOUND (Off:2 Def:4),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,370,1,76,2,2:11 PM,0:04,,,La. Ball Running Finger Roll Layup (4 PTS),46 - 66,20,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,371,2,41,2,2:11 PM,0:00,MISS Tatum 7' Running Layup,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,373,4,0,2,2:11 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,379,6,2,2,2:12 PM,0:00,,,La. Ball S.FOUL (P1.PN) (S.Corbin),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,378,18,0,2,2:12 PM,0:00,,Instant Replay2nd Period (2:12 PM EST),,46 - 66,20,0,379,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200005,381,3,11,2,2:14 PM,0:00,Smart Free Throw 1 of 2 (6 PTS),,,46 - 67,21,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,382,3,12,2,2:14 PM,0:00,Smart Free Throw 2 of 2 (7 PTS),,,46 - 68,22,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,377,13,0,2,2:12 PM,0:00,,End of 2nd Period (2:12 PM EST),,46 - 66,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,391,12,0,3,2:30 PM,12:00,,Start of 3rd Period (2:30 PM EST),,46 - 68,22,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,392,5,11,3,2:30 PM,11:35,CELTICS Turnover: Shot Clock (T#18),,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200005,393,1,99,3,2:31 PM,11:22,,,Rozier 7' Cutting Finger Roll Layup Shot (11 PTS) (Washington 1 AST),48 - 68,20,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,395,1,80,3,2:31 PM,11:09,Brown 25' 3PT Step Back Jump Shot (19 PTS),,,48 - 71,23,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,396,2,57,3,2:31 PM,10:58,,,MISS Richards 14' Driving Hook Shot,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,397,4,0,3,2:31 PM,10:56,Vonleh REBOUND (Off:0 Def:4),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,398,6,2,3,2:31 PM,10:50,,,La. Ball S.FOUL (P2.T1) (B.Adair),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,400,3,11,3,2:32 PM,10:50,Tatum Free Throw 1 of 2 (9 PTS),,,48 - 72,24,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,401,3,12,3,2:32 PM,10:50,Tatum Free Throw 2 of 2 (10 PTS),,,48 - 73,25,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,402,5,2,3,2:32 PM,10:31,Smart STEAL (1 STL),,Rozier Lost Ball Turnover (P1.T9),,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,404,2,2,3,2:32 PM,10:27,MISS Tatum 3PT Running Jump Shot,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,405,4,0,3,2:32 PM,10:25,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,407,2,79,3,2:33 PM,10:17,,,MISS La. Ball 28' 3PT Pullup Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,408,4,0,3,2:33 PM,10:13,Vonleh REBOUND (Off:0 Def:5),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,409,5,45,3,2:33 PM,10:06,Tatum Out of Bounds - Bad Pass Turnover Turnover (P5.T19),,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,410,6,1,3,2:33 PM,9:58,Vonleh P.FOUL (P4.T1) (S.Corbin),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,412,2,73,3,2:34 PM,9:48,,,MISS La. Ball 6' Driving Reverse Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,413,4,0,3,2:34 PM,9:44,,,Richards REBOUND (Off:2 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,414,1,97,3,2:34 PM,9:44,,,Richards Tip Layup Shot (2 PTS),50 - 73,23,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,415,5,1,3,2:34 PM,9:25,Brown Bad Pass Turnover (P3.T20),,La. Ball STEAL (1 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,417,6,4,3,2:34 PM,9:07,,,Richards OFF.Foul (P1) (S.Corbin),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,419,5,37,3,2:34 PM,9:07,,,Richards Offensive Foul Turnover (P1.T10),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,420,8,0,3,2:35 PM,9:07,SUB: White FOR Vonleh,,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,422,1,75,3,2:35 PM,8:56,Tatum 3' Driving Finger Roll Layup (12 PTS),,,50 - 75,25,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,423,6,2,3,2:35 PM,8:56,,,Oubre Jr. S.FOUL (P3.T2) (B.Adair),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,425,3,10,3,2:36 PM,8:56,Tatum Free Throw 1 of 1 (13 PTS),,,50 - 76,26,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,426,2,75,3,2:36 PM,8:41,,,MISS Rozier 7' Driving Finger Roll Layup,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,427,4,0,3,2:36 PM,8:38,Horford REBOUND (Off:1 Def:3),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,428,1,101,3,2:36 PM,8:23,White 12' Driving Floating Jump Shot (7 PTS) (Tatum 3 AST),,,50 - 78,28,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,430,1,66,3,2:36 PM,8:04,,,Oubre Jr. 29' 3PT Jump Bank Shot (15 PTS) (La. Ball 3 AST),53 - 78,25,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,432,5,1,3,2:37 PM,7:57,White Bad Pass Turnover (P2.T21),,Washington STEAL (2 STL),,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,434,2,6,3,2:37 PM,7:52,,,MISS La. Ball 6' Driving Layup,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,435,4,0,3,2:37 PM,7:50,,,Richards REBOUND (Off:3 Def:3),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,436,1,87,3,2:37 PM,7:50,,,Richards 6' Putback Dunk (4 PTS),55 - 78,23,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,437,9,1,3,2:37 PM,7:50,CELTICS Timeout: Regular (Full 3 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,438,5,2,3,2:40 PM,7:37,Smart Lost Ball Turnover (P4.T22),,Oubre Jr. STEAL (3 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,440,1,50,3,2:40 PM,7:34,,,Oubre Jr. 3' Running Dunk (17 PTS),57 - 78,21,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,441,1,1,3,2:40 PM,7:22,Tatum 24' 3PT Jump Shot (16 PTS) (Horford 4 AST),,,57 - 81,24,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,443,2,1,3,2:41 PM,7:01,,,MISS Washington 26' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,444,4,0,3,2:41 PM,6:58,Brown REBOUND (Off:1 Def:4),,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,445,1,108,3,2:41 PM,6:52,Horford 1' Cutting Dunk Shot (8 PTS) (Brown 1 AST),,,57 - 83,26,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,447,2,1,3,2:41 PM,6:38,,,MISS Oubre Jr. 26' 3PT Jump Shot,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,448,4,0,3,2:41 PM,6:35,Horford REBOUND (Off:1 Def:4),,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,449,6,2,3,2:41 PM,6:31,,,Oubre Jr. S.FOUL (P4.T3) (B.Adair),,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,451,3,11,3,2:42 PM,6:31,MISS Brown Free Throw 1 of 2,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,452,4,1,3,2:42 PM,6:31,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,453,8,0,3,2:42 PM,6:31,SUB: Brogdon FOR Tatum,,,,,4,1628369,Jayson Tatum,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,455,3,12,3,2:42 PM,6:31,Brown Free Throw 2 of 2 (20 PTS),,,57 - 84,27,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,456,6,2,3,2:42 PM,6:18,Smart S.FOUL (P3.T2) (T.Mirkovich),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,458,3,11,3,2:43 PM,6:18,,,La. Ball Free Throw 1 of 2 (5 PTS),58 - 84,26,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,459,3,12,3,2:43 PM,6:18,,,La. Ball Free Throw 2 of 2 (6 PTS),59 - 84,25,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,460,2,1,3,2:43 PM,6:08,MISS Smart 25' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,461,4,0,3,2:43 PM,6:06,,,Richards REBOUND (Off:3 Def:4),,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,462,1,1,3,2:43 PM,5:58,,,La. Ball 27' 3PT Jump Shot (9 PTS) (Rozier 2 AST),62 - 84,22,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,464,1,1,3,2:44 PM,5:42,Brogdon 26' 3PT Jump Shot (4 PTS) (White 4 AST),,,62 - 87,25,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,466,1,1,3,2:44 PM,5:31,,,La. Ball 27' 3PT Jump Shot (12 PTS) (Rozier 3 AST),65 - 87,22,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,467,2,80,3,2:44 PM,5:21,MISS Brogdon 27' 3PT Step Back Jump Shot,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,468,4,0,3,2:44 PM,5:17,,,La. Ball REBOUND (Off:2 Def:5),,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,470,6,1,3,2:44 PM,5:11,Smart P.FOUL (P4.T3) (T.Mirkovich),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,472,8,0,3,2:44 PM,5:11,SUB: Pritchard FOR White,,,,,4,1628401,Derrick White,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,473,8,0,3,2:44 PM,5:11,SUB: Hauser FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,474,8,0,3,2:44 PM,5:11,SUB: Kabengele FOR Horford,,,,,4,201143,Al Horford,1610612738.0,Boston,Celtics,BOS,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,475,8,0,3,2:44 PM,5:11,,,SUB: McDaniels FOR Rozier,,,5,1626179,Terry Rozier,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,476,8,0,3,2:44 PM,5:11,,,SUB: Bouknight FOR Oubre Jr.,,,5,1626162,Kelly Oubre Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,482,1,78,3,2:45 PM,5:03,,,Richards 9' Floating Jump Shot (6 PTS) (La. Ball 4 AST),67 - 87,20,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,483,7,2,3,2:45 PM,5:03,Kabengele Violation:Defensive Goaltending (S.Corbin),,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,484,1,6,3,2:45 PM,4:50,Brown 6' Driving Layup (22 PTS) (Brogdon 7 AST),,,67 - 89,22,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,486,2,1,3,2:46 PM,4:40,,,MISS Washington 27' 3PT Jump Shot,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,487,4,0,3,2:46 PM,4:37,Brogdon REBOUND (Off:0 Def:4),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,488,1,80,3,2:46 PM,4:31,Brown 18' Step Back Jump Shot (24 PTS) (Brogdon 8 AST),,,67 - 91,24,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,490,1,101,3,2:46 PM,4:14,,,La. Ball 18' Driving Floating Jump Shot (14 PTS),69 - 91,22,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,491,5,1,3,2:46 PM,4:03,Brown Bad Pass Turnover (P4.T23),,Washington STEAL (3 STL),,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,493,1,50,3,2:46 PM,3:58,,,Washington 4' Running Dunk (4 PTS) (Bouknight 2 AST),71 - 91,20,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,495,1,52,3,2:46 PM,3:43,Kabengele 1' Alley Oop Dunk (2 PTS) (Hauser 1 AST),,,71 - 93,22,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,497,2,1,3,2:47 PM,3:33,,,MISS La. Ball 29' 3PT Jump Shot,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,498,4,0,3,2:47 PM,3:31,Pritchard REBOUND (Off:0 Def:1),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,499,2,80,3,2:47 PM,3:10,MISS Pritchard 21' Step Back Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,500,4,0,3,2:47 PM,3:05,Kabengele REBOUND (Off:1 Def:0),,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,501,8,0,3,2:47 PM,3:05,SUB: Williams FOR Brown,,,,,4,1627759,Jaylen Brown,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,502,8,0,3,2:47 PM,3:05,,,SUB: Williams FOR La. Ball,,,5,1630163,LaMelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,503,8,0,3,2:47 PM,3:05,,,SUB: Smith Jr. FOR Richards,,,5,1630208,Nick Richards,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,507,10,0,3,2:48 PM,3:03,Jump Ball Kabengele vs. Washington: Tip to Pritchard,,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0
+0012200005,510,1,1,3,2:48 PM,2:58,Hauser 25' 3PT Jump Shot (12 PTS) (Pritchard 2 AST),,,71 - 96,25,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,512,9,1,3,2:48 PM,2:48,,,Hornets Timeout: Regular (Reg.3 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,514,8,0,3,2:51 PM,2:48,,,SUB: Thor FOR Washington,,,5,1629023,P.J. Washington,1610612766.0,Charlotte,Hornets,CHA,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,516,6,1,3,2:51 PM,2:39,Pritchard P.FOUL (P1.T4) (S.Corbin),,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,518,2,5,3,2:52 PM,2:30,,,MISS Smith Jr. 7' Layup,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,520,1,97,3,2:52 PM,2:26,,,Smith Jr. Tip Layup Shot (2 PTS),73 - 96,23,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,519,4,0,3,2:52 PM,2:26,,,Smith Jr. REBOUND (Off:1 Def:0),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,521,6,1,3,2:52 PM,2:16,,,McDaniels P.FOUL (P2.T4) (S.Corbin),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,523,1,79,3,2:53 PM,2:12,Brogdon 25' 3PT Pullup Jump Shot (7 PTS) (Pritchard 3 AST),,,73 - 99,26,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,524,1,102,3,2:53 PM,1:55,,,McDaniels 11' Driving Floating Bank Jump Shot (10 PTS) (Smith Jr. 1 AST),75 - 99,24,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,525,2,1,3,2:53 PM,1:46,MISS Brogdon 26' 3PT Jump Shot,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,526,4,0,3,2:53 PM,1:43,Kabengele REBOUND (Off:2 Def:0),,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,527,1,72,3,2:53 PM,1:43,Kabengele Putback Layup (4 PTS),,,75 - 101,26,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,528,6,2,3,2:53 PM,1:43,,,Bouknight S.FOUL (P1.PN) (T.Mirkovich),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,531,3,10,3,2:54 PM,1:43,Kabengele Free Throw 1 of 1 (5 PTS),,,75 - 102,27,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,532,6,26,3,2:54 PM,1:32,,,Bouknight Offensive Charge Foul (P2) (T.Mirkovich),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,534,5,37,3,2:54 PM,1:32,,,Bouknight Offensive Foul Turnover (P2.T11),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,535,2,1,3,2:54 PM,1:21,MISS Pritchard 24' 3PT Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,536,4,0,3,2:54 PM,1:19,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,538,1,79,3,2:55 PM,1:02,,,Smith Jr. 17' Pullup Jump Shot (4 PTS),77 - 102,25,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,539,1,98,3,2:55 PM,0:45,Hauser 3' Cutting Layup Shot (14 PTS) (Williams 3 AST),,,77 - 104,27,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,542,2,75,3,2:55 PM,0:32,,,MISS Smith Jr. 7' Driving Finger Roll Layup,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,543,4,0,3,2:55 PM,0:30,Hauser REBOUND (Off:0 Def:2),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,544,1,2,3,2:55 PM,0:25,Kabengele 24' 3PT Running Jump Shot (8 PTS) (Hauser 2 AST),,,77 - 107,30,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,547,2,79,3,2:56 PM,0:05,,,MISS Bouknight 28' 3PT Pullup Jump Shot,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,548,4,0,3,2:56 PM,0:01,Kabengele REBOUND (Off:2 Def:1),,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,549,13,0,3,2:56 PM,0:00,,End of 3rd Period (2:56 PM EST),,77 - 107,30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,550,12,0,4,2:59 PM,12:00,,Start of 4th Period (2:59 PM EST),,77 - 107,30,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,551,1,6,4,2:59 PM,11:50,,,Smith Jr. 4' Driving Layup (6 PTS),79 - 107,28,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,552,2,1,4,2:59 PM,11:35,MISS Hauser 24' 3PT Jump Shot,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,553,4,0,4,2:59 PM,11:32,,,McDaniels REBOUND (Off:0 Def:1),,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,554,2,63,4,3:00 PM,11:21,,,MISS Bouknight 14' Fadeaway Jumper,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,555,4,0,4,3:00 PM,11:18,Brogdon REBOUND (Off:0 Def:5),,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,556,1,6,4,3:00 PM,11:11,Brogdon 2' Driving Layup (9 PTS) (Pritchard 4 AST),,,79 - 109,30,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,558,1,6,4,3:00 PM,10:55,,,Smith Jr. 5' Driving Layup (8 PTS),81 - 109,28,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,559,1,52,4,3:00 PM,10:32,Kabengele 2' Alley Oop Dunk (10 PTS) (Williams 4 AST),,,81 - 111,30,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,561,1,7,4,3:01 PM,10:13,,,Williams 3' Dunk (2 PTS) (McDaniels 1 AST),83 - 111,28,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1
+0012200005,563,1,6,4,3:01 PM,9:54,Brogdon 2' Driving Layup (11 PTS),,,83 - 113,30,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,564,2,6,4,3:01 PM,9:44,,,MISS McDaniels 9' Driving Layup,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,565,4,0,4,3:01 PM,9:40,,,Williams REBOUND (Off:1 Def:0),,,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,566,2,97,4,3:01 PM,9:40,,,MISS Williams Tip Layup Shot,,,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,567,4,0,4,3:01 PM,9:39,Hauser REBOUND (Off:0 Def:3),,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,568,1,76,4,3:01 PM,9:36,Pritchard 1' Running Finger Roll Layup (5 PTS) (Brogdon 9 AST),,,83 - 115,32,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,570,6,1,4,3:02 PM,9:29,Williams P.FOUL (P3.T1) (B.Adair),,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0012200005,572,8,0,4,3:02 PM,9:29,SUB: Vonleh FOR Williams,,,,,4,1629684,Grant Williams,1610612738.0,Boston,Celtics,BOS,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,573,8,0,4,3:02 PM,9:29,SUB: Layman FOR Brogdon,,,,,4,1627763,Malcolm Brogdon,1610612738.0,Boston,Celtics,BOS,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,574,8,0,4,3:02 PM,9:29,SUB: Jackson FOR Kabengele,,,,,4,1629662,Mfiondu Kabengele,1610612738.0,Boston,Celtics,BOS,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,575,8,0,4,3:02 PM,9:29,,,SUB: Jones FOR Thor,,,5,1630550,JT Thor,1610612766.0,Charlotte,Hornets,CHA,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,580,2,79,4,3:02 PM,9:18,,,MISS Smith Jr. 22' Pullup Jump Shot,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,581,4,0,4,3:02 PM,9:13,Jackson REBOUND (Off:0 Def:1),,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,582,2,1,4,3:02 PM,9:06,MISS Layman 3PT Jump Shot,,,,,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,583,4,0,4,3:02 PM,9:05,,,Jones REBOUND (Off:0 Def:1),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,584,2,6,4,3:03 PM,8:47,,,MISS Bouknight 10' Driving Layup,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,585,4,0,4,3:03 PM,8:44,,,Bouknight REBOUND (Off:2 Def:0),,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,586,1,97,4,3:03 PM,8:44,,,Bouknight Tip Layup Shot (2 PTS),85 - 115,30,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,587,2,101,4,3:03 PM,8:34,MISS Pritchard 10' Driving Floating Jump Shot,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,588,4,0,4,3:03 PM,8:34,,,Williams REBOUND (Off:1 Def:1),,,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,589,2,79,4,3:03 PM,8:19,,,MISS Bouknight 28' 3PT Pullup Jump Shot,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,590,4,0,4,3:03 PM,8:17,Vonleh REBOUND (Off:0 Def:6),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,592,6,4,4,3:03 PM,8:05,Vonleh OFF.Foul (P5) (T.Mirkovich),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,594,5,37,4,3:03 PM,8:05,Vonleh Offensive Foul Turnover (P2.T24),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,1
+0012200005,595,8,0,4,3:04 PM,8:05,,,SUB: Li. Ball FOR Bouknight,,,5,1630547,James Bouknight,1610612766.0,Charlotte,Hornets,CHA,5,1629071,LiAngelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,596,8,0,4,3:04 PM,8:05,,,SUB: Sims FOR McDaniels,,,5,1629667,Jalen McDaniels,1610612766.0,Charlotte,Hornets,CHA,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,599,2,63,4,3:04 PM,7:46,,,MISS Smith Jr. 16' Fadeaway Jumper,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,600,4,0,4,3:04 PM,7:41,Layman REBOUND (Off:0 Def:1),,,,,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,603,1,6,4,3:04 PM,7:36,Layman 1' Driving Layup (2 PTS) (Pritchard 5 AST),,,85 - 117,32,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,605,6,2,4,3:05 PM,7:36,,,Jones S.FOUL (P1.T1) (S.Corbin),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,607,3,10,4,3:05 PM,7:36,Layman Free Throw 1 of 1 (3 PTS),,,85 - 118,33,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,608,6,1,4,3:05 PM,7:23,Jackson P.FOUL (P1.T2) (S.Corbin),,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,610,2,1,4,3:06 PM,7:11,,,MISS Li. Ball 24' 3PT Jump Shot,,,5,1629071,LiAngelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,611,4,0,4,3:06 PM,7:08,Vonleh REBOUND (Off:0 Def:7),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,612,2,1,4,3:06 PM,7:01,MISS Jackson 29' 3PT Jump Shot,,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,613,4,0,4,3:06 PM,6:57,,,Li. Ball REBOUND (Off:0 Def:1),,,5,1629071,LiAngelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,614,2,86,4,3:06 PM,6:36,,,MISS Williams 16' Turnaround Fadeaway Shot,,,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,615,4,0,4,3:06 PM,6:31,,,Sims REBOUND (Off:1 Def:0),,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,616,2,80,4,3:06 PM,6:28,,,MISS Li. Ball 27' 3PT Step Back Jump Shot,,,5,1629071,LiAngelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,617,4,0,4,3:06 PM,6:26,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,619,9,1,4,3:06 PM,6:26,CELTICS Timeout: Regular (Full 4 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,620,8,0,4,3:09 PM,6:26,SUB: Davison FOR Pritchard,,,,,4,1630202,Payton Pritchard,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,621,8,0,4,3:09 PM,6:26,SUB: Thomas FOR Hauser,,,,,4,1630573,Sam Hauser,1610612738.0,Boston,Celtics,BOS,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,624,1,52,4,3:09 PM,6:12,Vonleh Alley Oop Dunk (7 PTS) (Davison 1 AST),,,85 - 120,35,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,626,2,101,4,3:10 PM,5:52,,,MISS Smith Jr. 6' Driving Floating Jump Shot,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,627,4,0,4,3:10 PM,5:50,Vonleh REBOUND (Off:0 Def:8),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,628,2,63,4,3:10 PM,5:35,MISS Layman 10' Fadeaway Jumper,,,,,4,1627774,Jake Layman,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,629,4,0,4,3:10 PM,5:33,,,Sims REBOUND (Off:1 Def:1),,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,630,2,76,4,3:10 PM,5:29,,,MISS Sims 8' Running Finger Roll Layup,,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,631,4,0,4,3:10 PM,5:27,Vonleh REBOUND (Off:0 Def:9),,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,632,1,41,4,3:10 PM,5:24,Davison 3' Running Layup (2 PTS),,,85 - 122,37,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,633,6,2,4,3:10 PM,5:24,,,Smith Jr. S.FOUL (P1.T2) (S.Corbin),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,1
+0012200005,635,8,0,4,3:11 PM,5:24,SUB: Samanic FOR Vonleh,,,,,4,203943,Noah Vonleh,1610612738.0,Boston,Celtics,BOS,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0012200005,637,3,10,4,3:11 PM,5:24,MISS Davison Free Throw 1 of 1,,,,,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,638,4,0,4,3:11 PM,5:22,,,Sims REBOUND (Off:1 Def:2),,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,639,2,79,4,3:11 PM,5:13,,,MISS Sims 19' Pullup Jump Shot,,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,640,4,0,4,3:11 PM,5:10,Samanic REBOUND (Off:0 Def:1),,,,,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,641,1,1,4,3:11 PM,5:04,Thomas 24' 3PT Jump Shot (3 PTS) (Davison 2 AST),,,85 - 125,40,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,643,2,1,4,3:12 PM,4:48,,,MISS Li. Ball 28' 3PT Jump Shot,,,5,1629071,LiAngelo Ball,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,644,4,0,4,3:12 PM,4:46,Davison REBOUND (Off:0 Def:1),,,,,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,645,2,1,4,3:12 PM,4:41,MISS Thomas 25' 3PT Jump Shot,,,,,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,646,4,0,4,3:12 PM,4:37,,,Smith Jr. REBOUND (Off:1 Def:1),,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,647,2,1,4,3:12 PM,4:25,,,MISS Sims 28' 3PT Jump Shot,,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,648,4,0,4,3:12 PM,4:20,Samanic REBOUND (Off:0 Def:2),,,,,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,649,1,41,4,3:12 PM,4:15,Samanic 2' Running Layup (2 PTS) (Davison 3 AST),,,85 - 127,42,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,650,9,1,4,3:12 PM,4:10,,,Hornets Timeout: Regular (Reg.4 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,652,8,0,4,3:14 PM,4:10,,,SUB: McGowens FOR Williams,,,5,1631109,Mark Williams,1610612766.0,Charlotte,Hornets,CHA,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,653,8,0,4,3:14 PM,4:10,,,SUB: Duruji FOR Smith Jr.,,,5,1628372,Dennis Smith Jr.,1610612766.0,Charlotte,Hornets,CHA,5,1631347,Anthony Duruji,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,654,8,0,4,3:14 PM,4:10,,,SUB: Crutcher FOR Li. Ball,,,5,1629071,LiAngelo Ball,1610612766.0,Charlotte,Hornets,CHA,5,1630622,Jalen Crutcher,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,655,8,0,4,3:14 PM,4:10,,,SUB: Whaley FOR Sims,,,5,1631301,Jaylen Sims,1610612766.0,Charlotte,Hornets,CHA,5,1631348,Isaiah Whaley,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0
+0012200005,661,6,2,4,3:15 PM,4:02,Samanic S.FOUL (P1.T3) (T.Mirkovich),,,,,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,663,3,11,4,3:16 PM,4:02,,,McGowens Free Throw 1 of 2 (2 PTS),86 - 127,41,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,664,3,12,4,3:16 PM,4:02,,,MISS McGowens Free Throw 2 of 2,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,665,4,0,4,3:16 PM,4:00,Samanic REBOUND (Off:0 Def:3),,,,,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,666,1,1,4,3:16 PM,3:44,Jackson 3PT Jump Shot (3 PTS) (Thomas 1 AST),,,86 - 130,44,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,668,5,45,4,3:17 PM,3:23,,,Crutcher Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,5,1630622,Jalen Crutcher,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,669,1,101,4,3:17 PM,3:11,Jackson 6' Driving Floating Jump Shot (5 PTS) (Davison 4 AST),,,86 - 132,46,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,670,2,75,4,3:17 PM,2:56,,,MISS McGowens 11' Driving Finger Roll Layup,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,671,4,0,4,3:17 PM,2:52,,,Jones REBOUND (Off:1 Def:1),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,672,1,7,4,3:17 PM,2:52,,,Jones 4' Dunk (2 PTS),88 - 132,44,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,673,6,2,4,3:17 PM,2:52,Samanic S.FOUL (P2.T4) (S.Corbin),,,,,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,0
+0012200005,676,3,10,4,3:18 PM,2:52,,,MISS Jones Free Throw 1 of 1,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,677,4,0,4,3:18 PM,2:50,Samanic REBOUND (Off:0 Def:4),,,,,4,1629677,Luka Samanic,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,678,2,73,4,3:18 PM,2:35,MISS Thomas 3' Driving Reverse Layup,,McGowens BLOCK (1 BLK),,,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,1
+0012200005,680,4,0,4,3:18 PM,2:33,,,Jones REBOUND (Off:1 Def:2),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,681,2,6,4,3:18 PM,2:26,,,MISS Crutcher 6' Driving Layup,,,5,1630622,Jalen Crutcher,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,682,4,0,4,3:18 PM,2:23,,,Jones REBOUND (Off:2 Def:2),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,683,1,87,4,3:18 PM,2:22,,,Jones 3' Putback Dunk (4 PTS),90 - 132,42,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,684,2,6,4,3:19 PM,2:05,MISS Thomas 2' Driving Layup,,Jones BLOCK (1 BLK),,,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,1
+0012200005,685,4,0,4,3:19 PM,2:04,,,Jones REBOUND (Off:2 Def:3),,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,686,6,2,4,3:19 PM,2:01,Davison S.FOUL (P1.PN) (B.Adair),,,,,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,1,0,,,,,,1
+0012200005,688,3,11,4,3:19 PM,2:01,,,MISS Jones Free Throw 1 of 2,,,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,689,4,1,4,3:19 PM,2:01,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,690,3,12,4,3:19 PM,2:01,,,Jones Free Throw 2 of 2 (5 PTS),91 - 132,41,5,1630539,Kai Jones,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,691,2,75,4,3:20 PM,1:51,MISS Davison 1' Driving Finger Roll Layup,,,,,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,692,4,0,4,3:20 PM,1:49,,,Whaley REBOUND (Off:0 Def:1),,,5,1631348,Isaiah Whaley,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,694,1,6,4,3:20 PM,1:34,,,McGowens 5' Driving Layup (4 PTS),93 - 132,39,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,695,2,80,4,3:20 PM,1:23,MISS Jackson 16' Step Back Jump Shot,,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,696,4,0,4,3:20 PM,1:20,,,Crutcher REBOUND (Off:0 Def:1),,,5,1630622,Jalen Crutcher,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,697,5,4,4,3:20 PM,1:12,,,Duruji Traveling Turnover (P1.T13),,,5,1631347,Anthony Duruji,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,1,0,,,,,,1
+0012200005,698,2,2,4,3:21 PM,1:08,MISS Jackson 25' 3PT Running Jump Shot,,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,699,4,0,4,3:21 PM,1:05,Jackson REBOUND (Off:1 Def:1),,,,,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,700,1,75,4,3:21 PM,1:01,Davison 1' Driving Finger Roll Layup (4 PTS) (Jackson 1 AST),,,93 - 134,41,4,1631120,JD Davison,1610612738.0,Boston,Celtics,BOS,4,1628382,Justin Jackson,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1
+0012200005,702,2,6,4,3:21 PM,0:49,Thomas BLOCK (1 BLK),,MISS McGowens 7' Driving Layup,,,5,1631121,Bryce McGowens,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,1
+0012200005,703,4,0,4,3:21 PM,0:49,,,Hornets Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200005,705,2,101,4,3:21 PM,0:37,,,MISS Crutcher 16' Driving Floating Jump Shot,,,5,1630622,Jalen Crutcher,1610612766.0,Charlotte,Hornets,CHA,0,0,,,,,,0,0,,,,,,1
+0012200005,706,4,0,4,3:21 PM,0:33,Thomas REBOUND (Off:0 Def:1),,,,,4,1630271,Brodric Thomas,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,1
+0012200005,707,5,11,4,3:22 PM,0:10,CELTICS Turnover: Shot Clock (T#25),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200005,708,13,0,4,3:22 PM,0:00,,End of 4th Period (3:22 PM EST),,93 - 134,41,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

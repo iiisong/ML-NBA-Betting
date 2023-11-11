@@ -1,0 +1,539 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300005,0,12,0,1,4:04 PM,12:00,,Start of 1st Period (4:04 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,1,10,0,1,4:05 PM,12:00,Jump Ball Carmichael vs. Hawes: Tip to Carter-Williams,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0
+0011300005,2,2,1,1,4:05 PM,11:52,,,MISS Young 25' 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,3,4,0,1,4:06 PM,11:52,Hervelle REBOUND (Off:0 Def:1),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,4,6,4,1,4:06 PM,11:40,Hervelle OFF.Foul (P1),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,5,5,5,1,4:06 PM,11:40,Hervelle Foul Turnover (P1.T1),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,6,6,1,1,4:06 PM,11:34,Pilepic P.FOUL (P1.T1),,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,7,6,4,1,4:06 PM,11:34,,,Hawes OFF.Foul (P1),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,8,5,5,1,4:06 PM,11:34,,,Hawes Foul Turnover (P1.T1),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,9,2,1,1,4:07 PM,11:13,MISS Carmichael 14' Jump Shot,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,10,4,0,1,4:07 PM,11:12,Mumbru REBOUND (Off:1 Def:0),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,11,2,5,1,4:07 PM,11:10,MISS Mumbru 3' Layup,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,12,4,0,1,4:07 PM,11:09,,,Hawes REBOUND (Off:0 Def:1),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,13,2,1,1,4:07 PM,11:03,,,MISS Turner 9' Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,15,4,0,1,4:07 PM,11:02,,,Hawes REBOUND (Off:1 Def:1),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,14,2,5,1,4:07 PM,11:02,,,MISS Hawes  Layup,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,17,4,0,1,4:07 PM,11:01,,,Young REBOUND (Off:1 Def:0),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,16,1,5,1,4:07 PM,11:01,,,Young 1' Layup (2 PTS),2 - 0,-2,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,18,1,1,1,4:07 PM,10:43,Carmichael 17' Jump Shot (2 PTS) (Lopez 1 AST),,,2 - 2,TIE,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,19,2,5,1,4:07 PM,10:29,,,MISS Anderson 1' Layup,,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,20,4,0,1,4:08 PM,10:28,Carmichael REBOUND (Off:0 Def:1),,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,22,2,1,1,4:08 PM,10:09,MISS Hervelle 11' Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,23,4,0,1,4:08 PM,10:08,,,Anderson REBOUND (Off:0 Def:1),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,24,1,42,1,4:08 PM,9:58,,,Carter-Williams 1' Driving Layup (2 PTS),4 - 2,-2,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,25,2,1,1,4:08 PM,9:44,MISS Carmichael 17' Jump Shot,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,26,4,0,1,4:08 PM,9:43,,,Young REBOUND (Off:1 Def:1),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,27,6,2,1,4:09 PM,9:33,Carmichael S.FOUL (P1.T2),,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,28,3,11,1,4:09 PM,9:33,,,Hawes Free Throw 1 of 2 (1 PTS),5 - 2,-3,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,30,3,12,1,4:09 PM,9:33,,,MISS Hawes Free Throw 2 of 2,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,32,4,0,1,4:09 PM,9:33,Hervelle REBOUND (Off:0 Def:2),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,33,1,1,1,4:09 PM,9:16,Pilepic 23' Jump Shot (2 PTS) (Lopez 2 AST),,,5 - 4,-1,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,34,1,73,1,4:10 PM,9:08,,,Turner 1' Driving Reverse Layup (2 PTS),7 - 4,-3,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,35,2,1,1,4:10 PM,8:52,MISS Mumbru 28' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,36,4,0,1,4:10 PM,8:48,,,Anderson REBOUND (Off:0 Def:2),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,37,5,1,1,4:10 PM,8:44,Mumbru STEAL (1 STL),,Anderson Bad Pass Turnover (P1.T2),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,38,6,4,1,4:10 PM,8:29,Carmichael OFF.Foul (P2),,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,39,5,5,1,4:10 PM,8:29,Carmichael Foul Turnover (P1.T2),,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,1,0,,,,,,0
+0011300005,40,8,0,1,4:11 PM,8:29,SUB: Kavaliauskas FOR Carmichael,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,41,2,1,1,4:11 PM,8:20,,,MISS Turner 19' Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,42,4,0,1,4:11 PM,8:13,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,44,5,1,1,4:12 PM,8:00,Pilepic Bad Pass Turnover (P1.T3),,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,45,5,4,1,4:12 PM,7:51,,,Young Traveling Turnover (P1.T3),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,46,2,1,1,4:12 PM,7:40,MISS Mumbru 27' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,47,4,0,1,4:12 PM,7:38,Hervelle REBOUND (Off:1 Def:2),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,48,1,42,1,4:12 PM,7:33,Mumbru 1' Driving Layup (2 PTS),,,7 - 6,-1,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,49,1,1,1,4:12 PM,7:26,,,Anderson 25' 3PT Jump Shot (3 PTS) (Carter-Williams 1 AST),10 - 6,-4,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,50,6,4,1,4:13 PM,7:11,,,Young OFF.Foul (P1),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,52,8,0,1,4:13 PM,7:11,,,SUB: Wroten FOR Turner,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,53,8,0,1,4:13 PM,7:11,SUB: Bertans FOR Pilepic,,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,54,5,2,1,4:13 PM,7:05,Bertans Lost Ball Turnover (P1.T4),,Anderson STEAL (1 STL),,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,55,1,5,1,4:13 PM,7:01,,,Anderson 1' Layup (5 PTS),12 - 6,-6,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,56,6,2,1,4:13 PM,7:01,Mumbru S.FOUL (P1.T3),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,57,3,10,1,4:14 PM,7:01,,,Anderson Free Throw 1 of 1 (6 PTS),13 - 6,-7,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,59,8,0,1,4:15 PM,6:52,,,SUB: Morris FOR Anderson,,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,60,2,5,1,4:15 PM,6:39,MISS Mumbru 3' Layup,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,61,4,0,1,4:15 PM,6:37,Hervelle REBOUND (Off:2 Def:2),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,62,2,1,1,4:15 PM,6:31,MISS Mumbru 25' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,63,4,0,1,4:15 PM,6:28,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,64,8,0,1,4:15 PM,6:28,,,SUB: Ohlbrecht FOR Hawes,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,65,6,1,1,4:16 PM,6:28,,,Wroten P.FOUL (P1.T1),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,66,5,2,1,4:16 PM,6:28,Mumbru Lost Ball Turnover (P1.T5),,Ohlbrecht STEAL (1 STL),,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,67,6,1,1,4:16 PM,6:25,Hervelle P.FOUL (P2.T4),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,68,6,4,1,4:16 PM,6:09,,,Ohlbrecht OFF.Foul (P1),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,69,5,5,1,4:16 PM,6:09,,,Ohlbrecht Foul Turnover (P1.T4),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,70,5,2,1,4:17 PM,5:56,Kavaliauskas Lost Ball Turnover (P1.T6),,Morris STEAL (1 STL),,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,71,6,2,1,4:17 PM,5:49,Lopez S.FOUL (P1.PN),,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,72,9,1,1,4:17 PM,5:49,BASKET Timeout: Regular (Full 1 Short 0),,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,75,8,0,1,4:19 PM,5:49,,,SUB: Blue FOR Carter-Williams,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,76,3,11,1,4:19 PM,5:49,,,MISS Morris Free Throw 1 of 2,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,77,4,1,1,4:19 PM,5:49,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,78,3,12,1,4:20 PM,5:49,,,MISS Morris Free Throw 2 of 2,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,80,4,0,1,4:20 PM,5:49,,,Morris REBOUND (Off:1 Def:0),,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,81,5,1,1,4:20 PM,5:47,,,Morris Bad Pass Turnover (P1.T5),,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,82,1,1,1,4:20 PM,5:25,Hervelle 17' Jump Shot (2 PTS),,,13 - 8,-5,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,83,5,1,1,4:21 PM,5:03,Lopez STEAL (1 STL),,Morris Bad Pass Turnover (P2.T6),,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,85,8,0,1,4:21 PM,4:57,SUB: Grimau FOR Lopez,,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,86,8,0,1,4:21 PM,4:57,,,SUB: Turner FOR Young,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,87,2,1,1,4:21 PM,4:57,MISS Bertans 16' Jump Shot,,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,88,4,0,1,4:21 PM,4:55,Hervelle REBOUND (Off:3 Def:2),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,89,6,2,1,4:21 PM,4:45,,,Ohlbrecht S.FOUL (P2.T2),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,90,3,11,1,4:22 PM,4:45,Mumbru Free Throw 1 of 2 (3 PTS),,,13 - 9,-4,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,92,3,12,1,4:22 PM,4:45,MISS Mumbru Free Throw 2 of 2,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,94,4,0,1,4:22 PM,4:45,,,Ohlbrecht REBOUND (Off:0 Def:1),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,95,6,1,1,4:22 PM,4:40,Mumbru P.FOUL (P2.PN),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,96,8,0,1,4:22 PM,4:40,SUB: Vrkic FOR Mumbru,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,97,3,11,1,4:22 PM,4:40,,,Wroten Free Throw 1 of 2 (1 PTS),14 - 9,-5,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,99,3,12,1,4:23 PM,4:40,,,MISS Wroten Free Throw 2 of 2,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,101,4,0,1,4:23 PM,4:40,Hervelle REBOUND (Off:3 Def:3),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,102,1,5,1,4:23 PM,4:22,Kavaliauskas  Layup (2 PTS) (Hervelle 1 AST),,,14 - 11,-3,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,103,6,4,1,4:23 PM,4:15,,,Morris OFF.Foul (P1),,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,104,5,5,1,4:23 PM,4:15,,,Morris Foul Turnover (P3.T7),,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,106,1,84,1,4:24 PM,4:07,Vrkic 15' Running Bank Shot (2 PTS),,,14 - 13,-1,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,108,6,3,1,4:24 PM,3:51,Vrkic L.B.FOUL (P1.PN),,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,109,8,0,1,4:24 PM,3:51,SUB: Gabriel FOR Hervelle,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,110,3,11,1,4:24 PM,3:51,,,Turner Free Throw 1 of 2 (3 PTS),15 - 13,-2,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,112,3,12,1,4:24 PM,3:51,,,Turner Free Throw 2 of 2 (4 PTS),16 - 13,-3,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,114,5,2,1,4:25 PM,3:51,Kavaliauskas Lost Ball Turnover (P2.T7),,Wroten STEAL (1 STL),,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,115,6,2,1,4:25 PM,3:34,Gabriel S.FOUL (P1.PN),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,116,3,11,1,4:25 PM,3:34,,,Wroten Free Throw 1 of 2 (2 PTS),17 - 13,-4,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,118,3,12,1,4:25 PM,3:34,,,Wroten Free Throw 2 of 2 (3 PTS),18 - 13,-5,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,120,5,41,1,4:26 PM,3:23,Grimau Poss Lost Ball Turnover (P1.T8),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,121,6,2,1,4:26 PM,3:06,Kavaliauskas S.FOUL (P1.PN),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,122,3,11,1,4:26 PM,3:06,,,Turner Free Throw 1 of 2 (5 PTS),19 - 13,-6,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,124,3,12,1,4:27 PM,3:06,,,Turner Free Throw 2 of 2 (6 PTS),20 - 13,-7,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,126,9,1,1,4:27 PM,2:57,,,76ers Timeout: Regular (Reg.1 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,129,8,0,1,4:29 PM,2:57,,,SUB: Hawes FOR Wroten,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,130,8,0,1,4:29 PM,2:57,,,SUB: Thompson FOR Ohlbrecht,,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,131,1,44,1,4:29 PM,2:52,Kavaliauskas 1' Reverse Layup (4 PTS) (Grimau 1 AST),,,20 - 15,-5,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,132,2,1,1,4:30 PM,2:32,,,MISS Turner 7' Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,133,4,0,1,4:30 PM,2:31,Grimau REBOUND (Off:0 Def:1),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,134,2,1,1,4:30 PM,2:25,MISS Bertans 23' Jump Shot,,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,135,4,0,1,4:30 PM,2:24,Bertans REBOUND (Off:1 Def:0),,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,136,2,1,1,4:30 PM,2:16,MISS Vrkic 25' 3PT Jump Shot,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,137,4,0,1,4:30 PM,2:14,,,Blue REBOUND (Off:0 Def:1),,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,138,6,1,1,4:30 PM,2:11,Grimau P.FOUL (P1.PN),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,139,3,11,1,4:30 PM,2:11,,,Blue Free Throw 1 of 2 (1 PTS),21 - 15,-6,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,141,8,0,1,4:30 PM,2:11,SUB: Pilepic FOR Bertans,,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,142,3,12,1,4:31 PM,2:11,,,Blue Free Throw 2 of 2 (2 PTS),22 - 15,-7,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,144,2,5,1,4:31 PM,1:56,MISS Vrkic 2' Layup,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,145,4,0,1,4:31 PM,1:55,Kavaliauskas REBOUND (Off:1 Def:0),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,146,1,1,1,4:31 PM,1:51,Pilepic 24' 3PT Jump Shot (5 PTS) (Kavaliauskas 1 AST),,,22 - 18,-4,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,147,2,1,1,4:31 PM,1:35,,,MISS Hawes 9' Jump Shot,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,171,4,0,1,4:31 PM,1:35,,,Thompson REBOUND (Off:1 Def:0),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,148,1,4,1,4:31 PM,1:35,,,Thompson  Tip Shot (2 PTS),24 - 18,-6,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,149,2,1,1,4:32 PM,1:25,MISS Kavaliauskas 5' Jump Shot,,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,150,4,0,1,4:32 PM,1:24,,,Blue REBOUND (Off:0 Def:2),,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,151,1,1,1,4:32 PM,1:10,,,Blue 16' Jump Shot (4 PTS) (Turner 1 AST),26 - 18,-8,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,152,2,1,1,4:32 PM,0:53,MISS Pilepic 24' 3PT Jump Shot,,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,153,4,0,1,4:32 PM,0:52,,,Turner REBOUND (Off:0 Def:1),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,154,6,2,1,4:32 PM,0:45,Gabriel S.FOUL (P2.PN),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,155,3,11,1,4:33 PM,0:45,,,Turner Free Throw 1 of 2 (7 PTS),27 - 18,-9,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,157,3,12,1,4:33 PM,0:45,,,MISS Turner Free Throw 2 of 2,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,159,4,0,1,4:33 PM,0:45,Kavaliauskas REBOUND (Off:1 Def:1),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,160,5,2,1,4:33 PM,0:45,Kavaliauskas Lost Ball Turnover (P3.T9),,Thompson STEAL (1 STL),,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,161,2,1,1,4:33 PM,0:38,,,MISS Morris 19' Jump Shot,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,162,4,0,1,4:33 PM,0:37,,,Turner REBOUND (Off:1 Def:1),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,163,2,1,1,4:33 PM,0:30,,,MISS Hawes 17' Jump Shot,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,164,4,0,1,4:33 PM,0:29,Gabriel REBOUND (Off:0 Def:1),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,165,6,1,1,4:33 PM,0:17,,,Thompson P.FOUL (P1.T3),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,166,1,1,1,4:34 PM,0:07,Gabriel 15' Jump Shot (2 PTS),,,27 - 20,-7,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,167,2,1,1,4:34 PM,0:02,,,MISS Turner 24' 3PT Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,169,4,0,1,4:34 PM,0:00,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,168,13,0,1,4:34 PM,0:00,,End of 1st Period (4:34 PM EST),,27 - 20,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,172,12,0,2,4:37 PM,12:00,,Start of 2nd Period (4:37 PM EST),,27 - 20,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,173,6,1,2,4:37 PM,11:49,,,Wroten P.FOUL (P2.T1),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,174,5,1,2,4:37 PM,11:35,Hervelle Bad Pass Turnover (P2.T10),,Hawes STEAL (1 STL),,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,175,1,5,2,4:37 PM,11:31,,,Wroten  Layup (5 PTS),29 - 20,-9,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,176,6,2,2,4:37 PM,11:31,Vrkic S.FOUL (P2.T1),,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,177,3,10,2,4:38 PM,11:31,,,Wroten Free Throw 1 of 1 (6 PTS),30 - 20,-10,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,180,6,1,2,4:38 PM,11:22,,,Wroten P.FOUL (P3.T2),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,181,8,0,2,4:38 PM,11:22,,,SUB: Anderson FOR Wroten,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,183,6,1,2,4:39 PM,11:19,,,Anderson P.FOUL (P1.T3),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,184,6,1,2,4:39 PM,11:14,,,Carter-Williams P.FOUL (P1.T4),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,185,5,1,2,4:39 PM,11:09,Vrkic Bad Pass Turnover (P1.T11),,Thompson STEAL (2 STL),,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,186,1,1,2,4:39 PM,11:00,,,Turner 17' Jump Shot (9 PTS) (Anderson 1 AST),32 - 20,-12,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,187,6,1,2,4:40 PM,10:46,,,Thompson P.FOUL (P2.PN),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,188,3,11,2,4:40 PM,10:46,Vrkic Free Throw 1 of 2 (3 PTS),,,32 - 21,-11,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,190,3,12,2,4:40 PM,10:46,MISS Vrkic Free Throw 2 of 2,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,192,4,0,2,4:40 PM,10:46,,,Turner REBOUND (Off:1 Def:2),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,193,6,2,2,4:41 PM,10:37,Lopez S.FOUL (P2.T2),,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,194,3,13,2,4:41 PM,10:37,,,MISS Thompson Free Throw 1 of 3,,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,195,4,1,2,4:41 PM,10:37,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,196,8,0,2,4:41 PM,10:37,SUB: Mumbru FOR Vrkic,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,197,3,14,2,4:41 PM,10:37,,,Thompson Free Throw 2 of 3 (3 PTS),33 - 21,-12,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,199,3,15,2,4:41 PM,10:37,,,Thompson Free Throw 3 of 3 (4 PTS),34 - 21,-13,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,202,6,1,2,4:42 PM,10:19,,,Carter-Williams P.FOUL (P2.PN),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,203,3,11,2,4:42 PM,10:19,Lopez Free Throw 1 of 2 (1 PTS),,,34 - 22,-12,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,205,3,12,2,4:42 PM,10:19,Lopez Free Throw 2 of 2 (2 PTS),,,34 - 23,-11,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,208,1,1,2,4:43 PM,10:01,,,Anderson 24' 3PT Jump Shot (9 PTS) (Carter-Williams 2 AST),37 - 23,-14,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,209,2,5,2,4:43 PM,9:51,MISS Carmichael 2' Layup,,Hawes BLOCK (1 BLK),,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0
+0011300005,210,4,0,2,4:43 PM,9:49,Hervelle REBOUND (Off:4 Def:3),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,211,6,1,2,4:43 PM,9:41,,,Thompson P.FOUL (P3.PN),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,212,3,11,2,4:43 PM,9:41,Lopez Free Throw 1 of 2 (3 PTS),,,37 - 24,-13,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,214,8,0,2,4:44 PM,9:41,SUB: Grimau FOR Pilepic,,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,215,3,12,2,4:44 PM,9:41,Lopez Free Throw 2 of 2 (4 PTS),,,37 - 25,-12,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,218,2,1,2,4:44 PM,9:34,,,MISS Carter-Williams 5' Jump Shot,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,219,4,0,2,4:44 PM,9:34,Hervelle REBOUND (Off:4 Def:4),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,220,1,5,2,4:44 PM,9:26,Carmichael 1' Layup (4 PTS) (Lopez 3 AST),,,37 - 27,-10,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,221,2,1,2,4:44 PM,9:18,,,MISS Turner 6' Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,222,4,0,2,4:44 PM,9:17,Mumbru REBOUND (Off:1 Def:1),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,223,1,5,2,4:44 PM,9:12,Grimau 1' Layup (2 PTS) (Mumbru 1 AST),,,37 - 29,-8,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,224,6,2,2,4:45 PM,8:51,Grimau S.FOUL (P2.T3),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,225,9,1,2,4:45 PM,8:51,BASKET Timeout: Regular (Full 2 Short 0),,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,228,8,0,2,4:47 PM,8:51,,,SUB: Young FOR Thompson,,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,229,3,11,2,4:47 PM,8:51,,,Turner Free Throw 1 of 2 (10 PTS),38 - 29,-9,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,231,3,12,2,4:47 PM,8:51,,,Turner Free Throw 2 of 2 (11 PTS),39 - 29,-10,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,234,2,1,2,4:47 PM,8:40,MISS Mumbru 27' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,235,4,0,2,4:47 PM,8:39,,,Anderson REBOUND (Off:0 Def:3),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,236,5,4,2,4:47 PM,8:35,,,Turner Traveling Turnover (P1.T8),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,237,1,46,2,4:48 PM,8:21,Grimau 15' Running Jump Shot (4 PTS) (Mumbru 2 AST),,,39 - 31,-8,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,238,5,41,2,4:48 PM,8:02,,,Young Poss Lost Ball Turnover (P2.T9),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,239,1,5,2,4:48 PM,7:46,Grimau 1' Layup (6 PTS) (Hervelle 2 AST),,,39 - 33,-6,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,240,6,2,2,4:49 PM,7:32,Mumbru S.FOUL (P3.T4),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,241,9,1,2,4:49 PM,7:32,,,76ers Timeout: Regular (Reg.2 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,244,8,0,2,4:50 PM,7:32,SUB: Vrkic FOR Mumbru,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,245,3,11,2,4:51 PM,7:32,,,Turner Free Throw 1 of 2 (12 PTS),40 - 33,-7,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,247,3,12,2,4:51 PM,7:32,,,Turner Free Throw 2 of 2 (13 PTS),41 - 33,-8,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,250,6,2,2,4:52 PM,7:11,,,Young S.FOUL (P2.PN),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,251,3,11,2,4:52 PM,7:11,Hervelle Free Throw 1 of 2 (3 PTS),,,41 - 34,-7,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,253,3,12,2,4:52 PM,7:11,Hervelle Free Throw 2 of 2 (4 PTS),,,41 - 35,-6,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,256,2,1,2,4:52 PM,6:53,,,MISS Young 24' 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,257,4,0,2,4:52 PM,6:53,,,Hawes REBOUND (Off:2 Def:1),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,258,2,5,2,4:52 PM,6:51,,,MISS Hawes  Layup,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,259,4,0,2,4:52 PM,6:50,Grimau REBOUND (Off:0 Def:2),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,260,2,1,2,4:53 PM,6:39,MISS Hervelle 25' 3PT Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,261,4,0,2,4:53 PM,6:34,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,263,2,1,2,4:53 PM,6:30,MISS Lopez 25' 3PT Jump Shot,,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,264,4,0,2,4:53 PM,6:26,,,Young REBOUND (Off:1 Def:2),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,265,1,52,2,4:53 PM,6:22,,,Anderson 1' Alley Oop Dunk (11 PTS) (Carter-Williams 3 AST),43 - 35,-8,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,266,5,2,2,4:54 PM,6:02,Vrkic Lost Ball Turnover (P2.T12),,Turner STEAL (1 STL),,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,267,2,5,2,4:54 PM,5:55,,,MISS Young  Layup,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,269,4,0,2,4:54 PM,5:53,,,Turner REBOUND (Off:2 Def:2),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,268,1,5,2,4:54 PM,5:53,,,Turner 1' Layup (15 PTS),45 - 35,-10,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,270,2,1,2,4:54 PM,5:40,MISS Carmichael 7' Jump Shot,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,271,4,0,2,4:54 PM,5:36,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,273,2,1,2,4:54 PM,5:23,,,MISS Hawes 3' Jump Shot,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,274,4,0,2,4:54 PM,5:22,,,Young REBOUND (Off:2 Def:2),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,275,6,2,2,4:55 PM,5:22,Hervelle S.FOUL (P3.PN),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,276,3,11,2,4:55 PM,5:22,,,Young Free Throw 1 of 2 (3 PTS),46 - 35,-11,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,278,8,0,2,4:55 PM,5:22,,,SUB: Morris FOR Turner,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,279,8,0,2,4:55 PM,5:22,SUB: Kavaliauskas FOR Carmichael,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,280,8,0,2,4:55 PM,5:22,SUB: Bertans FOR Grimau,,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,281,3,12,2,4:55 PM,5:22,,,MISS Young Free Throw 2 of 2,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,283,4,0,2,4:55 PM,5:22,Hervelle REBOUND (Off:4 Def:5),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,285,5,2,2,4:56 PM,5:02,Vrkic Lost Ball Turnover (P3.T13),,Young STEAL (1 STL),,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,286,6,1,2,4:56 PM,4:59,Vrkic P.FOUL (P3.PN),,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,287,3,11,2,4:56 PM,4:59,,,MISS Morris Free Throw 1 of 2,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,288,4,1,2,4:56 PM,4:59,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,289,3,12,2,4:56 PM,4:59,,,Morris Free Throw 2 of 2 (1 PTS),47 - 35,-12,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,292,6,2,2,4:56 PM,4:49,,,Carter-Williams S.FOUL (P3.PN),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,293,3,13,2,4:57 PM,4:49,Bertans Free Throw 1 of 3 (1 PTS),,,47 - 36,-11,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,295,3,14,2,4:57 PM,4:49,Bertans Free Throw 2 of 3 (2 PTS),,,47 - 37,-10,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,297,3,15,2,4:57 PM,4:49,Bertans Free Throw 3 of 3 (3 PTS),,,47 - 38,-9,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,300,7,5,2,4:57 PM,4:39,Vrkic Violation:Kicked Ball,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,1,0,,,,,,0
+0011300005,301,5,1,2,4:58 PM,4:25,Hervelle STEAL (1 STL),,Young Bad Pass Turnover (P3.T10),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,302,5,2,2,4:58 PM,4:25,Hervelle Lost Ball Turnover (P3.T14),,Morris STEAL (2 STL),,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,303,1,1,2,4:58 PM,4:16,,,Morris 24' 3PT Jump Shot (4 PTS) (Carter-Williams 4 AST),50 - 38,-12,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,304,2,1,2,4:59 PM,3:53,MISS Hervelle 27' 3PT Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,305,4,0,2,4:59 PM,3:51,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,307,2,5,2,4:59 PM,3:34,,,MISS Hawes 1' Layup,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,308,4,0,2,4:59 PM,3:33,Hervelle REBOUND (Off:4 Def:6),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,309,1,1,2,5:00 PM,3:21,Bertans 24' 3PT Jump Shot (6 PTS) (Kavaliauskas 2 AST),,,50 - 41,-9,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,310,5,1,2,5:00 PM,3:11,,,Anderson Bad Pass Turnover (P2.T11),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,311,8,0,2,5:00 PM,3:11,SUB: Gabriel FOR Hervelle,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,313,5,1,2,5:00 PM,3:00,Lopez Bad Pass Turnover (P1.T15),,Carter-Williams STEAL (1 STL),,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,314,2,5,2,5:01 PM,2:55,,,MISS Hawes 2' Layup,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,315,4,0,2,5:01 PM,2:53,Vrkic REBOUND (Off:0 Def:1),,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,316,2,1,2,5:01 PM,2:45,MISS Gabriel 25' 3PT Jump Shot,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,317,4,0,2,5:01 PM,2:41,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,318,9,1,2,5:01 PM,2:41,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,320,8,0,2,5:03 PM,2:41,,,SUB: Blue FOR Anderson,,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,321,8,0,2,5:03 PM,2:41,,,SUB: Ohlbrecht FOR Hawes,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,322,8,0,2,5:03 PM,2:41,SUB: Grimau FOR Lopez,,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,323,2,1,2,5:04 PM,2:20,,,MISS Blue 18' Jump Shot,,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,324,4,0,2,5:04 PM,2:19,Grimau REBOUND (Off:0 Def:3),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,327,1,42,2,5:05 PM,2:01,Bertans  Driving Layup (8 PTS),,,50 - 43,-7,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,328,6,2,2,5:05 PM,2:01,,,Ohlbrecht S.FOUL (P3.PN),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,329,3,10,2,5:05 PM,2:01,Bertans Free Throw 1 of 1 (9 PTS),,,50 - 44,-6,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,332,2,1,2,5:06 PM,1:45,,,MISS Morris 24' 3PT Jump Shot,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,333,4,0,2,5:06 PM,1:44,Grimau REBOUND (Off:0 Def:4),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,334,5,4,2,5:06 PM,1:32,Gabriel Traveling Turnover (P1.T16),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,1,0,,,,,,0
+0011300005,335,2,1,2,5:06 PM,1:21,,,MISS Carter-Williams 25' 3PT Jump Shot,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,337,4,0,2,5:06 PM,1:19,,,Young REBOUND (Off:3 Def:2),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,336,1,5,2,5:06 PM,1:19,,,Young 2' Layup (5 PTS),52 - 44,-8,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,338,1,1,2,5:06 PM,1:04,Bertans 25' 3PT Jump Shot (12 PTS) (Grimau 2 AST),,,52 - 47,-5,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,340,2,1,2,5:07 PM,0:47,,,MISS Carter-Williams 25' 3PT Jump Shot,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,341,4,0,2,5:07 PM,0:46,Vrkic REBOUND (Off:0 Def:2),,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,342,2,1,2,5:07 PM,0:38,MISS Gabriel 24' 3PT Jump Shot,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,343,4,0,2,5:07 PM,0:36,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,344,6,3,2,5:07 PM,0:36,,,Ohlbrecht L.B.FOUL (P4.PN),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,345,3,11,2,5:07 PM,0:36,Kavaliauskas Free Throw 1 of 2 (5 PTS),,,52 - 48,-4,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,347,3,12,2,5:08 PM,0:36,MISS Kavaliauskas Free Throw 2 of 2,,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,349,4,0,2,5:08 PM,0:36,,,Carter-Williams REBOUND (Off:0 Def:1),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,350,1,1,2,5:08 PM,0:27,,,Morris 24' 3PT Jump Shot (7 PTS) (Carter-Williams 5 AST),55 - 48,-7,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,351,2,1,2,5:08 PM,0:06,MISS Vrkic 24' 3PT Jump Shot,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,352,4,0,2,5:08 PM,0:03,Kavaliauskas REBOUND (Off:2 Def:1),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,353,1,5,2,5:08 PM,0:02,Grimau 3' Layup (8 PTS) (Kavaliauskas 3 AST),,,55 - 50,-5,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,354,2,1,2,5:08 PM,0:00,,,MISS Carter-Williams 42' 3PT Jump Shot,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,356,4,0,2,5:08 PM,0:00,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,355,13,0,2,5:08 PM,0:00,,End of 2nd Period (5:08 PM EST),,55 - 50,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,358,12,0,3,5:25 PM,12:00,,Start of 3rd Period (5:25 PM EST),,55 - 50,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,359,2,5,3,5:25 PM,11:33,MISS Carmichael 1' Layup,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,360,4,0,3,5:25 PM,11:33,,,Young REBOUND (Off:3 Def:3),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,361,5,1,3,5:25 PM,11:28,Mumbru STEAL (2 STL),,Young Bad Pass Turnover (P4.T12),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,362,1,1,3,5:25 PM,11:24,Lopez 17' Jump Shot (6 PTS) (Mumbru 3 AST),,,55 - 52,-3,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,363,1,44,3,5:26 PM,11:15,,,Anderson 1' Reverse Layup (13 PTS) (Turner 2 AST),57 - 52,-5,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,365,2,1,3,5:26 PM,10:54,MISS Hervelle 23' Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,366,4,0,3,5:26 PM,10:53,,,Carter-Williams REBOUND (Off:0 Def:2),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,367,2,5,3,5:26 PM,10:41,,,MISS Turner  Layup,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,368,4,0,3,5:26 PM,10:39,Hervelle REBOUND (Off:4 Def:7),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,369,2,1,3,5:26 PM,10:30,MISS Mumbru 7' Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,370,4,0,3,5:26 PM,10:29,Hervelle REBOUND (Off:5 Def:7),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,372,5,2,3,5:27 PM,10:18,Lopez Lost Ball Turnover (P2.T17),,Carter-Williams STEAL (2 STL),,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,373,6,2,3,5:27 PM,10:14,Carmichael S.FOUL (P3.T1),,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,374,3,11,3,5:27 PM,10:14,,,MISS Carter-Williams Free Throw 1 of 2,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,375,4,1,3,5:27 PM,10:14,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,376,3,12,3,5:27 PM,10:14,,,Carter-Williams Free Throw 2 of 2 (3 PTS),58 - 52,-6,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,378,5,1,3,5:28 PM,10:01,Hervelle Bad Pass Turnover (P4.T18),,Anderson STEAL (2 STL),,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,379,1,5,3,5:28 PM,9:57,,,Young 1' Layup (7 PTS) (Anderson 2 AST),60 - 52,-8,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,380,2,1,3,5:28 PM,9:42,MISS Hervelle 25' 3PT Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,381,4,0,3,5:28 PM,9:41,Bertans REBOUND (Off:2 Def:0),,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,382,2,1,3,5:28 PM,9:25,MISS Carmichael 17' Jump Shot,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,383,4,0,3,5:28 PM,9:25,,,Hawes REBOUND (Off:2 Def:2),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,385,8,0,3,5:29 PM,9:17,SUB: Kavaliauskas FOR Carmichael,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,425,6,4,3,5:29 PM,9:01,,,Young OFF.Foul (P3),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,592,5,37,3,5:29 PM,9:01,,,Young Offensive Foul Turnover (P5.T13),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,386,1,5,3,5:29 PM,9:01,Hervelle 1' Layup (6 PTS),,,60 - 54,-6,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,387,6,2,3,5:29 PM,9:01,,,Hawes S.FOUL (P2.T1),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,388,3,10,3,5:29 PM,9:01,Hervelle Free Throw 1 of 1 (7 PTS),,,60 - 55,-5,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,390,2,1,3,5:30 PM,8:46,,,MISS Young 24' 3PT Jump Shot,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,391,4,0,3,5:30 PM,8:45,Mumbru REBOUND (Off:1 Def:2),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,392,5,1,3,5:30 PM,8:28,Lopez Bad Pass Turnover (P3.T19),,Young STEAL (2 STL),,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,393,6,1,3,5:30 PM,8:26,Kavaliauskas P.FOUL (P2.T2),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,394,1,1,3,5:31 PM,8:03,,,Turner  3PT Jump Shot (18 PTS) (Carter-Williams 6 AST),63 - 55,-8,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,395,5,1,3,5:31 PM,7:56,Hervelle Bad Pass Turnover (P5.T20),,Carter-Williams STEAL (3 STL),,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,396,6,1,3,5:31 PM,7:53,Bertans P.FOUL (P1.T3),,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,397,5,1,3,5:31 PM,7:45,Bertans STEAL (1 STL),,Turner Bad Pass Turnover (P2.T14),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,398,2,1,3,5:31 PM,7:37,MISS Mumbru 24' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,399,4,0,3,5:32 PM,7:35,,,Carter-Williams REBOUND (Off:0 Def:3),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,400,5,2,3,5:32 PM,7:30,Lopez STEAL (2 STL),,Turner Lost Ball Turnover (P3.T15),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,401,1,5,3,5:32 PM,7:20,Hervelle  Layup (9 PTS),,,63 - 57,-6,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,402,6,2,3,5:32 PM,7:20,,,Carter-Williams S.FOUL (P4.T2),,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,403,8,0,3,5:32 PM,7:20,,,SUB: Wroten FOR Carter-Williams,,,5,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,404,3,10,3,5:32 PM,7:20,Hervelle Free Throw 1 of 1 (10 PTS),,,63 - 58,-5,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,406,2,1,3,5:32 PM,7:11,,,MISS Wroten 4' Jump Shot,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,407,4,0,3,5:32 PM,7:10,Hervelle REBOUND (Off:5 Def:8),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,408,1,1,3,5:33 PM,7:05,Bertans 20' Jump Shot (14 PTS) (Mumbru 4 AST),,,63 - 60,-3,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,409,6,2,3,5:33 PM,6:46,Kavaliauskas S.FOUL (P3.T4),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,410,3,11,3,5:33 PM,6:46,,,MISS Turner Free Throw 1 of 2,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,411,4,1,3,5:33 PM,6:46,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,413,8,0,3,5:33 PM,6:46,,,SUB: Morris FOR Anderson,,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,414,8,0,3,5:33 PM,6:46,SUB: Gabriel FOR Hervelle,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,415,3,12,3,5:33 PM,6:46,,,Turner Free Throw 2 of 2 (19 PTS),64 - 60,-4,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,417,1,1,3,5:34 PM,6:26,Bertans  3PT Jump Shot (17 PTS) (Lopez 4 AST),,,64 - 63,-1,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,418,2,1,3,5:34 PM,6:16,,,MISS Turner 18' Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,419,4,0,3,5:34 PM,6:15,Bertans REBOUND (Off:2 Def:1),,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,421,7,2,3,5:34 PM,6:11,,,Young Violation:Defensive Goaltending,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,420,1,5,3,5:34 PM,6:11,Bertans  Layup (19 PTS),,,64 - 65,1,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,422,1,5,3,5:35 PM,5:55,,,Young  Layup (9 PTS),66 - 65,-1,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,423,9,1,3,5:35 PM,5:50,BASKET Timeout: Regular (Full 3 Short 0),,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,427,8,0,3,5:37 PM,5:50,SUB: Grimau FOR Lopez,,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,428,8,0,3,5:37 PM,5:50,SUB: Pilepic FOR Bertans,,,,,4,42551,Dairis Bertans,12324.0,Bilbao,Basket,UBB,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,429,5,1,3,5:37 PM,5:37,Gabriel Bad Pass Turnover (P2.T21),,Hawes STEAL (2 STL),,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,430,1,5,3,5:37 PM,5:32,,,Morris  Layup (9 PTS) (Wroten 1 AST),68 - 65,-3,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,432,8,0,3,5:38 PM,5:13,,,SUB: Blue FOR Turner,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,433,2,1,3,5:38 PM,5:10,MISS Mumbru 24' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,434,4,0,3,5:38 PM,5:08,Grimau REBOUND (Off:1 Def:4),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,435,1,43,3,5:38 PM,5:00,Mumbru 3' Alley Oop Layup (5 PTS) (Gabriel 1 AST),,,68 - 67,-1,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,436,2,1,3,5:38 PM,4:38,,,MISS Wroten 6' Jump Shot,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,437,4,0,3,5:38 PM,4:37,Mumbru REBOUND (Off:1 Def:3),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,438,1,5,3,5:39 PM,4:26,Kavaliauskas 1' Layup (7 PTS) (Gabriel 2 AST),,,68 - 69,1,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,439,5,1,3,5:39 PM,4:09,,,Hawes Bad Pass Turnover (P2.T16),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,441,6,2,3,5:39 PM,3:56,,,Hawes S.FOUL (P3.T3),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,442,3,11,3,5:40 PM,3:56,Grimau Free Throw 1 of 2 (9 PTS),,,68 - 70,2,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,444,8,0,3,5:40 PM,3:56,,,SUB: Ohlbrecht FOR Hawes,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,445,8,0,3,5:40 PM,3:56,SUB: Vrkic FOR Mumbru,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,446,3,12,3,5:40 PM,3:56,Grimau Free Throw 2 of 2 (10 PTS),,,68 - 71,3,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,448,1,1,3,5:40 PM,3:41,,,Young 20' Jump Shot (11 PTS) (Morris 1 AST),70 - 71,1,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,449,5,1,3,5:40 PM,3:27,Pilepic Bad Pass Turnover (P2.T22),,Young STEAL (3 STL),,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,450,1,7,3,5:40 PM,3:25,,,Wroten  Dunk (8 PTS) (Young 1 AST),72 - 71,-1,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,451,5,1,3,5:41 PM,3:16,Grimau Bad Pass Turnover (P2.T23),,Blue STEAL (1 STL),,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,452,2,5,3,5:41 PM,3:12,,,MISS Morris 1' Layup,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,453,4,0,3,5:41 PM,3:08,Pilepic REBOUND (Off:0 Def:1),,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,454,1,7,3,5:41 PM,3:06,Vrkic 1' Dunk (5 PTS) (Gabriel 3 AST),,,72 - 73,1,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,455,2,1,3,5:41 PM,2:55,,,MISS Wroten 24' 3PT Jump Shot,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,456,4,0,3,5:41 PM,2:48,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,457,9,1,3,5:41 PM,2:48,,,76ers Timeout: Regular (Reg.3 Short 0),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,460,8,0,3,5:43 PM,2:48,,,SUB: Thompson FOR Young,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,461,2,1,3,5:44 PM,2:30,MISS Grimau 18' Jump Shot,,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,462,4,0,3,5:44 PM,2:28,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,463,5,1,3,5:44 PM,2:27,Pilepic Bad Pass Turnover (P3.T24),,Wroten STEAL (2 STL),,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,464,6,1,3,5:44 PM,2:25,Vrkic P.FOUL (P4.PN),,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,465,3,11,3,5:44 PM,2:25,,,Wroten Free Throw 1 of 2 (9 PTS),73 - 73,TIE,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,467,3,12,3,5:45 PM,2:25,,,Wroten Free Throw 2 of 2 (10 PTS),74 - 73,-1,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,469,2,1,3,5:45 PM,2:14,MISS Gabriel 15' Jump Shot,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,470,4,0,3,5:45 PM,2:13,,,Blue REBOUND (Off:0 Def:3),,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,471,5,40,3,5:45 PM,2:09,,,Wroten Out of Bounds Lost Ball Turnover (P1.T17),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,472,1,5,3,5:45 PM,2:02,Vrkic 1' Layup (7 PTS) (Gabriel 4 AST),,,74 - 75,1,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,473,6,2,3,5:45 PM,2:02,,,Wroten S.FOUL (P4.T4),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,474,3,10,3,5:45 PM,2:02,Vrkic Free Throw 1 of 1 (8 PTS),,,74 - 76,2,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,476,6,1,3,5:46 PM,1:44,Grimau P.FOUL (P3.PN),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,477,3,11,3,5:46 PM,1:44,,,Morris Free Throw 1 of 2 (10 PTS),75 - 76,1,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,479,3,12,3,5:46 PM,1:44,,,Morris Free Throw 2 of 2 (11 PTS),76 - 76,TIE,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,481,6,1,3,5:47 PM,1:27,,,Thompson P.FOUL (P4.PN),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,483,3,11,3,5:47 PM,1:27,Gabriel Free Throw 1 of 2 (3 PTS),,,76 - 77,1,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,485,3,12,3,5:47 PM,1:27,Gabriel Free Throw 2 of 2 (4 PTS),,,76 - 78,2,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,487,5,1,3,5:48 PM,1:15,Vrkic STEAL (1 STL),,Thompson Bad Pass Turnover (P1.T18),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,488,1,5,3,5:48 PM,1:12,Pilepic 1' Layup (7 PTS) (Gabriel 5 AST),,,76 - 80,4,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,489,2,1,3,5:48 PM,1:00,,,MISS Wroten 4' Jump Shot,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,490,4,0,3,5:48 PM,0:58,Pilepic REBOUND (Off:0 Def:2),,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,491,2,1,3,5:48 PM,0:49,MISS Kavaliauskas 17' Jump Shot,,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,493,4,0,3,5:48 PM,0:47,Gabriel REBOUND (Off:1 Def:1),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,492,2,5,3,5:48 PM,0:47,MISS Gabriel 2' Layup,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,494,4,0,3,5:48 PM,0:45,,,Thompson REBOUND (Off:1 Def:1),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,495,2,5,3,5:48 PM,0:41,,,MISS Wroten 1' Layup,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,496,4,0,3,5:48 PM,0:40,Grimau REBOUND (Off:1 Def:5),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,497,2,5,3,5:48 PM,0:33,MISS Gabriel 2' Layup,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,498,4,0,3,5:48 PM,0:32,,,Thompson REBOUND (Off:1 Def:2),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,499,1,7,3,5:49 PM,0:24,,,Thompson 1' Dunk (6 PTS) (Morris 2 AST),78 - 80,2,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,500,5,1,3,5:49 PM,0:00,Grimau Bad Pass Turnover (P3.T25),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,501,6,1,3,5:50 PM,0:00,Pilepic P.FOUL (P2.PN),,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,503,3,11,3,5:51 PM,0:00,,,Wroten Free Throw 1 of 2 (11 PTS),79 - 80,1,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,505,3,12,3,5:51 PM,0:00,,,MISS Wroten Free Throw 2 of 2,,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,508,4,0,3,5:51 PM,0:00,,,76ers Rebound,,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,507,13,0,3,5:51 PM,0:00,,End of 3rd Period (5:51 PM EST),,79 - 80,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,510,12,0,4,5:54 PM,12:00,,Start of 4th Period (5:54 PM EST),,79 - 80,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,511,6,4,4,5:54 PM,11:52,,,Ohlbrecht OFF.Foul (P5),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,512,5,5,4,5:54 PM,11:52,,,Ohlbrecht Foul Turnover (P2.T19),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,514,2,1,4,5:55 PM,11:36,MISS Gabriel 26' 3PT Jump Shot,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,515,4,0,4,5:55 PM,11:35,,,Ohlbrecht REBOUND (Off:0 Def:2),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,516,2,1,4,5:55 PM,11:28,,,MISS Blue 24' 3PT Jump Shot,,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,517,4,0,4,5:55 PM,11:27,Kavaliauskas REBOUND (Off:2 Def:2),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,518,2,1,4,5:55 PM,11:10,MISS Gabriel 9' Jump Shot,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,519,4,0,4,5:55 PM,11:09,Kavaliauskas REBOUND (Off:3 Def:2),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,520,2,5,4,5:55 PM,11:07,MISS Kavaliauskas 2' Layup,,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,521,4,0,4,5:55 PM,11:06,,,Wroten REBOUND (Off:0 Def:1),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,523,2,5,4,5:56 PM,10:58,,,MISS Thompson 1' Layup,,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,525,4,0,4,5:56 PM,10:57,,,Ohlbrecht REBOUND (Off:1 Def:2),,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,524,1,5,4,5:56 PM,10:57,,,Ohlbrecht 1' Layup (2 PTS),81 - 80,-1,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,526,5,1,4,5:56 PM,10:44,Lopez Bad Pass Turnover (P4.T26),,Morris STEAL (3 STL),,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,527,6,2,4,5:56 PM,10:33,Lopez S.FOUL (P3.T1),,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,528,3,11,4,5:56 PM,10:33,,,Morris Free Throw 1 of 2 (12 PTS),82 - 80,-2,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,530,8,0,4,5:56 PM,10:33,,,SUB: Lawal FOR Ohlbrecht,,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,531,3,12,4,5:57 PM,10:33,,,MISS Morris Free Throw 2 of 2,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,533,4,0,4,5:57 PM,10:33,,,Lawal REBOUND (Off:1 Def:0),,,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,534,2,5,4,5:57 PM,10:33,,,MISS Lawal 3' Layup,,,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,535,4,0,4,5:57 PM,10:32,Kavaliauskas REBOUND (Off:3 Def:3),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,536,6,1,4,5:57 PM,10:19,,,Blue P.FOUL (P1.T1),,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,537,8,0,4,5:57 PM,10:19,SUB: Hervelle FOR Gabriel,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,538,1,1,4,5:57 PM,10:14,Lopez 25' 3PT Jump Shot (9 PTS) (Mumbru 5 AST),,,82 - 83,1,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,539,1,1,4,5:58 PM,9:56,,,Thompson 25' 3PT Jump Shot (9 PTS) (Morris 3 AST),85 - 83,-2,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,541,7,2,4,5:58 PM,9:37,,,Lawal Violation:Defensive Goaltending,,,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,540,1,5,4,5:58 PM,9:37,Kavaliauskas  Layup (9 PTS) (Grimau 3 AST),,,85 - 85,TIE,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,542,2,1,4,5:58 PM,9:14,,,MISS Morris 20' Jump Shot,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,543,4,0,4,5:58 PM,9:13,Lopez REBOUND (Off:0 Def:1),,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,544,1,1,4,5:59 PM,9:04,Hervelle 15' Jump Shot (12 PTS) (Mumbru 6 AST),,,85 - 87,2,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,545,1,42,4,5:59 PM,8:50,,,Wroten  Driving Layup (13 PTS),87 - 87,TIE,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,546,6,2,4,5:59 PM,8:50,Grimau S.FOUL (P4.T2),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,547,9,1,4,6:00 PM,8:50,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,551,3,10,4,6:01 PM,8:50,,,Wroten Free Throw 1 of 1 (14 PTS),88 - 87,-1,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,553,6,1,4,6:02 PM,8:30,,,Thompson P.FOUL (P5.T2),,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,554,2,5,4,6:03 PM,8:25,MISS Kavaliauskas  Layup,,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,555,4,0,4,6:03 PM,8:23,Hervelle REBOUND (Off:6 Def:8),,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,557,1,1,4,6:03 PM,8:08,Hervelle 21' Jump Shot (14 PTS) (Kavaliauskas 4 AST),,,88 - 89,1,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,558,2,1,4,6:03 PM,7:49,,,MISS Morris 22' Jump Shot,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,559,4,0,4,6:03 PM,7:48,Mumbru REBOUND (Off:1 Def:4),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,560,1,42,4,6:04 PM,7:34,Grimau 1' Driving Layup (12 PTS),,,88 - 91,3,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,561,6,4,4,6:04 PM,7:21,,,Lawal OFF.Foul (P1),,,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,562,5,5,4,6:04 PM,7:21,,,Lawal Foul Turnover (P1.T20),,,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300005,563,8,0,4,6:04 PM,7:21,,,SUB: Young FOR Blue,,,5,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,564,8,0,4,6:04 PM,7:21,,,SUB: Anderson FOR Thompson,,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,565,8,0,4,6:04 PM,7:21,,,SUB: Turner FOR Lawal,,,5,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,566,8,0,4,6:04 PM,7:21,SUB: Carmichael FOR Kavaliauskas,,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,567,2,1,4,6:05 PM,7:03,MISS Mumbru 24' 3PT Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,568,4,0,4,6:05 PM,7:01,,,Turner REBOUND (Off:2 Def:3),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,569,5,1,4,6:05 PM,6:55,,,Anderson Bad Pass Turnover (P3.T21),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,570,8,0,4,6:05 PM,6:55,,,SUB: Hawes FOR Morris,,,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,571,2,5,4,6:05 PM,6:41,MISS Carmichael 1' Layup,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,572,4,0,4,6:05 PM,6:40,Mumbru REBOUND (Off:2 Def:4),,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,573,6,1,4,6:05 PM,6:38,,,Young P.FOUL (P4.T3),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,574,6,1,4,6:06 PM,6:32,,,Wroten P.FOUL (P5.T4),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,575,6,1,4,6:06 PM,6:29,,,Anderson P.FOUL (P2.PN),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,576,3,11,4,6:07 PM,6:29,Grimau Free Throw 1 of 2 (13 PTS),,,88 - 92,4,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,578,3,12,4,6:07 PM,6:29,Grimau Free Throw 2 of 2 (14 PTS),,,88 - 93,5,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,581,1,1,4,6:08 PM,6:08,,,Turner 17' Jump Shot (21 PTS),90 - 93,3,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,582,2,1,4,6:08 PM,5:49,MISS Hervelle 7' Jump Shot,,Young BLOCK (1 BLK),,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0
+0011300005,583,4,0,4,6:08 PM,5:47,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,584,9,1,4,6:08 PM,5:47,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,586,8,0,4,6:10 PM,5:47,SUB: Pilepic FOR Lopez,,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,589,5,2,4,6:10 PM,5:43,Mumbru Lost Ball Turnover (P2.T27),,Young STEAL (4 STL),,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,590,6,1,4,6:10 PM,5:39,Grimau P.FOUL (P5.T3),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,591,6,2,4,6:11 PM,5:28,Grimau S.FOUL (P6.T4),,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,593,3,11,4,6:11 PM,5:28,,,Wroten Free Throw 1 of 2 (15 PTS),91 - 93,2,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,595,3,12,4,6:11 PM,5:28,,,Wroten Free Throw 2 of 2 (16 PTS),92 - 93,1,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,597,2,1,4,6:12 PM,5:14,MISS Hervelle 25' 3PT Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,599,4,0,4,6:12 PM,5:13,Carmichael REBOUND (Off:1 Def:1),,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,598,1,72,4,6:12 PM,5:13,Carmichael  Putback Layup (6 PTS),,,92 - 95,3,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,600,1,1,4,6:12 PM,4:52,,,Hawes  3PT Jump Shot (4 PTS) (Wroten 2 AST),95 - 95,TIE,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,601,5,1,4,6:13 PM,4:33,Grimau Bad Pass Turnover (P4.T28),,Wroten STEAL (3 STL),,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,602,5,40,4,6:13 PM,4:27,,,Wroten Out of Bounds Lost Ball Turnover (P2.T22),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,603,2,1,4,6:13 PM,4:27,MISS Hervelle 15' Jump Shot,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,604,4,0,4,6:13 PM,4:26,,,Anderson REBOUND (Off:0 Def:4),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,605,1,1,4,6:13 PM,4:20,,,Turner 9' Jump Shot (23 PTS),97 - 95,-2,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,606,2,1,4,6:13 PM,4:12,MISS Grimau 7' Jump Shot,,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,607,4,0,4,6:13 PM,4:11,,,Anderson REBOUND (Off:0 Def:5),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,609,1,1,4,6:14 PM,3:58,,,Turner 18' Jump Shot (25 PTS),99 - 95,-4,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,610,2,1,4,6:14 PM,3:43,MISS Mumbru 14' Jump Shot,,,,,4,42553,Alex Mumbru,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,611,4,0,4,6:14 PM,3:43,,,Hawes REBOUND (Off:2 Def:3),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,612,1,42,4,6:14 PM,3:36,,,Anderson 1' Driving Layup (15 PTS),101 - 95,-6,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,613,9,1,4,6:14 PM,3:33,BASKET Timeout: Regular (Full 4 Short 0),,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,615,8,0,4,6:16 PM,3:33,SUB: Lopez FOR Hervelle,,,,,4,42554,Axel Hervelle,12324.0,Bilbao,Basket,UBB,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,616,8,0,4,6:16 PM,3:33,SUB: Kavaliauskas FOR Carmichael,,,,,4,42558,Jackie Carmichael,12324.0,Bilbao,Basket,UBB,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,617,8,0,4,6:16 PM,3:33,SUB: Gabriel FOR Pilepic,,,,,4,42550,Fran Pilepic,12324.0,Bilbao,Basket,UBB,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,620,7,5,4,6:17 PM,3:12,,,Hawes Violation:Kicked Ball,,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,621,5,2,4,6:17 PM,3:05,Kavaliauskas Lost Ball Turnover (P4.T29),,Young STEAL (5 STL),,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,622,5,1,4,6:17 PM,2:58,Gabriel STEAL (1 STL),,Turner Bad Pass Turnover (P4.T23),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,623,6,4,4,6:17 PM,2:50,Kavaliauskas OFF.Foul (P4),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,624,5,5,4,6:17 PM,2:50,Kavaliauskas Foul Turnover (P5.T30),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,1,0,,,,,,0
+0011300005,625,2,1,4,6:18 PM,2:39,,,MISS Turner 25' 3PT Jump Shot,,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,626,4,0,4,6:18 PM,2:37,,,Anderson REBOUND (Off:1 Def:5),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,627,1,1,4,6:18 PM,2:29,,,Young 25' 3PT Jump Shot (14 PTS) (Turner 3 AST),104 - 95,-9,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,628,6,4,4,6:19 PM,2:07,Gabriel OFF.Foul (P3),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,629,5,5,4,6:19 PM,2:07,Gabriel Foul Turnover (P3.T31),,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,1,0,,,,,,0
+0011300005,631,2,1,4,6:19 PM,1:47,,,MISS Anderson  3PT Jump Shot,,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,632,4,0,4,6:19 PM,1:45,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,633,6,3,4,6:20 PM,1:45,,,Hawes L.B.FOUL (P4.PN),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,634,3,11,4,6:20 PM,1:45,Lopez Free Throw 1 of 2 (10 PTS),,,104 - 96,-8,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,636,3,12,4,6:20 PM,1:45,Lopez Free Throw 2 of 2 (11 PTS),,,104 - 97,-7,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,638,5,1,4,6:21 PM,1:37,Gabriel STEAL (2 STL),,Wroten Bad Pass Turnover (P3.T24),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,639,6,1,4,6:21 PM,1:36,,,Young P.FOUL (P5.PN),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,640,3,11,4,6:21 PM,1:36,MISS Gabriel Free Throw 1 of 2,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,642,4,0,4,6:21 PM,1:36,BASKET Rebound,,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,641,3,12,4,6:21 PM,1:36,Gabriel Free Throw 2 of 2 (5 PTS),,,104 - 98,-6,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,644,5,1,4,6:22 PM,1:21,,,Wroten Bad Pass Turnover (P4.T25),,,5,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,645,1,1,4,6:22 PM,1:14,Gabriel 24' 3PT Jump Shot (8 PTS) (Lopez 5 AST),,,104 - 101,-3,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,646,2,1,4,6:22 PM,1:01,,,MISS Young 6' Jump Shot,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,647,4,0,4,6:22 PM,0:59,Kavaliauskas REBOUND (Off:3 Def:4),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,648,2,1,4,6:22 PM,0:48,MISS Gabriel 25' 3PT Jump Shot,,,,,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,649,4,0,4,6:22 PM,0:46,,,Anderson REBOUND (Off:1 Def:6),,,5,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,651,5,1,4,6:23 PM,0:24,Grimau STEAL (1 STL),,Turner Bad Pass Turnover (P5.T26),,,5,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,652,6,2,4,6:24 PM,0:06,,,Young S.FOUL (P6.PN),,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,1,0,,,,,,0
+0011300005,653,8,0,4,6:24 PM,0:06,,,SUB: Ohlbrecht FOR Young,,,5,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,654,3,13,4,6:24 PM,0:06,Gabriel Free Throw 1 of 3 (9 PTS),,,104 - 102,-2,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,656,3,14,4,6:24 PM,0:06,Gabriel Free Throw 2 of 3 (10 PTS),,,104 - 103,-1,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,658,3,15,4,6:25 PM,0:06,Gabriel Free Throw 3 of 3 (11 PTS),,,104 - 104,TIE,4,42552,German Gabriel,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,660,9,2,4,6:25 PM,0:06,,,76ers Timeout: Short (Reg.3 Short 1),,,3,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,663,8,0,4,6:26 PM,0:06,SUB: Vrkic FOR Grimau,,,,,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,664,6,1,4,6:27 PM,0:04,Kavaliauskas P.FOUL (P5.PN),,,,,4,42555,Antanas Kavaliauskas,12324.0,Bilbao,Basket,UBB,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300005,665,8,0,4,6:27 PM,0:04,,,SUB: Thompson FOR Ohlbrecht,,,5,203317,Tim Ohlbrecht,1610612755.0,Philadelphia,76ers,PHI,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,667,9,1,4,6:28 PM,0:04,BASKET Timeout: Regular (Full 5 Short 0),,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,668,8,0,4,6:29 PM,0:04,,,SUB: Morris FOR Thompson,,,5,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300005,670,3,11,4,6:29 PM,0:04,,,Hawes Free Throw 1 of 2 (5 PTS),105 - 104,-1,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,672,3,12,4,6:29 PM,0:04,,,Hawes Free Throw 2 of 2 (6 PTS),106 - 104,-2,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,674,9,1,4,6:30 PM,0:04,BASKET Timeout: Regular (Full 6 Short 0),,,,,2,12324,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300005,676,8,0,4,6:31 PM,0:04,SUB: Grimau FOR Vrkic,,,,,4,42560,Zoran Vrkic,12324.0,Bilbao,Basket,UBB,4,42561,Roger Grimau,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0
+0011300005,678,2,1,4,6:31 PM,0:00,MISS Lopez 25' 3PT Jump Shot,,,,,4,42557,Raul Lopez,12324.0,Bilbao,Basket,UBB,0,0,,,,,,0,0,,,,,,0
+0011300005,679,4,0,4,6:31 PM,0:00,,,Hawes REBOUND (Off:2 Def:4),,,5,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300005,680,13,0,4,6:32 PM,0:00,,End of 4th Period (6:32 PM EST),,106 - 104,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

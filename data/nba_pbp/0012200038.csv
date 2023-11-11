@@ -1,0 +1,459 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200038,2,12,0,1,7:13 PM,12:00,,Start of 1st Period (7:13 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,4,10,0,1,7:13 PM,12:00,Jump Ball Pokusevski vs. Jones: Tip to Cole,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1
+0012200038,7,2,79,1,7:13 PM,11:46,,,MISS Cole 19' Pullup Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,8,4,0,1,7:13 PM,11:44,Dort REBOUND (Off:0 Def:1),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,9,2,1,1,7:13 PM,11:33,MISS Waters III 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,10,4,0,1,7:13 PM,11:28,,,Workman REBOUND (Off:0 Def:1),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,11,2,79,1,7:14 PM,11:14,,,MISS Siggers 18' Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,12,4,0,1,7:14 PM,11:12,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,14,2,101,1,7:14 PM,11:01,,,MISS Siggers 10' Driving Floating Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,16,1,97,1,7:14 PM,10:57,,,Jones Tip Layup Shot (2 PTS),2 - 0,-2,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,15,4,0,1,7:14 PM,10:57,,,Jones REBOUND (Off:1 Def:0),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,17,1,6,1,7:14 PM,10:47,Dort 3' Driving Layup (2 PTS) (Wiggins 1 AST),,,2 - 2,TIE,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,19,6,2,1,7:14 PM,10:47,,,Leder S.FOUL (P1.T1) (E.Dalen),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,21,3,10,1,7:15 PM,10:47,MISS Dort Free Throw 1 of 1,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,22,4,0,1,7:15 PM,10:45,Waters III REBOUND (Off:1 Def:0),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,23,2,1,1,7:15 PM,10:42,MISS Dort 27' 3PT Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,24,4,0,1,7:15 PM,10:37,,,Cole REBOUND (Off:0 Def:1),,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,25,1,80,1,7:15 PM,10:31,,,Cole 16' Step Back Jump Shot (2 PTS) (Jones 1 AST),4 - 2,-2,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,26,1,1,1,7:15 PM,10:15,Dort 26' 3PT Jump Shot (5 PTS) (Dieng 1 AST),,,4 - 5,1,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,28,2,98,1,7:16 PM,9:57,,,MISS Jones 4' Cutting Layup Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,30,1,97,1,7:16 PM,9:52,,,Workman Tip Layup Shot (2 PTS),6 - 5,-1,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,29,4,0,1,7:16 PM,9:52,,,Workman REBOUND (Off:1 Def:1),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,31,6,1,1,7:16 PM,9:48,,,Cole P.FOUL (P1.T2) (T.Ricks),,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,33,5,1,1,7:16 PM,9:31,Dort Bad Pass Turnover (P1.T1),,Workman STEAL (1 STL),,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,35,2,103,1,7:17 PM,9:27,,,MISS Cole 20' Running Pull-Up Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,36,4,0,1,7:17 PM,9:25,Dieng REBOUND (Off:0 Def:1),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,37,1,43,1,7:17 PM,9:09,Pokusevski 3' Alley Oop Layup (2 PTS) (Dieng 2 AST),,,6 - 7,1,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,39,1,79,1,7:17 PM,8:52,,,Siggers 21' Pullup Jump Shot (2 PTS),8 - 7,-1,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,40,5,2,1,7:17 PM,8:41,Wiggins Lost Ball Turnover (P1.T2),,Cole STEAL (1 STL),,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,42,2,1,1,7:17 PM,8:29,,,MISS Siggers 24' 3PT Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,43,4,0,1,7:18 PM,8:26,Pokusevski REBOUND (Off:0 Def:1),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,44,1,98,1,7:18 PM,8:19,Wiggins 3' Cutting Layup Shot (2 PTS) (Pokusevski 1 AST),,,8 - 9,1,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,46,1,47,1,7:18 PM,8:03,,,Jones 6' Turnaround Jump Shot (4 PTS) (Leder 1 AST),10 - 9,-1,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,48,6,2,1,7:18 PM,7:52,,,Leder S.FOUL (P2.T3) (E.Dalen),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,51,3,11,1,7:19 PM,7:52,Dort Free Throw 1 of 2 (6 PTS),,,10 - 10,TIE,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,56,3,12,1,7:19 PM,7:52,MISS Dort Free Throw 2 of 2,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,52,8,0,1,7:19 PM,7:52,,,SUB: Adrien FOR Leder,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,53,8,0,1,7:19 PM,7:52,,,SUB: Geffen FOR Jones,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,57,4,0,1,7:19 PM,7:49,,,Adrien REBOUND (Off:0 Def:1),,,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,58,1,1,1,7:19 PM,7:33,,,Cole 24' 3PT Jump Shot (5 PTS) (Workman 1 AST),13 - 10,-3,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,60,6,2,1,7:19 PM,7:22,,,Geffen S.FOUL (P1.T4) (T.Ricks),,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,62,3,11,1,7:20 PM,7:22,Dort Free Throw 1 of 2 (7 PTS),,,13 - 11,-2,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,63,3,12,1,7:20 PM,7:22,Dort Free Throw 2 of 2 (8 PTS),,,13 - 12,-1,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,64,1,80,1,7:20 PM,7:07,,,Workman 23' Step Back Jump Shot (4 PTS) (Cole 1 AST),15 - 12,-3,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,133,18,1,1,7:21 PM,7:07,,Instant Replay1st Period (7:21 PM EST),,15 - 12,-3,0,64,Sam Perkins,,,,,0,0,,,,,,1,0,,,,,,0
+0012200038,65,2,1,1,7:21 PM,6:50,MISS Wiggins 25' 3PT Jump Shot,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,66,4,0,1,7:21 PM,6:50,,,Geffen REBOUND (Off:0 Def:1),,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,67,1,1,1,7:21 PM,6:33,,,Adrien 18' Jump Shot (2 PTS) (Geffen 1 AST),17 - 12,-5,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,69,5,2,1,7:21 PM,6:20,Wiggins Lost Ball Turnover (P2.T3),,Geffen STEAL (1 STL),,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,72,9,1,1,7:22 PM,6:01,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,74,8,0,1,7:24 PM,6:01,SUB: Jal. Williams FOR Waters III,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,75,8,0,1,7:24 PM,6:01,SUB: Omoruyi FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,76,8,0,1,7:24 PM,6:01,,,SUB: Kaplan FOR Cole,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,80,2,1,1,7:25 PM,5:58,,,MISS Kaplan 26' 3PT Jump Shot,,,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,81,4,0,1,7:25 PM,5:54,Jal. Williams REBOUND (Off:0 Def:1),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,82,1,41,1,7:25 PM,5:49,Pokusevski 3' Running Layup (4 PTS) (Jal. Williams 1 AST),,,17 - 14,-3,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,84,1,1,1,7:25 PM,5:34,,,Kaplan 26' 3PT Jump Shot (3 PTS) (Geffen 2 AST),20 - 14,-6,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,86,2,44,1,7:25 PM,5:18,MISS Omoruyi 3' Reverse Layup,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,87,4,0,1,7:25 PM,5:18,Omoruyi REBOUND (Off:1 Def:0),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200038,89,8,0,1,7:25 PM,5:18,,,SUB: Jones FOR Workman,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,90,8,0,1,7:25 PM,5:18,,,SUB: Lewis FOR Adrien,,,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,93,2,1,1,7:26 PM,5:07,MISS Pokusevski 24' 3PT Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,94,4,0,1,7:26 PM,5:04,Omoruyi REBOUND (Off:2 Def:0),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,95,1,72,1,7:26 PM,5:02,Omoruyi 3' Putback Layup (2 PTS),,,20 - 16,-4,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,96,2,79,1,7:26 PM,4:50,,,MISS Siggers 19' Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,97,4,0,1,7:26 PM,4:47,Omoruyi REBOUND (Off:2 Def:1),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,98,2,1,1,7:26 PM,4:38,MISS Dort 3PT Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,99,4,0,1,7:26 PM,4:34,Omoruyi REBOUND (Off:3 Def:1),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,100,6,2,1,7:26 PM,4:31,,,Lewis S.FOUL (P1.PN) (K.Scott),,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,102,3,11,1,7:27 PM,4:31,Omoruyi Free Throw 1 of 2 (3 PTS),,,20 - 17,-3,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,103,8,0,1,7:27 PM,4:31,,,SUB: Cole FOR Siggers,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,105,3,12,1,7:27 PM,4:31,Omoruyi Free Throw 2 of 2 (4 PTS),,,20 - 18,-2,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,107,6,17,1,7:28 PM,4:14,THUNDER T.Foul (Def. 3 Sec Dort ) (T.Ricks),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,108,3,16,1,7:28 PM,4:14,,,Cole Free Throw Technical (6 PTS),21 - 18,-3,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,109,2,98,1,7:28 PM,4:07,,,MISS Jones 5' Cutting Layup Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,111,4,0,1,7:28 PM,4:03,Pokusevski REBOUND (Off:0 Def:2),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,112,2,1,1,7:28 PM,3:59,MISS Dieng 28' 3PT Jump Shot,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,113,4,0,1,7:28 PM,3:55,Dort REBOUND (Off:1 Def:1),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,114,1,1,1,7:28 PM,3:51,Pokusevski 26' 3PT Jump Shot (7 PTS) (Dort 1 AST),,,21 - 21,TIE,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,116,1,6,1,7:29 PM,3:32,,,Jones 2' Driving Layup (6 PTS) (Cole 2 AST),23 - 21,-2,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,118,6,2,1,7:29 PM,3:32,Pokusevski S.FOUL (P1.T1) (K.Scott),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,120,8,0,1,7:29 PM,3:32,,,SUB: Garcia Morales FOR Kaplan,,,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294084,Leandro Garcia Morales,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,122,3,10,1,7:29 PM,3:32,,,MISS Jones Free Throw 1 of 1,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,123,4,0,1,7:29 PM,3:28,Dieng REBOUND (Off:0 Def:2),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,124,1,1,1,7:30 PM,3:09,Pokusevski 3PT Jump Shot (10 PTS),,,23 - 24,1,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,125,1,52,1,7:30 PM,2:53,,,Jones 3' Alley Oop Dunk (8 PTS) (Cole 3 AST),25 - 24,-1,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,127,1,1,1,7:30 PM,2:32,Dort 24' 3PT Jump Shot (11 PTS) (Jal. Williams 2 AST),,,25 - 27,2,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,129,2,1,1,7:31 PM,2:13,,,MISS Lewis 25' 3PT Jump Shot,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,130,4,0,1,7:31 PM,2:12,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,132,9,1,1,7:31 PM,2:12,,,Maccabi Ra'anana Timeout: Regular (Reg.1 Short 0),,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,134,8,0,1,7:32 PM,2:12,SUB: Wiggins FOR Dort,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,135,8,0,1,7:32 PM,2:12,SUB: Jay. Williams FOR Dieng,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,136,8,0,1,7:32 PM,2:12,SUB: Nwaba FOR Pokusevski,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,137,8,0,1,7:32 PM,2:12,,,SUB: Workman FOR Geffen,,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,142,2,1,1,7:34 PM,1:51,MISS Omoruyi 25' 3PT Jump Shot,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,143,4,0,1,7:34 PM,1:49,Nwaba REBOUND (Off:1 Def:0),,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,144,5,11,1,7:34 PM,1:47,THUNDER Turnover: Shot Clock (T#4),,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200038,145,1,1,1,7:34 PM,1:34,,,Jones 20' Jump Shot (10 PTS) (Cole 4 AST),27 - 27,TIE,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,147,1,1,1,7:35 PM,1:18,Omoruyi 24' 3PT Jump Shot (7 PTS) (Jay. Williams 1 AST),,,27 - 30,3,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,149,1,79,1,7:35 PM,1:02,,,Cole 19' Pullup Jump Shot (8 PTS),29 - 30,1,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,151,6,2,1,7:35 PM,0:55,,,Garcia Morales S.FOUL (P1.PN) (T.Ricks),,,5,196294084,Leandro Garcia Morales,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,153,3,11,1,7:36 PM,0:55,Jal. Williams Free Throw 1 of 2 (1 PTS),,,29 - 31,2,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,156,3,12,1,7:36 PM,0:55,MISS Jal. Williams Free Throw 2 of 2,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,154,8,0,1,7:36 PM,0:55,,,SUB: Siggers FOR Lewis,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,157,4,0,1,7:36 PM,0:52,Omoruyi REBOUND (Off:4 Def:1),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,158,6,1,1,7:36 PM,0:50,,,Cole P.FOUL (P2.PN) (E.Dalen),,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,160,3,11,1,7:37 PM,0:50,Wiggins Free Throw 1 of 2 (3 PTS),,,29 - 32,3,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,161,3,12,1,7:37 PM,0:50,Wiggins Free Throw 2 of 2 (4 PTS),,,29 - 33,4,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,162,2,80,1,7:37 PM,0:35,,,MISS Cole 25' 3PT Step Back Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,163,4,0,1,7:37 PM,0:32,Jay. Williams REBOUND (Off:0 Def:1),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,164,5,2,1,7:37 PM,0:24,Omoruyi Lost Ball Turnover (P1.T5),,Workman STEAL (2 STL),,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,166,2,101,1,7:38 PM,0:02,,,MISS Jones 5' Driving Floating Jump Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,167,4,0,1,7:38 PM,0:00,Nwaba REBOUND (Off:1 Def:1),,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,168,5,2,1,7:38 PM,0:00,Nwaba Lost Ball Turnover (P1.T6),,Jones STEAL (1 STL),,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,170,13,0,1,7:38 PM,0:00,,End of 1st Period (7:38 PM EST),,29 - 33,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,177,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,29 - 33,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,178,2,1,2,7:41 PM,11:43,MISS Waters III 24' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,179,4,0,2,7:41 PM,11:42,Jay. Williams REBOUND (Off:1 Def:1),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,255,5,1,2,7:41 PM,11:40,Jay. Williams Bad Pass Turnover (P1.T7),,Workman STEAL (3 STL),,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,180,2,101,2,7:41 PM,11:24,,,MISS Adrien 11' Driving Floating Jump Shot,,,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,181,4,0,2,7:41 PM,11:22,Jal. Williams REBOUND (Off:0 Def:2),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,182,1,2,2,7:41 PM,11:18,Waters III 29' 3PT Running Jump Shot (3 PTS) (Jal. Williams 3 AST),,,29 - 36,7,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,184,2,79,2,7:41 PM,11:03,,,MISS Siggers 14' Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,185,4,0,2,7:42 PM,10:59,Jay. Williams REBOUND (Off:1 Def:2),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,186,2,103,2,7:42 PM,10:55,MISS Jal. Williams 26' 3PT Running Pull-Up Jump Shot,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,187,4,0,2,7:42 PM,10:51,,,Leder REBOUND (Off:0 Def:1),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,189,8,0,2,7:42 PM,10:49,,,SUB: Jones FOR Adrien,,,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,192,9,1,2,7:43 PM,10:49,,,Maccabi Ra'anana Timeout: Regular (Reg.2 Short 0),,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,193,2,1,2,7:46 PM,10:41,,,MISS Leder 18' Jump Shot,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,194,4,0,2,7:46 PM,10:36,Nwaba REBOUND (Off:1 Def:2),,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,195,1,1,2,7:46 PM,10:28,Jay. Williams 27' 3PT Jump Shot (3 PTS) (Jal. Williams 4 AST),,,29 - 39,10,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,197,2,78,2,7:47 PM,9:59,,,MISS Workman 13' Floating Jump Shot,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,198,4,0,2,7:47 PM,9:57,Jay. Williams REBOUND (Off:1 Def:3),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,199,5,45,2,7:47 PM,9:51,Waters III Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,200,8,0,2,7:47 PM,9:51,SUB: Omoruyi FOR Nwaba,,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,202,6,2,2,7:48 PM,9:35,Jay. Williams S.FOUL (P1.T1) (T.Ricks),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,204,3,11,2,7:48 PM,9:35,,,MISS Jones Free Throw 1 of 2,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,205,4,1,2,7:48 PM,9:35,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,206,3,12,2,7:48 PM,9:35,,,Jones Free Throw 2 of 2 (11 PTS),30 - 39,9,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,207,1,98,2,7:48 PM,9:24,Jay. Williams 4' Cutting Layup Shot (5 PTS) (Jal. Williams 5 AST),,,30 - 41,11,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,209,1,79,2,7:49 PM,9:07,,,Siggers 20' Pullup Jump Shot (4 PTS),32 - 41,9,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,210,2,1,2,7:49 PM,8:45,MISS Omoruyi 25' 3PT Jump Shot,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,211,4,0,2,7:49 PM,8:41,Waters III REBOUND (Off:2 Def:0),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,212,1,98,2,7:49 PM,8:39,Jal. Williams 2' Cutting Layup Shot (3 PTS) (Waters III 1 AST),,,32 - 43,11,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,214,2,1,2,7:49 PM,8:21,,,MISS Cole 3PT Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,215,4,0,2,7:50 PM,8:17,Jay. Williams REBOUND (Off:1 Def:4),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,217,6,1,2,7:50 PM,8:16,,,Siggers P.FOUL (P1.T1) (T.Ricks),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,220,8,0,2,7:50 PM,8:16,,,SUB: Lewis FOR Jones,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,221,8,0,2,7:50 PM,8:16,,,SUB: Geffen FOR Cole,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,224,2,1,2,7:50 PM,8:09,MISS Wiggins 26' 3PT Jump Shot,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,225,4,0,2,7:50 PM,8:04,,,Workman REBOUND (Off:1 Def:2),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,227,8,0,2,7:51 PM,7:50,SUB: Dieng FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,228,8,0,2,7:51 PM,7:50,SUB: Dort FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,231,1,79,2,7:51 PM,7:42,,,Siggers 18' Pullup Jump Shot (6 PTS),34 - 43,9,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,232,2,75,2,7:51 PM,7:30,MISS Dort 4' Driving Finger Roll Layup,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,233,4,0,2,7:51 PM,7:28,,,Workman REBOUND (Off:1 Def:3),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,234,1,1,2,7:51 PM,7:22,,,Siggers 3PT Jump Shot (9 PTS) (Leder 2 AST),37 - 43,6,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,236,6,1,2,7:52 PM,7:13,,,Leder P.FOUL (P3.T2) (T.Ricks),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,238,8,0,2,7:52 PM,7:13,,,SUB: Maoz FOR Leder,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,240,6,4,2,7:52 PM,7:04,Jay. Williams OFF.Foul (P2) (T.Ricks),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,242,5,37,2,7:52 PM,7:04,Jay. Williams Offensive Foul Turnover (P2.T9),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,243,1,79,2,7:53 PM,6:50,,,Siggers 27' 3PT Pullup Jump Shot (12 PTS) (Lewis 1 AST),40 - 43,3,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,245,2,80,2,7:53 PM,6:27,MISS Dort 27' 3PT Step Back Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,246,4,0,2,7:53 PM,6:27,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,247,6,3,2,7:53 PM,6:27,,,Maoz L.B.FOUL (P1.T3) (K.Scott),,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,249,8,0,2,7:53 PM,6:27,SUB: Pokusevski FOR Waters III,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,251,1,1,2,7:53 PM,6:19,Dort 24' 3PT Jump Shot (14 PTS) (Omoruyi 1 AST),,,40 - 46,6,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,253,1,79,2,7:54 PM,5:57,,,Siggers 26' 3PT Pullup Jump Shot (15 PTS),43 - 46,3,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,254,9,1,2,7:54 PM,5:49,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,258,2,5,2,7:57 PM,5:40,MISS Dort 4' Layup,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,259,4,0,2,7:57 PM,5:37,Dort REBOUND (Off:2 Def:1),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,260,1,97,2,7:57 PM,5:37,Dort Tip Layup Shot (16 PTS),,,43 - 48,5,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,261,1,98,2,7:58 PM,5:25,,,Workman 2' Cutting Layup Shot (6 PTS) (Lewis 2 AST),45 - 48,3,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,263,2,79,2,7:58 PM,5:16,MISS Dort 26' 3PT Pullup Jump Shot,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,264,4,0,2,7:58 PM,5:13,Omoruyi REBOUND (Off:5 Def:1),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,265,1,72,2,7:58 PM,5:13,Omoruyi 3' Putback Layup (9 PTS),,,45 - 50,5,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,266,6,2,2,7:58 PM,5:13,,,Lewis S.FOUL (P2.T4) (E.Dalen),,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,268,8,0,2,7:58 PM,5:13,SUB: Jal. Williams FOR Dieng,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,269,8,0,2,7:58 PM,5:13,,,SUB: Kaplan FOR Maoz,,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,272,3,10,2,7:58 PM,5:13,Omoruyi Free Throw 1 of 1 (10 PTS),,,45 - 51,6,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,273,2,79,2,7:59 PM,4:53,,,MISS Kaplan 17' Pullup Jump Shot,,,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,274,4,0,2,7:59 PM,4:50,Omoruyi REBOUND (Off:5 Def:2),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,275,1,1,2,7:59 PM,4:38,Dort 24' 3PT Jump Shot (19 PTS) (Jal. Williams 6 AST),,,45 - 54,9,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,277,9,1,2,7:59 PM,4:36,,,Maccabi Ra'anana Timeout: Regular (Reg.3 Short 0),,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,278,8,0,2,8:00 PM,4:36,,,SUB: Cole FOR Lewis,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,279,8,0,2,8:00 PM,4:36,,,SUB: Jones FOR Geffen,,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,282,2,79,2,8:01 PM,4:18,,,MISS Siggers 15' Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,283,4,0,2,8:01 PM,4:14,Omoruyi REBOUND (Off:5 Def:3),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,284,1,1,2,8:01 PM,4:06,Omoruyi 26' 3PT Jump Shot (13 PTS) (Pokusevski 2 AST),,,45 - 57,12,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,286,1,98,2,8:01 PM,3:53,,,Jones 5' Cutting Layup Shot (13 PTS) (Cole 5 AST),47 - 57,10,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,288,6,2,2,8:01 PM,3:53,Jay. Williams S.FOUL (P3.T2) (E.Dalen),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,290,3,10,2,8:02 PM,3:53,,,MISS Jones Free Throw 1 of 1,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,291,4,0,2,8:02 PM,3:47,,,Workman REBOUND (Off:2 Def:3),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,292,2,1,2,8:02 PM,3:46,,,MISS Workman 27' 3PT Jump Shot,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,293,4,0,2,8:02 PM,3:46,Dort REBOUND (Off:2 Def:2),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,294,1,41,2,8:02 PM,3:39,Jay. Williams 3' Running Layup (7 PTS) (Jal. Williams 7 AST),,,47 - 59,12,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,296,1,79,2,8:02 PM,3:23,,,Siggers 15' Pullup Jump Shot (17 PTS),49 - 59,10,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,297,1,79,2,8:03 PM,3:10,Pokusevski 13' Pullup Jump Shot (12 PTS) (Jal. Williams 8 AST),,,49 - 61,12,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,299,6,2,2,8:03 PM,2:55,Dort S.FOUL (P1.T3) (E.Dalen),,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,301,3,13,2,8:03 PM,2:55,,,Siggers Free Throw 1 of 3 (18 PTS),50 - 61,11,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,302,3,14,2,8:04 PM,2:55,,,Siggers Free Throw 2 of 3 (19 PTS),51 - 61,10,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,303,8,0,2,8:04 PM,2:55,SUB: Wiggins FOR Jay. Williams,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,304,8,0,2,8:04 PM,2:55,SUB: Dieng FOR Omoruyi,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,305,8,0,2,8:04 PM,2:55,,,SUB: Geffen FOR Kaplan,,,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,309,3,15,2,8:04 PM,2:55,,,Siggers Free Throw 3 of 3 (20 PTS),52 - 61,9,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,310,6,2,2,8:04 PM,2:47,,,Siggers S.FOUL (P2.PN) (E.Dalen),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,312,3,11,2,8:05 PM,2:47,Jal. Williams Free Throw 1 of 2 (4 PTS),,,52 - 62,10,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,313,8,0,2,8:05 PM,2:47,,,SUB: Lewis FOR Workman,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,315,3,12,2,8:05 PM,2:47,Jal. Williams Free Throw 2 of 2 (5 PTS),,,52 - 63,11,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,316,5,1,2,8:06 PM,2:28,Dieng STEAL (1 STL),,Siggers Bad Pass Turnover (P1.T1),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,318,1,41,2,8:06 PM,2:22,Dort 3' Running Layup (21 PTS) (Dieng 3 AST),,,52 - 65,13,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,320,2,79,2,8:06 PM,2:10,,,MISS Geffen 20' Pullup Jump Shot,,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,321,4,0,2,8:06 PM,2:07,Wiggins REBOUND (Off:0 Def:1),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,322,1,6,2,8:06 PM,1:57,Dort 3' Driving Layup (23 PTS) (Pokusevski 3 AST),,,52 - 67,15,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,324,5,2,2,8:06 PM,1:32,Jal. Williams STEAL (1 STL),,Siggers Lost Ball Turnover (P2.T2),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,326,1,41,2,8:07 PM,1:27,Jal. Williams 3' Running Layup (7 PTS) (Pokusevski 4 AST),,,52 - 69,17,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,327,9,1,2,8:07 PM,1:23,,,Maccabi Ra'anana Timeout: Regular (Reg.4 Short 0),,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,329,8,0,2,8:08 PM,1:23,,,SUB: Kaplan FOR Siggers,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,330,8,0,2,8:08 PM,1:23,,,SUB: Garcia Morales FOR Lewis,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294084,Leandro Garcia Morales,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,333,1,79,2,8:09 PM,1:05,,,Cole 19' Pullup Jump Shot (10 PTS),54 - 69,15,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,334,1,7,2,8:09 PM,0:48,Wiggins 3' Dunk (6 PTS) (Dort 2 AST),,,54 - 71,17,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,337,5,1,2,8:09 PM,0:28,Dort STEAL (1 STL),,Cole Bad Pass Turnover (P1.T3),,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,339,2,6,2,8:10 PM,0:17,MISS Jal. Williams 6' Driving Layup,,Jones BLOCK (1 BLK),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1
+0012200038,341,4,0,2,8:10 PM,0:17,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,343,2,1,2,8:10 PM,0:15,MISS Pokusevski 25' 3PT Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,344,4,0,2,8:10 PM,0:12,Dieng REBOUND (Off:1 Def:2),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,345,2,63,2,8:10 PM,0:00,MISS Dort 28' 3PT Fadeaway Jumper,,,,,4,1629652,Luguentz Dort,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,346,4,0,2,8:10 PM,0:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,347,13,0,2,8:10 PM,0:00,,End of 2nd Period (8:10 PM EST),,54 - 71,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,357,12,0,3,8:26 PM,12:00,,Start of 3rd Period (8:26 PM EST),,54 - 71,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,358,1,80,3,8:26 PM,11:44,Dieng 27' 3PT Step Back Jump Shot (3 PTS),,,54 - 74,20,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,359,5,1,3,8:27 PM,11:26,Wiggins STEAL (1 STL),,Siggers Bad Pass Turnover (P3.T4),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,361,1,98,3,8:27 PM,11:21,Dieng 3' Cutting Layup Shot (5 PTS) (Pokusevski 5 AST),,,54 - 76,22,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,363,2,79,3,8:27 PM,10:56,,,MISS Cole 9' Pullup Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,364,4,0,3,8:27 PM,10:52,,,Workman REBOUND (Off:3 Def:3),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,365,2,72,3,8:27 PM,10:52,,,MISS Workman 4' Putback Layup,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,366,4,0,3,8:27 PM,10:52,Jal. Williams REBOUND (Off:0 Def:3),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,367,6,2,3,8:27 PM,10:50,,,Leder S.FOUL (P4.T1) (T.Ricks),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,369,3,11,3,8:28 PM,10:50,Jal. Williams Free Throw 1 of 2 (8 PTS),,,54 - 77,23,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,370,3,12,3,8:28 PM,10:50,Jal. Williams Free Throw 2 of 2 (9 PTS),,,54 - 78,24,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,371,6,2,3,8:28 PM,10:41,Pokusevski S.FOUL (P2.T1) (T.Ricks),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,373,3,11,3,8:29 PM,10:41,,,MISS Jones Free Throw 1 of 2,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,374,4,1,3,8:29 PM,10:41,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,375,3,12,3,8:29 PM,10:41,,,MISS Jones Free Throw 2 of 2,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,376,4,0,3,8:29 PM,10:39,,,Leder REBOUND (Off:1 Def:1),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,377,2,105,3,8:29 PM,10:32,,,MISS Jones 8' Turnaround Fadeaway Bank Jump Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,378,4,0,3,8:29 PM,10:28,,,Workman REBOUND (Off:4 Def:3),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,379,2,97,3,8:29 PM,10:28,,,MISS Workman Tip Layup Shot,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,380,4,0,3,8:29 PM,10:28,Dieng REBOUND (Off:1 Def:3),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,381,6,1,3,8:29 PM,10:28,,,Workman P.FOUL (P1.T2) (K.Scott),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,383,2,1,3,8:29 PM,10:10,MISS Nwaba 3PT Jump Shot,,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,384,4,0,3,8:30 PM,10:04,,,Workman REBOUND (Off:4 Def:4),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,385,1,101,3,8:30 PM,9:59,,,Siggers 4' Driving Floating Jump Shot (22 PTS) (Jones 2 AST),56 - 78,22,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,386,2,5,3,8:30 PM,9:50,MISS Dieng 3' Layup,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,387,4,0,3,8:30 PM,9:48,,,Jones REBOUND (Off:1 Def:1),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,388,2,2,3,8:30 PM,9:44,,,MISS Leder 27' 3PT Running Jump Shot,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,389,4,0,3,8:30 PM,9:41,Wiggins REBOUND (Off:0 Def:2),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,390,6,2,3,8:30 PM,9:26,,,Jones S.FOUL (P1.T3) (T.Ricks),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,392,3,11,3,8:31 PM,9:26,Jal. Williams Free Throw 1 of 2 (10 PTS),,,56 - 79,23,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,393,8,0,3,8:31 PM,9:26,SUB: Omoruyi FOR Dieng,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,395,3,12,3,8:31 PM,9:26,Jal. Williams Free Throw 2 of 2 (11 PTS),,,56 - 80,24,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,397,1,79,3,8:31 PM,9:15,,,Siggers 20' Pullup Jump Shot (24 PTS) (Cole 6 AST),58 - 80,22,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,399,1,1,3,8:32 PM,9:00,Pokusevski 29' 3PT Jump Shot (15 PTS) (Wiggins 2 AST),,,58 - 83,25,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,401,2,1,3,8:32 PM,8:45,,,MISS Siggers 3PT Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,402,4,0,3,8:32 PM,8:41,,,Jones REBOUND (Off:2 Def:1),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,483,2,97,3,8:32 PM,8:41,,,MISS Jones 1' Tip Layup Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,484,4,0,3,8:32 PM,8:40,Pokusevski REBOUND (Off:0 Def:3),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200038,403,1,2,3,8:32 PM,8:36,Omoruyi 26' 3PT Running Jump Shot (16 PTS) (Jal. Williams 9 AST),,,58 - 86,28,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,405,6,1,3,8:32 PM,8:20,Jal. Williams P.FOUL (P1.T2) (K.Scott),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,407,8,0,3,8:33 PM,8:20,,,SUB: Adrien FOR Workman,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,408,8,0,3,8:33 PM,8:20,,,SUB: Lewis FOR Jones,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,411,2,79,3,8:33 PM,8:07,,,MISS Cole 16' Pullup Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,412,4,0,3,8:33 PM,8:03,Pokusevski REBOUND (Off:0 Def:4),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,413,1,98,3,8:33 PM,7:59,Omoruyi 3' Cutting Layup Shot (18 PTS) (Pokusevski 6 AST),,,58 - 88,30,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,415,9,1,3,8:33 PM,7:58,,,Maccabi Ra'anana Timeout: Regular (Reg.5 Short 0),,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,416,8,0,3,8:36 PM,7:58,,,SUB: Geffen FOR Leder,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,418,2,1,3,8:36 PM,7:43,,,MISS Lewis 17' Jump Shot,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,419,4,0,3,8:36 PM,7:39,Wiggins REBOUND (Off:0 Def:3),,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,420,1,6,3,8:36 PM,7:31,Jal. Williams 4' Driving Layup (13 PTS),,,58 - 90,32,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,421,6,1,3,8:37 PM,7:21,Nwaba P.FOUL (P1.T3) (K.Scott),,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,423,1,79,3,8:37 PM,7:18,,,Siggers 27' 3PT Pullup Jump Shot (27 PTS) (Geffen 3 AST),61 - 90,29,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,424,1,1,3,8:37 PM,7:02,Wiggins 25' 3PT Jump Shot (9 PTS) (Jal. Williams 10 AST),,,61 - 93,32,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,479,18,1,3,8:37 PM,7:02,,Instant Replay3rd Period (8:37 PM EST),,61 - 93,32,0,426,Terry Davis,,,,,0,0,,,,,,1,0,,,,,,0
+0012200038,426,6,14,3,8:37 PM,7:02,,,Siggers FLAGRANT.FOUL.TYPE1 (P3.T4) (T.Ricks),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,429,3,20,3,8:39 PM,7:02,Wiggins Free Throw Flagrant 1 of 1 (10 PTS),,,61 - 94,33,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,430,2,98,3,8:39 PM,6:54,MISS Omoruyi 4' Cutting Layup Shot,,Adrien BLOCK (1 BLK),,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1
+0012200038,432,4,0,3,8:39 PM,6:54,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,434,1,98,3,8:40 PM,6:42,Omoruyi 3' Cutting Layup Shot (20 PTS) (Jal. Williams 11 AST),,,61 - 96,35,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,436,5,1,3,8:40 PM,6:29,Wiggins STEAL (2 STL),,Geffen Bad Pass Turnover (P1.T5),,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,438,5,45,3,8:40 PM,6:25,Jal. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T10),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,439,8,0,3,8:40 PM,6:25,,,SUB: Maoz FOR Cole,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,440,8,0,3,8:40 PM,6:25,,,SUB: Workman FOR Adrien,,,5,196294137,Jeff Adrien,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,443,6,2,3,8:41 PM,6:10,Omoruyi S.FOUL (P1.T4) (K.Scott),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,445,3,11,3,8:41 PM,6:10,,,Siggers Free Throw 1 of 2 (28 PTS),62 - 96,34,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,446,3,12,3,8:41 PM,6:10,,,Siggers Free Throw 2 of 2 (29 PTS),63 - 96,33,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,447,5,2,3,8:41 PM,6:06,Jal. Williams Lost Ball Turnover (P2.T11),,Siggers STEAL (1 STL),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,449,6,1,3,8:42 PM,6:04,Jal. Williams P.FOUL (P2.PN) (E.Dalen),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,451,3,11,3,8:42 PM,6:04,,,Workman Free Throw 1 of 2 (7 PTS),64 - 96,32,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,452,8,0,3,8:42 PM,6:04,SUB: Jay. Williams FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,454,3,12,3,8:42 PM,6:04,,,Workman Free Throw 2 of 2 (8 PTS),65 - 96,31,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,455,1,5,3,8:42 PM,5:57,Jay. Williams 5' Layup (9 PTS) (Pokusevski 7 AST),,,65 - 98,33,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,457,6,2,3,8:42 PM,5:57,,,Maoz S.FOUL (P2.PN) (E.Dalen),,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,459,3,10,3,8:43 PM,5:57,Jay. Williams Free Throw 1 of 1 (10 PTS),,,65 - 99,34,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,460,1,98,3,8:43 PM,5:47,,,Siggers 2' Cutting Layup Shot (31 PTS) (Workman 2 AST),67 - 99,32,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,462,6,2,3,8:43 PM,5:38,,,Workman S.FOUL (P2.PN) (K.Scott),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,464,3,11,3,8:44 PM,5:38,Nwaba Free Throw 1 of 2 (1 PTS),,,67 - 100,33,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,465,8,0,3,8:44 PM,5:38,,,SUB: Leder FOR Siggers,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,467,3,12,3,8:44 PM,5:38,Nwaba Free Throw 2 of 2 (2 PTS),,,67 - 101,34,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,468,2,73,3,8:44 PM,5:13,Wiggins BLOCK (1 BLK),,MISS Workman 2' Driving Reverse Layup,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200038,470,4,0,3,8:44 PM,5:13,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,471,5,11,3,8:44 PM,5:13,,,Maccabi Ra'anana Turnover: Shot Clock (T#6),,,3,50009,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200038,472,2,1,3,8:45 PM,5:01,MISS Pokusevski 3PT Jump Shot,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,473,4,0,3,8:45 PM,4:57,Omoruyi REBOUND (Off:6 Def:3),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,474,2,72,3,8:45 PM,4:57,MISS Omoruyi 4' Putback Layup,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,475,4,0,3,8:45 PM,4:54,,,Geffen REBOUND (Off:0 Def:2),,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,476,1,1,3,8:45 PM,4:46,,,Maoz 26' 3PT Jump Shot (3 PTS) (Geffen 4 AST),70 - 101,31,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,478,9,1,3,8:45 PM,4:44,THUNDER Timeout: Regular (Full 3 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,481,8,0,3,8:47 PM,4:44,SUB: Waters III FOR Nwaba,,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,485,1,1,3,8:48 PM,4:30,Omoruyi 25' 3PT Jump Shot (23 PTS) (Waters III 2 AST),,,70 - 104,34,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,487,2,101,3,8:48 PM,4:05,Pokusevski BLOCK (1 BLK),,MISS Geffen 14' Driving Floating Jump Shot,,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200038,489,4,0,3,8:49 PM,4:02,Pokusevski REBOUND (Off:0 Def:5),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,490,1,41,3,8:49 PM,4:00,Omoruyi 3' Running Layup (25 PTS) (Pokusevski 8 AST),,,70 - 106,36,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,493,6,11,3,8:49 PM,4:00,,,Maccabi Ra'anana T.FOUL,,,3,50009,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200038,494,3,16,3,8:49 PM,4:00,Waters III Free Throw Technical (4 PTS),,,70 - 107,37,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,495,1,80,3,8:50 PM,3:39,,,Leder 26' 3PT Step Back Jump Shot (3 PTS),73 - 107,34,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,496,1,79,3,8:50 PM,3:21,Waters III 28' 3PT Pullup Jump Shot (7 PTS) (Pokusevski 9 AST),,,73 - 110,37,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,498,2,66,3,8:50 PM,3:00,,,MISS Lewis 16' Jump Bank Shot,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,499,4,0,3,8:50 PM,2:56,Jay. Williams REBOUND (Off:1 Def:5),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,686,2,103,3,8:50 PM,2:50,MISS Wiggins 6' Running Pull-Up Jump Shot,,Lewis BLOCK (1 BLK),,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0
+0012200038,688,4,0,3,8:50 PM,2:50,Jay. Williams REBOUND (Off:2 Def:5),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+0012200038,500,1,72,3,8:50 PM,2:48,Jay. Williams 3' Putback Layup (12 PTS),,,73 - 112,39,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,501,2,80,3,8:51 PM,2:28,,,MISS Geffen 18' Step Back Jump Shot,,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,502,4,0,3,8:51 PM,2:25,Pokusevski REBOUND (Off:0 Def:6),,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,503,1,1,3,8:51 PM,2:16,Wiggins 26' 3PT Jump Shot (13 PTS) (Pokusevski 10 AST),,,73 - 115,42,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,505,6,2,3,8:51 PM,2:01,Jay. Williams S.FOUL (P4.PN) (T.Ricks),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,507,3,11,3,8:52 PM,2:01,,,MISS Lewis Free Throw 1 of 2,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,508,4,1,3,8:52 PM,2:01,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,517,3,12,3,8:52 PM,2:01,,,MISS Lewis Free Throw 2 of 2,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,509,8,0,3,8:52 PM,2:01,SUB: Dieng FOR Pokusevski,,,,,4,1630197,Aleksej Pokusevski,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,510,8,0,3,8:52 PM,2:01,SUB: Jal. Williams FOR Wiggins,,,,,4,1630598,Aaron Wiggins,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,511,8,0,3,8:52 PM,2:01,,,SUB: Siggers FOR Workman,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,512,8,0,3,8:52 PM,2:01,,,SUB: Jones FOR Maoz,,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,518,4,0,3,8:52 PM,1:53,Omoruyi REBOUND (Off:6 Def:4),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,519,2,1,3,8:52 PM,1:49,MISS Waters III 26' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,520,4,0,3,8:52 PM,1:44,,,Siggers REBOUND (Off:0 Def:1),,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,521,1,6,3,8:52 PM,1:39,,,Leder 5' Driving Layup (5 PTS) (Siggers 1 AST),75 - 115,40,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,523,1,108,3,8:53 PM,1:22,Jal. Williams 3' Cutting Dunk Shot (15 PTS) (Jay. Williams 2 AST),,,75 - 117,42,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,525,6,1,3,8:53 PM,1:08,Omoruyi P.FOUL (P2.PN) (T.Ricks),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,527,3,11,3,8:53 PM,1:08,,,Jones Free Throw 1 of 2 (14 PTS),76 - 117,41,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,528,8,0,3,8:53 PM,1:08,SUB: Shackelford FOR Omoruyi,,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,530,3,12,3,8:54 PM,1:08,,,Jones Free Throw 2 of 2 (15 PTS),77 - 117,40,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,531,2,98,3,8:54 PM,0:56,MISS Jay. Williams 5' Cutting Layup Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,532,4,0,3,8:54 PM,0:55,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,534,2,6,3,8:54 PM,0:35,,,MISS Jones 3' Driving Layup,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,535,4,0,3,8:54 PM,0:33,Jay. Williams REBOUND (Off:2 Def:6),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,536,10,0,3,8:55 PM,0:25,Jump Ball Dieng vs. Leder: Tip to Jay. Williams,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1
+0012200038,539,5,1,3,8:55 PM,0:19,Jal. Williams Bad Pass Turnover (P3.T12),,Leder STEAL (1 STL),,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,541,5,1,3,8:55 PM,0:13,Jal. Williams STEAL (2 STL),,Leder Bad Pass Turnover (P1.T7),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,543,1,50,3,8:55 PM,0:09,Dieng 2' Running Dunk (7 PTS) (Jal. Williams 12 AST),,,77 - 119,42,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,545,2,101,3,8:56 PM,0:00,,,MISS Siggers 11' Driving Floating Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,546,4,0,3,8:56 PM,0:00,,,Maccabi Ra'anana Rebound,,,3,50009,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,547,13,0,3,8:56 PM,0:00,,End of 3rd Period (8:56 PM EST),,77 - 119,42,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,554,12,0,4,8:58 PM,12:00,,Start of 4th Period (8:58 PM EST),,77 - 119,42,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,555,2,1,4,8:58 PM,11:43,,,MISS Cole 18' Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,556,4,0,4,8:59 PM,11:40,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200038,558,2,6,4,8:59 PM,11:27,MISS Dieng 3' Driving Layup,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,559,4,0,4,8:59 PM,11:20,Nwaba REBOUND (Off:2 Def:2),,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,560,1,107,4,8:59 PM,11:20,Nwaba Tip Dunk Shot (4 PTS),,,77 - 121,44,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,561,2,79,4,8:59 PM,11:17,,,MISS Siggers 26' 3PT Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,562,4,0,4,8:59 PM,11:14,Jal. Williams REBOUND (Off:0 Def:4),,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,563,2,103,4,8:59 PM,11:11,MISS Waters III 28' 3PT Running Pull-Up Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,564,4,0,4,8:59 PM,11:08,,,Jones REBOUND (Off:2 Def:2),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,565,2,1,4,8:59 PM,10:50,,,MISS Leder 21' Jump Shot,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,566,4,0,4,9:00 PM,10:45,Nwaba REBOUND (Off:2 Def:3),,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,567,1,43,4,9:00 PM,10:40,Dieng 2' Alley Oop Layup (9 PTS) (Jal. Williams 13 AST),,,77 - 123,46,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,569,2,1,4,9:00 PM,10:19,,,MISS Workman 30' 3PT Jump Shot,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,570,4,0,4,9:00 PM,10:15,Waters III REBOUND (Off:2 Def:1),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,571,6,2,4,9:00 PM,10:05,,,Leder S.FOUL (P5.T1) (K.Scott),,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,573,3,11,4,9:01 PM,10:05,MISS Nwaba Free Throw 1 of 2,,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,574,4,1,4,9:01 PM,10:05,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,575,8,0,4,9:01 PM,10:05,SUB: Jay. Williams FOR Jal. Williams,,,,,4,1631114,Jalen Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,576,8,0,4,9:01 PM,10:05,,,SUB: Kaplan FOR Leder,,,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,579,3,12,4,9:01 PM,10:05,Nwaba Free Throw 2 of 2 (5 PTS),,,77 - 124,47,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,580,1,1,4,9:01 PM,9:44,,,Kaplan 25' 3PT Jump Shot (6 PTS) (Siggers 2 AST),80 - 124,44,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,582,1,108,4,9:02 PM,9:31,Dieng 3' Cutting Dunk Shot (11 PTS) (Waters III 3 AST),,,80 - 126,46,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,584,1,79,4,9:02 PM,9:13,,,Cole 18' Pullup Jump Shot (12 PTS),82 - 126,44,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,585,2,6,4,9:02 PM,8:54,MISS Shackelford 3' Driving Layup,,,,,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,586,4,0,4,9:02 PM,8:51,,,Jones REBOUND (Off:2 Def:3),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,587,2,79,4,9:02 PM,8:43,,,MISS Siggers 19' Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,588,4,0,4,9:02 PM,8:40,Waters III REBOUND (Off:2 Def:2),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,589,1,1,4,9:03 PM,8:34,Shackelford 3PT Jump Shot (3 PTS) (Waters III 4 AST),,,82 - 129,47,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,591,2,101,4,9:03 PM,8:20,,,MISS Cole 11' Driving Floating Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,592,4,0,4,9:03 PM,8:19,Jay. Williams REBOUND (Off:2 Def:7),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,593,6,1,4,9:03 PM,8:00,,,Jones P.FOUL (P2.T2) (E.Dalen),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,595,8,0,4,9:03 PM,8:00,SUB: Omoruyi FOR Waters III,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,596,8,0,4,9:03 PM,8:00,,,SUB: Lewis FOR Jones,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,599,1,1,4,9:04 PM,7:50,Dieng 26' 3PT Jump Shot (14 PTS) (Shackelford 1 AST),,,82 - 132,50,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,601,6,1,4,9:04 PM,7:39,Omoruyi P.FOUL (P3.T1) (T.Ricks),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,603,2,1,4,9:04 PM,7:32,,,MISS Cole 27' 3PT Jump Shot,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,604,4,0,4,9:04 PM,7:31,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,606,6,4,4,9:05 PM,7:25,Jay. Williams OFF.Foul (P5) (T.Ricks),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,608,5,37,4,9:05 PM,7:25,Jay. Williams Offensive Foul Turnover (P3.T13),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,609,5,1,4,9:05 PM,7:09,Nwaba STEAL (1 STL),,Cole Bad Pass Turnover (P2.T8),,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,611,5,1,4,9:05 PM,7:04,Dieng Bad Pass Turnover (P1.T14),,Lewis STEAL (1 STL),,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,613,1,41,4,9:05 PM,7:00,,,Workman 5' Running Layup (10 PTS) (Lewis 3 AST),84 - 132,48,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,615,9,1,4,9:05 PM,7:00,THUNDER Timeout: Regular (Full 4 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,616,8,0,4,9:07 PM,7:00,SUB: Waters III FOR Nwaba,,,,,4,1628021,David Nwaba,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+0012200038,617,8,0,4,9:07 PM,7:00,,,SUB: Geffen FOR Workman,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,620,2,1,4,9:08 PM,6:48,MISS Shackelford 25' 3PT Jump Shot,,,,,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,621,4,0,4,9:08 PM,6:44,,,Geffen REBOUND (Off:0 Def:3),,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,622,1,6,4,9:09 PM,6:22,,,Siggers 4' Driving Layup (33 PTS),86 - 132,46,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,623,1,108,4,9:09 PM,6:15,Jay. Williams 3' Cutting Dunk Shot (14 PTS) (Dieng 4 AST),,,86 - 134,48,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,625,1,79,4,9:09 PM,5:56,,,Siggers 26' 3PT Pullup Jump Shot (36 PTS),89 - 134,45,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,626,1,108,4,9:09 PM,5:41,Dieng 4' Cutting Dunk Shot (16 PTS) (Jay. Williams 3 AST),,,89 - 136,47,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,628,6,1,4,9:10 PM,5:31,Omoruyi P.FOUL (P4.T2) (T.Ricks),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,630,8,0,4,9:10 PM,5:31,,,SUB: Jones FOR Lewis,,,5,196294089,Jordan Lewis,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,631,8,0,4,9:10 PM,5:31,,,SUB: Workman FOR Kaplan,,,5,196294096,Daniel Hillel,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,634,2,63,4,9:10 PM,5:22,,,MISS Workman 18' Fadeaway Jumper,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,635,4,0,4,9:10 PM,5:20,Waters III REBOUND (Off:2 Def:3),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,636,1,2,4,9:10 PM,5:15,Shackelford 27' 3PT Running Jump Shot (6 PTS) (Waters III 5 AST),,,89 - 139,50,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,638,2,79,4,9:10 PM,5:02,,,MISS Jones 27' 3PT Pullup Jump Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,639,4,0,4,9:10 PM,5:00,Waters III REBOUND (Off:2 Def:4),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,640,2,1,4,9:11 PM,4:43,MISS Jay. Williams 20' Jump Shot,,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,641,4,0,4,9:11 PM,4:38,,,Workman REBOUND (Off:4 Def:5),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,642,1,103,4,9:11 PM,4:34,,,Siggers 16' Running Pull-Up Jump Shot (38 PTS) (Workman 3 AST),91 - 139,48,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,644,1,1,4,9:11 PM,4:12,Waters III 27' 3PT Jump Shot (10 PTS) (Jay. Williams 4 AST),,,91 - 142,51,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1
+0012200038,646,1,79,4,9:12 PM,3:56,,,Siggers 20' Pullup Jump Shot (40 PTS) (Geffen 5 AST),93 - 142,49,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,647,9,1,4,9:12 PM,3:53,THUNDER Timeout: Regular (Full 5 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200038,648,8,0,4,9:13 PM,3:53,,,SUB: Maoz FOR Cole,,,5,196294141,Norris  Cole,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,650,5,40,4,9:15 PM,3:43,Dieng Out of Bounds Lost Ball Turnover (P2.T15),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,651,2,79,4,9:15 PM,3:35,,,MISS Siggers 27' 3PT Pullup Jump Shot,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,652,4,0,4,9:15 PM,3:32,Omoruyi REBOUND (Off:6 Def:5),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,653,2,2,4,9:15 PM,3:27,MISS Waters III 24' 3PT Running Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,654,4,0,4,9:15 PM,3:25,Shackelford REBOUND (Off:1 Def:0),,,,,4,1631455,Jaden Shackelford,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,655,2,1,4,9:15 PM,3:20,MISS Waters III 31' 3PT Jump Shot,,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,656,4,0,4,9:15 PM,3:16,,,Workman REBOUND (Off:4 Def:6),,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,657,2,79,4,9:15 PM,3:01,,,MISS Maoz 15' Pullup Jump Shot,,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,658,4,0,4,9:15 PM,2:57,Jay. Williams REBOUND (Off:2 Def:8),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,659,2,1,4,9:16 PM,2:48,MISS Dieng 24' 3PT Jump Shot,,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,660,4,0,4,9:16 PM,2:46,,,Jones REBOUND (Off:2 Def:4),,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,661,6,1,4,9:16 PM,2:31,Waters III P.FOUL (P1.T3) (E.Dalen),,,,,4,1630322,Lindy Waters III,1610612760.0,Oklahoma City,Thunder,OKC,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1,0,,,,,,1
+0012200038,663,8,0,4,9:16 PM,2:31,,,SUB: Leder FOR Siggers,,,5,196294094,Jason Siggers,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,664,8,0,4,9:16 PM,2:31,,,SUB: Melnik FOR Geffen,,,5,196294085,Rom Geffen,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294091,Gilad Melnik,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,667,1,73,4,9:17 PM,2:17,,,Maoz 3' Driving Reverse Layup (5 PTS) (Workman 4 AST),95 - 142,47,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,1
+0012200038,668,5,4,4,9:17 PM,2:06,Dieng Traveling Turnover (P3.T16),,,,,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,1
+0012200038,669,8,0,4,9:17 PM,2:06,,,SUB: Avidan FOR Workman,,,5,196294136,Willy Workman,50009.0,Ra'anana,Maccabi Ra'anana,MRA,5,196294083,Niv Avidan,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0
+0012200038,671,2,1,4,9:17 PM,1:56,,,MISS Maoz 27' 3PT Jump Shot,,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,672,4,0,4,9:17 PM,1:51,Jay. Williams REBOUND (Off:2 Def:9),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,673,6,1,4,9:18 PM,1:41,,,Maoz P.FOUL (P3.T3) (E.Dalen),,,5,196294090,Ziv Maoz,50009.0,Ra'anana,Maccabi Ra'anana,MRA,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,1
+0012200038,675,2,6,4,9:18 PM,1:32,MISS Omoruyi 6' Driving Layup,,Avidan BLOCK (1 BLK),,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,196294083,Niv Avidan,50009.0,Ra'anana,Maccabi Ra'anana,MRA,1
+0012200038,677,4,0,4,9:18 PM,1:29,Jay. Williams REBOUND (Off:3 Def:9),,,,,4,1631119,Jaylin Williams,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,678,5,11,4,9:18 PM,1:26,THUNDER Turnover: Shot Clock (T#17),,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200038,679,1,101,4,9:19 PM,1:07,,,Leder 8' Driving Floating Jump Shot (7 PTS),97 - 142,45,5,196294088,Alex Leder,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,680,1,101,4,9:19 PM,0:49,Dieng 7' Driving Floating Jump Shot (18 PTS),,,97 - 144,47,4,1631172,Ousmane Dieng,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,681,2,1,4,9:19 PM,0:40,,,MISS Jones 27' 3PT Jump Shot,,,5,196294138,Terrence Jones,50009.0,Ra'anana,Maccabi Ra'anana,MRA,0,0,,,,,,0,0,,,,,,1
+0012200038,682,4,0,4,9:19 PM,0:36,Omoruyi REBOUND (Off:6 Def:6),,,,,4,1630647,Eugene Omoruyi,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,1
+0012200038,683,5,11,4,9:20 PM,0:14,THUNDER Turnover: Shot Clock (T#18),,,,,2,1610612760,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200038,684,13,0,4,9:20 PM,0:00,,End of 4th Period (9:20 PM EST),,97 - 144,47,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

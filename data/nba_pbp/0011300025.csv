@@ -1,0 +1,486 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300025,0,12,0,1,10:10 PM,12:00,,Start of 1st Period (10:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,1,10,0,1,10:11 PM,12:00,Jump Ball Lopez vs. Gortat: Tip to Bledsoe,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0
+0011300025,2,6,1,1,10:11 PM,11:45,Claver P.FOUL (P1.T1),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,3,2,1,1,10:12 PM,11:33,,,MISS Morris 13' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,4,4,0,1,10:12 PM,11:32,Claver REBOUND (Off:0 Def:1),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,5,2,1,1,10:12 PM,11:11,MISS Matthews 15' Jump Shot,,Brown BLOCK (1 BLK),,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0
+0011300025,6,4,0,1,10:12 PM,11:09,,,Brown REBOUND (Off:0 Def:1),,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,7,1,5,1,10:12 PM,11:06,,,Brown 2' Layup (2 PTS),2 - 0,-2,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,8,1,1,1,10:12 PM,10:43,Lillard 26' 3PT Jump Shot (3 PTS),,,2 - 3,1,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,9,7,1,1,10:12 PM,10:43,TRAIL BLAZERS Violation: Delay of game Violation,,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300025,10,2,5,1,10:13 PM,10:28,Aldridge BLOCK (1 BLK),,MISS Gortat 1' Layup,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0
+0011300025,11,4,0,1,10:13 PM,10:26,Aldridge REBOUND (Off:0 Def:1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,12,2,1,1,10:13 PM,10:17,MISS Aldridge 7' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,13,4,0,1,10:13 PM,10:16,,,Bledsoe REBOUND (Off:0 Def:1),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,14,2,1,1,10:13 PM,10:12,,,MISS Bledsoe 10' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,15,4,0,1,10:13 PM,10:10,Matthews REBOUND (Off:0 Def:1),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,16,6,2,1,10:13 PM,10:06,,,Morris S.FOUL (P1.T1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,17,3,11,1,10:14 PM,10:06,Aldridge Free Throw 1 of 2 (1 PTS),,,2 - 4,2,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,19,3,12,1,10:14 PM,10:06,Aldridge Free Throw 2 of 2 (2 PTS),,,2 - 5,3,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,21,6,1,1,10:14 PM,9:59,Claver P.FOUL (P2.T2),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,22,2,1,1,10:14 PM,9:52,,,MISS Bledsoe 18' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,23,4,0,1,10:14 PM,9:52,,,Gortat REBOUND (Off:1 Def:0),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,24,2,1,1,10:14 PM,9:45,,,MISS Morris 19' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,25,4,0,1,10:15 PM,9:45,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,26,2,5,1,10:15 PM,9:31,MISS Matthews  Layup,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,27,4,0,1,10:15 PM,9:28,,,Gortat REBOUND (Off:1 Def:1),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,28,2,5,1,10:15 PM,9:23,,,MISS Brown 1' Layup,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,30,4,0,1,10:15 PM,9:20,,,Morris REBOUND (Off:1 Def:0),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,29,2,5,1,10:15 PM,9:20,,,MISS Morris 2' Layup,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,31,4,0,1,10:15 PM,9:19,Aldridge REBOUND (Off:0 Def:2),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,32,5,2,1,10:15 PM,9:11,Lillard Lost Ball Turnover (P1.T1),,Bledsoe STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,33,1,1,1,10:15 PM,9:02,,,Morris 26' 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),5 - 5,TIE,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,34,6,4,1,10:16 PM,8:50,Aldridge OFF.Foul (P1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,35,5,5,1,10:16 PM,8:50,Aldridge Foul Turnover (P1.T2),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,36,1,1,1,10:16 PM,8:30,,,Morris 24' 3PT Jump Shot (6 PTS) (Brown 1 AST),8 - 5,-3,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,37,2,1,1,10:16 PM,8:04,MISS Aldridge 21' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,38,4,0,1,10:17 PM,8:03,,,Bledsoe REBOUND (Off:0 Def:2),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,39,1,7,1,10:17 PM,7:57,,,Gortat  Dunk (2 PTS) (Bledsoe 2 AST),10 - 5,-5,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,40,2,1,1,10:17 PM,7:36,MISS Lillard 9' Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,41,4,0,1,10:17 PM,7:35,,,Morris REBOUND (Off:0 Def:1),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,42,2,5,1,10:17 PM,7:27,,,MISS Gortat 3' Layup,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,43,4,0,1,10:17 PM,7:24,Lopez REBOUND (Off:0 Def:1),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,44,2,1,1,10:17 PM,7:18,MISS Claver  3PT Jump Shot,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,45,4,0,1,10:17 PM,7:16,,,Gortat REBOUND (Off:1 Def:2),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,46,2,1,1,10:18 PM,6:57,,,MISS Bledsoe 25' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,47,4,0,1,10:18 PM,6:57,Matthews REBOUND (Off:0 Def:2),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,48,9,1,1,10:18 PM,6:53,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,50,8,0,1,10:20 PM,6:53,SUB: Williams FOR Claver,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,51,1,5,1,10:21 PM,6:38,Aldridge  Layup (4 PTS),,,10 - 7,-3,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,52,2,1,1,10:21 PM,6:17,,,MISS Brown 20' Jump Shot,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,53,4,0,1,10:21 PM,6:16,Aldridge REBOUND (Off:0 Def:3),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,54,6,2,1,10:21 PM,6:08,,,Morris S.FOUL (P1.T2),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,55,3,11,1,10:22 PM,6:08,MISS Lillard Free Throw 1 of 2,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,56,4,1,1,10:22 PM,6:08,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,57,8,0,1,10:22 PM,6:08,SUB: Robinson FOR Aldridge,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,58,8,0,1,10:22 PM,6:08,,,SUB: Dragic FOR Brown,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,59,8,0,1,10:22 PM,6:08,,,SUB: Green FOR Morris,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,60,3,12,1,10:22 PM,6:08,Lillard Free Throw 2 of 2 (4 PTS),,,10 - 8,-2,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,62,5,2,1,10:22 PM,5:54,Williams STEAL (1 STL),,Gortat Lost Ball Turnover (P1.T1),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,63,2,5,1,10:22 PM,5:47,MISS Lopez 1' Layup,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,65,4,0,1,10:23 PM,5:43,Robinson REBOUND (Off:1 Def:0),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,64,1,5,1,10:23 PM,5:43,Robinson 2' Layup (2 PTS),,,10 - 10,TIE,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,66,1,1,1,10:23 PM,5:33,,,Dragic 26' 3PT Jump Shot (3 PTS),13 - 10,-3,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,67,5,2,1,10:23 PM,5:18,Lopez Lost Ball Turnover (P1.T3),,Green STEAL (1 STL),,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,68,1,5,1,10:24 PM,5:11,,,Dragic 1' Layup (5 PTS) (Green 1 AST),15 - 10,-5,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,69,6,2,1,10:24 PM,5:00,,,Green S.FOUL (P1.T3),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,70,3,11,1,10:24 PM,5:00,MISS Lopez Free Throw 1 of 2,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,71,4,1,1,10:24 PM,5:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,72,8,0,1,10:24 PM,5:00,SUB: Crabbe FOR Matthews,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,73,8,0,1,10:24 PM,5:00,,,SUB: Plumlee FOR Gortat,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,74,3,12,1,10:24 PM,5:00,MISS Lopez Free Throw 2 of 2,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,76,4,0,1,10:25 PM,4:58,,,Green REBOUND (Off:0 Def:1),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,77,1,46,1,10:25 PM,4:42,,,Morris 11' Running Jump Shot (2 PTS) (Bledsoe 3 AST),17 - 10,-7,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,78,2,1,1,10:25 PM,4:30,MISS Lillard 27' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,79,4,0,1,10:25 PM,4:29,,,Green REBOUND (Off:0 Def:2),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,80,6,1,1,10:25 PM,4:21,Lillard P.FOUL (P1.T3),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,81,8,0,1,10:25 PM,4:21,SUB: Leonard FOR Lopez,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,82,8,0,1,10:25 PM,4:21,SUB: Barton FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,83,1,7,1,10:26 PM,4:17,,,Plumlee 1' Dunk (2 PTS) (Dragic 1 AST),19 - 10,-9,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,84,6,2,1,10:26 PM,4:17,Leonard S.FOUL (P1.T4),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,85,8,0,1,10:26 PM,4:17,,,SUB: Len FOR Morris,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,86,3,10,1,10:26 PM,4:17,,,Plumlee Free Throw 1 of 1 (3 PTS),20 - 10,-10,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,88,5,13,1,10:26 PM,4:03,TRAIL BLAZERS Turnover: Backcourt (T#4),,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300025,89,6,4,1,10:27 PM,3:57,,,Green OFF.Foul (P2),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,90,5,5,1,10:27 PM,3:57,,,Green Foul Turnover (P1.T2),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,91,2,1,1,10:27 PM,3:44,MISS Williams 20' Jump Shot,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,92,4,0,1,10:27 PM,3:43,Crabbe REBOUND (Off:1 Def:0),,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,93,2,1,1,10:27 PM,3:40,MISS Crabbe 11' Jump Shot,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,94,4,0,1,10:27 PM,3:40,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,95,6,3,1,10:27 PM,3:40,,,Len L.B.FOUL (P1.T4),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,98,8,0,1,10:28 PM,3:27,,,SUB: Goodwin FOR Bledsoe,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,99,7,1,1,10:28 PM,3:27,,,Suns Violation: Delay of game Violation,,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300025,289,2,45,1,10:28 PM,3:27,MISS Crabbe 5' Jump Shot,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,290,4,0,1,10:28 PM,3:27,,,Green REBOUND (Off:0 Def:3),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,101,2,1,1,10:29 PM,3:13,,,MISS Green 11' Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,102,4,0,1,10:29 PM,3:12,,,Len REBOUND (Off:1 Def:0),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,103,2,1,1,10:29 PM,3:01,,,MISS Dragic 25' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,104,4,0,1,10:29 PM,3:01,Crabbe REBOUND (Off:1 Def:1),,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,105,6,11,1,10:29 PM,3:01,Leonard T.FOUL (P1.T4),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,106,3,16,1,10:29 PM,3:01,,,MISS Green Free Throw Technical,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,154,4,0,1,10:30 PM,2:56,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,108,2,5,1,10:30 PM,2:56,MISS Williams 2' Layup,,Plumlee BLOCK (1 BLK),,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0
+0011300025,109,4,0,1,10:30 PM,2:55,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,110,9,1,1,10:30 PM,2:55,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,113,2,1,1,10:33 PM,2:44,,,MISS Green 4' Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,114,4,0,1,10:33 PM,2:44,Robinson REBOUND (Off:1 Def:1),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,115,6,3,1,10:33 PM,2:44,,,Goodwin L.B.FOUL (P1.PN),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,117,3,11,1,10:34 PM,2:44,Robinson Free Throw 1 of 2 (3 PTS),,,20 - 11,-9,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,119,3,12,1,10:34 PM,2:44,Robinson Free Throw 2 of 2 (4 PTS),,,20 - 12,-8,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,294,2,45,1,10:34 PM,2:29,,,MISS Green 8' Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,122,4,0,1,10:34 PM,2:29,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,123,6,3,1,10:34 PM,2:29,,,Plumlee L.B.FOUL (P1.PN),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,124,3,11,1,10:34 PM,2:29,MISS Robinson Free Throw 1 of 2,,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,125,4,1,1,10:34 PM,2:29,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,126,3,12,1,10:35 PM,2:29,Robinson Free Throw 2 of 2 (5 PTS),,,20 - 13,-7,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,128,1,1,1,10:35 PM,2:13,,,Dragic 27' 3PT Jump Shot (8 PTS) (Green 2 AST),23 - 13,-10,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,130,6,1,1,10:36 PM,1:55,,,Green P.FOUL (P3.PN),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,132,3,11,1,10:36 PM,1:55,Leonard Free Throw 1 of 2 (1 PTS),,,23 - 14,-9,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,134,3,12,1,10:36 PM,1:55,Leonard Free Throw 2 of 2 (2 PTS),,,23 - 15,-8,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,136,1,5,1,10:37 PM,1:38,,,Dragic 1' Layup (10 PTS) (Goodwin 1 AST),25 - 15,-10,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,137,6,2,1,10:37 PM,1:38,Barton S.FOUL (P1.PN),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,138,8,0,1,10:37 PM,1:38,,,SUB: Tucker FOR Green,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,139,3,10,1,10:37 PM,1:38,,,Dragic Free Throw 1 of 1 (11 PTS),26 - 15,-11,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,141,2,5,1,10:37 PM,1:22,MISS Robinson 2' Layup,,Plumlee BLOCK (2 BLK),,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0
+0011300025,142,4,0,1,10:37 PM,1:18,,,Tucker REBOUND (Off:0 Def:1),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,143,1,3,1,10:38 PM,1:11,,,Plumlee 5' Hook Shot (5 PTS),28 - 15,-13,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,144,1,42,1,10:38 PM,0:49,Crabbe 1' Driving Layup (2 PTS),,,28 - 17,-11,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,145,2,1,1,10:38 PM,0:39,,,MISS Len 7' Jump Shot,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,146,4,0,1,10:38 PM,0:38,Williams REBOUND (Off:0 Def:1),,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,147,1,1,1,10:38 PM,0:32,Crabbe 25' 3PT Jump Shot (5 PTS) (Williams 1 AST),,,28 - 20,-8,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,148,2,1,1,10:39 PM,0:09,,,MISS Tucker 5' Jump Shot,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,149,4,0,1,10:39 PM,0:08,Robinson REBOUND (Off:1 Def:2),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,150,2,1,1,10:39 PM,0:02,MISS Williams 20' Jump Shot,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,151,4,0,1,10:39 PM,0:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,152,13,0,1,10:39 PM,0:00,,End of 1st Period (10:39 PM EST),,28 - 20,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,155,12,0,2,10:42 PM,12:00,,Start of 2nd Period (10:42 PM EST),,28 - 20,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,157,6,1,2,10:42 PM,12:00,,,Len P.FOUL (P2.T1),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,158,1,1,2,10:42 PM,11:41,Lillard 18' Jump Shot (6 PTS),,,28 - 22,-6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,161,2,1,2,10:43 PM,11:25,,,MISS Len 17' Jump Shot,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,162,4,0,2,10:43 PM,11:23,Robinson REBOUND (Off:1 Def:3),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,163,1,5,2,10:43 PM,11:16,Leonard 2' Layup (4 PTS) (Robinson 1 AST),,,28 - 24,-4,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,164,2,5,2,10:43 PM,11:05,Barton BLOCK (1 BLK),,MISS Goodwin 2' Layup,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0
+0011300025,165,4,0,2,10:43 PM,11:03,Robinson REBOUND (Off:1 Def:4),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,166,1,5,2,10:43 PM,10:59,Robinson 1' Layup (7 PTS) (Barton 1 AST),,,28 - 26,-2,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,168,6,1,2,10:44 PM,10:48,Lillard P.FOUL (P2.T1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,170,1,5,2,10:44 PM,10:42,,,Dragic 1' Layup (13 PTS),30 - 26,-4,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,172,6,2,2,10:44 PM,10:42,Leonard S.FOUL (P2.T2),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,173,3,10,2,10:44 PM,10:42,,,Dragic Free Throw 1 of 1 (14 PTS),31 - 26,-5,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,177,1,40,2,10:45 PM,10:16,Lillard 2' Layup (8 PTS),,,31 - 28,-3,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,175,9,1,2,10:45 PM,10:16,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,178,6,16,2,10:48 PM,10:00,,"Double Technical - Robinson, Len",,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,179,6,1,2,10:48 PM,10:00,Lillard P.FOUL (P3.T3),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,180,2,1,2,10:48 PM,9:54,,,MISS Dragic 26' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,181,4,0,2,10:48 PM,9:53,Robinson REBOUND (Off:1 Def:5),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,182,1,1,2,10:49 PM,9:34,Crabbe 16' Jump Shot (7 PTS) (Lillard 1 AST),,,31 - 30,-1,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,183,6,4,2,10:49 PM,9:24,,,Len OFF.Foul (P3),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,184,5,5,2,10:49 PM,9:24,,,Len Foul Turnover (P1.T3),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,185,8,0,2,10:49 PM,9:24,,,SUB: Frye FOR Plumlee,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,186,8,0,2,10:49 PM,9:24,,,SUB: Bledsoe FOR Dragic,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,187,8,0,2,10:49 PM,9:24,,,SUB: Dragic FOR Tucker,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,188,8,0,2,10:50 PM,9:24,,,SUB: Marshall FOR Len,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,189,8,0,2,10:50 PM,9:24,,,SUB: Plumlee FOR Goodwin,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,191,8,0,2,10:50 PM,9:24,,,SUB: Tucker FOR Marshall,,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,190,1,1,2,10:50 PM,9:03,Crabbe 26' 3PT Jump Shot (10 PTS) (Lillard 2 AST),,,31 - 33,2,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,192,1,1,2,10:50 PM,8:41,,,Frye 22' Jump Shot (2 PTS) (Dragic 2 AST),33 - 33,TIE,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,193,6,2,2,10:51 PM,8:20,,,Bledsoe S.FOUL (P1.T2),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,194,3,11,2,10:51 PM,8:20,Lillard Free Throw 1 of 2 (9 PTS),,,33 - 34,1,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,197,3,12,2,10:51 PM,8:20,Lillard Free Throw 2 of 2 (10 PTS),,,33 - 35,2,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,199,1,5,2,10:52 PM,8:07,,,Tucker 1' Layup (2 PTS) (Dragic 3 AST),35 - 35,TIE,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,201,6,4,2,10:52 PM,7:55,Leonard OFF.Foul (P3),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,202,5,5,2,10:52 PM,7:55,Leonard Foul Turnover (P1.T5),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,203,8,0,2,10:52 PM,7:52,SUB: Claver FOR Robinson,,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,204,8,0,2,10:52 PM,7:52,SUB: Freeland FOR Crabbe,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,205,2,1,2,10:52 PM,7:42,,,MISS Plumlee 16' Jump Shot,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,206,4,0,2,10:52 PM,7:41,Claver REBOUND (Off:0 Def:2),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,207,1,1,2,10:52 PM,7:35,Barton 10' Jump Shot (2 PTS),,,35 - 37,2,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,208,6,2,2,10:52 PM,7:35,,,Dragic S.FOUL (P1.T3),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,209,8,0,2,10:53 PM,7:35,,,SUB: Morris FOR Dragic,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,210,3,10,2,10:53 PM,7:35,Barton Free Throw 1 of 1 (3 PTS),,,35 - 38,3,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,212,6,1,2,10:54 PM,7:25,Lillard P.FOUL (P4.T4),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,213,8,0,2,10:54 PM,7:25,SUB: Crabbe FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,214,8,0,2,10:54 PM,7:25,SUB: Williams FOR Leonard,,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,215,1,1,2,10:54 PM,7:16,,,Bledsoe 19' Jump Shot (2 PTS),37 - 38,1,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,216,1,1,2,10:54 PM,6:55,Barton 22' Jump Shot (5 PTS),,,37 - 40,3,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,217,1,42,2,10:55 PM,6:41,,,Bledsoe 1' Driving Layup (4 PTS),39 - 40,1,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,218,9,1,2,10:55 PM,6:40,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,220,8,0,2,10:57 PM,6:40,SUB: Matthews FOR Crabbe,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,221,1,3,2,10:57 PM,6:20,Freeland 8' Hook Shot (2 PTS),,,39 - 42,3,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,222,1,1,2,10:58 PM,5:58,,,Frye 20' Jump Shot (4 PTS) (Bledsoe 4 AST),41 - 42,1,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,223,6,1,2,10:58 PM,5:41,,,Tucker P.FOUL (P1.T4),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,224,8,0,2,10:58 PM,5:41,,,SUB: Gortat FOR Plumlee,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,225,8,0,2,10:58 PM,5:41,SUB: Robinson FOR Claver,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,226,6,2,2,10:59 PM,5:34,,,Tucker S.FOUL (P2.PN),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,227,3,11,2,10:59 PM,5:34,Matthews Free Throw 1 of 2 (1 PTS),,,41 - 43,2,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,229,3,12,2,10:59 PM,5:34,Matthews Free Throw 2 of 2 (2 PTS),,,41 - 44,3,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,231,2,1,2,10:59 PM,5:13,,,MISS Bledsoe 25' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,232,4,0,2,10:59 PM,5:12,Barton REBOUND (Off:0 Def:1),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,233,1,46,2,11:00 PM,5:00,Williams 8' Running Jump Shot (2 PTS),,,41 - 46,5,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,234,1,1,2,11:00 PM,4:40,,,Frye 25' 3PT Jump Shot (7 PTS) (Morris 1 AST),44 - 46,2,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,235,5,2,2,11:00 PM,4:21,Robinson Lost Ball Turnover (P1.T6),,Bledsoe STEAL (2 STL),,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,236,2,5,2,11:00 PM,4:16,,,MISS Bledsoe 1' Layup,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,238,4,0,2,11:00 PM,4:16,,,Morris REBOUND (Off:1 Def:1),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,237,1,72,2,11:00 PM,4:16,,,Morris 3' Putback Layup (8 PTS),46 - 46,TIE,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,239,9,2,2,11:01 PM,4:16,TRAIL BLAZERS Timeout: Short (Full 2 Short 1),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,241,8,0,2,11:01 PM,4:16,,,SUB: Brown FOR Tucker,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,242,5,1,2,11:02 PM,4:07,Williams Bad Pass Turnover (P1.T7),,Frye STEAL (1 STL),,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,243,1,1,2,11:02 PM,4:01,,,Bledsoe 12' Jump Shot (6 PTS),48 - 46,-2,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,244,5,40,2,11:02 PM,3:42,Freeland Out of Bounds Lost Ball Turnover (P1.T8),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,245,2,1,2,11:02 PM,3:25,,,MISS Frye 26' 3PT Jump Shot,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,246,4,0,2,11:03 PM,3:24,Matthews REBOUND (Off:0 Def:3),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,247,2,1,2,11:03 PM,3:11,MISS Robinson 6' Jump Shot,,Gortat BLOCK (1 BLK),,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0
+0011300025,248,4,0,2,11:03 PM,3:09,,,Bledsoe REBOUND (Off:0 Def:3),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,249,1,1,2,11:03 PM,3:04,,,Morris  3PT Jump Shot (11 PTS) (Bledsoe 5 AST),51 - 46,-5,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,250,6,11,2,11:03 PM,3:04,Robinson T.FOUL (P0.T4),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,251,3,16,2,11:03 PM,3:04,,,Brown Free Throw Technical (3 PTS),52 - 46,-6,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,253,8,0,2,11:04 PM,3:04,SUB: Lopez FOR Robinson,,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,254,1,1,2,11:04 PM,2:51,Williams 25' 3PT Jump Shot (5 PTS) (Matthews 1 AST),,,52 - 49,-3,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,255,6,4,2,11:04 PM,2:48,,,Gortat OFF.Foul (P1),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,256,5,5,2,11:04 PM,2:48,,,Gortat Foul Turnover (P2.T4),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,257,9,4,2,11:04 PM,2:48,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,259,8,0,2,11:06 PM,2:48,SUB: Crabbe FOR Barton,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,260,1,47,2,11:07 PM,2:25,Freeland 10' Turnaround Jump Shot (4 PTS) (Matthews 2 AST),,,52 - 51,-1,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,261,6,1,2,11:08 PM,2:15,Matthews P.FOUL (P1.PN),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,262,3,11,2,11:08 PM,2:15,,,MISS Morris Free Throw 1 of 2,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,263,4,1,2,11:08 PM,2:15,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,264,3,12,2,11:08 PM,2:15,,,MISS Morris Free Throw 2 of 2,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,266,4,0,2,11:08 PM,2:14,Freeland REBOUND (Off:0 Def:1),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,268,2,1,2,11:09 PM,1:56,MISS Freeland 19' Jump Shot,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,269,4,0,2,11:09 PM,1:55,,,Bledsoe REBOUND (Off:0 Def:4),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,270,1,1,2,11:09 PM,1:35,,,Morris 6' Jump Shot (13 PTS) (Frye 1 AST),54 - 51,-3,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,272,5,40,2,11:10 PM,1:14,Williams Out of Bounds Lost Ball Turnover (P2.T9),,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,273,8,0,2,11:10 PM,1:14,,,SUB: Morris FOR Frye,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,274,1,1,2,11:10 PM,1:00,,,Gortat 19' Jump Shot (4 PTS) (Bledsoe 6 AST),56 - 51,-5,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,275,2,1,2,11:10 PM,0:48,MISS Crabbe 27' 3PT Jump Shot,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,285,4,0,2,11:10 PM,0:47,,,Brown REBOUND (Off:0 Def:2),,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,286,5,40,2,11:10 PM,0:47,,,Brown Out of Bounds Lost Ball Turnover (P1.T5),,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,278,2,1,2,11:11 PM,0:31,MISS Williams 25' 3PT Jump Shot,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,279,4,0,2,11:11 PM,0:28,,,Morris REBOUND (Off:1 Def:2),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,280,2,1,2,11:11 PM,0:09,,,MISS Bledsoe 26' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,281,4,0,2,11:11 PM,0:08,Lopez REBOUND (Off:0 Def:2),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,282,5,1,2,11:11 PM,0:01,Williams Bad Pass Turnover (P3.T10),,Bledsoe STEAL (3 STL),,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,283,13,0,2,11:12 PM,0:00,,End of 2nd Period (11:12 PM EST),,56 - 51,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,291,12,0,3,11:27 PM,12:00,,Start of 3rd Period (11:27 PM EST),,56 - 51,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,293,1,1,3,11:28 PM,11:21,Aldridge 22' Jump Shot (6 PTS) (Lillard 3 AST),,,56 - 53,-3,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,295,2,1,3,11:28 PM,11:15,,,MISS Brown 14' Jump Shot,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,296,4,0,3,11:28 PM,11:15,Aldridge REBOUND (Off:0 Def:4),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,297,1,1,3,11:28 PM,11:09,Aldridge 15' Jump Shot (8 PTS) (Lillard 4 AST),,,56 - 55,-1,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,298,2,1,3,11:29 PM,10:53,,,MISS Morris 16' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,300,4,0,3,11:29 PM,10:51,Lillard REBOUND (Off:0 Def:1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,301,2,1,3,11:29 PM,10:43,MISS Aldridge 19' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,302,4,0,3,11:29 PM,10:42,,,Brown REBOUND (Off:0 Def:3),,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,303,1,44,3,11:29 PM,10:29,,,Morris  Reverse Layup (4 PTS),58 - 55,-3,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,304,2,1,3,11:29 PM,10:08,MISS Matthews 24' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,305,4,0,3,11:29 PM,10:08,,,Morris REBOUND (Off:1 Def:3),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,307,1,1,3,11:30 PM,9:59,,,Morris 20' Jump Shot (6 PTS) (Bledsoe 7 AST),60 - 55,-5,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,309,2,1,3,11:30 PM,9:39,MISS Lillard 27' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,310,4,0,3,11:30 PM,9:38,,,Gortat REBOUND (Off:1 Def:3),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,312,2,1,3,11:30 PM,9:27,,,MISS Bledsoe 25' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,313,4,0,3,11:30 PM,9:26,Matthews REBOUND (Off:0 Def:4),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,314,5,1,3,11:30 PM,9:18,Claver Bad Pass Turnover (P1.T11),,Bledsoe STEAL (4 STL),,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,316,1,1,3,11:31 PM,9:10,,,Brown 18' Jump Shot (5 PTS) (Morris 2 AST),62 - 55,-7,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,317,2,1,3,11:31 PM,8:54,MISS Lillard 25' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,318,4,0,3,11:31 PM,8:54,,,Gortat REBOUND (Off:1 Def:4),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,319,6,2,3,11:31 PM,8:48,Aldridge S.FOUL (P2.T1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,321,6,16,3,11:32 PM,8:48,,"Double Technical - Aldridge, Morris",,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,322,3,11,3,11:32 PM,8:48,,,MISS Gortat Free Throw 1 of 2,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,323,4,1,3,11:32 PM,8:48,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,324,3,12,3,11:33 PM,8:48,,,Gortat Free Throw 2 of 2 (5 PTS),63 - 55,-8,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,326,6,1,3,11:33 PM,8:40,,,Morris P.FOUL (P2.T1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,327,6,4,3,11:33 PM,8:35,Aldridge OFF.Foul (P3),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,328,5,5,3,11:33 PM,8:35,Aldridge Foul Turnover (P2.T12),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,329,2,1,3,11:34 PM,8:15,,,MISS Gortat 13' Jump Shot,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,330,4,0,3,11:34 PM,8:13,Aldridge REBOUND (Off:0 Def:5),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,331,5,1,3,11:34 PM,8:05,Lillard Bad Pass Turnover (P2.T13),,Brown STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,332,6,2,3,11:34 PM,8:02,Lillard S.FOUL (P5.T2),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,333,3,11,3,11:34 PM,8:02,,,Brown Free Throw 1 of 2 (6 PTS),64 - 55,-9,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,335,3,12,3,11:35 PM,8:02,,,Brown Free Throw 2 of 2 (7 PTS),65 - 55,-10,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,337,1,3,3,11:35 PM,7:45,Aldridge 4' Hook Shot (10 PTS),,,65 - 57,-8,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,338,1,5,3,11:35 PM,7:35,,,Gortat 2' Layup (7 PTS) (Bledsoe 8 AST),67 - 57,-10,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,339,6,2,3,11:35 PM,7:35,Claver S.FOUL (P3.T3),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,340,3,10,3,11:36 PM,7:35,,,Gortat Free Throw 1 of 1 (8 PTS),68 - 57,-11,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,342,2,5,3,11:36 PM,7:18,MISS Aldridge 3' Layup,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,343,4,0,3,11:36 PM,7:17,,,Morris REBOUND (Off:1 Def:1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,344,1,1,3,11:36 PM,7:10,,,Morris 26' 3PT Jump Shot (9 PTS) (Bledsoe 9 AST),71 - 57,-14,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,345,6,2,3,11:37 PM,6:45,,,Morris S.FOUL (P3.T2),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,346,3,11,3,11:37 PM,6:45,MISS Lillard Free Throw 1 of 2,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,347,4,1,3,11:37 PM,6:45,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,348,3,12,3,11:37 PM,6:45,MISS Lillard Free Throw 2 of 2,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,350,4,0,3,11:37 PM,6:44,,,Gortat REBOUND (Off:1 Def:5),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,351,2,1,3,11:37 PM,6:34,,,MISS Morris 19' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,352,4,0,3,11:37 PM,6:33,Claver REBOUND (Off:0 Def:3),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,353,5,1,3,11:38 PM,6:23,Lillard Bad Pass Turnover (P3.T14),,Morris STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,354,6,2,3,11:38 PM,6:23,Matthews S.FOUL (P2.T4),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,355,9,1,3,11:38 PM,6:23,TRAIL BLAZERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,357,3,11,3,11:41 PM,6:23,,,Brown Free Throw 1 of 2 (8 PTS),72 - 57,-15,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,359,3,12,3,11:41 PM,6:23,,,Brown Free Throw 2 of 2 (9 PTS),73 - 57,-16,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,361,2,1,3,11:41 PM,6:00,MISS Lillard 26' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,362,4,0,3,11:41 PM,5:57,Matthews REBOUND (Off:1 Def:4),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,363,1,1,3,11:41 PM,5:52,Lopez 17' Jump Shot (2 PTS) (Matthews 3 AST),,,73 - 59,-14,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,364,2,1,3,11:42 PM,5:27,,,MISS Morris 14' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,365,4,0,3,11:42 PM,5:26,Claver REBOUND (Off:0 Def:4),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,367,2,1,3,11:42 PM,5:10,MISS Aldridge 11' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,368,4,0,3,11:42 PM,5:08,,,Bledsoe REBOUND (Off:0 Def:5),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,369,2,1,3,11:42 PM,5:04,,,MISS Bledsoe 6' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,370,4,0,3,11:42 PM,5:02,Aldridge REBOUND (Off:0 Def:6),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,372,8,0,3,11:43 PM,4:51,,,SUB: Dragic FOR Gortat,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,373,8,0,3,11:43 PM,4:51,,,SUB: Len FOR Bledsoe,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,374,8,0,3,11:43 PM,4:51,SUB: Freeland FOR Aldridge,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,375,2,1,3,11:43 PM,4:44,MISS Lillard 22' Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,376,4,0,3,11:43 PM,4:44,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,377,6,3,3,11:43 PM,4:44,,,Len L.B.FOUL (P4.T3),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,378,8,0,3,11:43 PM,4:44,SUB: Williams FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,379,1,42,3,11:44 PM,4:38,Williams 2' Driving Layup (7 PTS),,,73 - 61,-12,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,380,6,2,3,11:44 PM,4:38,,,Morris S.FOUL (P4.T4),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,381,8,0,3,11:44 PM,4:38,SUB: Crabbe FOR Claver,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,382,3,10,3,11:44 PM,4:38,Williams Free Throw 1 of 1 (8 PTS),,,73 - 62,-11,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,384,2,1,3,11:44 PM,4:23,,,MISS Morris 16' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,385,4,0,3,11:44 PM,4:23,Williams REBOUND (Off:0 Def:2),,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,386,6,2,3,11:45 PM,4:19,,,Dragic S.FOUL (P2.PN),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,387,3,11,3,11:45 PM,4:19,Williams Free Throw 1 of 2 (9 PTS),,,73 - 63,-10,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,389,3,12,3,11:45 PM,4:19,MISS Williams Free Throw 2 of 2,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,391,4,0,3,11:45 PM,4:17,,,Morris REBOUND (Off:1 Def:2),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,392,5,2,3,11:45 PM,4:03,Crabbe STEAL (1 STL),,Morris Lost Ball Turnover (P1.T6),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,394,1,7,3,11:46 PM,3:44,Freeland 2' Dunk (6 PTS) (Lopez 1 AST),,,73 - 65,-8,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,395,1,1,3,11:46 PM,3:29,,,Dragic 15' Jump Shot (16 PTS),75 - 65,-10,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,396,2,1,3,11:47 PM,3:12,MISS Crabbe 25' 3PT Jump Shot,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,397,4,0,3,11:47 PM,3:12,,,Morris REBOUND (Off:1 Def:4),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,398,6,27,3,11:47 PM,3:06,Crabbe Personal Block Foul (P1.PN),,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,399,3,11,3,11:47 PM,3:06,,,MISS Dragic Free Throw 1 of 2,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,400,4,1,3,11:47 PM,3:06,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,401,8,0,3,11:47 PM,3:06,,,SUB: Green FOR Morris,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,402,3,12,3,11:48 PM,3:06,,,Dragic Free Throw 2 of 2 (17 PTS),76 - 65,-11,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,404,5,4,3,11:48 PM,2:50,Lopez Traveling Turnover (P2.T15),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,405,9,1,3,11:48 PM,2:50,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,407,8,0,3,11:51 PM,2:50,,,SUB: Frye FOR Morris,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,408,8,0,3,11:51 PM,2:50,SUB: Leonard FOR Lopez,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,409,6,1,3,11:51 PM,2:42,Leonard P.FOUL (P4.PN),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,410,3,11,3,11:51 PM,2:42,,,Frye Free Throw 1 of 2 (8 PTS),77 - 65,-12,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,412,3,12,3,11:52 PM,2:42,,,MISS Frye Free Throw 2 of 2,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,414,4,0,3,11:52 PM,2:41,Freeland REBOUND (Off:0 Def:2),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,415,2,1,3,11:52 PM,2:26,MISS Williams 20' Jump Shot,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,416,4,0,3,11:52 PM,2:25,,,Green REBOUND (Off:0 Def:4),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,417,2,1,3,11:52 PM,2:18,,,MISS Green 17' Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,418,4,0,3,11:52 PM,2:17,,,Dragic REBOUND (Off:1 Def:0),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,419,2,1,3,11:52 PM,1:56,,,MISS Brown 16' Jump Shot,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,420,4,0,3,11:53 PM,1:55,Leonard REBOUND (Off:0 Def:1),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,421,6,2,3,11:53 PM,1:48,,,Brown S.FOUL (P1.PN),,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,422,3,11,3,11:53 PM,1:48,Matthews Free Throw 1 of 2 (3 PTS),,,77 - 66,-11,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,424,3,12,3,11:53 PM,1:48,Matthews Free Throw 2 of 2 (4 PTS),,,77 - 67,-10,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,426,5,1,3,11:53 PM,1:36,Matthews STEAL (1 STL),,Dragic Bad Pass Turnover (P1.T7),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,427,5,41,3,11:54 PM,1:33,Williams Poss Lost Ball Turnover (P4.T16),,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,428,1,1,3,11:54 PM,1:18,,,Dragic 17' Jump Shot (19 PTS),79 - 67,-12,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,429,5,4,3,11:54 PM,1:00,Williams Traveling Turnover (P5.T17),,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011300025,430,8,0,3,11:54 PM,1:00,,,SUB: Goodwin FOR Brown,,,5,200769,Shannon Brown,1610612756.0,Phoenix,Suns,PHX,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,431,6,1,3,11:55 PM,0:49,Crabbe P.FOUL (P2.PN),,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,432,3,11,3,11:55 PM,0:49,,,Goodwin Free Throw 1 of 2 (1 PTS),80 - 67,-13,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,434,3,12,3,11:55 PM,0:49,,,MISS Goodwin Free Throw 2 of 2,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,436,4,0,3,11:55 PM,0:47,Freeland REBOUND (Off:0 Def:3),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,437,2,1,3,11:56 PM,0:29,MISS Freeland 6' Jump Shot,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,438,4,0,3,11:56 PM,0:27,,,Len REBOUND (Off:1 Def:1),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,439,1,1,3,11:56 PM,0:06,,,Frye 27' 3PT Jump Shot (11 PTS) (Dragic 4 AST),83 - 67,-16,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,441,2,5,3,11:57 PM,0:00,MISS Freeland  Layup,,Green BLOCK (1 BLK),,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0
+0011300025,442,4,0,3,11:57 PM,0:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,443,13,0,3,11:57 PM,0:00,,End of 3rd Period (11:57 PM EST),,83 - 67,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,445,12,0,4,12:00 AM,12:00,,Start of 4th Period (12:00 AM EST),,83 - 67,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,446,5,40,4,12:00 AM,11:41,,,Frye Out of Bounds Lost Ball Turnover (P1.T8),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,447,6,1,4,12:00 AM,11:32,,,Frye P.FOUL (P1.T1),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,448,5,40,4,12:01 AM,11:22,Leonard Out of Bounds Lost Ball Turnover (P2.T18),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,449,1,1,4,12:01 AM,11:12,,,Green 21' Jump Shot (2 PTS),85 - 67,-18,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,450,6,1,4,12:01 AM,11:01,,,Frye P.FOUL (P2.T2),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,451,8,0,4,12:02 AM,11:01,SUB: Lillard FOR Crabbe,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,452,1,1,4,12:02 AM,10:53,Leonard 5' Jump Shot (6 PTS) (Williams 2 AST),,,85 - 69,-16,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,453,1,1,4,12:02 AM,10:39,,,Green 6' Jump Shot (4 PTS),87 - 69,-18,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,454,6,2,4,12:02 AM,10:25,,,Green S.FOUL (P4.T3),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,455,3,11,4,12:03 AM,10:25,MISS Claver Free Throw 1 of 2,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,456,4,1,4,12:03 AM,10:25,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,457,3,12,4,12:03 AM,10:25,Claver Free Throw 2 of 2 (1 PTS),,,87 - 70,-17,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,459,1,42,4,12:03 AM,10:09,,,Goodwin 1' Driving Layup (3 PTS),89 - 70,-19,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,460,1,1,4,12:03 AM,10:02,Barton 24' 3PT Jump Shot (8 PTS) (Williams 3 AST),,,89 - 73,-16,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,461,1,1,4,12:03 AM,9:54,,,Frye 25' 3PT Jump Shot (14 PTS) (Dragic 5 AST),92 - 73,-19,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,462,1,1,4,12:04 AM,9:43,Lillard 26' 3PT Jump Shot (13 PTS) (Williams 4 AST),,,92 - 76,-16,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,463,6,2,4,12:04 AM,9:35,Leonard S.FOUL (P5.T1),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,464,3,11,4,12:04 AM,9:35,,,MISS Goodwin Free Throw 1 of 2,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,465,4,1,4,12:04 AM,9:35,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,466,8,0,4,12:04 AM,9:35,,,SUB: Marshall FOR Dragic,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,467,8,0,4,12:04 AM,9:35,,,SUB: Plumlee FOR Len,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,468,3,12,4,12:04 AM,9:35,,,Goodwin Free Throw 2 of 2 (4 PTS),93 - 76,-17,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,470,6,27,4,12:05 AM,9:15,,,Green Personal Block Foul (P5.T4),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,471,2,1,4,12:05 AM,9:03,MISS Lillard 20' Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,472,4,0,4,12:05 AM,9:03,,,Plumlee REBOUND (Off:0 Def:1),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,473,1,1,4,12:05 AM,8:53,,,Goodwin 12' Jump Shot (6 PTS),95 - 76,-19,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,474,1,52,4,12:06 AM,8:41,Lillard 1' Alley Oop Dunk (15 PTS) (Williams 5 AST),,,95 - 78,-17,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,475,5,1,4,12:06 AM,8:34,Barton STEAL (1 STL),,Marshall Bad Pass Turnover (P1.T9),,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,476,2,1,4,12:06 AM,8:26,MISS Lillard 25' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,477,4,0,4,12:06 AM,8:25,,,Frye REBOUND (Off:0 Def:1),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,478,5,4,4,12:06 AM,8:12,,,Plumlee Traveling Turnover (P1.T10),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,479,9,4,4,12:06 AM,8:12,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,481,1,52,4,12:09 AM,8:03,Leonard 1' Alley Oop Dunk (8 PTS) (Williams 6 AST),,,95 - 80,-15,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,482,2,1,4,12:09 AM,7:48,,,MISS Plumlee 12' Jump Shot,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,483,4,0,4,12:09 AM,7:46,Barton REBOUND (Off:0 Def:2),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,484,2,1,4,12:09 AM,7:34,MISS Williams 9' Jump Shot,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,485,4,0,4,12:09 AM,7:33,Claver REBOUND (Off:1 Def:4),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,486,1,1,4,12:09 AM,7:28,Lillard 16' Jump Shot (17 PTS) (Leonard 1 AST),,,95 - 82,-13,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,487,6,2,4,12:10 AM,7:24,Leonard S.FOUL (P6.T2),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,488,8,0,4,12:10 AM,7:24,SUB: Freeland FOR Leonard,,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,489,3,11,4,12:10 AM,7:24,,,Green Free Throw 1 of 2 (5 PTS),96 - 82,-14,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,491,3,12,4,12:10 AM,7:24,,,Green Free Throw 2 of 2 (6 PTS),97 - 82,-15,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,493,1,42,4,12:11 AM,7:08,Lillard 1' Driving Layup (19 PTS),,,97 - 84,-13,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,494,6,4,4,12:11 AM,6:53,,,Green OFF.Foul (P6),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,495,5,5,4,12:11 AM,6:53,,,Green Foul Turnover (P2.T11),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,496,8,0,4,12:11 AM,6:53,,,SUB: Tucker FOR Frye,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,497,8,0,4,12:11 AM,6:53,,,SUB: Morris FOR Green,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,498,2,1,4,12:12 AM,6:40,MISS Claver 24' 3PT Jump Shot,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,499,4,0,4,12:12 AM,6:39,,,Marshall REBOUND (Off:0 Def:1),,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,500,1,3,4,12:12 AM,6:24,,,Plumlee 6' Hook Shot (7 PTS),99 - 84,-15,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,501,2,1,4,12:12 AM,6:10,MISS Williams 26' 3PT Jump Shot,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,502,4,0,4,12:12 AM,6:09,Freeland REBOUND (Off:1 Def:3),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,503,1,1,4,12:13 AM,5:54,Barton 24' 3PT Jump Shot (11 PTS) (Williams 7 AST),,,99 - 87,-12,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,504,6,1,4,12:13 AM,5:31,Barton P.FOUL (P2.T3),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,505,9,1,4,12:13 AM,5:31,TRAIL BLAZERS Timeout: Regular (Full 4 Short 1),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,507,8,0,4,12:15 AM,5:31,SUB: Bost FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,203551,Dee Bost,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,508,8,0,4,12:15 AM,5:31,SUB: Crabbe FOR Williams,,,,,4,2590,Mo Williams,1610612757.0,Portland,Trail Blazers,POR,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,509,2,1,4,12:16 AM,5:17,Barton BLOCK (2 BLK),,MISS Tucker 7' Jump Shot,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0
+0011300025,510,4,0,4,12:16 AM,5:17,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,511,5,11,4,12:16 AM,5:17,,,Suns Turnover: Shot Clock (T#12),,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300025,512,6,1,4,12:16 AM,5:03,,,Morris P.FOUL (P2.PN),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,513,3,11,4,12:17 AM,5:03,Claver Free Throw 1 of 2 (2 PTS),,,99 - 88,-11,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,515,3,12,4,12:17 AM,5:03,MISS Claver Free Throw 2 of 2,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,517,4,0,4,12:17 AM,5:01,,,Tucker REBOUND (Off:0 Def:2),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,518,5,4,4,12:17 AM,4:42,,,Marshall Traveling Turnover (P2.T13),,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,519,1,5,4,12:18 AM,4:30,Crabbe 1' Layup (12 PTS) (Barton 2 AST),,,99 - 90,-9,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,520,7,2,4,12:18 AM,4:30,,,Plumlee Violation:Defensive Goaltending,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300025,521,2,1,4,12:18 AM,4:11,,,MISS Plumlee 8' Jump Shot,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,522,4,0,4,12:18 AM,4:11,,,Tucker REBOUND (Off:1 Def:2),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,523,6,1,4,12:18 AM,4:10,Claver P.FOUL (P4.T4),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,525,3,11,4,12:19 AM,4:10,,,MISS Tucker Free Throw 1 of 2,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,526,4,1,4,12:19 AM,4:10,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,527,3,12,4,12:19 AM,4:10,,,Tucker Free Throw 2 of 2 (3 PTS),100 - 90,-10,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,532,2,45,4,12:19 AM,3:56,MISS Freeland 6' Jump Shot,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,530,4,0,4,12:19 AM,3:56,,,Morris REBOUND (Off:1 Def:5),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,531,2,1,4,12:19 AM,3:40,,,MISS Morris 8' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,533,4,0,4,12:19 AM,3:38,Claver REBOUND (Off:1 Def:5),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,534,1,1,4,12:20 AM,3:30,Barton 6' Jump Shot (13 PTS) (Bost 1 AST),,,100 - 92,-8,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,4,203551,Dee Bost,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,535,5,40,4,12:20 AM,3:20,,,Tucker Out of Bounds Lost Ball Turnover (P1.T14),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,537,1,1,4,12:20 AM,3:07,Crabbe 14' Jump Shot (14 PTS) (Bost 2 AST),,,100 - 94,-6,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,203551,Dee Bost,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011300025,539,9,1,4,12:20 AM,3:06,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,541,6,1,4,12:23 AM,2:54,Claver P.FOUL (P5.PN),,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,542,3,11,4,12:23 AM,2:54,,,MISS Morris Free Throw 1 of 2,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,543,4,1,4,12:23 AM,2:54,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,544,3,12,4,12:23 AM,2:54,,,Morris Free Throw 2 of 2 (14 PTS),101 - 94,-7,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,546,1,8,4,12:24 AM,2:43,Freeland 1' Slam Dunk (8 PTS),,,101 - 96,-5,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,547,6,2,4,12:24 AM,2:43,,,Plumlee S.FOUL (P2.PN),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,548,3,10,4,12:24 AM,2:43,Freeland Free Throw 1 of 1 (9 PTS),,,101 - 97,-4,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,550,2,1,4,12:24 AM,2:28,,,MISS Morris 26' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,551,4,0,4,12:24 AM,2:26,,,Tucker REBOUND (Off:2 Def:2),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,552,2,1,4,12:25 AM,2:09,,,MISS Goodwin 9' Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,553,4,0,4,12:25 AM,2:08,,,Tucker REBOUND (Off:3 Def:2),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,554,2,1,4,12:25 AM,2:05,,,MISS Tucker 6' Jump Shot,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,555,4,0,4,12:25 AM,2:03,Freeland REBOUND (Off:1 Def:4),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,556,2,5,4,12:25 AM,1:51,MISS Barton 1' Layup,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,557,4,0,4,12:25 AM,1:50,,,Plumlee REBOUND (Off:0 Def:2),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,558,1,1,4,12:25 AM,1:35,,,Plumlee 8' Jump Shot (9 PTS) (Marshall 1 AST),103 - 97,-6,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300025,559,2,1,4,12:26 AM,1:23,MISS Claver 26' 3PT Jump Shot,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,560,4,0,4,12:26 AM,1:23,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,561,9,1,4,12:26 AM,1:23,TRAIL BLAZERS Timeout: Regular (Full 5 Short 1),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,563,2,1,4,12:28 AM,1:19,MISS Crabbe 17' Jump Shot,,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,564,4,0,4,12:28 AM,1:18,,,Morris REBOUND (Off:1 Def:6),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,565,2,1,4,12:28 AM,1:02,,,MISS Morris 19' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,566,4,0,4,12:28 AM,1:01,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,567,2,1,4,12:28 AM,0:44,Freeland BLOCK (1 BLK),,MISS Plumlee 9' Jump Shot,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0
+0011300025,568,4,0,4,12:28 AM,0:43,,,Plumlee REBOUND (Off:1 Def:2),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,569,2,1,4,12:29 AM,0:37,,,MISS Plumlee 7' Jump Shot,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,570,4,0,4,12:29 AM,0:37,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,571,6,3,4,12:29 AM,0:37,,,Tucker L.B.FOUL (P3.PN),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011300025,572,3,11,4,12:29 AM,0:37,Claver Free Throw 1 of 2 (3 PTS),,,103 - 98,-5,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,574,3,12,4,12:29 AM,0:37,MISS Claver Free Throw 2 of 2,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,576,4,0,4,12:30 AM,0:35,,,Plumlee REBOUND (Off:1 Def:3),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,577,6,28,4,12:30 AM,0:27,Crabbe Personal Take Foul (P3.PN),,,,,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300025,578,3,11,4,12:30 AM,0:27,,,MISS Morris Free Throw 1 of 2,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,579,4,1,4,12:30 AM,0:27,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,580,3,12,4,12:30 AM,0:27,,,Morris Free Throw 2 of 2 (15 PTS),104 - 98,-6,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,582,9,2,4,12:30 AM,0:27,TRAIL BLAZERS Timeout: Short (Full 5 Short 2),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300025,584,2,1,4,12:32 AM,0:20,MISS Claver 27' 3PT Jump Shot,,,,,4,201964,Victor Claver,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011300025,585,4,0,4,12:32 AM,0:19,,,Tucker REBOUND (Off:3 Def:3),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300025,587,13,0,4,12:32 AM,0:00,,End of 4th Period (12:32 AM EST),,104 - 98,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

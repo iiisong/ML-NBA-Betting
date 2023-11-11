@@ -1,0 +1,513 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300047,0,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,1,10,0,1,7:11 PM,12:00,Jump Ball Hawes vs. Lopez: Tip to Carter-Williams,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0
+0011300047,3,2,1,1,7:11 PM,11:38,MISS Hawes 17' Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,4,4,0,1,7:11 PM,11:36,,,Anderson REBOUND (Off:0 Def:1),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,5,2,1,1,7:12 PM,11:28,,,MISS Garnett 15' Jump Shot,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,6,4,0,1,7:12 PM,11:27,,,Livingston REBOUND (Off:1 Def:0),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,7,1,42,1,7:12 PM,11:12,,,Lopez 3' Driving Layup (2 PTS) (Johnson 1 AST),2 - 0,-2,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,8,6,2,1,7:12 PM,11:12,Hawes S.FOUL (P1.T1),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,9,3,10,1,7:12 PM,11:12,,,Lopez Free Throw 1 of 1 (3 PTS),3 - 0,-3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,11,6,1,1,7:13 PM,10:59,,,Livingston P.FOUL (P1.T1),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,12,2,1,1,7:13 PM,10:48,MISS Hawes 13' Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,13,4,0,1,7:13 PM,10:46,,,Livingston REBOUND (Off:1 Def:1),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,14,1,79,1,7:14 PM,10:36,,,Livingston 11' Pullup Jump Shot (2 PTS) (Garnett 1 AST),5 - 0,-5,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,15,2,78,1,7:14 PM,10:23,MISS Anderson 8' Floating Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,16,4,0,1,7:14 PM,10:21,,,Livingston REBOUND (Off:1 Def:2),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,17,2,1,1,7:14 PM,10:12,,,MISS Lopez 12' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,18,4,0,1,7:14 PM,10:10,,,Livingston REBOUND (Off:2 Def:2),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,19,1,79,1,7:14 PM,9:58,,,Anderson 19' Pullup Jump Shot (2 PTS) (Johnson 2 AST),7 - 0,-7,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,20,1,79,1,7:14 PM,9:41,Turner 18' Pullup Jump Shot (2 PTS) (Young 1 AST),,,7 - 2,-5,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,21,6,1,1,7:15 PM,9:34,Carter-Williams P.FOUL (P1.T2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,22,2,1,1,7:15 PM,9:26,,,MISS Anderson 25' 3PT Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,23,4,0,1,7:15 PM,9:24,Anderson REBOUND (Off:0 Def:1),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,24,6,2,1,7:15 PM,9:14,,,Anderson S.FOUL (P1.T2),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,25,3,11,1,7:16 PM,9:14,Turner Free Throw 1 of 2 (3 PTS),,,7 - 3,-4,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,27,3,12,1,7:16 PM,9:14,Turner Free Throw 2 of 2 (4 PTS),,,7 - 4,-3,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,29,2,1,1,7:16 PM,9:02,,,MISS Johnson 26' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,30,4,0,1,7:16 PM,9:00,Young REBOUND (Off:0 Def:1),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,31,2,1,1,7:16 PM,8:50,MISS Carter-Williams 26' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,32,4,0,1,7:16 PM,8:48,,,Garnett REBOUND (Off:0 Def:1),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,33,1,42,1,7:17 PM,8:34,,,Lopez 2' Driving Layup (5 PTS),9 - 4,-5,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,34,6,2,1,7:17 PM,8:30,,,Garnett S.FOUL (P1.T3),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,35,3,11,1,7:17 PM,8:30,Anderson Free Throw 1 of 2 (1 PTS),,,9 - 5,-4,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,37,3,12,1,7:17 PM,8:30,Anderson Free Throw 2 of 2 (2 PTS),,,9 - 6,-3,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,39,1,1,1,7:18 PM,8:21,,,Garnett 18' Jump Shot (2 PTS) (Johnson 3 AST),11 - 6,-5,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,40,6,1,1,7:18 PM,8:10,,,Garnett P.FOUL (P2.T4),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,41,6,2,1,7:18 PM,8:10,,,Livingston S.FOUL (P2.PN),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,42,3,11,1,7:18 PM,8:10,Carter-Williams Free Throw 1 of 2 (1 PTS),,,11 - 7,-4,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,44,3,12,1,7:18 PM,8:10,MISS Carter-Williams Free Throw 2 of 2,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,46,4,0,1,7:19 PM,8:09,,,Garnett REBOUND (Off:0 Def:2),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,47,1,79,1,7:19 PM,8:03,,,Johnson 26' 3PT Pullup Jump Shot (3 PTS),14 - 7,-7,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,48,2,1,1,7:19 PM,7:54,MISS Hawes 25' 3PT Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,49,4,0,1,7:19 PM,7:52,,,Anderson REBOUND (Off:0 Def:2),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,50,2,1,1,7:19 PM,7:43,,,MISS Johnson 24' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,51,4,0,1,7:19 PM,7:41,,,Lopez REBOUND (Off:1 Def:0),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,52,1,44,1,7:19 PM,7:37,,,Johnson 1' Reverse Layup (5 PTS) (Anderson 1 AST),16 - 7,-9,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,53,2,5,1,7:19 PM,7:23,MISS Turner 2' Layup,,Lopez BLOCK (1 BLK),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,54,4,0,1,7:19 PM,7:23,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,55,2,1,1,7:20 PM,7:11,MISS Young 20' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,56,4,0,1,7:20 PM,7:09,,,Livingston REBOUND (Off:2 Def:3),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,57,5,1,1,7:20 PM,7:04,,,Livingston Bad Pass Turnover (P1.T1),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,58,8,0,1,7:20 PM,7:04,,,SUB: Blatche FOR Garnett,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,59,1,1,1,7:21 PM,6:50,Anderson 26' 3PT Jump Shot (5 PTS) (Young 2 AST),,,16 - 10,-6,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,60,1,79,1,7:21 PM,6:36,,,Anderson 17' Pullup Jump Shot (4 PTS) (Johnson 4 AST),18 - 10,-8,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,61,1,1,1,7:21 PM,6:24,Carter-Williams 26' 3PT Jump Shot (4 PTS) (Turner 1 AST),,,18 - 13,-5,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,62,6,1,1,7:21 PM,6:02,Turner P.FOUL (P1.T3),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,63,8,0,1,7:22 PM,6:02,SUB: Wroten FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,64,1,44,1,7:22 PM,5:58,,,Livingston 1' Reverse Layup (4 PTS) (Lopez 1 AST),20 - 13,-7,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,65,1,1,1,7:22 PM,5:46,Carter-Williams 26' 3PT Jump Shot (7 PTS) (Hawes 1 AST),,,20 - 16,-4,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,66,5,1,1,7:22 PM,5:26,,,Johnson Bad Pass Turnover (P1.T2),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,67,9,1,1,7:22 PM,5:26,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,68,8,0,1,7:25 PM,5:26,,,SUB: Teletovic FOR Livingston,,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,70,2,1,1,7:25 PM,5:12,MISS Carter-Williams 6' Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,72,4,0,1,7:25 PM,5:09,Young REBOUND (Off:1 Def:1),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,71,1,4,1,7:25 PM,5:09,Young 2' Tip Shot (2 PTS),,,20 - 18,-2,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,74,6,1,1,7:25 PM,5:01,Young P.FOUL (P1.T4),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,75,8,0,1,7:25 PM,5:01,SUB: White FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,76,8,0,1,7:25 PM,5:01,SUB: Allen FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,77,8,0,1,7:26 PM,5:01,SUB: Wyatt FOR Anderson,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,78,6,2,1,7:26 PM,4:54,White S.FOUL (P1.PN),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,79,3,11,1,7:26 PM,4:54,,,MISS Blatche Free Throw 1 of 2,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,80,4,1,1,7:26 PM,4:54,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,81,3,12,1,7:26 PM,4:54,,,Blatche Free Throw 2 of 2 (1 PTS),21 - 18,-3,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,83,6,2,1,7:27 PM,4:38,,,Teletovic S.FOUL (P1.PN),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,84,3,11,1,7:27 PM,4:38,Allen Free Throw 1 of 2 (1 PTS),,,21 - 19,-2,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,86,3,12,1,7:27 PM,4:38,Allen Free Throw 2 of 2 (2 PTS),,,21 - 20,-1,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,88,5,4,1,7:28 PM,4:26,,,Blatche Traveling Turnover (P1.T3),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,89,1,79,1,7:28 PM,4:05,Wyatt 14' Pullup Jump Shot (2 PTS) (Carter-Williams 1 AST),,,21 - 22,1,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,90,6,1,1,7:29 PM,3:53,Allen P.FOUL (P1.PN),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,91,3,11,1,7:29 PM,3:53,,,MISS Lopez Free Throw 1 of 2,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,92,4,1,1,7:29 PM,3:53,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,93,3,12,1,7:29 PM,3:53,,,Lopez Free Throw 2 of 2 (6 PTS),22 - 22,TIE,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,95,2,1,1,7:30 PM,3:44,MISS Allen 17' Jump Shot,,Lopez BLOCK (2 BLK),,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,96,4,0,1,7:30 PM,3:42,,,Johnson REBOUND (Off:0 Def:1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,97,1,65,1,7:30 PM,3:32,,,Lopez 6' Jump Hook Shot (8 PTS) (Teletovic 1 AST),24 - 22,-2,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,98,6,1,1,7:30 PM,3:26,,,Anderson P.FOUL (P2.PN),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,99,3,11,1,7:30 PM,3:26,MISS Wyatt Free Throw 1 of 2,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,100,4,1,1,7:30 PM,3:26,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,101,3,12,1,7:30 PM,3:26,Wyatt Free Throw 2 of 2 (3 PTS),,,24 - 23,-1,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,102,8,0,1,7:30 PM,3:26,SUB: Turner FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,103,1,80,1,7:31 PM,3:08,,,Lopez 13' Step Back Jump Shot (10 PTS),26 - 23,-3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,104,1,5,1,7:31 PM,3:03,Allen 1' Layup (4 PTS) (White 1 AST),,,26 - 25,-1,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,107,9,1,1,7:31 PM,2:52,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,109,8,0,1,7:34 PM,2:52,,,SUB: Johnson FOR Johnson,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,110,8,0,1,7:34 PM,2:52,,,SUB: Evans FOR Lopez,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,117,8,0,1,7:34 PM,2:52,,,SUB: Livingston FOR Anderson,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,111,2,1,1,7:34 PM,2:40,,,MISS Blatche 19' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,112,4,0,1,7:34 PM,2:40,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,113,6,3,1,7:34 PM,2:40,,,Evans L.B.FOUL (P1.PN),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,114,3,11,1,7:35 PM,2:40,MISS White Free Throw 1 of 2,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,115,4,1,1,7:35 PM,2:40,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,116,3,12,1,7:35 PM,2:40,MISS White Free Throw 2 of 2,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,119,4,0,1,7:35 PM,2:39,,,Blatche REBOUND (Off:0 Def:1),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,120,1,1,1,7:35 PM,2:25,,,Teletovic 26' 3PT Jump Shot (3 PTS) (Livingston 1 AST),29 - 25,-4,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,121,1,79,1,7:35 PM,2:12,Turner 14' Pullup Jump Shot (6 PTS) (Allen 1 AST),,,29 - 27,-2,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,122,6,17,1,7:35 PM,2:01,76ERS T.Foul (Def. 3 Sec White ),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300047,123,3,16,1,7:36 PM,2:01,,,Teletovic Free Throw Technical (4 PTS),30 - 27,-3,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,125,2,1,1,7:36 PM,1:54,,,MISS Blatche 14' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,126,4,0,1,7:36 PM,1:53,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,127,2,47,1,7:37 PM,1:46,,,MISS Teletovic 18' Turnaround Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,128,4,0,1,7:37 PM,1:46,,,Evans REBOUND (Off:1 Def:0),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,129,6,3,1,7:37 PM,1:46,White L.B.FOUL (P2.PN),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,130,3,11,1,7:37 PM,1:46,,,MISS Evans Free Throw 1 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,131,4,1,1,7:37 PM,1:46,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,132,3,12,1,7:37 PM,1:46,,,Evans Free Throw 2 of 2 (1 PTS),31 - 27,-4,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,134,1,1,1,7:38 PM,1:27,Allen 18' Jump Shot (6 PTS) (White 2 AST),,,31 - 29,-2,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,135,5,1,1,7:38 PM,1:12,,,Livingston Bad Pass Turnover (P2.T4),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,136,5,2,1,7:38 PM,1:06,Wroten Lost Ball Turnover (P1.T1),,Blatche STEAL (1 STL),,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,137,1,88,1,7:38 PM,1:02,,,Livingston 1' Driving Slam Dunk (6 PTS) (Blatche 1 AST),33 - 29,-4,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,138,5,1,1,7:38 PM,0:53,Turner Bad Pass Turnover (P1.T2),,Evans STEAL (1 STL),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,139,1,1,1,7:38 PM,0:48,,,Teletovic 26' 3PT Jump Shot (7 PTS) (Livingston 2 AST),36 - 29,-7,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,140,2,1,1,7:39 PM,0:38,MISS White 8' Jump Shot,,Blatche BLOCK (1 BLK),,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,141,4,0,1,7:39 PM,0:35,,,Evans REBOUND (Off:1 Def:1),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,142,6,2,1,7:39 PM,0:33,Wyatt S.FOUL (P1.PN),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,143,3,11,1,7:39 PM,0:33,,,Livingston Free Throw 1 of 2 (7 PTS),37 - 29,-8,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,145,3,12,1,7:39 PM,0:33,,,Livingston Free Throw 2 of 2 (8 PTS),38 - 29,-9,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,147,2,1,1,7:40 PM,0:18,MISS Wroten 27' 3PT Jump Shot,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,148,4,0,1,7:40 PM,0:16,Turner REBOUND (Off:1 Def:0),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,149,1,79,1,7:40 PM,0:01,Turner 26' 3PT Pullup Jump Shot (9 PTS),,,38 - 32,-6,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,150,2,1,1,7:40 PM,0:00,,,MISS Teletovic 62' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,151,4,0,1,7:40 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,154,18,0,1,7:40 PM,0:00,,Support Ruling,,,,0,149,Michael Adams,,,,,0,0,,,,,,1,0,,,,,,0
+0011300047,155,13,0,1,7:42 PM,0:00,,End of 1st Period (7:42 PM EST),,38 - 32,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,156,12,0,2,7:43 PM,12:00,,Start of 2nd Period (7:43 PM EST),,38 - 32,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,157,2,1,2,7:44 PM,11:45,,,MISS Blatche 18' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,158,4,0,2,7:44 PM,11:43,Wroten REBOUND (Off:0 Def:1),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,159,6,2,2,7:44 PM,11:38,,,Johnson S.FOUL (P1.T1),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,160,3,11,2,7:44 PM,11:38,MISS Wroten Free Throw 1 of 2,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,162,4,0,2,7:44 PM,11:38,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,161,3,12,2,7:44 PM,11:38,Wroten Free Throw 2 of 2 (1 PTS),,,38 - 33,-5,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,163,2,1,2,7:45 PM,11:18,,,MISS Teletovic 8' Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,166,4,0,2,7:45 PM,11:12,,,Evans REBOUND (Off:2 Def:1),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,165,2,1,2,7:45 PM,11:12,,,MISS Blatche 18' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,172,4,0,2,7:45 PM,11:11,,,Teletovic REBOUND (Off:1 Def:0),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,167,1,4,2,7:45 PM,11:10,,,Teletovic 1' Tip Shot (9 PTS),40 - 33,-7,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,168,2,1,2,7:45 PM,10:56,MISS Turner 13' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,169,4,0,2,7:45 PM,10:54,,,Evans REBOUND (Off:2 Def:2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,170,1,1,2,7:45 PM,10:41,,,Johnson  3PT Jump Shot (3 PTS) (Blatche 2 AST),43 - 33,-10,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,171,6,1,2,7:46 PM,10:30,,,Johnson P.FOUL (P2.T2),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,173,2,1,2,7:46 PM,10:22,MISS Wroten 27' 3PT Jump Shot,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,174,4,0,2,7:46 PM,10:21,,,Teletovic REBOUND (Off:1 Def:1),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,175,1,1,2,7:46 PM,10:12,,,Livingston 14' Jump Shot (10 PTS),45 - 33,-12,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,176,6,2,2,7:47 PM,10:06,,,Blatche S.FOUL (P1.T3),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,178,3,11,2,7:47 PM,10:06,MISS White Free Throw 1 of 2,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,179,4,1,2,7:47 PM,10:06,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,180,3,12,2,7:47 PM,10:06,White Free Throw 2 of 2 (1 PTS),,,45 - 34,-11,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,182,5,2,2,7:47 PM,9:51,Allen STEAL (1 STL),,Johnson Lost Ball Turnover (P1.T5),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,183,5,1,2,7:47 PM,9:47,Turner Bad Pass Turnover (P2.T3),,Livingston STEAL (1 STL),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,184,5,39,2,7:47 PM,9:44,,,Johnson Step Out of Bounds Turnover (P2.T6),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,186,1,1,2,7:48 PM,9:24,White 25' 3PT Jump Shot (4 PTS) (Wyatt 1 AST),,,45 - 37,-8,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,188,6,4,2,7:48 PM,9:14,,,Blatche OFF.Foul (P2),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,189,5,5,2,7:48 PM,9:14,,,Blatche Foul Turnover (P2.T7),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,191,6,11,2,7:48 PM,9:14,,,Livingston T.FOUL (P2.T3),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,193,3,16,2,7:49 PM,9:14,Turner Free Throw Technical (10 PTS),,,45 - 38,-7,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,196,5,2,2,7:49 PM,8:57,White Lost Ball Turnover (P1.T4),,Johnson STEAL (1 STL),,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,198,6,1,2,7:49 PM,8:45,Wyatt P.FOUL (P2.T1),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,199,9,4,2,7:50 PM,8:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,201,8,0,2,7:52 PM,8:45,,,SUB: Garnett FOR Livingston,,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,202,8,0,2,7:52 PM,8:45,,,SUB: Lopez FOR Blatche,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,203,8,0,2,7:52 PM,8:45,,,SUB: Anderson FOR Johnson,,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,204,8,0,2,7:52 PM,8:45,,,SUB: Johnson FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,205,7,5,2,7:52 PM,8:41,White Violation:Kicked Ball,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300047,206,1,65,2,7:52 PM,8:35,,,Lopez 8' Jump Hook Shot (12 PTS),47 - 38,-9,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,207,2,1,2,7:53 PM,8:17,MISS Wroten 6' Jump Shot,,Lopez BLOCK (3 BLK),,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,208,4,0,2,7:53 PM,8:15,,,Teletovic REBOUND (Off:1 Def:2),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,209,1,79,2,7:53 PM,8:11,,,Garnett 15' Pullup Jump Shot (4 PTS) (Teletovic 2 AST),49 - 38,-11,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,210,5,4,2,7:53 PM,8:04,Allen Traveling Turnover (P1.T5),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300047,211,6,1,2,7:53 PM,7:58,Wyatt P.FOUL (P3.T2),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,212,8,0,2,7:53 PM,7:58,SUB: Hawes FOR Allen,,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,213,8,0,2,7:54 PM,7:58,SUB: Young FOR White,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,214,8,0,2,7:54 PM,7:58,SUB: Anderson FOR Wyatt,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,215,1,1,2,7:54 PM,7:50,,,Teletovic  3PT Jump Shot (12 PTS) (Garnett 2 AST),52 - 38,-14,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,216,2,1,2,7:54 PM,7:27,MISS Hawes 25' 3PT Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,217,4,0,2,7:54 PM,7:25,,,Garnett REBOUND (Off:0 Def:3),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,218,2,3,2,7:54 PM,7:16,,,MISS Lopez 13' Hook Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,219,4,0,2,7:54 PM,7:14,Anderson REBOUND (Off:0 Def:2),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,220,2,5,2,7:55 PM,7:04,MISS Anderson 2' Layup,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,221,4,0,2,7:55 PM,7:02,,,Garnett REBOUND (Off:0 Def:4),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,222,2,5,2,7:55 PM,6:55,,,MISS Lopez 2' Layup,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,223,4,0,2,7:55 PM,6:54,Hawes REBOUND (Off:0 Def:1),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,224,2,1,2,7:55 PM,6:51,MISS Wroten 4' Jump Shot,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,226,4,0,2,7:55 PM,6:49,Young REBOUND (Off:2 Def:1),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,225,2,4,2,7:55 PM,6:49,MISS Young 2' Tip Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,228,4,0,2,7:55 PM,6:47,Young REBOUND (Off:3 Def:1),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,227,1,5,2,7:55 PM,6:47,Young  Layup (4 PTS),,,52 - 40,-12,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,229,2,1,2,7:55 PM,6:23,,,MISS Lopez 21' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,230,4,0,2,7:55 PM,6:19,,,Garnett REBOUND (Off:1 Def:4),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,231,1,5,2,7:55 PM,6:17,,,Lopez 2' Layup (14 PTS) (Garnett 3 AST),54 - 40,-14,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,232,6,2,2,7:55 PM,6:17,Hawes S.FOUL (P2.T3),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,233,8,0,2,7:56 PM,6:17,SUB: Carter-Williams FOR Wroten,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,234,3,10,2,7:56 PM,6:17,,,MISS Lopez Free Throw 1 of 1,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,236,4,0,2,7:56 PM,6:16,Turner REBOUND (Off:1 Def:1),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,237,5,4,2,7:56 PM,6:01,Carter-Williams Traveling Turnover (P1.T6),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300047,238,9,1,2,7:57 PM,6:01,76ERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,240,8,0,2,7:59 PM,5:55,,,SUB: Johnson FOR Teletovic,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,241,2,1,2,7:59 PM,5:40,,,MISS Garnett 8' Jump Shot,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,242,4,0,2,7:59 PM,5:39,,,Lopez REBOUND (Off:2 Def:0),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,243,6,2,2,7:59 PM,5:39,Hawes S.FOUL (P3.T4),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,244,3,11,2,8:00 PM,5:39,,,MISS Lopez Free Throw 1 of 2,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,245,4,1,2,8:00 PM,5:39,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,246,3,12,2,8:00 PM,5:39,,,Lopez Free Throw 2 of 2 (15 PTS),55 - 40,-15,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,248,2,1,2,8:00 PM,5:18,MISS Anderson 26' 3PT Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,249,4,0,2,8:00 PM,5:16,,,Garnett REBOUND (Off:1 Def:5),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,250,2,1,2,8:01 PM,5:10,,,MISS Anderson 4' Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,251,4,0,2,8:01 PM,5:09,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,252,6,3,2,8:01 PM,5:09,,,Johnson L.B.FOUL (P3.T4),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,253,8,0,2,8:01 PM,5:09,SUB: Allen FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,254,5,1,2,8:01 PM,4:52,Carter-Williams Bad Pass Turnover (P2.T7),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,255,6,4,2,8:02 PM,4:39,,,Garnett OFF.Foul (P3),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,256,5,5,2,8:02 PM,4:39,,,Garnett Foul Turnover (P1.T8),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,257,5,1,2,8:02 PM,4:22,Carter-Williams Bad Pass Turnover (P3.T8),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,258,6,26,2,8:02 PM,4:14,,,Anderson Offensive Charge Foul (P3.PN),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,259,5,5,2,8:02 PM,4:14,,,Anderson Foul Turnover (P1.T9),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,260,2,5,2,8:03 PM,3:54,MISS Turner 2' Layup,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,262,4,0,2,8:03 PM,3:52,Turner REBOUND (Off:2 Def:1),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,261,1,4,2,8:03 PM,3:52,Turner 2' Tip Shot (12 PTS),,,55 - 42,-13,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,263,5,1,2,8:03 PM,3:38,Carter-Williams STEAL (1 STL),,Anderson Bad Pass Turnover (P2.T10),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,264,1,44,2,8:03 PM,3:30,Young 1' Reverse Layup (6 PTS) (Carter-Williams 2 AST),,,55 - 44,-11,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,265,9,1,2,8:03 PM,3:23,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,267,8,0,2,8:06 PM,3:23,,,SUB: Blatche FOR Garnett,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,268,8,0,2,8:06 PM,3:23,,,SUB: Livingston FOR Johnson,,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,269,1,8,2,8:06 PM,3:07,,,Livingston 1' Slam Dunk (12 PTS) (Blatche 3 AST),57 - 44,-13,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,270,2,5,2,8:07 PM,2:50,MISS Young 3' Layup,,Blatche BLOCK (2 BLK),,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,271,4,0,2,8:07 PM,2:48,,,Livingston REBOUND (Off:2 Def:4),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,272,1,1,2,8:07 PM,2:43,,,Blatche 20' Jump Shot (3 PTS) (Livingston 3 AST),59 - 44,-15,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,273,2,1,2,8:07 PM,2:24,MISS Turner 25' 3PT Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,274,4,0,2,8:07 PM,2:22,,,Livingston REBOUND (Off:2 Def:5),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,275,2,5,2,8:07 PM,2:14,,,MISS Johnson 2' Layup,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,276,4,0,2,8:07 PM,2:13,Carter-Williams REBOUND (Off:0 Def:1),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,277,1,41,2,8:07 PM,2:04,Allen 1' Running Layup (8 PTS) (Carter-Williams 3 AST),,,59 - 46,-13,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,278,1,44,2,8:08 PM,1:50,,,Blatche 1' Reverse Layup (5 PTS) (Livingston 4 AST),61 - 46,-15,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,279,5,2,2,8:08 PM,1:40,Turner Lost Ball Turnover (P3.T9),,Livingston STEAL (2 STL),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,280,1,78,2,8:08 PM,1:33,,,Livingston 4' Floating Jump Shot (14 PTS),63 - 46,-17,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,281,9,2,2,8:08 PM,1:29,76ERS Timeout: Short (Full 2 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,282,1,1,2,8:09 PM,1:15,Anderson 25' 3PT Jump Shot (8 PTS) (Turner 2 AST),,,63 - 49,-14,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,283,1,3,2,8:10 PM,0:53,,,Lopez 15' Hook Shot (17 PTS) (Livingston 5 AST),65 - 49,-16,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,284,2,1,2,8:10 PM,0:40,MISS Young 21' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,285,4,0,2,8:10 PM,0:39,,,Johnson REBOUND (Off:0 Def:2),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,286,5,1,2,8:10 PM,0:24,,,Blatche Bad Pass Turnover (P3.T11),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,287,2,1,2,8:11 PM,0:01,MISS Carter-Williams 31' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,288,4,0,2,8:11 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,290,13,0,2,8:11 PM,0:00,,End of 2nd Period (8:11 PM EST),,65 - 49,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,291,12,0,3,8:27 PM,12:00,,Start of 3rd Period (8:27 PM EST),,65 - 49,-16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,292,2,1,3,8:27 PM,11:45,,,MISS Garnett 18' Jump Shot,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,293,4,0,3,8:27 PM,11:43,,,Johnson REBOUND (Off:1 Def:2),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,294,6,26,3,8:28 PM,11:36,,,Johnson Offensive Charge Foul (P1.T1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,295,5,5,3,8:28 PM,11:36,,,Johnson Foul Turnover (P2.T12),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,296,2,5,3,8:28 PM,11:23,MISS Hawes 1' Layup,,Lopez BLOCK (4 BLK),,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,297,4,0,3,8:28 PM,11:23,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,298,1,1,3,8:28 PM,11:16,,,Johnson 20' Jump Shot (7 PTS),67 - 49,-18,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,299,1,79,3,8:29 PM,10:56,Turner 15' Pullup Jump Shot (14 PTS),,,67 - 51,-16,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,300,1,42,3,8:29 PM,10:50,,,Livingston  Driving Layup (16 PTS) (Johnson 5 AST),69 - 51,-18,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,301,6,2,3,8:29 PM,10:50,Carter-Williams S.FOUL (P2.T1),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,302,3,10,3,8:29 PM,10:50,,,Livingston Free Throw 1 of 1 (17 PTS),70 - 51,-19,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,303,2,1,3,8:29 PM,10:36,MISS Carter-Williams 21' Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,304,4,0,3,8:29 PM,10:34,,,Livingston REBOUND (Off:2 Def:6),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,305,2,1,3,8:30 PM,10:27,,,MISS Lopez 18' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,306,4,0,3,8:30 PM,10:26,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,307,6,3,3,8:30 PM,10:26,,,Garnett L.B.FOUL (P4.T2),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,308,7,1,3,8:30 PM,10:19,,,Nets Violation: Delay of game Violation,,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300047,309,6,1,3,8:30 PM,10:19,,,Livingston P.FOUL (P3.T3),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,310,1,1,3,8:30 PM,10:10,Carter-Williams 25' 3PT Jump Shot (10 PTS) (Turner 3 AST),,,70 - 54,-16,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,311,1,1,3,8:31 PM,9:57,,,Johnson 24' 3PT Jump Shot (10 PTS) (Livingston 6 AST),73 - 54,-19,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,312,2,1,3,8:31 PM,9:48,MISS Carter-Williams 27' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,313,4,0,3,8:31 PM,9:46,,,Anderson REBOUND (Off:0 Def:3),,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,314,2,1,3,8:31 PM,9:37,,,MISS Lopez 15' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,315,4,0,3,8:31 PM,9:35,Turner REBOUND (Off:2 Def:2),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,316,1,44,3,8:31 PM,9:32,Young 2' Reverse Layup (8 PTS) (Turner 4 AST),,,73 - 56,-17,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,317,2,1,3,8:31 PM,9:13,,,MISS Lopez 3' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,318,4,0,3,8:31 PM,9:11,Hawes REBOUND (Off:0 Def:2),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,319,2,5,3,8:32 PM,8:57,MISS Young 2' Layup,,Lopez BLOCK (5 BLK),,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+0011300047,320,4,0,3,8:32 PM,8:55,,,Livingston REBOUND (Off:2 Def:7),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,321,1,1,3,8:32 PM,8:49,,,Johnson  3PT Jump Shot (13 PTS) (Livingston 7 AST),76 - 56,-20,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,322,1,5,3,8:32 PM,8:37,Young 2' Layup (10 PTS) (Hawes 2 AST),,,76 - 58,-18,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,323,1,78,3,8:32 PM,8:15,,,Johnson 9' Floating Jump Shot (15 PTS),78 - 58,-20,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,324,2,1,3,8:33 PM,7:56,MISS Hawes 17' Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,325,4,0,3,8:33 PM,7:54,,,Garnett REBOUND (Off:1 Def:6),,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,326,2,1,3,8:33 PM,7:49,,,MISS Johnson 27' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,327,4,0,3,8:33 PM,7:47,Young REBOUND (Off:3 Def:2),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,328,5,1,3,8:33 PM,7:40,Young Bad Pass Turnover (P1.T10),,Garnett STEAL (1 STL),,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,329,1,1,3,8:33 PM,7:26,,,Johnson  3PT Jump Shot (18 PTS) (Livingston 8 AST),81 - 58,-23,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,331,9,1,3,8:34 PM,7:24,76ERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,332,8,0,3,8:36 PM,7:23,,,SUB: Blatche FOR Garnett,,,5,708,Kevin Garnett,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,333,2,1,3,8:36 PM,7:14,MISS Young 4' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,334,4,0,3,8:36 PM,7:12,,,Blatche REBOUND (Off:0 Def:2),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,335,2,1,3,8:36 PM,7:06,,,MISS Johnson 26' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,336,4,0,3,8:36 PM,7:02,Hawes REBOUND (Off:0 Def:3),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,337,6,2,3,8:36 PM,7:01,,,Livingston S.FOUL (P4.T4),,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,338,3,11,3,8:36 PM,7:01,MISS Anderson Free Throw 1 of 2,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,339,4,1,3,8:36 PM,7:01,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,340,3,12,3,8:36 PM,7:01,Anderson Free Throw 2 of 2 (9 PTS),,,81 - 59,-22,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,342,6,26,3,8:37 PM,6:48,,,Lopez Offensive Charge Foul (P1.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,343,5,5,3,8:37 PM,6:48,,,Lopez Foul Turnover (P1.T13),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,344,7,5,3,8:38 PM,6:31,,,Blatche Violation:Kicked Ball,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,345,2,1,3,8:38 PM,6:19,MISS Anderson  3PT Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,346,4,0,3,8:38 PM,6:17,,,Blatche REBOUND (Off:0 Def:3),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,347,2,1,3,8:38 PM,6:01,,,MISS Anderson 26' 3PT Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,348,4,0,3,8:38 PM,6:00,Carter-Williams REBOUND (Off:0 Def:2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,349,2,1,3,8:38 PM,5:54,MISS Turner 25' 3PT Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,351,4,0,3,8:38 PM,5:52,Hawes REBOUND (Off:1 Def:3),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,350,1,5,3,8:38 PM,5:52,Hawes 2' Layup (2 PTS),,,81 - 61,-20,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,352,2,1,3,8:39 PM,5:36,,,MISS Anderson 16' Jump Shot,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,353,4,0,3,8:39 PM,5:35,Hawes REBOUND (Off:1 Def:4),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,354,6,2,3,8:39 PM,5:27,,,Lopez S.FOUL (P2.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,355,6,11,3,8:39 PM,5:27,,,Lopez T.FOUL (P2.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,356,3,16,3,8:39 PM,5:27,Turner Free Throw Technical (15 PTS),,,81 - 62,-19,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,357,3,11,3,8:39 PM,5:27,Hawes Free Throw 1 of 2 (3 PTS),,,81 - 63,-18,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,359,8,0,3,8:40 PM,5:27,SUB: Wroten FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,360,8,0,3,8:40 PM,5:27,,,SUB: Teletovic FOR Lopez,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,361,8,0,3,8:40 PM,5:27,,,SUB: Evans FOR Livingston,,,5,2733,Shaun Livingston,1610612751.0,Brooklyn,Nets,BKN,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,362,3,12,3,8:40 PM,5:27,Hawes Free Throw 2 of 2 (4 PTS),,,81 - 64,-17,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,364,1,80,3,8:40 PM,5:16,,,Blatche 17' Step Back Jump Shot (7 PTS),83 - 64,-19,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,365,6,2,3,8:41 PM,5:03,,,Blatche S.FOUL (P3.PN),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,366,3,11,3,8:41 PM,5:03,Hawes Free Throw 1 of 2 (5 PTS),,,83 - 65,-18,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,368,8,0,3,8:41 PM,5:03,SUB: Wyatt FOR Anderson,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,369,3,12,3,8:41 PM,5:03,Hawes Free Throw 2 of 2 (6 PTS),,,83 - 66,-17,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,371,5,1,3,8:42 PM,4:49,,,Johnson Bad Pass Turnover (P3.T14),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,372,8,0,3,8:42 PM,4:49,SUB: White FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,373,2,5,3,8:42 PM,4:33,MISS Wroten 2' Layup,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,374,4,0,3,8:42 PM,4:31,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,375,2,5,3,8:43 PM,4:22,MISS Young 2' Layup,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,376,4,0,3,8:43 PM,4:20,,,Teletovic REBOUND (Off:1 Def:3),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,378,1,1,3,8:43 PM,4:02,,,Blatche 20' Jump Shot (9 PTS) (Johnson 6 AST),85 - 66,-19,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,379,5,1,3,8:44 PM,3:43,Wroten Bad Pass Turnover (P2.T11),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,380,2,1,3,8:44 PM,3:30,Carter-Williams BLOCK (1 BLK),,MISS Teletovic 28' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0
+0011300047,381,4,0,3,8:44 PM,3:28,White REBOUND (Off:0 Def:1),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,382,1,5,3,8:44 PM,3:23,Young 1' Layup (12 PTS) (White 3 AST),,,85 - 68,-17,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,383,9,1,3,8:44 PM,3:21,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,384,8,0,3,8:46 PM,3:21,,,SUB: Johnson FOR Anderson,,,5,101187,Alan Anderson,1610612751.0,Brooklyn,Nets,BKN,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,385,8,0,3,8:46 PM,3:21,,,SUB: Jaric FOR Johnson,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,387,8,0,3,8:47 PM,3:11,SUB: Allen FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,388,1,49,3,8:47 PM,3:08,,,Blatche 2' Driving Dunk (11 PTS) (Jaric 1 AST),87 - 68,-19,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,389,2,1,3,8:47 PM,3:00,MISS Carter-Williams 26' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,390,4,0,3,8:47 PM,2:59,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,391,2,1,3,8:47 PM,2:44,,,MISS Blatche 17' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,392,4,0,3,8:47 PM,2:43,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,393,6,3,3,8:47 PM,2:43,Allen L.B.FOUL (P2.T2),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,394,8,0,3,8:47 PM,2:43,SUB: Turner FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,396,2,1,3,8:48 PM,2:36,,,MISS Teletovic 26' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,397,4,0,3,8:48 PM,2:35,White REBOUND (Off:0 Def:2),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,398,2,1,3,8:48 PM,2:28,MISS Wyatt 26' 3PT Jump Shot,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,399,4,0,3,8:48 PM,2:26,,,Evans REBOUND (Off:2 Def:3),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,400,2,1,3,8:48 PM,2:14,,,MISS Johnson 24' 3PT Jump Shot,,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,401,4,0,3,8:48 PM,2:12,,,Johnson REBOUND (Off:1 Def:0),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,402,2,1,3,8:48 PM,2:02,,,MISS Blatche 27' 3PT Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,403,4,0,3,8:48 PM,2:02,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,404,6,3,3,8:48 PM,2:02,Wyatt L.B.FOUL (P4.T3),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,405,5,4,3,8:49 PM,1:57,,,Jaric Traveling Turnover (P1.T15),,,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,406,2,5,3,8:49 PM,1:42,MISS White 2' Layup,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,407,4,0,3,8:49 PM,1:39,Wroten REBOUND (Off:1 Def:1),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,408,1,7,3,8:49 PM,1:37,White 1' Dunk (6 PTS) (Wroten 1 AST),,,87 - 70,-17,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,409,7,1,3,8:50 PM,1:37,76ERS Violation: Delay of game Violation,,,,,2,1610612755,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300047,422,2,40,3,8:50 PM,1:05,White BLOCK (1 BLK),,MISS Evans 3' Layup,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0
+0011300047,426,4,0,3,8:50 PM,1:05,,,Teletovic REBOUND (Off:2 Def:3),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,428,5,11,3,8:50 PM,1:05,,,Nets Turnover: Shot Clock (T#16),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300047,413,5,1,3,8:50 PM,1:04,Wyatt Bad Pass Turnover (P1.T12),,Teletovic STEAL (1 STL),,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,414,2,1,3,8:51 PM,0:56,,,MISS Johnson 3' Jump Shot,,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,416,4,0,3,8:51 PM,0:56,,,Evans REBOUND (Off:3 Def:3),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,415,1,5,3,8:51 PM,0:56,,,Evans 1' Layup (3 PTS),89 - 70,-19,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,418,2,1,3,8:51 PM,0:47,MISS Turner 16' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,419,4,0,3,8:51 PM,0:46,,,Johnson REBOUND (Off:1 Def:1),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,420,2,1,3,8:51 PM,0:39,,,MISS Johnson 17' Jump Shot,,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,421,4,0,3,8:51 PM,0:38,White REBOUND (Off:0 Def:3),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,423,5,40,3,8:51 PM,0:32,White Out of Bounds Lost Ball Turnover (P2.T13),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,427,6,2,3,8:52 PM,0:15,Turner S.FOUL (P2.T4),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,429,3,11,3,8:52 PM,0:15,,,Johnson Free Throw 1 of 2 (4 PTS),90 - 70,-20,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,431,3,12,3,8:52 PM,0:15,,,Johnson Free Throw 2 of 2 (5 PTS),91 - 70,-21,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,433,2,1,3,8:53 PM,0:01,MISS Turner 14' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,434,4,0,3,8:53 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,435,13,0,3,8:53 PM,0:00,,End of 3rd Period (8:53 PM EST),,91 - 70,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,437,12,0,4,8:56 PM,12:00,,Start of 4th Period (8:56 PM EST),,91 - 70,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,438,1,79,4,8:56 PM,11:39,Turner 15' Pullup Jump Shot (17 PTS) (Wyatt 2 AST),,,91 - 72,-19,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,440,1,63,4,8:57 PM,11:15,,,Blatche 15' Fadeaway Jumper (13 PTS) (Johnson 1 AST),93 - 72,-21,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,441,6,2,4,8:57 PM,11:15,White S.FOUL (P3.T1),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,442,3,10,4,8:57 PM,11:15,,,Blatche Free Throw 1 of 1 (14 PTS),94 - 72,-22,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,443,6,1,4,8:57 PM,11:06,,,Johnson P.FOUL (P4.T1),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,444,8,0,4,8:57 PM,11:06,SUB: Blue FOR Wroten,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,445,1,79,4,8:58 PM,10:52,Turner 14' Pullup Jump Shot (19 PTS),,,94 - 74,-20,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,446,2,1,4,8:58 PM,10:34,,,MISS Blatche 21' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,447,4,0,4,8:58 PM,10:33,,,Evans REBOUND (Off:4 Def:3),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,448,6,3,4,8:58 PM,10:33,Allen L.B.FOUL (P3.T2),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,449,2,5,4,8:59 PM,10:28,Allen BLOCK (1 BLK),,MISS Evans 2' Layup,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0
+0011300047,451,4,0,4,8:59 PM,10:26,,,Evans REBOUND (Off:5 Def:3),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,450,2,5,4,8:59 PM,10:26,Allen BLOCK (2 BLK),,MISS Evans 2' Layup,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0
+0011300047,452,4,0,4,8:59 PM,10:26,,,Evans REBOUND (Off:6 Def:3),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,453,6,2,4,8:59 PM,10:26,Allen S.FOUL (P4.T3),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,454,3,11,4,8:59 PM,10:26,,,MISS Evans Free Throw 1 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,455,4,1,4,8:59 PM,10:26,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,456,3,12,4,8:59 PM,10:26,,,MISS Evans Free Throw 2 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,458,4,0,4,8:59 PM,10:25,Turner REBOUND (Off:2 Def:3),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,459,1,42,4,9:00 PM,10:15,Turner 1' Driving Layup (21 PTS),,,94 - 76,-18,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,460,5,1,4,9:00 PM,10:03,Wyatt STEAL (1 STL),,Johnson Bad Pass Turnover (P3.T17),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,461,1,7,4,9:00 PM,10:00,Blue 1' Dunk (2 PTS) (Wyatt 3 AST),,,94 - 78,-16,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,462,6,4,4,9:00 PM,9:42,,,Blatche OFF.Foul (P4),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,463,5,5,4,9:00 PM,9:42,,,Blatche Foul Turnover (P4.T18),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,464,8,0,4,9:00 PM,9:42,,,SUB: Plumlee FOR Blatche,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,465,2,1,4,9:01 PM,9:32,MISS Turner 16' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,466,4,0,4,9:01 PM,9:31,Allen REBOUND (Off:1 Def:0),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,467,6,2,4,9:01 PM,9:18,,,Evans S.FOUL (P2.T2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,468,3,11,4,9:01 PM,9:18,Turner Free Throw 1 of 2 (22 PTS),,,94 - 79,-15,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,471,8,0,4,9:02 PM,9:18,SUB: Young FOR Allen,,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,472,3,12,4,9:02 PM,9:18,Turner Free Throw 2 of 2 (23 PTS),,,94 - 80,-14,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,474,1,46,4,9:02 PM,8:57,,,Johnson 4' Running Jump Shot (7 PTS),96 - 80,-16,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,475,5,1,4,9:02 PM,8:51,Wyatt Bad Pass Turnover (P2.T14),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,477,9,4,4,9:02 PM,8:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,478,5,1,4,9:05 PM,8:37,Young STEAL (1 STL),,Teletovic Bad Pass Turnover (P1.T19),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,479,2,5,4,9:05 PM,8:34,MISS Young 2' Layup,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,480,4,0,4,9:05 PM,8:33,,,Evans REBOUND (Off:6 Def:4),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,482,8,0,4,9:05 PM,8:25,SUB: Carter-Williams FOR Wyatt,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,483,5,4,4,9:06 PM,8:09,,,Plumlee Traveling Turnover (P1.T20),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,484,6,4,4,9:06 PM,8:04,White OFF.Foul (P4),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,485,5,5,4,9:06 PM,8:04,White Foul Turnover (P3.T15),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,486,5,2,4,9:07 PM,7:50,Young STEAL (2 STL),,Plumlee Lost Ball Turnover (P2.T21),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,487,1,42,4,9:07 PM,7:46,Carter-Williams 2' Driving Layup (12 PTS),,,96 - 82,-14,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,488,1,1,4,9:07 PM,7:26,,,Teletovic 25' 3PT Jump Shot (15 PTS) (Jaric 2 AST),99 - 82,-17,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,489,6,17,4,9:07 PM,7:15,,,Nets T.Foul (Def. 3 Sec Evans ),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,490,3,16,4,9:07 PM,7:15,MISS Turner Free Throw Technical,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,491,4,1,4,9:07 PM,7:15,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,492,8,0,4,9:08 PM,7:15,SUB: Thompson FOR White,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,507,8,0,4,9:08 PM,7:15,,,SUB: Forbes FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,493,6,2,4,9:08 PM,7:09,,,Jaric S.FOUL (P1.T3),,,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,494,3,11,4,9:08 PM,7:09,Thompson Free Throw 1 of 2 (1 PTS),,,99 - 83,-16,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,496,3,12,4,9:09 PM,7:09,MISS Thompson Free Throw 2 of 2,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,498,4,0,4,9:09 PM,7:08,,,Teletovic REBOUND (Off:2 Def:4),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,499,5,1,4,9:09 PM,6:59,Carter-Williams STEAL (2 STL),,Teletovic Bad Pass Turnover (P2.T22),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,500,1,5,4,9:09 PM,6:55,Blue 2' Layup (4 PTS) (Carter-Williams 4 AST),,,99 - 85,-14,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,504,6,1,4,9:10 PM,6:38,Turner P.FOUL (P3.T4),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,505,8,0,4,9:10 PM,6:38,SUB: Lawal FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,506,1,1,4,9:10 PM,6:28,,,Teletovic 27' 3PT Jump Shot (18 PTS) (Jaric 3 AST),102 - 85,-17,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,509,2,5,4,9:11 PM,6:09,MISS Thompson 3' Layup,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,510,4,0,4,9:11 PM,6:06,,,Plumlee REBOUND (Off:0 Def:1),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,511,1,5,4,9:11 PM,5:59,,,Forbes 1' Layup (2 PTS) (Jaric 4 AST),104 - 85,-19,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,513,2,1,4,9:11 PM,5:53,MISS Blue 5' Jump Shot,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,514,4,0,4,9:11 PM,5:48,,,Plumlee REBOUND (Off:0 Def:2),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,515,1,1,4,9:11 PM,5:42,,,Johnson 25' 3PT Jump Shot (10 PTS) (Teletovic 3 AST),107 - 85,-22,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,516,9,1,4,9:11 PM,5:40,76ERS Timeout: Regular (Full 4 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,534,8,0,4,9:11 PM,5:40,SUB: Wyatt FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,518,6,2,4,9:14 PM,5:27,,,Jaric S.FOUL (P2.T4),,,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,519,3,11,4,9:14 PM,5:27,MISS Lawal Free Throw 1 of 2,,,,,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,520,4,1,4,9:14 PM,5:27,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,521,3,12,4,9:14 PM,5:27,MISS Lawal Free Throw 2 of 2,,,,,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,523,4,0,4,9:14 PM,5:26,,,Plumlee REBOUND (Off:0 Def:3),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,524,1,1,4,9:15 PM,5:12,,,Johnson  3PT Jump Shot (13 PTS) (Teletovic 4 AST),110 - 85,-25,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,525,6,4,4,9:15 PM,5:01,Lawal OFF.Foul (P1),,,,,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,526,5,5,4,9:15 PM,5:01,Lawal Foul Turnover (P1.T16),,,,,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300047,527,1,1,4,9:15 PM,4:49,,,Johnson 24' 3PT Jump Shot (16 PTS) (Teletovic 5 AST),113 - 85,-28,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,528,2,1,4,9:15 PM,4:41,MISS Wyatt 25' 3PT Jump Shot,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,529,4,0,4,9:15 PM,4:37,Blue REBOUND (Off:1 Def:0),,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,530,2,1,4,9:15 PM,4:34,MISS Thompson 12' Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,531,4,0,4,9:16 PM,4:32,,,Johnson REBOUND (Off:1 Def:2),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,532,1,1,4,9:16 PM,4:27,,,Johnson 25' 3PT Jump Shot (19 PTS) (Jaric 5 AST),116 - 85,-31,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,533,9,1,4,9:16 PM,4:25,76ERS Timeout: Regular (Full 5 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,536,8,0,4,9:18 PM,4:25,SUB: Koshwal FOR Lawal,,,,,4,202371,Gani Lawal,1610612755.0,Philadelphia,76ers,PHI,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,537,2,1,4,9:18 PM,4:04,MISS Thompson 26' 3PT Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,538,4,0,4,9:18 PM,4:02,Koshwal REBOUND (Off:1 Def:0),,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,539,2,5,4,9:18 PM,4:00,MISS Koshwal 2' Layup,,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,541,4,0,4,9:18 PM,3:58,Koshwal REBOUND (Off:2 Def:0),,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,540,1,5,4,9:18 PM,3:58,Koshwal 1' Layup (2 PTS),,,116 - 87,-29,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,542,2,1,4,9:19 PM,3:46,,,MISS Teletovic 26' 3PT Jump Shot,,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,543,4,0,4,9:19 PM,3:44,,,Johnson REBOUND (Off:2 Def:2),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,544,2,5,4,9:19 PM,3:28,,,MISS Forbes 1' Layup,,,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,545,4,0,4,9:19 PM,3:25,Koshwal REBOUND (Off:2 Def:1),,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,546,1,88,4,9:19 PM,3:14,Thompson 1' Driving Slam Dunk (3 PTS) (Blue 1 AST),,,116 - 89,-27,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,549,8,0,4,9:20 PM,2:51,SUB: Wroten FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,551,2,1,4,9:20 PM,2:44,,,MISS Johnson  3PT Jump Shot,,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,553,4,0,4,9:20 PM,2:42,,,Teletovic REBOUND (Off:3 Def:4),,,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,552,1,5,4,9:20 PM,2:42,,,Teletovic 2' Layup (20 PTS),118 - 89,-29,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,554,6,2,4,9:20 PM,2:42,Thompson S.FOUL (P1.PN),,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,555,3,10,4,9:20 PM,2:42,,,Teletovic Free Throw 1 of 1 (21 PTS),119 - 89,-30,5,203141,Mirza Teletovic,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,556,2,1,4,9:21 PM,2:22,MISS Blue 5' Jump Shot,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,557,4,0,4,9:21 PM,2:20,,,Forbes REBOUND (Off:0 Def:1),,,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,558,2,5,4,9:21 PM,2:15,,,MISS Forbes 2' Layup,,,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,560,4,0,4,9:21 PM,2:14,,,Johnson REBOUND (Off:3 Def:2),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,559,1,5,4,9:21 PM,2:14,,,Johnson  Layup (21 PTS),121 - 89,-32,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,561,5,1,4,9:21 PM,2:02,Wyatt Bad Pass Turnover (P3.T17),,Forbes STEAL (1 STL),,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,562,1,7,4,9:21 PM,1:58,,,Plumlee 1' Dunk (2 PTS) (Johnson 2 AST),123 - 89,-34,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,563,6,2,4,9:21 PM,1:51,,,Plumlee S.FOUL (P1.PN),,,5,203486,Mason Plumlee,1610612751.0,Brooklyn,Nets,BKN,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,564,3,11,4,9:22 PM,1:51,MISS Koshwal Free Throw 1 of 2,,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,565,4,1,4,9:22 PM,1:51,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300047,566,3,12,4,9:22 PM,1:51,Koshwal Free Throw 2 of 2 (3 PTS),,,123 - 90,-33,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,568,5,1,4,9:22 PM,1:37,Koshwal STEAL (1 STL),,Jaric Bad Pass Turnover (P2.T23),,,5,2060,Marko Jaric,1610612751.0,Brooklyn,Nets,BKN,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,569,5,2,4,9:22 PM,1:35,Koshwal Lost Ball Turnover (P1.T18),,Forbes STEAL (2 STL),,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0011300047,570,6,2,4,9:22 PM,1:35,Koshwal S.FOUL (P1.PN),,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,571,3,11,4,9:23 PM,1:35,,,Forbes Free Throw 1 of 2 (3 PTS),124 - 90,-34,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,573,3,12,4,9:23 PM,1:35,,,Forbes Free Throw 2 of 2 (4 PTS),125 - 90,-35,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,575,2,1,4,9:23 PM,1:26,MISS Blue 26' 3PT Jump Shot,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,576,4,0,4,9:23 PM,1:25,Thompson REBOUND (Off:1 Def:0),,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,577,1,1,4,9:23 PM,1:23,Wyatt 25' 3PT Jump Shot (6 PTS) (Thompson 1 AST),,,125 - 93,-32,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300047,578,6,1,4,9:24 PM,1:14,Wyatt P.FOUL (P5.PN),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0011300047,579,3,11,4,9:24 PM,1:14,,,Forbes Free Throw 1 of 2 (5 PTS),126 - 93,-33,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,581,3,12,4,9:24 PM,1:14,,,Forbes Free Throw 2 of 2 (6 PTS),127 - 93,-34,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,584,6,2,4,9:25 PM,0:46,,,Johnson S.FOUL (P5.PN),,,5,203187,Chris Johnson,1610612751.0,Brooklyn,Nets,BKN,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,585,3,11,4,9:25 PM,0:46,Thompson Free Throw 1 of 2 (4 PTS),,,127 - 94,-33,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,587,3,12,4,9:25 PM,0:46,Thompson Free Throw 2 of 2 (5 PTS),,,127 - 95,-32,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,589,6,26,4,9:26 PM,0:32,,,Forbes Offensive Charge Foul (P1.PN),,,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300047,590,5,5,4,9:26 PM,0:32,,,Forbes Foul Turnover (P1.T24),,,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0011300047,591,2,1,4,9:26 PM,0:23,MISS Wyatt 25' 3PT Jump Shot,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,592,4,0,4,9:26 PM,0:20,,,Forbes REBOUND (Off:0 Def:2),,,5,201814,Gary Forbes,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0011300047,593,5,10,4,9:26 PM,0:15,,,Nets Turnover: 8 Second Violation (T#25),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300047,594,2,1,4,9:27 PM,0:10,MISS Blue 4' Jump Shot,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,596,4,0,4,9:27 PM,0:10,Koshwal REBOUND (Off:3 Def:1),,,,,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,595,1,5,4,9:27 PM,0:10,Koshwal 1' Layup (5 PTS),,,127 - 97,-30,4,203262,Mac Koshwal,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300047,597,13,0,4,9:27 PM,0:00,,End of 4th Period (9:27 PM EST),,127 - 97,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

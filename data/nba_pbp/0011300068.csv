@@ -1,0 +1,471 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300068,0,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,1,10,0,1,7:41 PM,12:00,Jump Ball Horford vs. Duncan: Tip to Parker,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0
+0011300068,2,2,1,1,7:42 PM,11:37,,,MISS Duncan 24' 3PT Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,3,4,0,1,7:42 PM,11:36,Teague REBOUND (Off:0 Def:1),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,4,2,1,1,7:42 PM,11:23,MISS Carroll 22' Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,5,4,0,1,7:42 PM,11:22,,,Leonard REBOUND (Off:0 Def:1),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,6,2,66,1,7:42 PM,11:10,,,MISS Duncan 14' Jump Bank Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,7,4,0,1,7:42 PM,11:09,Horford REBOUND (Off:0 Def:1),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,8,2,1,1,7:42 PM,10:58,MISS Horford 20' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,9,4,0,1,7:42 PM,10:56,,,Green REBOUND (Off:0 Def:1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,10,5,4,1,7:42 PM,10:46,,,Splitter Traveling Turnover (P1.T1),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300068,11,2,1,1,7:43 PM,10:34,MISS Millsap 4' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,12,4,0,1,7:43 PM,10:32,,,Splitter REBOUND (Off:0 Def:1),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,13,2,77,1,7:43 PM,10:25,,,MISS Parker 8' Driving Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,14,4,0,1,7:43 PM,10:24,Millsap REBOUND (Off:0 Def:1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,15,6,2,1,7:43 PM,10:21,,,Green S.FOUL (P1.T1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,16,3,11,1,7:43 PM,10:21,Carroll Free Throw 1 of 2 (1 PTS),,,0 - 1,1,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,18,3,12,1,7:44 PM,10:21,MISS Carroll Free Throw 2 of 2,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,20,4,0,1,7:44 PM,10:20,,,Splitter REBOUND (Off:0 Def:2),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,21,2,47,1,7:44 PM,10:06,,,MISS Leonard 9' Turnaround Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,22,4,0,1,7:44 PM,10:05,Horford REBOUND (Off:0 Def:2),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,23,1,1,1,7:44 PM,9:59,Korver  3PT Jump Shot (3 PTS) (Teague 1 AST),,,0 - 4,4,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,24,5,1,1,7:44 PM,9:48,,,Duncan Bad Pass Turnover (P1.T2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,25,5,41,1,7:44 PM,9:45,Millsap Poss Lost Ball Turnover (P1.T1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,26,1,1,1,7:45 PM,9:29,,,Duncan 19' Jump Shot (2 PTS) (Parker 1 AST),2 - 4,2,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,28,2,1,1,7:45 PM,9:14,MISS Teague 21' Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,29,4,0,1,7:45 PM,9:13,,,Duncan REBOUND (Off:0 Def:1),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,30,1,1,1,7:45 PM,9:08,,,Green 21' Jump Shot (2 PTS),4 - 4,TIE,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,32,2,1,1,7:45 PM,8:51,MISS Teague 20' Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,33,4,0,1,7:45 PM,8:50,Millsap REBOUND (Off:1 Def:1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,34,2,5,1,7:45 PM,8:48,MISS Millsap 2' Layup,,Splitter BLOCK (1 BLK),,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0
+0011300068,35,4,0,1,7:45 PM,8:46,,,Parker REBOUND (Off:0 Def:1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,36,5,2,1,7:46 PM,8:39,Millsap STEAL (1 STL),,Parker Lost Ball Turnover (P1.T3),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,37,2,1,1,7:46 PM,8:33,MISS Korver 24' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,38,4,0,1,7:46 PM,8:31,Carroll REBOUND (Off:1 Def:0),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,40,1,1,1,7:46 PM,8:20,Horford 10' Jump Shot (2 PTS) (Teague 2 AST),,,4 - 6,2,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,42,2,1,1,7:46 PM,8:01,,,MISS Parker 21' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,43,4,0,1,7:46 PM,8:00,Horford REBOUND (Off:0 Def:3),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,44,5,1,1,7:46 PM,7:53,Teague Bad Pass Turnover (P1.T2),,Splitter STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,45,6,2,1,7:47 PM,7:47,Millsap S.FOUL (P1.T1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,46,3,11,1,7:47 PM,7:47,,,MISS Parker Free Throw 1 of 2,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,47,4,1,1,7:47 PM,7:47,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,48,3,12,1,7:47 PM,7:47,,,Parker Free Throw 2 of 2 (1 PTS),5 - 6,1,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,51,2,1,1,7:47 PM,7:28,MISS Korver 26' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,52,4,0,1,7:47 PM,7:27,,,Parker REBOUND (Off:0 Def:2),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,53,1,1,1,7:48 PM,7:18,,,Duncan 19' Jump Shot (4 PTS) (Parker 2 AST),7 - 6,-1,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,54,2,1,1,7:48 PM,7:02,MISS Millsap 25' 3PT Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,55,4,0,1,7:48 PM,7:01,,,Parker REBOUND (Off:0 Def:3),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,56,5,1,1,7:48 PM,6:49,Millsap STEAL (2 STL),,Splitter Bad Pass Turnover (P2.T4),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,57,2,77,1,7:48 PM,6:37,MISS Horford 6' Driving Jump Shot,,Splitter BLOCK (2 BLK),,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0
+0011300068,58,4,0,1,7:48 PM,6:36,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,59,1,5,1,7:49 PM,6:34,Carroll 1' Layup (3 PTS) (Korver 1 AST),,,7 - 8,1,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,60,9,1,1,7:49 PM,6:31,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,62,2,1,1,7:51 PM,6:13,,,MISS Green  3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,63,4,0,1,7:51 PM,6:12,Millsap REBOUND (Off:1 Def:2),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,64,5,1,1,7:52 PM,5:59,Korver Bad Pass Turnover (P1.T3),,Green STEAL (1 STL),,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,66,1,42,1,7:52 PM,5:51,,,Leonard 2' Driving Layup (2 PTS),9 - 8,-1,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,67,2,1,1,7:52 PM,5:36,MISS Teague 22' Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,68,4,0,1,7:52 PM,5:35,,,Duncan REBOUND (Off:0 Def:2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,69,1,1,1,7:52 PM,5:24,,,Duncan 21' Jump Shot (6 PTS) (Green 1 AST),11 - 8,-3,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,70,6,1,1,7:53 PM,5:09,,,Leonard P.FOUL (P1.T2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,71,8,0,1,7:53 PM,5:09,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,72,8,0,1,7:53 PM,5:09,,,SUB: De Colo FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,73,8,0,1,7:53 PM,5:09,SUB: Cunningham FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,74,8,0,1,7:53 PM,5:09,SUB: Scott FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,75,2,77,1,7:53 PM,4:53,MISS Scott 7' Driving Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,76,4,0,1,7:53 PM,4:50,,,Duncan REBOUND (Off:0 Def:3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,77,2,77,1,7:54 PM,4:27,,,MISS Ginobili 11' Driving Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,78,4,0,1,7:54 PM,4:26,Teague REBOUND (Off:0 Def:2),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,79,6,1,1,7:54 PM,4:25,,,Ginobili P.FOUL (P1.T3),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,80,6,2,1,7:54 PM,4:09,,,Leonard S.FOUL (P2.T4),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,81,3,13,1,7:55 PM,4:09,MISS Carroll Free Throw 1 of 3,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,82,4,1,1,7:55 PM,4:09,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,83,8,0,1,7:55 PM,4:09,,,SUB: Diaw FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,84,3,14,1,7:55 PM,4:09,Carroll Free Throw 2 of 3 (4 PTS),,,11 - 9,-2,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,86,8,0,1,7:55 PM,4:09,,,SUB: Belinelli FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,87,3,15,1,7:55 PM,4:09,MISS Carroll Free Throw 3 of 3,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,89,4,0,1,7:55 PM,4:08,,,Diaw REBOUND (Off:0 Def:1),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,90,1,1,1,7:55 PM,3:55,,,Belinelli 19' Jump Shot (2 PTS) (Diaw 1 AST),13 - 9,-4,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,91,6,2,1,7:55 PM,3:55,Carroll S.FOUL (P1.T2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,92,8,0,1,7:56 PM,3:55,SUB: Brand FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,93,3,10,1,7:56 PM,3:55,,,Belinelli Free Throw 1 of 1 (3 PTS),14 - 9,-5,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,98,8,0,1,7:57 PM,3:43,,,SUB: Ayres FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,99,1,1,1,7:57 PM,3:37,Cunningham 24' 3PT Jump Shot (3 PTS) (Teague 3 AST),,,14 - 12,-2,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,100,2,78,1,7:57 PM,3:24,,,MISS Belinelli 11' Floating Jump Shot,,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,101,4,0,1,7:57 PM,3:23,Brand REBOUND (Off:0 Def:1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,102,2,1,1,7:57 PM,3:12,MISS Cunningham 25' 3PT Jump Shot,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,103,4,0,1,7:57 PM,3:11,,,Ginobili REBOUND (Off:0 Def:1),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,104,5,2,1,7:57 PM,3:02,Carroll STEAL (1 STL),,Ginobili Lost Ball Turnover (P1.T5),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,105,1,41,1,7:57 PM,2:58,Teague 1' Running Layup (2 PTS) (Carroll 1 AST),,,14 - 14,TIE,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,106,2,1,1,7:58 PM,2:44,,,MISS De Colo 21' Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,107,4,0,1,7:58 PM,2:43,Carroll REBOUND (Off:1 Def:1),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,108,2,1,1,7:58 PM,2:32,MISS Brand 14' Jump Shot,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,109,4,0,1,7:58 PM,2:31,,,De Colo REBOUND (Off:0 Def:1),,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,110,2,46,1,7:58 PM,2:20,,,MISS Ayres 6' Running Jump Shot,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,111,4,0,1,7:58 PM,2:18,Teague REBOUND (Off:0 Def:3),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,112,5,39,1,7:58 PM,2:14,Scott Step Out of Bounds Turnover (P1.T4),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,114,9,1,1,7:58 PM,2:14,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,116,8,0,1,8:00 PM,2:14,SUB: Johnson FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,117,8,0,1,8:00 PM,2:14,SUB: Mack FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,119,1,1,1,8:01 PM,1:59,,,Belinelli  3PT Jump Shot (6 PTS) (Diaw 2 AST),17 - 14,-3,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,120,2,1,1,8:01 PM,1:40,MISS Scott 25' 3PT Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,121,4,0,1,8:01 PM,1:39,,,Belinelli REBOUND (Off:0 Def:1),,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,122,1,1,1,8:02 PM,1:26,,,Ginobili  3PT Jump Shot (3 PTS) (Diaw 3 AST),20 - 14,-6,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,123,6,2,1,8:02 PM,1:11,,,Ayres S.FOUL (P1.PN),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,124,3,11,1,8:02 PM,1:11,Johnson Free Throw 1 of 2 (1 PTS),,,20 - 15,-5,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,136,3,12,1,8:02 PM,1:11,Johnson Free Throw 2 of 2 (2 PTS),,,20 - 16,-4,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,126,5,2,1,8:03 PM,0:54,Johnson STEAL (1 STL),,Ginobili Lost Ball Turnover (P2.T6),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,127,1,41,1,8:03 PM,0:49,Mack 2' Running Layup (2 PTS) (Johnson 1 AST),,,20 - 18,-2,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,128,1,42,1,8:03 PM,0:29,,,Ginobili 2' Driving Layup (5 PTS),22 - 18,-4,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,129,2,77,1,8:04 PM,0:07,MISS Mack 6' Driving Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,130,4,0,1,8:04 PM,0:06,,,De Colo REBOUND (Off:0 Def:2),,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,131,5,40,1,8:04 PM,0:01,,,Ayres Out of Bounds Lost Ball Turnover (P1.T7),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,132,2,1,1,8:04 PM,0:00,MISS Johnson 40' 3PT Jump Shot,,,,,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,133,4,0,1,8:04 PM,0:00,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,134,13,0,1,8:04 PM,0:00,,End of 1st Period (8:04 PM EST),,22 - 18,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,135,12,0,2,8:07 PM,12:00,,Start of 2nd Period (8:07 PM EST),,22 - 18,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,137,2,1,2,8:08 PM,11:45,MISS Scott 18' Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,138,4,0,2,8:08 PM,11:44,Cunningham REBOUND (Off:1 Def:0),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,139,1,77,2,8:09 PM,11:27,Scott 7' Driving Jump Shot (2 PTS) (Johnson 2 AST),,,22 - 20,-2,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,141,2,1,2,8:09 PM,11:11,Brand BLOCK (1 BLK),,MISS Ayres 7' Jump Shot,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0
+0011300068,142,4,0,2,8:09 PM,11:09,,,Ayres REBOUND (Off:1 Def:0),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,143,1,1,2,8:09 PM,11:07,,,Ginobili 24' 3PT Jump Shot (8 PTS) (Ayres 1 AST),25 - 20,-5,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,145,6,2,2,8:09 PM,11:07,Johnson S.FOUL (P1.T1),,,,,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,146,3,10,2,8:09 PM,11:07,,,Ginobili Free Throw 1 of 1 (9 PTS),26 - 20,-6,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,148,1,41,2,8:10 PM,10:53,Scott 1' Running Layup (4 PTS) (Mack 1 AST),,,26 - 22,-4,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,150,1,46,2,8:10 PM,10:35,,,Ginobili 1' Running Jump Shot (11 PTS) (Diaw 4 AST),28 - 22,-6,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,151,1,42,2,8:10 PM,10:18,Cunningham 2' Driving Layup (5 PTS),,,28 - 24,-4,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,152,5,1,2,8:11 PM,10:07,Brand STEAL (1 STL),,Diaw Bad Pass Turnover (P1.T8),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,153,6,4,2,8:11 PM,10:00,Brand OFF.Foul (P1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,154,5,5,2,8:11 PM,10:00,Brand Foul Turnover (P1.T5),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300068,155,8,0,2,8:11 PM,10:00,SUB: Korver FOR Cunningham,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,156,8,0,2,8:11 PM,10:00,SUB: Millsap FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,157,2,1,2,8:11 PM,9:38,,,MISS Ginobili 26' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,158,4,0,2,8:11 PM,9:37,Millsap REBOUND (Off:1 Def:3),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,159,2,63,2,8:12 PM,9:12,MISS Millsap 19' Fadeaway Jumper,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,160,4,0,2,8:12 PM,9:10,,,Belinelli REBOUND (Off:0 Def:2),,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,161,2,1,2,8:12 PM,8:57,,,MISS Belinelli 24' 3PT Jump Shot,,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,162,4,0,2,8:12 PM,8:56,,,Diaw REBOUND (Off:1 Def:1),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,163,5,1,2,8:12 PM,8:49,Johnson STEAL (2 STL),,Ginobili Bad Pass Turnover (P3.T9),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,164,6,4,2,8:12 PM,8:46,Millsap OFF.Foul (P2),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,165,5,5,2,8:12 PM,8:46,Millsap Foul Turnover (P2.T6),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300068,166,9,4,2,8:12 PM,8:46,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,168,8,0,2,8:14 PM,8:46,SUB: Horford FOR Brand,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,170,2,3,2,8:15 PM,8:23,,,MISS Diaw 7' Hook Shot,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,171,4,0,2,8:15 PM,8:19,Mack REBOUND (Off:0 Def:1),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,172,2,63,2,8:15 PM,8:10,MISS Millsap 12' Fadeaway Jumper,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,173,4,0,2,8:15 PM,8:08,,,Belinelli REBOUND (Off:0 Def:3),,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,174,1,1,2,8:16 PM,7:57,,,Belinelli 25' 3PT Jump Shot (9 PTS) (Ginobili 1 AST),31 - 24,-7,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,175,5,4,2,8:16 PM,7:43,Horford Traveling Turnover (P1.T7),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300068,176,8,0,2,8:16 PM,7:43,SUB: Carroll FOR Johnson,,,,,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,177,2,1,2,8:16 PM,7:26,,,MISS Diaw 5' Jump Shot,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,178,4,0,2,8:17 PM,7:25,,,Diaw REBOUND (Off:2 Def:1),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,179,2,1,2,8:17 PM,7:21,,,MISS Belinelli 25' 3PT Jump Shot,,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,180,4,0,2,8:17 PM,7:21,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,181,6,3,2,8:17 PM,7:21,Korver L.B.FOUL (P1.T2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,182,8,0,2,8:17 PM,7:21,,,SUB: Nwaelele FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,183,8,0,2,8:17 PM,7:21,,,SUB: Parker FOR De Colo,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,184,8,0,2,8:17 PM,7:21,,,SUB: Splitter FOR Belinelli,,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,185,8,0,2,8:17 PM,7:21,,,SUB: Leonard FOR Ayres,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,186,2,1,2,8:17 PM,7:01,,,MISS Parker 20' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,187,4,0,2,8:17 PM,6:59,,,Splitter REBOUND (Off:1 Def:2),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,188,6,1,2,8:17 PM,6:59,Carroll P.FOUL (P2.T3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,189,2,1,2,8:18 PM,6:53,,,MISS Nwaelele 25' 3PT Jump Shot,,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,190,4,0,2,8:18 PM,6:52,Millsap REBOUND (Off:1 Def:4),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,191,1,1,2,8:18 PM,6:42,Horford 13' Jump Shot (4 PTS) (Korver 2 AST),,,31 - 26,-5,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,194,8,0,2,8:18 PM,6:31,,,SUB: Duncan FOR Diaw,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,195,8,0,2,8:18 PM,6:31,SUB: Teague FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,196,2,1,2,8:19 PM,6:20,,,MISS Nwaelele 24' 3PT Jump Shot,,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,197,4,0,2,8:19 PM,6:19,Carroll REBOUND (Off:1 Def:2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,198,2,1,2,8:19 PM,6:05,MISS Korver 25' 3PT Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,199,4,0,2,8:19 PM,6:04,,,Splitter REBOUND (Off:1 Def:3),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,200,2,5,2,8:19 PM,5:52,,,MISS Duncan 2' Layup,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,201,4,0,2,8:19 PM,5:50,Korver REBOUND (Off:0 Def:1),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,202,6,2,2,8:19 PM,5:45,,,Leonard S.FOUL (P3.T1),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,203,9,1,2,8:20 PM,5:45,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,206,3,11,2,8:22 PM,5:45,MISS Carroll Free Throw 1 of 2,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,207,4,1,2,8:22 PM,5:45,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,208,3,12,2,8:22 PM,5:45,Carroll Free Throw 2 of 2 (5 PTS),,,31 - 27,-4,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,210,1,1,2,8:23 PM,5:25,,,Leonard 15' Jump Shot (4 PTS) (Duncan 1 AST),33 - 27,-6,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,211,1,1,2,8:23 PM,5:13,Korver 19' Jump Shot (5 PTS) (Carroll 2 AST),,,33 - 29,-4,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,212,2,1,2,8:23 PM,4:46,,,MISS Nwaelele 24' 3PT Jump Shot,,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,213,4,0,2,8:23 PM,4:44,Horford REBOUND (Off:0 Def:4),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,214,5,1,2,8:23 PM,4:39,Korver Bad Pass Turnover (P2.T8),,Parker STEAL (1 STL),,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,215,2,1,2,8:24 PM,4:26,,,MISS Leonard 20' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,216,4,0,2,8:24 PM,4:25,Millsap REBOUND (Off:1 Def:5),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,217,6,1,2,8:24 PM,4:16,,,Duncan P.FOUL (P1.T2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,219,2,1,2,8:24 PM,4:12,MISS Teague 20' Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,220,4,0,2,8:24 PM,4:11,,,Leonard REBOUND (Off:0 Def:2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,221,1,42,2,8:24 PM,4:02,,,Duncan 4' Driving Layup (8 PTS),35 - 29,-6,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,222,1,42,2,8:25 PM,3:41,Carroll 1' Driving Layup (7 PTS) (Teague 4 AST),,,35 - 31,-4,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,223,2,1,2,8:25 PM,3:17,,,MISS Duncan 3' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,224,4,0,2,8:25 PM,3:15,Millsap REBOUND (Off:1 Def:6),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,225,1,41,2,8:25 PM,3:07,Teague 1' Running Layup (4 PTS),,,35 - 33,-2,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,226,5,1,2,8:25 PM,2:54,,,Parker Bad Pass Turnover (P2.T10),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,227,9,1,2,8:25 PM,2:54,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,230,8,0,2,8:28 PM,2:54,,,SUB: Ayres FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,231,8,0,2,8:28 PM,2:54,,,SUB: Ginobili FOR Nwaelele,,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,232,5,40,2,8:28 PM,2:44,Millsap Out of Bounds Lost Ball Turnover (P3.T9),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,233,2,1,2,8:28 PM,2:32,,,MISS Parker 15' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,234,4,0,2,8:28 PM,2:31,Horford REBOUND (Off:0 Def:5),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,235,2,1,2,8:28 PM,2:19,MISS Horford 16' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,236,4,0,2,8:28 PM,2:17,Millsap REBOUND (Off:2 Def:6),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,237,1,1,2,8:29 PM,2:13,Korver 25' 3PT Jump Shot (8 PTS) (Millsap 1 AST),,,35 - 36,1,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,238,7,1,2,8:29 PM,2:12,HAWKS Violation: Delay of game Violation,,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300068,239,1,1,2,8:29 PM,1:57,,,Leonard 24' 3PT Jump Shot (7 PTS) (Parker 3 AST),38 - 36,-2,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,240,2,1,2,8:29 PM,1:46,MISS Horford 19' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,241,4,0,2,8:29 PM,1:43,,,Leonard REBOUND (Off:0 Def:3),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,242,5,1,2,8:29 PM,1:34,,,Parker Bad Pass Turnover (P3.T11),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,243,8,0,2,8:30 PM,1:34,SUB: Cunningham FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,244,2,77,2,8:30 PM,1:15,MISS Cunningham 6' Driving Jump Shot,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,245,4,0,2,8:30 PM,1:15,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,246,6,2,2,8:30 PM,1:04,,,Duncan S.FOUL (P2.T3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,247,3,11,2,8:31 PM,1:04,MISS Horford Free Throw 1 of 2,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,248,4,1,2,8:31 PM,1:04,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,249,3,12,2,8:31 PM,1:04,Horford Free Throw 2 of 2 (5 PTS),,,38 - 37,-1,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,251,1,1,2,8:31 PM,0:49,,,Duncan 19' Jump Shot (10 PTS) (Ayres 2 AST),40 - 37,-3,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,252,1,7,2,8:32 PM,0:38,Cunningham 1' Dunk (7 PTS) (Teague 5 AST),,,40 - 39,-1,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,253,6,2,2,8:32 PM,0:35,Teague S.FOUL (P1.T4),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,254,3,11,2,8:32 PM,0:35,,,Parker Free Throw 1 of 2 (2 PTS),41 - 39,-2,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,256,8,0,2,8:32 PM,0:35,SUB: Scott FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,257,8,0,2,8:32 PM,0:35,SUB: Korver FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,258,3,12,2,8:32 PM,0:35,,,Parker Free Throw 2 of 2 (3 PTS),42 - 39,-3,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,260,2,42,2,8:33 PM,0:29,MISS Teague 1' Driving Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,261,4,0,2,8:33 PM,0:27,,,Duncan REBOUND (Off:0 Def:4),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,263,6,1,2,8:33 PM,0:08,Teague P.FOUL (P2.PN),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,264,3,11,2,8:33 PM,0:08,,,Duncan Free Throw 1 of 2 (11 PTS),43 - 39,-4,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,266,9,2,2,8:33 PM,0:08,HAWKS Timeout: Short (Full 2 Short 1),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,267,3,12,2,8:34 PM,0:08,,,Duncan Free Throw 2 of 2 (12 PTS),44 - 39,-5,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,270,1,73,2,8:35 PM,0:00,Teague 1' Driving Reverse Layup (6 PTS),,,44 - 41,-3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,271,5,1,2,8:35 PM,0:00,Korver STEAL (1 STL),,Duncan Bad Pass Turnover (P2.T12),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,272,13,0,2,8:35 PM,0:00,,End of 2nd Period (8:35 PM EST),,44 - 41,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,276,12,0,3,8:52 PM,12:00,,Start of 3rd Period (8:52 PM EST),,44 - 41,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,278,1,77,3,8:52 PM,11:48,Horford 7' Driving Jump Shot (7 PTS) (Carroll 3 AST),,,44 - 43,-1,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,279,1,1,3,8:52 PM,11:34,,,Parker 12' Jump Shot (5 PTS),46 - 43,-3,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,280,5,1,3,8:52 PM,11:19,Carroll Bad Pass Turnover (P1.T10),,Leonard STEAL (1 STL),,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,281,1,41,3,8:53 PM,11:15,,,Parker 2' Running Layup (7 PTS) (Green 2 AST),48 - 43,-5,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,282,1,1,3,8:53 PM,11:04,Teague 18' Jump Shot (8 PTS),,,48 - 45,-3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,283,1,1,3,8:53 PM,10:46,,,Duncan 18' Jump Shot (14 PTS) (Parker 4 AST),50 - 45,-5,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,284,2,1,3,8:53 PM,10:38,MISS Korver 20' Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,285,4,0,3,8:53 PM,10:36,Millsap REBOUND (Off:3 Def:6),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,287,1,88,3,8:54 PM,10:21,Horford 1' Driving Slam Dunk (9 PTS),,,50 - 47,-3,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,288,2,1,3,8:54 PM,10:05,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,289,4,0,3,8:54 PM,10:01,,,Duncan REBOUND (Off:1 Def:4),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,290,1,72,3,8:54 PM,10:01,,,Duncan  Putback Layup (16 PTS),52 - 47,-5,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,291,6,2,3,8:54 PM,10:01,Millsap S.FOUL (P3.T1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,292,3,10,3,8:54 PM,10:01,,,MISS Duncan Free Throw 1 of 1,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,294,4,0,3,8:55 PM,10:00,Millsap REBOUND (Off:3 Def:7),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,296,2,5,3,8:55 PM,9:45,MISS Millsap 2' Layup,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,297,4,0,3,8:55 PM,9:44,,,Duncan REBOUND (Off:1 Def:5),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,298,1,1,3,8:55 PM,9:27,,,Green 24' 3PT Jump Shot (5 PTS) (Parker 5 AST),55 - 47,-8,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,299,2,42,3,8:56 PM,9:19,MISS Teague 1' Driving Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,300,4,0,3,8:56 PM,9:18,,,Duncan REBOUND (Off:1 Def:6),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,301,1,1,3,8:56 PM,9:11,,,Parker 18' Jump Shot (9 PTS),57 - 47,-10,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,302,9,1,3,8:56 PM,9:10,HAWKS Timeout: Regular (Full 3 Short 1),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,304,1,1,3,8:59 PM,8:49,Horford 9' Jump Shot (11 PTS),,,57 - 49,-8,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,306,1,1,3,8:59 PM,8:32,,,Parker 17' Jump Shot (11 PTS),59 - 49,-10,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,307,1,77,3,8:59 PM,8:20,Teague 9' Driving Jump Shot (10 PTS),,,59 - 51,-8,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,308,2,1,3,9:00 PM,8:07,,,MISS Duncan 20' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,309,4,0,3,9:00 PM,8:06,Horford REBOUND (Off:0 Def:6),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,310,5,4,3,9:00 PM,8:06,Teague Traveling Turnover (P2.T11),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300068,311,1,1,3,9:00 PM,7:58,,,Parker 14' Jump Shot (13 PTS),61 - 51,-10,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,312,2,1,3,9:00 PM,7:44,MISS Carroll 17' Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,313,4,0,3,9:00 PM,7:43,,,Duncan REBOUND (Off:1 Def:7),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,314,6,4,3,9:00 PM,7:36,,,Duncan OFF.Foul (P3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,315,5,5,3,9:00 PM,7:36,,,Duncan Foul Turnover (P3.T13),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300068,316,8,0,3,9:01 PM,7:36,,,SUB: Baynes FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,317,2,78,3,9:01 PM,7:24,MISS Teague 10' Floating Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,318,4,0,3,9:01 PM,7:20,,,Baynes REBOUND (Off:0 Def:1),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,319,1,1,3,9:01 PM,7:16,,,Parker 17' Jump Shot (15 PTS),63 - 51,-12,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,321,1,1,3,9:02 PM,6:59,Korver 25' 3PT Jump Shot (11 PTS) (Teague 6 AST),,,63 - 54,-9,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,322,2,3,3,9:02 PM,6:45,,,MISS Baynes 7' Hook Shot,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,323,4,0,3,9:02 PM,6:45,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,324,6,3,3,9:02 PM,6:45,Millsap L.B.FOUL (P4.T2),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,325,8,0,3,9:02 PM,6:45,SUB: Scott FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,326,8,0,3,9:02 PM,6:45,,,SUB: Bonner FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,327,6,2,3,9:02 PM,6:41,Scott S.FOUL (P1.T3),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,328,3,11,3,9:03 PM,6:41,,,Parker Free Throw 1 of 2 (16 PTS),64 - 54,-10,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,330,3,12,3,9:03 PM,6:41,,,Parker Free Throw 2 of 2 (17 PTS),65 - 54,-11,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,332,2,1,3,9:03 PM,6:23,MISS Horford 21' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,333,4,0,3,9:03 PM,6:22,,,Parker REBOUND (Off:0 Def:4),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,334,2,1,3,9:04 PM,6:07,,,MISS Green  3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,335,4,0,3,9:04 PM,6:06,Scott REBOUND (Off:0 Def:1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,336,2,1,3,9:04 PM,5:59,MISS Carroll 26' 3PT Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,337,4,0,3,9:04 PM,5:59,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,338,6,3,3,9:04 PM,5:58,,,Baynes L.B.FOUL (P1.T1),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,339,8,0,3,9:04 PM,5:58,,,SUB: De Colo FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,340,1,1,3,9:04 PM,5:52,Korver 18' Jump Shot (13 PTS) (Teague 7 AST),,,65 - 56,-9,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,341,5,2,3,9:05 PM,5:41,Teague STEAL (1 STL),,Baynes Lost Ball Turnover (P1.T14),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,342,2,5,3,9:05 PM,5:35,MISS Carroll 1' Layup,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,343,4,0,3,9:05 PM,5:35,Carroll REBOUND (Off:2 Def:2),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,344,6,2,3,9:05 PM,5:35,,,Bonner S.FOUL (P1.T2),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,345,3,11,3,9:05 PM,5:35,Carroll Free Throw 1 of 2 (8 PTS),,,65 - 57,-8,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,347,8,0,3,9:05 PM,5:35,,,SUB: Belinelli FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,348,8,0,3,9:05 PM,5:35,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,349,3,12,3,9:05 PM,5:35,Carroll Free Throw 2 of 2 (9 PTS),,,65 - 58,-7,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,351,2,77,3,9:06 PM,5:15,,,MISS De Colo 5' Driving Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,352,4,0,3,9:06 PM,5:14,Horford REBOUND (Off:0 Def:7),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,354,1,43,3,9:06 PM,5:08,Scott  Alley Oop Layup (6 PTS) (Teague 8 AST),,,65 - 60,-5,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,355,2,1,3,9:06 PM,4:50,,,MISS Ginobili 25' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,356,4,0,3,9:06 PM,4:47,Carroll REBOUND (Off:2 Def:3),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,358,1,41,3,9:06 PM,4:35,Korver 3' Running Layup (15 PTS) (Horford 1 AST),,,65 - 62,-3,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,359,6,2,3,9:06 PM,4:35,,,Bonner S.FOUL (P2.T3),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,360,3,10,3,9:07 PM,4:35,Korver Free Throw 1 of 1 (16 PTS),,,65 - 63,-2,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,362,1,1,3,9:07 PM,4:21,,,Belinelli 19' Jump Shot (11 PTS),67 - 63,-4,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,363,1,46,3,9:07 PM,4:06,Korver 18' Running Jump Shot (18 PTS) (Scott 1 AST),,,67 - 65,-2,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,364,6,1,3,9:08 PM,3:51,Korver P.FOUL (P2.T4),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,365,8,0,3,9:08 PM,3:51,SUB: Cunningham FOR Carroll,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,366,6,1,3,9:08 PM,3:48,Korver P.FOUL (P3.PN),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,367,3,11,3,9:08 PM,3:48,,,Belinelli Free Throw 1 of 2 (12 PTS),68 - 65,-3,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,369,8,0,3,9:08 PM,3:48,SUB: Brand FOR Horford,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,370,8,0,3,9:08 PM,3:48,SUB: Johnson FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,371,3,12,3,9:08 PM,3:48,,,Belinelli Free Throw 2 of 2 (13 PTS),69 - 65,-4,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,373,2,1,3,9:09 PM,3:30,MISS Teague 25' 3PT Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,374,4,0,3,9:09 PM,3:28,,,Baynes REBOUND (Off:0 Def:2),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,375,1,1,3,9:09 PM,3:22,,,Bonner 25' 3PT Jump Shot (3 PTS) (Ginobili 2 AST),72 - 65,-7,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,376,2,42,3,9:09 PM,3:07,MISS Cunningham 1' Driving Layup,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,377,4,0,3,9:09 PM,3:06,,,Baynes REBOUND (Off:0 Def:3),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,378,2,1,3,9:10 PM,2:55,,,MISS Belinelli 23' Jump Shot,,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,379,4,0,3,9:10 PM,2:55,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,380,9,1,3,9:10 PM,2:55,,,Spurs Timeout: Regular (Reg.3 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,382,8,0,3,9:12 PM,2:55,SUB: Mack FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,384,2,1,3,9:12 PM,2:38,MISS Johnson 25' 3PT Jump Shot,,,,,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,385,4,0,3,9:13 PM,2:36,Brand REBOUND (Off:1 Def:1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,386,5,4,3,9:13 PM,2:34,Mack Traveling Turnover (P1.T12),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300068,387,1,8,3,9:13 PM,2:27,,,Baynes 1' Slam Dunk (2 PTS) (De Colo 1 AST),74 - 65,-9,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,388,2,1,3,9:13 PM,2:04,MISS Scott 27' 3PT Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,389,4,0,3,9:13 PM,2:02,,,Belinelli REBOUND (Off:0 Def:4),,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,390,2,1,3,9:13 PM,1:54,,,MISS De Colo 25' 3PT Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,391,4,0,3,9:13 PM,1:52,,,Baynes REBOUND (Off:1 Def:3),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,392,2,4,3,9:13 PM,1:52,,,MISS Baynes 1' Tip Shot,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,393,4,0,3,9:13 PM,1:51,Mack REBOUND (Off:0 Def:2),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,394,1,1,3,9:14 PM,1:42,Scott 4' Jump Shot (8 PTS) (Mack 2 AST),,,74 - 67,-7,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,395,6,2,3,9:14 PM,1:42,,,Bonner S.FOUL (P3.T4),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,396,3,10,3,9:14 PM,1:42,MISS Scott Free Throw 1 of 1,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,398,4,0,3,9:14 PM,1:41,,,Ginobili REBOUND (Off:0 Def:2),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,399,1,1,3,9:14 PM,1:30,,,Bonner 25' 3PT Jump Shot (6 PTS) (Ginobili 3 AST),77 - 67,-10,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,400,2,1,3,9:15 PM,1:08,MISS Mack 26' 3PT Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,401,4,0,3,9:15 PM,1:06,,,Ginobili REBOUND (Off:0 Def:3),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,402,7,5,3,9:15 PM,1:03,Johnson Violation:Kicked Ball,,,,,4,201949,James Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,404,1,77,3,9:15 PM,0:52,,,Bonner 11' Driving Jump Shot (8 PTS),79 - 67,-12,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,405,2,1,3,9:15 PM,0:39,MISS Cunningham  3PT Jump Shot,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,406,4,0,3,9:15 PM,0:38,,,Baynes REBOUND (Off:1 Def:4),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,407,2,1,3,9:16 PM,0:31,,,MISS Belinelli 25' 3PT Jump Shot,,,5,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,408,4,0,3,9:16 PM,0:31,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,409,6,3,3,9:16 PM,0:31,Brand L.B.FOUL (P2.PN),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,410,3,11,3,9:16 PM,0:31,,,MISS Baynes Free Throw 1 of 2,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,411,4,1,3,9:16 PM,0:31,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,412,3,12,3,9:16 PM,0:31,,,Baynes Free Throw 2 of 2 (3 PTS),80 - 67,-13,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,414,5,2,3,9:17 PM,0:10,Mack Lost Ball Turnover (P2.T13),,Ginobili STEAL (1 STL),,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,415,1,41,3,9:17 PM,0:04,,,Baynes  Running Layup (5 PTS) (Ginobili 4 AST),82 - 67,-15,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,416,5,2,3,9:17 PM,0:00,Cunningham Lost Ball Turnover (P1.T14),,Bonner STEAL (1 STL),,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,417,13,0,3,9:17 PM,0:00,,End of 3rd Period (9:17 PM EST),,82 - 67,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,419,12,0,4,9:20 PM,12:00,,Start of 4th Period (9:20 PM EST),,82 - 67,-15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,420,2,1,4,9:20 PM,11:36,,,MISS De Colo 16' Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,421,4,0,4,9:20 PM,11:34,Brand REBOUND (Off:1 Def:2),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,422,2,1,4,9:20 PM,11:21,MISS Korver 7' Jump Shot,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,423,4,0,4,9:20 PM,11:20,,,Baynes REBOUND (Off:1 Def:5),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,424,5,2,4,9:20 PM,11:08,Mack STEAL (1 STL),,Bonner Lost Ball Turnover (P1.T15),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,425,1,1,4,9:21 PM,11:02,Korver 25' 3PT Jump Shot (21 PTS) (Scott 2 AST),,,82 - 70,-12,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,426,6,1,4,9:21 PM,10:49,Cunningham P.FOUL (P1.T1),,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,427,1,1,4,9:21 PM,10:40,,,Fells 19' Jump Shot (2 PTS),84 - 70,-14,5,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,428,6,2,4,9:22 PM,10:24,,,De Colo S.FOUL (P1.T1),,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,429,3,11,4,9:22 PM,10:24,MISS Scott Free Throw 1 of 2,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,430,4,1,4,9:22 PM,10:24,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,431,8,0,4,9:22 PM,10:24,,,SUB: Ayres FOR Baynes,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,432,3,12,4,9:22 PM,10:24,Scott Free Throw 2 of 2 (9 PTS),,,84 - 71,-13,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,435,5,4,4,9:22 PM,10:11,,,Fells Traveling Turnover (P1.T16),,,5,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300068,436,2,1,4,9:23 PM,9:59,MISS Brand 18' Jump Shot,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,437,4,0,4,9:23 PM,9:58,,,Nwaelele REBOUND (Off:0 Def:1),,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,438,2,1,4,9:23 PM,9:38,,,MISS De Colo  3PT Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,439,4,0,4,9:23 PM,9:37,Korver REBOUND (Off:0 Def:2),,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,440,6,2,4,9:23 PM,9:35,,,Nwaelele S.FOUL (P1.T2),,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,441,3,11,4,9:23 PM,9:35,Cunningham Free Throw 1 of 2 (8 PTS),,,84 - 72,-12,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,443,8,0,4,9:24 PM,9:35,,,SUB: Mills FOR De Colo,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,444,3,12,4,9:24 PM,9:35,Cunningham Free Throw 2 of 2 (9 PTS),,,84 - 73,-11,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,446,1,5,4,9:24 PM,9:21,,,Mills  Layup (2 PTS) (Ayres 3 AST),86 - 73,-13,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,447,1,89,4,9:24 PM,9:10,Cunningham 1' Reverse Slam Dunk (11 PTS) (Brand 1 AST),,,86 - 75,-11,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,448,2,1,4,9:25 PM,8:50,,,MISS Mills 25' 3PT Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,449,4,0,4,9:25 PM,8:49,Brand REBOUND (Off:1 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,450,6,2,4,9:25 PM,8:45,,,Bonner S.FOUL (P4.T3),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,451,9,4,4,9:25 PM,8:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,452,8,0,4,9:27 PM,8:45,SUB: Teague FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,454,3,11,4,9:27 PM,8:45,Scott Free Throw 1 of 2 (10 PTS),,,86 - 76,-10,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,456,3,12,4,9:27 PM,8:45,Scott Free Throw 2 of 2 (11 PTS),,,86 - 77,-9,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,458,5,4,4,9:28 PM,8:32,,,Ayres Traveling Turnover (P2.T17),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300068,459,8,0,4,9:28 PM,8:32,SUB: Millsap FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,460,1,1,4,9:28 PM,8:15,Korver 21' Jump Shot (23 PTS) (Brand 2 AST),,,86 - 79,-7,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,461,2,1,4,9:29 PM,8:05,,,MISS Fells 19' Jump Shot,,,5,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,462,4,0,4,9:29 PM,8:03,,,Mills REBOUND (Off:1 Def:0),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,463,1,72,4,9:29 PM,8:01,,,Mills 4' Putback Layup (4 PTS),88 - 79,-9,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,464,1,5,4,9:29 PM,7:55,Millsap 2' Layup (2 PTS) (Teague 9 AST),,,88 - 81,-7,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,465,6,2,4,9:29 PM,7:55,,,Ayres S.FOUL (P2.T4),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,466,8,0,4,9:29 PM,7:55,SUB: Carroll FOR Korver,,,,,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,467,3,10,4,9:29 PM,7:55,Millsap Free Throw 1 of 1 (3 PTS),,,88 - 82,-6,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,469,2,1,4,9:29 PM,7:43,,,MISS Mills 20' Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,470,4,0,4,9:29 PM,7:42,Millsap REBOUND (Off:3 Def:8),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,471,2,1,4,9:30 PM,7:26,MISS Millsap 19' Jump Shot,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,472,4,0,4,9:30 PM,7:24,,,Ayres REBOUND (Off:1 Def:1),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,473,1,1,4,9:30 PM,7:08,,,Mills 20' Jump Shot (6 PTS),90 - 82,-8,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,474,5,4,4,9:30 PM,6:57,Teague Traveling Turnover (P3.T15),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011300068,475,8,0,4,9:30 PM,6:57,SUB: Horford FOR Brand,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,478,8,0,4,9:31 PM,6:57,,,SUB: Baynes FOR Bonner,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,479,6,1,4,9:31 PM,6:47,Teague P.FOUL (P3.T2),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,480,7,1,4,9:31 PM,6:47,HAWKS Violation: Delay of game Violation,,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300068,539,6,18,4,9:32 PM,6:47,HAWKS Foul,,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300068,481,3,16,4,9:32 PM,6:47,,,Mills Free Throw Technical (7 PTS),91 - 82,-9,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,483,6,1,4,9:32 PM,6:45,Teague P.FOUL (P4.T3),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300068,485,2,1,4,9:33 PM,6:30,,,MISS Ayres 16' Jump Shot,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,486,4,0,4,9:33 PM,6:29,Carroll REBOUND (Off:2 Def:4),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,487,2,1,4,9:33 PM,6:11,MISS Cunningham 20' Jump Shot,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,488,4,0,4,9:33 PM,6:09,,,Mills REBOUND (Off:1 Def:1),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,489,2,5,4,9:33 PM,5:59,,,MISS Baynes 1' Layup,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,490,4,0,4,9:33 PM,5:58,Horford REBOUND (Off:0 Def:8),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,492,9,1,4,9:33 PM,5:54,HAWKS Timeout: Regular (Full 4 Short 1),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,494,8,0,4,9:36 PM,5:54,SUB: Korver FOR Cunningham,,,,,4,203099,Jared Cunningham,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,496,6,2,4,9:36 PM,5:40,,,Baynes S.FOUL (P2.PN),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,497,3,11,4,9:36 PM,5:40,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,498,4,1,4,9:36 PM,5:40,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,499,3,12,4,9:36 PM,5:40,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,501,4,0,4,9:37 PM,5:38,,,Fells REBOUND (Off:0 Def:1),,,5,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,502,5,1,4,9:37 PM,5:37,,,Fells Bad Pass Turnover (P2.T18),,,5,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,504,5,2,4,9:37 PM,5:32,Teague Lost Ball Turnover (P4.T16),,Mills STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,505,1,50,4,9:37 PM,5:27,,,Fells  Running Dunk (4 PTS),93 - 82,-11,5,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,506,6,2,4,9:37 PM,5:13,,,Ayres S.FOUL (P3.PN),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,507,3,11,4,9:38 PM,5:13,MISS Millsap Free Throw 1 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,508,4,1,4,9:38 PM,5:13,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,509,3,12,4,9:38 PM,5:13,Millsap Free Throw 2 of 2 (4 PTS),,,93 - 83,-10,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,511,5,1,4,9:38 PM,4:55,Horford STEAL (1 STL),,Mills Bad Pass Turnover (P1.T19),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,512,1,50,4,9:38 PM,4:51,Carroll 1' Running Dunk (11 PTS),,,93 - 85,-8,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,513,1,42,4,9:39 PM,4:33,,,Baynes 1' Driving Layup (7 PTS),95 - 85,-10,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,514,2,1,4,9:39 PM,4:24,MISS Horford 15' Jump Shot,,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,515,4,0,4,9:39 PM,4:21,Carroll REBOUND (Off:3 Def:4),,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,516,2,77,4,9:39 PM,4:02,MISS Teague 6' Driving Jump Shot,,Ayres BLOCK (1 BLK),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0
+0011300068,517,4,0,4,9:39 PM,3:59,,,Nwaelele REBOUND (Off:0 Def:2),,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,518,1,41,4,9:39 PM,3:57,,,Mills 1' Running Layup (9 PTS) (Nwaelele 1 AST),97 - 85,-12,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,519,1,43,4,9:39 PM,3:50,Millsap  Alley Oop Layup (6 PTS) (Teague 10 AST),,,97 - 87,-10,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,520,2,1,4,9:40 PM,3:36,,,MISS Ayres 16' Jump Shot,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,521,4,0,4,9:40 PM,3:35,Horford REBOUND (Off:0 Def:9),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,522,1,42,4,9:40 PM,3:18,Millsap 2' Driving Layup (8 PTS) (Korver 3 AST),,,97 - 89,-8,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,523,5,1,4,9:40 PM,3:05,Horford STEAL (2 STL),,Mills Bad Pass Turnover (P2.T20),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,524,1,41,4,9:40 PM,3:02,Carroll 1' Running Layup (13 PTS) (Korver 4 AST),,,97 - 91,-6,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,525,6,2,4,9:40 PM,3:02,,,Ayres S.FOUL (P4.PN),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,526,3,10,4,9:41 PM,3:02,Carroll Free Throw 1 of 1 (14 PTS),,,97 - 92,-5,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,528,2,1,4,9:41 PM,2:47,,,MISS Mills 24' 3PT Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,529,4,0,4,9:41 PM,2:46,Horford REBOUND (Off:0 Def:10),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,530,1,41,4,9:41 PM,2:40,Millsap 2' Running Layup (10 PTS) (Teague 11 AST),,,97 - 94,-3,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,531,5,1,4,9:41 PM,2:29,Teague STEAL (2 STL),,Nwaelele Bad Pass Turnover (P1.T21),,,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,532,1,1,4,9:41 PM,2:24,Korver 25' 3PT Jump Shot (26 PTS) (Horford 2 AST),,,97 - 97,TIE,4,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,533,2,1,4,9:42 PM,2:04,,,MISS Mills 25' 3PT Jump Shot,,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,534,4,0,4,9:42 PM,2:02,,,Ayres REBOUND (Off:2 Def:1),,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,535,1,1,4,9:42 PM,1:57,,,Nwaelele 25' 3PT Jump Shot (3 PTS),100 - 97,-3,5,203327,Daniel Nwaelele,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,536,6,1,4,9:42 PM,1:50,,,Mills P.FOUL (P1.PN),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011300068,537,9,1,4,9:42 PM,1:50,,,Spurs Timeout: Regular (Reg.4 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,542,3,11,4,9:45 PM,1:50,Teague Free Throw 1 of 2 (11 PTS),,,100 - 98,-2,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,544,3,12,4,9:45 PM,1:50,Teague Free Throw 2 of 2 (12 PTS),,,100 - 99,-1,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,546,2,1,4,9:45 PM,1:32,,,MISS Ayres 10' Jump Shot,,,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,548,4,0,4,9:45 PM,1:32,,,Baynes REBOUND (Off:2 Def:5),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,547,1,4,4,9:45 PM,1:32,,,Baynes 1' Tip Shot (9 PTS),102 - 99,-3,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,549,1,1,4,9:45 PM,1:22,Horford 17' Jump Shot (13 PTS) (Teague 12 AST),,,102 - 101,-1,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011300068,550,1,41,4,9:46 PM,1:08,,,Mills 4' Running Layup (11 PTS) (Ayres 4 AST),104 - 101,-3,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,551,1,1,4,9:46 PM,1:04,Teague 25' 3PT Jump Shot (15 PTS),,,104 - 104,TIE,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,552,2,1,4,9:46 PM,0:47,,,MISS Baynes 14' Jump Shot,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300068,553,4,0,4,9:46 PM,0:46,Horford REBOUND (Off:0 Def:11),,,,,4,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,554,2,1,4,9:46 PM,0:24,MISS Carroll 24' 3PT Jump Shot,,,,,4,201960,DeMarre Carroll,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011300068,555,4,0,4,9:47 PM,0:23,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,557,1,1,4,9:48 PM,0:03,,,Baynes 8' Jump Shot (11 PTS) (Mills 1 AST),106 - 104,-2,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,558,9,1,4,9:48 PM,0:03,HAWKS Timeout: Regular (Full 5 Short 1),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300068,560,8,0,4,9:49 PM,0:03,,,SUB: De Colo FOR Baynes,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300068,562,13,0,4,9:50 PM,0:00,,End of 4th Period (9:50 PM EST),,106 - 104,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

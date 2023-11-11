@@ -1,0 +1,442 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400104,0,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,1,10,0,1,7:41 PM,12:00,Jump Ball Valanciunas vs. Chubrevich: Tip to DeRozan,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,2,5,1,1,7:41 PM,11:47,Lowry Bad Pass Turnover (P1.T1),,Chubrevich STEAL (1 STL),,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,3,1,41,1,7:41 PM,11:42,,,Allen 2' Running Layup (2 PTS) (Chubrevich 1 AST),2 - 0,-2,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,4,1,1,1,7:42 PM,11:18,Ross 21' Jump Shot (2 PTS),,,2 - 2,TIE,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,5,2,1,1,7:42 PM,11:04,,,MISS Chubrevich 14' Jump Shot,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,6,4,0,1,7:42 PM,11:03,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,7,1,1,1,7:42 PM,10:50,Lowry 20' Jump Shot (2 PTS) (DeRozan 1 AST),,,2 - 4,2,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,8,5,40,1,7:43 PM,10:33,,,Stitt Out of Bounds Lost Ball Turnover (P1.T1),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,9,2,47,1,7:43 PM,10:26,MISS DeRozan 17' Turnaround Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,10,4,0,1,7:43 PM,10:25,,,Rougeau REBOUND (Off:0 Def:1),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,11,2,57,1,7:43 PM,10:13,,,MISS Allen 6' Driving Hook Shot,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,12,4,0,1,7:43 PM,10:12,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,13,2,58,1,7:43 PM,9:56,MISS Valanciunas 7' Turnaround Hook Shot,,Chubrevich BLOCK (1 BLK),,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0
+0011400104,17,4,0,1,7:43 PM,9:56,,,Stitt REBOUND (Off:0 Def:1),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,14,1,65,1,7:43 PM,9:44,,,Chubrevich 4' Jump Hook Shot (2 PTS) (Angley 1 AST),4 - 4,TIE,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,15,1,41,1,7:44 PM,9:34,Lowry 3' Running Layup (4 PTS),,,4 - 6,2,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,18,2,42,1,7:44 PM,9:17,,,MISS Rougeau 4' Driving Layup,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,19,4,0,1,7:44 PM,9:16,Ross REBOUND (Off:0 Def:1),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,20,5,1,1,7:44 PM,9:10,Ross Bad Pass Turnover (P1.T2),,Rougeau STEAL (1 STL),,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,21,2,1,1,7:44 PM,9:05,,,MISS Angley 27' 3PT Jump Shot,,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,22,4,0,1,7:44 PM,9:03,,,Chubrevich REBOUND (Off:1 Def:0),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,23,5,1,1,7:44 PM,9:00,DeRozan STEAL (1 STL),,Chubrevich Bad Pass Turnover (P1.T2),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,24,2,1,1,7:44 PM,8:54,MISS Lowry 25' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,25,4,0,1,7:44 PM,8:53,Ross REBOUND (Off:1 Def:1),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,26,5,2,1,7:45 PM,8:36,DeRozan Lost Ball Turnover (P1.T3),,Allen STEAL (1 STL),,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,27,5,1,1,7:45 PM,8:29,,,Rougeau Bad Pass Turnover (P1.T3),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,29,2,1,1,7:45 PM,8:12,MISS Lowry  3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,30,4,0,1,7:45 PM,8:11,Valanciunas REBOUND (Off:1 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,31,1,58,1,7:45 PM,8:08,Valanciunas 2' Turnaround Hook Shot (2 PTS),,,4 - 8,4,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,32,1,1,1,7:46 PM,7:52,,,Allen 22' Jump Shot (4 PTS) (Stitt 1 AST),6 - 8,2,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,33,5,1,1,7:46 PM,7:38,Lowry Bad Pass Turnover (P2.T4),,Allen STEAL (2 STL),,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,34,2,1,1,7:46 PM,7:29,,,MISS Rougeau 25' 3PT Jump Shot,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,35,4,0,1,7:46 PM,7:28,Lowry REBOUND (Off:0 Def:1),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,36,6,2,1,7:46 PM,7:17,,,Allen S.FOUL (P1.T1),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,37,3,11,1,7:46 PM,7:17,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,38,4,1,1,7:46 PM,7:17,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,39,3,12,1,7:47 PM,7:17,MISS Valanciunas Free Throw 2 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,41,4,0,1,7:47 PM,7:17,Johnson REBOUND (Off:1 Def:0),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,42,1,4,1,7:47 PM,7:14,Johnson 2' Tip Shot (2 PTS),,,6 - 10,4,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,43,1,1,1,7:47 PM,7:00,,,Allen 22' Jump Shot (6 PTS) (Stitt 2 AST),8 - 10,2,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,44,5,2,1,7:47 PM,6:40,DeRozan Lost Ball Turnover (P2.T5),,Allen STEAL (3 STL),,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,45,6,1,1,7:48 PM,6:30,Lowry P.FOUL (P1.T1),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,46,2,58,1,7:48 PM,6:24,,,MISS Chubrevich 5' Turnaround Hook Shot,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,47,4,0,1,7:48 PM,6:23,,,Rougeau REBOUND (Off:1 Def:1),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,48,2,1,1,7:48 PM,6:16,,,MISS Allen 25' 3PT Jump Shot,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,49,4,0,1,7:48 PM,6:15,,,Rougeau REBOUND (Off:2 Def:1),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,50,2,73,1,7:48 PM,6:11,Valanciunas BLOCK (1 BLK),,MISS Allen 1' Driving Reverse Layup,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,51,4,0,1,7:48 PM,6:08,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,52,1,76,1,7:48 PM,6:05,DeRozan 1' Running Finger Roll Layup (2 PTS) (Lowry 1 AST),,,8 - 12,4,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,53,6,4,1,7:48 PM,5:56,,,Allen OFF.Foul (P2),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,54,5,5,1,7:48 PM,5:56,,,Allen Foul Turnover (P1.T4),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,55,9,1,1,7:49 PM,5:56,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,56,8,0,1,7:50 PM,5:56,,,SUB: Hernandez FOR Allen,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,57,8,0,1,7:51 PM,5:56,SUB: Hansbrough FOR Johnson,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,58,8,0,1,7:51 PM,5:56,SUB: Patterson FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,59,2,80,1,7:51 PM,5:40,MISS Ross 26' 3PT Step Back Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,60,4,0,1,7:51 PM,5:39,,,Chubrevich REBOUND (Off:1 Def:1),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,61,2,1,1,7:51 PM,5:25,,,MISS Chubrevich 14' Jump Shot,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,62,4,0,1,7:51 PM,5:24,Lowry REBOUND (Off:0 Def:2),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,63,2,1,1,7:52 PM,5:16,MISS Ross 25' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,64,4,0,1,7:52 PM,5:15,,,Stitt REBOUND (Off:0 Def:2),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,65,5,4,1,7:52 PM,5:06,,,Stitt Traveling Turnover (P2.T5),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,66,2,79,1,7:52 PM,4:46,MISS Ross 19' Pullup Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,67,4,0,1,7:52 PM,4:45,,,Hernandez REBOUND (Off:0 Def:1),,,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,68,2,79,1,7:53 PM,4:28,,,MISS Rougeau 6' Pullup Jump Shot,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,69,4,0,1,7:53 PM,4:27,Hansbrough REBOUND (Off:0 Def:1),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,70,2,1,1,7:53 PM,4:15,MISS Ross  3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,71,4,0,1,7:53 PM,4:14,,,Chubrevich REBOUND (Off:1 Def:2),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,72,2,65,1,7:53 PM,4:01,,,MISS Stitt 8' Jump Hook Shot,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,73,4,0,1,7:53 PM,4:00,Patterson REBOUND (Off:0 Def:1),,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,74,5,1,1,7:53 PM,3:54,Ross Bad Pass Turnover (P2.T6),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,75,8,0,1,7:53 PM,3:54,SUB: Hamilton FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,76,5,11,1,7:54 PM,3:29,,,Maccabi Haifa Turnover: Shot Clock (T#6),,,3,93,Hubert Davis,,,,,0,0,,,,,,1,0,,,,,,0
+0011400104,77,1,77,1,7:54 PM,3:17,DeRozan 8' Driving Jump Shot (4 PTS),,,8 - 14,6,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,78,2,1,1,7:55 PM,3:05,,,MISS Hernandez 26' 3PT Jump Shot,,,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,79,4,0,1,7:55 PM,3:05,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,80,6,3,1,7:55 PM,3:05,,,Chubrevich L.B.FOUL (P1.T2),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,81,5,8,1,7:55 PM,2:48,Hansbrough 3 Second Violation Turnover (P1.T7),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,82,9,1,1,7:55 PM,2:48,,,Maccabi Haifa Timeout: Regular (Reg.1 Short 0),,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,83,8,0,1,7:57 PM,2:48,SUB: Johnson FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,84,8,0,1,7:57 PM,2:48,,,SUB: Shoutvin FOR Chubrevich,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,85,1,82,1,7:58 PM,2:31,,,Shoutvin 9' Driving Bank Shot (2 PTS) (Stitt 3 AST),10 - 14,4,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,86,6,1,1,7:58 PM,2:16,,,Angley P.FOUL (P1.T3),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,88,5,1,1,7:58 PM,2:08,Hamilton Bad Pass Turnover (P1.T8),,Shoutvin STEAL (1 STL),,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,89,1,52,1,7:58 PM,2:02,,,Rougeau  Alley Oop Dunk (2 PTS) (Angley 2 AST),12 - 14,2,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,90,6,2,1,7:59 PM,1:45,,,Angley S.FOUL (P2.T4),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,91,3,11,1,7:59 PM,1:45,Lowry Free Throw 1 of 2 (5 PTS),,,12 - 15,3,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,93,8,0,1,7:59 PM,1:45,,,SUB: Bar-Even FOR Angley,,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,5,43232,Tomer Bar-Even,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,94,3,12,1,7:59 PM,1:45,MISS Lowry Free Throw 2 of 2,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,96,4,0,1,7:59 PM,1:44,,,Hernandez REBOUND (Off:0 Def:2),,,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,97,1,1,1,8:00 PM,1:20,,,Stitt 27' 3PT Jump Shot (3 PTS) (Hernandez 1 AST),15 - 15,TIE,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,98,1,75,1,8:00 PM,1:01,Johnson 4' Driving Finger Roll Layup (2 PTS),,,15 - 17,2,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,99,1,1,1,8:00 PM,0:41,,,Stitt 12' Jump Shot (5 PTS),17 - 17,TIE,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,100,2,79,1,8:01 PM,0:32,MISS Lowry 26' 3PT Pullup Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,101,4,0,1,8:01 PM,0:31,,,Rougeau REBOUND (Off:2 Def:2),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,102,2,42,1,8:01 PM,0:15,Patterson BLOCK (1 BLK),,MISS Shoutvin 2' Driving Layup,,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,103,4,0,1,8:01 PM,0:14,,,Shoutvin REBOUND (Off:1 Def:0),,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,104,1,44,1,8:01 PM,0:14,,,Shoutvin 3' Reverse Layup (4 PTS),19 - 17,-2,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,105,1,43,1,8:01 PM,0:01,Hansbrough 3' Alley Oop Layup (2 PTS) (Lowry 2 AST),,,19 - 19,TIE,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,106,13,0,1,8:01 PM,0:00,,End of 1st Period (8:01 PM EST),,19 - 19,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,108,12,0,2,8:04 PM,12:00,,Start of 2nd Period (8:04 PM EST),,19 - 19,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,109,2,1,2,8:04 PM,11:43,Patterson BLOCK (2 BLK),,MISS Stitt 4' Jump Shot,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,110,4,0,2,8:04 PM,11:43,Hamilton REBOUND (Off:0 Def:1),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,111,6,1,2,8:05 PM,11:43,,,Shoutvin P.FOUL (P1.T1),,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,112,1,1,2,8:05 PM,11:27,Hamilton 26' 3PT Jump Shot (3 PTS) (Cherry 1 AST),,,19 - 22,3,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,113,1,86,2,8:05 PM,11:07,,,Shoutvin 15' Turnaround Fadeaway (6 PTS),21 - 22,1,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,114,6,1,2,8:05 PM,10:54,,,Shoutvin P.FOUL (P2.T2),,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,115,5,2,2,8:06 PM,10:46,Hansbrough Lost Ball Turnover (P2.T9),,Stitt STEAL (1 STL),,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,116,6,2,2,8:06 PM,10:43,Cherry S.FOUL (P1.T1),,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,117,3,11,2,8:06 PM,10:43,,,Stitt Free Throw 1 of 2 (6 PTS),22 - 22,TIE,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,119,3,12,2,8:06 PM,10:43,,,Stitt Free Throw 2 of 2 (7 PTS),23 - 22,-1,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,122,1,42,2,8:07 PM,10:27,Johnson 2' Driving Layup (4 PTS),,,23 - 24,1,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,123,5,1,2,8:07 PM,10:03,Patterson STEAL (1 STL),,Stitt Bad Pass Turnover (P3.T7),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,124,5,2,2,8:08 PM,9:57,Johnson Lost Ball Turnover (P1.T10),,Stitt STEAL (2 STL),,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,125,5,1,2,8:08 PM,9:52,Johnson STEAL (1 STL),,Stitt Bad Pass Turnover (P4.T8),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,126,6,29,2,8:08 PM,9:45,,,Rougeau Shooting Block Foul (P1.T3),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,127,3,11,2,8:08 PM,9:45,Johnson Free Throw 1 of 2 (5 PTS),,,23 - 25,2,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,129,3,12,2,8:08 PM,9:45,Johnson Free Throw 2 of 2 (6 PTS),,,23 - 26,3,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,131,2,65,2,8:09 PM,9:24,,,MISS Ofoegbu 5' Jump Hook Shot,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,132,4,0,2,8:09 PM,9:23,Patterson REBOUND (Off:0 Def:2),,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,133,2,85,2,8:09 PM,9:10,MISS Hansbrough 5' Turnaround Bank Shot,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,134,4,0,2,8:09 PM,9:08,Patterson REBOUND (Off:1 Def:2),,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,135,1,4,2,8:09 PM,9:05,Patterson 1' Tip Shot (2 PTS),,,23 - 28,5,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,137,2,1,2,8:09 PM,8:43,,,MISS Shoutvin 25' 3PT Jump Shot,,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,138,4,0,2,8:10 PM,8:43,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,139,6,3,2,8:10 PM,8:43,,,Ofoegbu L.B.FOUL (P1.T4),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,140,9,4,2,8:10 PM,8:43,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,141,8,0,2,8:12 PM,8:43,SUB: Stiemsma FOR Hansbrough,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,142,8,0,2,8:12 PM,8:43,,,SUB: Chubrevich FOR Stitt,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,143,8,0,2,8:12 PM,8:43,,,SUB: Angley FOR Shoutvin,,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,144,8,0,2,8:12 PM,8:43,,,SUB: Allen FOR Ofoegbu,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,145,1,7,2,8:12 PM,8:27,Stiemsma  Dunk (2 PTS) (Hamilton 1 AST),,,23 - 30,7,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,146,1,42,2,8:12 PM,8:08,,,Allen 3' Driving Layup (8 PTS),25 - 30,5,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,147,1,65,2,8:13 PM,7:44,Stiemsma 4' Jump Hook Shot (4 PTS) (Hamilton 2 AST),,,25 - 32,7,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,148,1,79,2,8:13 PM,7:28,,,Allen 20' Pullup Jump Shot (10 PTS),27 - 32,5,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,149,1,86,2,8:14 PM,7:06,Hamilton 10' Turnaround Fadeaway (5 PTS),,,27 - 34,7,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,150,2,42,2,8:14 PM,6:48,Johnson BLOCK (1 BLK),,MISS Allen 4' Driving Layup,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,151,4,0,2,8:14 PM,6:46,Johnson REBOUND (Off:0 Def:1),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,152,2,1,2,8:14 PM,6:39,MISS Cherry 24' 3PT Jump Shot,,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,153,4,0,2,8:14 PM,6:39,,,Chubrevich REBOUND (Off:1 Def:3),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,154,2,79,2,8:14 PM,6:26,Cherry BLOCK (1 BLK),,MISS Angley 19' Pullup Jump Shot,,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,155,4,0,2,8:14 PM,6:24,Hamilton REBOUND (Off:0 Def:2),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,156,1,75,2,8:15 PM,6:04,Johnson 2' Driving Finger Roll Layup (8 PTS),,,27 - 36,9,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,158,6,2,2,8:15 PM,5:54,Patterson S.FOUL (P1.T2),,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,159,9,1,2,8:15 PM,5:54,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,160,8,0,2,8:17 PM,5:54,,,SUB: Stitt FOR Rougeau,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,161,8,0,2,8:17 PM,5:54,,,SUB: Hernandez FOR Bar-Even,,,5,43232,Tomer Bar-Even,93.0,Haifa,Maccabi Haifa,MAC,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,162,8,0,2,8:17 PM,5:54,SUB: Nogueira FOR Patterson,,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,163,8,0,2,8:17 PM,5:54,SUB: Caboclo FOR Johnson,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,164,8,0,2,8:17 PM,5:54,SUB: Vasquez FOR Cherry,,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,165,3,11,2,8:17 PM,5:54,,,Allen Free Throw 1 of 2 (11 PTS),28 - 36,8,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,167,3,12,2,8:17 PM,5:54,,,Allen Free Throw 2 of 2 (12 PTS),29 - 36,7,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,169,2,1,2,8:18 PM,5:35,MISS Hamilton  3PT Jump Shot,,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,170,4,0,2,8:18 PM,5:34,,,Stitt REBOUND (Off:0 Def:3),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,171,2,80,2,8:18 PM,5:12,,,MISS Allen 17' Step Back Jump Shot,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,172,4,0,2,8:18 PM,5:11,Vasquez REBOUND (Off:0 Def:1),,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,173,6,1,2,8:18 PM,5:05,,,Angley P.FOUL (P3.PN),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,174,3,11,2,8:19 PM,5:05,Nogueira Free Throw 1 of 2 (1 PTS),,,29 - 37,8,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,176,3,12,2,8:19 PM,5:05,Nogueira Free Throw 2 of 2 (2 PTS),,,29 - 38,9,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,178,5,2,2,8:19 PM,4:49,Stiemsma STEAL (1 STL),,Hernandez Lost Ball Turnover (P1.T9),,,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,179,2,1,2,8:19 PM,4:42,MISS Stiemsma 18' Jump Shot,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,180,4,0,2,8:19 PM,4:41,,,Hernandez REBOUND (Off:0 Def:3),,,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,181,2,1,2,8:20 PM,4:35,,,MISS Hernandez 26' 3PT Jump Shot,,,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,182,4,0,2,8:20 PM,4:32,Hamilton REBOUND (Off:0 Def:3),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,183,2,1,2,8:20 PM,4:22,MISS Caboclo 27' 3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,184,4,0,2,8:20 PM,4:21,,,Allen REBOUND (Off:0 Def:1),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,185,5,40,2,8:20 PM,4:07,,,Allen Out of Bounds Lost Ball Turnover (P2.T10),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,186,8,0,2,8:20 PM,4:07,SUB: Ross FOR Hamilton,,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,187,6,17,2,8:21 PM,3:55,,,Maccabi Haifa T.Foul (Def. 3 Sec Chubrevich ),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,188,3,16,2,8:21 PM,3:55,Vasquez Free Throw Technical (1 PTS),,,29 - 39,10,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,190,2,1,2,8:21 PM,3:47,MISS Vasquez  3PT Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,191,4,0,2,8:21 PM,3:45,Caboclo REBOUND (Off:1 Def:0),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,192,1,4,2,8:21 PM,3:44,Caboclo 2' Tip Shot (2 PTS),,,29 - 41,12,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,193,6,1,2,8:22 PM,3:25,Stiemsma P.FOUL (P1.T3),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,194,8,0,2,8:22 PM,3:25,,,SUB: Rougeau FOR Stitt,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,195,6,5,2,8:22 PM,3:25,Caboclo IN.FOUL (P1.T4),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,196,3,11,2,8:22 PM,3:25,,,Allen Free Throw 1 of 2 (13 PTS),30 - 41,11,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,198,3,12,2,8:22 PM,3:25,,,Allen Free Throw 2 of 2 (14 PTS),31 - 41,10,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,200,1,75,2,8:23 PM,3:01,Vasquez 3' Driving Finger Roll Layup (3 PTS) (Ross 1 AST),,,31 - 43,12,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,201,2,42,2,8:23 PM,2:46,Nogueira BLOCK (1 BLK),,MISS Allen 5' Driving Layup,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,202,4,0,2,8:23 PM,2:45,Nogueira REBOUND (Off:0 Def:1),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,203,1,42,2,8:23 PM,2:40,Vasquez 4' Driving Layup (5 PTS),,,31 - 45,14,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,204,6,2,2,8:23 PM,2:40,,,Rougeau S.FOUL (P2.PN),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,205,9,1,2,8:24 PM,2:40,,,Maccabi Haifa Timeout: Regular (Reg.2 Short 0),,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,207,8,0,2,8:25 PM,2:40,,,SUB: Stitt FOR Chubrevich,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,209,3,10,2,8:25 PM,2:40,Vasquez Free Throw 1 of 1 (6 PTS),,,31 - 46,15,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,211,2,42,2,8:26 PM,2:28,Nogueira BLOCK (2 BLK),,MISS Rougeau 3' Driving Layup,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,212,4,0,2,8:26 PM,2:26,Caboclo REBOUND (Off:1 Def:1),,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,213,5,8,2,8:26 PM,2:20,Nogueira 3 Second Violation Turnover (P1.T11),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,214,8,0,2,8:26 PM,2:20,,,SUB: Hickerson FOR Rougeau,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,215,1,1,2,8:27 PM,2:07,,,Allen 23' Jump Shot (16 PTS) (Angley 3 AST),33 - 46,13,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,216,5,1,2,8:27 PM,1:39,Vasquez Bad Pass Turnover (P1.T12),,Hernandez STEAL (1 STL),,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,218,2,47,2,8:28 PM,1:15,,,MISS Hickerson 6' Turnaround Jump Shot,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,219,4,0,2,8:28 PM,1:14,,,Allen REBOUND (Off:1 Def:1),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,220,1,87,2,8:28 PM,1:12,,,Allen  Putback Dunk (18 PTS),35 - 46,11,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,221,6,4,2,8:28 PM,0:59,Nogueira OFF.Foul (P1),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,222,5,5,2,8:28 PM,0:59,Nogueira Foul Turnover (P2.T13),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,223,6,2,2,8:29 PM,0:43,Stiemsma S.FOUL (P2.PN),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,224,3,11,2,8:29 PM,0:43,,,Hernandez Free Throw 1 of 2 (1 PTS),36 - 46,10,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,226,8,0,2,8:29 PM,0:43,,,SUB: Ariely FOR Angley,,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,5,43231,Liraz Ariely,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,227,3,12,2,8:29 PM,0:43,,,Hernandez Free Throw 2 of 2 (2 PTS),37 - 46,9,5,43235,Hector Hernandez,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,229,2,1,2,8:30 PM,0:35,MISS Vasquez 25' 3PT Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,230,4,0,2,8:30 PM,0:34,Stiemsma REBOUND (Off:1 Def:0),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,231,2,75,2,8:30 PM,0:27,MISS Ross 4' Driving Finger Roll Layup,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,232,4,0,2,8:30 PM,0:26,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,233,10,0,2,8:31 PM,0:23,Jump Ball Nogueira vs. Allen: Tip to Ross,,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,234,6,1,2,8:31 PM,0:04,,,Stitt P.FOUL (P1.PN),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,235,3,11,2,8:31 PM,0:04,MISS Ross Free Throw 1 of 2,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,236,4,1,2,8:31 PM,0:04,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,237,3,12,2,8:32 PM,0:04,Ross Free Throw 2 of 2 (3 PTS),,,37 - 47,10,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,240,13,0,2,8:32 PM,0:00,,End of 2nd Period (8:32 PM EST),,37 - 47,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,242,12,0,3,8:48 PM,12:00,,Start of 3rd Period (8:48 PM EST),,37 - 47,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,243,5,8,3,8:48 PM,11:47,,,Chubrevich 3 Second Violation Turnover (P2.T11),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,244,2,77,3,8:48 PM,11:32,MISS DeRozan 3' Driving Jump Shot,,Stitt BLOCK (1 BLK),,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0
+0011400104,245,4,0,3,8:49 PM,11:32,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,246,1,66,3,8:49 PM,11:29,Ross 2' Jump Bank Shot (5 PTS) (Lowry 3 AST),,,37 - 49,12,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,247,2,79,3,8:49 PM,11:12,,,MISS Angley 17' Pullup Jump Shot,,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,248,4,0,3,8:49 PM,11:11,Ross REBOUND (Off:1 Def:2),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,249,6,29,3,8:49 PM,10:59,,,Chubrevich Shooting Block Foul (P2.T1),,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,250,3,11,3,8:50 PM,10:59,Lowry Free Throw 1 of 2 (6 PTS),,,37 - 50,13,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,252,3,12,3,8:50 PM,10:59,Lowry Free Throw 2 of 2 (7 PTS),,,37 - 51,14,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,254,6,1,3,8:50 PM,10:49,Johnson P.FOUL (P1.T1),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,255,1,58,3,8:51 PM,10:38,,,Chubrevich 10' Turnaround Hook Shot (4 PTS) (Angley 4 AST),39 - 51,12,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,256,1,1,3,8:51 PM,10:22,Ross 26' 3PT Jump Shot (8 PTS) (Lowry 4 AST),,,39 - 54,15,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,257,2,1,3,8:51 PM,10:06,Johnson BLOCK (1 BLK),,MISS Stitt 10' Jump Shot,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,258,4,0,3,8:51 PM,10:06,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,259,1,5,3,8:51 PM,10:04,,,Stitt 1' Layup (9 PTS) (Rougeau 1 AST),41 - 54,13,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,260,5,2,3,8:52 PM,9:45,DeRozan Lost Ball Turnover (P3.T14),,Allen STEAL (4 STL),,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,261,2,1,3,8:52 PM,9:39,,,MISS Stitt 24' 3PT Jump Shot,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,262,4,0,3,8:52 PM,9:38,Lowry REBOUND (Off:0 Def:3),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,263,1,42,3,8:52 PM,9:34,DeRozan 2' Driving Layup (6 PTS) (Lowry 5 AST),,,41 - 56,15,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,264,6,1,3,8:52 PM,9:18,Lowry P.FOUL (P2.T2),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,265,6,26,3,8:53 PM,9:13,,,Allen Offensive Charge Foul (P3.T2),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,266,5,5,3,8:53 PM,9:13,,,Allen Foul Turnover (P3.T12),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,267,5,15,3,8:53 PM,9:03,Valanciunas Offensive Goaltending Turnover (P1.T15),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,268,6,1,3,8:53 PM,8:53,Johnson P.FOUL (P2.T3),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,270,8,0,3,8:54 PM,8:53,,,SUB: Frisby FOR Chubrevich,,,5,43233,Alex Chubrevich,93.0,Haifa,Maccabi Haifa,MAC,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,271,5,1,3,8:54 PM,8:46,Ross STEAL (1 STL),,Allen Bad Pass Turnover (P4.T13),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,272,6,1,3,8:54 PM,8:33,,,Frisby P.FOUL (P1.T3),,,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,273,6,2,3,8:55 PM,8:23,,,Allen S.FOUL (P4.T4),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,274,3,11,3,8:55 PM,8:23,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,275,4,1,3,8:55 PM,8:23,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,276,3,12,3,8:55 PM,8:23,Valanciunas Free Throw 2 of 2 (3 PTS),,,41 - 57,16,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,278,5,1,3,8:56 PM,8:09,Ross STEAL (2 STL),,Allen Bad Pass Turnover (P5.T14),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,279,1,73,3,8:56 PM,8:06,Ross 3' Driving Reverse Layup (10 PTS),,,41 - 59,18,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,280,6,2,3,8:56 PM,8:06,,,Stitt S.FOUL (P2.PN),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,281,3,10,3,8:56 PM,8:06,Ross Free Throw 1 of 1 (11 PTS),,,41 - 60,19,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,283,6,29,3,8:57 PM,7:51,Valanciunas Shooting Block Foul (P1.T4),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,284,3,11,3,8:57 PM,7:51,,,MISS Stitt Free Throw 1 of 2,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,285,4,1,3,8:57 PM,7:51,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,286,3,12,3,8:57 PM,7:51,,,Stitt Free Throw 2 of 2 (10 PTS),42 - 60,18,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,288,2,78,3,8:57 PM,7:36,MISS Johnson 6' Floating Jump Shot,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,289,4,0,3,8:57 PM,7:34,Johnson REBOUND (Off:2 Def:0),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,290,6,1,3,8:58 PM,7:34,,,Rougeau P.FOUL (P3.PN),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,291,3,11,3,8:58 PM,7:34,Johnson Free Throw 1 of 2 (3 PTS),,,42 - 61,19,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,293,3,12,3,8:58 PM,7:34,Johnson Free Throw 2 of 2 (4 PTS),,,42 - 62,20,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,295,6,1,3,8:59 PM,7:22,Valanciunas P.FOUL (P2.PN),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,296,3,11,3,8:59 PM,7:22,,,Stitt Free Throw 1 of 2 (11 PTS),43 - 62,19,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,298,3,12,3,8:59 PM,7:22,,,Stitt Free Throw 2 of 2 (12 PTS),44 - 62,18,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,300,6,4,3,8:59 PM,7:13,Valanciunas OFF.Foul (P3),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,301,5,5,3,8:59 PM,7:13,Valanciunas Foul Turnover (P2.T16),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,302,1,42,3,9:00 PM,6:58,,,Angley 3' Driving Layup (2 PTS),46 - 62,16,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,303,6,2,3,9:00 PM,6:34,,,Stitt S.FOUL (P3.PN),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,304,18,0,3,9:00 PM,6:34,,Support Ruling,,,,0,303,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400104,307,3,11,3,9:02 PM,6:34,MISS DeRozan Free Throw 1 of 2,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,308,4,1,3,9:02 PM,6:34,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,309,3,12,3,9:02 PM,6:34,MISS DeRozan Free Throw 2 of 2,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,311,4,0,3,9:02 PM,6:34,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,312,1,1,3,9:03 PM,6:14,,,Stitt 27' 3PT Jump Shot (15 PTS) (Allen 1 AST),49 - 62,13,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,313,2,1,3,9:03 PM,5:56,MISS Ross 16' Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,314,4,0,3,9:03 PM,5:55,,,Stitt REBOUND (Off:0 Def:4),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,315,6,27,3,9:03 PM,5:37,DeRozan Personal Block Foul (P1.PN),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,316,9,1,3,9:03 PM,5:37,RAPTORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,318,8,0,3,9:05 PM,5:37,SUB: Stiemsma FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,319,3,11,3,9:05 PM,5:37,,,MISS Allen Free Throw 1 of 2,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,320,4,1,3,9:05 PM,5:37,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,321,3,12,3,9:06 PM,5:37,,,MISS Allen Free Throw 2 of 2,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,323,4,0,3,9:06 PM,5:36,Johnson REBOUND (Off:2 Def:1),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,325,2,1,3,9:06 PM,5:22,MISS Lowry 26' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,326,4,0,3,9:06 PM,5:21,Stiemsma REBOUND (Off:2 Def:0),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,327,2,5,3,9:06 PM,5:17,MISS Ross 2' Layup,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,328,4,0,3,9:06 PM,5:16,Ross REBOUND (Off:2 Def:2),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,329,2,4,3,9:06 PM,5:15,MISS Ross 2' Tip Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,330,4,0,3,9:06 PM,5:13,,,Frisby REBOUND (Off:0 Def:1),,,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,331,6,2,3,9:06 PM,5:04,DeRozan S.FOUL (P2.PN),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,332,3,11,3,9:07 PM,5:04,,,Stitt Free Throw 1 of 2 (16 PTS),50 - 62,12,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,335,3,12,3,9:07 PM,5:04,,,Stitt Free Throw 2 of 2 (17 PTS),51 - 62,11,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,338,5,11,3,9:07 PM,4:40,RAPTORS Turnover: Shot Clock (T#17),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400104,339,1,1,3,9:08 PM,4:28,,,Allen 21' Jump Shot (20 PTS) (Angley 5 AST),53 - 62,9,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,340,1,42,3,9:08 PM,4:11,Lowry 1' Driving Layup (9 PTS),,,53 - 64,11,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,341,2,1,3,9:08 PM,4:01,,,MISS Stitt  3PT Jump Shot,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,342,4,0,3,9:08 PM,4:00,Stiemsma REBOUND (Off:2 Def:1),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,343,5,39,3,9:08 PM,3:55,DeRozan Step Out of Bounds Turnover (P4.T18),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,344,8,0,3,9:09 PM,3:55,SUB: Hamilton FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,345,2,47,3,9:09 PM,3:37,,,MISS Rougeau 11' Turnaround Jump Shot,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,346,4,0,3,9:09 PM,3:36,Stiemsma REBOUND (Off:2 Def:2),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,347,1,65,3,9:09 PM,3:28,Johnson 3' Jump Hook Shot (6 PTS) (Lowry 6 AST),,,53 - 66,13,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,348,1,1,3,9:09 PM,3:19,,,Frisby 29' 3PT Jump Shot (3 PTS) (Angley 6 AST),56 - 66,10,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,349,6,2,3,9:09 PM,3:03,,,Frisby S.FOUL (P2.PN),,,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,350,3,11,3,9:10 PM,3:03,Lowry Free Throw 1 of 2 (10 PTS),,,56 - 67,11,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,352,8,0,3,9:10 PM,3:03,SUB: Vasquez FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,353,8,0,3,9:10 PM,3:03,,,SUB: Shoutvin FOR Allen,,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,354,3,12,3,9:10 PM,3:03,Lowry Free Throw 2 of 2 (11 PTS),,,56 - 68,12,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,356,6,4,3,9:10 PM,2:51,,,Shoutvin OFF.Foul (P3),,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,357,5,5,3,9:10 PM,2:51,,,Shoutvin Foul Turnover (P1.T15),,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,358,9,1,3,9:11 PM,2:51,,,Maccabi Haifa Timeout: Regular (Reg.3 Short 0),,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,360,8,0,3,9:12 PM,2:51,SUB: Patterson FOR Johnson,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,361,8,0,3,9:12 PM,2:51,SUB: Cherry FOR Lowry,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,362,1,1,3,9:13 PM,2:35,Stiemsma 18' Jump Shot (6 PTS) (Cherry 2 AST),,,56 - 70,14,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,363,2,1,3,9:13 PM,2:13,,,MISS Rougeau 26' 3PT Jump Shot,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,364,4,0,3,9:13 PM,2:12,Patterson REBOUND (Off:1 Def:3),,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,365,1,1,3,9:14 PM,1:54,Vasquez 16' Jump Shot (8 PTS),,,56 - 72,16,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,366,6,4,3,9:14 PM,1:37,,,Rougeau OFF.Foul (P4),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,367,5,5,3,9:14 PM,1:37,,,Rougeau Foul Turnover (P2.T16),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,368,8,0,3,9:14 PM,1:37,,,SUB: Hickerson FOR Rougeau,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,369,2,1,3,9:14 PM,1:21,MISS Cherry 25' 3PT Jump Shot,,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,370,4,0,3,9:14 PM,1:20,,,Frisby REBOUND (Off:0 Def:2),,,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,371,2,1,3,9:15 PM,1:06,,,MISS Frisby 26' 3PT Jump Shot,,,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,372,4,0,3,9:15 PM,1:05,Hamilton REBOUND (Off:0 Def:4),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,373,6,26,3,9:15 PM,0:56,Cherry Offensive Charge Foul (P2.PN),,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,374,5,5,3,9:15 PM,0:56,Cherry Foul Turnover (P1.T19),,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,375,1,1,3,9:15 PM,0:40,,,Angley 25' 3PT Jump Shot (5 PTS) (Stitt 4 AST),59 - 72,13,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,376,2,80,3,9:16 PM,0:31,MISS Vasquez 22' Step Back Jump Shot,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,377,4,0,3,9:16 PM,0:31,,,Shoutvin REBOUND (Off:1 Def:1),,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,378,1,1,3,9:16 PM,0:18,,,Hickerson 6' Jump Shot (2 PTS) (Frisby 1 AST),61 - 72,11,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,5,43234,Will Frisby,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,379,6,2,3,9:16 PM,0:18,Hamilton S.FOUL (P1.PN),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,380,3,10,3,9:16 PM,0:18,,,MISS Hickerson Free Throw 1 of 1,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,382,4,0,3,9:16 PM,0:17,Hamilton REBOUND (Off:0 Def:5),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,384,5,40,3,9:17 PM,0:01,Cherry Out of Bounds Lost Ball Turnover (P2.T20),,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,386,13,0,3,9:17 PM,0:00,,End of 3rd Period (9:17 PM EST),,61 - 72,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,388,12,0,4,9:19 PM,12:00,,Start of 4th Period (9:19 PM EST),,61 - 72,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,389,2,1,4,9:20 PM,11:43,MISS Hamilton 26' 3PT Jump Shot,,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,390,4,0,4,9:20 PM,11:42,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,391,2,41,4,9:20 PM,11:37,MISS Vasquez 3' Running Layup,,Rougeau BLOCK (1 BLK),,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0
+0011400104,392,4,0,4,9:20 PM,11:34,,,Angley REBOUND (Off:0 Def:1),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,393,2,44,4,9:20 PM,11:26,Stiemsma BLOCK (1 BLK),,MISS Ofoegbu 2' Reverse Layup,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,394,4,0,4,9:20 PM,11:25,Stiemsma REBOUND (Off:2 Def:3),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,395,2,47,4,9:20 PM,11:13,MISS Hamilton 8' Turnaround Jump Shot,,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,396,4,0,4,9:20 PM,11:12,,,Hickerson REBOUND (Off:0 Def:1),,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,397,2,79,4,9:21 PM,11:03,,,MISS Hickerson 10' Pullup Jump Shot,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,398,4,0,4,9:21 PM,11:01,Hamilton REBOUND (Off:0 Def:6),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,399,6,4,4,9:21 PM,10:52,Stiemsma OFF.Foul (P3),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,400,5,5,4,9:21 PM,10:52,Stiemsma Foul Turnover (P1.T21),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,401,1,1,4,9:21 PM,10:41,,,Angley 27' 3PT Jump Shot (8 PTS),64 - 72,8,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,403,9,1,4,9:21 PM,10:31,RAPTORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,405,8,0,4,9:24 PM,10:31,SUB: Johnson FOR Vasquez,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,406,7,1,4,9:24 PM,10:31,RAPTORS Violation: Delay of game Violation,,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400104,407,2,1,4,9:24 PM,10:20,MISS Patterson 28' 3PT Jump Shot,,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,408,4,0,4,9:24 PM,10:19,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,409,6,1,4,9:25 PM,10:16,,,Angley P.FOUL (P4.T1),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,411,2,1,4,9:25 PM,10:06,MISS Patterson 9' Jump Shot,,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,412,4,0,4,9:25 PM,10:05,,,Angley REBOUND (Off:0 Def:2),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,413,1,77,4,9:25 PM,9:52,,,Rougeau 8' Driving Jump Shot (4 PTS),66 - 72,6,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,414,6,1,4,9:26 PM,9:31,,,Ofoegbu P.FOUL (P2.T2),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,415,5,1,4,9:26 PM,9:27,Cherry Bad Pass Turnover (P3.T22),,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,416,1,96,4,9:26 PM,9:14,,,Allen 6' Turnaround Bank Hook Shot (22 PTS),68 - 72,4,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,417,2,1,4,9:27 PM,8:49,MISS Cherry 4' Jump Shot,,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,418,4,0,4,9:27 PM,8:48,,,Rougeau REBOUND (Off:2 Def:3),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,419,1,42,4,9:27 PM,8:45,,,Hickerson 1' Driving Layup (4 PTS) (Rougeau 2 AST),70 - 72,2,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,420,5,2,4,9:27 PM,8:36,Johnson Lost Ball Turnover (P2.T23),,Ofoegbu STEAL (1 STL),,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,421,1,41,4,9:27 PM,8:32,,,Allen 2' Running Layup (24 PTS) (Hickerson 1 AST),72 - 72,TIE,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,422,9,2,4,9:27 PM,8:31,RAPTORS Timeout: Short (Full 4 Short 1),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,426,6,26,4,9:29 PM,8:15,Hamilton Offensive Charge Foul (P2.T1),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,427,5,5,4,9:29 PM,8:15,Hamilton Foul Turnover (P2.T24),,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,428,6,2,4,9:29 PM,8:00,Cherry S.FOUL (P3.T2),,,,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,429,3,13,4,9:29 PM,8:00,,,Angley Free Throw 1 of 3 (9 PTS),73 - 72,-1,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,431,3,14,4,9:30 PM,8:00,,,Angley Free Throw 2 of 3 (10 PTS),74 - 72,-2,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,433,8,0,4,9:30 PM,8:00,SUB: Vasquez FOR Patterson,,,,,4,202335,Patrick Patterson,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,434,3,15,4,9:30 PM,8:00,,,Angley Free Throw 3 of 3 (11 PTS),75 - 72,-3,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,436,2,42,4,9:30 PM,7:44,MISS Vasquez 4' Driving Layup,,,,,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,437,4,0,4,9:30 PM,7:43,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,438,1,79,4,9:31 PM,7:24,,,Hickerson 11' Pullup Jump Shot (6 PTS),77 - 72,-5,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,439,2,42,4,9:31 PM,7:02,MISS Cherry 3' Driving Layup,,Rougeau BLOCK (2 BLK),,,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0
+0011400104,440,4,0,4,9:31 PM,7:00,,,Ofoegbu REBOUND (Off:0 Def:1),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,441,6,2,4,9:31 PM,6:54,Johnson S.FOUL (P1.T3),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,442,3,11,4,9:32 PM,6:54,,,MISS Hickerson Free Throw 1 of 2,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,443,4,1,4,9:32 PM,6:54,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,444,8,0,4,9:32 PM,6:54,SUB: Caboclo FOR Hamilton,,,,,4,202706,Jordan Hamilton,1610612761.0,Toronto,Raptors,TOR,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,445,3,12,4,9:32 PM,6:54,,,MISS Hickerson Free Throw 2 of 2,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,447,4,0,4,9:32 PM,6:53,Stiemsma REBOUND (Off:2 Def:4),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,448,5,4,4,9:32 PM,6:36,Stiemsma Traveling Turnover (P2.T25),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011400104,449,5,2,4,9:33 PM,6:13,Stiemsma STEAL (2 STL),,Allen Lost Ball Turnover (P6.T17),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,450,1,8,4,9:33 PM,6:06,Caboclo  Slam Dunk (4 PTS) (Vasquez 1 AST),,,77 - 74,-3,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,451,1,78,4,9:33 PM,5:45,,,Hickerson 2' Floating Jump Shot (8 PTS),79 - 74,-5,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,452,2,1,4,9:34 PM,5:21,MISS Johnson  3PT Jump Shot,,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,453,4,0,4,9:34 PM,5:20,,,Ofoegbu REBOUND (Off:0 Def:2),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,454,6,27,4,9:34 PM,5:05,Stiemsma Personal Block Foul (P4.T4),,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,455,9,4,4,9:34 PM,5:05,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,458,8,0,4,9:36 PM,5:05,SUB: Nogueira FOR Stiemsma,,,,,4,201880,Greg Stiemsma,1610612761.0,Toronto,Raptors,TOR,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,459,6,1,4,9:37 PM,4:54,Nogueira P.FOUL (P2.PN),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,460,2,1,4,9:37 PM,4:45,,,MISS Ofoegbu 25' 3PT Jump Shot,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,461,4,0,4,9:37 PM,4:44,Johnson REBOUND (Off:0 Def:2),,,,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,462,1,42,4,9:37 PM,4:38,Vasquez 4' Driving Layup (10 PTS) (Johnson 1 AST),,,79 - 76,-3,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,463,2,1,4,9:38 PM,4:15,,,MISS Hickerson 22' Jump Shot,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,464,4,0,4,9:38 PM,4:14,,,Angley REBOUND (Off:1 Def:2),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,465,5,1,4,9:38 PM,4:07,,,Rougeau Bad Pass Turnover (P3.T18),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,466,5,2,4,9:38 PM,3:55,Johnson Lost Ball Turnover (P3.T26),,Angley STEAL (1 STL),,,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,467,1,52,4,9:38 PM,3:51,,,Hickerson  Alley Oop Dunk (10 PTS) (Angley 7 AST),81 - 76,-5,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,468,6,19,4,9:38 PM,3:49,,,Hickerson Taunting (P0.T2),,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,469,3,16,4,9:39 PM,3:49,Vasquez Free Throw Technical (11 PTS),,,81 - 77,-4,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,472,1,1,4,9:39 PM,3:32,Vasquez 19' Jump Shot (13 PTS),,,81 - 79,-2,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,473,6,4,4,9:40 PM,3:12,,,Ofoegbu OFF.Foul (P3),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,474,5,5,4,9:40 PM,3:12,,,Ofoegbu Foul Turnover (P1.T19),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,475,9,1,4,9:40 PM,3:12,,,Maccabi Haifa Timeout: Regular (Reg.4 Short 0),,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,478,1,1,4,9:42 PM,2:59,Cherry 26' 3PT Jump Shot (3 PTS) (Vasquez 2 AST),,,81 - 82,1,4,203805,Will Cherry,1610612761.0,Toronto,Raptors,TOR,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,480,2,1,4,9:43 PM,2:38,Caboclo BLOCK (1 BLK),,MISS Hickerson 4' Jump Shot,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0
+0011400104,481,4,0,4,9:43 PM,2:37,,,Ofoegbu REBOUND (Off:1 Def:2),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,482,1,5,4,9:43 PM,2:30,,,Ofoegbu 2' Layup (2 PTS),83 - 82,-1,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,483,1,7,4,9:43 PM,2:20,Nogueira  Dunk (4 PTS) (Johnson 2 AST),,,83 - 84,1,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011400104,485,2,1,4,9:44 PM,1:55,,,MISS Hickerson 26' 3PT Jump Shot,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,486,4,0,4,9:44 PM,1:54,,,Maccabi Haifa Rebound,,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,487,5,11,4,9:44 PM,1:54,,,Maccabi Haifa Turnover: Shot Clock (T#20),,,3,93,Hubert Davis,,,,,0,0,,,,,,1,0,,,,,,0
+0011400104,488,8,0,4,9:44 PM,1:54,,,SUB: Stitt FOR Hickerson,,,5,43236,Leroy Hickerson,93.0,Haifa,Maccabi Haifa,MAC,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,489,6,2,4,9:44 PM,1:45,,,Ofoegbu S.FOUL (P4.T3),,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,490,3,11,4,9:45 PM,1:45,Nogueira Free Throw 1 of 2 (5 PTS),,,83 - 85,2,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,492,3,12,4,9:45 PM,1:45,Nogueira Free Throw 2 of 2 (6 PTS),,,83 - 86,3,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,495,2,57,4,9:46 PM,1:22,,,MISS Rougeau 5' Driving Hook Shot,,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,496,4,0,4,9:46 PM,1:21,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,497,2,1,4,9:46 PM,1:02,MISS Caboclo 24' 3PT Jump Shot,,,,,4,203998,Bruno Caboclo,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,498,4,0,4,9:46 PM,1:01,Nogueira REBOUND (Off:1 Def:1),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,499,1,72,4,9:46 PM,1:01,Nogueira  Putback Layup (8 PTS),,,83 - 88,5,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,500,9,1,4,9:46 PM,1:01,,,Maccabi Haifa Timeout: Regular (Reg.5 Short 0),,,3,93,Hubert Davis,,,,,0,0,,,,,,0,0,,,,,,0
+0011400104,505,6,2,4,9:49 PM,0:56,Nogueira S.FOUL (P3.PN),,,,,4,203512,Lucas Nogueira,1610612761.0,Toronto,Raptors,TOR,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,1,0,,,,,,0
+0011400104,506,3,11,4,9:49 PM,0:56,,,Stitt Free Throw 1 of 2 (18 PTS),84 - 88,4,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,508,8,0,4,9:49 PM,0:56,,,SUB: Shoutvin FOR Ofoegbu,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,509,3,12,4,9:49 PM,0:56,,,Stitt Free Throw 2 of 2 (19 PTS),85 - 88,3,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,511,6,1,4,9:49 PM,0:47,,,Allen P.FOUL (P5.PN),,,5,43229,Jeff Allen,93.0,Haifa,Maccabi Haifa,MAC,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,512,3,11,4,9:50 PM,0:47,Johnson Free Throw 1 of 2 (9 PTS),,,85 - 89,4,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,514,8,0,4,9:50 PM,0:47,,,SUB: Ofoegbu FOR Shoutvin,,,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,515,3,12,4,9:50 PM,0:47,Johnson Free Throw 2 of 2 (10 PTS),,,85 - 90,5,4,201949,James Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,517,2,42,4,9:50 PM,0:31,,,MISS Ofoegbu 4' Driving Layup,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,518,4,0,4,9:50 PM,0:30,,,Angley REBOUND (Off:2 Def:2),,,5,43230,Brody Angley,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,519,5,4,4,9:50 PM,0:28,,,Stitt Traveling Turnover (P5.T21),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,1,0,,,,,,0
+0011400104,520,8,0,4,9:51 PM,0:28,,,SUB: Shoutvin FOR Ofoegbu,,,5,43237,Ike Ofoegbu,93.0,Haifa,Maccabi Haifa,MAC,5,43239,Anton Shoutvin,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0
+0011400104,522,6,1,4,9:51 PM,0:15,,,Stitt P.FOUL (P4.PN),,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011400104,523,3,11,4,9:51 PM,0:15,Vasquez Free Throw 1 of 2 (14 PTS),,,85 - 91,6,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,525,3,12,4,9:51 PM,0:15,Vasquez Free Throw 2 of 2 (15 PTS),,,85 - 92,7,4,202349,Greivis Vasquez,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011400104,527,2,79,4,9:52 PM,0:00,,,MISS Stitt 16' Pullup Jump Shot,,,5,43240,Demontez Stitt,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,528,4,0,4,9:52 PM,0:00,,,Rougeau REBOUND (Off:3 Def:3),,,5,43238,Rene Rougeau,93.0,Haifa,Maccabi Haifa,MAC,0,0,,,,,,0,0,,,,,,0
+0011400104,529,13,0,4,9:52 PM,0:00,,End of 4th Period (9:52 PM EST),,85 - 92,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

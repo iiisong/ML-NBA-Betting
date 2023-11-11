@@ -1,0 +1,471 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200056,2,12,0,1,7:42 PM,12:00,,Start of 1st Period (7:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,4,10,0,1,7:42 PM,12:00, ,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,3,1610612751,,,,,,1
+0012200056,7,6,3,1,7:42 PM,11:59,Lopez L.B.FOUL (P1.T1) (L.Wood),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,9,2,58,1,7:42 PM,11:42,,,MISS Claxton 6' Turnaround Hook Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,10,4,0,1,7:42 PM,11:37,,,Claxton REBOUND (Off:1 Def:0),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,11,1,97,1,7:42 PM,11:37,,,Claxton Tip Layup Shot (2 PTS),2 - 0,-2,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,12,6,1,1,7:43 PM,11:25,,,Claxton P.FOUL (P1.T1) (L.Wood),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,14,1,101,1,7:43 PM,11:15,Holiday 14' Driving Floating Jump Shot (2 PTS),,,2 - 2,TIE,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,15,1,1,1,7:43 PM,10:57,,,Irving 13' Jump Shot (2 PTS) (Simmons 1 AST),4 - 2,-2,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,17,5,39,1,7:44 PM,10:34,Carter Step Out of Bounds Turnover (P1.T1),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0012200056,18,1,1,1,7:44 PM,10:17,,,Durant 16' Jump Shot (2 PTS) (Simmons 2 AST),6 - 2,-4,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,20,1,1,1,7:44 PM,10:00,Holiday 27' 3PT Jump Shot (5 PTS) (Carter 1 AST),,,6 - 5,-1,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,22,6,2,1,7:45 PM,9:48,Portis S.FOUL (P1.T2) (M.Davis),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,24,3,11,1,7:45 PM,9:48,,,Claxton Free Throw 1 of 2 (3 PTS),7 - 5,-2,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,25,3,12,1,7:45 PM,9:48,,,MISS Claxton Free Throw 2 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,26,4,0,1,7:45 PM,9:45,Portis REBOUND (Off:0 Def:1),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,27,2,1,1,7:46 PM,9:27,MISS Portis 25' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,28,4,0,1,7:46 PM,9:24,,,Simmons REBOUND (Off:0 Def:1),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,29,2,2,1,7:46 PM,9:21,,,MISS Durant 26' 3PT Running Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,30,4,0,1,7:46 PM,9:16,,,Claxton REBOUND (Off:2 Def:0),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,31,1,44,1,7:46 PM,9:13,,,Claxton 3' Reverse Layup (5 PTS),9 - 5,-4,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,32,1,79,1,7:46 PM,9:01,Holiday 25' 3PT Pullup Jump Shot (8 PTS),,,9 - 8,-1,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,33,2,79,1,7:46 PM,8:48,,,MISS O'Neale 26' 3PT Pullup Jump Shot,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,34,4,0,1,7:46 PM,8:46,G. Antetokounmpo REBOUND (Off:0 Def:1),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,35,2,103,1,7:46 PM,8:41,MISS G. Antetokounmpo 19' Running Pull-Up Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,45,4,0,1,7:46 PM,8:41,,,Claxton REBOUND (Off:2 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,36,5,1,1,7:47 PM,8:34,Carter STEAL (1 STL),,Simmons Bad Pass Turnover (P1.T1),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,38,2,1,1,7:47 PM,8:21,MISS Lopez 27' 3PT Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,39,4,0,1,7:47 PM,8:19,Holiday REBOUND (Off:1 Def:0),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,40,2,6,1,7:47 PM,8:12,MISS Holiday 4' Driving Layup,,Claxton BLOCK (1 BLK),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,42,4,0,1,7:47 PM,8:12,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,43,1,52,1,7:47 PM,8:10,G. Antetokounmpo 3' Alley Oop Dunk (2 PTS) (Holiday 1 AST),,,9 - 10,1,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,46,1,52,1,7:47 PM,7:59,,,Claxton 1' Alley Oop Dunk (7 PTS) (Simmons 3 AST),11 - 10,-1,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,48,2,1,1,7:48 PM,7:45,MISS Holiday 27' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,49,4,0,1,7:48 PM,7:42,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,50,5,2,1,7:48 PM,7:35,Carter STEAL (2 STL),,Durant Lost Ball Turnover (P1.T2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,52,6,31,1,7:48 PM,7:35,,,Simmons Transition Take Foul (P0.T1) (M.Davis),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,54,3,10,1,7:48 PM,7:35,Holiday Free Throw 1 of 1 (9 PTS),,,11 - 11,TIE,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,55,8,0,1,7:48 PM,7:35,SUB: Hill FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,57,2,3,1,7:49 PM,7:25,MISS G. Antetokounmpo 7' Hook Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,58,4,0,1,7:49 PM,7:22,,,Claxton REBOUND (Off:2 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,59,5,1,1,7:49 PM,7:14,G. Antetokounmpo STEAL (1 STL),,Durant Bad Pass Turnover (P2.T3),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,61,1,5,1,7:49 PM,7:08,Portis 3' Layup (2 PTS),,,11 - 13,2,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,62,1,80,1,7:49 PM,6:53,,,Irving 13' Step Back Jump Shot (4 PTS),13 - 13,TIE,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,63,6,1,1,7:50 PM,6:41,,,Simmons P.FOUL (P1.T2) (M.Davis),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,65,9,1,1,7:50 PM,6:41,BUCKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,66,8,0,1,7:52 PM,6:41,SUB: Nwora FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,68,1,1,1,7:54 PM,6:26,Hill 27' 3PT Jump Shot (3 PTS) (Holiday 2 AST),,,13 - 16,3,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,70,2,1,1,7:54 PM,6:10,,,MISS Irving 20' Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,71,4,0,1,7:54 PM,6:07,G. Antetokounmpo REBOUND (Off:0 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,72,2,6,1,7:54 PM,6:00,MISS G. Antetokounmpo 3' Driving Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,73,4,0,1,7:54 PM,5:54,G. Antetokounmpo REBOUND (Off:1 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,74,2,97,1,7:54 PM,5:54,MISS G. Antetokounmpo Tip Layup Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,75,4,0,1,7:54 PM,5:52,G. Antetokounmpo REBOUND (Off:2 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,76,1,97,1,7:54 PM,5:52,G. Antetokounmpo Tip Layup Shot (4 PTS),,,13 - 18,5,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,77,1,108,1,7:54 PM,5:48,,,Claxton 4' Cutting Dunk Shot (9 PTS) (Durant 1 AST),15 - 18,3,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,79,5,1,1,7:55 PM,5:22,Holiday Bad Pass Turnover (P1.T2),,Durant STEAL (1 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,81,2,2,1,7:55 PM,5:16,,,MISS Irving 26' 3PT Running Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,82,4,0,1,7:55 PM,5:13,Holiday REBOUND (Off:1 Def:1),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,83,2,2,1,7:55 PM,5:06,MISS Lopez 24' 3PT Running Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,84,4,0,1,7:55 PM,5:03,Lopez REBOUND (Off:1 Def:0),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,85,2,1,1,7:55 PM,5:00,MISS Holiday 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,86,4,0,1,7:55 PM,4:55,,,Simmons REBOUND (Off:0 Def:2),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,87,1,86,1,7:55 PM,4:39,,,Durant 18' Turnaround Fadeaway (4 PTS) (Simmons 4 AST),17 - 18,1,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,89,2,6,1,7:56 PM,4:24,MISS Holiday 8' Driving Layup,,O'Neale BLOCK (1 BLK),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,91,4,0,1,7:56 PM,4:20,,,Irving REBOUND (Off:0 Def:1),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,93,8,0,1,7:56 PM,4:19,SUB: Mamukelashvili FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,94,8,0,1,7:56 PM,4:19,SUB: Ibaka FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,95,8,0,1,7:56 PM,4:19,,,SUB: Sharpe FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,105,8,0,1,7:56 PM,4:19,,,SUB: Mills FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,102,1,5,1,7:57 PM,4:06,,,Sharpe 6' Layup (2 PTS) (O'Neale 1 AST),19 - 18,-1,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,129,7,2,1,7:57 PM,4:06,Defensive Goaltending,,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,106,6,1,1,7:57 PM,3:57,,,Durant P.FOUL (P1.T3) (L.Wood),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,108,5,1,1,7:57 PM,3:45,Holiday Bad Pass Turnover (P2.T3),,Sharpe STEAL (1 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,110,1,50,1,7:58 PM,3:40,,,Sharpe 3' Running Dunk (4 PTS) (Durant 2 AST),21 - 18,-3,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,112,1,101,1,7:58 PM,3:11,Holiday 11' Driving Floating Jump Shot (11 PTS),,,21 - 20,-1,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,113,9,1,1,7:58 PM,3:03,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,114,8,0,1,8:01 PM,3:03,SUB: Carter FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,115,8,0,1,8:01 PM,3:03,,,SUB: Watanabe FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,116,8,0,1,8:01 PM,3:03,,,SUB: Simmons FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,120,6,4,1,8:02 PM,2:59,,,Sharpe OFF.Foul (P1) (M.Davis),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0012200056,122,5,37,1,8:02 PM,2:59,,,Sharpe Offensive Foul Turnover (P1.T4),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0012200056,123,8,0,1,8:02 PM,2:59,,,SUB: Morris FOR Durant,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,125,2,1,1,8:02 PM,2:46,MISS Mamukelashvili 26' 3PT Jump Shot,,,,,4,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,126,4,0,1,8:03 PM,2:41,Hill REBOUND (Off:1 Def:0),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,127,5,1,1,8:03 PM,2:40,Hill Bad Pass Turnover (P1.T4),,Sharpe STEAL (2 STL),,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,130,1,101,1,8:03 PM,2:32,,,Simmons 15' Driving Floating Jump Shot (2 PTS),23 - 20,-3,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,134,1,1,1,8:03 PM,2:06,Carter 8' Jump Shot (2 PTS) (Nwora 1 AST),,,23 - 22,-1,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,136,1,1,1,8:04 PM,1:52,,,Watanabe 28' 3PT Jump Shot (3 PTS) (Simmons 5 AST),26 - 22,-4,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,138,2,1,1,8:04 PM,1:41,MISS Nwora 26' 3PT Jump Shot,,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,139,4,0,1,8:04 PM,1:41,,,Sharpe REBOUND (Off:0 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,140,2,101,1,8:04 PM,1:31,,,MISS Simmons 9' Driving Floating Jump Shot,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,141,4,0,1,8:04 PM,1:28,,,Simmons REBOUND (Off:1 Def:2),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,142,1,72,1,8:04 PM,1:27,,,Simmons 13' Putback Layup (4 PTS),28 - 22,-6,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,143,2,57,1,8:04 PM,1:06,MISS Nwora 12' Driving Hook Shot,,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,144,4,0,1,8:04 PM,1:05,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,146,8,0,1,8:04 PM,1:05,SUB: Portis FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,147,8,0,1,8:04 PM,1:05,SUB: Green FOR Mamukelashvili,,,,,4,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,150,2,1,1,8:05 PM,1:00,MISS Carter 15' Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,151,4,0,1,8:05 PM,0:58,,,Sharpe REBOUND (Off:0 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,152,2,1,1,8:05 PM,0:53,,,MISS Morris 27' 3PT Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,153,4,0,1,8:05 PM,0:47,Green REBOUND (Off:0 Def:1),,,,,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,154,5,1,1,8:05 PM,0:44,Green Bad Pass Turnover (P1.T5),,Mills STEAL (1 STL),,,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,156,1,108,1,8:05 PM,0:40,,,Simmons 1' Cutting Dunk Shot (6 PTS) (Sharpe 1 AST),30 - 22,-8,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,158,1,1,1,8:05 PM,0:28,Nwora 26' 3PT Jump Shot (3 PTS) (Carter 2 AST),,,30 - 25,-5,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,160,1,1,1,8:06 PM,0:10,,,Watanabe 27' 3PT Jump Shot (6 PTS) (Simmons 6 AST),33 - 25,-8,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,162,2,78,1,8:06 PM,0:00,MISS Carter 12' Floating Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,163,4,0,1,8:06 PM,0:00,,,Morris REBOUND (Off:0 Def:1),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,164,13,0,1,8:06 PM,0:00,,End of 1st Period (8:06 PM EST),,33 - 25,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,169,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,33 - 25,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,170,5,1,2,8:10 PM,11:36,G. Antetokounmpo Bad Pass Turnover (P1.T6),,Simmons STEAL (1 STL),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,172,5,1,2,8:10 PM,11:22,Green STEAL (1 STL),,Mills Bad Pass Turnover (P1.T5),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,174,6,1,2,8:10 PM,11:21,,,Mills P.FOUL (P1.T1) (T.Ricks),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,176,6,4,2,8:11 PM,11:18,Portis OFF.Foul (P2) (M.Davis),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,178,5,37,2,8:11 PM,11:18,Portis Offensive Foul Turnover (P1.T7),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0012200056,179,1,98,2,8:11 PM,11:09,,,Sharpe 1' Cutting Layup Shot (6 PTS) (Simmons 7 AST),35 - 25,-10,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,181,6,2,2,8:11 PM,11:09,G. Antetokounmpo S.FOUL (P1.T1) (T.Ricks),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,183,3,10,2,8:12 PM,11:09,,,Sharpe Free Throw 1 of 1 (7 PTS),36 - 25,-11,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,184,1,1,2,8:12 PM,10:57,Beauchamp 3PT Jump Shot (3 PTS) (Carter 3 AST),,,36 - 28,-8,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,186,2,1,2,8:12 PM,10:46,,,MISS Mills 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,187,4,0,2,8:12 PM,10:45,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,189,6,2,2,8:13 PM,10:35,,,Morris S.FOUL (P1.T2) (T.Ricks),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,191,3,11,2,8:13 PM,10:35,G. Antetokounmpo Free Throw 1 of 2 (5 PTS),,,36 - 29,-7,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,192,3,12,2,8:14 PM,10:35,G. Antetokounmpo Free Throw 2 of 2 (6 PTS),,,36 - 30,-6,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,193,5,1,2,8:14 PM,10:26,Portis STEAL (1 STL),,Simmons Bad Pass Turnover (P2.T6),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,195,2,41,2,8:14 PM,10:24,MISS Portis 3' Running Layup,,Sharpe BLOCK (1 BLK),,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,197,4,0,2,8:14 PM,10:24,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,199,2,86,2,8:14 PM,10:13,MISS G. Antetokounmpo 15' Turnaround Fadeaway Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,200,4,0,2,8:15 PM,10:10,,,Sharpe REBOUND (Off:0 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,201,5,45,2,8:15 PM,10:09,,,Morris Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200056,202,1,79,2,8:15 PM,9:57,Carter 17' Pullup Jump Shot (4 PTS) (G. Antetokounmpo 1 AST),,,36 - 32,-4,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,204,1,80,2,8:15 PM,9:34,,,Morris 19' Step Back Jump Shot (2 PTS) (Mills 1 AST),38 - 32,-6,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,207,1,1,2,8:16 PM,9:17,Carter 27' 3PT Jump Shot (7 PTS),,,38 - 35,-3,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,211,7,1,2,8:16 PM,9:15,BUCKS Violation: Delay of game Violation,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,209,2,1,2,8:16 PM,8:58,,,MISS Mills 19' Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,210,4,0,2,8:16 PM,8:55,Green REBOUND (Off:0 Def:2),,,,,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,212,2,79,2,8:16 PM,8:43,MISS Green 18' Pullup Jump Shot,,,,,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,213,4,0,2,8:17 PM,8:41,,,Morris REBOUND (Off:0 Def:2),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,214,6,2,2,8:17 PM,8:34,Carter S.FOUL (P1.T2) (T.Ricks),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,216,3,11,2,8:17 PM,8:34,,,MISS Simmons Free Throw 1 of 2,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,217,4,1,2,8:17 PM,8:34,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,222,3,12,2,8:17 PM,8:34,,,MISS Simmons Free Throw 2 of 2,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,218,8,0,2,8:17 PM,8:34,SUB: Holiday FOR Green,,,,,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,219,8,0,2,8:17 PM,8:34,,,SUB: Claxton FOR Sharpe,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,223,4,0,2,8:17 PM,8:31,Beauchamp REBOUND (Off:0 Def:1),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,224,6,2,2,8:18 PM,8:16,,,Watanabe S.FOUL (P1.T3) (T.Ricks),,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,226,3,11,2,8:19 PM,8:16,G. Antetokounmpo Free Throw 1 of 2 (7 PTS),,,38 - 36,-2,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,227,8,0,2,8:19 PM,8:16,SUB: Lopez FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,228,8,0,2,8:19 PM,8:16,SUB: Hill FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,231,3,12,2,8:19 PM,8:16,G. Antetokounmpo Free Throw 2 of 2 (8 PTS),,,38 - 37,-1,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,232,1,80,2,8:20 PM,7:59,,,Morris 16' Step Back Jump Shot (4 PTS),40 - 37,-3,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,233,2,79,2,8:20 PM,7:43,MISS G. Antetokounmpo 16' Pullup Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,234,4,0,2,8:20 PM,7:40,,,Morris REBOUND (Off:0 Def:3),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,236,2,47,2,8:21 PM,7:22,,,MISS Morris 6' Turnaround Jump Shot,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,237,4,0,2,8:21 PM,7:19,G. Antetokounmpo REBOUND (Off:2 Def:3),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,239,2,80,2,8:21 PM,7:05,MISS Beauchamp 26' 3PT Step Back Jump Shot,,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,240,4,0,2,8:21 PM,7:05,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,241,6,3,2,8:21 PM,7:05,Lopez L.B.FOUL (P2.T3) (M.Davis),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,243,8,0,2,8:21 PM,7:05,,,SUB: Irving FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,245,2,105,2,8:22 PM,6:47,,,MISS Irving 16' Turnaround Fadeaway Bank Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,246,4,0,2,8:22 PM,6:45,Beauchamp REBOUND (Off:0 Def:2),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,247,5,40,2,8:22 PM,6:45,Holiday Out of Bounds Lost Ball Turnover (P3.T8),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0012200056,248,9,1,2,8:22 PM,6:45,BUCKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,249,8,0,2,8:25 PM,6:45,SUB: Nwora FOR Beauchamp,,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,250,8,0,2,8:25 PM,6:45,,,SUB: O'Neale FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,251,8,0,2,8:25 PM,6:45,,,SUB: Thomas FOR Morris,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,252,8,0,2,8:25 PM,6:45,,,SUB: Durant FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,257,2,79,2,8:26 PM,6:36,,,MISS Durant 18' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,258,4,0,2,8:26 PM,6:33,Hill REBOUND (Off:1 Def:1),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,259,5,1,2,8:26 PM,6:22,Nwora Bad Pass Turnover (P1.T9),,Claxton STEAL (1 STL),,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,261,1,106,2,8:26 PM,6:17,,,Claxton 2' Running Alley Oop Dunk Shot (11 PTS) (Thomas 1 AST),42 - 37,-5,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,263,5,1,2,8:26 PM,6:06,Holiday Bad Pass Turnover (P4.T10),,Claxton STEAL (2 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,265,2,2,2,8:26 PM,5:59,,,MISS Thomas 26' 3PT Running Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,266,4,0,2,8:26 PM,5:56,G. Antetokounmpo REBOUND (Off:2 Def:4),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,267,1,6,2,8:27 PM,5:42,Holiday 2' Driving Layup (13 PTS) (G. Antetokounmpo 2 AST),,,42 - 39,-3,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,269,2,1,2,8:27 PM,5:24,,,MISS Durant 26' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,270,4,0,2,8:27 PM,5:22,G. Antetokounmpo REBOUND (Off:2 Def:5),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,271,6,2,2,8:27 PM,5:18,,,Claxton S.FOUL (P2.T4) (T.Ricks),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0012200056,273,3,11,2,8:28 PM,5:18,MISS G. Antetokounmpo Free Throw 1 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,274,4,1,2,8:28 PM,5:18,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,275,3,12,2,8:28 PM,5:18,MISS G. Antetokounmpo Free Throw 2 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,276,4,0,2,8:28 PM,5:14,Lopez REBOUND (Off:2 Def:0),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,277,2,108,2,8:28 PM,5:07,MISS G. Antetokounmpo 3' Cutting Dunk Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,278,4,0,2,8:28 PM,5:04,,,Irving REBOUND (Off:0 Def:2),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,279,1,41,2,8:28 PM,5:03,,,Thomas 2' Running Layup (2 PTS) (Irving 1 AST),44 - 39,-5,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,281,6,2,2,8:28 PM,5:03,Lopez S.FOUL (P3.T4) (T.Ricks),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,283,8,0,2,8:29 PM,5:03,SUB: Portis FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,284,8,0,2,8:29 PM,5:03,SUB: Ibaka FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,287,3,10,2,8:29 PM,5:03,,,Thomas Free Throw 1 of 1 (3 PTS),45 - 39,-6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,288,2,98,2,8:29 PM,4:48,MISS Ibaka 4' Cutting Layup Shot,,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,289,4,0,2,8:29 PM,4:45,,,Claxton REBOUND (Off:2 Def:3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,290,1,1,2,8:29 PM,4:37,,,Irving 28' 3PT Jump Shot (7 PTS) (Durant 3 AST),48 - 39,-9,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,292,1,1,2,8:30 PM,4:14,Hill 3PT Jump Shot (6 PTS) (Nwora 2 AST),,,48 - 42,-6,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,294,1,58,2,8:30 PM,3:50,,,Thomas 5' Turnaround Hook Shot (5 PTS),50 - 42,-8,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,295,2,79,2,8:30 PM,3:35,MISS Holiday 14' Pullup Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,296,4,0,2,8:30 PM,3:32,,,Claxton REBOUND (Off:2 Def:4),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,297,2,80,2,8:31 PM,3:24,,,MISS Irving 21' Step Back Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,298,4,0,2,8:31 PM,3:20,Portis REBOUND (Off:0 Def:2),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,299,2,101,2,8:31 PM,3:14,MISS Nwora 8' Driving Floating Jump Shot,,Claxton BLOCK (2 BLK),,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,301,4,0,2,8:31 PM,3:14,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,303,6,1,2,8:31 PM,3:09,,,Irving P.FOUL (P1.PN) (M.Davis),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,305,3,11,2,8:32 PM,3:09,Nwora Free Throw 1 of 2 (4 PTS),,,50 - 43,-7,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,306,8,0,2,8:32 PM,3:09,SUB: Carter FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,307,8,0,2,8:32 PM,3:09,,,SUB: Simmons FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,310,3,12,2,8:32 PM,3:09,Nwora Free Throw 2 of 2 (5 PTS),,,50 - 44,-6,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,311,6,2,2,8:32 PM,2:53,Nwora S.FOUL (P1.PN) (M.Davis),,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,313,9,1,2,8:33 PM,2:53,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,314,3,11,2,8:36 PM,2:53,,,Simmons Free Throw 1 of 2 (7 PTS),51 - 44,-7,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,315,3,12,2,8:36 PM,2:53,,,MISS Simmons Free Throw 2 of 2,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,316,4,0,2,8:36 PM,2:50,Nwora REBOUND (Off:0 Def:1),,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,317,1,79,2,8:37 PM,2:34,Carter 12' Pullup Jump Shot (9 PTS),,,51 - 46,-5,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,318,2,1,2,8:37 PM,2:13,,,MISS Durant 17' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,319,4,0,2,8:37 PM,2:10,Portis REBOUND (Off:0 Def:3),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,320,2,79,2,8:37 PM,1:55,MISS Carter 15' Pullup Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,321,4,0,2,8:37 PM,1:53,Ibaka REBOUND (Off:1 Def:0),,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,322,6,2,2,8:37 PM,1:52,,,Simmons S.FOUL (P2.PN) (L.Wood),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,324,3,11,2,8:38 PM,1:52,MISS Portis Free Throw 1 of 2,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,325,4,1,2,8:38 PM,1:52,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,326,8,0,2,8:38 PM,1:52,SUB: Holiday FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,328,3,12,2,8:38 PM,1:52,Portis Free Throw 2 of 2 (3 PTS),,,51 - 47,-4,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,329,2,98,2,8:39 PM,1:32,,,MISS Simmons 2' Cutting Layup Shot,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,330,4,0,2,8:39 PM,1:28,Ibaka REBOUND (Off:1 Def:1),,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,331,1,57,2,8:39 PM,1:19,Portis 6' Driving Hook Shot (5 PTS) (Nwora 3 AST),,,51 - 49,-2,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,333,6,2,2,8:39 PM,1:06,Carter S.FOUL (P2.PN) (L.Wood),,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,335,3,11,2,8:40 PM,1:06,,,MISS Irving Free Throw 1 of 2,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,336,4,1,2,8:40 PM,1:06,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,337,3,12,2,8:40 PM,1:06,,,Irving Free Throw 2 of 2 (8 PTS),52 - 49,-3,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,338,2,80,2,8:40 PM,0:50,MISS Holiday 19' Step Back Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,339,4,0,2,8:40 PM,0:47,,,Simmons REBOUND (Off:1 Def:3),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,340,1,100,2,8:40 PM,0:45,,,Thomas 3' Running Alley Oop Layup Shot (7 PTS) (Simmons 8 AST),54 - 49,-5,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,342,5,45,2,8:41 PM,0:32,Holiday Out of Bounds - Bad Pass Turnover Turnover (P5.T11),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0012200056,343,1,79,2,8:41 PM,0:17,,,Irving 17' Pullup Jump Shot (10 PTS),56 - 49,-7,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,344,1,5,2,8:41 PM,0:02,Ibaka 2' Layup (2 PTS) (Holiday 3 AST),,,56 - 51,-5,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,346,1,1,2,8:41 PM,0:00,,,O'Neale 48' 3PT Jump Shot (3 PTS) (Durant 4 AST),59 - 51,-8,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,348,18,0,2,8:42 PM,0:00,,Instant Replay2nd Period (8:42 PM EST),,59 - 51,-8,0,346,Doug Edwards,,,,,0,0,,,,,,1,0,,,,,,0
+0012200056,349,13,0,2,8:43 PM,0:00,,End of 2nd Period (8:43 PM EST),,59 - 51,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,356,12,0,3,8:58 PM,12:00,,Start of 3rd Period (8:58 PM EST),,59 - 51,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,357,5,2,3,8:58 PM,11:47,G. Antetokounmpo Lost Ball Turnover (P2.T12),,Durant STEAL (2 STL),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,359,1,41,3,8:58 PM,11:41,,,O'Neale 2' Running Layup (5 PTS) (Durant 5 AST),61 - 51,-10,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,361,2,1,3,8:58 PM,11:34,MISS G. Antetokounmpo 27' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,362,4,0,3,8:58 PM,11:34,,,Simmons REBOUND (Off:1 Def:4),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,363,1,41,3,8:59 PM,11:28,,,Claxton 1' Running Layup (13 PTS) (Simmons 9 AST),63 - 51,-12,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,365,9,1,3,8:59 PM,11:28,BUCKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,366,1,7,3,9:02 PM,11:09,G. Antetokounmpo 3' Dunk (10 PTS) (Portis 1 AST),,,63 - 53,-10,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,367,2,1,3,9:03 PM,10:56,,,MISS Irving 26' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,368,4,0,3,9:03 PM,10:56,G. Antetokounmpo REBOUND (Off:2 Def:6),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,397,6,1,3,9:03 PM,10:50,,,Irving P.FOUL (P2.T1) (T.Ricks),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,382,5,1,3,9:03 PM,10:41,Carter Bad Pass Turnover (P2.T13),,Claxton STEAL (3 STL),,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,372,2,1,3,9:03 PM,10:27,,,MISS Durant 6' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,373,4,0,3,9:03 PM,10:20,Holiday REBOUND (Off:1 Def:2),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,374,1,1,3,9:04 PM,10:10,Portis 3PT Jump Shot (8 PTS) (Carter 4 AST),,,63 - 56,-7,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,376,1,1,3,9:04 PM,9:56,,,Durant 19' Jump Shot (6 PTS) (Simmons 10 AST),65 - 56,-9,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,378,6,2,3,9:04 PM,9:38,,,Claxton S.FOUL (P3.T2) (L.Wood),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,380,3,11,3,9:05 PM,9:38,G. Antetokounmpo Free Throw 1 of 2 (11 PTS),,,65 - 57,-8,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,381,3,12,3,9:05 PM,9:38,MISS G. Antetokounmpo Free Throw 2 of 2,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,384,4,0,3,9:05 PM,9:35,,,Simmons REBOUND (Off:1 Def:5),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,388,5,2,3,9:05 PM,9:29,G. Antetokounmpo STEAL (2 STL),,Durant Lost Ball Turnover (P3.T8),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,390,1,2,3,9:05 PM,9:22,Carter 27' 3PT Running Jump Shot (12 PTS) (G. Antetokounmpo 3 AST),,,65 - 60,-5,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,392,5,40,3,9:06 PM,8:58,,,Durant Out of Bounds Lost Ball Turnover (P4.T9),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012200056,393,2,5,3,9:06 PM,8:45,MISS G. Antetokounmpo 3' Layup,,Claxton BLOCK (3 BLK),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,395,4,0,3,9:06 PM,8:45,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,399,2,1,3,9:07 PM,8:40,MISS Carter 3PT Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,400,4,0,3,9:07 PM,8:37,,,Simmons REBOUND (Off:1 Def:6),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,401,1,74,3,9:07 PM,8:34,,,O'Neale 1' Running Reverse Layup (7 PTS) (Durant 6 AST),67 - 60,-7,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,403,5,1,3,9:07 PM,8:19,Holiday Bad Pass Turnover (P6.T14),,Irving STEAL (1 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,405,1,50,3,9:07 PM,8:13,,,Claxton 2' Running Dunk (15 PTS) (Irving 2 AST),69 - 60,-9,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,407,2,86,3,9:07 PM,7:48,MISS Portis 19' Turnaround Fadeaway Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,408,4,0,3,9:07 PM,7:48,,,Irving REBOUND (Off:0 Def:3),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,409,2,2,3,9:08 PM,7:40,,,MISS Irving 26' 3PT Running Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,411,4,0,3,9:08 PM,7:37,,,O'Neale REBOUND (Off:1 Def:0),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,412,2,1,3,9:08 PM,7:36,,,MISS Irving 27' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,413,4,0,3,9:08 PM,7:33,Holiday REBOUND (Off:1 Def:3),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,414,2,2,3,9:08 PM,7:30,MISS Carter 26' 3PT Running Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,415,4,0,3,9:08 PM,7:27,,,Irving REBOUND (Off:0 Def:4),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,416,2,1,3,9:08 PM,7:20,,,MISS Durant 27' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,417,4,0,3,9:08 PM,7:20,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,419,8,0,3,9:08 PM,7:19,SUB: Nwora FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,421,8,0,3,9:08 PM,7:19,,,SUB: Mills FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,423,6,2,3,9:09 PM,7:12,Lopez S.FOUL (P4.T1) (M.Davis),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,425,3,11,3,9:09 PM,7:12,,,Claxton Free Throw 1 of 2 (16 PTS),70 - 60,-10,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,426,8,0,3,9:09 PM,7:12,SUB: Hill FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,428,3,12,3,9:09 PM,7:12,,,MISS Claxton Free Throw 2 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,429,4,0,3,9:09 PM,7:06,Portis REBOUND (Off:0 Def:4),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,430,1,80,3,9:10 PM,6:51,Holiday 26' 3PT Step Back Jump Shot (16 PTS) (Lopez 1 AST),,,70 - 63,-7,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,432,2,1,3,9:10 PM,6:34,,,MISS Durant 18' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,433,4,0,3,9:10 PM,6:32,Nwora REBOUND (Off:0 Def:2),,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,434,2,2,3,9:10 PM,6:26,MISS Portis 27' 3PT Running Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,435,4,0,3,9:10 PM,6:26,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,437,1,79,3,9:11 PM,6:03,,,Durant 13' Pullup Jump Shot (8 PTS) (Irving 3 AST),72 - 63,-9,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,439,6,2,3,9:11 PM,6:03,Nwora S.FOUL (P2.T2) (L.Wood),,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,441,3,10,3,9:11 PM,6:03,,,Durant Free Throw 1 of 1 (9 PTS),73 - 63,-10,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,442,1,6,3,9:12 PM,5:43,Holiday 1' Driving Layup (18 PTS),,,73 - 65,-8,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,443,1,98,3,9:12 PM,5:33,,,Irving 2' Cutting Layup Shot (12 PTS) (Mills 2 AST),75 - 65,-10,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,445,5,2,3,9:12 PM,5:17,Nwora Lost Ball Turnover (P2.T15),,Durant STEAL (3 STL),,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,447,1,2,3,9:12 PM,5:11,,,Mills 20' Running Jump Shot (2 PTS) (Durant 7 AST),77 - 65,-12,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,450,2,1,3,9:13 PM,4:48,MISS Hill 3PT Jump Shot,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,451,4,0,3,9:13 PM,4:48,,,Claxton REBOUND (Off:2 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,452,6,1,3,9:13 PM,4:48,Portis P.FOUL (P3.T3) (L.Wood),,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,454,8,0,3,9:13 PM,4:48,SUB: G. Antetokounmpo FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,455,8,0,3,9:13 PM,4:48,,,SUB: Sharpe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,458,6,1,3,9:13 PM,4:34,Hill P.FOUL (P1.T4) (L.Wood),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,460,6,17,3,9:14 PM,4:28,BUCKS T.Foul (Def. 3 Sec Lopez ) (M.Davis),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0012200056,461,3,16,3,9:14 PM,4:28,,,MISS Durant Free Throw Technical,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,462,4,1,3,9:14 PM,4:28,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,463,2,1,3,9:14 PM,4:22,,,MISS Mills 27' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,464,4,0,3,9:15 PM,4:19,G. Antetokounmpo REBOUND (Off:2 Def:7),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,465,2,73,3,9:15 PM,4:11,MISS G. Antetokounmpo 3' Driving Reverse Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,466,4,0,3,9:15 PM,4:06,Lopez REBOUND (Off:3 Def:0),,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,467,2,97,3,9:15 PM,4:06,MISS Lopez Tip Layup Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,468,4,0,3,9:15 PM,4:06,,,O'Neale REBOUND (Off:1 Def:1),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,469,7,5,3,9:15 PM,4:05,Hill Violation:Kicked Ball (M.Davis),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0012200056,470,9,1,3,9:15 PM,4:05,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,471,8,0,3,9:17 PM,4:05,SUB: Ibaka FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,472,8,0,3,9:17 PM,4:05,SUB: Carter FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,475,5,1,3,9:19 PM,3:55,Carter STEAL (3 STL),,Sharpe Bad Pass Turnover (P2.T10),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,477,2,41,3,9:19 PM,3:51,MISS Nwora 2' Running Layup,,O'Neale BLOCK (2 BLK),,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,479,4,0,3,9:19 PM,3:51,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,480,1,108,3,9:19 PM,3:35,,,Sharpe 2' Cutting Dunk Shot (9 PTS) (Durant 8 AST),79 - 65,-14,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,482,2,1,3,9:19 PM,3:19,MISS Hill 27' 3PT Jump Shot,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,483,4,0,3,9:19 PM,3:19,,,Sharpe REBOUND (Off:0 Def:4),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,484,6,1,3,9:20 PM,3:16,Hill P.FOUL (P2.PN) (T.Ricks),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,486,3,11,3,9:20 PM,3:16,,,Durant Free Throw 1 of 2 (10 PTS),80 - 65,-15,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,487,8,0,3,9:20 PM,3:16,,,SUB: Watanabe FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,489,3,12,3,9:20 PM,3:16,,,Durant Free Throw 2 of 2 (11 PTS),81 - 65,-16,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,490,5,1,3,9:21 PM,3:05,Hill Bad Pass Turnover (P2.T16),,Sharpe STEAL (3 STL),,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,493,2,6,3,9:21 PM,2:49,,,MISS Irving 3' Driving Layup,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,494,4,0,3,9:21 PM,2:47,Ibaka REBOUND (Off:1 Def:2),,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,495,2,41,3,9:21 PM,2:43,MISS G. Antetokounmpo 2' Running Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,496,4,0,3,9:21 PM,2:39,,,Mills REBOUND (Off:0 Def:1),,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,497,2,1,3,9:22 PM,2:19,,,MISS Watanabe 3PT Jump Shot,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,498,4,0,3,9:22 PM,2:15,G. Antetokounmpo REBOUND (Off:2 Def:8),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,499,1,1,3,9:22 PM,1:52,Carter 25' 3PT Jump Shot (15 PTS) (Nwora 4 AST),,,81 - 68,-13,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,501,1,1,3,9:22 PM,1:38,,,Irving 27' 3PT Jump Shot (15 PTS),84 - 68,-16,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,502,5,1,3,9:23 PM,1:21,G. Antetokounmpo Bad Pass Turnover (P3.T17),,Watanabe STEAL (1 STL),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,504,1,2,3,9:23 PM,1:15,,,Durant 26' 3PT Running Jump Shot (14 PTS) (Watanabe 1 AST),87 - 68,-19,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,506,1,6,3,9:23 PM,0:55,G. Antetokounmpo 3' Driving Layup (13 PTS),,,87 - 70,-17,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,507,6,2,3,9:23 PM,0:55,,,Sharpe S.FOUL (P2.T3) (L.Wood),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,509,8,0,3,9:23 PM,0:55,SUB: Beauchamp FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,510,8,0,3,9:23 PM,0:55,,,SUB: Morris FOR Sharpe,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,511,8,0,3,9:23 PM,0:55,,,SUB: Simmons FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,515,3,10,3,9:24 PM,0:55,G. Antetokounmpo Free Throw 1 of 1 (14 PTS),,,87 - 71,-16,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,516,2,1,3,9:24 PM,0:39,Carter BLOCK (1 BLK),,MISS Durant 18' Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,1
+0012200056,518,4,0,3,9:25 PM,0:37,,,Irving REBOUND (Off:1 Def:4),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,519,1,1,3,9:25 PM,0:37,,,Durant 15' Jump Shot (16 PTS) (Irving 4 AST),89 - 71,-18,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,520,6,1,3,9:25 PM,0:35,,,Simmons P.FOUL (P3.PN) (L.Wood),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,522,3,11,3,9:25 PM,0:35,G. Antetokounmpo Free Throw 1 of 2 (15 PTS),,,89 - 72,-17,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,524,3,12,3,9:26 PM,0:35,G. Antetokounmpo Free Throw 2 of 2 (16 PTS),,,89 - 73,-16,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,525,1,1,3,9:26 PM,0:15,,,Irving 28' 3PT Jump Shot (18 PTS) (Mills 3 AST),92 - 73,-19,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,527,6,2,3,9:27 PM,0:04,,,Morris S.FOUL (P2.PN) (T.Ricks),,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,529,3,11,3,9:27 PM,0:04,G. Antetokounmpo Free Throw 1 of 2 (17 PTS),,,92 - 74,-18,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,530,3,12,3,9:28 PM,0:04,G. Antetokounmpo Free Throw 2 of 2 (18 PTS),,,92 - 75,-17,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,531,2,1,3,9:28 PM,0:01,,,MISS Irving 27' 3PT Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,532,4,0,3,9:28 PM,0:01,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,533,13,0,3,9:28 PM,0:00,,End of 3rd Period (9:28 PM EST),,92 - 75,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200056,540,12,0,4,9:32 PM,12:00,,Start of 4th Period (9:32 PM EST),,92 - 75,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,541,2,1,4,9:32 PM,11:44,,,MISS Mills 27' 3PT Jump Shot,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,542,4,0,4,9:32 PM,11:39,Ibaka REBOUND (Off:1 Def:3),,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0012200056,543,1,98,4,9:33 PM,11:22,Ibaka 2' Cutting Layup Shot (4 PTS) (Portis 2 AST),,,92 - 77,-15,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,545,1,79,4,9:33 PM,10:59,,,Irving 26' 3PT Pullup Jump Shot (21 PTS) (Claxton 1 AST),95 - 77,-18,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,547,5,1,4,9:33 PM,10:43,Ibaka Bad Pass Turnover (P1.T18),,Simmons STEAL (2 STL),,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,549,2,2,4,9:33 PM,10:39,,,MISS Irving 27' 3PT Running Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,550,4,0,4,9:33 PM,10:37,,,Claxton REBOUND (Off:3 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,555,8,0,4,9:34 PM,10:25,SUB: G. Antetokounmpo FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,556,8,0,4,9:34 PM,10:25,,,SUB: Durant FOR Mills,,,5,201988,Patty Mills,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,553,5,11,4,9:34 PM,10:23,,,Nets Turnover: Shot Clock (T#11),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200056,559,1,1,4,9:34 PM,10:12,Beauchamp 24' 3PT Jump Shot (6 PTS) (Holiday 4 AST),,,95 - 80,-15,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,561,2,80,4,9:34 PM,9:55,,,MISS Durant 15' Step Back Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,562,4,0,4,9:35 PM,9:53,,,Simmons REBOUND (Off:2 Def:6),,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,563,6,2,4,9:35 PM,9:49,G. Antetokounmpo S.FOUL (P2.T1) (T.Ricks),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,565,3,11,4,9:35 PM,9:49,,,MISS Claxton Free Throw 1 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,566,4,1,4,9:35 PM,9:49,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,567,8,0,4,9:35 PM,9:49,SUB: Hill FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,569,3,12,4,9:35 PM,9:49,,,MISS Claxton Free Throw 2 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,570,4,0,4,9:35 PM,9:47,G. Antetokounmpo REBOUND (Off:2 Def:9),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,571,2,6,4,9:35 PM,9:38,MISS G. Antetokounmpo 3' Driving Layup,,Durant BLOCK (1 BLK),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,573,4,0,4,9:36 PM,9:33,Holiday REBOUND (Off:2 Def:3),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,574,2,1,4,9:36 PM,9:32,MISS Hill 26' 3PT Jump Shot,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,575,4,0,4,9:36 PM,9:28,,,Irving REBOUND (Off:1 Def:5),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,576,10,0,4,9:37 PM,9:22,Jump Ball G. Antetokounmpo vs. Irving: Tip to G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0012200056,579,5,2,4,9:37 PM,9:22,G. Antetokounmpo STEAL (3 STL),,Irving Lost Ball Turnover (P1.T12),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,581,6,2,4,9:37 PM,9:18,,,Claxton S.FOUL (P4.T1) (T.Ricks),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,583,3,11,4,9:37 PM,9:18,G. Antetokounmpo Free Throw 1 of 2 (19 PTS),,,95 - 81,-14,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,584,3,12,4,9:38 PM,9:18,G. Antetokounmpo Free Throw 2 of 2 (20 PTS),,,95 - 82,-13,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,585,2,1,4,9:38 PM,8:58,,,MISS Durant 27' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,586,4,0,4,9:38 PM,8:54,,,Claxton REBOUND (Off:4 Def:5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,587,6,2,4,9:38 PM,8:48,G. Antetokounmpo S.FOUL (P3.T2) (T.Ricks),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,589,3,11,4,9:39 PM,8:48,,,Irving Free Throw 1 of 2 (22 PTS),96 - 82,-14,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012200056,590,8,0,4,9:39 PM,8:48,,,SUB: O'Neale FOR Morris,,,5,202693,Markieff Morris,1610612751.0,Brooklyn,Nets,BKN,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,592,3,12,4,9:39 PM,8:48,,,Irving Free Throw 2 of 2 (23 PTS),97 - 82,-15,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,593,2,1,4,9:40 PM,8:28,MISS Portis 25' 3PT Jump Shot,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,594,4,0,4,9:40 PM,8:24,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,595,1,79,4,9:40 PM,8:09,,,Durant 25' 3PT Pullup Jump Shot (19 PTS),100 - 82,-18,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,596,9,1,4,9:40 PM,8:09,BUCKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,597,8,0,4,9:43 PM,8:09,SUB: Lopez FOR Portis,,,,,4,1626171,Bobby Portis,1610612749.0,Milwaukee,Bucks,MIL,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,598,8,0,4,9:43 PM,8:09,,,SUB: Thomas FOR Simmons,,,5,1627732,Ben Simmons,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,601,6,1,4,9:44 PM,8:05,,,O'Neale P.FOUL (P1.T2) (M.Davis),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,603,2,5,4,9:44 PM,7:55,MISS G. Antetokounmpo 2' Layup,,Thomas BLOCK (1 BLK),,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1
+0012200056,608,4,0,4,9:44 PM,7:51,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,605,10,0,4,9:45 PM,7:51,Jump Ball G. Antetokounmpo vs. Thomas: Tip to Durant,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,0
+0012200056,609,2,80,4,9:45 PM,7:32,,,MISS Thomas 27' 3PT Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,610,4,0,4,9:45 PM,7:30,Beauchamp REBOUND (Off:0 Def:3),,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,611,1,3,4,9:45 PM,7:25,Holiday 3' Hook Shot (20 PTS),,,100 - 84,-16,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,612,6,2,4,9:45 PM,7:25,,,Claxton S.FOUL (P5.T3) (L.Wood),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,1
+0012200056,614,8,0,4,9:45 PM,7:25,,,SUB: Watanabe FOR Durant,,,5,201142,Kevin Durant,1610612751.0,Brooklyn,Nets,BKN,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,616,3,10,4,9:46 PM,7:25,MISS Holiday Free Throw 1 of 1,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,617,4,0,4,9:46 PM,7:22,,,O'Neale REBOUND (Off:1 Def:2),,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,618,2,101,4,9:46 PM,6:59,,,MISS Irving 18' Driving Floating Jump Shot,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,619,4,0,4,9:46 PM,6:56,,,Irving REBOUND (Off:2 Def:5),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,620,5,1,4,9:46 PM,6:55,Lopez STEAL (1 STL),,Irving Bad Pass Turnover (P2.T13),,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,622,1,41,4,9:46 PM,6:50,G. Antetokounmpo 2' Running Layup (22 PTS),,,100 - 86,-14,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,623,9,1,4,9:46 PM,6:44,,,Nets Timeout: Regular (Reg.4 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,624,8,0,4,9:49 PM,6:44,,,SUB: Sharpe FOR O'Neale,,,5,1626220,Royce O'Neale,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,625,8,0,4,9:49 PM,6:44,,,SUB: Edwards FOR Irving,,,5,202681,Kyrie Irving,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,626,8,0,4,9:49 PM,6:44,,,SUB: Duke Jr. FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,627,8,0,4,9:49 PM,6:44,,,SUB: Williams FOR Watanabe,,,5,1629139,Yuta Watanabe,1610612751.0,Brooklyn,Nets,BKN,5,1631214,Alondes Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012200056,632,2,1,4,9:50 PM,6:28,,,MISS Sharpe 26' 3PT Jump Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,633,4,0,4,9:50 PM,6:25,G. Antetokounmpo REBOUND (Off:2 Def:10),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,634,1,9,4,9:50 PM,6:19,G. Antetokounmpo 2' Driving Dunk (24 PTS),,,100 - 88,-12,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,635,2,79,4,9:50 PM,6:06,,,MISS Duke Jr. 25' 3PT Pullup Jump Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,636,4,0,4,9:51 PM,6:03,G. Antetokounmpo REBOUND (Off:2 Def:11),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,637,1,1,4,9:51 PM,5:56,Lopez 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 4 AST),,,100 - 91,-9,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,639,5,1,4,9:51 PM,5:35,Hill STEAL (1 STL),,Williams Bad Pass Turnover (P1.T14),,,5,1631214,Alondes Williams,1610612751.0,Brooklyn,Nets,BKN,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,641,1,41,4,9:51 PM,5:34,Hill 1' Running Layup (8 PTS),,,100 - 93,-7,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,642,9,1,4,9:51 PM,5:34,,,Nets Timeout: Regular (Reg.5 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,643,8,0,4,9:52 PM,5:34,SUB: Nwora FOR Beauchamp,,,,,4,1630699,MarJon Beauchamp,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,645,1,79,4,9:53 PM,5:22,,,Thomas 19' Pullup Jump Shot (9 PTS) (Duke Jr. 1 AST),102 - 93,-9,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,647,2,47,4,9:53 PM,5:02,MISS G. Antetokounmpo 7' Turnaround Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,648,4,0,4,9:53 PM,5:02,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,650,2,1,4,9:53 PM,4:57,,,MISS Edwards 29' 3PT Jump Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,651,4,0,4,9:53 PM,4:52,Hill REBOUND (Off:1 Def:2),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,652,5,39,4,9:54 PM,4:41,G. Antetokounmpo Step Out of Bounds Turnover (P4.T19),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,1
+0012200056,653,8,0,4,9:54 PM,4:41,SUB: Carter FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,655,2,1,4,9:54 PM,4:28,,,MISS Thomas 13' Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,656,4,0,4,9:54 PM,4:25,Hill REBOUND (Off:1 Def:3),,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,657,2,1,4,9:55 PM,4:10,MISS Holiday 26' 3PT Jump Shot,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,658,4,0,4,9:55 PM,4:06,,,Sharpe REBOUND (Off:0 Def:5),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,659,6,1,4,9:55 PM,4:03,Holiday P.FOUL (P1.T3) (T.Ricks),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,662,5,1,4,9:56 PM,3:51,Hill STEAL (2 STL),,Sharpe Bad Pass Turnover (P3.T15),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1
+0012200056,664,5,1,4,9:56 PM,3:41,Nwora Bad Pass Turnover (P3.T20),,Duke Jr. STEAL (1 STL),,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,666,2,6,4,9:56 PM,3:28,,,MISS Edwards 6' Driving Layup,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,667,4,0,4,9:56 PM,3:28,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,669,9,1,4,9:56 PM,3:28,BUCKS Timeout: Regular (Full 5 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,670,8,0,4,9:57 PM,3:28,SUB: G. Antetokounmpo FOR Nwora,,,,,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,672,1,86,4,9:58 PM,3:08,Lopez 14' Turnaround Fadeaway (5 PTS),,,102 - 95,-7,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,673,1,101,4,9:58 PM,2:53,,,Thomas 14' Driving Floating Jump Shot (11 PTS),104 - 95,-9,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,674,5,1,4,9:58 PM,2:36,Holiday Bad Pass Turnover (P7.T21),,Sharpe STEAL (4 STL),,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,676,1,50,4,9:59 PM,2:30,,,Sharpe 2' Running Dunk (11 PTS) (Thomas 2 AST),106 - 95,-11,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,678,2,1,4,9:59 PM,2:11,MISS Lopez 27' 3PT Jump Shot,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,679,4,0,4,9:59 PM,2:08,,,Duke Jr. REBOUND (Off:0 Def:1),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,680,2,80,4,9:59 PM,1:45,,,MISS Thomas 17' Step Back Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,681,4,0,4,9:59 PM,1:42,G. Antetokounmpo REBOUND (Off:2 Def:12),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,682,2,1,4,9:59 PM,1:33,MISS Carter 3PT Jump Shot,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,683,4,0,4,10:00 PM,1:30,Holiday REBOUND (Off:3 Def:3),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,684,2,1,4,10:00 PM,1:28,MISS G. Antetokounmpo 26' 3PT Jump Shot,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,685,4,0,4,10:00 PM,1:25,,,Thomas REBOUND (Off:0 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,686,6,28,4,10:00 PM,1:17,Holiday Personal Take Foul (P2.T4) (M.Davis),,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,688,8,0,4,10:00 PM,1:17,SUB: Mamukelashvili FOR Hill,,,,,4,201588,George Hill,1610612749.0,Milwaukee,Bucks,MIL,4,1630572,Sandro Mamukelashvili,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,689,8,0,4,10:00 PM,1:17,SUB: Bolden FOR Carter,,,,,4,1628975,Jevon Carter,1610612749.0,Milwaukee,Bucks,MIL,4,1629716,Marques Bolden,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,690,8,0,4,10:00 PM,1:17,SUB: Green FOR Lopez,,,,,4,201572,Brook Lopez,1610612749.0,Milwaukee,Bucks,MIL,4,1631260,A.J. Green,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,691,8,0,4,10:00 PM,1:17,SUB: Nwora FOR Holiday,,,,,4,201950,Jrue Holiday,1610612749.0,Milwaukee,Bucks,MIL,4,1629670,Jordan Nwora,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,692,8,0,4,10:00 PM,1:17,SUB: Wigginton FOR G. Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,1629623,Lindell Wigginton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0012200056,698,2,6,4,10:00 PM,1:09,Bolden BLOCK (1 BLK),,MISS Thomas 5' Driving Layup,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1629716,Marques Bolden,1610612749.0,Milwaukee,Bucks,MIL,1
+0012200056,700,4,0,4,10:00 PM,1:04,Wigginton REBOUND (Off:0 Def:1),,,,,4,1629623,Lindell Wigginton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,701,5,1,4,10:01 PM,0:58,Bolden Bad Pass Turnover (P1.T22),,Sharpe STEAL (5 STL),,,4,1629716,Marques Bolden,1610612749.0,Milwaukee,Bucks,MIL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012200056,703,6,2,4,10:01 PM,0:36,Wigginton S.FOUL (P1.PN) (M.Davis),,,,,4,1629623,Lindell Wigginton,1610612749.0,Milwaukee,Bucks,MIL,5,1631214,Alondes Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012200056,705,3,11,4,10:01 PM,0:36,,,MISS Williams Free Throw 1 of 2,,,5,1631214,Alondes Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,706,4,1,4,10:01 PM,0:36,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200056,707,3,12,4,10:02 PM,0:36,,,Williams Free Throw 2 of 2 (1 PTS),107 - 95,-12,5,1631214,Alondes Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012200056,708,1,101,4,10:02 PM,0:20,Wigginton 14' Driving Floating Jump Shot (2 PTS),,,107 - 97,-10,4,1629623,Lindell Wigginton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,1
+0012200056,709,13,0,4,10:02 PM,0:00,,End of 4th Period (10:02 PM EST),,107 - 97,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,440 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300096,0,12,0,1,7:12 PM,12:00,,Start of 1st Period (7:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,1,10,0,1,7:12 PM,12:00,Jump Ball Thompson vs. Nene: Tip to Booker,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0
+0011300096,2,2,1,1,7:13 PM,11:36,,,MISS Nene 15' Jump Shot,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,3,4,0,1,7:13 PM,11:35,Irving REBOUND (Off:0 Def:1),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,4,2,1,1,7:13 PM,11:11,MISS Clark 21' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,5,4,0,1,7:13 PM,11:10,Varejao REBOUND (Off:1 Def:0),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,6,1,1,1,7:13 PM,10:57,Jack 16' Jump Shot (2 PTS) (Thompson 1 AST),,,0 - 2,2,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,7,6,1,1,7:14 PM,10:41,Varejao P.FOUL (P1.T1),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,8,2,42,1,7:14 PM,10:40,,,MISS Wall 1' Driving Layup,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,9,4,0,1,7:14 PM,10:39,Clark REBOUND (Off:0 Def:1),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,10,2,71,1,7:14 PM,10:28,MISS Clark 1' Finger Roll Layup,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,11,4,0,1,7:14 PM,10:26,,,Booker REBOUND (Off:0 Def:1),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,12,6,2,1,7:14 PM,10:24,Jack S.FOUL (P1.T2),,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,13,3,11,1,7:14 PM,10:24,,,Ariza Free Throw 1 of 2 (1 PTS),1 - 2,1,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,15,3,12,1,7:15 PM,10:24,,,Ariza Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,18,2,46,1,7:15 PM,10:09,MISS Irving 4' Running Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,19,4,0,1,7:15 PM,10:08,,,Booker REBOUND (Off:0 Def:2),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,20,1,1,1,7:15 PM,10:01,,,Ariza 24' 3PT Jump Shot (5 PTS) (Wall 1 AST),5 - 2,-3,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,21,1,1,1,7:15 PM,9:51,Irving 26' 3PT Jump Shot (3 PTS) (Varejao 1 AST),,,5 - 5,TIE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,22,1,1,1,7:16 PM,9:38,,,Ariza 25' 3PT Jump Shot (8 PTS) (Wall 2 AST),8 - 5,-3,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,23,5,1,1,7:16 PM,9:30,Varejao Bad Pass Turnover (P1.T1),,Ariza STEAL (1 STL),,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,24,2,1,1,7:16 PM,9:25,,,MISS Wall 19' Jump Shot,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,25,4,0,1,7:16 PM,9:23,Thompson REBOUND (Off:0 Def:1),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,26,6,1,1,7:16 PM,9:19,,,Beal P.FOUL (P1.T1),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,27,1,1,1,7:16 PM,8:59,Irving 29' 3PT Jump Shot (6 PTS) (Jack 1 AST),,,8 - 8,TIE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,28,2,1,1,7:17 PM,8:48,,,MISS Ariza 20' Jump Shot,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,29,4,0,1,7:17 PM,8:48,Varejao REBOUND (Off:1 Def:1),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,30,2,5,1,7:17 PM,8:40,MISS Irving 1' Layup,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,32,4,0,1,7:17 PM,8:39,Thompson REBOUND (Off:1 Def:1),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,31,2,4,1,7:17 PM,8:39,MISS Thompson  Tip Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,33,4,0,1,7:17 PM,8:37,,,Nene REBOUND (Off:0 Def:1),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,34,2,1,1,7:17 PM,8:33,,,MISS Ariza 15' Jump Shot,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,35,4,0,1,7:17 PM,8:31,Varejao REBOUND (Off:1 Def:2),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,36,1,7,1,7:17 PM,8:26,Clark 1' Dunk (2 PTS) (Jack 2 AST),,,8 - 10,2,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,37,2,1,1,7:17 PM,8:02,,,MISS Wall 24' 3PT Jump Shot,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,38,4,0,1,7:17 PM,8:01,Thompson REBOUND (Off:1 Def:2),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,39,1,1,1,7:17 PM,7:55,Irving 4' Jump Shot (8 PTS) (Thompson 2 AST),,,8 - 12,4,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,40,6,1,1,7:18 PM,7:48,Thompson P.FOUL (P1.T3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,41,2,66,1,7:18 PM,7:39,,,MISS Booker 9' Jump Bank Shot,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,42,4,0,1,7:18 PM,7:37,,,Beal REBOUND (Off:1 Def:0),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,44,2,1,1,7:18 PM,7:32,,,MISS Booker 19' Jump Shot,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,45,4,0,1,7:18 PM,7:31,Thompson REBOUND (Off:1 Def:3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,47,1,1,1,7:19 PM,7:22,Varejao 13' Jump Shot (2 PTS) (Jack 3 AST),,,8 - 14,6,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,49,1,1,1,7:19 PM,7:11,,,Beal 20' Jump Shot (2 PTS) (Booker 1 AST),10 - 14,4,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,50,9,1,1,7:19 PM,7:09,CAVALIERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,54,5,1,1,7:21 PM,6:56,Thompson Bad Pass Turnover (P1.T2),,Ariza STEAL (2 STL),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,55,5,2,1,7:22 PM,6:42,Varejao STEAL (1 STL),,Wall Lost Ball Turnover (P1.T1),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,56,1,7,1,7:22 PM,6:36,Clark  Dunk (4 PTS) (Jack 4 AST),,,10 - 16,6,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,57,2,1,1,7:22 PM,6:24,,,MISS Beal 25' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,58,4,0,1,7:22 PM,6:24,Thompson REBOUND (Off:1 Def:4),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,59,2,1,1,7:22 PM,6:11,MISS Irving 27' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,60,4,0,1,7:22 PM,6:11,,,Ariza REBOUND (Off:0 Def:1),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,61,2,3,1,7:22 PM,6:01,,,MISS Nene 9' Hook Shot,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,62,4,0,1,7:22 PM,5:59,,,Nene REBOUND (Off:1 Def:1),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,63,1,66,1,7:22 PM,5:57,,,Nene 13' Jump Bank Shot (2 PTS),12 - 16,4,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,64,6,1,1,7:22 PM,5:50,,,Wall P.FOUL (P1.T2),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,65,6,1,1,7:23 PM,5:47,,,Nene P.FOUL (P1.T3),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,66,2,1,1,7:23 PM,5:41,MISS Thompson 10' Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,67,4,0,1,7:23 PM,5:40,Thompson REBOUND (Off:2 Def:4),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,68,1,66,1,7:23 PM,5:38,Thompson 4' Jump Bank Shot (2 PTS),,,12 - 18,6,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,69,6,1,1,7:23 PM,5:26,Varejao P.FOUL (P2.T4),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,74,2,80,1,7:25 PM,5:05,MISS Jack 19' Step Back Jump Shot,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,75,4,0,1,7:25 PM,5:04,Thompson REBOUND (Off:3 Def:4),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,76,2,1,1,7:25 PM,5:02,MISS Clark 16' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,77,4,0,1,7:25 PM,5:01,,,Booker REBOUND (Off:0 Def:3),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,78,5,1,1,7:25 PM,4:55,Irving STEAL (1 STL),,Wall Bad Pass Turnover (P2.T2),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,79,6,2,1,7:25 PM,4:50,,,Wall S.FOUL (P2.T4),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,80,3,11,1,7:26 PM,4:50,Thompson Free Throw 1 of 2 (3 PTS),,,12 - 19,7,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,82,8,0,1,7:26 PM,4:50,,,SUB: Maynor FOR Wall,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,83,8,0,1,7:26 PM,4:50,SUB: Gee FOR Clark,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,84,3,12,1,7:26 PM,4:50,Thompson Free Throw 2 of 2 (4 PTS),,,12 - 20,8,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,86,2,47,1,7:26 PM,4:32,,,MISS Nene 7' Turnaround Jump Shot,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,87,4,0,1,7:26 PM,4:30,Thompson REBOUND (Off:3 Def:5),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,88,1,7,1,7:26 PM,4:26,Thompson  Dunk (6 PTS) (Jack 5 AST),,,12 - 22,10,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,89,2,1,1,7:27 PM,4:10,,,MISS Beal 25' 3PT Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,90,4,0,1,7:27 PM,4:09,Thompson REBOUND (Off:3 Def:6),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,91,2,1,1,7:27 PM,4:01,MISS Jack 18' Jump Shot,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,92,4,0,1,7:27 PM,4:00,Thompson REBOUND (Off:4 Def:6),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,93,2,1,1,7:27 PM,3:50,MISS Thompson 13' Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,94,4,0,1,7:27 PM,3:49,,,Booker REBOUND (Off:0 Def:4),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,96,9,1,1,7:27 PM,3:40,,,Wizards Timeout: Regular (Reg.1 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,98,8,0,1,7:29 PM,3:40,,,SUB: Harrington FOR Booker,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,99,8,0,1,7:30 PM,3:40,SUB: Bennett FOR Thompson,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,100,5,11,1,7:30 PM,3:23,,,Wizards Turnover: Shot Clock (T#3),,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300096,101,1,1,1,7:31 PM,3:07,Jack 25' 3PT Jump Shot (5 PTS) (Bennett 1 AST),,,12 - 25,13,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,102,1,5,1,7:31 PM,2:49,,,Nene 1' Layup (4 PTS) (Beal 1 AST),14 - 25,11,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,103,1,1,1,7:31 PM,2:29,Irving 14' Jump Shot (10 PTS),,,14 - 27,13,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,104,1,42,1,7:31 PM,2:15,,,Beal 1' Driving Layup (4 PTS),16 - 27,11,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,105,2,1,1,7:32 PM,2:02,MISS Bennett 26' 3PT Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,106,4,0,1,7:32 PM,2:01,,,Ariza REBOUND (Off:0 Def:2),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,107,2,1,1,7:32 PM,1:50,,,MISS Beal 21' Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,108,4,0,1,7:32 PM,1:49,Irving REBOUND (Off:0 Def:2),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,109,6,2,1,7:32 PM,1:41,,,Nene S.FOUL (P2.PN),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,110,3,11,1,7:32 PM,1:41,Bennett Free Throw 1 of 2 (1 PTS),,,16 - 28,12,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,112,8,0,1,7:33 PM,1:41,,,SUB: Seraphin FOR Ariza,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,113,8,0,1,7:33 PM,1:41,,,SUB: Childress FOR Nene,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,114,8,0,1,7:33 PM,1:41,SUB: Taylor FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,115,8,0,1,7:33 PM,1:41,SUB: Dellavedova FOR Irving,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,116,8,0,1,7:33 PM,1:41,SUB: Sims FOR Jack,,,,,4,101127,Jarrett Jack,1610612739.0,Cleveland,Cavaliers,CLE,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,117,3,12,1,7:33 PM,1:41,Bennett Free Throw 2 of 2 (2 PTS),,,16 - 29,13,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,119,2,1,1,7:33 PM,1:19,,,MISS Maynor 26' 3PT Jump Shot,,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,120,4,0,1,7:33 PM,1:18,Bennett REBOUND (Off:0 Def:1),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,121,2,1,1,7:33 PM,1:07,MISS Bennett 18' Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,122,4,0,1,7:33 PM,1:06,,,Beal REBOUND (Off:1 Def:1),,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,123,2,1,1,7:34 PM,0:58,,,MISS Harrington 25' 3PT Jump Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,124,4,0,1,7:34 PM,0:58,Sims REBOUND (Off:0 Def:1),,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,125,6,4,1,7:34 PM,0:48,Bennett OFF.Foul (P1),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,126,5,5,1,7:34 PM,0:48,Bennett Foul Turnover (P1.T3),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,127,1,42,1,7:34 PM,0:36,,,Beal  Driving Layup (6 PTS),18 - 29,11,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,128,6,26,1,7:35 PM,0:36,Gee Offensive Charge Foul (P1.PN),,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,129,5,5,1,7:35 PM,0:25,Gee Foul Turnover (P1.T4),,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,130,1,49,1,7:35 PM,0:05,,,Beal 1' Driving Dunk (8 PTS),20 - 29,9,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,131,1,1,1,7:35 PM,0:01,Taylor 24' 3PT Jump Shot (3 PTS) (Dellavedova 1 AST),,,20 - 32,12,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,134,18,0,1,7:35 PM,0:01,,Support Ruling,,,,0,131,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300096,132,13,0,1,7:36 PM,0:00,,End of 1st Period (7:36 PM EST),,20 - 32,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,135,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,20 - 32,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,136,1,7,2,7:40 PM,11:55,Taylor 2' Dunk (5 PTS) (Bennett 2 AST),,,20 - 34,14,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,137,6,1,2,7:41 PM,11:40,Taylor P.FOUL (P1.T1),,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,138,1,42,2,7:41 PM,11:26,,,Harrington 1' Driving Layup (2 PTS),22 - 34,12,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,139,6,2,2,7:42 PM,11:02,,,Seraphin S.FOUL (P1.T1),,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,140,3,11,2,7:42 PM,11:02,Sims Free Throw 1 of 2 (1 PTS),,,22 - 35,13,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,142,8,0,2,7:42 PM,11:02,,,SUB: Temple FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,143,3,12,2,7:42 PM,11:02,Sims Free Throw 2 of 2 (2 PTS),,,22 - 36,14,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,145,2,47,2,7:42 PM,10:48,,,MISS Harrington 17' Turnaround Jump Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,146,4,0,2,7:42 PM,10:47,Gee REBOUND (Off:0 Def:1),,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,147,6,1,2,7:43 PM,10:30,,,Harrington P.FOUL (P1.T2),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,148,2,1,2,7:43 PM,10:25,MISS Dellavedova 19' Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,149,4,0,2,7:43 PM,10:24,Dellavedova REBOUND (Off:1 Def:0),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,150,1,63,2,7:43 PM,10:17,Taylor 15' Fadeaway Jumper (7 PTS),,,22 - 38,16,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,151,5,1,2,7:44 PM,10:01,Gee STEAL (1 STL),,Childress Bad Pass Turnover (P1.T4),,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,152,2,1,2,7:44 PM,9:54,MISS Sims 18' Jump Shot,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,153,4,0,2,7:44 PM,9:53,,,Maynor REBOUND (Off:0 Def:1),,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,154,2,47,2,7:44 PM,9:34,,,MISS Seraphin 16' Turnaround Jump Shot,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,156,4,0,2,7:44 PM,9:33,,,Childress REBOUND (Off:1 Def:0),,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,155,1,4,2,7:44 PM,9:33,,,Childress 1' Tip Shot (2 PTS),24 - 38,14,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,157,9,1,2,7:44 PM,9:31,CAVALIERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,159,8,0,2,7:46 PM,9:31,,,SUB: Wall FOR Maynor,,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,160,8,0,2,7:46 PM,9:31,SUB: Kadji FOR Bennett,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,161,1,1,2,7:47 PM,9:15,Kadji 19' Jump Shot (2 PTS) (Dellavedova 2 AST),,,24 - 40,16,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,162,6,4,2,7:47 PM,9:04,,,Harrington OFF.Foul (P2),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,163,5,5,2,7:47 PM,9:04,,,Harrington Foul Turnover (P1.T5),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011300096,164,8,0,2,7:47 PM,9:04,,,SUB: Ariza FOR Childress,,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,165,2,1,2,7:48 PM,8:50,MISS Kadji 17' Jump Shot,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,166,4,0,2,7:48 PM,8:49,,,Harrington REBOUND (Off:0 Def:1),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,167,5,4,2,7:48 PM,8:42,,,Ariza Traveling Turnover (P1.T6),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011300096,168,5,2,2,7:48 PM,8:34,Gee Lost Ball Turnover (P2.T5),,Harrington STEAL (1 STL),,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,169,2,1,2,7:48 PM,8:17,,,MISS Harrington 25' 3PT Jump Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,170,4,0,2,7:48 PM,8:14,Gee REBOUND (Off:0 Def:2),,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,171,2,1,2,7:49 PM,7:54,MISS Taylor 9' Jump Shot,,Ariza BLOCK (1 BLK),,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0
+0011300096,172,4,0,2,7:49 PM,7:52,,,Ariza REBOUND (Off:0 Def:3),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,173,1,5,2,7:49 PM,7:49,,,Wall  Layup (2 PTS) (Ariza 1 AST),26 - 40,14,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,174,2,1,2,7:49 PM,7:34,MISS Dellavedova 25' 3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,175,4,0,2,7:49 PM,7:33,,,Harrington REBOUND (Off:0 Def:2),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,176,1,65,2,7:49 PM,7:18,,,Harrington 7' Jump Hook Shot (4 PTS) (Ariza 2 AST),28 - 40,12,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,177,6,4,2,7:49 PM,7:11,Dellavedova OFF.Foul (P1),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,178,5,5,2,7:49 PM,7:11,Dellavedova Foul Turnover (P1.T6),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,179,2,5,2,7:50 PM,6:56,Kadji BLOCK (1 BLK),,MISS Wall 3' Layup,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300096,180,4,0,2,7:50 PM,6:55,,,Seraphin REBOUND (Off:1 Def:0),,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,181,2,5,2,7:50 PM,6:53,Sims BLOCK (1 BLK),,MISS Seraphin 1' Layup,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300096,182,4,0,2,7:50 PM,6:51,Kadji REBOUND (Off:0 Def:1),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,183,2,1,2,7:50 PM,6:44,MISS Gee 24' 3PT Jump Shot,,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,184,4,0,2,7:50 PM,6:43,,,Temple REBOUND (Off:0 Def:1),,,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,185,2,1,2,7:50 PM,6:38,,,MISS Ariza 16' Jump Shot,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,186,4,0,2,7:50 PM,6:36,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,187,8,0,2,7:50 PM,6:36,SUB: Thompson FOR Kadji,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,188,8,0,2,7:50 PM,6:36,SUB: Clark FOR Gee,,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,190,7,2,2,7:51 PM,6:28,Sims Violation:Defensive Goaltending,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,189,1,5,2,7:51 PM,6:28,,,Harrington 2' Layup (6 PTS),30 - 40,10,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,191,1,1,2,7:51 PM,6:11,Thompson 8' Jump Shot (8 PTS),,,30 - 42,12,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,192,9,1,2,7:51 PM,6:10,,,Wizards Timeout: Regular (Reg.2 Short 0),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,194,8,0,2,7:53 PM,6:10,,,SUB: Booker FOR Seraphin,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,196,2,1,2,7:54 PM,6:10,,,MISS Ariza 24' 3PT Jump Shot,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,197,4,0,2,7:54 PM,5:56,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,199,2,1,2,7:54 PM,5:49,,,MISS Harrington 26' 3PT Jump Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,200,4,0,2,7:54 PM,5:49,Clark REBOUND (Off:0 Def:2),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,201,1,7,2,7:54 PM,5:31,Thompson  Dunk (10 PTS),,,30 - 44,14,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,202,2,5,2,7:55 PM,5:08,,,MISS Harrington 2' Layup,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,203,4,0,2,7:55 PM,5:07,Taylor REBOUND (Off:0 Def:1),,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,204,5,2,2,7:55 PM,5:00,Dellavedova Lost Ball Turnover (P2.T7),,Booker STEAL (1 STL),,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,205,5,1,2,7:55 PM,4:55,Clark STEAL (1 STL),,Temple Bad Pass Turnover (P1.T7),,,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,206,1,5,2,7:55 PM,4:47,Sims 1' Layup (4 PTS) (Clark 1 AST),,,30 - 46,16,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,207,2,42,2,7:55 PM,4:29,,,MISS Wall 1' Driving Layup,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,209,4,0,2,7:55 PM,4:28,,,Booker REBOUND (Off:1 Def:4),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,208,1,4,2,7:55 PM,4:28,,,Booker 1' Tip Shot (2 PTS),32 - 46,14,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,210,2,1,2,7:56 PM,4:14,MISS Clark 21' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,211,4,0,2,7:56 PM,4:13,,,Harrington REBOUND (Off:0 Def:3),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,212,5,1,2,7:56 PM,4:07,Taylor STEAL (1 STL),,Harrington Bad Pass Turnover (P2.T8),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,213,5,13,2,7:56 PM,4:02,Taylor Backcourt Turnover (P1.T8),,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,214,8,0,2,7:56 PM,4:02,,,SUB: Beal FOR Harrington,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,215,8,0,2,7:56 PM,4:02,,,SUB: Nene FOR Temple,,,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,216,8,0,2,7:56 PM,4:02,SUB: Irving FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,217,8,0,2,7:56 PM,4:02,SUB: Varejao FOR Sims,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,218,1,1,2,7:57 PM,3:50,,,Beal 20' Jump Shot (10 PTS),34 - 46,12,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,221,1,1,2,7:57 PM,3:19,Thompson 15' Jump Shot (12 PTS) (Clark 2 AST),,,34 - 48,14,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,222,1,1,2,7:58 PM,3:05,,,Beal 25' 3PT Jump Shot (13 PTS) (Wall 3 AST),37 - 48,11,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,223,9,2,2,7:58 PM,3:04,CAVALIERS Timeout: Short (Full 2 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,227,8,0,2,7:59 PM,3:04,SUB: Dellavedova FOR Taylor,,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,228,1,5,2,7:59 PM,2:50,Varejao  Layup (4 PTS) (Irving 1 AST),,,37 - 50,13,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,229,1,5,2,7:59 PM,2:34,,,Booker 2' Layup (4 PTS) (Nene 1 AST),39 - 50,11,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,230,1,1,2,8:00 PM,2:09,Irving 25' 3PT Jump Shot (13 PTS) (Thompson 3 AST),,,39 - 53,14,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,231,5,2,2,8:00 PM,1:53,Irving STEAL (2 STL),,Wall Lost Ball Turnover (P3.T9),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,232,2,1,2,8:00 PM,1:48,MISS Irving 26' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,233,4,0,2,8:00 PM,1:47,Varejao REBOUND (Off:2 Def:2),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,234,2,1,2,8:00 PM,1:41,MISS Thompson 15' Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,235,4,0,2,8:00 PM,1:39,,,Wall REBOUND (Off:0 Def:1),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,236,5,41,2,8:00 PM,1:34,,,Wall Poss Lost Ball Turnover (P4.T10),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,237,9,4,2,8:00 PM,1:34,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,242,2,1,2,8:03 PM,1:09,MISS Dellavedova 26' 3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,243,4,0,2,8:04 PM,1:09,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,244,5,11,2,8:04 PM,1:09,CAVALIERS Turnover: Shot Clock (T#9),,,,,2,1610612739,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300096,245,1,8,2,8:04 PM,0:46,,,Booker 1' Slam Dunk (6 PTS) (Beal 2 AST),41 - 53,12,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,246,2,5,2,8:05 PM,0:25,MISS Thompson 3' Layup,,Booker BLOCK (1 BLK),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0
+0011300096,247,4,0,2,8:05 PM,0:24,,,Ariza REBOUND (Off:0 Def:4),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,248,6,2,2,8:05 PM,0:23,Irving S.FOUL (P1.T2),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,249,3,11,2,8:05 PM,0:23,,,MISS Nene Free Throw 1 of 2,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,250,4,1,2,8:05 PM,0:23,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,251,8,0,2,8:05 PM,0:23,,,SUB: Temple FOR Wall,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,252,3,12,2,8:05 PM,0:23,,,MISS Nene Free Throw 2 of 2,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,254,4,0,2,8:05 PM,0:21,,,Booker REBOUND (Off:2 Def:4),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,257,8,0,2,8:06 PM,0:03,,,SUB: Seraphin FOR Nene,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,258,9,2,2,8:06 PM,0:03,,,Wizards Timeout: Short (Reg.2 Short 1),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,262,2,1,2,8:07 PM,0:03,,,MISS Beal 19' Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,263,4,0,2,8:07 PM,0:02,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,264,13,0,2,8:07 PM,0:00,,End of 2nd Period (8:07 PM EST),,41 - 53,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,268,12,0,3,8:23 PM,12:00,,Start of 3rd Period (8:23 PM EST),,41 - 53,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,269,2,1,3,8:23 PM,11:45,MISS Clark 13' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,270,4,0,3,8:23 PM,11:43,,,Nene REBOUND (Off:1 Def:2),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,273,5,8,3,8:24 PM,11:26,,,Ariza 3 Second Violation Turnover (P2.T11),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011300096,274,1,78,3,8:24 PM,11:13,Irving 8' Floating Jump Shot (15 PTS),,,41 - 55,14,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,275,2,1,3,8:25 PM,10:51,,,MISS Nene 4' Jump Shot,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,276,4,0,3,8:25 PM,10:50,Varejao REBOUND (Off:2 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,277,2,1,3,8:25 PM,10:40,MISS Irving 14' Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,278,4,0,3,8:25 PM,10:39,,,Ariza REBOUND (Off:0 Def:5),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,279,1,1,3,8:25 PM,10:28,,,Ariza 25' 3PT Jump Shot (11 PTS) (Booker 2 AST),44 - 55,11,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,280,1,47,3,8:25 PM,10:12,Gee 13' Turnaround Jump Shot (2 PTS),,,44 - 57,13,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,281,2,1,3,8:26 PM,9:50,,,MISS Wall 26' 3PT Jump Shot,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,282,4,0,3,8:26 PM,9:50,,,Wall REBOUND (Off:1 Def:1),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,283,6,2,3,8:26 PM,9:42,Clark S.FOUL (P1.T1),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,284,3,11,3,8:26 PM,9:42,,,MISS Wall Free Throw 1 of 2,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,285,4,1,3,8:26 PM,9:42,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,286,3,12,3,8:26 PM,9:42,,,Wall Free Throw 2 of 2 (3 PTS),45 - 57,12,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,288,1,5,3,8:27 PM,9:42,Thompson 2' Layup (14 PTS),,,45 - 59,14,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,289,6,2,3,8:27 PM,9:42,,,Booker S.FOUL (P1.T1),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,290,3,10,3,8:27 PM,9:42,MISS Thompson Free Throw 1 of 1,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,292,4,0,3,8:27 PM,9:42,Varejao REBOUND (Off:3 Def:3),,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,294,1,52,3,8:27 PM,9:40,Thompson 1' Alley Oop Dunk (16 PTS) (Irving 2 AST),,,45 - 61,16,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,295,1,1,3,8:28 PM,9:23,,,Beal  3PT Jump Shot (16 PTS) (Ariza 3 AST),48 - 61,13,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,296,6,4,3,8:28 PM,9:14,Clark OFF.Foul (P2),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,297,5,5,3,8:28 PM,9:14,Clark Foul Turnover (P1.T10),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,298,2,1,3,8:28 PM,8:28,Varejao BLOCK (1 BLK),,MISS Nene 8' Jump Shot,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300096,299,4,0,3,8:28 PM,8:27,,,Ariza REBOUND (Off:1 Def:5),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,300,2,1,3,8:29 PM,8:22,,,MISS Nene 16' Jump Shot,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,301,4,0,3,8:29 PM,8:22,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,302,5,11,3,8:29 PM,8:22,,,Wizards Turnover: Shot Clock (T#12),,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300096,304,5,1,3,8:29 PM,8:22,Thompson Bad Pass Turnover (P2.T11),,Ariza STEAL (3 STL),,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,305,1,7,3,8:29 PM,8:19,,,Ariza  Dunk (13 PTS),50 - 61,11,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,306,5,1,3,8:30 PM,7:52,Gee Bad Pass Turnover (P3.T12),,Ariza STEAL (4 STL),,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,307,1,5,3,8:30 PM,7:26,,,Booker 1' Layup (8 PTS) (Nene 2 AST),52 - 61,9,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,308,9,1,3,8:30 PM,7:23,CAVALIERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,312,1,1,3,8:32 PM,7:08,Clark 19' Jump Shot (6 PTS) (Gee 1 AST),,,52 - 63,11,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,313,2,1,3,8:33 PM,6:53,,,MISS Beal 16' Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,314,4,0,3,8:33 PM,6:52,Thompson REBOUND (Off:4 Def:7),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,315,5,2,3,8:33 PM,6:44,Irving Lost Ball Turnover (P1.T13),,Wall STEAL (1 STL),,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,316,2,80,3,8:33 PM,6:37,,,MISS Beal 16' Step Back Jump Shot,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,317,4,0,3,8:33 PM,6:35,Gee REBOUND (Off:0 Def:3),,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,318,6,1,3,8:33 PM,6:28,,,Nene P.FOUL (P3.T2),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,319,8,0,3,8:33 PM,6:28,SUB: Dellavedova FOR Gee,,,,,4,202087,Alonzo Gee,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,320,8,0,3,8:33 PM,6:28,SUB: Bennett FOR Varejao,,,,,4,2760,Anderson Varejao,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,321,5,4,3,8:34 PM,6:23,Dellavedova Traveling Turnover (P3.T14),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,322,1,5,3,8:34 PM,6:09,,,Beal 1' Layup (18 PTS) (Wall 4 AST),54 - 63,9,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,323,2,5,3,8:34 PM,5:58,MISS Irving 2' Layup,,Nene BLOCK (1 BLK),,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0
+0011300096,324,4,0,3,8:34 PM,5:56,,,Booker REBOUND (Off:2 Def:5),,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,325,6,1,3,8:34 PM,5:52,Irving P.FOUL (P2.T2),,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,326,1,1,3,8:35 PM,5:36,,,Ariza 24' 3PT Jump Shot (16 PTS) (Nene 3 AST),57 - 63,6,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,328,1,1,3,8:35 PM,5:19,Irving 24' 3PT Jump Shot (18 PTS) (Dellavedova 3 AST),,,57 - 66,9,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,329,1,5,3,8:35 PM,5:02,,,Booker 1' Layup (10 PTS) (Nene 4 AST),59 - 66,7,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,330,6,2,3,8:35 PM,5:02,Thompson S.FOUL (P2.T3),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,331,3,10,3,8:36 PM,5:02,,,MISS Booker Free Throw 1 of 1,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,333,4,0,3,8:36 PM,5:02,Clark REBOUND (Off:0 Def:3),,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,334,1,5,3,8:36 PM,4:49,Bennett 1' Layup (4 PTS) (Irving 3 AST),,,59 - 68,9,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,335,2,1,3,8:37 PM,4:39,,,MISS Ariza 24' 3PT Jump Shot,,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,336,4,0,3,8:37 PM,4:38,Dellavedova REBOUND (Off:1 Def:1),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,337,2,1,3,8:37 PM,4:15,MISS Bennett 26' 3PT Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,338,4,0,3,8:37 PM,4:14,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,339,2,3,3,8:37 PM,3:57,,,MISS Booker 8' Hook Shot,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,340,4,0,3,8:37 PM,3:56,,,Nene REBOUND (Off:2 Def:2),,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,341,6,2,3,8:37 PM,3:51,Bennett S.FOUL (P2.T4),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,342,3,11,3,8:37 PM,3:51,,,Nene Free Throw 1 of 2 (5 PTS),60 - 68,8,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,344,8,0,3,8:38 PM,3:51,,,SUB: Harrington FOR Booker,,,5,202344,Trevor Booker,1610612764.0,Washington,Wizards,WAS,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,345,3,12,3,8:38 PM,3:51,,,MISS Nene Free Throw 2 of 2,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,347,4,0,3,8:38 PM,3:51,Bennett REBOUND (Off:0 Def:2),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,348,2,1,3,8:38 PM,3:51,MISS Irving 25' 3PT Jump Shot,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,349,4,0,3,8:38 PM,3:50,,,Ariza REBOUND (Off:1 Def:6),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,350,1,1,3,8:38 PM,3:29,,,Nene 17' Jump Shot (7 PTS) (Ariza 4 AST),62 - 68,6,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,352,6,2,3,8:39 PM,3:10,,,Wall S.FOUL (P3.T3),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,353,3,11,3,8:39 PM,3:10,MISS Irving Free Throw 1 of 2,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,354,4,1,3,8:39 PM,3:10,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,355,8,0,3,8:39 PM,3:10,,,SUB: Seraphin FOR Nene,,,5,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,356,3,12,3,8:39 PM,3:10,Irving Free Throw 2 of 2 (19 PTS),,,62 - 69,7,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,358,1,1,3,8:40 PM,2:58,,,Beal  3PT Jump Shot (21 PTS) (Ariza 5 AST),65 - 69,4,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,359,5,1,3,8:40 PM,2:38,Dellavedova Bad Pass Turnover (P4.T15),,Seraphin STEAL (1 STL),,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,360,2,42,3,8:40 PM,2:26,,,MISS Beal 1' Driving Layup,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,361,4,0,3,8:40 PM,2:25,Thompson REBOUND (Off:4 Def:8),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,362,6,29,3,8:41 PM,2:04,,,Wall Shooting Block Foul (P4.T4),,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,363,9,1,3,8:41 PM,2:04,,,Wizards Timeout: Regular (Reg.3 Short 1),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,365,8,0,3,8:43 PM,2:04,,,SUB: Maynor FOR Wall,,,5,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,368,8,0,3,8:43 PM,2:04,SUB: Taylor FOR Irving,,,,,4,202681,Kyrie Irving,1610612739.0,Cleveland,Cavaliers,CLE,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,369,3,11,3,8:44 PM,2:04,MISS Thompson Free Throw 1 of 2,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,370,4,1,3,8:44 PM,2:04,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,371,3,12,3,8:44 PM,2:04,Thompson Free Throw 2 of 2 (17 PTS),,,65 - 70,5,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,373,1,80,3,8:44 PM,1:45,,,Harrington 15' Step Back Jump Shot (8 PTS) (Beal 3 AST),67 - 70,3,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,374,2,1,3,8:44 PM,1:24,MISS Thompson 15' Jump Shot,,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,375,4,0,3,8:44 PM,1:23,,,Harrington REBOUND (Off:0 Def:4),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,376,2,1,3,8:45 PM,1:16,,,MISS Harrington 26' 3PT Jump Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,377,4,0,3,8:45 PM,1:16,Thompson REBOUND (Off:4 Def:9),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,378,2,1,3,8:45 PM,1:04,MISS Bennett 25' 3PT Jump Shot,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,379,4,0,3,8:45 PM,1:03,,,Ariza REBOUND (Off:1 Def:7),,,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,380,2,65,3,8:45 PM,0:54,,,MISS Harrington 6' Jump Hook Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,381,4,0,3,8:45 PM,0:52,Thompson REBOUND (Off:4 Def:10),,,,,4,202684,Tristan Thompson,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,382,1,1,3,8:45 PM,0:42,Clark 13' Jump Shot (8 PTS) (Taylor 1 AST),,,67 - 72,5,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,383,1,1,3,8:45 PM,0:32,,,Harrington 24' 3PT Jump Shot (11 PTS) (Maynor 1 AST),70 - 72,2,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,384,2,1,3,8:46 PM,0:26,MISS Clark 21' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,385,4,0,3,8:46 PM,0:25,,,Harrington REBOUND (Off:0 Def:5),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,386,1,1,3,8:46 PM,0:02,,,Ariza 24' 3PT Jump Shot (19 PTS) (Harrington 1 AST),73 - 72,-1,5,2772,Trevor Ariza,1610612764.0,Washington,Wizards,WAS,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,387,2,1,3,8:46 PM,0:01,MISS Dellavedova 53' 3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,388,4,0,3,8:46 PM,0:00,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,389,13,0,3,8:46 PM,0:00,,End of 3rd Period (8:46 PM EST),,73 - 72,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,391,12,0,4,8:49 PM,12:00,,Start of 4th Period (8:49 PM EST),,73 - 72,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,392,1,1,4,8:49 PM,11:42,,,Harrington 27' 3PT Jump Shot (14 PTS) (Maynor 2 AST),76 - 72,-4,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,393,5,8,4,8:50 PM,11:13,Kadji 3 Second Violation Turnover (P1.T16),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,394,2,1,4,8:50 PM,10:59,,,MISS Maynor 7' Jump Shot,,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,395,4,0,4,8:50 PM,10:58,Dellavedova REBOUND (Off:1 Def:2),,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,396,2,42,4,8:50 PM,10:52,MISS Taylor 2' Driving Layup,,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,397,4,0,4,8:50 PM,10:45,,,Maynor REBOUND (Off:0 Def:2),,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,399,1,1,4,8:51 PM,10:27,,,Harrington 26' 3PT Jump Shot (17 PTS) (Maynor 3 AST),79 - 72,-7,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,400,2,1,4,8:51 PM,10:13,MISS Taylor 26' 3PT Jump Shot,,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,401,4,0,4,8:51 PM,10:13,Kadji REBOUND (Off:1 Def:1),,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,402,6,2,4,8:51 PM,10:12,,,Childress S.FOUL (P1.T1),,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,403,3,11,4,8:51 PM,10:12,Kadji Free Throw 1 of 2 (3 PTS),,,79 - 73,-6,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,405,3,12,4,8:52 PM,10:12,Kadji Free Throw 2 of 2 (4 PTS),,,79 - 74,-5,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,407,2,1,4,8:52 PM,9:51,,,MISS Harrington  3PT Jump Shot,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,408,4,0,4,8:52 PM,9:50,Williams REBOUND (Off:0 Def:1),,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,409,2,1,4,8:52 PM,9:39,MISS Kadji 21' Jump Shot,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,410,4,0,4,8:52 PM,9:39,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,411,6,3,4,8:52 PM,9:38,,,Harrington L.B.FOUL (P3.T2),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,412,2,5,4,8:53 PM,9:17,MISS Taylor 3' Layup,,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,413,4,0,4,8:53 PM,9:16,,,Harrington REBOUND (Off:0 Def:6),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,414,5,2,4,8:53 PM,9:14,Sims STEAL (1 STL),,Harrington Lost Ball Turnover (P3.T13),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,415,9,1,4,8:53 PM,9:12,CAVALIERS Timeout: Regular (Full 4 Short 1),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,417,8,0,4,8:55 PM,9:12,,,SUB: Temple FOR Beal,,,5,203078,Bradley Beal,1610612764.0,Washington,Wizards,WAS,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,418,8,0,4,8:55 PM,9:12,SUB: Bennett FOR Kadji,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,419,2,1,4,8:56 PM,9:06,MISS Dellavedova 21' Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,420,4,0,4,8:56 PM,9:06,,,Childress REBOUND (Off:1 Def:1),,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,421,1,52,4,8:56 PM,8:54,,,Seraphin  Alley Oop Dunk (2 PTS) (Harrington 2 AST),81 - 74,-7,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,422,2,1,4,8:56 PM,8:23,MISS Bennett 13' Jump Shot,,Harrington BLOCK (1 BLK),,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0
+0011300096,423,4,0,4,8:56 PM,8:21,,,Harrington REBOUND (Off:0 Def:7),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,424,6,26,4,8:57 PM,8:19,,,Harrington Offensive Charge Foul (P4.T3),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,425,5,5,4,8:57 PM,8:19,,,Harrington Foul Turnover (P4.T14),,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011300096,426,8,0,4,8:57 PM,8:19,,,SUB: Vesely FOR Harrington,,,5,1733,Al Harrington,1610612764.0,Washington,Wizards,WAS,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,427,2,1,4,8:57 PM,7:57,MISS Taylor 17' Jump Shot,,,,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,428,4,0,4,8:57 PM,7:57,,,Seraphin REBOUND (Off:1 Def:1),,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,429,2,1,4,8:57 PM,7:47,,,MISS Seraphin 7' Jump Shot,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,431,4,0,4,8:57 PM,7:46,,,Childress REBOUND (Off:2 Def:1),,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,430,2,4,4,8:57 PM,7:46,,,MISS Childress  Tip Shot,,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,432,4,0,4,8:57 PM,7:45,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,433,2,5,4,8:58 PM,7:34,MISS Taylor 3' Layup,,Seraphin BLOCK (1 BLK),,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0
+0011300096,434,4,0,4,8:58 PM,7:34,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,435,5,1,4,8:58 PM,7:31,Taylor Bad Pass Turnover (P2.T17),,Vesely STEAL (1 STL),,,4,201966,Jermaine Taylor,1610612739.0,Cleveland,Cavaliers,CLE,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,436,6,14,4,8:58 PM,7:29,Bennett FLAGRANT.FOUL.TYPE1 (P3.T1),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,437,18,0,4,8:58 PM,7:29,,Support Ruling,,,,0,436,Juwan Howard,,,,,0,0,,,,,,1,0,,,,,,0
+0011300096,438,3,18,4,9:00 PM,7:29,,,MISS Vesely Free Throw Flagrant 1 of 2,,,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,439,4,1,4,9:00 PM,7:29,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,440,3,19,4,9:00 PM,7:29,,,MISS Vesely Free Throw Flagrant 2 of 2,,,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,441,4,1,4,9:00 PM,7:29,,,Wizards Rebound,,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,443,2,5,4,9:01 PM,7:17,Sims BLOCK (2 BLK),,MISS Seraphin 1' Layup,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300096,444,4,0,4,9:01 PM,7:16,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,445,2,1,4,9:01 PM,7:00,MISS Dellavedova  3PT Jump Shot,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,446,4,0,4,9:01 PM,6:59,,,Temple REBOUND (Off:0 Def:2),,,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,447,2,1,4,9:01 PM,6:44,,,MISS Maynor 22' Jump Shot,,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,448,4,0,4,9:01 PM,6:43,,,Seraphin REBOUND (Off:2 Def:1),,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,449,6,2,4,9:01 PM,6:43,Williams S.FOUL (P1.T2),,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,450,3,11,4,9:02 PM,6:43,,,Seraphin Free Throw 1 of 2 (3 PTS),82 - 74,-8,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,453,8,0,4,9:02 PM,6:43,SUB: Clark FOR Dellavedova,,,,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,454,3,12,4,9:02 PM,6:43,,,Seraphin Free Throw 2 of 2 (4 PTS),83 - 74,-9,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,457,5,1,4,9:02 PM,6:33,Williams Bad Pass Turnover (P1.T18),,Childress STEAL (1 STL),,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,458,2,5,4,9:03 PM,6:10,,,MISS Vesely 2' Layup,,,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,459,4,0,4,9:03 PM,6:09,Sims REBOUND (Off:0 Def:2),,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,460,5,2,4,9:03 PM,5:46,Sims Lost Ball Turnover (P1.T19),,Maynor STEAL (1 STL),,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,461,2,5,4,9:03 PM,5:40,Bennett BLOCK (1 BLK),,MISS Temple 1' Layup,,,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0
+0011300096,462,4,0,4,9:03 PM,5:39,Williams REBOUND (Off:0 Def:2),,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,463,6,1,4,9:04 PM,5:36,,,Maynor P.FOUL (P1.T4),,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,464,9,4,4,9:04 PM,5:36,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,469,5,2,4,9:06 PM,5:23,Sims Lost Ball Turnover (P2.T20),,Maynor STEAL (2 STL),,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,470,2,1,4,9:06 PM,5:00,,,MISS Seraphin 21' Jump Shot,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,471,4,0,4,9:06 PM,5:00,,,Childress REBOUND (Off:3 Def:1),,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,472,1,1,4,9:07 PM,4:51,,,Childress  3PT Jump Shot (5 PTS) (Maynor 4 AST),86 - 74,-12,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,473,1,1,4,9:07 PM,4:35,Williams 26' 3PT Jump Shot (3 PTS),,,86 - 77,-9,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,474,1,65,4,9:07 PM,4:15,,,Seraphin 12' Jump Hook Shot (6 PTS),88 - 77,-11,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,475,2,1,4,9:07 PM,4:05,MISS Clark 16' Jump Shot,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,476,4,0,4,9:07 PM,4:04,Bennett REBOUND (Off:1 Def:2),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,477,6,2,4,9:07 PM,4:03,,,Vesely S.FOUL (P1.PN),,,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,478,3,11,4,9:08 PM,4:03,MISS Bennett Free Throw 1 of 2,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,479,4,1,4,9:08 PM,4:03,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,480,8,0,4,9:08 PM,4:03,SUB: Diop FOR Sims,,,,,4,203156,Henry Sims,1610612739.0,Cleveland,Cavaliers,CLE,4,2205,DeSagana Diop,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,481,8,0,4,9:08 PM,4:03,,,SUB: Rice FOR Childress,,,5,2735,Josh Childress,1610612764.0,Washington,Wizards,WAS,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,482,3,12,4,9:08 PM,4:03,Bennett Free Throw 2 of 2 (5 PTS),,,88 - 78,-10,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,485,6,1,4,9:08 PM,3:53,Bennett P.FOUL (P4.T3),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011300096,486,1,1,4,9:09 PM,3:41,,,Temple 26' 3PT Jump Shot (3 PTS) (Maynor 5 AST),91 - 78,-13,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,487,5,8,4,9:09 PM,3:23,Bennett 3 Second Violation Turnover (P2.T21),,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,0
+0011300096,488,9,2,4,9:10 PM,3:23,CAVALIERS Timeout: Short (Full 4 Short 2),,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,490,8,0,4,9:11 PM,3:23,SUB: Dellavedova FOR Clark,,,,,4,201947,Earl Clark,1610612739.0,Cleveland,Cavaliers,CLE,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,491,8,0,4,9:11 PM,3:23,SUB: Kadji FOR Bennett,,,,,4,203461,Anthony Bennett,1610612739.0,Cleveland,Cavaliers,CLE,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0011300096,492,8,0,4,9:11 PM,3:23,,,SUB: Silas FOR Maynor,,,5,201953,Eric Maynor,1610612764.0,Washington,Wizards,WAS,5,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,493,8,0,4,9:11 PM,3:23,,,SUB: Mensah-Bonsu FOR Seraphin,,,5,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,200822,Pops Mensah-Bonsu,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,494,1,1,4,9:11 PM,3:09,,,Silas 25' 3PT Jump Shot (3 PTS) (Temple 1 AST),94 - 78,-16,5,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,495,2,1,4,9:11 PM,2:57,MISS Williams 16' Jump Shot,,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,496,4,0,4,9:11 PM,2:57,,,Rice REBOUND (Off:0 Def:1),,,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,497,2,1,4,9:11 PM,2:32,,,MISS Rice 27' 3PT Jump Shot,,,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,498,4,0,4,9:12 PM,2:32,Williams REBOUND (Off:0 Def:3),,,,,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,499,2,1,4,9:12 PM,2:18,MISS Kadji 21' Jump Shot,,,,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,500,4,0,4,9:12 PM,2:17,,,Rice REBOUND (Off:0 Def:2),,,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011300096,501,1,1,4,9:12 PM,2:06,,,Silas 25' 3PT Jump Shot (6 PTS) (Rice 1 AST),97 - 78,-19,5,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,502,6,1,4,9:12 PM,1:42,,,Mensah-Bonsu P.FOUL (P1.PN),,,5,200822,Pops Mensah-Bonsu,1610612764.0,Washington,Wizards,WAS,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,503,9,1,4,9:13 PM,1:42,,,Wizards Timeout: Regular (Reg.4 Short 1),,,3,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,508,3,11,4,9:15 PM,1:42,Kadji Free Throw 1 of 2 (5 PTS),,,97 - 79,-18,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,510,3,12,4,9:15 PM,1:42,Kadji Free Throw 2 of 2 (6 PTS),,,97 - 80,-17,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,512,6,4,4,9:15 PM,1:27,,,Mensah-Bonsu OFF.Foul (P2),,,5,200822,Pops Mensah-Bonsu,1610612764.0,Washington,Wizards,WAS,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,513,5,5,4,9:15 PM,1:27,,,Mensah-Bonsu Foul Turnover (P1.T15),,,5,200822,Pops Mensah-Bonsu,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011300096,514,5,1,4,9:16 PM,1:06,Dellavedova Bad Pass Turnover (P5.T22),,Rice STEAL (1 STL),,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,515,1,1,4,9:16 PM,1:04,,,Temple 21' Jump Shot (5 PTS) (Rice 2 AST),99 - 80,-19,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,516,7,1,4,9:16 PM,1:02,,,Wizards Violation: Delay of game Violation,,,3,1610612764,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300096,517,2,1,4,9:17 PM,0:43,MISS Kadji 4' Jump Shot,,Vesely BLOCK (1 BLK),,,4,203483,Kenny Kadji,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,5,202686,Jan Vesely,1610612764.0,Washington,Wizards,WAS,0
+0011300096,518,4,0,4,9:17 PM,0:41,CAVALIERS Rebound,,,,,2,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300096,519,5,1,4,9:17 PM,0:37,Dellavedova Bad Pass Turnover (P6.T23),,Rice STEAL (2 STL),,,4,203521,Matthew Dellavedova,1610612739.0,Cleveland,Cavaliers,CLE,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,520,1,1,4,9:17 PM,0:24,,,Temple 18' Jump Shot (7 PTS) (Rice 3 AST),101 - 80,-21,5,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,5,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011300096,521,6,29,4,9:18 PM,0:18,,,Mensah-Bonsu Shooting Block Foul (P3.PN),,,5,200822,Pops Mensah-Bonsu,1610612764.0,Washington,Wizards,WAS,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,0
+0011300096,522,3,11,4,9:18 PM,0:18,Williams Free Throw 1 of 2 (4 PTS),,,101 - 81,-20,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,524,3,12,4,9:18 PM,0:18,Williams Free Throw 2 of 2 (5 PTS),,,101 - 82,-19,4,202343,Elliot Williams,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0011300096,527,13,0,4,9:18 PM,0:00,,End of 4th Period (9:18 PM EST),,101 - 82,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

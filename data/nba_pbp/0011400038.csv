@@ -1,0 +1,477 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400038,1,12,0,1,1:16 PM,12:00,,Start of 1st Period (1:16 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,2,10,0,1,1:16 PM,12:00,Jump Ball Nene vs. Drummond: Tip to Jennings,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0
+0011400038,3,1,1,1,1:16 PM,11:49,,,Butler 22' Jump Shot (2 PTS) (Drummond 1 AST),2 - 0,-2,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,4,2,1,1,1:16 PM,11:33,MISS Rice 26' 3PT Jump Shot,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,5,4,0,1,1:16 PM,11:33,Gortat REBOUND (Off:1 Def:0),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,6,6,1,1,1:16 PM,11:29,,,Butler P.FOUL (P1.T1),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,7,1,63,1,1:17 PM,11:29,Pierce 14' Fadeaway Jumper (2 PTS),,,2 - 2,TIE,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,8,5,2,1,1:17 PM,11:18,Nene STEAL (1 STL),,Jennings Lost Ball Turnover (P1.T1),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,9,2,1,1,1:17 PM,11:14,MISS Wall 15' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,10,4,0,1,1:17 PM,11:12,,,Jennings REBOUND (Off:0 Def:1),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,11,1,58,1,1:17 PM,10:57,,,Drummond 8' Turnaround Hook Shot (2 PTS),4 - 2,-2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,12,5,2,1,1:18 PM,10:24,Pierce Lost Ball Turnover (P1.T1),,Jennings STEAL (1 STL),,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,13,1,41,1,1:18 PM,10:20,,,Jennings 1' Running Layup (2 PTS),6 - 2,-4,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,15,2,1,1,1:18 PM,10:03,MISS Wall 19' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,16,4,0,1,1:18 PM,10:02,Gortat REBOUND (Off:2 Def:0),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,17,2,1,1,1:18 PM,9:42,MISS Nene 4' Jump Shot,,Drummond BLOCK (1 BLK),,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400038,18,4,0,1,1:18 PM,9:40,,,Jennings REBOUND (Off:0 Def:2),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,19,1,52,1,1:18 PM,9:33,,,Drummond  Alley Oop Dunk (4 PTS) (Jennings 1 AST),8 - 2,-6,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,20,2,1,1,1:19 PM,9:19,MISS Gortat 3' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,21,4,0,1,1:19 PM,9:17,,,Butler REBOUND (Off:0 Def:1),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,22,1,52,1,1:19 PM,9:13,,,Drummond  Alley Oop Dunk (6 PTS) (Jennings 2 AST),10 - 2,-8,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,24,9,1,1,1:19 PM,9:04,WIZARDS Timeout: Regular (Full 1 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,26,1,63,1,1:22 PM,8:54,Pierce 6' Fadeaway Jumper (4 PTS) (Nene 1 AST),,,10 - 4,-6,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,27,2,1,1,1:22 PM,8:28,,,MISS Jennings 18' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,28,4,0,1,1:22 PM,8:27,Pierce REBOUND (Off:0 Def:1),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,29,6,2,1,1:22 PM,8:18,,,Jennings S.FOUL (P1.T2),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,30,3,11,1,1:22 PM,8:18,Nene Free Throw 1 of 2 (1 PTS),,,10 - 5,-5,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,32,3,12,1,1:23 PM,8:18,Nene Free Throw 2 of 2 (2 PTS),,,10 - 6,-4,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,35,2,1,1,1:23 PM,8:00,,,MISS Butler 18' Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,36,4,0,1,1:23 PM,7:59,,,Drummond REBOUND (Off:1 Def:0),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,37,1,78,1,1:23 PM,7:50,,,Jennings 5' Floating Jump Shot (4 PTS),12 - 6,-6,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,38,6,2,1,1:24 PM,7:35,,,Monroe S.FOUL (P1.T3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,39,3,11,1,1:24 PM,7:35,MISS Nene Free Throw 1 of 2,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,40,4,1,1,1:24 PM,7:35,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,41,3,12,1,1:24 PM,7:35,Nene Free Throw 2 of 2 (3 PTS),,,12 - 7,-5,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,44,2,1,1,1:25 PM,7:23,,,MISS Jennings 19' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,45,4,0,1,1:25 PM,7:23,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,46,1,79,1,1:25 PM,7:11,Wall 15' Pullup Jump Shot (2 PTS),,,12 - 9,-3,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,47,5,1,1,1:25 PM,6:54,Gortat STEAL (1 STL),,Monroe Bad Pass Turnover (P1.T2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,48,5,1,1,1:25 PM,6:49,Nene Bad Pass Turnover (P1.T2),,Monroe STEAL (1 STL),,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,49,5,1,1,1:26 PM,6:46,Wall STEAL (1 STL),,Monroe Bad Pass Turnover (P2.T3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,50,1,5,1,1:26 PM,6:42,Wall 1' Layup (4 PTS),,,12 - 11,-1,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,51,2,1,1,1:26 PM,6:27,,,MISS Caldwell-Pope 14' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,52,4,0,1,1:26 PM,6:26,Pierce REBOUND (Off:0 Def:2),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,53,1,8,1,1:26 PM,6:19,Gortat  Slam Dunk (2 PTS) (Wall 1 AST),,,12 - 13,1,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,54,9,1,1,1:26 PM,6:05,,,Pistons Timeout: Regular (Reg.1 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,56,8,0,1,1:28 PM,6:05,,,SUB: Smith FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,57,2,1,1,1:29 PM,5:50,,,MISS Jennings 18' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,58,4,0,1,1:29 PM,5:49,Gortat REBOUND (Off:2 Def:1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,59,2,1,1,1:29 PM,5:40,MISS Nene 10' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,60,4,0,1,1:29 PM,5:39,,,Drummond REBOUND (Off:1 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,61,1,1,1,1:30 PM,5:28,,,Smith 13' Jump Shot (2 PTS),14 - 13,-1,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,62,6,1,1,1:30 PM,5:19,,,Butler P.FOUL (P2.T4),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,64,2,5,1,1:30 PM,5:09,MISS Rice 1' Layup,,Drummond BLOCK (2 BLK),,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400038,65,4,0,1,1:30 PM,5:09,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,66,2,1,1,1:31 PM,4:55,,,MISS Caldwell-Pope 5' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,67,4,0,1,1:31 PM,4:54,Gortat REBOUND (Off:2 Def:2),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,68,5,1,1,1:31 PM,4:46,Wall Bad Pass Turnover (P1.T3),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,69,8,0,1,1:31 PM,4:46,SUB: Blair FOR Nene,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,70,1,1,1,1:31 PM,4:33,,,Caldwell-Pope 18' Jump Shot (2 PTS) (Jennings 3 AST),16 - 13,-3,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,71,2,5,1,1:32 PM,4:19,MISS Wall 1' Layup,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,72,4,0,1,1:32 PM,4:18,Wall REBOUND (Off:1 Def:0),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,73,2,5,1,1:32 PM,4:15,MISS Wall 1' Layup,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,74,4,0,1,1:32 PM,4:15,,,Smith REBOUND (Off:0 Def:1),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,75,5,39,1,1:32 PM,4:15,,,Jennings Step Out of Bounds Turnover (P2.T4),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,76,8,0,1,1:32 PM,4:15,SUB: Silas FOR Rice,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,78,6,2,1,1:32 PM,4:01,,,Jennings S.FOUL (P2.PN),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,79,3,11,1,1:33 PM,4:01,MISS Wall Free Throw 1 of 2,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,80,4,1,1,1:33 PM,4:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,81,3,12,1,1:33 PM,4:01,Wall Free Throw 2 of 2 (5 PTS),,,16 - 14,-2,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,84,2,1,1,1:33 PM,3:47,,,MISS Butler 25' 3PT Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,85,4,0,1,1:33 PM,3:45,Silas REBOUND (Off:0 Def:1),,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,86,1,79,1,1:34 PM,3:23,Wall 13' Pullup Jump Shot (7 PTS),,,16 - 16,TIE,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,87,1,1,1,1:34 PM,3:11,,,Caldwell-Pope 22' Jump Shot (4 PTS) (Smith 1 AST),18 - 16,-2,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,88,2,1,1,1:34 PM,2:55,MISS Silas 21' Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,89,4,0,1,1:34 PM,2:54,,,Butler REBOUND (Off:0 Def:2),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,90,6,27,1,1:34 PM,2:51,Pierce Personal Block Foul (P1.T1),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,91,8,0,1,1:35 PM,2:51,,,SUB: Augustin FOR Jennings,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,92,8,0,1,1:35 PM,2:51,,,SUB: Singler FOR Butler,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,93,8,0,1,1:35 PM,2:51,SUB: Porter FOR Pierce,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,95,6,4,1,1:35 PM,2:45,,,Drummond OFF.Foul (P1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,96,5,5,1,1:35 PM,2:45,,,Drummond Foul Turnover (P1.T5),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,97,8,0,1,1:35 PM,2:45,,,SUB: Monroe FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,98,2,1,1,1:36 PM,2:28,MISS Wall 19' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,99,4,0,1,1:36 PM,2:27,Gortat REBOUND (Off:3 Def:2),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,100,2,1,1,1:36 PM,2:12,MISS Gortat 9' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,101,4,0,1,1:36 PM,2:12,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,102,8,0,1,1:36 PM,2:12,SUB: A. Miller FOR Wall,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,104,1,1,1,1:36 PM,2:04,Silas 26' 3PT Jump Shot (3 PTS) (A. Miller 1 AST),,,18 - 19,1,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,105,1,49,1,1:37 PM,1:49,,,Caldwell-Pope  Driving Dunk (6 PTS) (Smith 2 AST),20 - 19,-1,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,106,2,1,1,1:37 PM,1:35,MISS Blair 9' Jump Shot,,Smith BLOCK (1 BLK),,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011400038,107,4,0,1,1:37 PM,1:34,,,Monroe REBOUND (Off:0 Def:1),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,108,6,1,1,1:37 PM,1:34,Blair P.FOUL (P1.T2),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,109,1,1,1,1:37 PM,1:19,,,Smith 18' Jump Shot (4 PTS) (Augustin 1 AST),22 - 19,-3,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,110,2,1,1,1:38 PM,0:58,MISS Silas 18' Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,111,4,0,1,1:38 PM,0:57,,,Monroe REBOUND (Off:0 Def:2),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,112,5,1,1,1:38 PM,0:50,,,Augustin Bad Pass Turnover (P1.T6),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,113,8,0,1,1:38 PM,0:50,SUB: Seraphin FOR Gortat,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,115,2,1,1,1:38 PM,0:36,MISS Porter 24' 3PT Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,116,4,0,1,1:39 PM,0:34,,,Monroe REBOUND (Off:0 Def:3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,117,2,1,1,1:39 PM,0:27,,,MISS Smith 15' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,118,4,0,1,1:39 PM,0:26,Blair REBOUND (Off:0 Def:1),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,119,1,1,1,1:39 PM,0:05,Blair 3' Jump Shot (2 PTS) (A. Miller 2 AST),,,22 - 21,-1,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,120,2,1,1,1:39 PM,0:00,,,MISS Caldwell-Pope 24' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,121,4,0,1,1:39 PM,0:00,Seraphin REBOUND (Off:0 Def:1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,122,13,0,1,1:39 PM,0:00,,End of 1st Period (1:39 PM EST),,22 - 21,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,125,12,0,2,1:42 PM,12:00,,Start of 2nd Period (1:42 PM EST),,22 - 21,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,126,6,2,2,1:42 PM,11:46,,,Martin S.FOUL (P1.T1),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,127,3,13,2,1:43 PM,11:46,Silas Free Throw 1 of 3 (4 PTS),,,22 - 22,TIE,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,129,3,14,2,1:43 PM,11:46,Silas Free Throw 2 of 3 (5 PTS),,,22 - 23,1,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,131,3,15,2,1:43 PM,11:46,Silas Free Throw 3 of 3 (6 PTS),,,22 - 24,2,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,134,1,1,2,1:43 PM,11:34,,,Singler 18' Jump Shot (2 PTS) (Augustin 2 AST),24 - 24,TIE,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,135,5,1,2,1:44 PM,11:21,A. Miller Bad Pass Turnover (P1.T4),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,136,1,42,2,1:44 PM,11:11,,,Martin 3' Driving Layup (2 PTS) (Smith 3 AST),26 - 24,-2,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,137,6,2,2,1:44 PM,11:11,Seraphin S.FOUL (P1.T1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,138,3,10,2,1:44 PM,11:11,,,Martin Free Throw 1 of 1 (3 PTS),27 - 24,-3,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,141,6,2,2,1:45 PM,11:00,,,Smith S.FOUL (P1.T2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,142,3,11,2,1:45 PM,11:00,Silas Free Throw 1 of 2 (7 PTS),,,27 - 25,-2,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,144,3,12,2,1:45 PM,11:00,Silas Free Throw 2 of 2 (8 PTS),,,27 - 26,-1,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,146,5,2,2,1:46 PM,10:43,Blair STEAL (1 STL),,Monroe Lost Ball Turnover (P3.T7),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,147,6,1,2,1:46 PM,10:35,,,Singler P.FOUL (P1.T3),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,148,2,1,2,1:46 PM,10:24,MISS Seraphin 15' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,149,4,0,2,1:46 PM,10:23,,,Smith REBOUND (Off:0 Def:2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,150,1,75,2,1:46 PM,10:17,,,Smith 3' Driving Finger Roll Layup (6 PTS) (Augustin 3 AST),29 - 26,-3,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,151,1,1,2,1:47 PM,9:57,Porter 26' 3PT Jump Shot (3 PTS) (A. Miller 3 AST),,,29 - 29,TIE,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,152,2,1,2,1:47 PM,9:41,,,MISS Singler 25' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,153,4,0,2,1:47 PM,9:40,Silas REBOUND (Off:0 Def:2),,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,154,1,58,2,1:47 PM,9:30,Seraphin 10' Turnaround Hook Shot (2 PTS),,,29 - 31,2,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,156,2,1,2,1:47 PM,9:17,,,MISS Smith 18' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,157,4,0,2,1:48 PM,9:17,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,158,6,3,2,1:48 PM,9:17,Seraphin L.B.FOUL (P2.T2),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,159,1,1,2,1:48 PM,9:09,,,Martin 25' 3PT Jump Shot (6 PTS) (Augustin 4 AST),32 - 31,-1,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,160,2,1,2,1:48 PM,8:54,MISS Silas 27' 3PT Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,161,4,0,2,1:49 PM,8:53,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,162,6,3,2,1:49 PM,8:53,,,Augustin L.B.FOUL (P1.T4),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,163,9,4,2,1:49 PM,8:53,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,165,8,0,2,1:51 PM,8:53,,,SUB: Drummond FOR Smith,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,166,1,78,2,1:52 PM,8:40,Silas 9' Floating Jump Shot (10 PTS) (Blair 1 AST),,,32 - 33,1,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,167,1,1,2,1:52 PM,8:20,,,Singler 16' Jump Shot (4 PTS) (Augustin 5 AST),34 - 33,-1,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,168,1,58,2,1:52 PM,8:03,Seraphin 11' Turnaround Hook Shot (4 PTS),,,34 - 35,1,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,170,8,0,2,1:53 PM,7:47,SUB: Nene FOR Blair,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,171,5,38,2,1:53 PM,7:47,,,Pistons Turnover: 5 Second Inbound (T#8),,,3,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400038,173,6,11,2,1:53 PM,7:43,,Stan Van Gundy Foul:T.FOUL,,,,7,1277,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400038,174,3,16,2,1:53 PM,7:43,Porter Free Throw Technical (4 PTS),,,34 - 36,2,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,177,1,1,2,1:54 PM,7:34,Nene 17' Jump Shot (5 PTS),,,34 - 38,4,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,178,1,58,2,1:54 PM,7:19,,,Drummond 8' Turnaround Hook Shot (8 PTS) (Martin 1 AST),36 - 38,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,179,5,1,2,1:54 PM,7:11,Porter Bad Pass Turnover (P1.T5),,Martin STEAL (1 STL),,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,180,5,40,2,1:54 PM,7:02,,,Augustin Out of Bounds Lost Ball Turnover (P2.T9),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,182,6,1,2,1:55 PM,6:55,,,Drummond P.FOUL (P2.PN),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,183,3,11,2,1:55 PM,6:55,Seraphin Free Throw 1 of 2 (5 PTS),,,36 - 39,3,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,185,3,12,2,1:55 PM,6:55,Seraphin Free Throw 2 of 2 (6 PTS),,,36 - 40,4,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,187,1,5,2,1:56 PM,6:36,,,Monroe 1' Layup (2 PTS) (Drummond 2 AST),38 - 40,2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,188,1,57,2,1:56 PM,6:24,Nene 5' Driving Hook Shot (7 PTS) (A. Miller 4 AST),,,38 - 42,4,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,189,5,2,2,1:56 PM,6:09,Silas STEAL (1 STL),,Monroe Lost Ball Turnover (P4.T10),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,190,6,4,2,1:56 PM,5:58,Nene OFF.Foul (P1),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,191,5,5,2,1:56 PM,5:58,Nene Foul Turnover (P2.T6),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,192,9,1,2,1:57 PM,5:58,WIZARDS Timeout: Regular (Full 2 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,194,8,0,2,1:59 PM,5:58,SUB: Rice FOR Silas,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,198,6,5,2,2:00 PM,5:43,Rice IN.FOUL (P1.T3),,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,199,3,11,2,2:00 PM,5:43,,,Augustin Free Throw 1 of 2 (1 PTS),39 - 42,3,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,201,3,12,2,2:00 PM,5:43,,,MISS Augustin Free Throw 2 of 2,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,203,4,0,2,2:00 PM,5:41,Seraphin REBOUND (Off:0 Def:2),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,205,1,1,2,2:01 PM,5:23,Porter 15' Jump Shot (6 PTS) (A. Miller 5 AST),,,39 - 44,5,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,206,2,1,2,2:01 PM,5:07,,,MISS Martin 26' 3PT Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,207,4,0,2,2:01 PM,5:07,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,208,6,3,2,2:01 PM,5:07,Nene L.B.FOUL (P2.T4),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,209,8,0,2,2:01 PM,5:07,,,SUB: Jerebko FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,210,8,0,2,2:01 PM,5:07,,,SUB: Caldwell-Pope FOR Martin,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,211,8,0,2,2:01 PM,5:07,SUB: Gortat FOR Seraphin,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,212,2,1,2,2:02 PM,4:59,,,MISS Augustin 4' Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,213,4,0,2,2:02 PM,4:58,Porter REBOUND (Off:0 Def:1),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,214,5,1,2,2:02 PM,4:48,Porter Bad Pass Turnover (P2.T7),,Caldwell-Pope STEAL (1 STL),,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,215,2,1,2,2:02 PM,4:40,Porter BLOCK (1 BLK),,MISS Augustin 24' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0
+0011400038,216,4,0,2,2:02 PM,4:40,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,218,2,1,2,2:02 PM,4:24,,,MISS Caldwell-Pope 26' 3PT Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,219,4,0,2,2:02 PM,4:23,,,Jerebko REBOUND (Off:1 Def:0),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,220,2,1,2,2:03 PM,4:08,,,MISS Jerebko 26' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,221,4,0,2,2:03 PM,4:06,,,Drummond REBOUND (Off:2 Def:1),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,222,6,2,2,2:03 PM,4:06,Porter S.FOUL (P1.PN),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,223,3,11,2,2:03 PM,4:06,,,MISS Drummond Free Throw 1 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,224,4,1,2,2:03 PM,4:06,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,225,3,12,2,2:03 PM,4:06,,,Drummond Free Throw 2 of 2 (9 PTS),40 - 44,4,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,228,2,1,2,2:04 PM,3:55,MISS Gortat 12' Jump Shot,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,229,4,0,2,2:04 PM,3:54,,,Drummond REBOUND (Off:2 Def:2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,230,2,1,2,2:04 PM,3:33,Gortat BLOCK (1 BLK),,MISS Augustin 5' Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0
+0011400038,231,4,0,2,2:04 PM,3:31,Porter REBOUND (Off:0 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,232,2,1,2,2:04 PM,3:25,MISS Rice 4' Jump Shot,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,233,4,0,2,2:04 PM,3:23,,,Caldwell-Pope REBOUND (Off:0 Def:1),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,234,2,5,2,2:04 PM,3:20,,,MISS Augustin 2' Layup,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,235,4,0,2,2:04 PM,3:20,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,236,6,3,2,2:04 PM,3:20,,,Drummond L.B.FOUL (P3.PN),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,237,3,11,2,2:05 PM,3:20,MISS Porter Free Throw 1 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,238,4,1,2,2:05 PM,3:20,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,239,8,0,2,2:05 PM,3:20,,,SUB: Jennings FOR Augustin,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,240,3,12,2,2:05 PM,3:20,MISS Porter Free Throw 2 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,242,4,0,2,2:05 PM,3:19,Gortat REBOUND (Off:4 Def:2),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,243,6,3,2,2:05 PM,3:19,,,Jerebko L.B.FOUL (P1.PN),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,244,3,11,2,2:06 PM,3:19,MISS Gortat Free Throw 1 of 2,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,245,4,1,2,2:06 PM,3:19,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,246,8,0,2,2:06 PM,3:19,SUB: Pierce FOR Porter,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,247,8,0,2,2:06 PM,3:19,,,SUB: Butler FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,248,3,12,2,2:06 PM,3:19,MISS Gortat Free Throw 2 of 2,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,250,4,0,2,2:06 PM,3:17,,,Jennings REBOUND (Off:0 Def:3),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,251,1,58,2,2:06 PM,2:56,,,Drummond 4' Turnaround Hook Shot (11 PTS),42 - 44,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,252,1,5,2,2:06 PM,2:46,Rice 3' Layup (2 PTS) (A. Miller 6 AST),,,42 - 46,4,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,253,2,1,2,2:07 PM,2:32,,,MISS Jennings 21' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,254,4,0,2,2:07 PM,2:31,Pierce REBOUND (Off:0 Def:3),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,255,5,1,2,2:07 PM,2:28,Pierce Bad Pass Turnover (P2.T8),,Drummond STEAL (1 STL),,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,256,5,39,2,2:07 PM,2:15,,,Butler Step Out of Bounds Turnover (P1.T11),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,257,9,1,2,2:07 PM,2:15,,,Pistons Timeout: Regular (Reg.2 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,259,8,0,2,2:09 PM,2:15,SUB: Wall FOR A. Miller,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,260,2,1,2,2:10 PM,1:57,MISS Nene 13' Jump Shot,,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,261,4,0,2,2:10 PM,1:56,,,Drummond REBOUND (Off:2 Def:3),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,262,1,41,2,2:10 PM,1:38,,,Drummond 1' Running Layup (13 PTS) (Jennings 4 AST),44 - 46,2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,263,6,2,2,2:10 PM,1:38,Nene S.FOUL (P3.PN),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,264,3,10,2,2:11 PM,1:38,,,MISS Drummond Free Throw 1 of 1,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,266,4,0,2,2:11 PM,1:37,Nene REBOUND (Off:0 Def:1),,,,,4,2403,Nene,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,268,6,2,2,2:11 PM,1:28,,,Drummond S.FOUL (P4.PN),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,269,3,11,2,2:11 PM,1:28,Pierce Free Throw 1 of 2 (5 PTS),,,44 - 47,3,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,271,8,0,2,2:12 PM,1:28,,,SUB: Monroe FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,272,3,12,2,2:12 PM,1:28,Pierce Free Throw 2 of 2 (6 PTS),,,44 - 48,4,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,275,6,1,2,2:12 PM,1:15,Pierce P.FOUL (P2.PN),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,276,3,11,2,2:12 PM,1:15,,,Monroe Free Throw 1 of 2 (3 PTS),45 - 48,3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,278,3,12,2,2:13 PM,1:15,,,MISS Monroe Free Throw 2 of 2,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,280,4,0,2,2:13 PM,1:15,Pierce REBOUND (Off:0 Def:4),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,281,5,1,2,2:13 PM,0:56,Gortat Bad Pass Turnover (P1.T9),,Caldwell-Pope STEAL (2 STL),,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,282,5,1,2,2:13 PM,0:48,Pierce STEAL (1 STL),,Caldwell-Pope Bad Pass Turnover (P1.T12),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,283,6,2,2,2:14 PM,0:32,,,Jennings S.FOUL (P3.PN),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,284,3,11,2,2:14 PM,0:32,Wall Free Throw 1 of 2 (8 PTS),,,45 - 49,4,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,286,3,12,2,2:14 PM,0:32,Wall Free Throw 2 of 2 (9 PTS),,,45 - 50,5,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,289,5,1,2,2:15 PM,0:21,Pierce STEAL (2 STL),,Jennings Bad Pass Turnover (P3.T13),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,290,6,2,2,2:15 PM,0:19,,,Jennings S.FOUL (P4.PN),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,291,3,11,2,2:15 PM,0:19,MISS Pierce Free Throw 1 of 2,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,292,4,1,2,2:15 PM,0:19,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,293,8,0,2,2:15 PM,0:19,,,SUB: Augustin FOR Jennings,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,294,3,12,2,2:15 PM,0:19,Pierce Free Throw 2 of 2 (7 PTS),,,45 - 51,6,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,297,2,1,2,2:16 PM,0:02,,,MISS Caldwell-Pope 11' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,298,4,0,2,2:16 PM,0:01,,,Monroe REBOUND (Off:1 Def:3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,299,1,4,2,2:16 PM,0:01,,,Monroe 3' Tip Shot (5 PTS),47 - 51,4,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,300,2,1,2,2:16 PM,0:00,MISS Wall 53' 3PT Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,301,4,0,2,2:16 PM,0:00,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,302,13,0,2,2:16 PM,0:00,,End of 2nd Period (2:16 PM EST),,47 - 51,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,305,12,0,3,2:32 PM,12:00,,Start of 3rd Period (2:32 PM EST),,47 - 51,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,306,5,1,3,2:33 PM,11:48,Gortat Bad Pass Turnover (P2.T10),,Monroe STEAL (2 STL),,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,307,6,29,3,2:33 PM,11:25,Gortat Shooting Block Foul (P1.T1),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,308,3,11,3,2:33 PM,11:25,,,Monroe Free Throw 1 of 2 (6 PTS),48 - 51,3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,310,3,12,3,2:34 PM,11:25,,,MISS Monroe Free Throw 2 of 2,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,312,4,0,3,2:34 PM,11:23,Gortat REBOUND (Off:4 Def:3),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,313,2,1,3,2:34 PM,11:09,MISS Rice 6' Jump Shot,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,314,4,0,3,2:34 PM,11:08,,,Caldwell-Pope REBOUND (Off:0 Def:2),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,315,2,1,3,2:34 PM,10:58,,,MISS Monroe 14' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,316,4,0,3,2:34 PM,10:56,Wall REBOUND (Off:1 Def:1),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,317,6,4,3,2:34 PM,10:51,Wall OFF.Foul (P1),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,318,5,5,3,2:34 PM,10:51,Wall Foul Turnover (P2.T11),,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,320,5,1,3,2:35 PM,10:31,,,Caldwell-Pope Bad Pass Turnover (P2.T14),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,321,6,3,3,2:35 PM,10:31,,,Caldwell-Pope L.B.FOUL (P1.T1),,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,322,2,5,3,2:35 PM,10:20,MISS Gortat 1' Layup,,Drummond BLOCK (3 BLK),,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011400038,323,4,0,3,2:35 PM,10:17,,,Singler REBOUND (Off:0 Def:1),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,324,1,1,3,2:36 PM,10:12,,,Caldwell-Pope 25' 3PT Jump Shot (9 PTS) (Jennings 5 AST),51 - 51,TIE,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,325,1,1,3,2:36 PM,9:58,Pierce 17' Jump Shot (9 PTS) (Wall 2 AST),,,51 - 53,2,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,327,2,1,3,2:36 PM,9:45,,,MISS Caldwell-Pope 19' Jump Shot,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,328,4,0,3,2:36 PM,9:44,Gortat REBOUND (Off:4 Def:4),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,329,1,5,3,2:36 PM,9:36,Blair 2' Layup (4 PTS) (Pierce 1 AST),,,51 - 55,4,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,330,1,71,3,2:36 PM,9:25,,,Jennings 1' Finger Roll Layup (6 PTS),53 - 55,2,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,331,2,1,3,2:37 PM,9:10,MISS Wall 13' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,332,4,0,3,2:37 PM,9:10,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,333,6,3,3,2:37 PM,9:10,,,Drummond L.B.FOUL (P5.T2),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,334,8,0,3,2:37 PM,9:10,,,SUB: Smith FOR Drummond,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,335,1,1,3,2:37 PM,9:02,Gortat 14' Jump Shot (4 PTS) (Wall 3 AST),,,53 - 57,4,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,336,2,1,3,2:37 PM,8:46,,,MISS Singler 13' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,337,4,0,3,2:37 PM,8:45,,,Monroe REBOUND (Off:2 Def:3),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,338,2,1,3,2:37 PM,8:43,Rice BLOCK (1 BLK),,MISS Singler 4' Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0
+0011400038,339,4,0,3,2:37 PM,8:43,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,342,1,44,3,2:38 PM,8:28,,,Monroe 2' Reverse Layup (8 PTS) (Jennings 6 AST),55 - 57,2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,343,2,1,3,2:38 PM,8:17,MISS Blair 4' Jump Shot,,Smith BLOCK (2 BLK),,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011400038,344,4,0,3,2:38 PM,8:13,,,Monroe REBOUND (Off:2 Def:4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,346,2,1,3,2:39 PM,8:04,,,MISS Jennings 18' Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,347,4,0,3,2:39 PM,8:03,,,Smith REBOUND (Off:1 Def:2),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,348,2,1,3,2:39 PM,7:59,,,MISS Singler 25' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,349,4,0,3,2:39 PM,7:58,Gortat REBOUND (Off:4 Def:5),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,350,5,4,3,2:39 PM,7:49,Gortat Traveling Turnover (P3.T12),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,352,1,1,3,2:40 PM,7:36,,,Singler 26' 3PT Jump Shot (7 PTS) (Smith 4 AST),58 - 57,-1,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,353,6,4,3,2:40 PM,7:26,Rice OFF.Foul (P2),,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,354,5,5,3,2:40 PM,7:26,Rice Foul Turnover (P1.T13),,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,355,2,5,3,2:40 PM,7:13,,,MISS Jennings 1' Layup,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,356,4,0,3,2:40 PM,7:13,Pierce REBOUND (Off:0 Def:5),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,357,2,1,3,2:40 PM,7:02,MISS Blair 16' Jump Shot,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,358,4,0,3,2:40 PM,7:01,Gortat REBOUND (Off:5 Def:5),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,359,2,1,3,2:40 PM,6:56,MISS Pierce 25' 3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,360,4,0,3,2:40 PM,6:56,,,Smith REBOUND (Off:1 Def:3),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,361,1,1,3,2:41 PM,6:47,,,Caldwell-Pope 27' 3PT Jump Shot (12 PTS) (Smith 5 AST),61 - 57,-4,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,362,9,1,3,2:41 PM,6:46,WIZARDS Timeout: Regular (Full 3 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,364,2,5,3,2:44 PM,6:32,MISS Rice  Layup,,Monroe BLOCK (1 BLK),,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0
+0011400038,365,4,0,3,2:44 PM,6:29,,,Monroe REBOUND (Off:2 Def:5),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,366,1,63,3,2:44 PM,6:09,,,Smith 5' Fadeaway Jumper (8 PTS),63 - 57,-6,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,367,5,4,3,2:45 PM,5:45,Pierce Traveling Turnover (P3.T14),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,368,8,0,3,2:45 PM,5:45,SUB: Silas FOR Rice,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,370,1,77,3,2:45 PM,5:29,,,Monroe 3' Driving Jump Shot (10 PTS),65 - 57,-8,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,371,1,42,3,2:45 PM,5:14,Wall 2' Driving Layup (11 PTS),,,65 - 59,-6,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,372,2,1,3,2:45 PM,5:08,,,MISS Singler 27' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,373,4,0,3,2:45 PM,5:06,Pierce REBOUND (Off:0 Def:6),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,374,6,2,3,2:46 PM,4:55,,,Singler S.FOUL (P2.T3),,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,375,9,1,3,2:46 PM,4:55,,,Pistons Timeout: Regular (Reg.3 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,377,8,0,3,2:48 PM,4:55,,,SUB: Butler FOR Caldwell-Pope,,,5,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,378,3,11,3,2:48 PM,4:55,Wall Free Throw 1 of 2 (12 PTS),,,65 - 60,-5,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,380,3,12,3,2:49 PM,4:55,Wall Free Throw 2 of 2 (13 PTS),,,65 - 61,-4,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,382,1,7,3,2:49 PM,4:32,,,Monroe  Dunk (12 PTS) (Jennings 7 AST),67 - 61,-6,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,383,1,1,3,2:50 PM,4:14,Gortat 15' Jump Shot (6 PTS) (Pierce 2 AST),,,67 - 63,-4,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,384,5,40,3,2:50 PM,4:02,,,Smith Out of Bounds Lost Ball Turnover (P1.T15),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,386,1,5,3,2:50 PM,3:41,Blair 2' Layup (6 PTS) (Silas 1 AST),,,67 - 65,-2,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,387,6,2,3,2:51 PM,3:23,Silas S.FOUL (P1.T2),,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,388,3,11,3,2:51 PM,3:23,,,Singler Free Throw 1 of 2 (8 PTS),68 - 65,-3,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,390,3,12,3,2:51 PM,3:23,,,MISS Singler Free Throw 2 of 2,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,392,4,0,3,2:51 PM,3:21,Pierce REBOUND (Off:0 Def:7),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,393,1,76,3,2:51 PM,3:16,Wall 1' Running Finger Roll Layup (15 PTS) (Pierce 3 AST),,,68 - 67,-1,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,394,2,1,3,2:52 PM,2:58,,,MISS Smith 20' Jump Shot,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,395,4,0,3,2:52 PM,2:57,Gortat REBOUND (Off:5 Def:6),,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,396,2,1,3,2:52 PM,2:48,MISS Wall 16' Jump Shot,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,397,4,0,3,2:52 PM,2:47,Blair REBOUND (Off:1 Def:1),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,398,5,2,3,2:52 PM,2:42,Wall Lost Ball Turnover (P3.T15),,Singler STEAL (1 STL),,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,399,2,1,3,2:52 PM,2:34,,,MISS Singler 25' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,400,4,0,3,2:52 PM,2:33,Blair REBOUND (Off:1 Def:2),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,401,6,2,3,2:53 PM,2:14,,,Monroe S.FOUL (P2.T4),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,403,7,1,3,2:53 PM,2:14,,,Pistons Violation: Delay of game Violation,,,3,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400038,404,3,11,3,2:53 PM,2:14,Gortat Free Throw 1 of 2 (7 PTS),,,68 - 68,TIE,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,406,8,0,3,2:53 PM,2:14,,,SUB: Thabeet FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201934,Hasheem Thabeet,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,407,8,0,3,2:53 PM,2:14,,,SUB: Martin FOR Singler,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,408,8,0,3,2:53 PM,2:14,SUB: A. Miller FOR Wall,,,,,4,202322,John Wall,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,409,8,0,3,2:53 PM,2:14,SUB: Seraphin FOR Blair,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,410,3,12,3,2:53 PM,2:14,Gortat Free Throw 2 of 2 (8 PTS),,,68 - 69,1,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,413,5,1,3,2:54 PM,1:56,,,Smith Bad Pass Turnover (P2.T16),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,414,6,4,3,2:54 PM,1:46,Pierce OFF.Foul (P3),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,415,5,5,3,2:54 PM,1:46,Pierce Foul Turnover (P4.T16),,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,416,5,1,3,2:55 PM,1:33,A. Miller STEAL (1 STL),,Smith Bad Pass Turnover (P3.T17),,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,417,2,1,3,2:55 PM,1:21,MISS Pierce 14' Jump Shot,,,,,4,1718,Paul Pierce,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,418,4,0,3,2:55 PM,1:20,,,Jennings REBOUND (Off:0 Def:4),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,419,2,5,3,2:55 PM,1:07,Gortat BLOCK (2 BLK),,MISS Thabeet 1' Layup,,,5,201934,Hasheem Thabeet,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0
+0011400038,420,4,0,3,2:55 PM,1:07,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,422,1,42,3,2:55 PM,1:01,Gortat 1' Driving Layup (10 PTS) (A. Miller 7 AST),,,68 - 71,3,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,423,6,2,3,2:55 PM,1:01,,,Butler S.FOUL (P3.PN),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,424,3,10,3,2:55 PM,1:01,Gortat Free Throw 1 of 1 (11 PTS),,,68 - 72,4,4,101162,Marcin Gortat,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,427,6,2,3,2:56 PM,0:45,Seraphin S.FOUL (P3.T3),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,428,3,11,3,2:56 PM,0:45,,,MISS Smith Free Throw 1 of 2,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,429,4,1,3,2:56 PM,0:45,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,430,3,12,3,2:57 PM,0:45,,,MISS Smith Free Throw 2 of 2,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,432,4,0,3,2:57 PM,0:44,Seraphin REBOUND (Off:0 Def:3),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,433,2,1,3,2:57 PM,0:23,MISS Seraphin 5' Jump Shot,,Smith BLOCK (3 BLK),,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,5,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011400038,434,4,0,3,2:57 PM,0:19,,,Jennings REBOUND (Off:0 Def:5),,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,435,2,1,3,2:58 PM,0:00,,,MISS Jennings 27' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,436,4,0,3,2:58 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,437,13,0,3,2:58 PM,0:00,,End of 3rd Period (2:58 PM EST),,68 - 72,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,439,12,0,4,3:01 PM,12:00,,Start of 4th Period (3:01 PM EST),,68 - 72,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,440,2,1,4,3:01 PM,11:48,,,MISS Martin 3' Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,441,4,0,4,3:01 PM,11:47,Seraphin REBOUND (Off:0 Def:4),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,442,2,1,4,3:01 PM,11:42,MISS Silas 26' 3PT Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,443,4,0,4,3:01 PM,11:39,Porter REBOUND (Off:1 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,444,2,1,4,3:01 PM,11:26,MISS Seraphin 7' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,445,4,0,4,3:01 PM,11:25,,,Jerebko REBOUND (Off:1 Def:1),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,446,2,1,4,3:02 PM,11:01,,,MISS Butler 9' Jump Shot,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,447,4,0,4,3:02 PM,11:00,Seraphin REBOUND (Off:0 Def:5),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,448,1,1,4,3:02 PM,10:43,Seraphin 15' Jump Shot (8 PTS) (Blair 2 AST),,,68 - 74,6,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,449,2,1,4,3:02 PM,10:18,Seraphin BLOCK (1 BLK),,MISS Augustin 5' Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0
+0011400038,450,4,0,4,3:02 PM,10:17,A. Miller REBOUND (Off:0 Def:1),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,451,6,2,4,3:02 PM,10:17,,,Butler S.FOUL (P4.T1),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,452,3,11,4,3:03 PM,10:17,Porter Free Throw 1 of 2 (7 PTS),,,68 - 75,7,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,454,3,12,4,3:03 PM,10:17,MISS Porter Free Throw 2 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,456,4,0,4,3:03 PM,10:15,Seraphin REBOUND (Off:1 Def:5),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,458,6,29,4,3:03 PM,9:58,,,Augustin Shooting Block Foul (P2.T2),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,459,3,11,4,3:04 PM,9:58,A. Miller Free Throw 1 of 2 (1 PTS),,,68 - 76,8,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,461,3,12,4,3:04 PM,9:58,MISS A. Miller Free Throw 2 of 2,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,463,4,0,4,3:04 PM,9:57,,,Butler REBOUND (Off:0 Def:3),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,464,2,1,4,3:04 PM,9:42,,,MISS Martin 26' 3PT Jump Shot,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,465,4,0,4,3:04 PM,9:40,Seraphin REBOUND (Off:1 Def:6),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,466,2,5,4,3:04 PM,9:33,MISS A. Miller 3' Layup,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,467,4,0,4,3:05 PM,9:31,Porter REBOUND (Off:2 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,468,6,2,4,3:05 PM,9:31,,,Jerebko S.FOUL (P2.T3),,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,469,9,1,4,3:05 PM,9:31,,,Pistons Timeout: Regular (Reg.4 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,471,8,0,4,3:07 PM,9:31,,,SUB: Drummond FOR Thabeet,,,5,201934,Hasheem Thabeet,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,472,3,11,4,3:07 PM,9:31,Porter Free Throw 1 of 2 (8 PTS),,,68 - 77,9,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,474,3,12,4,3:08 PM,9:31,MISS Porter Free Throw 2 of 2,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,476,4,0,4,3:08 PM,9:29,,,Martin REBOUND (Off:0 Def:1),,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,477,1,1,4,3:08 PM,9:15,,,Jerebko 26' 3PT Jump Shot (3 PTS) (Augustin 6 AST),71 - 77,6,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,478,2,1,4,3:09 PM,8:47,MISS Silas 24' 3PT Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,479,4,0,4,3:09 PM,8:45,Porter REBOUND (Off:3 Def:2),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,480,6,2,4,3:09 PM,8:37,,,Butler S.FOUL (P5.T4),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,481,3,11,4,3:09 PM,8:37,MISS Blair Free Throw 1 of 2,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,482,4,1,4,3:09 PM,8:37,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,483,3,12,4,3:09 PM,8:37,MISS Blair Free Throw 2 of 2,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,485,4,0,4,3:09 PM,8:36,,,Butler REBOUND (Off:0 Def:4),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,486,6,2,4,3:10 PM,8:18,Seraphin S.FOUL (P4.T1),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,487,3,11,4,3:10 PM,8:18,,,MISS Drummond Free Throw 1 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,488,4,1,4,3:10 PM,8:18,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,489,3,12,4,3:10 PM,8:18,,,Drummond Free Throw 2 of 2 (14 PTS),72 - 77,5,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,492,5,1,4,3:11 PM,7:56,A. Miller Bad Pass Turnover (P2.T17),,Butler STEAL (1 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,493,2,1,4,3:11 PM,7:48,,,MISS Jerebko 26' 3PT Jump Shot,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,494,4,0,4,3:11 PM,7:47,Silas REBOUND (Off:0 Def:3),,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,495,5,1,4,3:11 PM,7:34,A. Miller Bad Pass Turnover (P3.T18),,Jerebko STEAL (1 STL),,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,497,8,0,4,3:12 PM,7:23,,,SUB: Monroe FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,498,1,78,4,3:12 PM,7:09,,,Martin 10' Floating Jump Shot (8 PTS) (Augustin 7 AST),74 - 77,3,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,499,1,78,4,3:12 PM,6:52,Porter 5' Floating Jump Shot (10 PTS) (A. Miller 8 AST),,,74 - 79,5,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,500,1,7,4,3:13 PM,6:29,,,Drummond  Dunk (16 PTS) (Monroe 1 AST),76 - 79,3,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,501,5,8,4,3:13 PM,6:07,Seraphin 3 Second Violation Turnover (P1.T19),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,503,2,1,4,3:14 PM,5:43,,,MISS Monroe 5' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,504,4,0,4,3:14 PM,5:42,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,505,9,4,4,3:14 PM,5:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,507,6,2,4,3:17 PM,5:30,Blair S.FOUL (P2.T2),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,508,3,11,4,3:17 PM,5:30,,,MISS Drummond Free Throw 1 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,509,4,1,4,3:17 PM,5:30,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,510,3,12,4,3:17 PM,5:30,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,512,4,0,4,3:17 PM,5:29,Porter REBOUND (Off:3 Def:3),,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,513,2,1,4,3:18 PM,5:12,MISS Silas 26' 3PT Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,514,4,0,4,3:18 PM,5:10,,,Monroe REBOUND (Off:2 Def:6),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,515,5,2,4,3:18 PM,5:03,A. Miller STEAL (2 STL),,Augustin Lost Ball Turnover (P3.T18),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,516,6,28,4,3:18 PM,5:02,,,Augustin Personal Take Foul (P3.PN),,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,517,3,11,4,3:18 PM,5:02,A. Miller Free Throw 1 of 2 (2 PTS),,,76 - 80,4,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,519,8,0,4,3:18 PM,5:02,,,SUB: Singler FOR Martin,,,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,520,3,12,4,3:18 PM,5:02,A. Miller Free Throw 2 of 2 (3 PTS),,,76 - 81,5,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,523,1,42,4,3:19 PM,4:43,,,Monroe 2' Driving Layup (14 PTS),78 - 81,3,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,524,6,2,4,3:19 PM,4:43,Blair S.FOUL (P3.T3),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,525,3,10,4,3:19 PM,4:43,,,Monroe Free Throw 1 of 1 (15 PTS),79 - 81,2,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,527,2,1,4,3:20 PM,4:28,MISS Silas 5' Jump Shot,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,528,4,0,4,3:20 PM,4:27,,,Monroe REBOUND (Off:2 Def:7),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,529,5,4,4,3:20 PM,4:18,,,Drummond Traveling Turnover (P2.T19),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,530,6,11,4,3:20 PM,4:18,,,Drummond T.FOUL (P5.PN),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,531,3,16,4,3:20 PM,4:18,Porter Free Throw Technical (11 PTS),,,79 - 82,3,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,534,7,5,4,3:21 PM,4:09,,,Singler Violation:Kicked Ball,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011400038,535,2,1,4,3:21 PM,3:56,MISS Seraphin 10' Jump Shot,,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,536,4,0,4,3:21 PM,3:55,,,Drummond REBOUND (Off:2 Def:4),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,537,1,46,4,3:22 PM,3:37,,,Monroe 3' Running Jump Shot (17 PTS) (Butler 1 AST),81 - 82,1,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,538,9,1,4,3:22 PM,3:37,WIZARDS Timeout: Regular (Full 4 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,540,2,1,4,3:25 PM,3:24,MISS Porter 18' Jump Shot,,,,,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,541,4,0,4,3:25 PM,3:23,,,Monroe REBOUND (Off:2 Def:8),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,542,2,1,4,3:25 PM,3:00,,,MISS Augustin 27' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,543,4,0,4,3:25 PM,2:59,A. Miller REBOUND (Off:0 Def:2),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,544,5,1,4,3:25 PM,2:51,Silas Bad Pass Turnover (P1.T20),,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,545,2,1,4,3:26 PM,2:35,,,MISS Augustin 7' Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,546,4,0,4,3:26 PM,2:34,Seraphin REBOUND (Off:1 Def:7),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,548,8,0,4,3:26 PM,2:30,SUB: Rice FOR Silas,,,,,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,549,5,36,4,3:26 PM,2:27,Seraphin Illegal Screen Turnover (P2.T21),,,,,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,1,0,,,,,,0
+0011400038,551,1,1,4,3:27 PM,2:07,,,Singler 27' 3PT Jump Shot (11 PTS) (Drummond 3 AST),84 - 82,-2,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,552,1,58,4,3:27 PM,1:49,Seraphin 9' Turnaround Hook Shot (10 PTS) (A. Miller 9 AST),,,84 - 84,TIE,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,553,1,1,4,3:28 PM,1:25,,,Drummond 9' Jump Shot (18 PTS),86 - 84,-2,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,554,6,1,4,3:28 PM,1:13,,,Butler P.FOUL (P6.PN),,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,555,8,0,4,3:28 PM,1:13,,,SUB: Martin FOR Butler,,,5,2406,Caron Butler,1610612765.0,Detroit,Pistons,DET,5,201858,Cartier Martin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,556,3,11,4,3:28 PM,1:13,Porter Free Throw 1 of 2 (12 PTS),,,86 - 85,-1,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,558,3,12,4,3:29 PM,1:13,Porter Free Throw 2 of 2 (13 PTS),,,86 - 86,TIE,4,203490,Otto Porter Jr.,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,561,2,1,4,3:29 PM,0:59,,,MISS Singler 26' 3PT Jump Shot,,,5,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,562,4,0,4,3:29 PM,0:58,A. Miller REBOUND (Off:0 Def:3),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,563,1,58,4,3:30 PM,0:52,Seraphin 5' Turnaround Hook Shot (12 PTS) (A. Miller 10 AST),,,86 - 88,2,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,564,9,1,4,3:30 PM,0:52,,,Pistons Timeout: Regular (Reg.5 Short 0),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,567,9,2,4,3:32 PM,0:36,,,Pistons Timeout: Short (Reg.5 Short 1),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,569,6,29,4,3:33 PM,0:32,Blair Shooting Block Foul (P4.T4),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,570,3,11,4,3:34 PM,0:32,,,Drummond Free Throw 1 of 2 (19 PTS),87 - 88,1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,572,3,12,4,3:34 PM,0:32,,,MISS Drummond Free Throw 2 of 2,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,574,4,0,4,3:34 PM,0:31,,,Drummond REBOUND (Off:3 Def:4),,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,575,1,58,4,3:34 PM,0:16,,,Drummond 12' Turnaround Hook Shot (21 PTS),89 - 88,-1,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,576,6,2,4,3:34 PM,0:16,Blair S.FOUL (P5.PN),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011400038,577,3,10,4,3:35 PM,0:16,,,MISS Drummond Free Throw 1 of 1,,,5,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,579,4,0,4,3:35 PM,0:15,A. Miller REBOUND (Off:0 Def:4),,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,580,9,1,4,3:35 PM,0:15,WIZARDS Timeout: Regular (Full 5 Short 0),,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,582,8,0,4,3:37 PM,0:15,SUB: Silas FOR Blair,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,4,202918,Xavier Silas,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,583,8,0,4,3:37 PM,0:15,,,SUB: Jerebko FOR Monroe,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,584,1,7,4,3:38 PM,0:05,Seraphin  Dunk (14 PTS) (A. Miller 11 AST),,,89 - 90,1,4,202338,Kevin Seraphin,1610612764.0,Washington,Wizards,WAS,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,585,9,2,4,3:38 PM,0:05,,,Pistons Timeout: Short (Reg.5 Short 2),,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,587,8,0,4,3:39 PM,0:05,SUB: Blair FOR Rice,,,,,4,203318,Glen Rice,1610612764.0,Washington,Wizards,WAS,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,588,8,0,4,3:39 PM,0:05,SUB: Temple FOR A. Miller,,,,,4,1889,Andre Miller,1610612764.0,Washington,Wizards,WAS,4,202066,Garrett Temple,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0
+0011400038,589,8,0,4,3:39 PM,0:05,,,SUB: Monroe FOR Jerebko,,,5,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011400038,591,2,1,4,3:39 PM,0:02,,,MISS Monroe 11' Jump Shot,,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,592,4,0,4,3:39 PM,0:01,Blair REBOUND (Off:1 Def:3),,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,593,6,1,4,3:40 PM,0:01,,,Monroe P.FOUL (P3.PN),,,5,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,1,0,,,,,,0
+0011400038,594,3,11,4,3:40 PM,0:01,MISS Blair Free Throw 1 of 2,,,,,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,595,4,1,4,3:40 PM,0:01,WIZARDS Rebound,,,,,2,1610612764,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,596,3,12,4,3:40 PM,0:01,Blair Free Throw 2 of 2 (7 PTS),,,89 - 91,2,4,201971,DeJuan Blair,1610612764.0,Washington,Wizards,WAS,0,0,,,,,,0,0,,,,,,0
+0011400038,598,2,1,4,3:41 PM,0:00,,,MISS Augustin 35' 3PT Jump Shot,,,5,201571,D.J. Augustin,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011400038,599,4,0,4,3:41 PM,0:00,,,Pistons Rebound,,,3,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400038,600,13,0,4,3:41 PM,0:00,,End of 4th Period (3:41 PM EST),,89 - 91,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

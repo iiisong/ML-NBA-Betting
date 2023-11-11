@@ -1,0 +1,524 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0052100121,2,12,0,1,9:42 PM,12:00,,Start of 1st Period (9:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,4,10,0,1,9:42 PM,12:00,Jump Ball Towns vs. Zubac: Tip to Morris Sr.,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1
+0052100121,7,2,86,1,9:42 PM,11:44,,,MISS Morris Sr. 8' Turnaround Fadeaway Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,8,4,0,1,9:42 PM,11:41,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,9,1,6,1,9:42 PM,11:34,Edwards 3' Driving Layup (2 PTS),,,0 - 2,2,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,10,2,79,1,9:42 PM,11:16,,,MISS George 16' Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,11,4,0,1,9:42 PM,11:14,Russell REBOUND (Off:0 Def:1),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,12,2,80,1,9:43 PM,11:05,MISS Russell 25' 3PT Step Back Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,13,4,0,1,9:43 PM,11:04,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,1
+0052100121,14,6,3,1,9:43 PM,11:04,,,Morris Sr. L.B.FOUL (P1.T1) (S.Foster),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,17,5,4,1,9:43 PM,10:56,Towns Traveling Turnover (P1.T1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0052100121,18,5,40,1,9:44 PM,10:43,,,Morris Sr. Out of Bounds Lost Ball Turnover (P1.T1),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,19,1,79,1,9:44 PM,10:31,Edwards 16' Pullup Jump Shot (4 PTS) (Towns 1 AST),,,0 - 4,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,21,6,1,1,9:44 PM,10:19,Vanderbilt P.FOUL (P1.T1) (E.Malloy),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,23,1,79,1,9:45 PM,10:12,,,George 21' Pullup Jump Shot (2 PTS),2 - 4,2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,24,1,1,1,9:45 PM,9:58,Edwards 28' 3PT Jump Shot (7 PTS) (Russell 1 AST),,,2 - 7,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,26,2,1,1,9:45 PM,9:46,,,MISS Batum 25' 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,27,4,0,1,9:45 PM,9:44,Edwards REBOUND (Off:0 Def:1),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,28,5,2,1,9:45 PM,9:32,Edwards Lost Ball Turnover (P1.T2),,Batum STEAL (1 STL),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,30,1,41,1,9:46 PM,9:27,,,Jackson 3' Running Layup (2 PTS),4 - 7,3,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,31,6,2,1,9:46 PM,9:27,Russell S.FOUL (P1.T2) (T.Washington),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,33,3,10,1,9:46 PM,9:27,,,MISS Jackson Free Throw 1 of 1,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,34,4,0,1,9:46 PM,9:25,Towns REBOUND (Off:0 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,35,2,78,1,9:46 PM,9:09,MISS Towns 10' Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,36,4,0,1,9:47 PM,9:08,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,38,2,79,1,9:47 PM,8:56,,,MISS George 16' Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,39,4,0,1,9:47 PM,8:53,Vanderbilt REBOUND (Off:0 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,40,2,6,1,9:47 PM,8:47,MISS Russell 2' Driving Layup,,Zubac BLOCK (1 BLK),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0052100121,42,4,0,1,9:47 PM,8:47,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,44,1,1,1,9:47 PM,8:38,,,Morris Sr. 26' 3PT Jump Shot (3 PTS) (Jackson 1 AST),7 - 7,TIE,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,46,2,1,1,9:48 PM,8:13,MISS Edwards 29' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,47,4,0,1,9:48 PM,8:11,,,George REBOUND (Off:0 Def:1),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,48,2,1,1,9:48 PM,8:02,,,MISS Batum 25' 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,49,4,0,1,9:48 PM,7:59,Edwards REBOUND (Off:0 Def:2),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,50,2,6,1,9:48 PM,7:47,MISS Towns 4' Driving Layup,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,51,4,0,1,9:48 PM,7:45,,,George REBOUND (Off:0 Def:2),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,52,1,73,1,9:48 PM,7:40,,,Morris Sr. 1' Driving Reverse Layup (5 PTS) (George 1 AST),9 - 7,-2,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,54,5,11,1,9:49 PM,7:12,TIMBERWOLVES Turnover: Shot Clock (T#3),,,,,2,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,55,1,1,1,9:49 PM,6:55,,,George 24' 3PT Jump Shot (5 PTS) (Batum 1 AST),12 - 7,-5,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,57,2,6,1,9:50 PM,6:33,MISS Edwards 4' Driving Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,58,4,0,1,9:50 PM,6:31,,,Zubac REBOUND (Off:0 Def:1),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,59,6,1,1,9:50 PM,6:29,Beverley P.FOUL (P1.T3) (S.Foster),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,61,9,1,1,9:50 PM,6:29,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,62,5,1,1,9:54 PM,6:21,Russell STEAL (1 STL),,Zubac Bad Pass Turnover (P1.T2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,64,1,1,1,9:54 PM,6:08,Beverley 25' 3PT Jump Shot (3 PTS) (Russell 2 AST),,,12 - 10,-2,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,66,6,4,1,9:54 PM,5:52,,,George OFF.Foul (P1) (T.Washington),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,68,5,37,1,9:54 PM,5:52,,,George Offensive Foul Turnover (P1.T3),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,69,6,17,1,9:55 PM,5:43,,,Clippers T.Foul (Def. 3 Sec Zubac ) (E.Malloy),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,70,3,16,1,9:55 PM,5:43,Russell Free Throw Technical (1 PTS),,,12 - 11,-1,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0052100121,71,2,1,1,9:55 PM,5:34,MISS Beverley 25' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,72,4,0,1,9:55 PM,5:31,,,Zubac REBOUND (Off:0 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,73,5,1,1,9:56 PM,5:22,Towns STEAL (1 STL),,George Bad Pass Turnover (P2.T4),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,75,2,1,1,9:56 PM,5:11,MISS Russell 25' 3PT Jump Shot,,Batum BLOCK (1 BLK),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1
+0052100121,77,4,0,1,9:56 PM,5:08,,,Batum REBOUND (Off:0 Def:1),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,79,1,79,1,9:56 PM,5:00,,,Jackson 18' Pullup Jump Shot (4 PTS),14 - 11,-3,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,80,5,1,1,9:56 PM,4:47,Russell Bad Pass Turnover (P1.T4),,George STEAL (1 STL),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,83,8,0,1,9:57 PM,4:41,SUB: Beasley FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,85,2,79,1,9:57 PM,4:37,,,MISS Jackson 17' Pullup Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,86,4,0,1,9:57 PM,4:35,Beasley REBOUND (Off:0 Def:1),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,87,2,58,1,9:57 PM,4:24,MISS Towns 6' Turnaround Hook Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,88,4,0,1,9:57 PM,4:23,Vanderbilt REBOUND (Off:1 Def:1),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,89,2,97,1,9:57 PM,4:22,MISS Vanderbilt Tip Layup Shot,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,90,4,0,1,9:57 PM,4:21,Beverley REBOUND (Off:1 Def:1),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,91,6,26,1,9:57 PM,4:20,Beverley Offensive Charge Foul (P2) (E.Malloy),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,93,5,37,1,9:57 PM,4:20,Beverley Offensive Foul Turnover (P1.T5),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0052100121,94,8,0,1,9:57 PM,4:20,,,SUB: Powell FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,96,2,6,1,9:58 PM,4:09,,,MISS Jackson 1' Driving Layup,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,97,4,0,1,9:58 PM,4:09,,,Zubac REBOUND (Off:1 Def:2),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,98,6,1,1,9:58 PM,4:09,Towns P.FOUL (P1.T4) (E.Malloy),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,100,7,1,1,9:58 PM,4:09,,,Clippers Violation: Delay of game Violation,,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,101,1,79,1,9:59 PM,4:02,,,Morris Sr. 15' Pullup Jump Shot (7 PTS),16 - 11,-5,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,103,6,1,1,9:59 PM,3:53,,,Morris Sr. P.FOUL (P2.T2) (S.Foster),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,105,8,0,1,10:00 PM,3:53,SUB: McDaniels FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,106,8,0,1,10:00 PM,3:53,,,SUB: Covington FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,109,6,11,1,10:00 PM,3:53,,,Morris Sr. T.FOUL (P2.T2) (S.Foster),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+0052100121,110,3,16,1,10:00 PM,3:53,MISS Beasley Free Throw Technical,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,111,4,1,1,10:00 PM,3:53,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,112,5,2,1,10:01 PM,3:46,Beverley Lost Ball Turnover (P2.T6),,George STEAL (2 STL),,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,114,5,8,1,10:01 PM,3:38,,,Zubac 3 Second Violation Turnover (P2.T5),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,115,2,3,1,10:01 PM,3:20,MISS Towns 9' Hook Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,116,4,0,1,10:01 PM,3:19,McDaniels REBOUND (Off:1 Def:0),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,117,2,1,1,10:01 PM,3:17,MISS Beasley 26' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,118,4,0,1,10:01 PM,3:17,,,George REBOUND (Off:0 Def:3),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,119,6,1,1,10:02 PM,3:13,McDaniels P.FOUL (P1.PN) (T.Washington),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,121,3,11,1,10:02 PM,3:13,,,MISS George Free Throw 1 of 2,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,122,4,1,1,10:02 PM,3:13,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,123,3,12,1,10:02 PM,3:13,,,George Free Throw 2 of 2 (6 PTS),17 - 11,-6,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,124,6,1,1,10:03 PM,3:03,,,Powell P.FOUL (P1.T3) (E.Malloy),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,126,1,101,1,10:03 PM,2:53,Beasley 6' Driving Floating Jump Shot (2 PTS) (Edwards 1 AST),,,17 - 13,-4,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,128,6,2,1,10:04 PM,2:32,Beverley S.FOUL (P3.PN) (S.Foster),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,130,9,1,1,10:04 PM,2:32,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,131,8,0,1,10:06 PM,2:32,SUB: Russell FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,132,8,0,1,10:06 PM,2:32,SUB: Nowell FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,133,8,0,1,10:06 PM,2:32,,,SUB: Hartenstein FOR Jackson,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,134,8,0,1,10:06 PM,2:32,,,SUB: Mann FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,139,3,11,1,10:07 PM,2:32,,,Powell Free Throw 1 of 2 (1 PTS),18 - 13,-5,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,140,3,12,1,10:08 PM,2:32,,,Powell Free Throw 2 of 2 (2 PTS),19 - 13,-6,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,141,6,1,1,10:08 PM,2:25,,,Powell P.FOUL (P2.T4) (E.Malloy),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,143,2,101,1,10:08 PM,2:20,MISS Towns 9' Driving Floating Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,144,4,0,1,10:08 PM,2:18,,,Hartenstein REBOUND (Off:0 Def:1),,,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,145,5,40,1,10:08 PM,2:12,,,Powell Out of Bounds Lost Ball Turnover (P1.T6),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,146,1,73,1,10:09 PM,2:05,Nowell 2' Driving Reverse Layup (2 PTS) (Russell 3 AST),,,19 - 15,-4,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,148,1,1,1,10:09 PM,1:49,,,Powell 3PT Jump Shot (5 PTS) (Mann 1 AST),22 - 15,-7,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,152,6,4,1,10:09 PM,1:33,Towns OFF.Foul (P2) (S.Foster),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,154,5,37,1,10:09 PM,1:33,Towns Offensive Foul Turnover (P2.T7),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0052100121,155,8,0,1,10:09 PM,1:33,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,157,8,0,1,10:10 PM,1:33,,,SUB: Jackson FOR George,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,159,2,79,1,10:10 PM,1:18,,,MISS Covington 14' Pullup Jump Shot,,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,160,4,0,1,10:10 PM,1:15,Russell REBOUND (Off:0 Def:2),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,161,5,39,1,10:10 PM,1:08,Beasley Step Out of Bounds Turnover (P1.T8),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0052100121,162,2,6,1,10:11 PM,0:57,,,MISS Hartenstein 1' Driving Layup,,,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,163,4,0,1,10:11 PM,0:56,Russell REBOUND (Off:0 Def:3),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,164,1,98,1,10:11 PM,0:52,Reid 2' Cutting Layup Shot (2 PTS) (McDaniels 1 AST),,,22 - 17,-5,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,166,1,6,1,10:11 PM,0:41,,,Powell 2' Driving Layup (7 PTS) (Jackson 2 AST),24 - 17,-7,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,168,2,79,1,10:11 PM,0:28,MISS Nowell 14' Pullup Jump Shot,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,169,4,0,1,10:11 PM,0:26,,,Hartenstein REBOUND (Off:0 Def:2),,,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,170,1,102,1,10:12 PM,0:07,,,Jackson 1' Driving Floating Bank Jump Shot (6 PTS),26 - 17,-9,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,171,1,1,1,10:12 PM,0:01,McDaniels 26' 3PT Jump Shot (3 PTS) (Russell 4 AST),,,26 - 20,-6,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,173,18,0,1,10:12 PM,0:00,,Instant Replay1st Period (10:12 PM EST),,26 - 20,-6,0,171,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,174,13,0,1,10:12 PM,0:00,,End of 1st Period (10:12 PM EST),,26 - 20,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0052100121,175,12,0,2,10:15 PM,12:00,,Start of 2nd Period (10:15 PM EST),,26 - 20,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,176,1,80,2,10:16 PM,11:43,Russell 25' 3PT Step Back Jump Shot (4 PTS),,,26 - 23,-3,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,177,6,1,2,10:16 PM,11:24,McDaniels P.FOUL (P2.T1) (S.Foster),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,179,1,1,2,10:16 PM,11:12,,,Jackson 25' 3PT Jump Shot (9 PTS) (Mann 2 AST),29 - 23,-6,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,181,6,2,2,10:17 PM,10:51,,,Hartenstein S.FOUL (P1.T1) (S.Foster),,,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,183,3,11,2,10:17 PM,10:51,MISS Nowell Free Throw 1 of 2,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,184,4,1,2,10:17 PM,10:51,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,185,3,12,2,10:18 PM,10:51,Nowell Free Throw 2 of 2 (3 PTS),,,29 - 24,-5,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,186,1,79,2,10:18 PM,10:42,,,Powell 25' 3PT Pullup Jump Shot (10 PTS) (Hartenstein 1 AST),32 - 24,-8,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,188,1,79,2,10:18 PM,10:28,McDaniels 13' Pullup Jump Shot (5 PTS) (Russell 5 AST),,,32 - 26,-6,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,190,5,1,2,10:18 PM,10:18,Nowell STEAL (1 STL),,Jackson Bad Pass Turnover (P1.T7),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,192,5,2,2,10:18 PM,10:06,Nowell Lost Ball Turnover (P1.T9),,Powell STEAL (1 STL),,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,194,6,2,2,10:19 PM,10:03,Russell S.FOUL (P2.T2) (S.Foster),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,196,3,11,2,10:19 PM,10:03,,,Covington Free Throw 1 of 2 (1 PTS),33 - 26,-7,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,197,8,0,2,10:19 PM,10:03,SUB: Edwards FOR Beasley,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,199,3,12,2,10:20 PM,10:03,,,Covington Free Throw 2 of 2 (2 PTS),34 - 26,-8,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,200,1,101,2,10:20 PM,9:42,Russell 7' Driving Floating Jump Shot (6 PTS) (Nowell 1 AST),,,34 - 28,-6,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,202,5,1,2,10:20 PM,9:28,McDaniels STEAL (1 STL),,Hartenstein Bad Pass Turnover (P1.T8),,,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,204,6,28,2,10:20 PM,9:27,,,Jackson Personal Take Foul (P1.T2) (T.Washington),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,206,18,3,2,10:21 PM,9:27,,Instant Replay2nd Period (10:21 PM EST),,34 - 28,-6,0,204,Jeff Hornacek,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,207,8,0,2,10:22 PM,9:27,,,SUB: George FOR Mann,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,209,2,79,2,10:23 PM,9:22,MISS McDaniels 21' Pullup Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,210,4,0,2,10:23 PM,9:20,,,Covington REBOUND (Off:0 Def:1),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,211,6,2,2,10:23 PM,9:08,Nowell S.FOUL (P1.T3) (T.Washington),,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,213,3,11,2,10:24 PM,9:08,,,MISS Powell Free Throw 1 of 2,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,214,4,1,2,10:24 PM,9:08,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,215,3,12,2,10:24 PM,9:08,,,Powell Free Throw 2 of 2 (11 PTS),35 - 28,-7,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,216,2,98,2,10:24 PM,8:58,MISS Reid 2' Cutting Layup Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,217,4,0,2,10:24 PM,8:56,,,Covington REBOUND (Off:0 Def:2),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,218,2,79,2,10:24 PM,8:49,,,MISS George 18' Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,219,4,0,2,10:24 PM,8:45,Reid REBOUND (Off:0 Def:1),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,220,1,79,2,10:24 PM,8:32,Edwards 26' 3PT Pullup Jump Shot (10 PTS),,,35 - 31,-4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,221,1,1,2,10:25 PM,8:20,,,Covington 24' 3PT Jump Shot (5 PTS) (George 2 AST),38 - 31,-7,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,223,1,79,2,10:25 PM,8:04,Edwards 25' 3PT Pullup Jump Shot (13 PTS),,,38 - 34,-4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,224,2,102,2,10:25 PM,7:38,,,MISS George 4' Driving Floating Bank Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,225,4,0,2,10:25 PM,7:37,Edwards REBOUND (Off:0 Def:3),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,226,2,41,2,10:25 PM,7:32,MISS Edwards 2' Running Layup,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,227,4,0,2,10:25 PM,7:32,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,229,8,0,2,10:26 PM,7:32,SUB: Vanderbilt FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,230,8,0,2,10:26 PM,7:32,SUB: Beverley FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,231,8,0,2,10:26 PM,7:32,SUB: Towns FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,232,8,0,2,10:26 PM,7:32,,,SUB: Zubac FOR Hartenstein,,,5,1628392,Isaiah Hartenstein,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,237,1,1,2,10:26 PM,7:21,,,Powell 3PT Jump Shot (14 PTS) (Zubac 1 AST),41 - 34,-7,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,239,2,1,2,10:26 PM,7:06,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,240,4,0,2,10:26 PM,7:04,,,Jackson REBOUND (Off:0 Def:1),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,241,2,1,2,10:27 PM,6:55,,,MISS Covington 24' 3PT Jump Shot,,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,242,4,0,2,10:27 PM,6:51,Beverley REBOUND (Off:1 Def:2),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,243,1,6,2,10:27 PM,6:42,Edwards 3' Driving Layup (15 PTS) (Nowell 2 AST),,,41 - 36,-5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,244,2,79,2,10:27 PM,6:21,,,MISS Jackson 20' Pullup Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,245,4,0,2,10:27 PM,6:19,Vanderbilt REBOUND (Off:1 Def:2),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,246,2,79,2,10:27 PM,6:10,MISS Edwards 25' 3PT Pullup Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,247,4,0,2,10:27 PM,6:07,,,Zubac REBOUND (Off:1 Def:3),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,248,6,28,2,10:27 PM,6:05,Edwards Personal Take Foul (P1.T4) (T.Washington),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,250,9,1,2,10:28 PM,6:05,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,252,8,0,2,10:30 PM,6:05,SUB: Beasley FOR Nowell,,,,,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,253,8,0,2,10:30 PM,6:05,,,SUB: Morris Sr. FOR Covington,,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,256,2,1,2,10:31 PM,5:53,,,MISS Morris Sr. 25' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,257,4,0,2,10:31 PM,5:51,Vanderbilt REBOUND (Off:1 Def:3),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,259,8,0,2,10:32 PM,5:36,,,SUB: Batum FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,261,2,47,2,10:32 PM,5:32,MISS Beasley 27' 3PT Turnaround Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,262,4,0,2,10:32 PM,5:31,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,264,2,58,2,10:33 PM,5:13,,,MISS Morris Sr. 3' Turnaround Hook Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,265,4,0,2,10:33 PM,5:11,Edwards REBOUND (Off:0 Def:4),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,266,2,1,2,10:33 PM,5:03,MISS Towns 25' 3PT Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,267,4,0,2,10:33 PM,5:00,,,George REBOUND (Off:0 Def:4),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,268,6,2,2,10:33 PM,4:51,Towns S.FOUL (P3.PN) (E.Malloy),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,270,3,11,2,10:34 PM,4:51,,,George Free Throw 1 of 2 (7 PTS),42 - 36,-6,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,271,3,12,2,10:34 PM,4:51,,,George Free Throw 2 of 2 (8 PTS),43 - 36,-7,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+0052100121,272,2,1,2,10:34 PM,4:34,MISS Beasley 24' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,273,4,0,2,10:34 PM,4:30,,,Jackson REBOUND (Off:0 Def:2),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,274,6,2,2,10:35 PM,4:20,Edwards S.FOUL (P2.PN) (T.Washington),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,276,3,11,2,10:35 PM,4:20,,,MISS Batum Free Throw 1 of 2,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,277,4,1,2,10:35 PM,4:20,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,278,3,12,2,10:35 PM,4:20,,,Batum Free Throw 2 of 2 (1 PTS),44 - 36,-8,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,279,6,2,2,10:36 PM,4:02,,,Batum S.FOUL (P1.T3) (T.Washington),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,281,3,11,2,10:36 PM,4:02,Towns Free Throw 1 of 2 (1 PTS),,,44 - 37,-7,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,282,3,12,2,10:37 PM,4:02,Towns Free Throw 2 of 2 (2 PTS),,,44 - 38,-6,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,283,2,73,2,10:37 PM,3:48,,,MISS George 1' Driving Reverse Layup,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,284,4,0,2,10:37 PM,3:48,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,285,6,3,2,10:37 PM,3:48,Towns L.B.FOUL (P4.PN) (T.Washington),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,287,3,11,2,10:38 PM,3:48,,,Zubac Free Throw 1 of 2 (1 PTS),45 - 38,-7,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,288,8,0,2,10:38 PM,3:48,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,290,3,12,2,10:38 PM,3:48,,,MISS Zubac Free Throw 2 of 2,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,291,4,0,2,10:38 PM,3:46,Beasley REBOUND (Off:0 Def:2),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,292,6,2,2,10:38 PM,3:34,,,Zubac S.FOUL (P1.T4) (E.Malloy),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,294,3,11,2,10:39 PM,3:34,MISS Vanderbilt Free Throw 1 of 2,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,295,4,1,2,10:39 PM,3:34,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,297,3,12,2,10:41 PM,3:34,Vanderbilt Free Throw 2 of 2 (1 PTS),,,45 - 39,-6,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,298,2,101,2,10:41 PM,3:24,,,MISS George 11' Driving Floating Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,299,4,0,2,10:41 PM,3:21,Vanderbilt REBOUND (Off:1 Def:4),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,300,1,41,2,10:41 PM,3:14,Beverley 4' Running Layup (5 PTS),,,45 - 41,-4,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,302,2,79,2,10:42 PM,2:50,,,MISS Morris Sr. 17' Pullup Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,303,4,0,2,10:42 PM,2:47,Vanderbilt REBOUND (Off:1 Def:5),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,304,1,1,2,10:42 PM,2:39,Beasley 24' 3PT Jump Shot (5 PTS) (Beverley 1 AST),,,45 - 44,-1,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,306,9,1,2,10:42 PM,2:37,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,307,8,0,2,10:45 PM,2:37,,,SUB: Powell FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,309,6,1,2,10:46 PM,2:23,Edwards P.FOUL (P3.PN) (E.Malloy),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,311,3,11,2,10:47 PM,2:23,,,George Free Throw 1 of 2 (9 PTS),46 - 44,-2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,312,8,0,2,10:47 PM,2:23,SUB: Russell FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,313,8,0,2,10:47 PM,2:23,,,SUB: Covington FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,316,3,12,2,10:47 PM,2:23,,,MISS George Free Throw 2 of 2,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,317,4,0,2,10:47 PM,2:21,Reid REBOUND (Off:0 Def:2),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,318,2,101,2,10:47 PM,2:09,MISS Beverley 6' Driving Floating Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,319,4,0,2,10:47 PM,2:07,,,Zubac REBOUND (Off:1 Def:4),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,320,6,4,2,10:48 PM,1:59,,,Jackson OFF.Foul (P2) (E.Malloy),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,322,5,37,2,10:48 PM,1:59,,,Jackson Offensive Foul Turnover (P2.T9),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,323,6,1,2,10:48 PM,1:45,,,Jackson P.FOUL (P3.PN) (S.Foster),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,325,3,11,2,10:49 PM,1:45,MISS Russell Free Throw 1 of 2,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,326,4,1,2,10:49 PM,1:45,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,327,8,0,2,10:49 PM,1:45,SUB: McDaniels FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,328,8,0,2,10:49 PM,1:45,,,SUB: Mann FOR Jackson,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,331,3,12,2,10:49 PM,1:45,Russell Free Throw 2 of 2 (7 PTS),,,46 - 45,-1,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,332,2,80,2,10:49 PM,1:27,,,MISS George 25' 3PT Step Back Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,333,4,0,2,10:49 PM,1:24,Vanderbilt REBOUND (Off:1 Def:6),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,334,1,78,2,10:50 PM,1:14,Russell 11' Floating Jump Shot (9 PTS),,,46 - 47,1,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,335,6,2,2,10:50 PM,1:14,,,Covington S.FOUL (P1.PN) (E.Malloy),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,337,3,10,2,10:50 PM,1:14,Russell Free Throw 1 of 1 (10 PTS),,,46 - 48,2,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,338,2,6,2,10:50 PM,0:58,Beasley BLOCK (1 BLK),,MISS Powell 5' Driving Layup,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,1
+0052100121,340,4,0,2,10:50 PM,0:58,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,342,6,1,2,10:51 PM,0:53,Beasley P.FOUL (P1.PN) (S.Foster),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,344,3,11,2,10:52 PM,0:53,,,Covington Free Throw 1 of 2 (6 PTS),47 - 48,1,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,345,8,0,2,10:52 PM,0:53,,,SUB: Batum FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,347,3,12,2,10:52 PM,0:53,,,Covington Free Throw 2 of 2 (7 PTS),48 - 48,TIE,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,348,1,63,2,10:52 PM,0:38,Russell 15' Fadeaway Jumper (12 PTS),,,48 - 50,2,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,349,2,79,2,10:53 PM,0:33,,,MISS George 26' 3PT Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,350,4,0,2,10:53 PM,0:31,Vanderbilt REBOUND (Off:1 Def:7),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,351,1,79,2,10:53 PM,0:13,Russell 25' 3PT Pullup Jump Shot (15 PTS),,,48 - 53,5,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,352,1,1,2,10:54 PM,0:02,,,Batum 26' 3PT Jump Shot (4 PTS) (George 3 AST),51 - 53,2,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,354,2,1,2,10:54 PM,0:00,MISS Reid 63' 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,355,4,0,2,10:54 PM,0:00,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,356,13,0,2,10:54 PM,0:00,,End of 2nd Period (10:54 PM EST),,51 - 53,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0052100121,367,12,0,3,11:10 PM,12:00,,Start of 3rd Period (11:10 PM EST),,51 - 53,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,368,6,2,3,11:10 PM,11:45,,,George S.FOUL (P2.T1) (T.Washington),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,370,3,11,3,11:11 PM,11:45,Russell Free Throw 1 of 2 (16 PTS),,,51 - 54,3,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,371,3,12,3,11:11 PM,11:45,MISS Russell Free Throw 2 of 2,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,372,4,0,3,11:11 PM,11:43,,,Batum REBOUND (Off:0 Def:2),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,373,2,47,3,11:12 PM,11:28,,,MISS George 14' Turnaround Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,374,4,0,3,11:12 PM,11:26,Beverley REBOUND (Off:1 Def:3),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,375,6,1,3,11:12 PM,11:26,,,Zubac P.FOUL (P2.T2) (T.Washington),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,377,2,1,3,11:12 PM,11:16,MISS Beverley 25' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,378,4,0,3,11:12 PM,11:14,,,Jackson REBOUND (Off:0 Def:3),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,381,18,3,3,11:14 PM,11:07,,Instant Replay3rd Period (11:14 PM EST),,51 - 54,3,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,383,6,11,3,11:15 PM,11:07,Beverley T.FOUL (P3.T0) (S.Foster),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0052100121,384,3,16,3,11:15 PM,11:07,,,George Free Throw Technical (10 PTS),52 - 54,2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,385,10,0,3,11:16 PM,11:06, ,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,3,1610612746,,,,,,1
+0052100121,389,2,1,3,11:16 PM,10:58,,,MISS George 26' 3PT Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,390,4,0,3,11:16 PM,10:55,,,Zubac REBOUND (Off:2 Def:4),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,391,2,1,3,11:16 PM,10:47,,,MISS Morris Sr. 25' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,392,4,0,3,11:16 PM,10:44,Vanderbilt REBOUND (Off:1 Def:8),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,393,2,6,3,11:16 PM,10:37,MISS Russell 2' Driving Layup,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,394,4,0,3,11:16 PM,10:35,,,George REBOUND (Off:0 Def:5),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,395,2,1,3,11:16 PM,10:31,,,MISS Jackson 3PT Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,396,4,0,3,11:17 PM,10:28,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,398,5,1,3,11:17 PM,10:25,Towns STEAL (2 STL),,Batum Bad Pass Turnover (P1.T10),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,400,5,2,3,11:17 PM,10:15,Towns Lost Ball Turnover (P3.T10),,George STEAL (3 STL),,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,402,1,3,3,11:17 PM,10:01,,,Zubac 7' Hook Shot (3 PTS) (George 4 AST),54 - 54,TIE,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,431,18,1,3,11:18 PM,9:31,,Instant Replay3rd Period (11:18 PM EST),,54 - 54,TIE,0,404,Kevin Duckworth,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,433,5,11,3,11:18 PM,9:31,TIMBERWOLVES Turnover: Shot Clock (T#11),,,,,2,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,406,1,102,3,11:18 PM,9:17,,,George 2' Driving Floating Bank Jump Shot (12 PTS),56 - 54,-2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,407,1,79,3,11:18 PM,8:57,Russell 15' Pullup Jump Shot (18 PTS) (Vanderbilt 1 AST),,,56 - 56,TIE,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,409,2,101,3,11:19 PM,8:29,,,MISS Jackson 8' Driving Floating Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,410,4,0,3,11:19 PM,8:27,Beverley REBOUND (Off:1 Def:4),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,411,2,1,3,11:19 PM,8:18,MISS Edwards 26' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,412,4,0,3,11:19 PM,8:15,Towns REBOUND (Off:1 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,413,6,2,3,11:19 PM,8:15,,,Zubac S.FOUL (P3.T3) (E.Malloy),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,415,3,11,3,11:20 PM,8:15,Towns Free Throw 1 of 2 (3 PTS),,,56 - 57,1,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,416,3,12,3,11:20 PM,8:15,Towns Free Throw 2 of 2 (4 PTS),,,56 - 58,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,417,1,3,3,11:20 PM,7:57,,,Zubac 5' Hook Shot (5 PTS),58 - 58,TIE,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,418,2,80,3,11:21 PM,7:46,MISS Russell 17' Step Back Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,419,4,0,3,11:21 PM,7:44,,,Batum REBOUND (Off:0 Def:3),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,420,2,79,3,11:21 PM,7:37,,,MISS George 25' 3PT Pullup Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,421,4,0,3,11:21 PM,7:34,Edwards REBOUND (Off:0 Def:5),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,422,2,9,3,11:21 PM,7:22,MISS Edwards 2' Driving Dunk,,Zubac BLOCK (2 BLK),,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1
+0052100121,423,4,0,3,11:21 PM,7:20,,,Jackson REBOUND (Off:0 Def:4),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,424,2,41,3,11:21 PM,7:18,Beverley BLOCK (1 BLK),,MISS Batum 4' Running Layup,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1
+0052100121,426,4,0,3,11:21 PM,7:18,Beverley REBOUND (Off:1 Def:5),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,427,2,1,3,11:21 PM,7:09,MISS Edwards 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,428,4,0,3,11:21 PM,7:08,Towns REBOUND (Off:2 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,429,1,72,3,11:21 PM,7:06,Towns 1' Putback Layup (6 PTS),,,58 - 60,2,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,430,9,1,3,11:21 PM,7:05,,,Clippers Timeout: Regular (Reg.3 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,434,1,1,3,11:25 PM,6:50,,,Morris Sr. 22' Jump Shot (9 PTS),60 - 60,TIE,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,436,2,1,3,11:26 PM,6:25,MISS Beverley 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,437,4,0,3,11:26 PM,6:22,Towns REBOUND (Off:3 Def:1),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,438,1,1,3,11:26 PM,6:21,Edwards 3PT Jump Shot (18 PTS) (Towns 2 AST),,,60 - 63,3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,440,1,79,3,11:26 PM,5:57,,,Jackson 27' 3PT Pullup Jump Shot (12 PTS),63 - 63,TIE,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,441,1,108,3,11:27 PM,5:36,Vanderbilt 1' Cutting Dunk Shot (3 PTS) (Towns 3 AST),,,63 - 65,2,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,443,1,1,3,11:27 PM,5:18,,,George 27' 3PT Jump Shot (15 PTS) (Batum 2 AST),66 - 65,-1,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,445,6,2,3,11:27 PM,4:56,,,Zubac S.FOUL (P4.T4) (S.Foster),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,447,3,11,3,11:28 PM,4:56,Edwards Free Throw 1 of 2 (19 PTS),,,66 - 66,TIE,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,448,8,0,3,11:28 PM,4:56,SUB: McDaniels FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,449,8,0,3,11:28 PM,4:56,SUB: Beasley FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,450,8,0,3,11:28 PM,4:56,,,SUB: Powell FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,454,3,12,3,11:28 PM,4:56,Edwards Free Throw 2 of 2 (20 PTS),,,66 - 67,1,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,455,1,1,3,11:29 PM,4:45,,,George 26' 3PT Jump Shot (18 PTS) (Jackson 3 AST),69 - 67,-2,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,457,1,5,3,11:29 PM,4:20,Towns 1' Layup (8 PTS) (Beverley 2 AST),,,69 - 69,TIE,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,459,1,79,3,11:29 PM,4:01,,,Jackson 17' Pullup Jump Shot (14 PTS),71 - 69,-2,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,460,6,26,3,11:30 PM,3:47,Towns Offensive Charge Foul (P5) (S.Foster),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,462,5,37,3,11:30 PM,3:47,Towns Offensive Foul Turnover (P4.T12),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0052100121,463,8,0,3,11:30 PM,3:47,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,465,6,2,3,11:30 PM,3:39,McDaniels S.FOUL (P3.T1) (E.Malloy),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,467,3,11,3,11:31 PM,3:39,,,MISS George Free Throw 1 of 2,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,468,4,1,3,11:31 PM,3:39,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,469,3,12,3,11:32 PM,3:39,,,George Free Throw 2 of 2 (19 PTS),72 - 69,-3,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,470,6,2,3,11:32 PM,3:31,,,Jackson S.FOUL (P4.PN) (E.Malloy),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,472,3,11,3,11:32 PM,3:31,MISS Beverley Free Throw 1 of 2,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,473,4,1,3,11:32 PM,3:31,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,474,8,0,3,11:32 PM,3:31,,,SUB: Covington FOR Jackson,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,476,3,12,3,11:33 PM,3:31,Beverley Free Throw 2 of 2 (6 PTS),,,72 - 70,-2,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,477,1,6,3,11:33 PM,3:18,,,George 2' Driving Layup (21 PTS),74 - 70,-4,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,478,9,1,3,11:33 PM,3:14,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,479,8,0,3,11:36 PM,3:14,SUB: Russell FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,480,8,0,3,11:36 PM,3:14,SUB: Vanderbilt FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,483,1,75,3,11:37 PM,2:59,Russell 2' Driving Finger Roll Layup (20 PTS),,,74 - 72,-2,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,484,2,101,3,11:37 PM,2:42,,,MISS Powell 7' Driving Floating Jump Shot,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,485,4,0,3,11:37 PM,2:39,,,Covington REBOUND (Off:1 Def:2),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,486,2,97,3,11:37 PM,2:39,,,MISS Covington Tip Layup Shot,,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,487,4,0,3,11:37 PM,2:38,Beasley REBOUND (Off:0 Def:3),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,488,6,2,3,11:38 PM,2:32,,,Morris Sr. S.FOUL (P3.PN) (S.Foster),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,490,3,11,3,11:38 PM,2:32,MISS Reid Free Throw 1 of 2,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,491,4,1,3,11:38 PM,2:32,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,492,3,12,3,11:38 PM,2:32,Reid Free Throw 2 of 2 (3 PTS),,,74 - 73,-1,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,493,1,80,3,11:39 PM,2:20,,,George 25' 3PT Step Back Jump Shot (24 PTS),77 - 73,-4,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,494,2,63,3,11:39 PM,2:04,MISS Edwards 13' Fadeaway Jumper,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,495,4,0,3,11:39 PM,2:00,Reid REBOUND (Off:1 Def:2),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,496,2,72,3,11:39 PM,2:00,MISS Reid 2' Putback Layup,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,497,4,0,3,11:39 PM,1:58,,,Powell REBOUND (Off:0 Def:1),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,498,1,79,3,11:39 PM,1:42,,,Morris Sr. 13' Pullup Jump Shot (11 PTS),79 - 73,-6,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,499,6,2,3,11:39 PM,1:42,Russell S.FOUL (P3.T2) (E.Malloy),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,501,8,0,3,11:39 PM,1:42,SUB: McDaniels FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,503,3,10,3,11:40 PM,1:42,,,Morris Sr. Free Throw 1 of 1 (12 PTS),80 - 73,-7,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,504,6,2,3,11:40 PM,1:31,,,Powell S.FOUL (P3.PN) (T.Washington),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,506,3,11,3,11:40 PM,1:31,Russell Free Throw 1 of 2 (21 PTS),,,80 - 74,-6,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,507,3,12,3,11:41 PM,1:31,Russell Free Throw 2 of 2 (22 PTS),,,80 - 75,-5,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,508,1,73,3,11:41 PM,1:12,,,Powell 2' Driving Reverse Layup (16 PTS) (Morris Sr. 1 AST),82 - 75,-7,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,510,2,79,3,11:41 PM,0:55,MISS Russell 14' Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,511,4,0,3,11:41 PM,0:52,,,Batum REBOUND (Off:0 Def:4),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,512,2,1,3,11:42 PM,0:37,,,MISS Powell 25' 3PT Jump Shot,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,513,4,0,3,11:42 PM,0:33,,,Covington REBOUND (Off:2 Def:2),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,514,6,4,3,11:42 PM,0:30,,,George OFF.Foul (P3) (S.Foster),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,516,5,37,3,11:42 PM,0:30,,,George Offensive Foul Turnover (P3.T11),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,517,8,0,3,11:42 PM,0:30,SUB: Reid FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,518,8,0,3,11:42 PM,0:30,,,SUB: Mann FOR George,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,521,6,2,3,11:43 PM,0:15,,,Batum S.FOUL (P2.PN) (S.Foster),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,523,3,11,3,11:43 PM,0:15,MISS Reid Free Throw 1 of 2,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,524,4,1,3,11:43 PM,0:15,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,531,3,12,3,11:43 PM,0:15,MISS Reid Free Throw 2 of 2,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,525,8,0,3,11:43 PM,0:15,SUB: Vanderbilt FOR Edwards,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,526,8,0,3,11:43 PM,0:15,,,SUB: George FOR Mann,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,529,8,0,3,11:43 PM,0:15,SUB: Okogie FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629006,Josh Okogie,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,532,4,0,3,11:43 PM,0:13,,,Powell REBOUND (Off:0 Def:2),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,533,6,1,3,11:44 PM,0:06,Okogie P.FOUL (P1.PN) (T.Washington),,,,,4,1629006,Josh Okogie,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,536,8,0,3,11:44 PM,0:06,SUB: Russell FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,537,8,0,3,11:44 PM,0:06,SUB: Nowell FOR Okogie,,,,,4,1629006,Josh Okogie,1610612750.0,Minnesota,Timberwolves,MIN,4,1629669,Jaylen Nowell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,538,8,0,3,11:44 PM,0:06,,,SUB: Mann FOR Morris Sr.,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,539,8,0,3,11:44 PM,0:06,,,SUB: Coffey FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,1629599,Amir Coffey,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,535,3,11,3,11:45 PM,0:06,,,George Free Throw 1 of 2 (25 PTS),83 - 75,-8,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,544,3,12,3,11:45 PM,0:06,,,George Free Throw 2 of 2 (26 PTS),84 - 75,-9,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,545,1,1,3,11:45 PM,0:00,Beasley 3PT Jump Shot (8 PTS) (Reid 1 AST),,,84 - 78,-6,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,547,18,0,3,11:45 PM,0:00,,Instant Replay3rd Period (11:45 PM EST),,84 - 78,-6,0,545,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,548,13,0,3,11:46 PM,0:00,,End of 3rd Period (11:46 PM EST),,84 - 78,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0052100121,557,12,0,4,11:49 PM,12:00,,Start of 4th Period (11:49 PM EST),,84 - 78,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,558,2,1,4,11:49 PM,11:48,,,MISS Powell 25' 3PT Jump Shot,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,559,4,0,4,11:49 PM,11:46,Beasley REBOUND (Off:0 Def:4),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,560,1,101,4,11:49 PM,11:34,Russell 5' Driving Floating Jump Shot (24 PTS),,,84 - 80,-4,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,561,5,2,4,11:50 PM,11:12,Russell STEAL (2 STL),,Covington Lost Ball Turnover (P1.T12),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,563,2,2,4,11:50 PM,11:07,MISS McDaniels 3' Running Jump Shot,,Mann BLOCK (1 BLK),,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0052100121,565,4,0,4,11:50 PM,11:05,,,Mann REBOUND (Off:0 Def:1),,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,566,1,41,4,11:50 PM,11:01,,,Covington 2' Running Layup (9 PTS) (Powell 1 AST),86 - 80,-6,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,568,2,108,4,11:50 PM,10:43,MISS McDaniels 1' Cutting Dunk Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,569,4,0,4,11:50 PM,10:43,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,571,1,1,4,11:51 PM,10:41,Reid 25' 3PT Jump Shot (6 PTS) (Beverley 3 AST),,,86 - 83,-3,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,573,2,1,4,11:51 PM,10:21,,,MISS Covington 26' 3PT Jump Shot,,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,574,4,0,4,11:51 PM,10:18,Beasley REBOUND (Off:0 Def:5),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,575,2,57,4,11:51 PM,10:09,MISS Beverley 8' Driving Hook Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,576,4,0,4,11:51 PM,10:07,Beverley REBOUND (Off:2 Def:5),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,577,2,1,4,11:51 PM,10:05,MISS McDaniels 3PT Jump Shot,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,578,4,0,4,11:51 PM,10:05,,,Covington REBOUND (Off:2 Def:3),,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,579,6,2,4,11:52 PM,9:46,McDaniels S.FOUL (P4.T1) (S.Foster),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,581,3,11,4,11:52 PM,9:46,,,Zubac Free Throw 1 of 2 (6 PTS),87 - 83,-4,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,582,3,12,4,11:52 PM,9:46,,,Zubac Free Throw 2 of 2 (7 PTS),88 - 83,-5,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,583,2,6,4,11:53 PM,9:34,MISS Russell 2' Driving Layup,,Mann BLOCK (2 BLK),,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,1
+0052100121,585,4,0,4,11:53 PM,9:31,,,Jackson REBOUND (Off:0 Def:5),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,586,1,9,4,11:53 PM,9:28,,,Mann 1' Driving Dunk (2 PTS) (Jackson 4 AST),90 - 83,-7,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,588,9,1,4,11:53 PM,9:27,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,589,8,0,4,11:56 PM,9:27,SUB: Towns FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,590,8,0,4,11:56 PM,9:27,,,SUB: George FOR Covington,,,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,593,2,1,4,11:57 PM,9:11,MISS Towns 18' Jump Shot,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,594,4,0,4,11:57 PM,9:09,,,Zubac REBOUND (Off:2 Def:5),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,595,2,101,4,11:57 PM,9:01,,,MISS Jackson 10' Driving Floating Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,596,4,0,4,11:57 PM,8:58,,,Jackson REBOUND (Off:1 Def:5),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,597,1,1,4,11:57 PM,8:54,,,Jackson 3PT Jump Shot (17 PTS) (Mann 3 AST),93 - 83,-10,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,599,1,71,4,11:57 PM,8:40,Towns 2' Finger Roll Layup (10 PTS),,,93 - 85,-8,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,601,2,1,4,11:57 PM,8:24,,,MISS George 25' 3PT Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,602,4,0,4,11:57 PM,8:21,Towns REBOUND (Off:3 Def:2),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,604,8,0,4,11:58 PM,8:08,SUB: Edwards FOR Beverley,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,605,8,0,4,11:58 PM,8:08,,,SUB: Batum FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,608,6,2,4,11:58 PM,8:01,,,Powell S.FOUL (P4.T1) (E.Malloy),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,610,3,11,4,11:59 PM,8:01,Towns Free Throw 1 of 2 (11 PTS),,,93 - 86,-7,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0052100121,611,3,12,4,11:59 PM,8:01,MISS Towns Free Throw 2 of 2,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,612,4,0,4,11:59 PM,8:00,,,Jackson REBOUND (Off:1 Def:6),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,613,5,40,4,12:00 AM,7:48,,,Powell Out of Bounds Lost Ball Turnover (P2.T13),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1,0,,,,,,1
+0052100121,614,2,80,4,12:00 AM,7:36,MISS Edwards 25' 3PT Step Back Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,615,4,0,4,12:00 AM,7:34,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,616,6,3,4,12:00 AM,7:34,Towns L.B.FOUL (P6.T2) (T.Washington),,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,618,8,0,4,12:00 AM,7:34,SUB: Reid FOR Towns,,,,,4,1626157,Karl-Anthony Towns,1610612750.0,Minnesota,Timberwolves,MIN,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,620,5,1,4,12:01 AM,7:18,Edwards STEAL (1 STL),,Jackson Bad Pass Turnover (P3.T14),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,622,6,2,4,12:01 AM,7:14,,,George S.FOUL (P4.T2) (T.Washington),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,624,3,11,4,12:01 AM,7:14,McDaniels Free Throw 1 of 2 (6 PTS),,,93 - 87,-6,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,625,3,12,4,12:01 AM,7:14,MISS McDaniels Free Throw 2 of 2,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,626,4,0,4,12:01 AM,7:11,,,George REBOUND (Off:0 Def:6),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,628,2,78,4,12:02 AM,6:50,,,MISS Jackson 13' Floating Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,629,4,0,4,12:02 AM,6:48,McDaniels REBOUND (Off:1 Def:1),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,630,1,1,4,12:02 AM,6:42,Beasley 3PT Jump Shot (11 PTS) (Edwards 2 AST),,,93 - 90,-3,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,632,9,1,4,12:02 AM,6:39,,,Clippers Timeout: Regular (Reg.4 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,633,8,0,4,12:05 AM,6:39,,,SUB: Morris Sr. FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,635,1,80,4,12:06 AM,6:19,,,George 17' Step Back Jump Shot (28 PTS),95 - 90,-5,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,636,1,6,4,12:06 AM,6:04,Edwards 2' Driving Layup (22 PTS),,,95 - 92,-3,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,637,2,78,4,12:07 AM,5:35,,,MISS Jackson 7' Floating Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,638,4,0,4,12:07 AM,5:33,Russell REBOUND (Off:0 Def:4),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,639,2,101,4,12:07 AM,5:18,MISS Edwards 4' Driving Floating Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,640,4,0,4,12:07 AM,5:16,Reid REBOUND (Off:2 Def:2),,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,641,1,72,4,12:07 AM,5:16,Reid 1' Putback Layup (8 PTS),,,95 - 94,-1,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,642,6,1,4,12:07 AM,5:03,McDaniels P.FOUL (P5.T3) (E.Malloy),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,644,8,0,4,12:08 AM,5:03,SUB: Beverley FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,646,2,47,4,12:08 AM,4:55,,,MISS George 14' Turnaround Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,647,4,0,4,12:08 AM,4:51,,,Mann REBOUND (Off:1 Def:1),,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,648,2,1,4,12:08 AM,4:47,,,MISS Jackson 24' 3PT Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,649,4,0,4,12:08 AM,4:45,Beasley REBOUND (Off:0 Def:6),,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,650,1,103,4,12:08 AM,4:40,Russell 29' 3PT Running Pull-Up Jump Shot (27 PTS),,,95 - 97,2,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,651,9,1,4,12:08 AM,4:39,,,Clippers Timeout: Regular (Reg.5 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,652,8,0,4,12:10 AM,4:39,SUB: Vanderbilt FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,653,8,0,4,12:10 AM,4:39,SUB: McDaniels FOR Beasley,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,656,8,0,4,12:11 AM,4:15,SUB: Beasley FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,658,10,0,4,12:11 AM,4:12,Jump Ball McDaniels vs. Jackson: Tip to McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,1
+0052100121,661,5,2,4,12:11 AM,4:12,McDaniels STEAL (2 STL),,Jackson Lost Ball Turnover (P4.T15),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,663,1,9,4,12:11 AM,4:02,Edwards Driving Dunk (24 PTS),,,95 - 99,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,664,9,1,4,12:11 AM,4:02,,,Clippers Timeout: Regular (Reg.6 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,665,8,0,4,12:12 AM,4:02,SUB: Vanderbilt FOR Beasley,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,666,8,0,4,12:12 AM,4:02,,,SUB: Zubac FOR Mann,,,5,1629611,Terance Mann,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,667,8,0,4,12:12 AM,4:02,,,SUB: Batum FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,672,2,1,4,12:14 AM,3:47,,,MISS Morris Sr. 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,673,4,0,4,12:14 AM,3:43,Vanderbilt REBOUND (Off:1 Def:9),,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,674,9,1,4,12:14 AM,3:42,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,675,8,0,4,12:15 AM,3:42,SUB: Russell FOR McDaniels,,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,676,8,0,4,12:15 AM,3:42,SUB: Beasley FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,680,2,1,4,12:16 AM,3:27,MISS Reid 24' 3PT Jump Shot,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,681,4,0,4,12:16 AM,3:24,Beverley REBOUND (Off:3 Def:5),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,682,6,1,4,12:16 AM,3:24,,,Jackson P.FOUL (P5.T3) (T.Washington),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,684,2,1,4,12:16 AM,3:21,MISS Beasley 26' 3PT Jump Shot,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,685,4,0,4,12:17 AM,3:18,,,George REBOUND (Off:0 Def:7),,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,686,1,1,4,12:17 AM,3:09,,,Batum 3PT Jump Shot (7 PTS) (George 5 AST),98 - 99,1,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,688,1,80,4,12:17 AM,2:52,Edwards 25' 3PT Step Back Jump Shot (27 PTS) (Russell 6 AST),,,98 - 102,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,690,2,1,4,12:17 AM,2:30,,,MISS Batum 27' 3PT Jump Shot,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,691,4,0,4,12:17 AM,2:27,Beverley REBOUND (Off:3 Def:6),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,692,2,1,4,12:18 AM,2:10,MISS Beverley 24' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,693,4,0,4,12:18 AM,2:06,Russell REBOUND (Off:1 Def:4),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,694,1,80,4,12:18 AM,1:56,Russell 23' Step Back Jump Shot (29 PTS),,,98 - 104,6,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,695,2,1,4,12:18 AM,1:48,,,MISS Jackson 3PT Jump Shot,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,696,4,0,4,12:18 AM,1:44,,,Zubac REBOUND (Off:3 Def:5),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,697,5,1,4,12:18 AM,1:41,Russell STEAL (3 STL),,Zubac Bad Pass Turnover (P3.T16),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,699,2,1,4,12:18 AM,1:37,MISS Edwards 24' 3PT Jump Shot,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,700,4,0,4,12:18 AM,1:35,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,702,8,0,4,12:18 AM,1:35,,,SUB: Powell FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,704,6,4,4,12:19 AM,1:35,Edwards OFF.Foul (P4) (S.Foster),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,706,5,37,4,12:19 AM,1:35,Edwards Offensive Foul Turnover (P2.T13),,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,1
+0052100121,707,8,0,4,12:19 AM,1:35,,,SUB: Zubac FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,709,1,1,4,12:20 AM,1:24,,,George 25' 3PT Jump Shot (31 PTS) (Jackson 5 AST),101 - 104,3,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,1
+0052100121,711,2,79,4,12:20 AM,1:11,MISS Russell 15' Pullup Jump Shot,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,712,4,0,4,12:20 AM,1:07,,,Powell REBOUND (Off:0 Def:3),,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,713,6,28,4,12:20 AM,1:06,Russell Personal Take Foul (P4.T4) (S.Foster),,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,1,0,,,,,,1
+0052100121,715,8,0,4,12:20 AM,1:06,SUB: Vanderbilt FOR Beasley,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,716,8,0,4,12:20 AM,1:06,SUB: McDaniels FOR Reid,,,,,4,1629675,Naz Reid,1610612750.0,Minnesota,Timberwolves,MIN,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,719,2,6,4,12:21 AM,0:59,,,MISS Jackson 1' Driving Layup,,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,720,4,0,4,12:21 AM,0:57,McDaniels REBOUND (Off:1 Def:2),,,,,4,1630183,Jaden McDaniels,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,721,6,2,4,12:21 AM,0:38,,,Zubac S.FOUL (P5.T4) (S.Foster),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,723,3,11,4,12:22 AM,0:38,Edwards Free Throw 1 of 2 (28 PTS),,,101 - 105,4,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,724,8,0,4,12:22 AM,0:38,SUB: Beasley FOR Russell,,,,,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,726,3,12,4,12:22 AM,0:38,Edwards Free Throw 2 of 2 (29 PTS),,,101 - 106,5,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,727,9,1,4,12:22 AM,0:38,,,Clippers Timeout: Regular (Reg.7 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,728,8,0,4,12:23 AM,0:38,,,SUB: Batum FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,730,2,80,4,12:24 AM,0:35,,,MISS George 3PT Step Back Jump Shot,,,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,731,4,0,4,12:24 AM,0:32,Beverley REBOUND (Off:3 Def:7),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,732,6,28,4,12:24 AM,0:32,,,Morris Sr. Personal Take Foul (P4.PN) (E.Malloy),,,5,202694,Marcus Morris Sr.,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,734,3,11,4,12:25 AM,0:32,Beverley Free Throw 1 of 2 (7 PTS),,,101 - 107,6,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,737,3,12,4,12:25 AM,0:32,MISS Beverley Free Throw 2 of 2,,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,735,8,0,4,12:25 AM,0:32,,,SUB: Zubac FOR Batum,,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,738,4,0,4,12:25 AM,0:31,,,Zubac REBOUND (Off:3 Def:6),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,739,5,2,4,12:25 AM,0:22,Beverley STEAL (1 STL),,Jackson Lost Ball Turnover (P5.T17),,,5,202704,Reggie Jackson,1610612746.0,LA,Clippers,LAC,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1
+0052100121,741,6,28,4,12:25 AM,0:21,,,Zubac Personal Take Foul (P6.PN) (T.Washington),,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,743,8,0,4,12:25 AM,0:21,,,SUB: Batum FOR Zubac,,,5,1627826,Ivica Zubac,1610612746.0,LA,Clippers,LAC,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,745,3,11,4,12:26 AM,0:21,MISS Edwards Free Throw 1 of 2,,,,,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0052100121,746,4,1,4,12:26 AM,0:21,TIMBERWOLVES Rebound,,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,747,3,12,4,12:26 AM,0:21,Edwards Free Throw 2 of 2 (30 PTS),,,101 - 108,7,4,1630162,Anthony Edwards,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,748,1,79,4,12:26 AM,0:13,,,George 30' 3PT Pullup Jump Shot (34 PTS),104 - 108,4,5,202331,Paul George,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0,0,,,,,,1
+0052100121,749,9,1,4,12:26 AM,0:12,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),,,,,2,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0052100121,750,8,0,4,12:27 AM,0:12,SUB: Russell FOR Vanderbilt,,,,,4,1629020,Jarred Vanderbilt,1610612750.0,Minnesota,Timberwolves,MIN,4,1626156,D'Angelo Russell,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0052100121,751,8,0,4,12:27 AM,0:12,,,SUB: Covington FOR Powell,,,5,1626181,Norman Powell,1610612746.0,LA,Clippers,LAC,5,203496,Robert Covington,1610612746.0,LA,Clippers,LAC,0,0,,,,,,0
+0052100121,754,6,28,4,12:28 AM,0:06,,,Batum Personal Take Foul (P3.PN) (E.Malloy),,,5,201587,Nicolas Batum,1610612746.0,LA,Clippers,LAC,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,1
+0052100121,756,7,1,4,12:29 AM,0:06,TIMBERWOLVES Violation: Delay of game Violation,,,,,2,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0052100121,757,3,11,4,12:29 AM,0:06,Beasley Free Throw 1 of 2 (12 PTS),,,104 - 109,5,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,758,3,12,4,12:29 AM,0:06,MISS Beasley Free Throw 2 of 2,,,,,4,1627736,Malik Beasley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0052100121,759,4,0,4,12:29 AM,0:03,Beverley REBOUND (Off:4 Def:7),,,,,4,201976,Patrick Beverley,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,1
+0052100121,760,13,0,4,12:29 AM,0:00,,End of 4th Period (12:29 AM EST),,104 - 109,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

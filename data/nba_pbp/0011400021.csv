@@ -1,0 +1,458 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400021,0,12,0,1,7:41 PM,12:00,,Start of 1st Period (7:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,1,10,0,1,7:41 PM,12:00,Jump Ball Olynyk vs. Dalembert: Tip to Bargnani,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0
+0011400021,2,2,1,1,7:41 PM,11:42,,,MISS Smith 26' 3PT Jump Shot,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,3,4,0,1,7:41 PM,11:41,Sullinger REBOUND (Off:0 Def:1),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,4,2,1,1,7:41 PM,11:35,MISS Bradley 6' Jump Shot,,Dalembert BLOCK (1 BLK),,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0
+0011400021,5,4,0,1,7:41 PM,11:33,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,6,2,1,1,7:42 PM,11:27,MISS Smart 21' Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,7,4,0,1,7:42 PM,11:25,,,Smith REBOUND (Off:0 Def:1),,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,8,6,2,1,7:42 PM,11:11,Turner S.FOUL (P1.T1),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,9,3,11,1,7:42 PM,11:11,,,Anthony Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,11,3,12,1,7:43 PM,11:11,,,Anthony Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,13,1,1,1,7:43 PM,10:56,Olynyk 25' 3PT Jump Shot (3 PTS) (Turner 1 AST),,,2 - 3,1,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,14,1,86,1,7:43 PM,10:33,,,Dalembert 8' Turnaround Fadeaway (2 PTS),4 - 3,-1,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,15,1,5,1,7:44 PM,10:22,Sullinger 1' Layup (2 PTS) (Turner 2 AST),,,4 - 5,1,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,16,2,1,1,7:44 PM,10:07,,,MISS Calderon 20' Jump Shot,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,17,4,0,1,7:44 PM,10:06,Olynyk REBOUND (Off:0 Def:1),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,18,6,1,1,7:44 PM,10:01,,,Anthony P.FOUL (P1.T1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,19,2,1,1,7:44 PM,9:55,MISS Bradley 20' Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,20,4,0,1,7:44 PM,9:54,,,Dalembert REBOUND (Off:0 Def:1),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,23,1,5,1,7:45 PM,9:44,,,Smith 1' Layup (2 PTS),6 - 5,-1,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,24,6,2,1,7:45 PM,9:44,Bradley S.FOUL (P1.T2),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,25,3,10,1,7:45 PM,9:44,,,MISS Smith Free Throw 1 of 1,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,27,4,0,1,7:45 PM,9:42,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,28,2,1,1,7:46 PM,9:28,,,MISS Bargnani 25' 3PT Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,29,4,0,1,7:46 PM,9:26,,,Dalembert REBOUND (Off:1 Def:1),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,30,1,47,1,7:46 PM,9:17,,,Bargnani 10' Turnaround Jump Shot (2 PTS) (Calderon 1 AST),8 - 5,-3,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,31,6,2,1,7:46 PM,9:17,Olynyk S.FOUL (P1.T3),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,32,3,10,1,7:46 PM,9:17,,,Bargnani Free Throw 1 of 1 (3 PTS),9 - 5,-4,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,35,2,80,1,7:47 PM,9:02,MISS Sullinger 12' Step Back Jump Shot,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,36,4,0,1,7:47 PM,9:00,,,Bargnani REBOUND (Off:0 Def:1),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,37,1,73,1,7:47 PM,8:42,,,Bargnani  Driving Reverse Layup (5 PTS) (Calderon 2 AST),11 - 5,-6,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,38,6,2,1,7:47 PM,8:42,Olynyk S.FOUL (P2.T4),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,39,3,10,1,7:47 PM,8:42,,,Bargnani Free Throw 1 of 1 (6 PTS),12 - 5,-7,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,41,1,42,1,7:48 PM,8:26,Sullinger  Driving Layup (4 PTS),,,12 - 7,-5,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,42,6,2,1,7:48 PM,8:26,,,Dalembert S.FOUL (P1.T2),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,43,3,10,1,7:48 PM,8:26,Sullinger Free Throw 1 of 1 (5 PTS),,,12 - 8,-4,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,47,5,1,1,7:49 PM,8:05,,,Anthony Bad Pass Turnover (P1.T1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,48,1,79,1,7:49 PM,7:55,Smart 19' Pullup Jump Shot (2 PTS),,,12 - 10,-2,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,49,6,1,1,7:49 PM,7:42,Smart P.FOUL (P1.PN),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,50,3,11,1,7:49 PM,7:42,,,Calderon Free Throw 1 of 2 (1 PTS),13 - 10,-3,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,52,3,12,1,7:50 PM,7:42,,,Calderon Free Throw 2 of 2 (2 PTS),14 - 10,-4,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,54,5,1,1,7:50 PM,7:29,Smart Bad Pass Turnover (P1.T1),,Calderon STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,55,6,26,1,7:51 PM,7:16,,,Bargnani Offensive Charge Foul (P1.T3),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,56,5,5,1,7:51 PM,7:16,,,Bargnani Foul Turnover (P1.T2),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,58,1,42,1,7:51 PM,7:04,Bradley 1' Driving Layup (2 PTS) (Sullinger 1 AST),,,14 - 12,-2,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,59,2,1,1,7:51 PM,6:45,Olynyk BLOCK (1 BLK),,MISS Smith 7' Jump Shot,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0
+0011400021,60,4,0,1,7:51 PM,6:44,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,61,8,0,1,7:51 PM,6:44,SUB: Bass FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,62,8,0,1,7:52 PM,6:44,SUB: Wallace FOR Turner,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,63,2,1,1,7:52 PM,6:39,,,MISS Calderon 21' Jump Shot,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,64,4,0,1,7:52 PM,6:38,Bradley REBOUND (Off:0 Def:1),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,65,1,1,1,7:52 PM,6:31,Olynyk 26' 3PT Jump Shot (6 PTS) (Bradley 1 AST),,,14 - 15,1,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,66,2,1,1,7:52 PM,6:18,,,MISS Anthony 26' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,67,4,0,1,7:52 PM,6:16,,,Dalembert REBOUND (Off:2 Def:1),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,68,5,4,1,7:52 PM,6:04,,,Bargnani Traveling Turnover (P2.T3),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,69,9,1,1,7:52 PM,6:04,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,72,8,0,1,7:55 PM,6:04,SUB: Thornton FOR Bradley,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,73,2,5,1,7:56 PM,5:48,MISS Smart 2' Layup,,Dalembert BLOCK (2 BLK),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0
+0011400021,74,4,0,1,7:56 PM,5:47,,,Anthony REBOUND (Off:0 Def:1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,75,2,1,1,7:56 PM,5:41,,,MISS Smith 25' 3PT Jump Shot,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,76,4,0,1,7:56 PM,5:40,Bass REBOUND (Off:0 Def:1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,77,6,26,1,7:56 PM,5:35,Smart Offensive Charge Foul (P2.PN),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,78,5,5,1,7:56 PM,5:35,Smart Foul Turnover (P2.T2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400021,79,8,0,1,7:56 PM,5:35,,,SUB: Stoudemire FOR Anthony,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,80,8,0,1,7:56 PM,5:35,,,SUB: Acy FOR Bargnani,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,81,8,0,1,7:56 PM,5:35,,,SUB: Early FOR Dalembert,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,82,8,0,1,7:56 PM,5:35,,,SUB: Larkin FOR Smith,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,83,8,0,1,7:56 PM,5:35,,,SUB: Hardaway Jr. FOR Calderon,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,84,5,2,1,7:57 PM,5:21,Wallace STEAL (1 STL),,Stoudemire Lost Ball Turnover (P1.T4),,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,85,2,1,1,7:57 PM,5:14,MISS Bass 14' Jump Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,86,4,0,1,7:57 PM,5:13,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,88,1,86,1,7:57 PM,4:58,,,Stoudemire 8' Turnaround Fadeaway (2 PTS),16 - 15,-1,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,89,6,1,1,7:57 PM,4:47,,,Acy P.FOUL (P1.T4),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,90,2,1,1,7:58 PM,4:38,MISS Wallace 4' Jump Shot,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,91,4,0,1,7:58 PM,4:37,Bass REBOUND (Off:1 Def:1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,92,1,87,1,7:58 PM,4:37,Bass  Putback Dunk (2 PTS),,,16 - 17,1,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,93,5,1,1,7:58 PM,4:12,Smart STEAL (1 STL),,Larkin Bad Pass Turnover (P1.T5),,,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,94,1,1,1,7:59 PM,4:00,Smart  3PT Jump Shot (5 PTS) (Olynyk 1 AST),,,16 - 20,4,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,95,2,75,1,7:59 PM,3:40,,,MISS Stoudemire 2' Driving Finger Roll Layup,,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,96,4,0,1,7:59 PM,3:39,Thornton REBOUND (Off:0 Def:1),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,97,1,1,1,7:59 PM,3:28,Thornton 22' Jump Shot (2 PTS),,,16 - 22,6,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,99,9,1,1,7:59 PM,3:18,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,101,8,0,1,8:02 PM,3:18,SUB: Pressey FOR Olynyk,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,102,8,0,1,8:02 PM,3:18,SUB: Zeller FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,104,1,1,1,8:02 PM,3:08,,,Hardaway Jr. 25' 3PT Jump Shot (3 PTS) (Larkin 1 AST),19 - 22,3,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,105,6,2,1,8:03 PM,2:56,,,Acy S.FOUL (P2.PN),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,106,3,11,1,8:03 PM,2:56,Wallace Free Throw 1 of 2 (1 PTS),,,19 - 23,4,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,108,3,12,1,8:03 PM,2:56,MISS Wallace Free Throw 2 of 2,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,110,4,0,1,8:03 PM,2:55,,,Stoudemire REBOUND (Off:0 Def:1),,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,111,6,2,1,8:04 PM,2:43,Thornton S.FOUL (P1.PN),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,112,3,13,1,8:04 PM,2:43,,,Hardaway Jr. Free Throw 1 of 3 (4 PTS),20 - 23,3,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,114,3,14,1,8:04 PM,2:43,,,Hardaway Jr. Free Throw 2 of 3 (5 PTS),21 - 23,2,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,116,3,15,1,8:04 PM,2:43,,,Hardaway Jr. Free Throw 3 of 3 (6 PTS),22 - 23,1,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,119,6,2,1,8:05 PM,2:29,,,Early S.FOUL (P1.PN),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,120,3,11,1,8:05 PM,2:29,Bass Free Throw 1 of 2 (3 PTS),,,22 - 24,2,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,122,3,12,1,8:05 PM,2:29,Bass Free Throw 2 of 2 (4 PTS),,,22 - 25,3,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,127,6,1,1,8:06 PM,2:18,Thornton P.FOUL (P2.PN),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,128,3,11,1,8:06 PM,2:18,,,Hardaway Jr. Free Throw 1 of 2 (7 PTS),23 - 25,2,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,130,3,12,1,8:06 PM,2:18,,,Hardaway Jr. Free Throw 2 of 2 (8 PTS),24 - 25,1,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,133,2,71,1,8:06 PM,2:03,MISS Wallace 3' Finger Roll Layup,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,134,4,0,1,8:06 PM,2:02,,,Acy REBOUND (Off:0 Def:1),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,135,1,1,1,8:07 PM,1:49,,,Early 24' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),27 - 25,-2,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,136,6,4,1,8:07 PM,1:40,Bass OFF.Foul (P1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,137,5,5,1,8:07 PM,1:40,Bass Foul Turnover (P1.T3),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400021,138,8,0,1,8:07 PM,1:40,SUB: Turner FOR Wallace,,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,139,1,41,1,8:07 PM,1:26,,,Stoudemire  Running Layup (4 PTS) (Larkin 2 AST),29 - 25,-4,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,140,2,3,1,8:08 PM,1:13,MISS Zeller 1' Hook Shot,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,141,4,0,1,8:08 PM,1:11,,,Hardaway Jr. REBOUND (Off:0 Def:2),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,142,1,42,1,8:08 PM,1:00,,,Hardaway Jr. 1' Driving Layup (10 PTS) (Acy 1 AST),31 - 25,-6,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,144,2,7,1,8:08 PM,0:48,MISS Zeller  Dunk,,Stoudemire BLOCK (1 BLK),,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0
+0011400021,145,4,0,1,8:08 PM,0:46,,,Stoudemire REBOUND (Off:0 Def:2),,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,146,2,1,1,8:08 PM,0:38,,,MISS Stoudemire  3PT Jump Shot,,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,147,4,0,1,8:08 PM,0:37,Pressey REBOUND (Off:0 Def:1),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,148,1,1,1,8:09 PM,0:27,Bass 14' Jump Shot (6 PTS) (Pressey 1 AST),,,31 - 27,-4,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,149,6,26,1,8:09 PM,0:18,,,Acy Offensive Charge Foul (P3.PN),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,150,5,5,1,8:09 PM,0:18,,,Acy Foul Turnover (P1.T6),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,151,7,1,1,8:09 PM,0:18,,,Knicks Violation: Delay of game Violation,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400021,152,8,0,1,8:09 PM,0:18,,,SUB: Wear FOR Acy,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,153,8,0,1,8:09 PM,0:18,SUB: Bradley FOR Thornton,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,155,5,1,1,8:10 PM,0:04,Turner Bad Pass Turnover (P1.T4),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,159,18,0,1,8:11 PM,0:00,,Instant Replay1st Period (8:11 PM EST),,31 - 27,-4,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400021,160,13,0,1,8:11 PM,0:00,,End of 1st Period (8:11 PM EST),,31 - 27,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,162,12,0,2,8:13 PM,12:00,,Start of 2nd Period (8:13 PM EST),,31 - 27,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,163,2,1,2,8:13 PM,11:49,MISS Sullinger 16' Jump Shot,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,164,4,0,2,8:13 PM,11:48,,,Wear REBOUND (Off:0 Def:1),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,165,2,1,2,8:13 PM,11:27,,,MISS Prigioni 25' 3PT Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,166,4,0,2,8:13 PM,11:26,Pressey REBOUND (Off:0 Def:2),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,167,5,4,2,8:13 PM,11:09,Turner Traveling Turnover (P2.T5),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400021,168,1,3,2,8:14 PM,10:52,,,Aldrich 7' Hook Shot (2 PTS) (Prigioni 1 AST),33 - 27,-6,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,169,1,86,2,8:14 PM,10:42,Turner 13' Turnaround Fadeaway (2 PTS),,,33 - 29,-4,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,170,6,1,2,8:14 PM,10:35,Turner P.FOUL (P2.T1),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,171,2,1,2,8:15 PM,10:20,,,MISS Outlaw 24' 3PT Jump Shot,,,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,172,4,0,2,8:15 PM,10:18,,,Smith REBOUND (Off:1 Def:1),,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,173,1,1,2,8:15 PM,10:16,,,Smith 26' 3PT Jump Shot (5 PTS),36 - 29,-7,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,175,1,1,2,8:15 PM,10:03,Sullinger 24' 3PT Jump Shot (8 PTS) (Turner 3 AST),,,36 - 32,-4,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,176,1,1,2,8:15 PM,9:49,,,Wear 20' Jump Shot (2 PTS),38 - 32,-6,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,177,2,42,2,8:15 PM,9:39,MISS Turner 1' Driving Layup,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,178,4,0,2,8:15 PM,9:38,,,Aldrich REBOUND (Off:0 Def:1),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,179,2,1,2,8:15 PM,9:31,,,MISS Wear 17' Jump Shot,,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,180,4,0,2,8:15 PM,9:30,,,Aldrich REBOUND (Off:1 Def:1),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,181,5,2,2,8:16 PM,9:24,Pressey STEAL (1 STL),,Smith Lost Ball Turnover (P1.T7),,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,182,1,49,2,8:16 PM,9:19,Turner  Driving Dunk (4 PTS) (Pressey 2 AST),,,38 - 34,-4,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,183,5,1,2,8:16 PM,9:00,Bradley STEAL (1 STL),,Aldrich Bad Pass Turnover (P1.T8),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,184,1,5,2,8:16 PM,8:55,Bradley 2' Layup (4 PTS),,,38 - 36,-2,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,185,2,1,2,8:16 PM,8:39,,,MISS Outlaw 25' 3PT Jump Shot,,,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,186,4,0,2,8:16 PM,8:38,Pressey REBOUND (Off:0 Def:3),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,187,1,63,2,8:16 PM,8:29,Turner 8' Fadeaway Jumper (6 PTS),,,38 - 38,TIE,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,188,2,1,2,8:17 PM,8:12,,,MISS Smith 25' 3PT Jump Shot,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,189,4,0,2,8:17 PM,8:10,,,Wear REBOUND (Off:1 Def:1),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,190,9,4,2,8:17 PM,8:08,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,192,8,0,2,8:19 PM,8:08,SUB: Smart FOR Pressey,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,193,8,0,2,8:19 PM,8:08,,,SUB: Anthony FOR Outlaw,,,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,194,5,1,2,8:20 PM,7:58,Bradley STEAL (2 STL),,Prigioni Bad Pass Turnover (P1.T9),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,195,6,1,2,8:20 PM,7:57,,,Aldrich P.FOUL (P1.T1),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,196,6,1,2,8:20 PM,7:51,,,Prigioni P.FOUL (P1.T2),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,197,1,1,2,8:21 PM,7:34,Bradley 14' Jump Shot (6 PTS),,,38 - 40,2,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,198,6,2,2,8:21 PM,7:10,Zeller S.FOUL (P1.T2),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,199,3,11,2,8:21 PM,7:10,,,Anthony Free Throw 1 of 2 (3 PTS),39 - 40,1,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,201,8,0,2,8:22 PM,7:10,,,SUB: Dalembert FOR Aldrich,,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,202,8,0,2,8:22 PM,7:10,,,SUB: Bargnani FOR Wear,,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,203,3,12,2,8:22 PM,7:10,,,Anthony Free Throw 2 of 2 (4 PTS),40 - 40,TIE,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,206,1,79,2,8:22 PM,7:01,Bradley 18' Pullup Jump Shot (8 PTS) (Smart 1 AST),,,40 - 42,2,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,207,1,5,2,8:22 PM,6:36,,,Anthony  Layup (6 PTS),42 - 42,TIE,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,208,1,7,2,8:23 PM,6:26,Zeller  Dunk (2 PTS) (Smart 2 AST),,,42 - 44,2,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,209,1,1,2,8:23 PM,6:01,,,Bargnani 16' Jump Shot (8 PTS) (Prigioni 2 AST),44 - 44,TIE,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,210,1,1,2,8:23 PM,5:50,Sullinger 25' 3PT Jump Shot (11 PTS) (Smart 3 AST),,,44 - 47,3,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,211,2,1,2,8:23 PM,5:34,,,MISS Prigioni  3PT Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,212,4,0,2,8:24 PM,5:33,Smart REBOUND (Off:0 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,213,2,1,2,8:24 PM,5:27,MISS Bradley  3PT Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,214,4,0,2,8:24 PM,5:25,,,Bargnani REBOUND (Off:0 Def:2),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,215,6,4,2,8:24 PM,5:20,,,Anthony OFF.Foul (P2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,216,5,5,2,8:24 PM,5:20,,,Anthony Foul Turnover (P2.T10),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,217,9,1,2,8:24 PM,5:20,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,219,8,0,2,8:26 PM,5:20,,,SUB: Calderon FOR Smith,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,220,8,0,2,8:26 PM,5:20,,,SUB: Hardaway Jr. FOR Prigioni,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,221,8,0,2,8:26 PM,5:20,SUB: Bass FOR Turner,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,222,8,0,2,8:26 PM,5:20,SUB: Olynyk FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,223,8,0,2,8:26 PM,5:20,SUB: Wallace FOR Zeller,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,224,2,1,2,8:27 PM,5:09,MISS Bradley 19' Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,225,4,0,2,8:27 PM,5:08,,,Hardaway Jr. REBOUND (Off:0 Def:3),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,226,1,8,2,8:27 PM,4:49,,,Dalembert  Slam Dunk (4 PTS) (Anthony 1 AST),46 - 47,1,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,227,1,1,2,8:27 PM,4:40,Smart 25' 3PT Jump Shot (8 PTS),,,46 - 50,4,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,228,2,1,2,8:28 PM,4:13,,,MISS Anthony 4' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,229,4,0,2,8:28 PM,4:12,Wallace REBOUND (Off:0 Def:1),,,,,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,230,1,1,2,8:28 PM,3:58,Smart 21' Jump Shot (10 PTS) (Wallace 1 AST),,,46 - 52,6,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,2222,Gerald Wallace,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,232,5,1,2,8:28 PM,3:39,,,Dalembert Bad Pass Turnover (P1.T11),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,233,6,1,2,8:29 PM,3:29,,,Bargnani P.FOUL (P2.T3),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,234,2,1,2,8:29 PM,3:15,MISS Bass 15' Jump Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,235,4,0,2,8:29 PM,3:14,,,Bargnani REBOUND (Off:0 Def:3),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,236,5,1,2,8:29 PM,3:10,,,Calderon Bad Pass Turnover (P1.T12),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,237,2,1,2,8:29 PM,2:57,MISS Olynyk 25' 3PT Jump Shot,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,238,4,0,2,8:29 PM,2:56,,,Bargnani REBOUND (Off:0 Def:4),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,239,2,1,2,8:30 PM,2:45,,,MISS Bargnani 8' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,240,4,0,2,8:30 PM,2:44,Olynyk REBOUND (Off:0 Def:2),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,241,2,5,2,8:30 PM,2:36,MISS Bass 2' Layup,,Dalembert BLOCK (3 BLK),,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0
+0011400021,242,4,0,2,8:30 PM,2:35,,,Calderon REBOUND (Off:0 Def:1),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,243,1,5,2,8:30 PM,2:32,,,Anthony  Layup (8 PTS) (Calderon 3 AST),48 - 52,4,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,244,2,1,2,8:30 PM,2:24,MISS Smart 26' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,245,4,0,2,8:30 PM,2:23,,,Bargnani REBOUND (Off:0 Def:5),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,247,1,47,2,8:30 PM,2:12,,,Anthony 14' Turnaround Jump Shot (10 PTS) (Calderon 4 AST),50 - 52,2,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,248,9,2,2,8:30 PM,2:03,CELTICS Timeout: Short (Full 2 Short 1),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,250,9,1,2,8:32 PM,2:03,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,251,8,0,2,8:33 PM,2:03,SUB: Thornton FOR Bradley,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,252,8,0,2,8:33 PM,2:03,SUB: Turner FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,253,8,0,2,8:33 PM,2:03,,,SUB: Stoudemire FOR Dalembert,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,254,2,42,2,8:34 PM,1:55,MISS Turner  Driving Layup,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,255,4,0,2,8:34 PM,1:54,,,Stoudemire REBOUND (Off:0 Def:3),,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,256,2,5,2,8:34 PM,1:35,Bass BLOCK (1 BLK),,MISS Anthony 1' Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0
+0011400021,257,4,0,2,8:34 PM,1:33,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,258,2,5,2,8:35 PM,1:23,,,MISS Hardaway Jr.  Layup,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,259,4,0,2,8:35 PM,1:21,Turner REBOUND (Off:0 Def:1),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,260,2,1,2,8:35 PM,1:15,MISS Thornton  3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,261,4,0,2,8:35 PM,1:14,,,Anthony REBOUND (Off:0 Def:2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,262,1,1,2,8:35 PM,0:58,,,Calderon 16' Jump Shot (4 PTS) (Hardaway Jr. 2 AST),52 - 52,TIE,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,263,5,1,2,8:35 PM,0:46,Bass Bad Pass Turnover (P2.T6),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,265,5,7,2,8:36 PM,0:27,,,Anthony Discontinue Dribble Turnover (P3.T13),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,266,6,28,2,8:36 PM,0:12,,,Hardaway Jr. Personal Take Foul (P1.T4),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,268,1,79,2,8:37 PM,0:03,Turner 9' Pullup Jump Shot (8 PTS),,,52 - 54,2,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,269,2,1,2,8:37 PM,0:00,,,MISS Hardaway Jr. 38' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,270,4,0,2,8:37 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,271,13,0,2,8:37 PM,0:00,,End of 2nd Period (8:37 PM EST),,52 - 54,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,273,12,0,3,8:53 PM,12:00,,Start of 3rd Period (8:53 PM EST),,52 - 54,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,274,2,1,3,8:53 PM,11:45,MISS Olynyk 26' 3PT Jump Shot,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,275,4,0,3,8:53 PM,11:44,Smart REBOUND (Off:1 Def:1),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,276,6,2,3,8:53 PM,11:39,,,Dalembert S.FOUL (P2.T1),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,277,3,11,3,8:54 PM,11:39,MISS Olynyk Free Throw 1 of 2,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,278,4,1,3,8:54 PM,11:39,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,279,3,12,3,8:54 PM,11:39,Olynyk Free Throw 2 of 2 (7 PTS),,,52 - 55,3,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,282,1,1,3,8:55 PM,11:16,,,Calderon 22' Jump Shot (6 PTS) (Anthony 2 AST),54 - 55,1,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,283,6,2,3,8:55 PM,10:58,,,Stoudemire S.FOUL (P1.T2),,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,284,3,11,3,8:55 PM,10:58,MISS Sullinger Free Throw 1 of 2,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,285,4,1,3,8:55 PM,10:58,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,286,3,12,3,8:56 PM,10:58,Sullinger Free Throw 2 of 2 (12 PTS),,,54 - 56,2,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,288,1,80,3,8:56 PM,10:42,,,Smith 17' Step Back Jump Shot (7 PTS) (Dalembert 1 AST),56 - 56,TIE,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,289,1,1,3,8:56 PM,10:32,Olynyk 26' 3PT Jump Shot (10 PTS) (Smart 4 AST),,,56 - 59,3,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,290,2,47,3,8:56 PM,10:19,,,MISS Dalembert 16' Turnaround Jump Shot,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,291,4,0,3,8:56 PM,10:18,Bradley REBOUND (Off:0 Def:2),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,292,1,1,3,8:57 PM,10:04,Bradley 26' 3PT Jump Shot (11 PTS) (Turner 4 AST),,,56 - 62,6,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,293,1,1,3,8:57 PM,9:45,,,Calderon 26' 3PT Jump Shot (9 PTS) (Anthony 3 AST),59 - 62,3,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,296,1,42,3,8:57 PM,9:25,Sullinger  Driving Layup (14 PTS) (Smart 5 AST),,,59 - 64,5,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,298,2,1,3,8:58 PM,9:08,,,MISS Anthony 20' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,299,4,0,3,8:58 PM,9:07,Olynyk REBOUND (Off:0 Def:3),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,300,2,5,3,8:58 PM,8:58,MISS Bradley 1' Layup,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,301,4,0,3,8:58 PM,8:58,,,Anthony REBOUND (Off:0 Def:3),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,302,2,1,3,8:58 PM,8:36,,,MISS Stoudemire 20' Jump Shot,,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,303,4,0,3,8:58 PM,8:35,Turner REBOUND (Off:0 Def:2),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,304,2,1,3,8:58 PM,8:19,MISS Smart 24' 3PT Jump Shot,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,305,4,0,3,8:58 PM,8:18,,,Dalembert REBOUND (Off:2 Def:2),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,306,2,1,3,8:59 PM,8:11,,,MISS Anthony 26' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,307,4,0,3,8:59 PM,8:10,Olynyk REBOUND (Off:0 Def:4),,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,308,2,5,3,8:59 PM,8:05,MISS Turner  Layup,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,309,4,0,3,8:59 PM,8:04,,,Smith REBOUND (Off:1 Def:2),,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,310,10,0,3,8:59 PM,8:04,Jump Ball Bradley vs. Smith: Tip to Anthony,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0
+0011400021,312,5,1,3,9:00 PM,7:42,Smart STEAL (2 STL),,Dalembert Bad Pass Turnover (P2.T14),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,313,6,2,3,9:00 PM,7:38,,,Calderon S.FOUL (P1.T3),,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,314,3,11,3,9:00 PM,7:38,MISS Smart Free Throw 1 of 2,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,315,4,1,3,9:00 PM,7:38,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,316,3,12,3,9:00 PM,7:38,Smart Free Throw 2 of 2 (11 PTS),,,59 - 65,6,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,318,6,2,3,9:01 PM,7:24,Sullinger S.FOUL (P1.T1),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,319,3,11,3,9:01 PM,7:24,,,Stoudemire Free Throw 1 of 2 (5 PTS),60 - 65,5,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,321,3,12,3,9:01 PM,7:24,,,Stoudemire Free Throw 2 of 2 (6 PTS),61 - 65,4,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,323,5,40,3,9:02 PM,7:14,Turner Out of Bounds Lost Ball Turnover (P3.T7),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,324,1,1,3,9:02 PM,6:55,,,Dalembert 15' Jump Shot (6 PTS) (Anthony 4 AST),63 - 65,2,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,325,6,2,3,9:02 PM,6:48,,,Smith S.FOUL (P1.T4),,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,326,3,11,3,9:02 PM,6:48,MISS Turner Free Throw 1 of 2,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,327,4,1,3,9:02 PM,6:48,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,328,8,0,3,9:03 PM,6:48,SUB: Bass FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,329,3,12,3,9:03 PM,6:48,Turner Free Throw 2 of 2 (9 PTS),,,63 - 66,3,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,331,2,1,3,9:03 PM,6:32,,,MISS Anthony 24' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,332,4,0,3,9:03 PM,6:26,Turner REBOUND (Off:0 Def:3),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,333,2,1,3,9:03 PM,6:21,MISS Turner 7' Jump Shot,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,334,4,0,3,9:03 PM,6:19,,,Smith REBOUND (Off:1 Def:3),,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,335,2,1,3,9:04 PM,6:03,,,MISS Smith 25' 3PT Jump Shot,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,336,4,0,3,9:04 PM,6:02,Turner REBOUND (Off:0 Def:4),,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,337,6,27,3,9:04 PM,5:51,,,Dalembert Personal Block Foul (P3.PN),,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,338,9,1,3,9:04 PM,5:51,CELTICS Timeout: Regular (Full 3 Short 1),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,341,8,0,3,9:07 PM,5:51,,,SUB: Larkin FOR Anthony,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,342,8,0,3,9:07 PM,5:51,,,SUB: Hardaway Jr. FOR Dalembert,,,5,2223,Samuel Dalembert,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,343,8,0,3,9:07 PM,5:51,,,SUB: Aldrich FOR Smith,,,5,2747,JR Smith,1610612752.0,New York,Knicks,NYK,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,344,8,0,3,9:07 PM,5:51,,,SUB: Bargnani FOR Calderon,,,5,101181,Jose Calderon,1610612752.0,New York,Knicks,NYK,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,345,8,0,3,9:07 PM,5:51,,,SUB: Outlaw FOR Stoudemire,,,5,2405,Amar'e Stoudemire,1610612752.0,New York,Knicks,NYK,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,346,8,0,3,9:07 PM,5:51,SUB: Thornton FOR Bradley,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,347,3,11,3,9:07 PM,5:51,Olynyk Free Throw 1 of 2 (11 PTS),,,63 - 67,4,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,349,3,12,3,9:07 PM,5:51,Olynyk Free Throw 2 of 2 (12 PTS),,,63 - 68,5,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,351,5,40,3,9:07 PM,5:32,,,Hardaway Jr. Out of Bounds Lost Ball Turnover (P1.T15),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,352,5,1,3,9:08 PM,5:23,Olynyk Bad Pass Turnover (P1.T8),,Outlaw STEAL (1 STL),,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,353,6,1,3,9:08 PM,5:16,Thornton P.FOUL (P3.T2),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,354,8,0,3,9:08 PM,5:16,SUB: Powell FOR Turner,,,,,4,202323,Evan Turner,1610612738.0,Boston,Celtics,BOS,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,355,2,1,3,9:08 PM,5:00,,,MISS Bargnani 8' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,356,4,0,3,9:08 PM,4:59,Smart REBOUND (Off:1 Def:2),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,357,5,1,3,9:09 PM,4:50,Smart Bad Pass Turnover (P3.T9),,Aldrich STEAL (1 STL),,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,358,5,1,3,9:09 PM,4:48,Thornton STEAL (1 STL),,Aldrich Bad Pass Turnover (P2.T16),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,359,1,1,3,9:09 PM,4:41,Thornton 14' Jump Shot (4 PTS),,,63 - 70,7,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,361,5,4,3,9:09 PM,4:19,,,Aldrich Traveling Turnover (P3.T17),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,362,2,1,3,9:09 PM,4:08,MISS Thornton 26' 3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,363,4,0,3,9:10 PM,4:05,Powell REBOUND (Off:1 Def:0),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,364,2,75,3,9:10 PM,3:56,MISS Thornton 2' Driving Finger Roll Layup,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,365,4,0,3,9:10 PM,3:55,,,Hardaway Jr. REBOUND (Off:0 Def:4),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,366,1,79,3,9:10 PM,3:50,,,Hardaway Jr. 25' 3PT Pullup Jump Shot (13 PTS),66 - 70,4,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,367,1,1,3,9:10 PM,3:27,Bass 16' Jump Shot (8 PTS) (Olynyk 2 AST),,,66 - 72,6,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,368,2,5,3,9:10 PM,3:09,Powell BLOCK (1 BLK),,MISS Bargnani 1' Layup,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0
+0011400021,369,4,0,3,9:10 PM,3:08,Smart REBOUND (Off:1 Def:3),,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,370,1,1,3,9:11 PM,3:03,Thornton 25' 3PT Jump Shot (7 PTS) (Smart 6 AST),,,66 - 75,9,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,372,5,1,3,9:11 PM,2:43,Thornton STEAL (2 STL),,Larkin Bad Pass Turnover (P2.T18),,,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,374,7,2,3,9:11 PM,2:39,,,Hardaway Jr. Violation:Defensive Goaltending,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,373,1,75,3,9:11 PM,2:39,Thornton 1' Driving Finger Roll Layup (9 PTS),,,66 - 77,11,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,376,9,1,3,9:11 PM,2:39,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,378,8,0,3,9:14 PM,2:39,SUB: Pressey FOR Olynyk,,,,,4,203482,Kelly Olynyk,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,379,8,0,3,9:14 PM,2:39,SUB: Zeller FOR Smart,,,,,4,203935,Marcus Smart,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,380,5,1,3,9:14 PM,2:24,Thornton STEAL (3 STL),,Hardaway Jr. Bad Pass Turnover (P2.T19),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,381,2,46,3,9:14 PM,2:17,MISS Thornton 6' Running Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,382,4,0,3,9:14 PM,2:16,,,Hardaway Jr. REBOUND (Off:0 Def:5),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,383,5,1,3,9:14 PM,2:13,,,Hardaway Jr. Bad Pass Turnover (P3.T20),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,384,8,0,3,9:14 PM,2:13,,,SUB: Acy FOR Aldrich,,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,386,1,3,3,9:15 PM,1:50,Zeller 9' Hook Shot (4 PTS) (Bass 1 AST),,,66 - 79,13,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,387,6,1,3,9:15 PM,1:38,Powell P.FOUL (P1.T3),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,2566,Travis Outlaw,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,388,6,2,3,9:16 PM,1:29,Powell S.FOUL (P2.PN),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,389,3,11,3,9:16 PM,1:29,,,Hardaway Jr. Free Throw 1 of 2 (14 PTS),67 - 79,12,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,391,3,12,3,9:16 PM,1:29,,,Hardaway Jr. Free Throw 2 of 2 (15 PTS),68 - 79,11,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,393,2,5,3,9:16 PM,1:14,MISS Powell  Layup,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,395,4,0,3,9:16 PM,1:12,Zeller REBOUND (Off:1 Def:0),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,394,1,4,3,9:16 PM,1:12,Zeller  Tip Shot (6 PTS),,,68 - 81,13,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,396,2,1,3,9:17 PM,0:55,,,MISS Hardaway Jr. 22' Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,397,4,0,3,9:17 PM,0:55,Bass REBOUND (Off:1 Def:2),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,398,2,1,3,9:17 PM,0:38,MISS Bass 13' Jump Shot,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,399,4,0,3,9:17 PM,0:38,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,400,2,1,3,9:17 PM,0:24,,,MISS Acy 19' Jump Shot,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,401,4,0,3,9:17 PM,0:23,Bass REBOUND (Off:1 Def:3),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,402,2,5,3,9:18 PM,0:04,MISS Zeller 2' Layup,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,403,4,0,3,9:18 PM,0:03,,,Acy REBOUND (Off:0 Def:2),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,404,2,1,3,9:18 PM,0:00,,,MISS Larkin 38' 3PT Jump Shot,,,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,406,4,0,3,9:18 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,405,13,0,3,9:18 PM,0:00,,End of 3rd Period (9:18 PM EST),,68 - 81,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,408,12,0,4,9:20 PM,12:00,,Start of 4th Period (9:20 PM EST),,68 - 81,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,409,1,1,4,9:20 PM,11:45,,,Wear 21' Jump Shot (4 PTS) (Prigioni 3 AST),70 - 81,11,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,410,6,2,4,9:21 PM,11:32,,,Wear S.FOUL (P1.T1),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,411,3,11,4,9:21 PM,11:32,MISS Powell Free Throw 1 of 2,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,412,4,1,4,9:21 PM,11:32,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,413,3,12,4,9:21 PM,11:32,MISS Powell Free Throw 2 of 2,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,415,4,0,4,9:21 PM,11:30,,,Acy REBOUND (Off:0 Def:3),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,416,2,5,4,9:21 PM,11:19,,,MISS Larkin 1' Layup,,,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,417,4,0,4,9:21 PM,11:18,,,Acy REBOUND (Off:1 Def:3),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,418,2,5,4,9:22 PM,11:17,,,MISS Acy 1' Layup,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,419,4,0,4,9:22 PM,11:16,,,Acy REBOUND (Off:2 Def:3),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,420,6,2,4,9:22 PM,11:15,Zeller S.FOUL (P2.T1),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,421,3,11,4,9:22 PM,11:15,,,Acy Free Throw 1 of 2 (1 PTS),71 - 81,10,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,423,3,12,4,9:22 PM,11:15,,,Acy Free Throw 2 of 2 (2 PTS),72 - 81,9,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,425,2,1,4,9:22 PM,10:59,MISS Sullinger 5' Jump Shot,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,426,4,0,4,9:22 PM,10:58,Powell REBOUND (Off:2 Def:0),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,428,2,1,4,9:23 PM,10:50,MISS Zeller 8' Jump Shot,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,429,4,0,4,9:23 PM,10:48,,,Wear REBOUND (Off:1 Def:2),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,430,2,1,4,9:23 PM,10:44,,,MISS Wear 26' 3PT Jump Shot,,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,431,4,0,4,9:23 PM,10:42,Sullinger REBOUND (Off:0 Def:2),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,432,1,42,4,9:23 PM,10:37,Pressey  Driving Layup (2 PTS),,,72 - 83,11,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,433,9,1,4,9:23 PM,10:33,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,436,8,0,4,9:25 PM,10:33,SUB: Anthony FOR Zeller,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,201202,Joel Anthony,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,437,2,1,4,9:25 PM,10:14,,,MISS Early 25' 3PT Jump Shot,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,438,4,0,4,9:25 PM,10:13,Pressey REBOUND (Off:0 Def:4),,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,439,7,5,4,9:26 PM,9:58,,,Prigioni Violation:Kicked Ball,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,440,6,4,4,9:26 PM,9:50,Thornton OFF.Foul (P4),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,441,5,5,4,9:26 PM,9:50,Thornton Foul Turnover (P1.T10),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400021,442,5,4,4,9:26 PM,9:36,,,Wear Traveling Turnover (P1.T21),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,444,1,58,4,9:27 PM,9:22,Sullinger 9' Turnaround Hook Shot (16 PTS),,,72 - 85,13,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,445,1,47,4,9:27 PM,9:00,,,Wear 19' Turnaround Jump Shot (6 PTS) (Prigioni 4 AST),74 - 85,11,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,446,1,1,4,9:27 PM,8:44,Sullinger 25' 3PT Jump Shot (19 PTS) (Pressey 3 AST),,,74 - 88,14,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,447,5,2,4,9:28 PM,8:25,Powell STEAL (1 STL),,Early Lost Ball Turnover (P1.T22),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,448,6,2,4,9:28 PM,8:22,,,Early S.FOUL (P2.T2),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,449,3,11,4,9:28 PM,8:22,Pressey Free Throw 1 of 2 (3 PTS),,,74 - 89,15,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,451,3,12,4,9:28 PM,8:22,Pressey Free Throw 2 of 2 (4 PTS),,,74 - 90,16,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,453,2,1,4,9:29 PM,8:03,,,MISS Prigioni  3PT Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,454,4,0,4,9:29 PM,8:02,Sullinger REBOUND (Off:0 Def:3),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,455,2,1,4,9:29 PM,7:55,MISS Thornton 24' 3PT Jump Shot,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,456,4,0,4,9:29 PM,7:51,Sullinger REBOUND (Off:1 Def:3),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,457,10,0,4,9:30 PM,7:51,Jump Ball Sullinger vs. Wear: Tip to Pressey,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0
+0011400021,459,1,3,4,9:30 PM,7:34,Sullinger 7' Hook Shot (21 PTS),,,74 - 92,18,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,461,6,1,4,9:30 PM,7:22,Thornton P.FOUL (P5.T2),,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,462,2,1,4,9:30 PM,7:15,,,MISS Acy 20' Jump Shot,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,463,4,0,4,9:31 PM,7:14,Sullinger REBOUND (Off:1 Def:4),,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,464,6,27,4,9:31 PM,7:04,,,Wear Personal Block Foul (P2.T3),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,465,2,65,4,9:31 PM,6:58,MISS Powell 9' Jump Hook Shot,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,466,4,0,4,9:31 PM,6:56,,,Wear REBOUND (Off:1 Def:3),,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,467,5,2,4,9:31 PM,6:49,Powell STEAL (2 STL),,Acy Lost Ball Turnover (P2.T23),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,468,1,50,4,9:31 PM,6:36,Sullinger  Running Dunk (23 PTS) (Thornton 1 AST),,,74 - 94,20,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,469,5,4,4,9:32 PM,6:20,,,Acy Traveling Turnover (P3.T24),,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,470,8,0,4,9:32 PM,6:20,,,SUB: Aldrich FOR Wear,,,5,204037,Travis Wear,1610612752.0,New York,Knicks,NYK,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,472,1,5,4,9:32 PM,6:06,Thornton  Layup (11 PTS) (Sullinger 2 AST),,,74 - 96,22,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,473,2,1,4,9:33 PM,5:50,,,MISS Aldrich 8' Jump Shot,,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,474,4,0,4,9:33 PM,5:49,Powell REBOUND (Off:2 Def:1),,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,475,6,2,4,9:33 PM,5:40,,,Prigioni S.FOUL (P2.T4),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,476,9,4,4,9:33 PM,5:40,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,478,8,0,4,9:35 PM,5:40,SUB: Zeller FOR Sullinger,,,,,4,203096,Jared Sullinger,1610612738.0,Boston,Celtics,BOS,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,480,3,11,4,9:35 PM,5:40,MISS Thornton Free Throw 1 of 2,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,481,4,1,4,9:35 PM,5:40,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,482,3,12,4,9:36 PM,5:40,Thornton Free Throw 2 of 2 (12 PTS),,,74 - 97,23,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,484,8,0,4,9:36 PM,5:29,SUB: McGruder FOR Thornton,,,,,4,201977,Marcus Thornton,1610612738.0,Boston,Celtics,BOS,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,486,7,4,4,9:36 PM,5:29,,,Prigioni Violation:Jump Ball,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011400021,487,5,18,4,9:36 PM,5:29,,,Prigioni Jump Ball Violation Turnover (P2.T25),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,485,10,0,4,9:37 PM,5:29,Jump Ball Powell vs. Larkin: Tip to,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,2,1610612738,,,,,,0
+0011400021,489,1,1,4,9:37 PM,5:06,Pressey 25' 3PT Jump Shot (7 PTS),,,74 - 100,26,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,491,2,1,4,9:38 PM,4:46,,,MISS Acy 15' Jump Shot,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,492,4,0,4,9:38 PM,4:44,Anthony REBOUND (Off:0 Def:1),,,,,4,201202,Joel Anthony,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,494,6,1,4,9:38 PM,4:38,,,Prigioni P.FOUL (P3.PN),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,495,8,0,4,9:38 PM,4:38,,,SUB: Hardaway Jr. FOR Prigioni,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,505,7,1,4,9:39 PM,4:38,CELTICS Violation: Delay of game Violation,,,,,2,1610612738,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400021,497,3,11,4,9:39 PM,4:38,Pressey Free Throw 1 of 2 (8 PTS),,,74 - 101,27,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,499,3,12,4,9:39 PM,4:38,Pressey Free Throw 2 of 2 (9 PTS),,,74 - 102,28,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,501,2,1,4,9:39 PM,4:20,,,MISS Acy 21' Jump Shot,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,502,4,0,4,9:39 PM,4:20,Zeller REBOUND (Off:1 Def:1),,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,504,9,2,4,9:39 PM,4:16,CELTICS Timeout: Short (Full 3 Short 2),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,507,8,0,4,9:40 PM,4:16,SUB: Murphy FOR Pressey,,,,,4,203515,Phil Pressey,1610612738.0,Boston,Celtics,BOS,4,203513,Erik Murphy,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,508,8,0,4,9:40 PM,4:16,SUB: Frazier FOR Zeller,,,,,4,203092,Tyler Zeller,1610612738.0,Boston,Celtics,BOS,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,511,2,1,4,9:41 PM,3:58,MISS Murphy 25' 3PT Jump Shot,,Acy BLOCK (1 BLK),,,4,203513,Erik Murphy,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0
+0011400021,512,4,0,4,9:41 PM,3:57,,,Aldrich REBOUND (Off:1 Def:2),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,513,1,5,4,9:41 PM,3:55,,,Acy  Layup (4 PTS) (Aldrich 1 AST),76 - 102,26,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,514,6,2,4,9:41 PM,3:55,McGruder S.FOUL (P1.T3),,,,,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,515,3,10,4,9:41 PM,3:55,,,Acy Free Throw 1 of 1 (5 PTS),77 - 102,25,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,517,6,2,4,9:42 PM,3:43,,,Early S.FOUL (P3.PN),,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+0011400021,518,3,11,4,9:42 PM,3:43,Powell Free Throw 1 of 2 (1 PTS),,,77 - 103,26,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,520,3,12,4,9:42 PM,3:43,Powell Free Throw 2 of 2 (2 PTS),,,77 - 104,27,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,522,5,1,4,9:42 PM,3:29,Anthony STEAL (1 STL),,Hardaway Jr. Bad Pass Turnover (P4.T26),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,201202,Joel Anthony,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,523,2,46,4,9:43 PM,3:13,MISS McGruder 8' Running Jump Shot,,,,,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,524,4,0,4,9:43 PM,3:12,McGruder REBOUND (Off:1 Def:0),,,,,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,525,2,5,4,9:43 PM,3:11,MISS McGruder  Layup,,,,,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,526,4,0,4,9:43 PM,3:10,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,527,5,1,4,9:43 PM,2:59,Frazier Bad Pass Turnover (P1.T11),,Acy STEAL (1 STL),,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,528,6,2,4,9:43 PM,2:56,Murphy S.FOUL (P1.T4),,,,,4,203513,Erik Murphy,1610612738.0,Boston,Celtics,BOS,5,203112,Quincy Acy,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,530,9,1,4,9:43 PM,2:56,CELTICS Timeout: Regular (Full 4 Short 2),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,534,3,11,4,9:46 PM,2:56,,,Early Free Throw 1 of 2 (4 PTS),78 - 104,26,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,536,3,12,4,9:46 PM,2:56,,,Early Free Throw 2 of 2 (5 PTS),79 - 104,25,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,538,2,1,4,9:46 PM,2:41,MISS Powell  3PT Jump Shot,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,539,4,0,4,9:46 PM,2:40,Anthony REBOUND (Off:1 Def:1),,,,,4,201202,Joel Anthony,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,545,5,2,4,9:47 PM,2:32,Powell Lost Ball Turnover (P1.T12),,Early STEAL (1 STL),,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,543,10,0,4,9:47 PM,2:32,Jump Ball Powell vs. Early: Tip to Hardaway Jr.,,,,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0
+0011400021,546,5,2,4,9:47 PM,2:17,Frazier STEAL (1 STL),,Larkin Lost Ball Turnover (P3.T27),,,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,547,5,2,4,9:47 PM,2:12,Powell Lost Ball Turnover (P2.T13),,Larkin STEAL (1 STL),,,4,203939,Dwight Powell,1610612738.0,Boston,Celtics,BOS,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,550,8,0,4,9:48 PM,2:10,SUB: Watford FOR Anthony,,,,,4,201202,Joel Anthony,1610612738.0,Boston,Celtics,BOS,4,204024,Christian Watford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,552,6,1,4,9:48 PM,2:07,McGruder P.FOUL (P2.PN),,,,,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,553,3,11,4,9:48 PM,2:07,,,MISS Hardaway Jr. Free Throw 1 of 2,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,554,4,1,4,9:48 PM,2:07,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,555,3,12,4,9:48 PM,2:07,,,Hardaway Jr. Free Throw 2 of 2 (16 PTS),80 - 104,24,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,557,5,1,4,9:49 PM,1:57,Frazier Bad Pass Turnover (P2.T14),,Hardaway Jr. STEAL (1 STL),,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,558,5,2,4,9:49 PM,1:38,Frazier STEAL (2 STL),,Hardaway Jr. Lost Ball Turnover (P5.T28),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,559,2,1,4,9:49 PM,1:25,MISS Murphy 24' 3PT Jump Shot,,,,,4,203513,Erik Murphy,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+0011400021,560,4,0,4,9:49 PM,1:24,,,Hardaway Jr. REBOUND (Off:0 Def:6),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,561,2,1,4,9:49 PM,1:07,,,MISS Early 25' 3PT Jump Shot,,,5,203921,Cleanthony Early,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,563,4,0,4,9:49 PM,1:06,,,Aldrich REBOUND (Off:2 Def:2),,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,562,1,87,4,9:49 PM,1:06,,,Aldrich  Putback Dunk (4 PTS),82 - 104,22,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,564,5,7,4,9:50 PM,1:00,Frazier Discontinue Dribble Turnover (P3.T15),,,,,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+0011400021,566,6,1,4,9:50 PM,0:46,McGruder P.FOUL (P3.PN),,,,,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011400021,567,3,11,4,9:50 PM,0:46,,,Hardaway Jr. Free Throw 1 of 2 (17 PTS),83 - 104,21,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,569,3,12,4,9:50 PM,0:46,,,Hardaway Jr. Free Throw 2 of 2 (18 PTS),84 - 104,20,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011400021,571,2,1,4,9:51 PM,0:38,MISS Watford 5' Jump Shot,,Aldrich BLOCK (1 BLK),,,4,204024,Christian Watford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0
+0011400021,572,4,0,4,9:51 PM,0:37,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400021,573,18,1,4,9:51 PM,0:37,,Overturn Ruling,,,,0,572,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400021,575,1,42,4,9:53 PM,0:26,,,Larkin 1' Driving Layup (2 PTS) (Aldrich 2 AST),86 - 104,18,5,203499,Shane Larkin,1610612752.0,New York,Knicks,NYK,5,202332,Cole Aldrich,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011400021,576,1,52,4,9:53 PM,0:04,McGruder  Alley Oop Dunk (2 PTS) (Frazier 1 AST),,,86 - 106,20,4,203585,Rodney McGruder,1610612738.0,Boston,Celtics,BOS,4,204025,Tim Frazier,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+0011400021,577,13,0,4,9:53 PM,0:00,,End of 4th Period (9:53 PM EST),,86 - 106,20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

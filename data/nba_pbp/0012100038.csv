@@ -1,0 +1,470 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012100038,2,12,0,1,10:07 PM,12:00,,Start of 1st Period (10:07 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,4,10,0,1,10:07 PM,12:00,Jump Ball Jordan vs. Ayton: Tip to Bazemore,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100038,7,5,2,1,10:07 PM,11:44,Davis Lost Ball Turnover (P1.T1),,Bridges STEAL (1 STL),,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,9,1,80,1,10:08 PM,11:29,,,Shamet 25' 3PT Step Back Jump Shot (3 PTS) (Ayton 1 AST),3 - 0,-3,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,11,2,1,1,10:08 PM,11:11,MISS Ellington 24' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,12,4,0,1,10:08 PM,11:09,,,Shamet REBOUND (Off:0 Def:1),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,13,2,1,1,10:08 PM,11:04,,,MISS Ayton 15' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,14,4,0,1,10:08 PM,11:01,Bazemore REBOUND (Off:0 Def:1),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,15,2,79,1,10:08 PM,10:49,MISS Westbrook 20' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,16,4,0,1,10:08 PM,10:47,,,Ayton REBOUND (Off:0 Def:1),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,17,2,78,1,10:09 PM,10:38,,,MISS Ayton 8' Floating Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,18,4,0,1,10:09 PM,10:36,Jordan REBOUND (Off:0 Def:1),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,20,2,1,1,10:09 PM,10:29,MISS Davis 18' Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,21,4,0,1,10:09 PM,10:26,,,Paul REBOUND (Off:0 Def:1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,22,2,41,1,10:09 PM,10:22,Jordan BLOCK (1 BLK),,MISS Shamet 1' Running Layup,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100038,24,4,0,1,10:09 PM,10:19,Ellington REBOUND (Off:0 Def:1),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,25,1,1,1,10:09 PM,10:00,Davis 25' 3PT Jump Shot (3 PTS) (Ellington 1 AST),,,3 - 3,TIE,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,27,2,1,1,10:10 PM,9:43,,,MISS Shamet 26' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,28,4,0,1,10:10 PM,9:43,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,30,2,79,1,10:10 PM,9:29,MISS Ellington 25' 3PT Pullup Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,31,4,0,1,10:10 PM,9:26,,,Crowder REBOUND (Off:0 Def:1),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,32,2,103,1,10:10 PM,9:20,,,MISS Crowder 27' 3PT Running Pull-Up Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,33,4,0,1,10:10 PM,9:18,Ellington REBOUND (Off:0 Def:2),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,34,2,1,1,10:11 PM,9:07,MISS Westbrook 27' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,35,4,0,1,10:11 PM,9:01,,,Ayton REBOUND (Off:0 Def:2),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,36,5,45,1,10:11 PM,9:01,,,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,37,2,1,1,10:11 PM,8:51,MISS Davis 27' 3PT Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,38,4,0,1,10:11 PM,8:49,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,40,2,79,1,10:12 PM,8:32,,,MISS Crowder 10' Pullup Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,41,4,0,1,10:12 PM,8:30,Ellington REBOUND (Off:0 Def:3),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,42,2,1,1,10:12 PM,8:19,MISS Bazemore 3PT Jump Shot,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,43,4,0,1,10:12 PM,8:17,,,Crowder REBOUND (Off:0 Def:2),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,44,1,79,1,10:12 PM,8:09,,,Shamet 26' 3PT Pullup Jump Shot (6 PTS) (Crowder 1 AST),6 - 3,-3,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,46,1,78,1,10:12 PM,7:49,Davis 6' Floating Jump Shot (5 PTS),,,6 - 5,-1,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,47,6,2,1,10:12 PM,7:49,,,Bridges S.FOUL (P1.T1) (S.Wright),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,49,3,10,1,10:13 PM,7:49,MISS Davis Free Throw 1 of 1,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,50,4,0,1,10:13 PM,7:46,,,Shamet REBOUND (Off:0 Def:2),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,52,7,5,1,10:13 PM,7:30,Jordan Violation:Kicked Ball (N.Green),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0012100038,53,2,1,1,10:14 PM,7:23,,,MISS Crowder 26' 3PT Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,54,4,0,1,10:14 PM,7:20,Bazemore REBOUND (Off:0 Def:2),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,55,6,2,1,10:14 PM,7:15,,,Ayton S.FOUL (P1.T2) (N.Green),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,57,3,11,1,10:15 PM,7:15,Jordan Free Throw 1 of 2 (1 PTS),,,6 - 6,TIE,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,58,3,12,1,10:15 PM,7:15,MISS Jordan Free Throw 2 of 2,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,59,4,0,1,10:15 PM,7:12,,,Ayton REBOUND (Off:0 Def:3),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,60,1,67,1,10:15 PM,6:49,,,Ayton 4' Hook Bank Shot (2 PTS) (Bridges 1 AST),8 - 6,-2,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,62,5,1,1,10:16 PM,6:39,Westbrook Bad Pass Turnover (P1.T2),,Crowder STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,64,1,41,1,10:16 PM,6:35,,,Shamet 1' Running Layup (8 PTS),10 - 6,-4,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,65,9,1,1,10:16 PM,6:34,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,66,5,1,1,10:19 PM,6:19,Westbrook Bad Pass Turnover (P2.T3),,Paul STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,68,5,1,1,10:20 PM,6:10,Bazemore STEAL (1 STL),,Paul Bad Pass Turnover (P2.T2),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,70,1,50,1,10:20 PM,6:07,Jordan 1' Running Dunk (3 PTS) (Ellington 2 AST),,,10 - 8,-2,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,72,2,78,1,10:20 PM,5:44,,,MISS Crowder 11' Floating Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,73,4,0,1,10:20 PM,5:41,Jordan REBOUND (Off:0 Def:2),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,74,2,1,1,10:20 PM,5:38,MISS Bazemore 25' 3PT Jump Shot,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,75,4,0,1,10:20 PM,5:33,Davis REBOUND (Off:1 Def:0),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,76,2,86,1,10:20 PM,5:27,MISS Davis 10' Turnaround Fadeaway Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,77,4,0,1,10:20 PM,5:24,,,Ayton REBOUND (Off:0 Def:4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,78,1,2,1,10:20 PM,5:18,,,Ayton 27' 3PT Running Jump Shot (5 PTS) (Paul 1 AST),13 - 8,-5,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,80,2,63,1,10:21 PM,4:59,MISS Westbrook 18' Fadeaway Jumper,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,81,4,0,1,10:21 PM,4:51,,,Paul REBOUND (Off:0 Def:2),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,82,1,103,1,10:21 PM,4:48,,,Paul 26' 3PT Running Pull-Up Jump Shot (3 PTS),16 - 8,-8,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,83,6,1,1,10:21 PM,4:37,,,Shamet P.FOUL (P1.T3) (S.Wright),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,85,8,0,1,10:21 PM,4:37,SUB: Anthony FOR Bazemore,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,86,8,0,1,10:21 PM,4:37,SUB: Nunn FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,87,8,0,1,10:21 PM,4:37,,,SUB: Payne FOR Shamet,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,88,8,0,1,10:21 PM,4:37,,,SUB: Johnson FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,93,1,79,1,10:22 PM,4:32,Westbrook 27' 3PT Pullup Jump Shot (3 PTS),,,16 - 11,-5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,94,5,45,1,10:22 PM,4:20,,,Payne Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,95,6,1,1,10:22 PM,4:16,,,Bridges P.FOUL (P2.T4) (M.Boland),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,97,8,0,1,10:22 PM,4:16,,,SUB: McGee FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,98,8,0,1,10:22 PM,4:16,,,SUB: Nader FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,101,5,45,1,10:23 PM,4:06,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,102,1,1,1,10:23 PM,3:51,,,Bridges 26' 3PT Jump Shot (3 PTS) (Payne 1 AST),19 - 11,-8,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,104,5,6,1,10:23 PM,3:44,Nunn Double Dribble Turnover (P1.T5),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,105,6,1,1,10:24 PM,3:27,Davis P.FOUL (P1.T1) (M.Boland),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,107,8,0,1,10:24 PM,3:27,SUB: Rondo FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,109,1,44,1,10:24 PM,3:17,,,Johnson 1' Reverse Layup (2 PTS) (McGee 1 AST),21 - 11,-10,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,111,1,98,1,10:25 PM,3:07,Anthony 1' Cutting Layup Shot (2 PTS) (Davis 1 AST),,,21 - 13,-8,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,113,7,5,1,10:25 PM,2:59,Anthony Violation:Kicked Ball (M.Boland),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0012100038,114,9,1,1,10:25 PM,2:59,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,115,8,0,1,10:28 PM,2:59,SUB: Reaves FOR Ellington,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,116,8,0,1,10:28 PM,2:59,,,SUB: Shamet FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,119,2,1,1,10:28 PM,2:51,,,MISS Nader 25' 3PT Jump Shot,,,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,120,4,0,1,10:28 PM,2:46,,,Johnson REBOUND (Off:1 Def:0),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,121,1,97,1,10:28 PM,2:46,,,Johnson Tip Layup Shot (4 PTS),23 - 13,-10,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,122,2,1,1,10:29 PM,2:24,MISS Rondo 26' 3PT Jump Shot,,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,123,4,0,1,10:29 PM,2:22,,,Nader REBOUND (Off:0 Def:1),,,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,124,1,58,1,10:29 PM,2:12,,,McGee 3' Turnaround Hook Shot (2 PTS) (Payne 2 AST),25 - 13,-12,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,126,2,86,1,10:29 PM,1:57,MISS Anthony 7' Turnaround Fadeaway Shot,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,127,4,0,1,10:29 PM,1:54,,,McGee REBOUND (Off:0 Def:1),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,128,2,1,1,10:30 PM,1:44,,,MISS Payne 26' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,129,4,0,1,10:30 PM,1:42,Anthony REBOUND (Off:0 Def:1),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,130,2,5,1,10:30 PM,1:31,MISS Anthony 2' Layup,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,131,4,0,1,10:30 PM,1:28,,,Johnson REBOUND (Off:1 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,132,2,58,1,10:30 PM,1:13,,,MISS Payne 6' Turnaround Hook Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,133,4,0,1,10:30 PM,1:11,Rondo REBOUND (Off:0 Def:1),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,134,6,2,1,10:30 PM,1:01,,,Nader S.FOUL (P1.PN) (N.Green),,,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,136,3,11,1,10:31 PM,1:01,Davis Free Throw 1 of 2 (6 PTS),,,25 - 14,-11,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,137,3,12,1,10:31 PM,1:01,Davis Free Throw 2 of 2 (7 PTS),,,25 - 15,-10,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,138,2,1,1,10:31 PM,0:43,Davis BLOCK (1 BLK),,MISS Payne 9' Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100038,140,4,0,1,10:31 PM,0:39,,,Payne REBOUND (Off:1 Def:0),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,141,2,66,1,10:31 PM,0:38,,,MISS Payne 7' Jump Bank Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,142,4,0,1,10:31 PM,0:38,Anthony REBOUND (Off:0 Def:2),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,143,1,1,1,10:31 PM,0:34,Anthony 27' 3PT Jump Shot (5 PTS) (Rondo 1 AST),,,25 - 18,-7,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,145,1,6,1,10:32 PM,0:19,,,Nader 2' Driving Layup (2 PTS) (McGee 2 AST),27 - 18,-9,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,147,6,2,1,10:32 PM,0:19,Davis S.FOUL (P2.T2) (M.Boland),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,149,3,10,1,10:32 PM,0:19,,,Nader Free Throw 1 of 1 (3 PTS),28 - 18,-10,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,150,2,1,1,10:33 PM,0:01,MISS Reaves 26' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,151,4,0,1,10:33 PM,0:01,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,152,13,0,1,10:33 PM,0:00,,End of 1st Period (10:33 PM EST),,28 - 18,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100038,157,12,0,2,10:37 PM,12:00,,Start of 2nd Period (10:37 PM EST),,28 - 18,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,158,2,6,2,10:37 PM,11:45,Howard BLOCK (1 BLK),,MISS Shamet 3' Driving Layup,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100038,160,4,0,2,10:37 PM,11:44,Rondo REBOUND (Off:0 Def:2),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,165,5,45,2,10:37 PM,11:44,Rondo Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0012100038,197,2,1,2,10:37 PM,11:44,,,MISS Shamet 9' Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0012100038,198,4,0,2,10:37 PM,11:44,Rondo REBOUND (Off:0 Def:3),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012100038,163,6,2,2,10:37 PM,11:36,,,Johnson S.FOUL (P1.T1) (N.Green),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,166,3,11,2,10:38 PM,11:36,Nunn Free Throw 1 of 2 (1 PTS),,,28 - 19,-9,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,167,3,12,2,10:38 PM,11:36,Nunn Free Throw 2 of 2 (2 PTS),,,28 - 20,-8,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,168,1,63,2,10:38 PM,11:19,,,Paul 13' Fadeaway Jumper (5 PTS),30 - 20,-10,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,169,6,1,2,10:39 PM,10:57,,,Paul P.FOUL (P1.T2) (N.Green),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,171,8,0,2,10:39 PM,10:57,,,SUB: Crowder FOR Nader,,,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,173,2,1,2,10:39 PM,10:49,MISS Nunn 19' Jump Shot,,McGee BLOCK (1 BLK),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,1
+0012100038,175,4,0,2,10:39 PM,10:44,Howard REBOUND (Off:1 Def:0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,176,1,7,2,10:39 PM,10:43,Howard 2' Dunk (2 PTS),,,30 - 22,-8,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,177,2,3,2,10:39 PM,10:31,,,MISS McGee 2' Hook Shot,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,178,4,0,2,10:39 PM,10:31,Anthony REBOUND (Off:0 Def:3),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,179,2,5,2,10:40 PM,10:23,MISS Howard 4' Layup,,McGee BLOCK (2 BLK),,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,1
+0012100038,181,4,0,2,10:40 PM,10:18,,,Shamet REBOUND (Off:0 Def:3),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,183,8,0,2,10:40 PM,10:17,,,SUB: Ayton FOR McGee,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,185,1,79,2,10:40 PM,10:05,,,Paul 8' Pullup Jump Shot (7 PTS),32 - 22,-10,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,186,5,45,2,10:40 PM,9:55,Reaves Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,187,8,0,2,10:41 PM,9:55,,,SUB: Bridges FOR Shamet,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,189,2,1,2,10:41 PM,9:40,,,MISS Bridges 24' 3PT Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,190,4,0,2,10:41 PM,9:37,Nunn REBOUND (Off:0 Def:1),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,191,1,2,2,10:41 PM,9:35,Anthony 26' 3PT Running Jump Shot (8 PTS) (Nunn 1 AST),,,32 - 25,-7,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,193,9,1,2,10:41 PM,9:33,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,199,1,63,2,10:45 PM,9:06,,,Paul 18' Fadeaway Jumper (9 PTS),34 - 25,-9,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,200,6,4,2,10:46 PM,8:58,Anthony OFF.Foul (P1) (M.Boland),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,339,5,37,2,10:46 PM,8:58,Anthony Offensive Foul Turnover (P1.T8),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0012100038,203,2,79,2,10:46 PM,8:35,Anthony BLOCK (1 BLK),,MISS Bridges 7' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100038,205,4,0,2,10:46 PM,8:31,Anthony REBOUND (Off:0 Def:4),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,206,6,26,2,10:46 PM,8:29,Anthony Offensive Charge Foul (P2) (S.Wright),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,208,5,37,2,10:46 PM,8:29,Anthony Offensive Foul Turnover (P2.T9),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,209,8,0,2,10:46 PM,8:29,SUB: Westbrook FOR Rondo,,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,210,8,0,2,10:46 PM,8:29,SUB: Bazemore FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,213,1,79,2,10:47 PM,8:17,,,Paul 16' Pullup Jump Shot (11 PTS),36 - 25,-11,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,214,6,1,2,10:47 PM,8:04,,,Ayton P.FOUL (P2.T3) (N.Green),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,216,2,1,2,10:48 PM,7:57,MISS Nunn 26' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,217,4,0,2,10:48 PM,7:54,,,Crowder REBOUND (Off:0 Def:3),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,218,2,103,2,10:48 PM,7:49,,,MISS Paul 25' 3PT Running Pull-Up Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,219,4,0,2,10:48 PM,7:45,Westbrook REBOUND (Off:0 Def:1),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,220,1,2,2,10:48 PM,7:41,Anthony 26' 3PT Running Jump Shot (11 PTS) (Westbrook 1 AST),,,36 - 28,-8,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,222,1,1,2,10:48 PM,7:22,,,Crowder 20' Jump Shot (2 PTS) (Paul 2 AST),38 - 28,-10,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,224,2,1,2,10:48 PM,7:12,MISS Anthony 26' 3PT Jump Shot,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,225,4,0,2,10:48 PM,7:09,,,Bridges REBOUND (Off:0 Def:1),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,226,6,2,2,10:48 PM,7:06,Howard S.FOUL (P1.T1) (N.Green),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,228,3,11,2,10:49 PM,7:06,,,Bridges Free Throw 1 of 2 (4 PTS),39 - 28,-11,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,229,8,0,2,10:49 PM,7:06,SUB: Davis FOR Anthony,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,230,8,0,2,10:49 PM,7:06,SUB: Ellington FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,231,8,0,2,10:49 PM,7:06,,,SUB: Payne FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,235,3,12,2,10:49 PM,7:06,,,Bridges Free Throw 2 of 2 (5 PTS),40 - 28,-12,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,236,2,79,2,10:50 PM,6:43,MISS Bazemore 20' Pullup Jump Shot,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,237,4,0,2,10:50 PM,6:41,,,Ayton REBOUND (Off:0 Def:5),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,239,2,101,2,10:50 PM,6:24,,,MISS Payne 2' Driving Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,240,4,0,2,10:50 PM,6:21,,,Ayton REBOUND (Off:1 Def:5),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,241,5,1,2,10:50 PM,6:20,Davis STEAL (1 STL),,Ayton Bad Pass Turnover (P1.T4),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,244,1,1,2,10:51 PM,6:15,Westbrook 26' 3PT Jump Shot (6 PTS) (Davis 2 AST),,,40 - 31,-9,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,246,7,5,2,10:51 PM,6:03,Howard Violation:Kicked Ball (N.Green),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0012100038,248,6,1,2,10:52 PM,6:00,Bazemore P.FOUL (P1.T2) (N.Green),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,250,5,45,2,10:53 PM,5:51,,,Crowder Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,251,1,1,2,10:53 PM,5:40,Ellington 24' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),,,40 - 34,-6,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,253,2,1,2,10:54 PM,5:18,,,MISS Paul 29' 3PT Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,254,4,0,2,10:54 PM,5:16,Ellington REBOUND (Off:0 Def:4),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,255,2,1,2,10:54 PM,5:01,MISS Davis 3PT Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,256,4,0,2,10:54 PM,5:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,258,2,1,2,10:55 PM,4:53,MISS Ellington 27' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,259,4,0,2,10:55 PM,4:49,,,Ayton REBOUND (Off:1 Def:6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,260,2,1,2,10:55 PM,4:26,,,MISS Payne 27' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,261,4,0,2,10:55 PM,4:24,Howard REBOUND (Off:1 Def:1),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,262,6,2,2,10:55 PM,4:22,,,Paul S.FOUL (P2.T4) (S.Wright),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,264,3,11,2,10:56 PM,4:22,Davis Free Throw 1 of 2 (8 PTS),,,40 - 35,-5,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,265,3,12,2,10:56 PM,4:22,Davis Free Throw 2 of 2 (9 PTS),,,40 - 36,-4,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,266,5,4,2,10:56 PM,4:10,,,Ayton Traveling Turnover (P2.T6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,267,2,105,2,10:57 PM,3:59,MISS Westbrook 6' Turnaround Fadeaway Bank Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,268,4,0,2,10:57 PM,3:57,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,270,2,79,2,10:57 PM,3:38,,,MISS Bridges 12' Pullup Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,271,4,0,2,10:57 PM,3:33,Howard REBOUND (Off:1 Def:2),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,272,6,1,2,10:57 PM,3:32,,,Payne P.FOUL (P1.PN) (M.Boland),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,274,3,11,2,10:58 PM,3:32,Davis Free Throw 1 of 2 (10 PTS),,,40 - 37,-3,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,275,8,0,2,10:58 PM,3:32,,,SUB: Shamet FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,276,8,0,2,10:58 PM,3:32,,,SUB: McGee FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,279,3,12,2,10:58 PM,3:32,Davis Free Throw 2 of 2 (11 PTS),,,40 - 38,-2,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,280,5,2,2,10:59 PM,3:15,Davis STEAL (2 STL),,McGee Lost Ball Turnover (P1.T7),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,283,6,1,2,10:59 PM,3:15,,,McGee P.FOUL (P1.PN) (N.Green),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,285,3,11,2,10:59 PM,3:15,Davis Free Throw 1 of 2 (12 PTS),,,40 - 39,-1,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,286,3,12,2,10:59 PM,3:15,MISS Davis Free Throw 2 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,287,4,0,2,10:59 PM,3:12,,,McGee REBOUND (Off:0 Def:2),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,288,2,1,2,11:00 PM,2:49,,,MISS Payne 27' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,289,4,0,2,11:00 PM,2:46,Westbrook REBOUND (Off:0 Def:2),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,290,1,106,2,11:00 PM,2:45,Davis 2' Running Alley Oop Dunk Shot (14 PTS) (Bazemore 1 AST),,,40 - 41,1,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,292,9,1,2,11:00 PM,2:44,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,293,2,1,2,11:04 PM,2:21,,,MISS Shamet 24' 3PT Jump Shot,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,294,4,0,2,11:04 PM,2:20,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,295,6,3,2,11:04 PM,2:20,,,Bridges L.B.FOUL (P3.PN) (M.Boland),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,297,3,11,2,11:04 PM,2:20,Davis Free Throw 1 of 2 (15 PTS),,,40 - 42,2,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,298,3,12,2,11:05 PM,2:20,MISS Davis Free Throw 2 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,299,4,0,2,11:05 PM,2:17,,,McGee REBOUND (Off:0 Def:3),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,300,2,101,2,11:05 PM,2:05,,,MISS Payne 7' Driving Floating Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,301,4,0,2,11:05 PM,2:01,,,Payne REBOUND (Off:2 Def:0),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,302,1,97,2,11:05 PM,2:01,,,Payne Tip Layup Shot (2 PTS),42 - 42,TIE,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,303,2,6,2,11:05 PM,1:39,MISS Davis 3' Driving Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,304,4,0,2,11:05 PM,1:37,,,McGee REBOUND (Off:0 Def:4),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,305,5,1,2,11:05 PM,1:35,Bazemore STEAL (2 STL),,Crowder Bad Pass Turnover (P2.T8),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,307,1,7,2,11:05 PM,1:30,Davis 1' Dunk (17 PTS) (Bazemore 2 AST),,,42 - 44,2,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,309,6,4,2,11:06 PM,1:24,,,McGee OFF.Foul (P2) (S.Wright),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,311,5,37,2,11:06 PM,1:24,,,McGee Offensive Foul Turnover (P2.T9),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,312,5,45,2,11:06 PM,1:15,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P4.T10),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,313,2,1,2,11:06 PM,1:07,,,MISS Crowder 26' 3PT Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,314,4,0,2,11:06 PM,1:05,,,McGee REBOUND (Off:1 Def:4),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,315,6,2,2,11:06 PM,1:05,Bazemore S.FOUL (P2.T3) (S.Wright),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,317,3,11,2,11:07 PM,1:05,,,McGee Free Throw 1 of 2 (3 PTS),43 - 44,1,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,318,3,12,2,11:07 PM,1:05,,,McGee Free Throw 2 of 2 (4 PTS),44 - 44,TIE,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,319,5,45,2,11:07 PM,1:01,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P5.T11),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,320,6,2,2,11:08 PM,0:54,Howard S.FOUL (P2.PN) (N.Green),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,322,3,11,2,11:08 PM,0:54,,,Payne Free Throw 1 of 2 (3 PTS),45 - 44,-1,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,323,3,12,2,11:08 PM,0:54,,,Payne Free Throw 2 of 2 (4 PTS),46 - 44,-2,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,324,2,1,2,11:09 PM,0:39,MISS Ellington 26' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,325,4,0,2,11:09 PM,0:36,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,328,1,79,2,11:09 PM,0:29,,,Payne 15' Pullup Jump Shot (6 PTS),48 - 44,-4,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,329,2,6,2,11:09 PM,0:07,MISS Westbrook 4' Driving Layup,,McGee BLOCK (3 BLK),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,1
+0012100038,330,4,0,2,11:09 PM,0:07,,,Bridges REBOUND (Off:0 Def:2),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,331,2,1,2,11:09 PM,0:04,,,MISS Crowder 26' 3PT Jump Shot,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,332,4,0,2,11:09 PM,0:02,,,Payne REBOUND (Off:3 Def:0),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,333,1,1,2,11:09 PM,0:00,,,Shamet 3PT Jump Shot (11 PTS) (Payne 3 AST),51 - 44,-7,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,338,18,0,2,11:10 PM,0:00,,Instant Replay2nd Period (11:10 PM EST),,51 - 44,-7,0,333,Kevin Gamble,,,,,0,0,,,,,,1,0,,,,,,0
+0012100038,335,13,0,2,11:10 PM,0:00,,End of 2nd Period (11:10 PM EST),,51 - 44,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100038,346,12,0,3,11:26 PM,12:00,,Start of 3rd Period (11:26 PM EST),,51 - 44,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,347,1,79,3,11:27 PM,11:42,,,Bridges 17' Pullup Jump Shot (7 PTS),53 - 44,-9,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,348,1,1,3,11:27 PM,11:17,Bazemore 25' 3PT Jump Shot (3 PTS) (Davis 3 AST),,,53 - 47,-6,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,350,2,78,3,11:27 PM,11:06,,,MISS Ayton 11' Floating Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,351,4,0,3,11:27 PM,11:03,Davis REBOUND (Off:1 Def:1),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,352,2,79,3,11:27 PM,10:58,MISS Westbrook 6' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,353,4,0,3,11:27 PM,10:54,,,Paul REBOUND (Off:0 Def:3),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,354,5,2,3,11:28 PM,10:47,Bazemore STEAL (3 STL),,Ayton Lost Ball Turnover (P3.T10),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,356,1,1,3,11:28 PM,10:36,Bazemore 25' 3PT Jump Shot (6 PTS) (Davis 4 AST),,,53 - 50,-3,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,358,5,1,3,11:28 PM,10:15,Westbrook STEAL (1 STL),,Bridges Bad Pass Turnover (P1.T11),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,360,2,79,3,11:28 PM,10:02,MISS Westbrook 27' 3PT Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,361,4,0,3,11:28 PM,9:59,,,Crowder REBOUND (Off:0 Def:4),,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,362,1,79,3,11:28 PM,9:52,,,Paul 13' Pullup Jump Shot (13 PTS),55 - 50,-5,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,363,1,99,3,11:29 PM,9:28,Davis 1' Cutting Finger Roll Layup Shot (19 PTS) (Westbrook 3 AST),,,55 - 52,-3,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,365,2,1,3,11:29 PM,9:15,,,MISS Ayton 13' Jump Shot,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,366,4,0,3,11:29 PM,9:12,Jordan REBOUND (Off:0 Def:3),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,367,5,45,3,11:29 PM,9:07,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P6.T12),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,368,1,43,3,11:29 PM,8:58,,,Ayton 2' Alley Oop Layup (7 PTS) (Paul 3 AST),57 - 52,-5,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,370,5,1,3,11:30 PM,8:46,Bazemore Bad Pass Turnover (P1.T13),,Shamet STEAL (1 STL),,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,372,6,28,3,11:30 PM,8:45,Westbrook Personal Take Foul (P1.T1) (S.Wright),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,374,2,63,3,11:30 PM,8:35,,,MISS Paul 6' Fadeaway Jumper,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,375,4,0,3,11:30 PM,8:33,,,Ayton REBOUND (Off:2 Def:6),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,376,6,2,3,11:30 PM,8:28,Ellington S.FOUL (P1.T2) (M.Boland),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,378,3,11,3,11:31 PM,8:28,,,Shamet Free Throw 1 of 2 (12 PTS),58 - 52,-6,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,379,3,12,3,11:31 PM,8:28,,,Shamet Free Throw 2 of 2 (13 PTS),59 - 52,-7,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,380,1,1,3,11:31 PM,8:18,Westbrook 19' Jump Shot (8 PTS) (Davis 5 AST),,,59 - 54,-5,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,382,5,1,3,11:32 PM,8:09,Davis STEAL (3 STL),,Paul Bad Pass Turnover (P3.T12),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,384,2,41,3,11:32 PM,8:04,MISS Davis 2' Running Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,385,4,0,3,11:32 PM,8:01,,,Bridges REBOUND (Off:0 Def:3),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,386,1,98,3,11:32 PM,7:56,,,Bridges 2' Cutting Layup Shot (9 PTS) (Paul 4 AST),61 - 54,-7,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,388,5,45,3,11:32 PM,7:47,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P7.T14),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,389,2,1,3,11:32 PM,7:36,,,MISS Paul 26' 3PT Jump Shot,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,390,4,0,3,11:32 PM,7:34,Jordan REBOUND (Off:0 Def:4),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,391,5,4,3,11:32 PM,7:33,Westbrook Traveling Turnover (P8.T15),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,392,7,1,3,11:33 PM,7:33,LAKERS Violation: Delay of game Violation,,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100038,393,6,1,3,11:33 PM,7:26,Westbrook P.FOUL (P2.T3) (N.Green),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,395,1,108,3,11:33 PM,7:16,,,Ayton 2' Cutting Dunk Shot (9 PTS) (Crowder 2 AST),63 - 54,-9,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,397,1,7,3,11:33 PM,7:05,Jordan 2' Dunk (5 PTS) (Westbrook 4 AST),,,63 - 56,-7,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,399,6,2,3,11:34 PM,6:58,Davis S.FOUL (P3.T4) (N.Green),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,401,9,1,3,11:34 PM,6:58,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,402,3,11,3,11:37 PM,6:58,,,Ayton Free Throw 1 of 2 (10 PTS),64 - 56,-8,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,403,3,12,3,11:38 PM,6:58,,,Ayton Free Throw 2 of 2 (11 PTS),65 - 56,-9,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,404,6,1,3,11:38 PM,6:40,,,Bridges P.FOUL (P4.T1) (S.Wright),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,406,2,1,3,11:38 PM,6:32,MISS Bazemore 3PT Jump Shot,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,407,4,0,3,11:39 PM,6:29,,,Ayton REBOUND (Off:2 Def:7),,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,408,1,1,3,11:39 PM,6:19,,,Crowder 25' 3PT Jump Shot (5 PTS) (Paul 5 AST),68 - 56,-12,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,410,9,1,3,11:39 PM,6:10,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,411,8,0,3,11:42 PM,6:10,SUB: Rondo FOR Ellington,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,412,8,0,3,11:42 PM,6:10,SUB: Anthony FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,415,2,6,3,11:43 PM,5:56,MISS Westbrook 3' Driving Layup,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,416,4,0,3,11:43 PM,5:54,Bazemore REBOUND (Off:1 Def:2),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,417,1,1,3,11:43 PM,5:48,Anthony 25' 3PT Jump Shot (14 PTS) (Davis 6 AST),,,68 - 59,-9,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,419,1,47,3,11:43 PM,5:32,,,Paul 21' Turnaround Jump Shot (15 PTS),70 - 59,-11,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,420,1,98,3,11:43 PM,5:22,Bazemore 2' Cutting Layup Shot (8 PTS) (Westbrook 5 AST),,,70 - 61,-9,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,422,5,2,3,11:43 PM,5:13,Bazemore STEAL (4 STL),,Paul Lost Ball Turnover (P4.T13),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,424,6,28,3,11:43 PM,5:13,,,Paul Personal Take Foul (P3.T2) (N.Green),,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,426,8,0,3,11:44 PM,5:13,,,SUB: Payne FOR Paul,,,5,101108,Chris Paul,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,427,8,0,3,11:44 PM,5:13,,,SUB: Johnson FOR Crowder,,,5,203109,Jae Crowder,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,430,2,1,3,11:44 PM,5:01,MISS Davis 18' Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,431,4,0,3,11:44 PM,4:58,,,Bridges REBOUND (Off:0 Def:4),,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,432,2,1,3,11:44 PM,4:51,,,MISS Bridges 17' Jump Shot,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,433,4,0,3,11:44 PM,4:47,,,Johnson REBOUND (Off:2 Def:1),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,434,2,97,3,11:44 PM,4:47,,,MISS Johnson Tip Layup Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,435,4,0,3,11:44 PM,4:46,Bazemore REBOUND (Off:1 Def:3),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,437,6,4,3,11:45 PM,4:34,Anthony OFF.Foul (P3) (S.Wright),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,439,5,37,3,11:45 PM,4:34,Anthony Offensive Foul Turnover (P3.T16),,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,440,5,39,3,11:45 PM,4:21,,,Shamet Step Out of Bounds Turnover (P1.T14),,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,441,8,0,3,11:45 PM,4:21,,,SUB: McGee FOR Ayton,,,5,1629028,Deandre Ayton,1610612756.0,Phoenix,Suns,PHX,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,443,5,2,3,11:45 PM,4:13,Westbrook Lost Ball Turnover (P9.T17),,McGee STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,445,6,2,3,11:46 PM,4:08,Bazemore S.FOUL (P3.PN) (N.Green),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,447,3,11,3,11:46 PM,4:08,,,McGee Free Throw 1 of 2 (5 PTS),71 - 61,-10,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,448,8,0,3,11:46 PM,4:08,,,SUB: Smith FOR Shamet,,,5,1629013,Landry Shamet,1610612756.0,Phoenix,Suns,PHX,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,471,8,0,3,11:46 PM,4:08,,,SUB: Nader FOR Bridges,,,5,1628969,Mikal Bridges,1610612756.0,Phoenix,Suns,PHX,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,450,3,12,3,11:47 PM,4:08,,,McGee Free Throw 2 of 2 (6 PTS),72 - 61,-11,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,451,2,1,3,11:47 PM,3:55,MISS Westbrook 27' 3PT Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,452,4,0,3,11:47 PM,3:53,,,McGee REBOUND (Off:1 Def:5),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,453,2,1,3,11:47 PM,3:46,,,MISS Payne 25' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,454,4,0,3,11:47 PM,3:43,Davis REBOUND (Off:1 Def:2),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,455,5,45,3,11:47 PM,3:40,Rondo Out of Bounds - Bad Pass Turnover Turnover (P2.T18),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,456,1,6,3,11:47 PM,3:28,,,Payne 1' Driving Layup (8 PTS),74 - 61,-13,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,457,5,1,3,11:47 PM,3:19,Rondo Bad Pass Turnover (P3.T19),,Nader STEAL (1 STL),,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,459,1,5,3,11:48 PM,3:14,,,Smith 1' Layup (2 PTS) (Nader 1 AST),76 - 61,-15,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,462,9,1,3,11:48 PM,3:14,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,463,8,0,3,11:49 PM,3:14,SUB: Reaves FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,464,8,0,3,11:49 PM,3:14,SUB: Jordan FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,465,8,0,3,11:49 PM,3:14,SUB: Nunn FOR Bazemore,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,473,2,1,3,11:50 PM,2:52,MISS Anthony 19' Jump Shot,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,474,4,0,3,11:50 PM,2:50,,,McGee REBOUND (Off:1 Def:6),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,475,1,75,3,11:50 PM,2:41,,,Nader 3' Driving Finger Roll Layup (5 PTS),78 - 61,-17,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,476,6,1,3,11:50 PM,2:29,,,Nader P.FOUL (P2.T3) (N.Green),,,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,478,6,1,3,11:51 PM,2:26,,,Johnson P.FOUL (P2.T4) (M.Boland),,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,480,6,4,3,11:51 PM,2:23,Jordan OFF.Foul (P1) (S.Wright),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0012100038,482,5,37,3,11:51 PM,2:23,Jordan Offensive Foul Turnover (P1.T20),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+0012100038,483,1,80,3,11:51 PM,2:13,,,Johnson 16' Step Back Jump Shot (6 PTS) (Payne 4 AST),80 - 61,-19,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,485,2,1,3,11:51 PM,2:04,MISS Reaves 27' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,486,4,0,3,11:52 PM,2:01,,,Smith REBOUND (Off:0 Def:1),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,487,1,5,3,11:52 PM,1:50,,,McGee 3' Layup (8 PTS) (Johnson 1 AST),82 - 61,-21,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,505,5,2,3,11:52 PM,1:46,Anthony Lost Ball Turnover (P4.T21),,Payne STEAL (1 STL),,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,507,2,1,3,11:52 PM,1:40,,,MISS Johnson 25' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,508,4,0,3,11:52 PM,1:36,,,Payne REBOUND (Off:4 Def:0),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,509,2,1,3,11:52 PM,1:35,,,MISS Smith 16' Jump Shot,,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,510,4,0,3,11:52 PM,1:33,Jordan REBOUND (Off:0 Def:5),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,490,1,103,3,11:52 PM,1:26,Anthony 26' 3PT Running Pull-Up Jump Shot (17 PTS),,,82 - 64,-18,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,491,2,1,3,11:52 PM,1:15,,,MISS Johnson 27' 3PT Jump Shot,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,492,4,0,3,11:52 PM,1:12,,,Smith REBOUND (Off:1 Def:1),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,493,1,57,3,11:52 PM,1:06,,,McGee 12' Driving Hook Shot (10 PTS) (Payne 5 AST),84 - 64,-20,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,495,2,1,3,11:53 PM,0:56,MISS Anthony 15' Jump Shot,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,496,4,0,3,11:53 PM,0:52,,,McGee REBOUND (Off:1 Def:7),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,497,1,52,3,11:53 PM,0:36,,,McGee 1' Alley Oop Dunk (12 PTS) (Payne 6 AST),86 - 64,-22,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,499,2,79,3,11:53 PM,0:27,MISS Rondo 15' Pullup Jump Shot,,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,500,4,0,3,11:53 PM,0:23,,,Smith REBOUND (Off:1 Def:2),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,501,1,101,3,11:54 PM,0:04,,,Payne 4' Driving Floating Jump Shot (10 PTS),88 - 64,-24,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,502,2,63,3,11:54 PM,0:00,MISS Anthony 27' 3PT Fadeaway Jumper,,,,,4,2546,Carmelo Anthony,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,503,4,0,3,11:54 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,504,13,0,3,11:54 PM,0:00,,End of 3rd Period (11:54 PM EST),,88 - 64,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100038,517,12,0,4,11:57 PM,12:00,,Start of 4th Period (11:57 PM EST),,88 - 64,-24,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,518,2,1,4,11:58 PM,11:44,MISS Oliver 12' Jump Shot,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,519,4,0,4,11:58 PM,11:41,,,McGee REBOUND (Off:1 Def:8),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,520,1,57,4,11:58 PM,11:27,,,Smith 3' Driving Hook Shot (4 PTS),90 - 64,-26,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,521,2,1,4,11:58 PM,11:17,MISS Oliver 27' 3PT Jump Shot,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,522,4,0,4,11:58 PM,11:12,Queen REBOUND (Off:1 Def:0),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,523,1,1,4,11:58 PM,11:10,Queen 17' Jump Shot (2 PTS),,,90 - 66,-24,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,524,1,1,4,11:58 PM,10:52,,,Johnson 25' 3PT Jump Shot (9 PTS) (Payne 7 AST),93 - 66,-27,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,526,1,5,4,11:59 PM,10:41,Oliver 3' Layup (2 PTS) (Reaves 1 AST),,,93 - 68,-25,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,528,6,2,4,11:59 PM,10:41,,,Payne S.FOUL (P2.T1) (S.Wright),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,530,3,10,4,11:59 PM,10:41,Oliver Free Throw 1 of 1 (3 PTS),,,93 - 69,-24,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,531,5,1,4,11:59 PM,10:30,Queen STEAL (1 STL),,McGee Bad Pass Turnover (P3.T15),,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,533,2,2,4,11:59 PM,10:26,MISS Reaves 3PT Running Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,534,4,0,4,12:00 AM,10:22,,,Smith REBOUND (Off:1 Def:3),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,535,2,1,4,12:00 AM,10:16,,,MISS Payne 30' 3PT Jump Shot,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,537,1,97,4,12:00 AM,10:06,,,Smith Tip Layup Shot (6 PTS),95 - 69,-26,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,536,4,0,4,12:00 AM,10:06,,,Smith REBOUND (Off:2 Def:3),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,538,2,1,4,12:00 AM,10:00,MISS Brown 27' 3PT Jump Shot,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,539,4,0,4,12:00 AM,9:56,,,Smith REBOUND (Off:2 Def:4),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,540,5,45,4,12:00 AM,9:50,,,Payne Out of Bounds - Bad Pass Turnover Turnover (P2.T16),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,541,8,0,4,12:00 AM,9:50,,,SUB: Kaminsky FOR McGee,,,5,201580,JaVale McGee,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,542,8,0,4,12:00 AM,9:50,,,SUB: Payton FOR Johnson,,,5,1629661,Cameron Johnson,1610612756.0,Phoenix,Suns,PHX,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,545,2,75,4,12:01 AM,9:29,MISS Nunn 3' Driving Finger Roll Layup,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,546,4,0,4,12:01 AM,9:27,,,Smith REBOUND (Off:2 Def:5),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,547,1,73,4,12:01 AM,9:20,,,Nader 1' Driving Reverse Layup (7 PTS) (Kaminsky 1 AST),97 - 69,-28,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,549,6,2,4,12:01 AM,9:20,Oliver S.FOUL (P1.T1) (S.Wright),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,551,3,10,4,12:01 AM,9:20,,,Nader Free Throw 1 of 1 (8 PTS),98 - 69,-29,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0012100038,552,6,2,4,12:02 AM,9:09,,,Payne S.FOUL (P3.T2) (S.Wright),,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,554,3,11,4,12:02 AM,9:09,MISS Brown Free Throw 1 of 2,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012100038,555,4,1,4,12:02 AM,9:09,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,556,3,12,4,12:02 AM,9:09,Brown Free Throw 2 of 2 (1 PTS),,,98 - 70,-28,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012100038,557,2,1,4,12:02 AM,8:58,,,MISS Smith 26' 3PT Jump Shot,,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,558,4,0,4,12:02 AM,8:55,Queen REBOUND (Off:1 Def:1),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,559,5,4,4,12:03 AM,8:52,Queen Traveling Turnover (P1.T22),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100038,560,5,2,4,12:03 AM,8:40,Brown STEAL (1 STL),,Payton Lost Ball Turnover (P1.T17),,,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,562,1,6,4,12:03 AM,8:31,Reaves 2' Driving Layup (2 PTS) (Oliver 1 AST),,,98 - 72,-26,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,564,2,75,4,12:03 AM,8:19,,,MISS Payne Driving Finger Roll Layup,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,565,4,0,4,12:03 AM,8:16,Reaves REBOUND (Off:0 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,566,1,1,4,12:03 AM,8:08,Brown 26' 3PT Jump Shot (4 PTS) (Oliver 2 AST),,,98 - 75,-23,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,568,9,1,4,12:04 AM,8:07,,,Suns Timeout: Regular (Reg.4 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,569,8,0,4,12:06 AM,8:07,SUB: Ayayi FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,570,8,0,4,12:06 AM,8:07,,,SUB: Randle FOR Nader,,,5,1627846,Abdel Nader,1610612756.0,Phoenix,Suns,PHX,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,571,8,0,4,12:06 AM,8:07,,,SUB: Hutchison FOR Payne,,,5,1626166,Cameron Payne,1610612756.0,Phoenix,Suns,PHX,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0012100038,575,1,101,4,12:07 AM,7:47,,,Payton 5' Driving Floating Jump Shot (2 PTS) (Randle 1 AST),100 - 75,-25,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,577,6,1,4,12:08 AM,7:35,,,Smith P.FOUL (P1.T3) (S.Wright),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,579,1,1,4,12:08 AM,7:29,Reaves 27' 3PT Jump Shot (5 PTS),,,100 - 78,-22,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,580,5,2,4,12:08 AM,7:12,Oliver STEAL (1 STL),,Kaminsky Lost Ball Turnover (P1.T18),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,582,2,41,4,12:08 AM,7:08,MISS Brown 4' Running Layup,,Payton BLOCK (1 BLK),,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,1
+0012100038,584,4,0,4,12:08 AM,7:03,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,586,5,4,4,12:09 AM,6:54,,,Payton Traveling Turnover (P2.T19),,,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,1
+0012100038,587,2,1,4,12:09 AM,6:43,MISS Queen 24' 3PT Jump Shot,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,588,4,0,4,12:09 AM,6:40,,,Kaminsky REBOUND (Off:0 Def:1),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,589,2,5,4,12:09 AM,6:30,Queen BLOCK (1 BLK),,MISS Smith 2' Layup,,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100038,591,4,0,4,12:09 AM,6:29,,,Smith REBOUND (Off:3 Def:5),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,592,6,2,4,12:09 AM,6:29,Oliver S.FOUL (P2.T2) (S.Wright),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,594,3,11,4,12:10 AM,6:29,,,Smith Free Throw 1 of 2 (7 PTS),101 - 78,-23,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,595,3,12,4,12:10 AM,6:29,,,Smith Free Throw 2 of 2 (8 PTS),102 - 78,-24,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,596,6,2,4,12:10 AM,6:19,,,Randle S.FOUL (P1.T4) (S.Wright),,,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,598,3,11,4,12:11 AM,6:19,Brown Free Throw 1 of 2 (5 PTS),,,102 - 79,-23,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,599,3,12,4,12:11 AM,6:19,Brown Free Throw 2 of 2 (6 PTS),,,102 - 80,-22,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,600,1,101,4,12:11 AM,6:00,,,Randle 2' Driving Floating Jump Shot (2 PTS) (Kaminsky 2 AST),104 - 80,-24,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,602,2,1,4,12:11 AM,5:49,MISS Queen 25' 3PT Jump Shot,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,603,4,0,4,12:11 AM,5:46,Brown REBOUND (Off:1 Def:0),,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,604,5,1,4,12:11 AM,5:43,Brown Bad Pass Turnover (P1.T23),,Payton STEAL (1 STL),,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,606,1,6,4,12:12 AM,5:31,,,Payton 1' Driving Layup (4 PTS),106 - 80,-26,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,607,2,98,4,12:12 AM,5:17,MISS Oliver 2' Cutting Layup Shot,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,608,4,0,4,12:12 AM,5:17,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,610,1,1,4,12:12 AM,5:09,Reaves 25' 3PT Jump Shot (8 PTS) (Oliver 3 AST),,,106 - 83,-23,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,612,1,1,4,12:12 AM,4:56,,,Randle 18' Jump Shot (4 PTS),108 - 83,-25,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,613,1,52,4,12:13 AM,4:48,Queen 1' Alley Oop Dunk (4 PTS) (Reaves 2 AST),,,108 - 85,-23,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,615,1,108,4,12:13 AM,4:27,,,Kaminsky 2' Cutting Dunk Shot (2 PTS) (Hutchison 1 AST),110 - 85,-25,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,617,2,1,4,12:13 AM,4:09,MISS Brown 27' 3PT Jump Shot,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,618,4,0,4,12:13 AM,4:06,,,Hutchison REBOUND (Off:0 Def:1),,,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,619,6,1,4,12:13 AM,4:03,Reaves P.FOUL (P1.T3) (N.Green),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,621,8,0,4,12:14 AM,4:03,SUB: McClung FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100038,623,6,2,4,12:14 AM,3:58,Queen S.FOUL (P1.T4) (M.Boland),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,625,3,11,4,12:14 AM,3:58,,,MISS Hutchison Free Throw 1 of 2,,,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,626,4,1,4,12:14 AM,3:58,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,627,3,12,4,12:15 AM,3:58,,,Hutchison Free Throw 2 of 2 (1 PTS),111 - 85,-26,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,628,1,1,4,12:15 AM,3:45,McClung 25' 3PT Jump Shot (3 PTS) (Oliver 4 AST),,,111 - 88,-23,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,631,6,1,4,12:15 AM,3:39,Queen P.FOUL (P2.PN) (S.Wright),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,633,3,11,4,12:16 AM,3:39,,,Hutchison Free Throw 1 of 2 (2 PTS),112 - 88,-24,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,634,3,12,4,12:16 AM,3:39,,,MISS Hutchison Free Throw 2 of 2,,,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,635,4,0,4,12:16 AM,3:36,Oliver REBOUND (Off:0 Def:1),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,636,6,2,4,12:16 AM,3:29,,,Payton S.FOUL (P1.PN) (N.Green),,,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100038,638,3,11,4,12:16 AM,3:29,MISS Oliver Free Throw 1 of 2,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,639,4,1,4,12:16 AM,3:29,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,640,3,12,4,12:16 AM,3:29,MISS Oliver Free Throw 2 of 2,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,641,4,0,4,12:16 AM,3:26,,,Hutchison REBOUND (Off:0 Def:2),,,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,642,1,1,4,12:17 AM,3:14,,,Randle 26' 3PT Jump Shot (7 PTS) (Kaminsky 3 AST),115 - 88,-27,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,644,2,5,4,12:17 AM,2:57,MISS Brown 1' Layup,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,645,4,0,4,12:17 AM,2:53,Queen REBOUND (Off:2 Def:1),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,646,1,97,4,12:17 AM,2:53,Queen Tip Layup Shot (6 PTS),,,115 - 90,-25,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,647,2,1,4,12:17 AM,2:44,,,MISS Kaminsky 26' 3PT Jump Shot,,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,648,4,0,4,12:17 AM,2:41,,,Smith REBOUND (Off:4 Def:5),,,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,649,1,9,4,12:18 AM,2:39,,,Smith 1' Driving Dunk (10 PTS),117 - 90,-27,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,650,2,79,4,12:18 AM,2:26,MISS McClung 20' Pullup Jump Shot,,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,651,4,0,4,12:18 AM,2:21,,,Randle REBOUND (Off:0 Def:1),,,5,1626184,Chasson Randle,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,652,1,96,4,12:18 AM,2:05,,,Smith 1' Turnaround Bank Hook Shot (12 PTS) (Hutchison 2 AST),119 - 90,-29,5,1630188,Jalen Smith,1610612756.0,Phoenix,Suns,PHX,5,1628990,Chandler Hutchison,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1
+0012100038,654,2,1,4,12:18 AM,1:49,MISS Brown 27' 3PT Jump Shot,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,655,4,0,4,12:18 AM,1:47,,,Kaminsky REBOUND (Off:0 Def:2),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,656,5,1,4,12:19 AM,1:40,Brown STEAL (2 STL),,Kaminsky Bad Pass Turnover (P2.T20),,,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100038,658,2,86,4,12:19 AM,1:27,MISS McClung 15' Turnaround Fadeaway Shot,,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,659,4,0,4,12:19 AM,1:24,,,Payton REBOUND (Off:0 Def:1),,,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,660,1,102,4,12:19 AM,1:17,,,Payton 5' Driving Floating Bank Jump Shot (6 PTS),121 - 90,-31,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,661,2,1,4,12:19 AM,1:05,MISS Queen 27' 3PT Jump Shot,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,662,4,0,4,12:19 AM,1:02,McClung REBOUND (Off:1 Def:0),,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,663,1,6,4,12:19 AM,0:53,Brown 2' Driving Layup (8 PTS),,,121 - 92,-29,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,664,6,2,4,12:20 AM,0:41,Oliver S.FOUL (P3.PN) (N.Green),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,1
+0012100038,666,9,1,4,12:20 AM,0:41,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100038,667,3,11,4,12:23 AM,0:41,,,Kaminsky Free Throw 1 of 2 (3 PTS),122 - 92,-30,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,668,3,12,4,12:24 AM,0:41,,,Kaminsky Free Throw 2 of 2 (4 PTS),123 - 92,-31,5,1626163,Frank Kaminsky,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,669,1,101,4,12:24 AM,0:27,Ayayi 5' Driving Floating Jump Shot (2 PTS),,,123 - 94,-29,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,670,5,11,4,12:24 AM,0:03,,,Suns Turnover: Shot Clock (T#21),,,3,1610612756,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100038,671,2,1,4,12:25 AM,0:02,MISS Oliver 25' 3PT Jump Shot,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100038,672,4,0,4,12:25 AM,0:00,,,Payton REBOUND (Off:0 Def:2),,,5,203901,Elfrid Payton,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,1
+0012100038,673,13,0,4,12:25 AM,0:00,,End of 4th Period (12:25 AM EST),,123 - 94,-29,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

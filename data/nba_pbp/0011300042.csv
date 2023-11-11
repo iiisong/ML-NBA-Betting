@@ -1,0 +1,443 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300042,0,12,0,1,8:41 PM,12:00,,Start of 1st Period (8:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,1,10,0,1,8:41 PM,12:00,Jump Ball Sanders vs. Biyombo: Tip to Knight,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,4,5,1,1,8:41 PM,11:44,Mayo Bad Pass Turnover (P1.T1),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,38,2,45,1,8:41 PM,11:31,,,MISS Henderson 19' Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,2,4,0,1,8:41 PM,11:29,Henson REBOUND (Off:0 Def:1),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,3,1,1,1,8:41 PM,11:24,Mayo 20' Jump Shot (2 PTS),,,0 - 2,2,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,12,1,45,1,8:41 PM,11:06,,,Henderson 10' Jump Shot (2 PTS),2 - 2,TIE,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,5,6,2,1,8:42 PM,10:48,,,Walker S.FOUL (P1.T1),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,6,3,11,1,8:42 PM,10:48,Knight Free Throw 1 of 2 (1 PTS),,,2 - 3,1,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,8,3,12,1,8:42 PM,10:48,Knight Free Throw 2 of 2 (2 PTS),,,2 - 4,2,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,10,2,1,1,8:43 PM,10:33,,,MISS Henderson 3' Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,50,4,0,1,8:43 PM,10:31,,,Biyombo REBOUND (Off:1 Def:0),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,11,1,5,1,8:43 PM,10:31,,,Biyombo 2' Layup (2 PTS),4 - 4,TIE,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,13,1,1,1,8:43 PM,10:19,Henson 9' Jump Shot (2 PTS) (Knight 1 AST),,,4 - 6,2,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,14,6,1,1,8:43 PM,10:06,Henson P.FOUL (P1.T1),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,15,3,11,1,8:43 PM,10:06,,,Walker Free Throw 1 of 2 (1 PTS),5 - 6,1,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,18,3,12,1,8:44 PM,10:06,,,Walker Free Throw 2 of 2 (2 PTS),6 - 6,TIE,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,20,1,1,1,8:44 PM,9:56,Butler 21' Jump Shot (2 PTS),,,6 - 8,2,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,21,2,1,1,8:44 PM,9:42,,,MISS Walker 9' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,22,4,0,1,8:44 PM,9:40,,,Walker REBOUND (Off:1 Def:0),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,23,2,1,1,8:44 PM,9:33,Sanders BLOCK (1 BLK),,MISS Walker 18' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,24,4,0,1,8:45 PM,9:30,Sanders REBOUND (Off:0 Def:1),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,25,6,1,1,8:45 PM,9:28,,,Walker P.FOUL (P2.T2),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,26,5,1,1,8:45 PM,9:23,Mayo Bad Pass Turnover (P2.T2),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,27,2,1,1,8:46 PM,8:58,,,MISS Kidd-Gilchrist 14' Jump Shot,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,28,4,0,1,8:46 PM,8:57,Henson REBOUND (Off:0 Def:2),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,29,2,1,1,8:46 PM,8:48,MISS Knight 29' 3PT Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,30,4,0,1,8:46 PM,8:47,,,Zeller REBOUND (Off:0 Def:1),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,31,1,1,1,8:46 PM,8:31,,,Kidd-Gilchrist 18' Jump Shot (2 PTS) (Zeller 1 AST),8 - 8,TIE,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,32,5,1,1,8:46 PM,8:13,Henson Bad Pass Turnover (P1.T3),,Kidd-Gilchrist STEAL (1 STL),,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,33,2,5,1,8:46 PM,8:08,Henson BLOCK (1 BLK),,MISS Kidd-Gilchrist 2' Layup,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,34,4,0,1,8:46 PM,8:03,Henson REBOUND (Off:0 Def:3),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,35,1,1,1,8:47 PM,7:58,Mayo 26' 3PT Jump Shot (5 PTS) (Butler 1 AST),,,8 - 11,3,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,36,9,1,1,8:47 PM,7:43,,,Bobcats Timeout: Regular (Reg.1 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,39,6,27,1,8:50 PM,7:34,Mayo Personal Block Foul (P1.T2),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,42,2,1,1,8:50 PM,7:26,,,MISS Zeller 14' Jump Shot,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,43,4,0,1,8:50 PM,7:25,,,Biyombo REBOUND (Off:2 Def:0),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,44,2,3,1,8:50 PM,7:22,,,MISS Biyombo 5' Hook Shot,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,45,4,0,1,8:50 PM,7:22,Sanders REBOUND (Off:0 Def:2),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,46,6,3,1,8:50 PM,7:22,,,Zeller L.B.FOUL (P1.T3),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,48,2,1,1,8:50 PM,7:04,MISS Sanders 11' Jump Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,49,4,0,1,8:50 PM,7:03,,,Walker REBOUND (Off:1 Def:1),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,52,2,1,1,8:51 PM,6:48,,,MISS Walker 19' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,53,4,0,1,8:51 PM,6:47,,,Kidd-Gilchrist REBOUND (Off:1 Def:0),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,54,2,1,1,8:51 PM,6:37,,,MISS Zeller 17' Jump Shot,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,55,4,0,1,8:51 PM,6:36,Knight REBOUND (Off:0 Def:1),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,57,2,1,1,8:51 PM,6:29,MISS Butler 28' 3PT Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,58,4,0,1,8:51 PM,6:28,,,Biyombo REBOUND (Off:2 Def:1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,60,2,1,1,8:51 PM,6:07,,,MISS Kidd-Gilchrist 18' Jump Shot,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,61,4,0,1,8:51 PM,6:06,Knight REBOUND (Off:0 Def:2),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,63,2,1,1,8:52 PM,5:55,MISS Sanders 4' Jump Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,64,4,0,1,8:52 PM,5:53,,,Henderson REBOUND (Off:0 Def:1),,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,66,5,15,1,8:52 PM,5:49,,,Biyombo Offensive Goaltending Turnover (P1.T1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,67,8,0,1,8:52 PM,5:49,,,SUB: Gordon FOR Kidd-Gilchrist,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,68,2,3,1,8:53 PM,5:26,MISS Henson 12' Hook Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,69,4,0,1,8:53 PM,5:25,,,Biyombo REBOUND (Off:2 Def:2),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,70,2,5,1,8:53 PM,5:10,Sanders BLOCK (2 BLK),,MISS Biyombo 2' Layup,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,72,4,0,1,8:53 PM,5:10,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,71,8,0,1,8:53 PM,5:10,SUB: Ridnour FOR Knight,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,73,8,0,1,8:53 PM,5:10,SUB: Graham FOR Henson,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,77,8,0,1,8:53 PM,5:10,,,SUB: McRoberts FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,75,5,2,1,8:53 PM,5:09,Sanders STEAL (1 STL),,Biyombo Lost Ball Turnover (P2.T2),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,74,10,0,1,8:54 PM,5:09,Jump Ball Sanders vs. Biyombo: Tip to Butler,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,78,5,1,1,8:54 PM,4:45,Butler Bad Pass Turnover (P1.T4),,McRoberts STEAL (1 STL),,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,79,2,5,1,8:54 PM,4:34,,,MISS Gordon 3' Layup,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,80,4,0,1,8:54 PM,4:32,Sanders REBOUND (Off:0 Def:3),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,82,2,1,1,8:54 PM,4:23,MISS Sanders 10' Jump Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,83,4,0,1,8:54 PM,4:22,,,McRoberts REBOUND (Off:0 Def:1),,,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,84,1,1,1,8:55 PM,4:06,,,Walker 27' 3PT Jump Shot (5 PTS) (McRoberts 1 AST),11 - 11,TIE,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,85,9,1,1,8:55 PM,4:00,BUCKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,87,8,0,1,8:57 PM,4:00,SUB: Raduljica FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,88,8,0,1,8:57 PM,4:00,,,SUB: Zeller FOR Henderson,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,89,8,0,1,8:57 PM,4:00,,,SUB: Pargo FOR Walker,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,90,8,0,1,8:57 PM,4:00,,,SUB: Kidd-Gilchrist FOR Biyombo,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,91,6,4,1,8:57 PM,3:51,Raduljica OFF.Foul (P1),,,,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,92,5,5,1,8:57 PM,3:51,Raduljica Foul Turnover (P1.T5),,,,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,93,8,0,1,8:58 PM,3:51,SUB: Middleton FOR Mayo,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,94,8,0,1,8:58 PM,3:51,SUB: Antetokounmpo FOR Butler,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,95,6,4,1,8:58 PM,3:37,,,Kidd-Gilchrist OFF.Foul (P1),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,96,5,5,1,8:58 PM,3:37,,,Kidd-Gilchrist Foul Turnover (P1.T3),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,97,9,2,1,8:59 PM,3:37,BUCKS Timeout: Short (Full 1 Short 1),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,98,5,1,1,9:00 PM,3:17,Ridnour Bad Pass Turnover (P1.T6),,Gordon STEAL (1 STL),,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,99,1,5,1,9:00 PM,3:11,,,Gordon  Layup (2 PTS),13 - 11,-2,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,100,2,1,1,9:00 PM,2:48,MISS Middleton 21' Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,101,4,0,1,9:00 PM,2:47,,,Kidd-Gilchrist REBOUND (Off:1 Def:1),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,102,6,27,1,9:01 PM,2:38,Graham Personal Block Foul (P1.T3),,,,,4,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,103,2,3,1,9:01 PM,2:27,,,MISS McRoberts 3' Hook Shot,,,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,104,4,0,1,9:01 PM,2:26,Raduljica REBOUND (Off:0 Def:1),,,,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,105,5,1,1,9:01 PM,2:16,Raduljica Bad Pass Turnover (P2.T7),,McRoberts STEAL (2 STL),,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,106,2,1,1,9:01 PM,2:09,,,MISS Gordon 24' 3PT Jump Shot,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,107,4,0,1,9:01 PM,2:08,Raduljica REBOUND (Off:0 Def:2),,,,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,108,2,5,1,9:02 PM,1:59,MISS Graham 2' Layup,,McRoberts BLOCK (1 BLK),,,4,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0
+0011300042,109,4,0,1,9:02 PM,1:59,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,110,2,5,1,9:02 PM,1:55,MISS Middleton 1' Layup,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,111,4,0,1,9:02 PM,1:53,Middleton REBOUND (Off:1 Def:0),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,112,5,2,1,9:02 PM,1:51,Middleton Lost Ball Turnover (P1.T8),,McRoberts STEAL (3 STL),,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,113,5,6,1,9:02 PM,1:49,,,Pargo Double Dribble Turnover (P1.T4),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,114,1,1,1,9:03 PM,1:34,Ridnour 26' 3PT Jump Shot (3 PTS) (Middleton 1 AST),,,13 - 14,1,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,115,1,1,1,9:03 PM,1:12,,,Pargo 16' Jump Shot (2 PTS) (Gordon 1 AST),15 - 14,-1,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,117,2,1,1,9:03 PM,1:00,MISS Graham 3' Jump Shot,,,,,4,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,118,4,0,1,9:03 PM,0:59,,,Zeller REBOUND (Off:0 Def:2),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,119,1,1,1,9:04 PM,0:52,,,Pargo 26' 3PT Jump Shot (5 PTS),18 - 14,-4,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,120,2,1,1,9:04 PM,0:43,MISS Ridnour 13' Jump Shot,,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,121,4,0,1,9:04 PM,0:43,,,Kidd-Gilchrist REBOUND (Off:1 Def:2),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,122,6,3,1,9:04 PM,0:43,Raduljica L.B.FOUL (P2.T4),,,,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,123,8,0,1,9:04 PM,0:43,SUB: Czyz FOR Raduljica,,,,,4,203545,Miroslav Raduljica,1610612749.0,Milwaukee,Bucks,MIL,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,124,5,1,1,9:04 PM,0:28,Graham STEAL (1 STL),,Gordon Bad Pass Turnover (P1.T5),,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,4,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,125,6,1,1,9:05 PM,0:25,,,Gordon P.FOUL (P1.T4),,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,126,2,1,1,9:05 PM,0:06,MISS Ridnour 21' Jump Shot,,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,127,4,0,1,9:05 PM,0:05,,,Zeller REBOUND (Off:0 Def:3),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,128,2,5,1,9:05 PM,0:00,,,MISS Kidd-Gilchrist 1' Layup,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,129,4,0,1,9:05 PM,0:00,Middleton REBOUND (Off:1 Def:1),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,130,13,0,1,9:06 PM,0:00,,End of 1st Period (9:06 PM EST),,18 - 14,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,132,12,0,2,9:08 PM,12:00,,Start of 2nd Period (9:08 PM EST),,18 - 14,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,133,6,29,2,9:09 PM,11:34,Henson Shooting Block Foul (P2.T1),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,134,3,11,2,9:09 PM,11:34,,,MISS Kidd-Gilchrist Free Throw 1 of 2,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,135,4,1,2,9:09 PM,11:34,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,136,3,12,2,9:09 PM,11:34,,,Kidd-Gilchrist Free Throw 2 of 2 (3 PTS),19 - 14,-5,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,138,2,1,2,9:10 PM,11:17,MISS Middleton 9' Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,139,4,0,2,9:10 PM,11:15,Henson REBOUND (Off:1 Def:3),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,140,2,5,2,9:10 PM,11:13,MISS Henson  Layup,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,141,4,0,2,9:10 PM,11:12,Henson REBOUND (Off:2 Def:3),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,142,2,1,2,9:10 PM,11:03,MISS Middleton 25' 3PT Jump Shot,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,144,4,0,2,9:10 PM,11:01,Antetokounmpo REBOUND (Off:1 Def:0),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,143,1,7,2,9:10 PM,11:01,Antetokounmpo  Dunk (2 PTS),,,19 - 16,-3,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,145,2,5,2,9:10 PM,10:47,Antetokounmpo BLOCK (1 BLK),,MISS Zeller 3' Layup,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,146,4,0,2,9:10 PM,10:45,Middleton REBOUND (Off:1 Def:2),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,147,1,3,2,9:10 PM,10:26,Henson 7' Hook Shot (4 PTS) (Middleton 2 AST),,,19 - 18,-1,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,148,2,1,2,9:11 PM,10:04,,,MISS Kidd-Gilchrist 17' Jump Shot,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,149,4,0,2,9:11 PM,10:03,Antetokounmpo REBOUND (Off:1 Def:1),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,150,1,52,2,9:11 PM,10:00,Czyz 1' Alley Oop Dunk (2 PTS) (Ridnour 1 AST),,,19 - 20,1,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,151,9,1,2,9:11 PM,9:48,,,Bobcats Timeout: Regular (Reg.2 Short 0),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,153,2,1,2,9:14 PM,9:41,,,MISS Sessions 19' Jump Shot,,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,154,4,0,2,9:14 PM,9:40,Antetokounmpo REBOUND (Off:1 Def:2),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,155,2,5,2,9:14 PM,9:36,MISS Antetokounmpo 2' Layup,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,156,4,0,2,9:14 PM,9:35,,,Kidd-Gilchrist REBOUND (Off:1 Def:3),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,157,1,1,2,9:14 PM,9:30,,,Pargo 26' 3PT Jump Shot (8 PTS) (Kidd-Gilchrist 1 AST),22 - 20,-2,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,158,1,1,2,9:14 PM,9:08,Czyz 27' 3PT Jump Shot (5 PTS) (Ridnour 2 AST),,,22 - 23,1,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,159,1,1,2,9:15 PM,8:49,,,Pargo 22' Jump Shot (10 PTS) (Zeller 2 AST),24 - 23,-1,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,160,2,5,2,9:15 PM,8:34,MISS Ridnour 2' Layup,,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,161,4,0,2,9:15 PM,8:32,,,Tolliver REBOUND (Off:0 Def:1),,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,162,2,1,2,9:15 PM,8:23,,,MISS Tolliver 24' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,163,4,0,2,9:15 PM,8:22,Czyz REBOUND (Off:0 Def:1),,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,164,1,5,2,9:15 PM,8:06,Czyz 3' Layup (7 PTS) (Antetokounmpo 1 AST),,,24 - 25,1,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,165,6,2,2,9:15 PM,8:06,,,Kidd-Gilchrist S.FOUL (P2.T1),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,166,8,0,2,9:16 PM,8:06,SUB: Mayo FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,167,8,0,2,9:16 PM,8:06,SUB: Butler FOR Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,174,8,0,2,9:16 PM,8:06,,,SUB: Henderson FOR Pargo,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,188,8,0,2,9:16 PM,8:06,,,SUB: Walker FOR Kidd-Gilchrist,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,168,3,10,2,9:16 PM,8:06,MISS Czyz Free Throw 1 of 1,,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,170,4,0,2,9:16 PM,8:00,Henson REBOUND (Off:3 Def:3),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,171,1,1,2,9:16 PM,7:51,Czyz 5' Jump Shot (9 PTS) (Henson 1 AST),,,24 - 27,3,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,172,5,1,2,9:17 PM,7:47,Czyz STEAL (1 STL),,Tolliver Bad Pass Turnover (P1.T6),,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,173,1,1,2,9:17 PM,7:26,Ridnour 25' 3PT Jump Shot (6 PTS),,,24 - 30,6,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,175,2,1,2,9:17 PM,7:00,,,MISS Walker 6' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,176,4,0,2,9:17 PM,7:00,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,177,8,0,2,9:17 PM,7:00,SUB: Knight FOR Ridnour,,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,179,8,0,2,9:18 PM,7:00,SUB: Sanders FOR Czyz,,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,181,1,5,2,9:18 PM,6:48,Henson 1' Layup (6 PTS) (Knight 2 AST),,,24 - 32,8,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,182,2,1,2,9:18 PM,6:32,,,MISS Sessions 27' 3PT Jump Shot,,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,183,4,0,2,9:18 PM,6:31,Butler REBOUND (Off:0 Def:1),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,184,2,1,2,9:18 PM,6:20,MISS Butler 20' Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,185,4,0,2,9:18 PM,6:19,,,Tolliver REBOUND (Off:0 Def:2),,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,186,2,1,2,9:19 PM,6:09,,,MISS Zeller 21' Jump Shot,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,187,4,0,2,9:19 PM,6:08,Henson REBOUND (Off:3 Def:4),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,189,1,1,2,9:19 PM,5:54,Butler 20' Jump Shot (4 PTS) (Mayo 1 AST),,,24 - 34,10,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,190,2,1,2,9:19 PM,5:30,,,MISS Walker 14' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,191,4,0,2,9:19 PM,5:28,Sanders REBOUND (Off:0 Def:4),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,192,1,42,2,9:20 PM,5:12,Knight 1' Driving Layup (4 PTS) (Mayo 2 AST),,,24 - 36,12,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,193,9,2,2,9:20 PM,5:04,,,Bobcats Timeout: Short (Reg.2 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,195,9,4,2,9:20 PM,5:04,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,197,8,0,2,9:22 PM,5:04,,,SUB: Biyombo FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,198,8,0,2,9:22 PM,5:04,,,SUB: McRoberts FOR Tolliver,,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,199,8,0,2,9:22 PM,5:04,SUB: Czyz FOR Henson,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,200,2,1,2,9:23 PM,4:45,,,MISS Walker 5' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,201,4,0,2,9:23 PM,4:44,Butler REBOUND (Off:0 Def:2),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,202,2,5,2,9:23 PM,4:24,MISS Sanders 2' Layup,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,203,4,0,2,9:23 PM,4:23,Czyz REBOUND (Off:1 Def:1),,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,205,2,1,2,9:24 PM,4:14,MISS Knight 18' Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,206,4,0,2,9:24 PM,4:12,,,Sessions REBOUND (Off:0 Def:1),,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,207,1,1,2,9:24 PM,4:01,,,McRoberts 15' Jump Shot (2 PTS) (Sessions 1 AST),26 - 36,10,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,208,2,4,2,9:24 PM,3:39,MISS Sanders  Tip Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,209,4,0,2,9:24 PM,3:38,,,Walker REBOUND (Off:1 Def:2),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,210,5,39,2,9:25 PM,3:24,,,Walker Step Out of Bounds Turnover (P1.T7),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,211,8,0,2,9:25 PM,3:24,,,SUB: Gordon FOR Sessions,,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,212,2,1,2,9:25 PM,3:04,MISS Mayo 24' 3PT Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,213,4,0,2,9:25 PM,3:03,,,Walker REBOUND (Off:1 Def:3),,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,214,2,1,2,9:25 PM,2:58,,,MISS Henderson 16' Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,215,4,0,2,9:25 PM,2:56,Knight REBOUND (Off:0 Def:3),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,216,6,26,2,9:26 PM,2:40,Sanders Offensive Charge Foul (P1.T2),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,217,5,5,2,9:26 PM,2:40,Sanders Foul Turnover (P1.T9),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,218,9,1,2,9:26 PM,2:40,BUCKS Timeout: Regular (Full 2 Short 1),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,220,6,1,2,9:29 PM,2:29,Butler P.FOUL (P1.T3),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,221,6,17,2,9:29 PM,2:17,BUCKS T.Foul (Def. 3 Sec Sanders ),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,222,3,16,2,9:29 PM,2:17,,,Gordon Free Throw Technical (3 PTS),27 - 36,9,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,224,2,1,2,9:30 PM,2:07,,,MISS Henderson 17' Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,225,4,0,2,9:30 PM,2:06,Czyz REBOUND (Off:1 Def:2),,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,226,2,1,2,9:30 PM,1:50,MISS Czyz 18' Jump Shot,,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,227,4,0,2,9:30 PM,1:48,Butler REBOUND (Off:1 Def:2),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,228,6,29,2,9:30 PM,1:45,,,McRoberts Shooting Block Foul (P1.T2),,,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,229,3,11,2,9:31 PM,1:45,MISS Czyz Free Throw 1 of 2,,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,230,4,1,2,9:31 PM,1:45,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,231,3,12,2,9:31 PM,1:45,Czyz Free Throw 2 of 2 (10 PTS),,,27 - 37,10,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,233,1,1,2,9:31 PM,1:33,,,McRoberts 18' Jump Shot (4 PTS) (Gordon 2 AST),29 - 37,8,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,234,1,1,2,9:31 PM,1:21,Mayo  3PT Jump Shot (8 PTS) (Butler 2 AST),,,29 - 40,11,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,235,2,1,2,9:32 PM,1:11,,,MISS Gordon 25' 3PT Jump Shot,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,236,4,0,2,9:32 PM,1:09,Knight REBOUND (Off:0 Def:4),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,237,1,1,2,9:32 PM,0:52,Butler 25' 3PT Jump Shot (7 PTS) (Mayo 3 AST),,,29 - 43,14,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,238,5,4,2,9:32 PM,0:42,,,Henderson Traveling Turnover (P1.T8),,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,239,1,1,2,9:32 PM,0:29,Butler 16' Jump Shot (9 PTS),,,29 - 45,16,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,240,1,1,2,9:33 PM,0:09,,,McRoberts 24' 3PT Jump Shot (7 PTS) (Walker 1 AST),32 - 45,13,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,241,2,1,2,9:33 PM,0:00,MISS Butler 26' 3PT Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,242,4,0,2,9:33 PM,0:00,,,Gordon REBOUND (Off:0 Def:1),,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,243,13,0,2,9:33 PM,0:00,,End of 2nd Period (9:33 PM EST),,32 - 45,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,245,12,0,3,9:49 PM,12:00,,Start of 3rd Period (9:49 PM EST),,32 - 45,13,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,246,2,5,3,9:50 PM,11:35,,,MISS Kidd-Gilchrist 2' Layup,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,247,4,0,3,9:50 PM,11:35,,,Biyombo REBOUND (Off:3 Def:2),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,248,5,11,3,9:50 PM,11:35,,,Bobcats Turnover: Shot Clock (T#9),,,3,1610612766,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300042,249,2,1,3,9:50 PM,11:17,MISS Mayo 20' Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,250,4,0,3,9:50 PM,11:16,,,Biyombo REBOUND (Off:3 Def:3),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,251,2,1,3,9:50 PM,11:07,,,MISS Henderson 16' Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,252,4,0,3,9:50 PM,11:06,Knight REBOUND (Off:0 Def:5),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,253,2,1,3,9:50 PM,10:53,MISS Butler 19' Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,254,4,0,3,9:50 PM,10:52,,,Biyombo REBOUND (Off:3 Def:4),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,255,1,5,3,9:51 PM,10:47,,,Walker 1' Layup (7 PTS),34 - 45,11,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,256,9,2,3,9:51 PM,10:46,BUCKS Timeout: Short (Full 2 Short 2),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,258,2,1,3,9:52 PM,10:31,MISS Mayo 9' Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,259,4,0,3,9:52 PM,10:30,,,Biyombo REBOUND (Off:3 Def:5),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,260,6,4,3,9:52 PM,10:25,,,Biyombo OFF.Foul (P1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,261,5,5,3,9:52 PM,10:25,,,Biyombo Foul Turnover (P3.T10),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,262,6,17,3,9:52 PM,10:13,,,Bobcats T.Foul (Def. 3 Sec Biyombo ),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,263,3,16,3,9:53 PM,10:13,Mayo Free Throw Technical (9 PTS),,,34 - 46,12,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,265,1,1,3,9:53 PM,9:59,Mayo 27' 3PT Jump Shot (12 PTS) (Knight 3 AST),,,34 - 49,15,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,266,2,1,3,9:53 PM,9:33,,,MISS Walker 14' Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,267,4,0,3,9:53 PM,9:32,Knight REBOUND (Off:0 Def:6),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,268,6,2,3,9:54 PM,9:24,,,Kidd-Gilchrist S.FOUL (P3.T1),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,269,3,11,3,9:54 PM,9:24,Butler Free Throw 1 of 2 (10 PTS),,,34 - 50,16,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,271,3,12,3,9:54 PM,9:24,Butler Free Throw 2 of 2 (11 PTS),,,34 - 51,17,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,274,6,2,3,9:55 PM,9:02,Mayo S.FOUL (P2.T1),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,275,3,11,3,9:55 PM,9:02,,,Henderson Free Throw 1 of 2 (3 PTS),35 - 51,16,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,277,3,12,3,9:56 PM,9:02,,,Henderson Free Throw 2 of 2 (4 PTS),36 - 51,15,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,279,1,44,3,9:56 PM,8:44,Butler 1' Reverse Layup (13 PTS) (Knight 4 AST),,,36 - 53,17,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,280,6,1,3,9:56 PM,8:38,Sanders P.FOUL (P2.T2),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,281,6,5,3,9:57 PM,8:38,Knight IN.FOUL (P1.T3),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,282,3,11,3,9:57 PM,8:38,,,MISS Walker Free Throw 1 of 2,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,283,4,1,3,9:57 PM,8:38,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,284,3,12,3,9:57 PM,8:38,,,Walker Free Throw 2 of 2 (8 PTS),37 - 53,16,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,286,1,1,3,9:58 PM,8:18,Butler 27' 3PT Jump Shot (16 PTS) (Knight 5 AST),,,37 - 56,19,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,288,2,1,3,9:58 PM,8:03,,,MISS Henderson 28' 3PT Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,289,4,0,3,9:58 PM,8:03,,,Biyombo REBOUND (Off:4 Def:5),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,290,6,3,3,9:58 PM,8:03,Butler L.B.FOUL (P2.T4),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,291,8,0,3,9:58 PM,8:03,,,SUB: Gordon FOR Kidd-Gilchrist,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,292,2,5,3,9:59 PM,7:55,Sanders BLOCK (3 BLK),,MISS Zeller  Layup,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,293,4,0,3,9:59 PM,7:54,,,Biyombo REBOUND (Off:5 Def:5),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,294,2,5,3,9:59 PM,7:52,Henson BLOCK (2 BLK),,MISS Biyombo 1' Layup,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,295,4,0,3,9:59 PM,7:50,Butler REBOUND (Off:1 Def:3),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,296,1,5,3,9:59 PM,7:42,Henson  Layup (8 PTS) (Knight 6 AST),,,37 - 58,21,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,297,9,1,3,9:59 PM,7:38,,,Bobcats Timeout: Regular (Reg.3 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,299,1,1,3,10:02 PM,7:26,,,Walker 18' Jump Shot (10 PTS),39 - 58,19,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,300,2,1,3,10:02 PM,7:01,MISS Butler 26' 3PT Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,301,4,0,3,10:02 PM,7:00,,,Biyombo REBOUND (Off:5 Def:6),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,302,2,1,3,10:02 PM,6:54,,,MISS Gordon 26' 3PT Jump Shot,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,303,4,0,3,10:02 PM,6:53,,,Zeller REBOUND (Off:1 Def:3),,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,304,2,1,3,10:03 PM,6:47,,,MISS Walker 27' 3PT Jump Shot,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,305,4,0,3,10:03 PM,6:45,Knight REBOUND (Off:0 Def:7),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,306,5,4,3,10:03 PM,6:40,Mayo Traveling Turnover (P3.T10),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,307,2,1,3,10:03 PM,6:16,,,MISS Gordon 26' 3PT Jump Shot,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,308,4,0,3,10:03 PM,6:15,Sanders REBOUND (Off:0 Def:5),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,309,2,1,3,10:04 PM,6:05,MISS Sanders 21' Jump Shot,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,310,4,0,3,10:04 PM,6:04,,,Biyombo REBOUND (Off:5 Def:7),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,311,2,5,3,10:04 PM,5:55,,,MISS Biyombo 2' Layup,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,312,4,0,3,10:04 PM,5:53,Sanders REBOUND (Off:0 Def:6),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,313,5,1,3,10:04 PM,5:46,Knight Bad Pass Turnover (P1.T11),,Gordon STEAL (2 STL),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,314,8,0,3,10:04 PM,5:43,,,SUB: McRoberts FOR Zeller,,,5,203469,Cody Zeller,1610612766.0,Charlotte,Bobcats,CHA,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,324,8,0,3,10:04 PM,5:43,SUB: Ridnour FOR Knight,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,315,2,1,3,10:05 PM,5:26,Sanders BLOCK (4 BLK),,MISS Henderson 5' Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+0011300042,316,4,0,3,10:05 PM,5:24,Butler REBOUND (Off:1 Def:4),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,317,5,1,3,10:05 PM,5:22,Henson Bad Pass Turnover (P2.T12),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,318,8,0,3,10:05 PM,5:22,SUB: Czyz FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,319,1,5,3,10:05 PM,5:08,,,Gordon  Layup (5 PTS) (McRoberts 2 AST),41 - 58,17,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,320,2,1,3,10:05 PM,4:54,MISS Mayo 26' 3PT Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,321,4,0,3,10:06 PM,4:53,,,Biyombo REBOUND (Off:5 Def:8),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,322,1,5,3,10:06 PM,4:44,,,Biyombo 1' Layup (4 PTS) (McRoberts 3 AST),43 - 58,15,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,323,9,1,3,10:06 PM,4:43,BUCKS Timeout: Regular (Full 3 Short 2),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,325,8,0,3,10:08 PM,4:43,SUB: Middleton FOR Mayo,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,326,8,0,3,10:08 PM,4:43,SUB: Antetokounmpo FOR Butler,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,328,5,4,3,10:09 PM,4:23,Henson Traveling Turnover (P3.T13),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,329,2,1,3,10:09 PM,4:09,,,MISS Gordon 6' Jump Shot,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,330,4,0,3,10:09 PM,4:08,,,Biyombo REBOUND (Off:6 Def:8),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,331,2,1,3,10:09 PM,4:05,,,MISS Henderson 25' 3PT Jump Shot,,,5,201945,Gerald Henderson,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,332,4,0,3,10:09 PM,4:04,Antetokounmpo REBOUND (Off:1 Def:3),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,333,2,1,3,10:09 PM,3:45,MISS Henson 18' Jump Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,334,4,0,3,10:09 PM,3:44,,,Gordon REBOUND (Off:0 Def:2),,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,335,6,2,3,10:10 PM,3:38,Ridnour S.FOUL (P1.PN),,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,336,3,11,3,10:10 PM,3:38,,,Walker Free Throw 1 of 2 (11 PTS),44 - 58,14,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,338,8,0,3,10:10 PM,3:38,SUB: Graham FOR Henson,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,101211,Stephen Graham,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,339,3,12,3,10:10 PM,3:38,,,Walker Free Throw 2 of 2 (12 PTS),45 - 58,13,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,341,1,1,3,10:11 PM,3:18,Ridnour 19' Jump Shot (8 PTS),,,45 - 60,15,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,342,5,4,3,10:11 PM,3:00,,,Biyombo Traveling Turnover (P4.T11),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,1,0,,,,,,0
+0011300042,343,8,0,3,10:11 PM,3:00,,,SUB: Pargo FOR Walker,,,5,202689,Kemba Walker,1610612766.0,Charlotte,Bobcats,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,344,5,40,3,10:12 PM,2:40,Middleton Out of Bounds Lost Ball Turnover (P2.T14),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,345,5,41,3,10:12 PM,2:31,,,Biyombo Poss Lost Ball Turnover (P5.T12),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,346,1,1,3,10:12 PM,2:06,Ridnour 25' 3PT Jump Shot (11 PTS),,,45 - 63,18,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,347,2,1,3,10:13 PM,1:47,,,MISS Pargo 23' Jump Shot,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,348,4,0,3,10:13 PM,1:46,,,Gordon REBOUND (Off:1 Def:2),,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,349,1,5,3,10:13 PM,1:42,,,Gordon  Layup (7 PTS),47 - 63,16,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,350,6,1,3,10:13 PM,1:32,,,Pargo P.FOUL (P1.T2),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,351,6,29,3,10:14 PM,1:27,,,Biyombo Shooting Block Foul (P2.PN),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,352,3,11,3,10:14 PM,1:27,MISS Czyz Free Throw 1 of 2,,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,353,4,1,3,10:14 PM,1:27,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,354,3,12,3,10:14 PM,1:27,Czyz Free Throw 2 of 2 (11 PTS),,,47 - 64,17,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,356,6,1,3,10:14 PM,1:19,Middleton P.FOUL (P1.PN),,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,357,3,11,3,10:15 PM,1:19,,,MISS Gordon Free Throw 1 of 2,,,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,358,4,1,3,10:15 PM,1:19,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,359,3,12,3,10:15 PM,1:19,,,Gordon Free Throw 2 of 2 (8 PTS),48 - 64,16,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,361,1,1,3,10:15 PM,1:03,Ridnour 27' 3PT Jump Shot (14 PTS) (Antetokounmpo 2 AST),,,48 - 67,19,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,362,2,1,3,10:16 PM,0:40,,,MISS Pargo 17' Jump Shot,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,363,4,0,3,10:16 PM,0:39,,,McRoberts REBOUND (Off:1 Def:1),,,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,365,1,7,3,10:17 PM,0:29,,,McRoberts 1' Dunk (9 PTS) (Gordon 3 AST),50 - 67,17,5,201177,Josh McRoberts,1610612766.0,Charlotte,Bobcats,CHA,5,2732,Ben Gordon,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,367,6,4,3,10:17 PM,0:12,Czyz OFF.Foul (P1),,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,368,5,5,3,10:17 PM,0:12,Czyz Foul Turnover (P1.T15),,,,,4,203589,Olek Czyz,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,369,2,1,3,10:18 PM,0:00,,,MISS Pargo 20' Jump Shot,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,370,4,0,3,10:18 PM,0:00,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,371,13,0,3,10:18 PM,0:00,,End of 3rd Period (10:18 PM EST),,50 - 67,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,373,12,0,4,10:20 PM,12:00,,Start of 4th Period (10:20 PM EST),,50 - 67,17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,374,5,1,4,10:21 PM,11:41,Ridnour Bad Pass Turnover (P2.T16),,Tolliver STEAL (1 STL),,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,375,6,1,4,10:21 PM,11:41,Henson P.FOUL (P3.T1),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,386,1,45,4,10:21 PM,11:41,,,Pargo 24' 3PT Jump Shot (13 PTS),53 - 67,14,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,376,1,1,4,10:22 PM,11:10,Middleton 17' Jump Shot (2 PTS) (Ridnour 3 AST),,,53 - 69,16,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,377,1,1,4,10:22 PM,10:52,,,Pargo 19' Jump Shot (15 PTS),55 - 69,14,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,378,2,1,4,10:22 PM,10:31,MISS Henson 6' Jump Shot,,Biyombo BLOCK (1 BLK),,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0
+0011300042,379,4,0,4,10:22 PM,10:29,,,Kidd-Gilchrist REBOUND (Off:1 Def:4),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,380,2,1,4,10:23 PM,10:19,,,MISS Kidd-Gilchrist 4' Jump Shot,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,381,4,0,4,10:23 PM,10:17,Antetokounmpo REBOUND (Off:1 Def:4),,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,382,2,5,4,10:23 PM,10:00,MISS Sanders 1' Layup,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,384,4,0,4,10:23 PM,10:00,Sanders REBOUND (Off:1 Def:6),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,383,2,5,4,10:23 PM,10:00,MISS Sanders 2' Layup,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,385,4,0,4,10:23 PM,10:00,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,387,8,0,4,10:23 PM,10:00,SUB: Knight FOR Ridnour,,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,388,8,0,4,10:23 PM,10:00,SUB: Mayo FOR Middleton,,,,,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,389,8,0,4,10:23 PM,10:00,SUB: Butler FOR Antetokounmpo,,,,,4,203507,Giannis Antetokounmpo,1610612749.0,Milwaukee,Bucks,MIL,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,390,2,1,4,10:23 PM,9:55,MISS Mayo 27' 3PT Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,391,4,0,4,10:23 PM,9:53,,,Tolliver REBOUND (Off:0 Def:3),,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,393,2,1,4,10:24 PM,9:43,,,MISS Sessions 14' Jump Shot,,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,394,4,0,4,10:24 PM,9:42,,,Biyombo REBOUND (Off:7 Def:8),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,396,6,2,4,10:24 PM,9:32,Butler S.FOUL (P3.T2),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,397,3,11,4,10:24 PM,9:32,,,MISS Kidd-Gilchrist Free Throw 1 of 2,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,398,4,1,4,10:24 PM,9:32,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,399,3,12,4,10:24 PM,9:32,,,Kidd-Gilchrist Free Throw 2 of 2 (4 PTS),56 - 69,13,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,401,2,1,4,10:25 PM,9:17,MISS Butler 16' Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,402,4,0,4,10:25 PM,9:16,,,Biyombo REBOUND (Off:7 Def:9),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,403,1,1,4,10:25 PM,9:06,,,Tolliver 27' 3PT Jump Shot (3 PTS) (Pargo 1 AST),59 - 69,10,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,404,2,1,4,10:25 PM,8:45,MISS Knight 27' 3PT Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,405,4,0,4,10:25 PM,8:43,,,Sessions REBOUND (Off:0 Def:2),,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,406,6,1,4,10:26 PM,8:30,Mayo P.FOUL (P3.T3),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,407,9,4,4,10:26 PM,8:30,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,408,1,7,4,10:28 PM,8:23,,,Biyombo  Dunk (6 PTS) (Sessions 2 AST),61 - 69,8,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,409,2,3,4,10:29 PM,8:00,MISS Henson 9' Hook Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,410,4,0,4,10:29 PM,7:59,,,Biyombo REBOUND (Off:7 Def:10),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,411,5,2,4,10:29 PM,7:53,Henson STEAL (1 STL),,Sessions Lost Ball Turnover (P1.T13),,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,412,5,2,4,10:29 PM,7:47,Knight Lost Ball Turnover (P2.T17),,Pargo STEAL (1 STL),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,413,2,5,4,10:29 PM,7:41,,,MISS Kidd-Gilchrist 1' Layup,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,414,4,0,4,10:29 PM,7:40,,,Kidd-Gilchrist REBOUND (Off:2 Def:4),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,415,6,2,4,10:29 PM,7:40,Mayo S.FOUL (P4.T4),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,416,3,11,4,10:30 PM,7:40,,,Kidd-Gilchrist Free Throw 1 of 2 (5 PTS),62 - 69,7,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,418,3,12,4,10:30 PM,7:40,,,MISS Kidd-Gilchrist Free Throw 2 of 2,,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,420,4,0,4,10:30 PM,7:38,Henson REBOUND (Off:3 Def:5),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,421,2,1,4,10:30 PM,7:15,MISS Butler 20' Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,422,4,0,4,10:30 PM,7:14,,,Biyombo REBOUND (Off:7 Def:11),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,423,1,1,4,10:30 PM,7:03,,,Pargo 26' 3PT Jump Shot (18 PTS) (Sessions 3 AST),65 - 69,4,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,424,2,1,4,10:31 PM,6:40,MISS Knight 27' 3PT Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,425,4,0,4,10:31 PM,6:38,,,Sessions REBOUND (Off:0 Def:3),,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,426,1,5,4,10:31 PM,6:36,,,Pargo 1' Layup (20 PTS) (Sessions 4 AST),67 - 69,2,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,427,9,1,4,10:31 PM,6:36,BUCKS Timeout: Regular (Full 4 Short 2),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,429,5,41,4,10:34 PM,6:23,Mayo Poss Lost Ball Turnover (P4.T18),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,430,1,5,4,10:34 PM,6:04,,,Sessions 1' Layup (2 PTS),69 - 69,TIE,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,431,5,1,4,10:34 PM,5:48,Butler Bad Pass Turnover (P2.T19),,Sessions STEAL (1 STL),,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0
+0011300042,432,6,2,4,10:34 PM,5:45,Sanders S.FOUL (P3.PN),,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,433,3,11,4,10:35 PM,5:45,,,MISS Sessions Free Throw 1 of 2,,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,434,4,1,4,10:35 PM,5:45,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,435,8,0,4,10:35 PM,5:45,SUB: Ridnour FOR Sanders,,,,,4,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,436,3,12,4,10:35 PM,5:45,,,Sessions Free Throw 2 of 2 (3 PTS),70 - 69,-1,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,438,1,1,4,10:36 PM,5:29,Butler 20' Jump Shot (18 PTS),,,70 - 71,1,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,439,6,2,4,10:36 PM,5:13,Knight S.FOUL (P2.PN),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,440,3,11,4,10:36 PM,5:13,,,Pargo Free Throw 1 of 2 (21 PTS),71 - 71,TIE,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,442,3,12,4,10:37 PM,5:13,,,Pargo Free Throw 2 of 2 (22 PTS),72 - 71,-1,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,444,2,1,4,10:37 PM,5:03,MISS Mayo 15' Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,445,4,0,4,10:37 PM,5:01,Henson REBOUND (Off:4 Def:5),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,446,2,1,4,10:37 PM,4:49,MISS Mayo 24' 3PT Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,447,4,0,4,10:37 PM,4:49,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,448,6,3,4,10:37 PM,4:49,Henson L.B.FOUL (P4.PN),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,449,3,11,4,10:38 PM,4:49,,,Biyombo Free Throw 1 of 2 (7 PTS),73 - 71,-2,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,451,3,12,4,10:38 PM,4:49,,,MISS Biyombo Free Throw 2 of 2,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,453,4,0,4,10:38 PM,4:48,Knight REBOUND (Off:0 Def:8),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,454,1,41,4,10:38 PM,4:33,Henson 1' Running Layup (10 PTS) (Knight 7 AST),,,73 - 73,TIE,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,455,1,5,4,10:39 PM,4:12,,,Sessions 1' Layup (5 PTS),75 - 73,-2,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,456,2,5,4,10:39 PM,4:01,MISS Knight 2' Layup,,Biyombo BLOCK (2 BLK),,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0
+0011300042,457,4,0,4,10:39 PM,3:59,,,Pargo REBOUND (Off:0 Def:1),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,458,2,1,4,10:39 PM,3:41,,,MISS Biyombo 8' Jump Shot,,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,459,4,0,4,10:39 PM,3:40,Butler REBOUND (Off:1 Def:5),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,460,2,1,4,10:39 PM,3:25,MISS Butler 20' Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,461,4,0,4,10:39 PM,3:24,,,Biyombo REBOUND (Off:7 Def:12),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,462,2,1,4,10:40 PM,3:09,,,MISS Pargo 18' Jump Shot,,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,463,4,0,4,10:40 PM,3:08,Knight REBOUND (Off:0 Def:9),,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,464,2,1,4,10:40 PM,3:01,MISS Knight 26' 3PT Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,465,4,0,4,10:40 PM,3:00,,,Biyombo REBOUND (Off:7 Def:13),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,466,1,5,4,10:40 PM,2:38,,,Kidd-Gilchrist 1' Layup (7 PTS),77 - 73,-4,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,467,9,1,4,10:40 PM,2:37,BUCKS Timeout: Regular (Full 5 Short 2),,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,468,2,1,4,10:43 PM,2:20,MISS Butler 15' Jump Shot,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,469,4,0,4,10:43 PM,2:18,Mayo REBOUND (Off:1 Def:0),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,470,1,63,4,10:43 PM,2:11,Mayo 14' Fadeaway Jumper (14 PTS),,,77 - 75,-2,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,471,1,1,4,10:43 PM,1:45,,,Sessions 18' Jump Shot (7 PTS),79 - 75,-4,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,472,2,1,4,10:44 PM,1:32,MISS Mayo 26' 3PT Jump Shot,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,473,4,0,4,10:44 PM,1:31,,,Biyombo REBOUND (Off:7 Def:14),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,474,2,1,4,10:44 PM,1:16,,,MISS Sessions 26' 3PT Jump Shot,,,5,201196,Ramon Sessions,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,475,4,0,4,10:44 PM,1:16,Henson REBOUND (Off:4 Def:6),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,476,6,3,4,10:44 PM,1:16,,,Biyombo L.B.FOUL (P3.T1),,,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,477,2,1,4,10:45 PM,1:03,MISS Knight 18' Jump Shot,,,,,4,202688,Brandon Knight,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,478,4,0,4,10:45 PM,1:02,,,Kidd-Gilchrist REBOUND (Off:2 Def:5),,,5,203077,Michael Kidd-Gilchrist,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,479,2,1,4,10:45 PM,0:42,,,MISS Tolliver 26' 3PT Jump Shot,,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,480,4,0,4,10:45 PM,0:41,Mayo REBOUND (Off:1 Def:1),,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,481,6,1,4,10:45 PM,0:36,,,Pargo P.FOUL (P2.PN),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+0011300042,482,3,11,4,10:45 PM,0:36,MISS Mayo Free Throw 1 of 2,,,,,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,483,4,1,4,10:45 PM,0:36,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,484,3,12,4,10:46 PM,0:36,Mayo Free Throw 2 of 2 (15 PTS),,,79 - 76,-3,4,201564,O.J. Mayo,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,486,9,1,4,10:46 PM,0:36,,,Bobcats Timeout: Regular (Reg.4 Short 1),,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,487,2,1,4,10:48 PM,0:12,,,MISS Tolliver 21' Jump Shot,,,5,201229,Anthony Tolliver,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,488,4,0,4,10:48 PM,0:12,,,Bobcats Rebound,,,3,1610612766,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,489,6,3,4,10:48 PM,0:12,Henson L.B.FOUL (P5.PN),,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,1,0,,,,,,0
+0011300042,490,6,11,4,10:49 PM,0:12,Butler T.FOUL (P3.PN),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,491,6,11,4,10:49 PM,0:12,Butler T.FOUL (P3.PN),,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,495,11,1,4,10:49 PM,0:12,Butler Ejection:Second Technical,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+0011300042,492,8,0,4,10:49 PM,0:12,SUB: Middleton FOR Butler,,,,,4,2406,Caron Butler,1610612749.0,Milwaukee,Bucks,MIL,4,203114,Khris Middleton,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+0011300042,493,3,16,4,10:49 PM,0:12,,,Pargo Free Throw Technical (23 PTS),80 - 76,-4,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,496,3,16,4,10:50 PM,0:12,,,Pargo Free Throw Technical (24 PTS),81 - 76,-5,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,498,3,11,4,10:50 PM,0:12,,,Biyombo Free Throw 1 of 2 (8 PTS),82 - 76,-6,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,500,3,12,4,10:50 PM,0:12,,,Biyombo Free Throw 2 of 2 (9 PTS),83 - 76,-7,5,202687,Bismack Biyombo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,502,2,1,4,10:50 PM,0:06,MISS Ridnour 26' 3PT Jump Shot,,,,,4,2557,Luke Ridnour,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,503,4,0,4,10:51 PM,0:04,BUCKS Rebound,,,,,2,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300042,504,2,1,4,10:51 PM,0:00,MISS Henson 26' 3PT Jump Shot,,,,,4,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+0011300042,505,4,0,4,10:51 PM,0:00,,,Pargo REBOUND (Off:0 Def:2),,,5,2457,Jannero Pargo,1610612766.0,Charlotte,Bobcats,CHA,0,0,,,,,,0,0,,,,,,0
+0011300042,507,13,0,4,10:53 PM,0:00,,End of 4th Period (10:53 PM EST),,83 - 76,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

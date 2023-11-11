@@ -1,0 +1,463 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400024,0,12,0,1,10:12 PM,12:00,,Start of 1st Period (10:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,1,10,0,1,10:12 PM,12:00,Jump Ball Lopez vs. Favors: Tip to Kanter,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0
+0011400024,2,5,2,1,10:13 PM,11:38,Blake STEAL (1 STL),,Kanter Lost Ball Turnover (P1.T1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,3,1,1,1,10:13 PM,11:27,Aldridge 22' Jump Shot (2 PTS) (Blake 1 AST),,,0 - 2,2,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,4,2,1,1,10:13 PM,11:13,,,MISS Burks 23' Jump Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,5,4,0,1,10:13 PM,11:13,Batum REBOUND (Off:0 Def:1),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,6,6,4,1,10:14 PM,10:54,Aldridge OFF.Foul (P1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,7,5,5,1,10:14 PM,10:54,Aldridge Foul Turnover (P1.T1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011400024,8,1,57,1,10:14 PM,10:40,,,Favors 4' Driving Hook Shot (2 PTS),2 - 2,TIE,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,9,6,1,1,10:14 PM,10:34,,,Favors P.FOUL (P1.T1),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,10,1,58,1,10:15 PM,10:26,Lopez 7' Turnaround Hook Shot (2 PTS) (Blake 2 AST),,,2 - 4,2,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,11,1,1,1,10:15 PM,10:10,,,Kanter 16' Jump Shot (2 PTS) (Burke 1 AST),4 - 4,TIE,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,12,1,57,1,10:15 PM,9:57,Aldridge 2' Driving Hook Shot (4 PTS),,,4 - 6,2,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,13,5,2,1,10:15 PM,9:41,Matthews STEAL (1 STL),,Kanter Lost Ball Turnover (P2.T2),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,14,5,39,1,10:15 PM,9:36,Batum Step Out of Bounds Turnover (P1.T2),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,15,2,44,1,10:16 PM,9:15,,,MISS Favors 3' Reverse Layup,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,16,4,0,1,10:16 PM,9:14,Aldridge REBOUND (Off:0 Def:1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,17,1,1,1,10:16 PM,9:02,Aldridge 20' Jump Shot (6 PTS) (Matthews 1 AST),,,4 - 8,4,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,18,1,5,1,10:16 PM,8:43,,,Kanter 2' Layup (4 PTS) (Burke 2 AST),6 - 8,2,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,19,5,1,1,10:17 PM,8:34,Blake Bad Pass Turnover (P1.T3),,Favors STEAL (1 STL),,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,20,5,2,1,10:17 PM,8:31,Matthews STEAL (2 STL),,Hayward Lost Ball Turnover (P1.T3),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,21,2,1,1,10:17 PM,8:12,MISS Batum 25' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,22,4,0,1,10:17 PM,8:10,,,Kanter REBOUND (Off:0 Def:1),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,23,2,46,1,10:17 PM,8:02,,,MISS Burke 10' Running Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,24,4,0,1,10:17 PM,8:00,Matthews REBOUND (Off:0 Def:1),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,25,2,42,1,10:17 PM,7:54,MISS Matthews 2' Driving Layup,,Hayward BLOCK (1 BLK),,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0
+0011400024,26,4,0,1,10:17 PM,7:52,,,Favors REBOUND (Off:0 Def:1),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,27,2,46,1,10:17 PM,7:39,,,MISS Kanter 6' Running Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,28,4,0,1,10:17 PM,7:38,Aldridge REBOUND (Off:0 Def:2),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,29,2,1,1,10:18 PM,7:22,MISS Lopez 16' Jump Shot,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,31,4,0,1,10:18 PM,7:20,Batum REBOUND (Off:1 Def:1),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,30,2,4,1,10:18 PM,7:20,MISS Batum 2' Tip Shot,,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,32,4,0,1,10:18 PM,7:18,Batum REBOUND (Off:2 Def:1),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,33,2,1,1,10:18 PM,7:11,MISS Aldridge 22' Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,34,4,0,1,10:18 PM,7:10,,,Kanter REBOUND (Off:0 Def:2),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,35,6,2,1,10:18 PM,7:01,Lopez S.FOUL (P1.T1),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,36,3,11,1,10:18 PM,7:01,,,Favors Free Throw 1 of 2 (3 PTS),7 - 8,1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,38,8,0,1,10:19 PM,7:01,,,SUB: Booker FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,39,3,12,1,10:19 PM,7:01,,,Favors Free Throw 2 of 2 (4 PTS),8 - 8,TIE,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,41,5,1,1,10:19 PM,6:48,Aldridge Bad Pass Turnover (P2.T4),,Favors STEAL (2 STL),,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,42,1,73,1,10:19 PM,6:39,,,Hayward 1' Driving Reverse Layup (2 PTS),10 - 8,-2,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,43,1,5,1,10:20 PM,6:19,Matthews 3' Layup (2 PTS) (Aldridge 1 AST),,,10 - 10,TIE,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,44,6,2,1,10:20 PM,6:19,,,Favors S.FOUL (P2.T2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,45,8,0,1,10:20 PM,6:19,,,SUB: Kanter FOR Favors,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,47,8,0,1,10:20 PM,6:19,,,SUB: Gobert FOR Booker,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,48,3,10,1,10:20 PM,6:19,Matthews Free Throw 1 of 1 (3 PTS),,,10 - 11,1,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,50,2,79,1,10:21 PM,6:12,,,MISS Burke 10' Pullup Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,51,4,0,1,10:21 PM,6:11,Batum REBOUND (Off:2 Def:2),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,52,2,1,1,10:21 PM,6:01,MISS Blake 25' 3PT Jump Shot,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,54,4,0,1,10:21 PM,6:00,Lopez REBOUND (Off:1 Def:0),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,53,2,4,1,10:21 PM,6:00,MISS Lopez 1' Tip Shot,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,55,4,0,1,10:21 PM,5:58,,,Hayward REBOUND (Off:0 Def:1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,56,5,1,1,10:21 PM,5:56,Matthews STEAL (3 STL),,Hayward Bad Pass Turnover (P2.T4),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,57,1,1,1,10:21 PM,5:50,Matthews  3PT Jump Shot (6 PTS),,,10 - 14,4,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,58,9,1,1,10:21 PM,5:50,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,59,8,0,1,10:24 PM,5:50,SUB: McCollum FOR Lopez,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,60,8,0,1,10:24 PM,5:50,SUB: Barton FOR Matthews,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,61,8,0,1,10:24 PM,5:50,SUB: Kaman FOR Blake,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,62,1,79,1,10:24 PM,5:41,,,Hayward 25' 3PT Pullup Jump Shot (5 PTS) (Burke 3 AST),13 - 14,1,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,63,1,5,1,10:24 PM,5:25,Batum 2' Layup (2 PTS) (Aldridge 2 AST),,,13 - 16,3,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,64,1,56,1,10:24 PM,5:04,,,Kanter 8' Running Hook Shot (6 PTS),15 - 16,1,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,65,1,1,1,10:25 PM,4:46,Aldridge 21' Jump Shot (8 PTS) (Batum 1 AST),,,15 - 18,3,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,66,5,2,1,10:25 PM,4:31,McCollum STEAL (1 STL),,Kanter Lost Ball Turnover (P3.T5),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,67,5,2,1,10:25 PM,4:27,McCollum Lost Ball Turnover (P1.T5),,Burke STEAL (1 STL),,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,68,1,42,1,10:25 PM,4:22,,,Burke 1' Driving Layup (2 PTS),17 - 18,1,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,69,6,1,1,10:26 PM,4:05,,,Kanter P.FOUL (P1.T3),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,70,8,0,1,10:26 PM,4:05,,,SUB: Booker FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,71,5,4,1,10:26 PM,4:03,Batum Traveling Turnover (P2.T6),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011400024,72,1,1,1,10:26 PM,3:47,,,Booker 22' Jump Shot (2 PTS) (Hayward 1 AST),19 - 18,-1,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,73,6,1,1,10:27 PM,3:34,,,Booker P.FOUL (P1.T4),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,74,8,0,1,10:27 PM,3:34,,,SUB: Jones FOR Burks,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,75,2,1,1,10:27 PM,3:23,MISS Batum 24' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,76,4,0,1,10:27 PM,3:21,,,Jones REBOUND (Off:0 Def:1),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,77,2,42,1,10:27 PM,3:11,Barton BLOCK (1 BLK),,MISS Hayward 2' Driving Layup,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,78,4,0,1,10:27 PM,3:08,Kaman REBOUND (Off:0 Def:1),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,79,2,47,1,10:27 PM,2:59,MISS Aldridge 17' Turnaround Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,80,4,0,1,10:27 PM,2:59,,,Booker REBOUND (Off:0 Def:1),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,81,1,79,1,10:28 PM,2:46,,,Burke 19' Pullup Jump Shot (4 PTS),21 - 18,-3,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,82,9,1,1,10:28 PM,2:42,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,84,2,1,1,10:31 PM,2:27,MISS Kaman 17' Jump Shot,,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,85,4,0,1,10:31 PM,2:26,,,Hayward REBOUND (Off:0 Def:2),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,86,1,79,1,10:31 PM,2:16,,,Hayward 19' Pullup Jump Shot (7 PTS),23 - 18,-5,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,87,5,1,1,10:31 PM,1:56,Batum Bad Pass Turnover (P3.T7),,Booker STEAL (1 STL),,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,88,1,8,1,10:31 PM,1:51,,,Booker  Slam Dunk (4 PTS) (Hayward 2 AST),25 - 18,-7,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,89,1,1,1,10:31 PM,1:33,Aldridge 16' Jump Shot (10 PTS),,,25 - 20,-5,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,90,1,1,1,10:32 PM,1:16,,,Burke 25' 3PT Jump Shot (7 PTS) (Booker 1 AST),28 - 20,-8,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,91,6,1,1,10:32 PM,1:06,,,Jones P.FOUL (P1.PN),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,92,3,11,1,10:32 PM,1:06,Barton Free Throw 1 of 2 (1 PTS),,,28 - 21,-7,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,94,8,0,1,10:32 PM,1:06,,,SUB: Exum FOR Burke,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,95,3,12,1,10:32 PM,1:06,Barton Free Throw 2 of 2 (2 PTS),,,28 - 22,-6,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,97,2,1,1,10:33 PM,0:51,,,MISS Booker 22' Jump Shot,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,98,4,0,1,10:33 PM,0:50,,,Gobert REBOUND (Off:1 Def:0),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,99,2,46,1,10:33 PM,0:40,,,MISS Hayward 11' Running Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,100,4,0,1,10:33 PM,0:39,Kaman REBOUND (Off:0 Def:2),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,101,1,1,1,10:33 PM,0:32,Aldridge 19' Jump Shot (12 PTS) (McCollum 1 AST),,,28 - 24,-4,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,102,2,1,1,10:34 PM,0:12,,,MISS Jones  3PT Jump Shot,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,103,4,0,1,10:34 PM,0:10,Aldridge REBOUND (Off:0 Def:3),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,104,2,1,1,10:34 PM,0:00,MISS Barton 25' 3PT Jump Shot,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,105,4,0,1,10:34 PM,0:00,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,106,13,0,1,10:34 PM,0:00,,End of 1st Period (10:34 PM EST),,28 - 24,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,108,12,0,2,10:37 PM,12:00,,Start of 2nd Period (10:37 PM EST),,28 - 24,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,109,6,1,2,10:37 PM,11:50,,,Novak P.FOUL (P1.T1),,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,110,1,67,2,10:37 PM,11:40,Kaman 4' Hook Bank Shot (2 PTS),,,28 - 26,-2,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,111,6,2,2,10:38 PM,11:30,McCollum S.FOUL (P1.T1),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,112,3,11,2,10:38 PM,11:30,,,MISS Exum Free Throw 1 of 2,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,113,4,1,2,10:38 PM,11:30,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,114,3,12,2,10:38 PM,11:30,,,Exum Free Throw 2 of 2 (1 PTS),29 - 26,-3,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,116,1,57,2,10:39 PM,11:11,Lopez 5' Driving Hook Shot (4 PTS),,,29 - 28,-1,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,118,8,0,2,10:39 PM,11:05,,,SUB: Kanter FOR Jones,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,119,6,1,2,10:39 PM,11:00,McCollum P.FOUL (P2.T2),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,120,1,46,2,10:40 PM,10:49,,,Burks 11' Running Jump Shot (2 PTS),31 - 28,-3,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,121,1,58,2,10:40 PM,10:32,Kaman 3' Turnaround Hook Shot (4 PTS) (Barton 1 AST),,,31 - 30,-1,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,122,2,73,2,10:40 PM,10:10,,,MISS Burks 2' Driving Reverse Layup,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,123,4,0,2,10:40 PM,10:10,Lopez REBOUND (Off:1 Def:1),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,124,1,79,2,10:41 PM,9:53,Barton 25' 3PT Pullup Jump Shot (5 PTS),,,31 - 33,2,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,125,5,1,2,10:41 PM,9:34,McCollum STEAL (2 STL),,Burks Bad Pass Turnover (P1.T6),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,126,6,3,2,10:41 PM,9:25,,,Novak L.B.FOUL (P2.T2),,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,127,2,1,2,10:42 PM,9:12,MISS Barton 6' Jump Shot,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,129,4,0,2,10:42 PM,9:10,Lopez REBOUND (Off:2 Def:1),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,128,1,4,2,10:42 PM,9:10,Lopez  Tip Shot (6 PTS),,,31 - 35,4,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,130,2,1,2,10:42 PM,8:44,,,MISS Exum 25' 3PT Jump Shot,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,131,4,0,2,10:42 PM,8:43,Kaman REBOUND (Off:0 Def:3),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,132,2,46,2,10:42 PM,8:30,MISS Matthews 8' Running Jump Shot,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,133,4,0,2,10:42 PM,8:29,Lopez REBOUND (Off:3 Def:1),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,134,2,1,2,10:43 PM,8:26,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,135,4,0,2,10:43 PM,8:25,,,Gobert REBOUND (Off:1 Def:1),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,136,1,46,2,10:43 PM,8:21,,,Burks 8' Running Jump Shot (4 PTS),33 - 35,2,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,137,6,2,2,10:43 PM,8:21,McCollum S.FOUL (P3.T3),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,138,9,4,2,10:43 PM,8:21,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,140,8,0,2,10:45 PM,8:21,SUB: Robinson FOR Kaman,,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,141,8,0,2,10:45 PM,8:21,,,SUB: Jones FOR Novak,,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,142,3,10,2,10:45 PM,8:21,,,Burks Free Throw 1 of 1 (5 PTS),34 - 35,1,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,144,6,4,2,10:46 PM,8:13,Lopez OFF.Foul (P2),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,145,5,5,2,10:46 PM,8:13,Lopez Foul Turnover (P1.T8),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011400024,146,1,46,2,10:46 PM,8:03,,,Burks 15' Running Jump Shot (7 PTS),36 - 35,-1,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,147,6,2,2,10:46 PM,7:56,,,Burks S.FOUL (P1.T3),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,148,3,11,2,10:46 PM,7:56,McCollum Free Throw 1 of 2 (1 PTS),,,36 - 36,TIE,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,150,3,12,2,10:47 PM,7:56,McCollum Free Throw 2 of 2 (2 PTS),,,36 - 37,1,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,153,2,1,2,10:48 PM,7:32,,,MISS Exum 26' 3PT Jump Shot,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,154,4,0,2,10:48 PM,7:32,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,155,5,11,2,10:48 PM,7:32,,,Jazz Turnover: Shot Clock (T#7),,,3,1610612762,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400024,156,2,3,2,10:48 PM,7:12,MISS Lopez 9' Hook Shot,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,157,4,0,2,10:48 PM,7:10,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,158,6,1,2,10:49 PM,6:59,Barton P.FOUL (P1.T4),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,159,8,0,2,10:49 PM,6:59,,,SUB: Booker FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,160,2,46,2,10:49 PM,6:52,Lopez BLOCK (1 BLK),,MISS Burks 4' Running Jump Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,161,4,0,2,10:49 PM,6:51,Lopez REBOUND (Off:3 Def:2),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,162,6,2,2,10:49 PM,6:35,,,Kanter S.FOUL (P2.T4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,163,3,11,2,10:50 PM,6:35,McCollum Free Throw 1 of 2 (3 PTS),,,36 - 38,2,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,166,8,0,2,10:50 PM,6:35,,,SUB: Favors FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,167,3,12,2,10:50 PM,6:35,McCollum Free Throw 2 of 2 (4 PTS),,,36 - 39,3,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,169,2,5,2,10:50 PM,6:24,Robinson BLOCK (1 BLK),,MISS Favors 1' Layup,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,170,4,0,2,10:50 PM,6:22,,,Favors REBOUND (Off:1 Def:1),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,171,5,1,2,10:50 PM,6:21,Barton STEAL (1 STL),,Favors Bad Pass Turnover (P1.T8),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,172,6,4,2,10:51 PM,6:18,Barton OFF.Foul (P2),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,173,5,5,2,10:51 PM,6:18,Barton Foul Turnover (P1.T9),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011400024,174,1,7,2,10:51 PM,5:59,,,Burks  Dunk (9 PTS) (Favors 1 AST),38 - 39,1,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,175,6,2,2,10:51 PM,5:59,Robinson S.FOUL (P1.PN),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,176,9,1,2,10:51 PM,5:59,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,178,8,0,2,10:53 PM,5:59,SUB: Blake FOR Lopez,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,179,8,0,2,10:53 PM,5:59,SUB: Freeland FOR Matthews,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,180,8,0,2,10:53 PM,5:59,SUB: Crabbe FOR Barton,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,181,8,0,2,10:53 PM,5:59,SUB: Wright FOR McCollum,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,182,3,10,2,10:54 PM,5:59,,,MISS Burks Free Throw 1 of 1,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,184,4,0,2,10:54 PM,5:58,Freeland REBOUND (Off:0 Def:1),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,185,2,1,2,10:54 PM,5:40,MISS Blake 18' Jump Shot,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,186,4,0,2,10:54 PM,5:39,,,Favors REBOUND (Off:1 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,187,1,42,2,10:54 PM,5:31,,,Jones 2' Driving Layup (2 PTS),40 - 39,-1,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,189,8,0,2,10:55 PM,5:28,,,SUB: Burke FOR Exum,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,190,8,0,2,10:55 PM,5:28,,,SUB: Hayward FOR Jones,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,191,2,47,2,10:55 PM,5:18,MISS Robinson 6' Turnaround Jump Shot,,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,192,4,0,2,10:55 PM,5:16,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,193,1,46,2,10:55 PM,5:02,,,Hayward 6' Running Jump Shot (9 PTS) (Booker 2 AST),42 - 39,-3,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,194,6,2,2,10:55 PM,5:02,Robinson S.FOUL (P2.PN),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,195,3,10,2,10:55 PM,5:02,,,Hayward Free Throw 1 of 1 (10 PTS),43 - 39,-4,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,197,2,1,2,10:56 PM,4:41,MISS Blake  3PT Jump Shot,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,198,4,0,2,10:56 PM,4:40,,,Booker REBOUND (Off:0 Def:2),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,199,1,73,2,10:56 PM,4:32,,,Favors 2' Driving Reverse Layup (6 PTS) (Hayward 3 AST),45 - 39,-6,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,200,1,5,2,10:56 PM,4:19,Freeland  Layup (2 PTS) (Blake 3 AST),,,45 - 41,-4,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,201,6,29,2,10:57 PM,4:00,Freeland Shooting Block Foul (P1.PN),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,202,3,11,2,10:57 PM,4:00,,,MISS Favors Free Throw 1 of 2,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,203,4,1,2,10:57 PM,4:00,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,204,3,12,2,10:57 PM,4:00,,,Favors Free Throw 2 of 2 (7 PTS),46 - 41,-5,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,206,6,2,2,10:58 PM,3:44,,,Booker S.FOUL (P2.PN),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,207,3,11,2,10:58 PM,3:44,Crabbe Free Throw 1 of 2 (1 PTS),,,46 - 42,-4,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,209,8,0,2,10:58 PM,3:44,,,SUB: Novak FOR Favors,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,210,8,0,2,10:58 PM,3:44,,,SUB: Exum FOR Burks,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,211,3,12,2,10:58 PM,3:44,Crabbe Free Throw 2 of 2 (2 PTS),,,46 - 43,-3,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,213,2,80,2,10:59 PM,3:30,,,MISS Burke 22' Step Back Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,214,4,0,2,10:59 PM,3:29,Wright REBOUND (Off:0 Def:1),,,,,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,215,1,1,2,10:59 PM,3:21,Blake  3PT Jump Shot (3 PTS) (Wright 1 AST),,,46 - 46,TIE,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,216,9,1,2,10:59 PM,3:11,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,218,1,86,2,11:02 PM,3:02,,,Hayward 17' Turnaround Fadeaway (12 PTS),48 - 46,-2,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,219,1,75,2,11:02 PM,2:43,Crabbe 2' Driving Finger Roll Layup (4 PTS) (Wright 2 AST),,,48 - 48,TIE,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,220,2,5,2,11:02 PM,2:29,,,MISS Hayward 3' Layup,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,221,4,0,2,11:02 PM,2:28,Wright REBOUND (Off:0 Def:2),,,,,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,222,2,1,2,11:02 PM,2:22,MISS Blake 24' 3PT Jump Shot,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,223,4,0,2,11:02 PM,2:20,,,Burke REBOUND (Off:0 Def:1),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,224,1,1,2,11:02 PM,2:15,,,Exum 25' 3PT Jump Shot (4 PTS) (Burke 4 AST),51 - 48,-3,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,225,2,56,2,11:03 PM,1:51,MISS Robinson 5' Running Hook Shot,,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,226,4,0,2,11:03 PM,1:50,Freeland REBOUND (Off:1 Def:1),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,227,6,2,2,11:03 PM,1:46,,,Novak S.FOUL (P3.PN),,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,228,3,11,2,11:03 PM,1:46,Freeland Free Throw 1 of 2 (3 PTS),,,51 - 49,-2,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,230,3,12,2,11:03 PM,1:46,Freeland Free Throw 2 of 2 (4 PTS),,,51 - 50,-1,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,232,2,1,2,11:04 PM,1:37,,,MISS Burke  3PT Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,233,4,0,2,11:04 PM,1:36,Robinson REBOUND (Off:0 Def:1),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,234,6,2,2,11:04 PM,1:27,,,Novak S.FOUL (P4.PN),,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,235,3,11,2,11:04 PM,1:27,Freeland Free Throw 1 of 2 (5 PTS),,,51 - 51,TIE,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,237,8,0,2,11:04 PM,1:27,,,SUB: Evans FOR Novak,,,5,200779,Steve Novak,1610612762.0,Utah,Jazz,UTA,5,202379,Jeremy Evans,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,238,3,12,2,11:04 PM,1:27,Freeland Free Throw 2 of 2 (6 PTS),,,51 - 52,1,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,240,1,88,2,11:05 PM,1:17,,,Hayward  Driving Slam Dunk (14 PTS),53 - 52,-1,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,241,6,2,2,11:05 PM,0:59,,,Exum S.FOUL (P1.PN),,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,242,3,11,2,11:05 PM,0:59,Crabbe Free Throw 1 of 2 (5 PTS),,,53 - 53,TIE,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,244,3,12,2,11:05 PM,0:59,Crabbe Free Throw 2 of 2 (6 PTS),,,53 - 54,1,4,203459,Allen Crabbe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,246,6,2,2,11:06 PM,0:48,Freeland S.FOUL (P2.PN),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,5,202379,Jeremy Evans,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,247,3,11,2,11:06 PM,0:48,,,MISS Evans Free Throw 1 of 2,,,5,202379,Jeremy Evans,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,248,4,1,2,11:06 PM,0:48,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,249,8,0,2,11:06 PM,0:48,,,SUB: Gobert FOR Booker,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,250,3,12,2,11:07 PM,0:48,,,MISS Evans Free Throw 2 of 2,,,5,202379,Jeremy Evans,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,252,4,0,2,11:07 PM,0:46,Robinson REBOUND (Off:0 Def:2),,,,,4,203080,Thomas Robinson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,253,5,21,2,11:07 PM,0:32,Wright Palming Turnover (P1.T10),,,,,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011400024,254,1,57,2,11:07 PM,0:16,,,Gobert 3' Driving Hook Shot (2 PTS) (Burke 5 AST),55 - 54,-1,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,255,6,2,2,11:07 PM,0:16,Freeland S.FOUL (P3.PN),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,256,3,10,2,11:08 PM,0:16,,,Gobert Free Throw 1 of 1 (3 PTS),56 - 54,-2,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,258,2,47,2,11:08 PM,0:00,MISS Freeland 8' Turnaround Jump Shot,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,259,4,0,2,11:08 PM,0:00,,,Gobert REBOUND (Off:1 Def:2),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,260,13,0,2,11:08 PM,0:00,,End of 2nd Period (11:08 PM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,263,12,0,3,11:24 PM,12:00,,Start of 3rd Period (11:24 PM EST),,56 - 54,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,264,1,7,3,11:24 PM,11:46,Lopez  Dunk (8 PTS) (Blake 4 AST),,,56 - 56,TIE,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,265,6,1,3,11:24 PM,11:31,Aldridge P.FOUL (P2.T1),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,266,2,1,3,11:25 PM,11:17,,,MISS Burke 26' 3PT Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,267,4,0,3,11:25 PM,11:17,,,Burke REBOUND (Off:1 Def:1),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,268,1,1,3,11:25 PM,11:13,,,Burke 8' Jump Shot (9 PTS),58 - 56,-2,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,269,2,42,3,11:25 PM,10:57,MISS Batum  Driving Layup,,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,270,4,0,3,11:25 PM,10:56,,,Burke REBOUND (Off:1 Def:2),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,271,5,1,3,11:25 PM,10:52,,,Hayward Bad Pass Turnover (P3.T9),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,272,5,2,3,11:26 PM,10:40,Lopez Lost Ball Turnover (P2.T11),,Burks STEAL (1 STL),,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,273,1,73,3,11:26 PM,10:36,,,Burks 1' Driving Reverse Layup (11 PTS),60 - 56,-4,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,274,5,11,3,11:26 PM,10:09,TRAIL BLAZERS Turnover: Shot Clock (T#12),,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400024,275,1,1,3,11:27 PM,9:49,,,Kanter 23' Jump Shot (8 PTS) (Burks 1 AST),62 - 56,-6,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,276,1,42,3,11:27 PM,9:36,Aldridge 2' Driving Layup (14 PTS),,,62 - 58,-4,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,277,1,73,3,11:27 PM,9:20,,,Favors 1' Driving Reverse Layup (9 PTS),64 - 58,-6,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,278,1,42,3,11:28 PM,9:02,Aldridge 1' Driving Layup (16 PTS) (Batum 2 AST),,,64 - 60,-4,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,279,6,2,3,11:28 PM,9:02,,,Favors S.FOUL (P3.T1),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,280,3,10,3,11:28 PM,9:02,Aldridge Free Throw 1 of 1 (17 PTS),,,64 - 61,-3,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,282,2,1,3,11:28 PM,8:45,,,MISS Kanter 24' 3PT Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,283,4,0,3,11:28 PM,8:44,Batum REBOUND (Off:2 Def:3),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,284,2,80,3,11:29 PM,8:33,MISS Aldridge 9' Step Back Jump Shot,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,286,4,0,3,11:29 PM,8:31,Batum REBOUND (Off:3 Def:3),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,285,1,72,3,11:29 PM,8:31,Batum 2' Putback Layup (4 PTS),,,64 - 63,-1,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,287,2,5,3,11:29 PM,8:13,,,MISS Hayward 3' Layup,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,289,4,0,3,11:29 PM,8:12,,,Favors REBOUND (Off:2 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,288,1,4,3,11:29 PM,8:12,,,Favors 1' Tip Shot (11 PTS),66 - 63,-3,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,290,1,1,3,11:29 PM,8:03,Matthews  3PT Jump Shot (9 PTS) (Batum 3 AST),,,66 - 66,TIE,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,291,6,1,3,11:29 PM,7:51,Batum P.FOUL (P1.T2),,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,292,6,4,3,11:30 PM,7:45,,,Burke OFF.Foul (P1),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,293,5,5,3,11:30 PM,7:45,,,Burke Foul Turnover (P1.T10),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400024,294,6,2,3,11:30 PM,7:34,,,Kanter S.FOUL (P3.T2),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,295,3,11,3,11:31 PM,7:34,MISS Aldridge Free Throw 1 of 2,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,296,4,1,3,11:31 PM,7:34,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,297,3,12,3,11:31 PM,7:34,Aldridge Free Throw 2 of 2 (18 PTS),,,66 - 67,1,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,299,1,1,3,11:31 PM,7:23,,,Favors 14' Jump Shot (13 PTS) (Burks 2 AST),68 - 67,-1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,300,2,1,3,11:32 PM,7:04,MISS Matthews  3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,301,4,0,3,11:32 PM,7:03,,,Kanter REBOUND (Off:0 Def:3),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,302,2,1,3,11:32 PM,6:50,Aldridge BLOCK (1 BLK),,MISS Kanter 5' Jump Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,303,4,0,3,11:32 PM,6:49,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,304,1,80,3,11:33 PM,6:40,,,Burke 20' Step Back Jump Shot (11 PTS),70 - 67,-3,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,305,1,7,3,11:33 PM,6:26,Lopez  Dunk (10 PTS) (Batum 4 AST),,,70 - 69,-1,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,306,2,5,3,11:33 PM,6:04,,,MISS Burks 1' Layup,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,307,4,0,3,11:33 PM,6:01,,,Favors REBOUND (Off:3 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,308,2,5,3,11:33 PM,6:00,,,MISS Favors 1' Layup,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,309,4,0,3,11:33 PM,5:58,Aldridge REBOUND (Off:0 Def:4),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,310,1,42,3,11:34 PM,5:45,Aldridge 2' Driving Layup (20 PTS) (Lopez 1 AST),,,70 - 71,1,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,311,9,1,3,11:34 PM,5:44,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,313,8,0,3,11:36 PM,5:44,SUB: McCollum FOR Matthews,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,314,8,0,3,11:36 PM,5:44,SUB: Barton FOR Blake,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,315,1,7,3,11:36 PM,5:32,,,Favors  Dunk (15 PTS) (Hayward 4 AST),72 - 71,-1,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,316,1,42,3,11:37 PM,5:07,McCollum 2' Driving Layup (6 PTS),,,72 - 73,1,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,317,2,56,3,11:37 PM,4:56,Lopez BLOCK (2 BLK),,MISS Burke 6' Running Hook Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,318,4,0,3,11:37 PM,4:55,Lopez REBOUND (Off:3 Def:3),,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,319,2,1,3,11:37 PM,4:45,MISS Lopez 6' Jump Shot,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,320,4,0,3,11:37 PM,4:44,,,Kanter REBOUND (Off:0 Def:4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,321,5,1,3,11:37 PM,4:35,Batum STEAL (1 STL),,Favors Bad Pass Turnover (P2.T11),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,322,1,42,3,11:37 PM,4:31,Batum  Driving Layup (6 PTS),,,72 - 75,3,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,323,2,1,3,11:38 PM,4:16,,,MISS Burks 4' Jump Shot,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,325,4,0,3,11:38 PM,4:15,,,Favors REBOUND (Off:4 Def:2),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,324,2,4,3,11:38 PM,4:15,,,MISS Favors 1' Tip Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,326,4,0,3,11:38 PM,4:14,Barton REBOUND (Off:0 Def:1),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,327,6,1,3,11:38 PM,4:14,,,Burks P.FOUL (P2.T3),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,328,8,0,3,11:38 PM,4:14,SUB: Kaman FOR Lopez,,,,,4,201577,Robin Lopez,1610612757.0,Portland,Trail Blazers,POR,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,329,8,0,3,11:38 PM,4:14,,,SUB: Booker FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,330,8,0,3,11:38 PM,4:14,,,SUB: Gobert FOR Favors,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,331,6,4,3,11:39 PM,4:05,Kaman OFF.Foul (P1),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,332,5,5,3,11:39 PM,4:05,Kaman Foul Turnover (P1.T13),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,0
+0011400024,333,2,1,3,11:39 PM,3:52,,,MISS Booker 24' 3PT Jump Shot,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,334,4,0,3,11:39 PM,3:50,McCollum REBOUND (Off:0 Def:1),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,335,1,86,3,11:39 PM,3:41,Aldridge 9' Turnaround Fadeaway (22 PTS),,,72 - 77,5,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,336,5,2,3,11:39 PM,3:32,McCollum STEAL (3 STL),,Burke Lost Ball Turnover (P2.T12),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,337,6,2,3,11:39 PM,3:30,,,Burke S.FOUL (P2.T4),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,338,3,11,3,11:39 PM,3:30,McCollum Free Throw 1 of 2 (7 PTS),,,72 - 78,6,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,340,8,0,3,11:40 PM,3:30,,,SUB: Exum FOR Burks,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,341,3,12,3,11:40 PM,3:30,McCollum Free Throw 2 of 2 (8 PTS),,,72 - 79,7,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,343,2,1,3,11:40 PM,3:13,,,MISS Booker 20' Jump Shot,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,344,4,0,3,11:40 PM,3:12,Aldridge REBOUND (Off:0 Def:5),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,345,5,1,3,11:41 PM,3:03,Batum Bad Pass Turnover (P4.T14),,Hayward STEAL (1 STL),,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,346,1,42,3,11:41 PM,2:58,,,Burke 1' Driving Layup (13 PTS),74 - 79,5,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,347,9,1,3,11:41 PM,2:56,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,349,2,5,3,11:43 PM,2:41,MISS Kaman 1' Layup,,Booker BLOCK (1 BLK),,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0
+0011400024,350,4,0,3,11:43 PM,2:41,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,351,2,1,3,11:44 PM,2:36,MISS McCollum 19' Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,352,4,0,3,11:44 PM,2:35,,,Hayward REBOUND (Off:0 Def:3),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,353,5,1,3,11:44 PM,2:28,Barton STEAL (2 STL),,Hayward Bad Pass Turnover (P4.T13),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,354,2,1,3,11:44 PM,2:20,MISS Barton  3PT Jump Shot,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,355,4,0,3,11:44 PM,2:19,,,Gobert REBOUND (Off:1 Def:3),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,356,5,2,3,11:44 PM,2:00,Kaman STEAL (1 STL),,Exum Lost Ball Turnover (P1.T14),,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,357,1,85,3,11:45 PM,1:50,Kaman 6' Turnaround Bank Shot (6 PTS) (Barton 2 AST),,,74 - 81,7,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,358,2,46,3,11:45 PM,1:32,,,MISS Hayward 7' Running Jump Shot,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,359,4,0,3,11:45 PM,1:30,Kaman REBOUND (Off:0 Def:4),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,360,2,1,3,11:45 PM,1:17,MISS Kaman 9' Jump Shot,,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,361,4,0,3,11:45 PM,1:15,,,Booker REBOUND (Off:0 Def:3),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,362,5,4,3,11:45 PM,1:10,,,Booker Traveling Turnover (P1.T15),,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400024,363,8,0,3,11:45 PM,1:10,,,SUB: Jones FOR Hayward,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,364,2,1,3,11:46 PM,0:58,MISS Batum 26' 3PT Jump Shot,,,,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,365,4,0,3,11:46 PM,0:57,Aldridge REBOUND (Off:1 Def:5),,,,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,366,2,1,3,11:46 PM,0:55,MISS Aldridge 4' Jump Shot,,Gobert BLOCK (1 BLK),,,4,200746,LaMarcus Aldridge,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0
+0011400024,367,4,0,3,11:46 PM,0:53,,,Jones REBOUND (Off:0 Def:2),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,368,1,52,3,11:46 PM,0:50,,,Gobert  Alley Oop Dunk (5 PTS) (Jones 1 AST),76 - 81,5,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,369,5,2,3,11:46 PM,0:30,McCollum Lost Ball Turnover (P2.T15),,Burke STEAL (2 STL),,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,370,2,5,3,11:46 PM,0:24,,,MISS Booker 2' Layup,,,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,371,4,0,3,11:47 PM,0:23,Kaman REBOUND (Off:0 Def:5),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,372,5,1,3,11:47 PM,0:04,Batum Bad Pass Turnover (P5.T16),,Jones STEAL (1 STL),,,4,201587,Nicolas Batum,1610612757.0,Portland,Trail Blazers,POR,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,373,1,7,3,11:47 PM,0:00,,,Exum  Dunk (6 PTS) (Burke 6 AST),78 - 81,3,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,375,18,0,3,11:47 PM,0:00,,Support Ruling,,,,0,373,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400024,376,13,0,3,11:48 PM,0:00,,End of 3rd Period (11:48 PM EST),,78 - 81,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,377,12,0,4,11:50 PM,12:00,,Start of 4th Period (11:50 PM EST),,78 - 81,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,378,5,4,4,11:50 PM,11:51,,,Gobert Traveling Turnover (P1.T16),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400024,379,1,57,4,11:50 PM,11:31,Kaman 5' Driving Hook Shot (8 PTS),,,78 - 83,5,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,380,2,1,4,11:50 PM,11:19,,,MISS Favors 13' Jump Shot,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,381,4,0,4,11:50 PM,11:17,Kaman REBOUND (Off:0 Def:6),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,382,2,1,4,11:51 PM,11:07,MISS Leonard 25' 3PT Jump Shot,,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,383,4,0,4,11:51 PM,11:05,,,Gobert REBOUND (Off:1 Def:4),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,384,5,1,4,11:51 PM,10:46,Wright STEAL (1 STL),,Favors Bad Pass Turnover (P3.T17),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,385,2,1,4,11:51 PM,10:40,MISS Matthews 25' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,386,4,0,4,11:51 PM,10:39,,,Gobert REBOUND (Off:1 Def:5),,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,387,5,2,4,11:51 PM,10:29,Wright STEAL (2 STL),,Exum Lost Ball Turnover (P2.T18),,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,388,6,1,4,11:51 PM,10:29,,,Jones P.FOUL (P2.T1),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,389,5,1,4,11:52 PM,10:19,Leonard Bad Pass Turnover (P1.T17),,Favors STEAL (3 STL),,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,390,6,2,4,11:52 PM,10:04,Matthews S.FOUL (P1.T1),,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,391,3,11,4,11:52 PM,10:04,,,MISS Jones Free Throw 1 of 2,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,392,4,1,4,11:52 PM,10:04,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,393,3,12,4,11:52 PM,10:04,,,Jones Free Throw 2 of 2 (3 PTS),79 - 83,4,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,395,2,1,4,11:53 PM,9:51,MISS Kaman 15' Jump Shot,,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,396,4,0,4,11:53 PM,9:49,Leonard REBOUND (Off:1 Def:0),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,397,5,2,4,11:53 PM,9:46,Matthews Lost Ball Turnover (P1.T18),,Burks STEAL (2 STL),,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,398,6,2,4,11:53 PM,9:42,Kaman S.FOUL (P2.T2),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,399,3,11,4,11:53 PM,9:42,,,Burks Free Throw 1 of 2 (12 PTS),80 - 83,3,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,401,8,0,4,11:54 PM,9:42,,,SUB: Kanter FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,402,3,12,4,11:54 PM,9:42,,,Burks Free Throw 2 of 2 (13 PTS),81 - 83,2,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,404,6,1,4,11:54 PM,9:22,,,Jones P.FOUL (P3.T2),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,405,2,77,4,11:55 PM,9:16,MISS Blake 3' Driving Jump Shot,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,406,4,0,4,11:55 PM,9:15,,,Favors REBOUND (Off:4 Def:3),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,407,5,2,4,11:55 PM,9:04,Wright STEAL (3 STL),,Favors Lost Ball Turnover (P4.T19),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,408,1,44,4,11:55 PM,8:58,Matthews 2' Reverse Layup (11 PTS) (Blake 5 AST),,,81 - 85,4,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,409,2,5,4,11:55 PM,8:35,Kaman BLOCK (1 BLK),,MISS Kanter 1' Layup,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,410,4,0,4,11:55 PM,8:33,,,Kanter REBOUND (Off:1 Def:4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,411,5,4,4,11:56 PM,8:33,,,Kanter Traveling Turnover (P4.T20),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400024,412,9,4,4,11:56 PM,8:33,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,414,1,86,4,11:58 PM,8:18,Matthews 14' Turnaround Fadeaway (13 PTS) (Leonard 1 AST),,,81 - 87,6,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,415,6,2,4,11:59 PM,7:59,Kaman S.FOUL (P3.T3),,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,416,3,11,4,11:59 PM,7:59,,,MISS Favors Free Throw 1 of 2,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,417,4,1,4,11:59 PM,7:59,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,418,3,12,4,11:59 PM,7:59,,,Favors Free Throw 2 of 2 (16 PTS),82 - 87,5,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,420,6,2,4,12:00 AM,7:48,,,Jones S.FOUL (P4.T3),,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,421,3,11,4,12:00 AM,7:48,Wright Free Throw 1 of 2 (1 PTS),,,82 - 88,6,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,423,8,0,4,12:01 AM,7:48,SUB: Freeland FOR Kaman,,,,,4,2549,Chris Kaman,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,424,3,12,4,12:01 AM,7:48,Wright Free Throw 2 of 2 (2 PTS),,,82 - 89,7,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,426,1,1,4,12:01 AM,7:39,,,Burks 22' Jump Shot (15 PTS) (Exum 1 AST),84 - 89,5,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,427,1,1,4,12:01 AM,7:22,Leonard 20' Jump Shot (2 PTS) (Blake 6 AST),,,84 - 91,7,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,428,2,1,4,12:02 AM,7:13,,,MISS Exum 25' 3PT Jump Shot,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,429,4,0,4,12:02 AM,7:11,,,Kanter REBOUND (Off:2 Def:4),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,430,1,7,4,12:02 AM,7:09,,,Kanter  Dunk (10 PTS),86 - 91,5,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,431,2,47,4,12:02 AM,6:44,MISS Matthews 10' Turnaround Jump Shot,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,432,4,0,4,12:02 AM,6:43,,,Favors REBOUND (Off:4 Def:4),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,433,2,77,4,12:02 AM,6:25,,,MISS Exum 4' Driving Jump Shot,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,434,4,0,4,12:02 AM,6:24,Freeland REBOUND (Off:1 Def:2),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,435,1,5,4,12:03 AM,6:15,Wright 2' Layup (4 PTS) (Blake 7 AST),,,86 - 93,7,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,436,2,56,4,12:03 AM,5:56,,,MISS Kanter 2' Running Hook Shot,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,437,4,0,4,12:03 AM,5:55,Leonard REBOUND (Off:1 Def:1),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,438,2,1,4,12:03 AM,5:48,MISS Matthews 25' 3PT Jump Shot,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,439,4,0,4,12:03 AM,5:46,Leonard REBOUND (Off:2 Def:1),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,440,9,1,4,12:03 AM,5:45,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,442,8,0,4,12:05 AM,5:45,SUB: McCollum FOR Matthews,,,,,4,202083,Wesley Matthews,1610612757.0,Portland,Trail Blazers,POR,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,443,8,0,4,12:05 AM,5:45,SUB: Barton FOR Blake,,,,,4,2581,Steve Blake,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,444,8,0,4,12:05 AM,5:45,,,SUB: Hayward FOR Jones,,,5,2563,Dahntay Jones,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,445,8,0,4,12:05 AM,5:45,,,SUB: Burke FOR Exum,,,5,203957,Dante Exum,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,446,1,1,4,12:06 AM,5:36,Leonard 20' Jump Shot (4 PTS) (Freeland 1 AST),,,86 - 95,9,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,447,1,57,4,12:06 AM,5:20,,,Kanter 6' Driving Hook Shot (12 PTS),88 - 95,7,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,448,2,46,4,12:06 AM,4:58,MISS Barton 7' Running Jump Shot,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,449,4,0,4,12:06 AM,4:58,,,Kanter REBOUND (Off:2 Def:5),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,450,6,4,4,12:07 AM,4:46,,,Hayward OFF.Foul (P1),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,451,5,5,4,12:07 AM,4:46,,,Hayward Foul Turnover (P5.T21),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400024,452,8,0,4,12:07 AM,4:46,SUB: Morris FOR Wright,,,,,4,2748,Dorell Wright,1610612757.0,Portland,Trail Blazers,POR,4,202721,Darius Morris,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,453,2,79,4,12:07 AM,4:26,MISS McCollum 20' Pullup Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,454,4,0,4,12:07 AM,4:25,,,Favors REBOUND (Off:4 Def:5),,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,455,6,1,4,12:07 AM,4:18,Leonard P.FOUL (P1.T4),,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,456,1,42,4,12:08 AM,4:15,,,Favors 1' Driving Layup (18 PTS),90 - 95,5,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,457,6,2,4,12:08 AM,4:15,Freeland S.FOUL (P4.PN),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,458,3,10,4,12:08 AM,4:15,,,Favors Free Throw 1 of 1 (19 PTS),91 - 95,4,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,460,2,57,4,12:09 AM,4:00,MISS Freeland 4' Driving Hook Shot,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,461,4,0,4,12:09 AM,4:00,,,Kanter REBOUND (Off:2 Def:6),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,462,1,5,4,12:09 AM,3:43,,,Kanter 1' Layup (14 PTS),93 - 95,2,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,463,2,1,4,12:09 AM,3:24,MISS Leonard 18' Jump Shot,,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,464,4,0,4,12:09 AM,3:24,,,Hayward REBOUND (Off:0 Def:4),,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,465,1,1,4,12:09 AM,3:10,,,Burke 25' 3PT Jump Shot (16 PTS) (Kanter 1 AST),96 - 95,-1,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,466,1,1,4,12:10 AM,2:50,McCollum 19' Jump Shot (10 PTS) (Freeland 2 AST),,,96 - 97,1,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,467,2,42,4,12:10 AM,2:33,Barton BLOCK (2 BLK),,MISS Hayward 2' Driving Layup,,,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0
+0011400024,468,4,0,4,12:10 AM,2:31,Freeland REBOUND (Off:1 Def:3),,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,469,6,2,4,12:10 AM,2:28,,,Burks S.FOUL (P3.T4),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,470,9,1,4,12:10 AM,2:28,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,472,3,11,4,12:13 AM,2:28,Leonard Free Throw 1 of 2 (5 PTS),,,96 - 98,2,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,474,3,12,4,12:13 AM,2:28,Leonard Free Throw 2 of 2 (6 PTS),,,96 - 99,3,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,476,1,1,4,12:13 AM,2:14,,,Kanter 22' Jump Shot (16 PTS) (Burke 7 AST),98 - 99,1,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,477,1,1,4,12:13 AM,1:59,Leonard  3PT Jump Shot (9 PTS) (Barton 3 AST),,,98 - 102,4,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0011400024,478,2,1,4,12:14 AM,1:50,,,MISS Burke 26' 3PT Jump Shot,,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,479,4,0,4,12:14 AM,1:49,,,Kanter REBOUND (Off:3 Def:6),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,480,5,4,4,12:14 AM,1:49,,,Kanter Traveling Turnover (P5.T22),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0011400024,481,5,40,4,12:14 AM,1:29,Barton Out of Bounds Lost Ball Turnover (P2.T19),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,482,6,2,4,12:15 AM,1:16,McCollum S.FOUL (P4.PN),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,483,3,11,4,12:15 AM,1:16,,,Burks Free Throw 1 of 2 (16 PTS),99 - 102,3,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,485,3,12,4,12:15 AM,1:16,,,Burks Free Throw 2 of 2 (17 PTS),100 - 102,2,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,487,6,2,4,12:16 AM,1:01,,,Burks S.FOUL (P4.PN),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0011400024,488,3,11,4,12:16 AM,1:01,Freeland Free Throw 1 of 2 (7 PTS),,,100 - 103,3,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,490,3,12,4,12:16 AM,1:01,MISS Freeland Free Throw 2 of 2,,,,,4,200777,Joel Freeland,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,492,4,0,4,12:16 AM,0:59,,,Kanter REBOUND (Off:3 Def:7),,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,493,1,46,4,12:17 AM,0:47,,,Burke 3' Running Jump Shot (18 PTS),102 - 103,1,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,494,6,2,4,12:17 AM,0:47,Morris S.FOUL (P1.PN),,,,,4,202721,Darius Morris,1610612757.0,Portland,Trail Blazers,POR,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,495,3,10,4,12:17 AM,0:47,,,Burke Free Throw 1 of 1 (19 PTS),103 - 103,TIE,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,497,9,1,4,12:17 AM,0:47,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,499,2,5,4,12:19 AM,0:38,MISS Barton 3' Layup,,Favors BLOCK (1 BLK),,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,202324,Derrick Favors,1610612762.0,Utah,Jazz,UTA,0
+0011400024,501,4,0,4,12:19 AM,0:37,Barton REBOUND (Off:1 Def:1),,,,,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,500,1,72,4,12:19 AM,0:37,Barton 1' Putback Layup (7 PTS),,,103 - 105,2,4,203115,Will Barton,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,502,9,1,4,12:20 AM,0:37,,,Jazz Timeout: Regular (Reg.5 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,504,1,1,4,12:21 AM,0:30,,,Burke 28' 3PT Jump Shot (22 PTS) (Hayward 5 AST),106 - 105,-1,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,5,202330,Gordon Hayward,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,505,9,2,4,12:22 AM,0:30,TRAIL BLAZERS Timeout: Short (Full 5 Short 1),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,507,8,0,4,12:22 AM,0:30,,,SUB: Gobert FOR Kanter,,,5,202683,Enes Kanter,1610612762.0,Utah,Jazz,UTA,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,508,2,1,4,12:23 AM,0:22,MISS Leonard 25' 3PT Jump Shot,,,,,4,203086,Meyers Leonard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,509,4,0,4,12:23 AM,0:21,,,Burke REBOUND (Off:1 Def:3),,,5,203504,Trey Burke,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,510,6,28,4,12:23 AM,0:16,McCollum Personal Take Foul (P5.PN),,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,511,3,11,4,12:23 AM,0:16,,,MISS Burks Free Throw 1 of 2,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,512,4,1,4,12:23 AM,0:16,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,513,3,12,4,12:23 AM,0:16,,,MISS Burks Free Throw 2 of 2,,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,515,4,0,4,12:24 AM,0:15,,,Burks REBOUND (Off:1 Def:0),,,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,516,1,5,4,12:24 AM,0:11,,,Burks 2' Layup (19 PTS),108 - 105,-3,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,517,9,2,4,12:24 AM,0:11,TRAIL BLAZERS Timeout: Short (Full 5 Short 2),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,519,8,0,4,12:25 AM,0:11,,,SUB: Booker FOR Gobert,,,5,203497,Rudy Gobert,1610612762.0,Utah,Jazz,UTA,5,202344,Trevor Booker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0011400024,520,2,1,4,12:25 AM,0:04,MISS McCollum 25' 3PT Jump Shot,,,,,4,203468,CJ McCollum,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,0
+0011400024,521,4,0,4,12:26 AM,0:03,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,522,9,2,4,12:26 AM,0:03,,,Jazz Timeout: Short (Reg.5 Short 1),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,524,9,2,4,12:27 AM,0:03,,,Jazz Timeout: Short (Reg.5 Short 2),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400024,525,6,5,4,12:29 AM,0:03,Morris IN.FOUL (P2.PN),,,,,4,202721,Darius Morris,1610612757.0,Portland,Trail Blazers,POR,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,0
+0011400024,526,3,10,4,12:29 AM,0:03,,,Burks Free Throw 1 of 1 (20 PTS),109 - 105,-4,5,202692,Alec Burks,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0011400024,530,13,0,4,12:30 AM,0:00,,End of 4th Period (12:30 AM EST),,109 - 105,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

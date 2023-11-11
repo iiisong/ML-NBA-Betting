@@ -1,0 +1,592 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300084,1,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,2,10,0,1,7:11 PM,12:00,Jump Ball Valanciunas vs. Chandler: Tip to Chandler,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0
+0011300084,3,2,42,1,7:11 PM,11:46,,,MISS Anthony 3' Driving Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,4,4,0,1,7:11 PM,11:45,Valanciunas REBOUND (Off:0 Def:1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,5,2,1,1,7:12 PM,11:25,MISS DeRozan  3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,6,4,0,1,7:12 PM,11:25,,,Bargnani REBOUND (Off:0 Def:1),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,7,2,1,1,7:12 PM,11:06,,,MISS Bargnani 21' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,8,4,0,1,7:12 PM,11:05,Valanciunas REBOUND (Off:0 Def:2),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,9,1,1,1,7:12 PM,10:55,Gay 25' 3PT Jump Shot (3 PTS) (Lowry 1 AST),,,0 - 3,3,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,10,1,1,1,7:13 PM,10:40,,,Chandler 18' Jump Shot (2 PTS) (Udrih 1 AST),2 - 3,1,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,11,2,76,1,7:13 PM,10:22,MISS Johnson 3' Running Finger Roll Layup,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,12,4,0,1,7:13 PM,10:21,,,Chandler REBOUND (Off:0 Def:1),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,13,6,2,1,7:13 PM,10:07,Valanciunas S.FOUL (P1.T1),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,14,3,11,1,7:13 PM,10:07,,,Bargnani Free Throw 1 of 2 (1 PTS),3 - 3,TIE,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,16,3,12,1,7:14 PM,10:07,,,Bargnani Free Throw 2 of 2 (2 PTS),4 - 3,-1,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,18,1,88,1,7:14 PM,9:51,DeRozan 2' Driving Slam Dunk (2 PTS) (Valanciunas 1 AST),,,4 - 5,1,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,38,1,45,1,7:15 PM,9:39,,,Udrih 14' Jump Shot (2 PTS),6 - 5,-1,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,20,2,1,1,7:15 PM,9:39,MISS Johnson 18' Jump Shot,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,21,4,0,1,7:15 PM,9:20,,,Anthony REBOUND (Off:0 Def:1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,22,1,5,1,7:15 PM,9:12,,,Chandler 3' Layup (4 PTS),8 - 5,-3,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,23,6,29,1,7:16 PM,8:48,,,Chandler Shooting Block Foul (P1.T1),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,24,3,11,1,7:16 PM,8:48,Gay Free Throw 1 of 2 (4 PTS),,,8 - 6,-2,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,26,3,12,1,7:16 PM,8:48,Gay Free Throw 2 of 2 (5 PTS),,,8 - 7,-1,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,28,1,8,1,7:17 PM,8:48,,,Chandler 1' Slam Dunk (6 PTS) (Anthony 1 AST),10 - 7,-3,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,29,2,1,1,7:17 PM,8:34,MISS Gay 25' 3PT Jump Shot,,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,30,4,0,1,7:17 PM,8:33,,,Hardaway Jr. REBOUND (Off:0 Def:1),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,31,1,88,1,7:17 PM,8:31,,,Anthony 1' Driving Slam Dunk (2 PTS) (Hardaway Jr. 1 AST),12 - 7,-5,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,32,9,1,1,7:17 PM,8:20,RAPTORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,36,1,1,1,7:20 PM,7:56,Gay 25' 3PT Jump Shot (8 PTS) (Lowry 2 AST),,,12 - 10,-2,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,37,1,1,1,7:20 PM,7:40,,,Udrih 16' Jump Shot (4 PTS) (Hardaway Jr. 2 AST),14 - 10,-4,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,39,1,65,1,7:20 PM,7:23,Valanciunas 1' Jump Hook Shot (2 PTS) (DeRozan 1 AST),,,14 - 12,-2,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,40,2,1,1,7:21 PM,7:04,,,MISS Hardaway Jr. 20' Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,41,4,0,1,7:21 PM,7:03,,,Chandler REBOUND (Off:1 Def:1),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,42,2,1,1,7:21 PM,7:01,Valanciunas BLOCK (1 BLK),,MISS Chandler 3' Jump Shot,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0
+0011300084,43,4,0,1,7:21 PM,6:59,DeRozan REBOUND (Off:0 Def:1),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,44,1,50,1,7:21 PM,6:55,Johnson 1' Running Dunk (2 PTS) (DeRozan 2 AST),,,14 - 14,TIE,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,46,2,66,1,7:21 PM,6:42,,,MISS Anthony 19' Jump Bank Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,47,4,0,1,7:21 PM,6:42,Johnson REBOUND (Off:0 Def:1),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,48,1,82,1,7:21 PM,6:34,Lowry 5' Driving Bank Shot (2 PTS),,,14 - 16,2,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,49,2,1,1,7:21 PM,6:21,,,MISS Bargnani 19' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,50,4,0,1,7:21 PM,6:21,Gay REBOUND (Off:0 Def:1),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,51,1,86,1,7:22 PM,6:07,Gay 20' Turnaround Fadeaway (10 PTS),,,14 - 18,4,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,52,1,1,1,7:22 PM,5:52,,,Chandler 18' Jump Shot (8 PTS) (Udrih 2 AST),16 - 18,2,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,53,2,82,1,7:22 PM,5:44,MISS Lowry 5' Driving Bank Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,54,4,0,1,7:22 PM,5:44,,,Bargnani REBOUND (Off:0 Def:2),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,55,6,3,1,7:22 PM,5:35,Lowry L.B.FOUL (P1.T2),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,56,2,5,1,7:23 PM,5:35,,,MISS Bargnani  Layup,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,57,4,0,1,7:23 PM,5:34,,,Anthony REBOUND (Off:1 Def:1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,58,2,5,1,7:23 PM,5:33,,,MISS Anthony 3' Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,59,4,0,1,7:23 PM,5:33,,,Anthony REBOUND (Off:2 Def:1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,60,1,4,1,7:23 PM,5:18,,,Anthony 2' Tip Shot (4 PTS),18 - 18,TIE,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,61,7,1,1,7:23 PM,5:14,,,Knicks Violation: Delay of game Violation,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,62,1,77,1,7:23 PM,4:51,DeRozan 4' Driving Jump Shot (4 PTS),,,18 - 20,2,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,63,6,2,1,7:23 PM,4:51,,,Udrih S.FOUL (P1.T2),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,64,8,0,1,7:24 PM,4:51,,,SUB: World Peace FOR Chandler,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,65,3,10,1,7:24 PM,4:51,DeRozan Free Throw 1 of 1 (5 PTS),,,18 - 21,3,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,67,2,1,1,7:24 PM,4:36,,,MISS Hardaway Jr. 24' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,68,4,0,1,7:24 PM,4:35,,,World Peace REBOUND (Off:1 Def:0),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,69,2,42,1,7:24 PM,4:30,,,MISS Hardaway Jr. 2' Driving Layup,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,70,4,0,1,7:24 PM,4:28,,,Hardaway Jr. REBOUND (Off:1 Def:1),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,71,6,2,1,7:25 PM,4:28,DeRozan S.FOUL (P1.T3),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,72,3,11,1,7:25 PM,4:28,,,Hardaway Jr. Free Throw 1 of 2 (1 PTS),19 - 21,2,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,74,8,0,1,7:25 PM,4:28,SUB: Fields FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,75,3,12,1,7:25 PM,4:28,,,MISS Hardaway Jr. Free Throw 2 of 2,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,77,4,0,1,7:25 PM,4:28,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,78,6,3,1,7:25 PM,4:28,Gay L.B.FOUL (P1.T4),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,79,5,21,1,7:26 PM,4:20,,,Anthony Palming Turnover (P1.T1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,80,2,52,1,7:26 PM,4:12,MISS Johnson 2' Alley Oop Dunk,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,81,4,0,1,7:26 PM,4:09,,,Udrih REBOUND (Off:0 Def:1),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,82,2,1,1,7:26 PM,4:07,,,MISS Udrih 4' Jump Shot,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,84,4,0,1,7:26 PM,3:57,,,Bargnani REBOUND (Off:1 Def:2),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,85,1,5,1,7:26 PM,3:54,,,Bargnani 2' Layup (4 PTS),21 - 21,TIE,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,86,1,1,1,7:26 PM,3:47,DeRozan  3PT Jump Shot (8 PTS) (Gay 1 AST),,,21 - 24,3,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,87,2,1,1,7:27 PM,3:26,Fields BLOCK (1 BLK),,MISS Bargnani 3' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0
+0011300084,88,4,0,1,7:27 PM,3:25,DeRozan REBOUND (Off:0 Def:2),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,89,2,1,1,7:27 PM,3:18,MISS Lowry 25' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,90,4,0,1,7:27 PM,3:15,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,91,6,3,1,7:27 PM,3:11,,,Udrih L.B.FOUL (P2.T3),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,92,8,0,1,7:27 PM,3:11,,,SUB: Murry FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,93,6,2,1,7:28 PM,3:04,,,Udrih S.FOUL (P3.T4),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,94,3,11,1,7:28 PM,3:04,MISS Fields Free Throw 1 of 2,,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,95,4,1,1,7:28 PM,3:04,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,96,8,0,1,7:28 PM,3:04,,,SUB: Hardaway Jr. FOR Udrih,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,97,3,12,1,7:28 PM,3:04,MISS Fields Free Throw 2 of 2,,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,99,4,0,1,7:28 PM,3:04,,,Anthony REBOUND (Off:2 Def:2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,100,2,1,1,7:29 PM,2:46,,,MISS Anthony 19' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,101,4,0,1,7:29 PM,2:46,Lowry REBOUND (Off:0 Def:1),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,103,2,42,1,7:29 PM,2:36,MISS Lowry 5' Driving Layup,,Anthony BLOCK (1 BLK),,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0
+0011300084,104,4,0,1,7:29 PM,2:33,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,105,9,1,1,7:30 PM,2:29,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,109,2,1,1,7:31 PM,2:21,,,MISS World Peace 25' 3PT Jump Shot,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,110,4,0,1,7:31 PM,2:20,Gay REBOUND (Off:0 Def:2),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,111,1,71,1,7:32 PM,2:04,DeRozan 1' Finger Roll Layup (10 PTS),,,21 - 26,5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,112,6,2,1,7:32 PM,1:41,Johnson S.FOUL (P1.PN),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,113,3,11,1,7:32 PM,1:41,,,Bargnani Free Throw 1 of 2 (5 PTS),22 - 26,4,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,118,5,17,1,7:33 PM,1:41,,,World Peace Lane Violation Turnover (P1.T2),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,119,2,51,1,7:34 PM,1:26,MISS Gay 2' Reverse Dunk,,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,120,4,0,1,7:34 PM,1:25,,,World Peace REBOUND (Off:1 Def:1),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,121,1,44,1,7:34 PM,1:20,,,Anthony 2' Reverse Layup (6 PTS),24 - 26,2,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,122,7,1,1,7:34 PM,1:11,,,Knicks Violation: Delay of game Violation,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,129,6,18,1,7:34 PM,1:11,,,Knicks Foul,,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,123,3,16,1,7:34 PM,1:11,Gay Free Throw Technical (11 PTS),,,24 - 27,3,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,125,6,2,1,7:35 PM,1:11,,,Murry S.FOUL (P1.PN),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,126,3,11,1,7:35 PM,1:11,Lowry Free Throw 1 of 2 (3 PTS),,,24 - 28,4,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,128,8,0,1,7:35 PM,1:11,,,SUB: Diogu FOR Bargnani,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,130,3,12,1,7:35 PM,1:11,MISS Lowry Free Throw 2 of 2,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,132,4,0,1,7:35 PM,1:11,Lowry REBOUND (Off:1 Def:1),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,133,1,72,1,7:35 PM,1:06,Lowry 3' Putback Layup (5 PTS),,,24 - 30,6,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,134,6,17,1,7:35 PM,0:50,RAPTORS T.Foul (Def. 3 Sec Lowry ),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,135,3,16,1,7:36 PM,0:50,,,Anthony Free Throw Technical (7 PTS),25 - 30,5,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,137,8,0,1,7:36 PM,0:50,SUB: Hansbrough FOR Johnson,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,139,1,57,1,7:36 PM,0:45,,,World Peace 6' Driving Hook Shot (2 PTS),27 - 30,3,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,141,2,79,1,7:36 PM,0:28,MISS Gay 25' 3PT Pullup Jump Shot,,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,142,4,0,1,7:36 PM,0:28,,,Hardaway Jr. REBOUND (Off:1 Def:2),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,144,2,1,1,7:37 PM,0:05,,,MISS Anthony 17' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,145,4,0,1,7:37 PM,0:04,,,World Peace REBOUND (Off:2 Def:1),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,146,2,1,1,7:37 PM,0:02,,,MISS World Peace 3' Jump Shot,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,147,4,0,1,7:37 PM,0:00,,,Diogu REBOUND (Off:1 Def:0),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,148,1,5,1,7:37 PM,0:00,,,Diogu 2' Layup (2 PTS),29 - 30,1,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,150,13,0,1,7:37 PM,0:00,,End of 1st Period (7:37 PM EST),,29 - 30,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,152,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,29 - 30,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,153,1,77,2,7:40 PM,11:38,Augustin 5' Driving Jump Shot (2 PTS),,,29 - 32,3,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,154,6,10,2,7:41 PM,11:21,," Foul : Double Personal - Hansbrough (1 PF), Diogu (1 PF)",,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,156,6,1,2,7:41 PM,11:18,Fields P.FOUL (P1.T1),,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,157,2,1,2,7:41 PM,11:17,,,MISS Murry 25' 3PT Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,158,4,0,2,7:41 PM,11:16,Daye REBOUND (Off:0 Def:1),,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,159,1,82,2,7:42 PM,11:08,Fields 3' Driving Bank Shot (2 PTS) (Augustin 1 AST),,,29 - 34,5,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,160,1,1,2,7:42 PM,10:52,,,Leslie 20' Jump Shot (2 PTS),31 - 34,3,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,161,2,80,2,7:42 PM,10:39,MISS DeRozan 14' Step Back Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,162,4,0,2,7:42 PM,10:38,,,Leslie REBOUND (Off:0 Def:1),,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,163,6,1,2,7:42 PM,10:30,Hansbrough P.FOUL (P2.T2),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,165,8,0,2,7:43 PM,10:24,SUB: Ross FOR DeRozan,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,166,7,1,2,7:43 PM,10:24,RAPTORS Violation: Delay of game Violation,,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,167,1,1,2,7:43 PM,10:12,,,World Peace 17' Jump Shot (4 PTS) (Diogu 1 AST),33 - 34,1,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,168,6,1,2,7:44 PM,10:00,,,Diogu P.FOUL (P2.T1),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,170,1,57,2,7:44 PM,9:52,Fields 8' Driving Hook Shot (4 PTS),,,33 - 36,3,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,171,1,8,2,7:45 PM,9:32,,,Diogu  Slam Dunk (4 PTS) (World Peace 1 AST),35 - 36,1,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,173,2,1,2,7:45 PM,9:06,MISS Ross 26' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,174,4,0,2,7:45 PM,9:06,,,Leslie REBOUND (Off:0 Def:2),,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,175,1,1,2,7:46 PM,8:48,,,World Peace 25' 3PT Jump Shot (7 PTS) (Hardaway Jr. 3 AST),38 - 36,-2,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,176,2,77,2,7:46 PM,8:26,MISS Augustin 8' Driving Jump Shot,,Diogu BLOCK (1 BLK),,,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0
+0011300084,177,4,0,2,7:46 PM,8:25,,,Diogu REBOUND (Off:1 Def:1),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,178,1,1,2,7:46 PM,8:21,,,World Peace 25' 3PT Jump Shot (10 PTS) (Murry 1 AST),41 - 36,-5,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,179,9,1,2,7:46 PM,8:12,RAPTORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,180,18,0,2,7:47 PM,8:12,,Support Ruling,,,,0,167,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,182,8,0,2,7:50 PM,8:12,,,SUB: Douglas-Roberts FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,183,1,5,2,7:50 PM,8:10,Daye 2' Layup (2 PTS) (Fields 1 AST),,,41 - 38,-3,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,184,2,77,2,7:50 PM,7:49,,,MISS World Peace 6' Driving Jump Shot,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,185,4,0,2,7:50 PM,7:48,Augustin REBOUND (Off:0 Def:1),,,,,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,186,1,52,2,7:50 PM,7:43,Fields 1' Alley Oop Dunk (6 PTS) (Augustin 2 AST),,,41 - 40,-1,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,188,6,2,2,7:50 PM,7:22,Daye S.FOUL (P1.T3),,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,190,3,11,2,7:51 PM,7:22,,,MISS World Peace Free Throw 1 of 2,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,191,4,1,2,7:51 PM,7:22,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,192,3,12,2,7:51 PM,7:22,,,MISS World Peace Free Throw 2 of 2,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,194,4,0,2,7:51 PM,7:22,Daye REBOUND (Off:0 Def:2),,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,195,6,17,2,7:51 PM,7:10,,,Knicks T.Foul (Def. 3 Sec Douglas-Roberts ),,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,196,3,16,2,7:52 PM,7:10,Augustin Free Throw Technical (3 PTS),,,41 - 41,TIE,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,198,2,1,2,7:52 PM,6:58,MISS Fields 16' Jump Shot,,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,199,4,0,2,7:52 PM,6:57,Hansbrough REBOUND (Off:1 Def:0),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,200,6,1,2,7:52 PM,6:55,,,Diogu P.FOUL (P3.T2),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,201,18,0,2,7:53 PM,6:55,,Support Ruling,,,,0,200,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,202,8,0,2,7:54 PM,6:55,SUB: Valanciunas FOR Hansbrough,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,203,8,0,2,7:54 PM,6:55,,,SUB: Bargnani FOR Diogu,,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,204,6,1,2,7:55 PM,6:48,,,Douglas-Roberts P.FOUL (P1.T3),,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,205,2,57,2,7:55 PM,6:48,MISS Valanciunas 5' Driving Hook Shot,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,206,4,0,2,7:55 PM,6:47,,,World Peace REBOUND (Off:2 Def:2),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,207,6,1,2,7:56 PM,6:20,Valanciunas P.FOUL (P2.T4),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,208,2,42,2,7:56 PM,6:09,,,MISS Leslie 5' Driving Layup,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,209,4,0,2,7:56 PM,6:03,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,210,1,1,2,7:57 PM,5:45,Ross  3PT Jump Shot (3 PTS) (Fields 2 AST),,,41 - 44,3,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,211,1,77,2,7:57 PM,5:32,,,Murry 4' Driving Jump Shot (2 PTS),43 - 44,1,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,212,6,2,2,7:57 PM,5:32,Augustin S.FOUL (P1.PN),,,,,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,213,9,4,2,7:57 PM,5:32,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,216,8,0,2,8:00 PM,5:32,,,SUB: Anthony FOR World Peace,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,217,3,10,2,8:00 PM,5:32,,,Murry Free Throw 1 of 1 (3 PTS),44 - 44,TIE,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,219,2,1,2,8:00 PM,5:14,MISS Ross  3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,220,4,0,2,8:00 PM,5:13,,,Anthony REBOUND (Off:2 Def:3),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,221,2,1,2,8:00 PM,5:00,,,MISS Bargnani 20' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,222,4,0,2,8:00 PM,5:00,Fields REBOUND (Off:0 Def:1),,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,223,2,58,2,8:01 PM,4:48,MISS Valanciunas 3' Turnaround Hook Shot,,Leslie BLOCK (1 BLK),,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0
+0011300084,224,4,0,2,8:01 PM,4:45,,,Anthony REBOUND (Off:2 Def:4),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,225,6,2,2,8:01 PM,4:38,Daye S.FOUL (P2.PN),,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,226,3,11,2,8:01 PM,4:38,,,MISS Bargnani Free Throw 1 of 2,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,227,4,1,2,8:01 PM,4:38,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,228,8,0,2,8:01 PM,4:38,SUB: Buycks FOR Augustin,,,,,4,201571,D.J. Augustin,1610612761.0,Toronto,Raptors,TOR,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,229,8,0,2,8:01 PM,4:38,SUB: Gay FOR Fields,,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,230,8,0,2,8:02 PM,4:38,,,SUB: Chandler FOR Leslie,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,231,3,12,2,8:02 PM,4:38,,,Bargnani Free Throw 2 of 2 (6 PTS),45 - 44,-1,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,233,2,1,2,8:02 PM,4:19,MISS Daye 26' 3PT Jump Shot,,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,234,4,0,2,8:02 PM,4:19,,,Chandler REBOUND (Off:1 Def:2),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,235,1,1,2,8:02 PM,4:13,,,Douglas-Roberts 5' Jump Shot (2 PTS) (Chandler 1 AST),47 - 44,-3,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,236,6,29,2,8:02 PM,4:13,Daye Shooting Block Foul (P3.PN),,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,237,3,10,2,8:03 PM,4:13,,,Douglas-Roberts Free Throw 1 of 1 (3 PTS),48 - 44,-4,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,239,5,41,2,8:03 PM,4:01,Ross Poss Lost Ball Turnover (P1.T1),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,240,6,3,2,8:03 PM,4:01,Ross L.B.FOUL (P1.PN),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,241,3,11,2,8:04 PM,4:01,,,Douglas-Roberts Free Throw 1 of 2 (4 PTS),49 - 44,-5,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,243,8,0,2,8:04 PM,4:01,SUB: DeRozan FOR Daye,,,,,4,201948,Austin Daye,1610612761.0,Toronto,Raptors,TOR,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,244,3,12,2,8:04 PM,4:01,,,Douglas-Roberts Free Throw 2 of 2 (5 PTS),50 - 44,-6,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,247,2,1,2,8:04 PM,3:37,MISS Buycks 5' Jump Shot,,Anthony BLOCK (2 BLK),,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0
+0011300084,248,4,0,2,8:04 PM,3:35,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,249,5,11,2,8:05 PM,3:35,RAPTORS Turnover: Shot Clock (T#2),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,250,6,2,2,8:05 PM,3:29,Ross S.FOUL (P2.PN),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,251,3,11,2,8:05 PM,3:29,,,MISS Chandler Free Throw 1 of 2,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,252,4,1,2,8:05 PM,3:29,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,253,3,12,2,8:06 PM,3:29,,,MISS Chandler Free Throw 2 of 2,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,255,4,0,2,8:06 PM,3:29,Gay REBOUND (Off:0 Def:3),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,256,6,2,2,8:06 PM,3:15,,,Chandler S.FOUL (P2.T4),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,257,3,11,2,8:06 PM,3:15,MISS Valanciunas Free Throw 1 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,258,4,1,2,8:06 PM,3:15,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,259,3,12,2,8:06 PM,3:15,MISS Valanciunas Free Throw 2 of 2,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,261,4,0,2,8:07 PM,3:15,,,Anthony REBOUND (Off:2 Def:5),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,262,1,73,2,8:07 PM,3:07,,,Murry 1' Driving Reverse Layup (5 PTS),52 - 44,-8,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,263,6,1,2,8:07 PM,2:48,,,Douglas-Roberts P.FOUL (P2.PN),,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,264,9,1,2,8:07 PM,2:48,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,266,8,0,2,8:09 PM,2:48,SUB: Stone FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,268,3,11,2,8:10 PM,2:48,DeRozan Free Throw 1 of 2 (11 PTS),,,52 - 45,-7,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,270,3,12,2,8:10 PM,2:48,DeRozan Free Throw 2 of 2 (12 PTS),,,52 - 46,-6,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,272,2,77,2,8:10 PM,2:30,,,MISS Bargnani 8' Driving Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,273,4,0,2,8:10 PM,2:29,Valanciunas REBOUND (Off:0 Def:3),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,274,2,1,2,8:11 PM,2:14,MISS Gay 22' Jump Shot,,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,275,4,0,2,8:11 PM,2:14,,,Bargnani REBOUND (Off:1 Def:3),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,276,6,1,2,8:11 PM,2:08,Stone P.FOUL (P1.PN),,,,,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,277,3,11,2,8:11 PM,2:08,,,Chandler Free Throw 1 of 2 (9 PTS),53 - 46,-7,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,279,3,12,2,8:11 PM,2:08,,,Chandler Free Throw 2 of 2 (10 PTS),54 - 46,-8,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,281,1,1,2,8:12 PM,1:53,DeRozan 24' 3PT Jump Shot (15 PTS) (Buycks 1 AST),,,54 - 49,-5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,282,1,79,2,8:12 PM,1:26,,,Murry 10' Pullup Jump Shot (7 PTS),56 - 49,-7,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,283,6,26,2,8:13 PM,1:14,Buycks Offensive Charge Foul (P1.PN),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,284,5,5,2,8:13 PM,1:14,Buycks Foul Turnover (P1.T3),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,285,8,0,2,8:13 PM,1:14,,,SUB: World Peace FOR Bargnani,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,286,2,1,2,8:13 PM,1:02,,,MISS Douglas-Roberts 24' 3PT Jump Shot,,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,287,4,0,2,8:13 PM,1:02,DeRozan REBOUND (Off:0 Def:3),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,288,5,2,2,8:13 PM,0:51,Gay Lost Ball Turnover (P1.T4),,Chandler STEAL (1 STL),,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,289,5,2,2,8:13 PM,0:46,Stone STEAL (1 STL),,Douglas-Roberts Lost Ball Turnover (P1.T3),,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,290,1,75,2,8:14 PM,0:41,DeRozan 1' Driving Finger Roll Layup (17 PTS) (Gay 2 AST),,,56 - 51,-5,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,291,1,1,2,8:14 PM,0:30,,,Anthony 8' Jump Shot (9 PTS),58 - 51,-7,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,292,2,1,2,8:14 PM,0:15,MISS DeRozan 24' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,294,4,0,2,8:14 PM,0:15,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,295,6,3,2,8:14 PM,0:15,Valanciunas L.B.FOUL (P3.PN),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,296,3,11,2,8:15 PM,0:15,,,Chandler Free Throw 1 of 2 (11 PTS),59 - 51,-8,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,298,3,12,2,8:15 PM,0:15,,,Chandler Free Throw 2 of 2 (12 PTS),60 - 51,-9,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,300,9,2,2,8:15 PM,0:11,RAPTORS Timeout: Short (Full 2 Short 1),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,304,5,15,2,8:17 PM,0:06,Valanciunas Offensive Goaltending Turnover (P1.T5),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,305,9,2,2,8:17 PM,0:06,,,Knicks Timeout: Short (Reg.2 Short 1),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,307,8,0,2,8:17 PM,0:06,SUB: Johnson FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,308,8,0,2,8:18 PM,0:06,,,SUB: Bargnani FOR Murry,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,309,8,0,2,8:18 PM,0:06,,,SUB: Hardaway Jr. FOR Douglas-Roberts,,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,310,2,42,2,8:18 PM,0:00,Johnson BLOCK (1 BLK),,MISS Anthony 3' Driving Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0
+0011300084,311,4,0,2,8:18 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,312,13,0,2,8:18 PM,0:00,,End of 2nd Period (8:18 PM EST),,60 - 51,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,314,12,0,3,8:34 PM,12:00,,Start of 3rd Period (8:34 PM EST),,60 - 51,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,316,5,1,3,8:35 PM,11:39,Johnson Bad Pass Turnover (P1.T6),,Anthony STEAL (1 STL),,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,317,6,1,3,8:35 PM,11:25,Gay P.FOUL (P2.T1),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,318,2,1,3,8:35 PM,11:15,,,MISS Bargnani 20' Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,319,4,0,3,8:35 PM,11:15,Valanciunas REBOUND (Off:0 Def:4),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,320,2,42,3,8:35 PM,11:05,MISS Lowry 3' Driving Layup,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,321,4,0,3,8:35 PM,11:04,Valanciunas REBOUND (Off:1 Def:4),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,322,2,4,3,8:36 PM,11:02,MISS Valanciunas  Tip Shot,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,323,4,0,3,8:36 PM,11:00,Gay REBOUND (Off:1 Def:3),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,324,2,1,3,8:36 PM,10:55,MISS Valanciunas 4' Jump Shot,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,325,4,0,3,8:36 PM,10:54,,,Chandler REBOUND (Off:1 Def:3),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,326,5,1,3,8:36 PM,10:47,,,Udrih Bad Pass Turnover (P1.T4),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,327,5,1,3,8:36 PM,10:33,Gay Bad Pass Turnover (P2.T7),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,328,1,43,3,8:37 PM,10:17,,,Chandler 4' Alley Oop Layup (14 PTS) (Udrih 3 AST),62 - 51,-11,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,329,6,2,3,8:37 PM,10:17,Valanciunas S.FOUL (P4.T2),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,330,3,10,3,8:37 PM,10:17,,,Chandler Free Throw 1 of 1 (15 PTS),63 - 51,-12,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,337,2,40,3,8:37 PM,9:54,MISS Gay 2' Layup,,Chandler BLOCK (1 BLK),,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0
+0011300084,334,4,0,3,8:37 PM,9:54,Gay REBOUND (Off:2 Def:3),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,333,1,8,3,8:37 PM,9:54,Gay 1' Slam Dunk (13 PTS),,,63 - 53,-10,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,335,1,1,3,8:38 PM,9:34,,,Hardaway Jr. 26' 3PT Jump Shot (4 PTS),66 - 53,-13,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,338,6,2,3,8:38 PM,9:21,,,Bargnani S.FOUL (P1.T1),,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,339,3,11,3,8:38 PM,9:21,Johnson Free Throw 1 of 2 (3 PTS),,,66 - 54,-12,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,341,3,12,3,8:38 PM,9:21,Johnson Free Throw 2 of 2 (4 PTS),,,66 - 55,-11,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,344,5,1,3,8:39 PM,9:12,Valanciunas STEAL (1 STL),,Udrih Bad Pass Turnover (P2.T5),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,346,1,82,3,8:39 PM,9:07,DeRozan 5' Driving Bank Shot (19 PTS) (Valanciunas 2 AST),,,66 - 57,-9,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,347,6,2,3,8:39 PM,8:52,Johnson S.FOUL (P2.T3),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,348,3,11,3,8:39 PM,8:52,,,Bargnani Free Throw 1 of 2 (7 PTS),67 - 57,-10,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,350,3,12,3,8:40 PM,8:52,,,MISS Bargnani Free Throw 2 of 2,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,352,4,0,3,8:40 PM,8:52,,,Anthony REBOUND (Off:3 Def:5),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,353,2,5,3,8:40 PM,8:52,,,MISS Anthony 2' Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,354,4,0,3,8:40 PM,8:51,Valanciunas REBOUND (Off:1 Def:5),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,355,6,2,3,8:40 PM,8:39,,,Chandler S.FOUL (P3.T2),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,356,3,11,3,8:41 PM,8:39,Gay Free Throw 1 of 2 (14 PTS),,,67 - 58,-9,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,358,3,12,3,8:41 PM,8:39,Gay Free Throw 2 of 2 (15 PTS),,,67 - 59,-8,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,360,2,1,3,8:41 PM,8:27,,,MISS Anthony 26' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,361,4,0,3,8:41 PM,8:26,Valanciunas REBOUND (Off:1 Def:6),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,362,6,4,3,8:42 PM,8:19,Johnson OFF.Foul (P3),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,363,5,5,3,8:42 PM,8:19,Johnson Foul Turnover (P2.T8),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,364,1,1,3,8:42 PM,8:07,,,Hardaway Jr. 26' 3PT Jump Shot (7 PTS) (Bargnani 1 AST),70 - 59,-11,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,365,1,96,3,8:42 PM,7:53,Valanciunas 5' Turnaround Bank Hook Shot (4 PTS) (Johnson 1 AST),,,70 - 61,-9,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,366,2,80,3,8:42 PM,7:36,,,MISS Hardaway Jr. 20' Step Back Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,367,4,0,3,8:42 PM,7:35,Johnson REBOUND (Off:0 Def:2),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,368,6,29,3,8:43 PM,7:28,,,Udrih Shooting Block Foul (P4.T3),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,369,3,11,3,8:43 PM,7:28,MISS Lowry Free Throw 1 of 2,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,370,4,1,3,8:43 PM,7:28,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,371,8,0,3,8:43 PM,7:28,,,SUB: Murry FOR Udrih,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,372,3,12,3,8:43 PM,7:28,Lowry Free Throw 2 of 2 (6 PTS),,,70 - 62,-8,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,374,2,42,3,8:44 PM,7:13,,,MISS Hardaway Jr. 4' Driving Layup,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,375,4,0,3,8:44 PM,7:12,DeRozan REBOUND (Off:0 Def:4),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,376,2,42,3,8:44 PM,7:06,MISS Lowry 4' Driving Layup,,Anthony BLOCK (3 BLK),,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0
+0011300084,377,4,0,3,8:44 PM,7:05,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,378,6,2,3,8:44 PM,6:57,,,Anthony S.FOUL (P1.T4),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,379,3,11,3,8:44 PM,6:57,Valanciunas Free Throw 1 of 2 (5 PTS),,,70 - 63,-7,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,381,3,12,3,8:45 PM,6:57,Valanciunas Free Throw 2 of 2 (6 PTS),,,70 - 64,-6,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,383,5,1,3,8:45 PM,6:42,,,Hardaway Jr. Bad Pass Turnover (P1.T6),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,384,1,71,3,8:45 PM,6:35,DeRozan 2' Finger Roll Layup (21 PTS) (Valanciunas 3 AST),,,70 - 66,-4,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,385,9,1,3,8:45 PM,6:32,,,Knicks Timeout: Regular (Reg.3 Short 1),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,388,8,0,3,8:47 PM,6:32,,,SUB: World Peace FOR Hardaway Jr.,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,389,5,2,3,8:48 PM,6:16,DeRozan STEAL (1 STL),,Anthony Lost Ball Turnover (P2.T7),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,390,2,1,3,8:48 PM,6:09,MISS DeRozan 24' 3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,391,4,0,3,8:48 PM,6:09,Valanciunas REBOUND (Off:2 Def:6),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,392,6,2,3,8:48 PM,6:04,,,Murry S.FOUL (P2.PN),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,393,3,11,3,8:48 PM,6:04,Lowry Free Throw 1 of 2 (7 PTS),,,70 - 67,-3,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,395,3,12,3,8:48 PM,6:04,Lowry Free Throw 2 of 2 (8 PTS),,,70 - 68,-2,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,397,2,1,3,8:49 PM,5:45,,,MISS World Peace 21' Jump Shot,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,398,4,0,3,8:49 PM,5:44,Gay REBOUND (Off:2 Def:4),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,399,5,1,3,8:49 PM,5:38,Gay Bad Pass Turnover (P3.T9),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,400,2,42,3,8:49 PM,5:28,,,MISS Anthony 5' Driving Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,401,4,0,3,8:49 PM,5:27,DeRozan REBOUND (Off:0 Def:5),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,402,1,1,3,8:50 PM,5:17,Lowry 26' 3PT Jump Shot (11 PTS) (Gay 3 AST),,,70 - 71,1,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,403,5,2,3,8:50 PM,5:03,Johnson STEAL (1 STL),,Murry Lost Ball Turnover (P1.T8),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,404,1,88,3,8:50 PM,5:00,Gay 2' Driving Slam Dunk (17 PTS) (Johnson 2 AST),,,70 - 73,3,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,405,2,1,3,8:50 PM,4:27,,,MISS Murry  3PT Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,406,4,0,3,8:50 PM,4:26,Gay REBOUND (Off:2 Def:5),,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,407,2,80,3,8:51 PM,4:18,MISS Lowry  3PT Step Back Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,408,4,0,3,8:51 PM,4:18,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,409,8,0,3,8:51 PM,4:15,,,SUB: Diogu FOR Chandler,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,410,9,2,3,8:51 PM,4:15,,,Knicks Timeout: Short (Reg.3 Short 2),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,414,2,1,3,8:52 PM,4:04,,,MISS Bargnani 25' 3PT Jump Shot,,,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,415,4,0,3,8:52 PM,4:03,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,416,2,42,3,8:53 PM,3:46,MISS Valanciunas 1' Driving Layup,,Diogu BLOCK (2 BLK),,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0
+0011300084,417,4,0,3,8:53 PM,3:45,Valanciunas REBOUND (Off:3 Def:6),,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,418,5,2,3,8:53 PM,3:42,Valanciunas Lost Ball Turnover (P2.T10),,Anthony STEAL (2 STL),,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,419,5,40,3,8:53 PM,3:37,,,Murry Out of Bounds Lost Ball Turnover (P2.T9),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,420,2,1,3,8:53 PM,3:33,MISS Lowry 25' 3PT Jump Shot,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,421,4,0,3,8:53 PM,3:33,,,World Peace REBOUND (Off:2 Def:3),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,422,1,1,3,8:53 PM,3:12,,,Bargnani 19' Jump Shot (9 PTS) (World Peace 2 AST),72 - 73,1,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,423,6,1,3,8:54 PM,2:58,,,Anthony P.FOUL (P2.PN),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,424,9,1,3,8:54 PM,2:58,RAPTORS Timeout: Regular (Full 3 Short 1),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,426,8,0,3,8:56 PM,2:58,SUB: Hansbrough FOR Valanciunas,,,,,4,202685,Jonas Valanciunas,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,427,8,0,3,8:56 PM,2:58,,,SUB: Leslie FOR Anthony,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,428,3,11,3,8:56 PM,2:58,Gay Free Throw 1 of 2 (18 PTS),,,72 - 74,2,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,430,3,12,3,8:56 PM,2:58,Gay Free Throw 2 of 2 (19 PTS),,,72 - 75,3,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,432,2,1,3,8:57 PM,2:48,,,MISS World Peace 22' Jump Shot,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,433,4,0,3,8:57 PM,2:48,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,434,6,3,3,8:57 PM,2:47,Johnson L.B.FOUL (P4.T4),,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,435,8,0,3,8:57 PM,2:47,SUB: Fields FOR Gay,,,,,4,200752,Rudy Gay,1610612761.0,Toronto,Raptors,TOR,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,436,8,0,3,8:57 PM,2:47,SUB: Acy FOR Johnson,,,,,4,101161,Amir Johnson,1610612761.0,Toronto,Raptors,TOR,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,437,1,86,3,8:57 PM,2:41,,,Bargnani 9' Turnaround Fadeaway (11 PTS),74 - 75,1,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,438,5,39,3,8:58 PM,2:25,Lowry Step Out of Bounds Turnover (P1.T11),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,439,2,42,3,8:58 PM,2:14,,,MISS World Peace 3' Driving Layup,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,440,4,0,3,8:58 PM,2:12,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,441,6,3,3,8:58 PM,2:12,Acy L.B.FOUL (P1.PN),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,442,3,11,3,8:59 PM,2:12,,,MISS Leslie Free Throw 1 of 2,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,443,4,1,3,8:59 PM,2:12,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,444,3,12,3,8:59 PM,2:12,,,MISS Leslie Free Throw 2 of 2,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,446,4,0,3,8:59 PM,2:12,DeRozan REBOUND (Off:0 Def:6),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,447,2,79,3,8:59 PM,2:01,MISS DeRozan 16' Pullup Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,448,4,0,3,8:59 PM,2:01,,,World Peace REBOUND (Off:2 Def:4),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,449,1,79,3,8:59 PM,1:48,,,Bargnani 17' Pullup Jump Shot (13 PTS) (Murry 2 AST),76 - 75,-1,5,200745,Andrea Bargnani,1610612752.0,New York,Knicks,NYK,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,450,2,1,3,9:00 PM,1:31,MISS DeRozan  3PT Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,451,4,0,3,9:00 PM,1:30,,,Murry REBOUND (Off:0 Def:1),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,452,2,1,3,9:00 PM,1:15,,,MISS Leslie 26' 3PT Jump Shot,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,453,4,0,3,9:00 PM,1:14,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,455,2,47,3,9:00 PM,0:52,MISS DeRozan 15' Turnaround Jump Shot,,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,456,4,0,3,9:00 PM,0:52,,,Diogu REBOUND (Off:1 Def:2),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,457,2,1,3,9:01 PM,0:40,,,MISS Murry 18' Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,458,4,0,3,9:01 PM,0:39,DeRozan REBOUND (Off:0 Def:7),,,,,4,201942,DeMar DeRozan,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,460,2,42,3,9:01 PM,0:30,MISS Lowry 4' Driving Layup,,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,461,4,0,3,9:01 PM,0:29,,,Murry REBOUND (Off:0 Def:2),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,462,2,1,3,9:02 PM,0:09,,,MISS Murry 15' Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,463,4,0,3,9:02 PM,0:08,Lowry REBOUND (Off:1 Def:2),,,,,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,464,1,50,3,9:02 PM,0:06,Acy 1' Running Dunk (2 PTS) (Lowry 3 AST),,,76 - 77,1,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,4,200768,Kyle Lowry,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,465,1,85,3,9:02 PM,0:00,,,Murry 44' 3PT Turnaround Bank Shot (10 PTS),79 - 77,-2,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,466,18,0,3,9:02 PM,0:00,,Support Ruling,,,,0,465,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,468,13,0,3,9:03 PM,0:00,,End of 3rd Period (9:03 PM EST),,79 - 77,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,470,12,0,4,9:05 PM,12:00,,Start of 4th Period (9:05 PM EST),,79 - 77,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,471,2,79,4,9:05 PM,11:41,,,MISS Murry 26' 3PT Pullup Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,472,4,0,4,9:05 PM,11:39,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,473,6,3,4,9:05 PM,11:39,Hansbrough L.B.FOUL (P3.T1),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,474,6,1,4,9:06 PM,11:26,Stone P.FOUL (P2.T2),,,,,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,475,3,11,4,9:06 PM,11:26,,,Leslie Free Throw 1 of 2 (3 PTS),80 - 77,-3,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,477,3,12,4,9:06 PM,11:26,,,MISS Leslie Free Throw 2 of 2,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,479,4,0,4,9:06 PM,11:26,Acy REBOUND (Off:0 Def:1),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,480,1,58,4,9:06 PM,11:13,Hansbrough 4' Turnaround Hook Shot (2 PTS) (Stone 1 AST),,,80 - 79,-1,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,481,6,4,4,9:07 PM,10:58,,,Diogu OFF.Foul (P4),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,482,5,5,4,9:07 PM,10:58,,,Diogu Foul Turnover (P1.T10),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,483,6,2,4,9:07 PM,10:43,,,Powell S.FOUL (P1.T1),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,484,3,11,4,9:07 PM,10:43,Hansbrough Free Throw 1 of 2 (3 PTS),,,80 - 80,TIE,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,486,3,12,4,9:08 PM,10:43,Hansbrough Free Throw 2 of 2 (4 PTS),,,80 - 81,1,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,488,2,1,4,9:08 PM,10:24,,,MISS Murry 27' 3PT Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,489,4,0,4,9:08 PM,10:23,Fields REBOUND (Off:0 Def:2),,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,490,6,29,4,9:08 PM,10:19,,,Murry Shooting Block Foul (P3.T2),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,491,3,11,4,9:09 PM,10:19,Ross Free Throw 1 of 2 (4 PTS),,,80 - 82,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,493,8,0,4,9:09 PM,10:19,,,SUB: Udrih FOR Murry,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,494,3,12,4,9:09 PM,10:19,Ross Free Throw 2 of 2 (5 PTS),,,80 - 83,3,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,496,1,1,4,9:09 PM,9:55,,,Udrih 21' Jump Shot (6 PTS),82 - 83,1,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,497,2,1,4,9:10 PM,9:35,MISS Ross 25' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,498,4,0,4,9:10 PM,9:34,Hansbrough REBOUND (Off:2 Def:0),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,499,6,1,4,9:10 PM,9:31,,,World Peace P.FOUL (P1.T3),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,500,1,50,4,9:10 PM,9:25,Acy 1' Running Dunk (4 PTS) (Ross 1 AST),,,82 - 85,3,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,501,1,1,4,9:10 PM,9:13,,,Diogu 19' Jump Shot (6 PTS),84 - 85,1,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,502,1,1,4,9:11 PM,9:01,Ross  3PT Jump Shot (8 PTS) (Acy 1 AST),,,84 - 88,4,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,503,1,82,4,9:11 PM,8:42,,,Leslie 6' Driving Bank Shot (5 PTS),86 - 88,2,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,504,2,80,4,9:11 PM,8:16,MISS Ross 16' Step Back Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,505,4,0,4,9:11 PM,8:14,,,Udrih REBOUND (Off:0 Def:2),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,506,1,1,4,9:12 PM,8:08,,,World Peace  3PT Jump Shot (13 PTS) (Udrih 4 AST),89 - 88,-1,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,507,6,4,4,9:12 PM,7:47,Acy OFF.Foul (P2),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,508,5,5,4,9:12 PM,7:47,Acy Foul Turnover (P1.T12),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,509,9,4,4,9:12 PM,7:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,511,8,0,4,9:14 PM,7:47,,,SUB: Hardaway Jr. FOR Leslie,,,5,203466,CJ Leslie,1610612752.0,New York,Knicks,NYK,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,513,2,88,4,9:15 PM,7:35,,,MISS Hardaway Jr. 1' Driving Slam Dunk,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,514,4,0,4,9:15 PM,7:34,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,515,2,80,4,9:15 PM,7:14,MISS Acy 22' Step Back Jump Shot,,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,516,4,0,4,9:15 PM,7:13,,,Hardaway Jr. REBOUND (Off:1 Def:3),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,517,5,1,4,9:15 PM,7:05,Stone STEAL (2 STL),,Udrih Bad Pass Turnover (P3.T11),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,518,1,1,4,9:16 PM,6:44,Ross 24' 3PT Jump Shot (11 PTS) (Stone 2 AST),,,89 - 91,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,519,2,1,4,9:16 PM,6:26,,,MISS Udrih 22' Jump Shot,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,520,4,0,4,9:16 PM,6:25,,,Powell REBOUND (Off:1 Def:0),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,521,2,1,4,9:16 PM,6:20,,,MISS Hardaway Jr. 18' Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,522,4,0,4,9:16 PM,6:19,,,Powell REBOUND (Off:2 Def:0),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,525,2,87,4,9:16 PM,6:19,,,MISS Powell 2' Putback Dunk,,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,523,4,0,4,9:16 PM,6:11,Acy REBOUND (Off:0 Def:2),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,524,1,1,4,9:16 PM,6:04,Stone 18' Jump Shot (2 PTS),,,89 - 93,4,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,526,1,1,4,9:17 PM,5:46,,,World Peace 26' 3PT Jump Shot (16 PTS),92 - 93,1,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,527,6,2,4,9:18 PM,5:22,,,World Peace S.FOUL (P2.T4),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,528,6,11,4,9:18 PM,5:22,,,World Peace T.FOUL (P2.T4),,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,530,9,1,4,9:18 PM,5:22,RAPTORS Timeout: Regular (Full 4 Short 1),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,533,3,16,4,9:20 PM,5:22,Ross Free Throw Technical (12 PTS),,,92 - 94,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,535,3,11,4,9:20 PM,5:22,Hansbrough Free Throw 1 of 2 (5 PTS),,,92 - 95,3,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,537,3,12,4,9:21 PM,5:22,Hansbrough Free Throw 2 of 2 (6 PTS),,,92 - 96,4,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,539,2,63,4,9:21 PM,5:05,,,MISS World Peace 7' Fadeaway Jumper,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,540,4,0,4,9:21 PM,5:04,,,Powell REBOUND (Off:3 Def:0),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,541,1,1,4,9:21 PM,4:52,,,Diogu 14' Jump Shot (8 PTS) (Udrih 5 AST),94 - 96,2,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,542,2,80,4,9:22 PM,4:33,MISS Ross 26' 3PT Step Back Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,543,4,0,4,9:22 PM,4:32,,,Udrih REBOUND (Off:0 Def:3),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,544,2,1,4,9:22 PM,4:18,,,MISS Hardaway Jr. 27' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,545,4,0,4,9:22 PM,4:17,,,Diogu REBOUND (Off:2 Def:2),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,546,6,1,4,9:22 PM,4:14,Ross P.FOUL (P3.T3),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,547,8,0,4,9:22 PM,4:14,SUB: Buycks FOR Ross,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,548,1,47,4,9:23 PM,4:03,,,Udrih 11' Turnaround Jump Shot (8 PTS),96 - 96,TIE,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,549,6,4,4,9:23 PM,3:39,Acy OFF.Foul (P3),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,550,5,5,4,9:23 PM,3:39,Acy Foul Turnover (P2.T13),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,551,2,1,4,9:24 PM,3:29,,,MISS Powell 20' Jump Shot,,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,552,4,0,4,9:24 PM,3:29,Fields REBOUND (Off:0 Def:3),,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,553,2,1,4,9:24 PM,3:19,MISS Buycks  3PT Jump Shot,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,554,4,0,4,9:24 PM,3:18,,,Hardaway Jr. REBOUND (Off:1 Def:4),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,555,2,42,4,9:24 PM,3:08,,,MISS Udrih 2' Driving Layup,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,556,4,0,4,9:24 PM,3:07,Stone REBOUND (Off:0 Def:1),,,,,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,557,1,8,4,9:24 PM,3:00,Acy 1' Slam Dunk (6 PTS) (Hansbrough 1 AST),,,96 - 98,2,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,558,1,1,4,9:24 PM,2:41,,,Hardaway Jr. 26' 3PT Jump Shot (10 PTS),99 - 98,-1,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,559,2,1,4,9:25 PM,2:23,MISS Stone  3PT Jump Shot,,,,,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,560,4,0,4,9:25 PM,2:22,,,Powell REBOUND (Off:3 Def:1),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,561,1,1,4,9:25 PM,2:08,,,Diogu 18' Jump Shot (10 PTS) (World Peace 3 AST),101 - 98,-3,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,562,9,2,4,9:25 PM,1:56,RAPTORS Timeout: Short (Full 4 Short 2),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,565,9,1,4,9:27 PM,1:56,,,Knicks Timeout: Regular (Reg.4 Short 2),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,568,2,57,4,9:28 PM,1:38,MISS Stone 6' Driving Hook Shot,,,,,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,569,4,0,4,9:28 PM,1:37,,,Diogu REBOUND (Off:2 Def:3),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,570,5,2,4,9:29 PM,1:18,Stone STEAL (3 STL),,Udrih Lost Ball Turnover (P4.T12),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,571,1,41,4,9:29 PM,1:14,Fields 1' Running Layup (8 PTS) (Hansbrough 2 AST),,,101 - 100,-1,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,572,2,86,4,9:29 PM,0:53,,,MISS World Peace 12' Turnaround Fadeaway Shot,,,5,1897,Metta World Peace,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,573,4,0,4,9:29 PM,0:53,Acy REBOUND (Off:0 Def:3),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,574,2,1,4,9:29 PM,0:31,MISS Fields 25' 3PT Jump Shot,,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,575,4,0,4,9:30 PM,0:31,Hansbrough REBOUND (Off:3 Def:0),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,576,2,3,4,9:30 PM,0:29,MISS Hansbrough 4' Hook Shot,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,577,4,0,4,9:30 PM,0:28,Hansbrough REBOUND (Off:4 Def:0),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,579,9,1,4,9:30 PM,0:24,RAPTORS Timeout: Regular (Full 5 Short 2),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,582,2,42,4,9:32 PM,0:18,MISS Buycks 3' Driving Layup,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,583,4,0,4,9:32 PM,0:17,,,Diogu REBOUND (Off:2 Def:4),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,584,6,1,4,9:32 PM,0:12,Acy P.FOUL (P4.T4),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,585,9,2,4,9:33 PM,0:12,,,Knicks Timeout: Short (Reg.4 Short 3),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,588,6,1,4,9:34 PM,0:11,Fields P.FOUL (P2.PN),,,,,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,589,3,11,4,9:34 PM,0:11,,,Udrih Free Throw 1 of 2 (9 PTS),102 - 100,-2,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,591,3,12,4,9:34 PM,0:11,,,MISS Udrih Free Throw 2 of 2,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,593,4,0,4,9:35 PM,0:11,Hansbrough REBOUND (Off:4 Def:1),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,594,9,2,4,9:35 PM,0:11,RAPTORS Timeout: Short (Full 5 Short 3),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,597,1,88,4,9:36 PM,0:10,Hansbrough  Driving Slam Dunk (8 PTS) (Fields 3 AST),,,102 - 102,TIE,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202361,Landry Fields,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,598,2,1,4,9:36 PM,0:00,,,MISS Hardaway Jr. 28' 3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,599,4,0,4,9:36 PM,0:00,Acy REBOUND (Off:0 Def:4),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,600,13,0,4,9:37 PM,0:00,,End of 4th Period (9:37 PM EST),,102 - 102,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,602,12,0,5,9:39 PM,5:00,,Start of 1st OT (9:39 PM EST),,102 - 102,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,603,10,0,5,9:39 PM,5:00,Jump Ball Acy vs. Powell: Tip to Stone,,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0
+0011300084,604,2,1,5,9:40 PM,4:43,MISS Buycks 26' 3PT Jump Shot,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,605,4,0,5,9:40 PM,4:41,,,Murry REBOUND (Off:0 Def:3),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,606,6,2,5,9:40 PM,4:30,Acy S.FOUL (P5.T1),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,607,3,11,5,9:40 PM,4:30,,,Powell Free Throw 1 of 2 (1 PTS),103 - 102,-1,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,609,3,12,5,9:40 PM,4:30,,,MISS Powell Free Throw 2 of 2,,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,611,4,0,5,9:40 PM,4:30,Acy REBOUND (Off:0 Def:5),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,612,6,1,5,9:41 PM,4:19,,,Diogu P.FOUL (P5.T1),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,613,1,1,5,9:41 PM,4:12,Ross 25' 3PT Jump Shot (15 PTS) (Buycks 2 AST),,,103 - 105,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,614,2,58,5,9:41 PM,3:51,,,MISS Diogu 6' Turnaround Hook Shot,,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,615,4,0,5,9:41 PM,3:50,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,616,2,79,5,9:42 PM,3:29,MISS Buycks 17' Pullup Jump Shot,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,617,4,0,5,9:42 PM,3:28,Hansbrough REBOUND (Off:5 Def:1),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,618,6,2,5,9:42 PM,3:26,,,Powell S.FOUL (P2.T2),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,619,3,11,5,9:42 PM,3:26,Hansbrough Free Throw 1 of 2 (9 PTS),,,103 - 106,3,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,621,3,12,5,9:43 PM,3:26,Hansbrough Free Throw 2 of 2 (10 PTS),,,103 - 107,4,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,623,2,1,5,9:43 PM,3:16,,,MISS Hardaway Jr.  3PT Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,624,4,0,5,9:43 PM,3:15,Hansbrough REBOUND (Off:5 Def:2),,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,625,2,5,5,9:43 PM,2:53,MISS Acy 1' Layup,,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,626,4,0,5,9:43 PM,2:52,,,Diogu REBOUND (Off:2 Def:5),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,627,2,86,5,9:44 PM,2:38,,,MISS Murry 15' Turnaround Fadeaway Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,628,4,0,5,9:44 PM,2:37,Buycks REBOUND (Off:0 Def:1),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,629,1,1,5,9:44 PM,2:22,Ross  3PT Jump Shot (18 PTS) (Buycks 3 AST),,,103 - 110,7,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,630,9,1,5,9:44 PM,2:17,,,Knicks Timeout: Regular (Reg.5 Short 3),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,631,8,0,5,9:46 PM,2:17,SUB: Wright FOR Hansbrough,,,,,4,201946,Tyler Hansbrough,1610612761.0,Toronto,Raptors,TOR,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,633,1,42,5,9:46 PM,2:05,,,Udrih 2' Driving Layup (11 PTS),105 - 110,5,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,634,6,2,5,9:46 PM,2:05,Wright S.FOUL (P1.T2),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,635,3,10,5,9:47 PM,2:05,,,Udrih Free Throw 1 of 1 (12 PTS),106 - 110,4,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,637,5,4,5,9:47 PM,1:47,Buycks Traveling Turnover (P2.T14),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,638,1,1,5,9:47 PM,1:35,,,Murry 18' Jump Shot (12 PTS) (Udrih 6 AST),108 - 110,2,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,639,2,1,5,9:48 PM,1:35,MISS Ross 24' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,640,4,0,5,9:48 PM,1:34,,,Murry REBOUND (Off:0 Def:4),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,641,2,1,5,9:48 PM,1:20,,,MISS Diogu 17' Jump Shot,,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,642,4,0,5,9:48 PM,1:10,Ross REBOUND (Off:0 Def:1),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,643,2,42,5,9:48 PM,0:53,MISS Buycks 2' Driving Layup,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,644,4,0,5,9:48 PM,0:52,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,645,1,79,5,9:49 PM,0:37,,,Udrih 25' 3PT Pullup Jump Shot (15 PTS),111 - 110,-1,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,646,9,2,5,9:49 PM,0:32,RAPTORS Timeout: Short (Full 5 Short 4),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,650,6,2,5,9:50 PM,0:30,,,Murry S.FOUL (P4.T3),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,651,3,11,5,9:51 PM,0:30,MISS Ross Free Throw 1 of 2,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,652,4,1,5,9:51 PM,0:30,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,653,3,12,5,9:51 PM,0:30,MISS Ross Free Throw 2 of 2,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,655,4,0,5,9:51 PM,0:30,Acy REBOUND (Off:1 Def:5),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,656,2,42,5,9:51 PM,0:11,MISS Stone 2' Driving Layup,,,,,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,657,4,0,5,9:51 PM,0:10,Wright REBOUND (Off:1 Def:0),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,659,2,4,5,9:52 PM,0:10,MISS Wright  Tip Shot,,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,660,4,0,5,9:52 PM,0:09,,,Hardaway Jr. REBOUND (Off:1 Def:5),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,661,6,1,5,9:52 PM,0:09,Ross P.FOUL (P4.T3),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,662,9,2,5,9:52 PM,0:09,,,Knicks Timeout: Short (Reg.5 Short 4),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,665,6,1,5,9:53 PM,0:08,Buycks P.FOUL (P2.PN),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,666,3,11,5,9:53 PM,0:08,,,Hardaway Jr. Free Throw 1 of 2 (11 PTS),112 - 110,-2,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,668,3,12,5,9:53 PM,0:08,,,Hardaway Jr. Free Throw 2 of 2 (12 PTS),113 - 110,-3,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,671,9,1,5,9:54 PM,0:08,RAPTORS Timeout: Regular (Full 6 Short 4),,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,674,2,1,5,9:56 PM,0:06,MISS Ross 28' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,675,4,0,5,9:56 PM,0:04,RAPTORS Rebound,,,,,2,1610612761,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,677,18,0,5,9:57 PM,0:04,,Support Ruling,,,,0,675,Junior Burrough,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,680,1,47,5,9:58 PM,0:00,Ross 26' 3PT Turnaround Jump Shot (21 PTS) (Stone 3 AST),,,113 - 113,TIE,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,4,202933,Julyan Stone,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,681,18,0,5,9:58 PM,0:00,,Support Ruling,,,,0,680,John Amaechi,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,682,13,0,5,10:00 PM,0:00,,End of 1st OT (10:00 PM EST),,113 - 113,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,684,12,0,6,10:01 PM,5:00,,Start of 2nd OT (10:01 PM EST),,113 - 113,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,685,10,0,6,10:01 PM,5:00,Jump Ball Wright vs. Powell: Tip to Diogu,,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0
+0011300084,686,2,77,6,10:01 PM,4:47,,,MISS Hardaway Jr. 9' Driving Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,687,4,0,6,10:01 PM,4:46,Wright REBOUND (Off:1 Def:1),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,688,5,2,6,10:01 PM,4:42,Wright Lost Ball Turnover (P1.T15),,Udrih STEAL (1 STL),,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,689,2,1,6,10:01 PM,4:31,,,MISS Udrih 27' 3PT Jump Shot,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,690,4,0,6,10:01 PM,4:31,,,Powell REBOUND (Off:4 Def:1),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,691,2,80,6,10:02 PM,4:20,,,MISS Hardaway Jr. 18' Step Back Jump Shot,,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,692,4,0,6,10:02 PM,4:19,Buycks REBOUND (Off:0 Def:2),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,693,2,1,6,10:02 PM,4:01,MISS Ross 26' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,694,4,0,6,10:02 PM,4:00,,,Powell REBOUND (Off:4 Def:2),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,695,6,4,6,10:02 PM,3:48,,,Diogu OFF.Foul (P6),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,696,5,5,6,10:02 PM,3:48,,,Diogu Foul Turnover (P2.T13),,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,697,8,0,6,10:03 PM,3:48,,,SUB: Douglas-Roberts FOR Diogu,,,5,101113,Ike Diogu,1610612752.0,New York,Knicks,NYK,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,698,1,42,6,10:03 PM,3:34,Buycks 2' Driving Layup (2 PTS),,,113 - 115,2,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,699,2,1,6,10:04 PM,3:12,,,MISS Murry 13' Jump Shot,,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,700,4,0,6,10:04 PM,3:11,,,Murry REBOUND (Off:1 Def:4),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,701,5,39,6,10:04 PM,2:59,,,Murry Step Out of Bounds Turnover (P3.T14),,,5,203315,Toure' Murry,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+0011300084,702,1,81,6,10:04 PM,2:41,Buycks 10' Pullup Bank Shot (4 PTS) (Acy 2 AST),,,113 - 117,4,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,703,2,1,6,10:05 PM,2:19,,,MISS Douglas-Roberts  3PT Jump Shot,,,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,704,4,0,6,10:05 PM,2:18,Acy REBOUND (Off:1 Def:6),,,,,4,203112,Quincy Acy,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,705,1,57,6,10:05 PM,2:01,Ross 5' Driving Hook Shot (23 PTS),,,113 - 119,6,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,706,9,1,6,10:05 PM,1:59,,,Knicks Timeout: Regular (Reg.6 Short 4),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,711,5,2,6,10:07 PM,1:47,Wright STEAL (1 STL),,Hardaway Jr. Lost Ball Turnover (P2.T15),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0
+0011300084,712,2,80,6,10:07 PM,1:25,MISS Buycks 16' Step Back Jump Shot,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,713,4,0,6,10:07 PM,1:24,,,Udrih REBOUND (Off:0 Def:4),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,714,1,1,6,10:07 PM,1:17,,,Hardaway Jr. 27' 3PT Jump Shot (15 PTS) (Udrih 7 AST),116 - 119,3,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+0011300084,715,6,4,6,10:08 PM,0:55,Wright OFF.Foul (P2),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,5,201604,Chris Douglas-Roberts,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,716,5,5,6,10:08 PM,0:55,Wright Foul Turnover (P2.T16),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,1,0,,,,,,0
+0011300084,717,2,1,6,10:08 PM,0:40,,,MISS Udrih 25' 3PT Jump Shot,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,718,4,0,6,10:08 PM,0:39,Wright REBOUND (Off:1 Def:2),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,719,2,1,6,10:09 PM,0:16,MISS Buycks 20' Jump Shot,,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,720,4,0,6,10:09 PM,0:15,Wright REBOUND (Off:2 Def:2),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,721,5,11,6,10:09 PM,0:14,RAPTORS Turnover: Shot Clock (T#17),,,,,2,1610612761,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300084,722,9,2,6,10:09 PM,0:14,,,Knicks Timeout: Short (Reg.6 Short 5),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,726,6,1,6,10:11 PM,0:09,Wright P.FOUL (P3.T1),,,,,4,202874,Chris Wright,1610612761.0,Toronto,Raptors,TOR,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,728,9,2,6,10:11 PM,0:09,,,Knicks Timeout: Short (Reg.6 Short 6),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,731,6,1,6,10:12 PM,0:08,Buycks P.FOUL (P3.PN),,,,,4,202779,Dwight Buycks,1610612761.0,Toronto,Raptors,TOR,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+0011300084,732,3,11,6,10:12 PM,0:08,,,Udrih Free Throw 1 of 2 (16 PTS),117 - 119,2,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,734,3,12,6,10:13 PM,0:08,,,MISS Udrih Free Throw 2 of 2,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,736,4,0,6,10:13 PM,0:07,Ross REBOUND (Off:0 Def:2),,,,,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,737,6,1,6,10:13 PM,0:07,,,Powell P.FOUL (P3.T1),,,5,2694,Josh Powell,1610612752.0,New York,Knicks,NYK,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,738,6,1,6,10:14 PM,0:06,,,Udrih P.FOUL (P5.PN),,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,740,3,11,6,10:14 PM,0:06,Ross Free Throw 1 of 2 (24 PTS),,,117 - 120,3,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,742,3,12,6,10:14 PM,0:06,Ross Free Throw 2 of 2 (25 PTS),,,117 - 121,4,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,744,1,1,6,10:15 PM,0:01,,,Udrih 34' 3PT Jump Shot (19 PTS),120 - 121,1,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,746,6,1,6,10:15 PM,0:00,,,Hardaway Jr. P.FOUL (P1.PN),,,5,203501,Tim Hardaway Jr.,1610612752.0,New York,Knicks,NYK,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,1,0,,,,,,0
+0011300084,747,3,11,6,10:15 PM,0:00,Ross Free Throw 1 of 2 (26 PTS),,,120 - 122,2,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,749,3,12,6,10:15 PM,0:00,Ross Free Throw 2 of 2 (27 PTS),,,120 - 123,3,4,203082,Terrence Ross,1610612761.0,Toronto,Raptors,TOR,0,0,,,,,,0,0,,,,,,0
+0011300084,751,2,3,6,10:15 PM,0:00,,,MISS Udrih 68' 3PT Hook Shot,,,5,2757,Beno Udrih,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+0011300084,752,4,0,6,10:16 PM,0:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300084,753,13,0,6,10:16 PM,0:00,,End of 2nd OT (10:16 PM EST),,120 - 123,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

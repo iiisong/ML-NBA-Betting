@@ -1,0 +1,487 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011400007,0,12,0,1,7:40 PM,12:00,,Start of 1st Period (7:40 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,1,10,0,1,7:40 PM,12:00,Jump Ball Brand vs. Davis: Tip to Holiday,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400007,2,2,1,1,7:41 PM,11:43,,,MISS Davis 15' Jump Shot,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,3,4,0,1,7:41 PM,11:42,,,Asik REBOUND (Off:1 Def:0),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,4,6,2,1,7:41 PM,11:41,Brand S.FOUL (P1.T1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,5,3,11,1,7:41 PM,11:41,,,Asik Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,7,3,12,1,7:41 PM,11:41,,,MISS Asik Free Throw 2 of 2,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,9,4,0,1,7:42 PM,11:40,Jenkins REBOUND (Off:0 Def:1),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,10,2,1,1,7:42 PM,11:19,MISS Brand 17' Jump Shot,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,11,4,0,1,7:42 PM,11:18,,,Davis REBOUND (Off:0 Def:1),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,13,1,1,1,7:42 PM,11:08,,,Davis 4' Jump Shot (2 PTS) (Holiday 1 AST),3 - 0,-3,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,14,2,1,1,7:42 PM,10:51,MISS Jenkins 26' 3PT Jump Shot,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,15,4,0,1,7:42 PM,10:50,,,Asik REBOUND (Off:1 Def:1),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,16,2,1,1,7:43 PM,10:41,,,MISS Holiday 13' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,17,4,0,1,7:43 PM,10:40,,,Asik REBOUND (Off:2 Def:1),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,18,5,2,1,7:43 PM,10:38,Sefolosha STEAL (1 STL),,Asik Lost Ball Turnover (P1.T1),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,19,1,1,1,7:43 PM,10:18,Sefolosha  3PT Jump Shot (3 PTS) (Millsap 1 AST),,,3 - 3,TIE,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,21,5,1,1,7:43 PM,10:02,Jenkins STEAL (1 STL),,Holiday Bad Pass Turnover (P1.T2),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,22,1,41,1,7:43 PM,9:56,Sefolosha 2' Running Layup (5 PTS) (Teague 1 AST),,,3 - 5,2,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,23,6,2,1,7:44 PM,9:35,Jenkins S.FOUL (P1.T2),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,24,3,11,1,7:44 PM,9:35,,,MISS Asik Free Throw 1 of 2,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,25,4,1,1,7:44 PM,9:35,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,26,3,12,1,7:44 PM,9:35,,,MISS Asik Free Throw 2 of 2,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,28,4,0,1,7:44 PM,9:34,Brand REBOUND (Off:0 Def:1),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,29,6,2,1,7:45 PM,9:24,,,Holiday S.FOUL (P1.T1),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,30,3,11,1,7:45 PM,9:24,Teague Free Throw 1 of 2 (1 PTS),,,3 - 6,3,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,32,3,12,1,7:45 PM,9:24,Teague Free Throw 2 of 2 (2 PTS),,,3 - 7,4,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,34,2,1,1,7:46 PM,9:10,,,MISS Davis 20' Jump Shot,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,35,4,0,1,7:46 PM,9:08,Sefolosha REBOUND (Off:0 Def:1),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,36,5,1,1,7:46 PM,8:58,Teague Bad Pass Turnover (P1.T1),,Holiday STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,37,1,50,1,7:46 PM,8:54,,,Miller  Running Dunk (2 PTS),5 - 7,2,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,38,6,4,1,7:46 PM,8:39,Jenkins OFF.Foul (P2),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,39,5,5,1,7:46 PM,8:39,Jenkins Foul Turnover (P1.T2),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,40,2,1,1,7:47 PM,8:24,,,MISS Gordon 24' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,41,4,0,1,7:47 PM,8:23,Brand REBOUND (Off:0 Def:2),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,42,2,49,1,7:47 PM,8:15,MISS Millsap  Driving Dunk,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,43,4,0,1,7:47 PM,8:12,,,Asik REBOUND (Off:2 Def:2),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,44,2,3,1,7:47 PM,7:59,,,MISS Gordon 5' Hook Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,45,4,0,1,7:47 PM,7:57,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,46,8,0,1,7:47 PM,7:57,SUB: Mack FOR Jenkins,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,48,2,1,1,7:48 PM,7:45,,,MISS Gordon 22' Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,49,4,0,1,7:48 PM,7:45,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,50,1,74,1,7:48 PM,7:28,Brand 2' Running Reverse Layup (2 PTS) (Teague 2 AST),,,5 - 9,4,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,51,6,2,1,7:48 PM,7:28,,,Davis S.FOUL (P1.T2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,52,3,10,1,7:49 PM,7:28,Brand Free Throw 1 of 1 (3 PTS),,,5 - 10,5,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,55,2,1,1,7:49 PM,7:08,,,MISS Davis 17' Jump Shot,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,56,4,0,1,7:49 PM,7:07,Brand REBOUND (Off:0 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,57,6,4,1,7:49 PM,7:01,Millsap OFF.Foul (P1),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,58,5,5,1,7:49 PM,7:01,Millsap Foul Turnover (P1.T3),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,59,2,1,1,7:50 PM,6:47,,,MISS Holiday 22' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,60,4,0,1,7:50 PM,6:46,Sefolosha REBOUND (Off:0 Def:2),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,61,2,1,1,7:50 PM,6:39,MISS Sefolosha 13' Jump Shot,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,62,4,0,1,7:50 PM,6:37,,,Holiday REBOUND (Off:0 Def:1),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,63,1,42,1,7:50 PM,6:27,,,Gordon 3' Driving Layup (2 PTS),7 - 10,3,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,64,1,5,1,7:50 PM,6:19,Mack 1' Layup (2 PTS) (Teague 3 AST),,,7 - 12,5,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,65,1,90,1,7:50 PM,6:07,,,Davis  Running Slam Dunk (4 PTS) (Gordon 1 AST),9 - 12,3,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,66,6,2,1,7:51 PM,5:46,,,Miller S.FOUL (P1.T3),,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,67,9,1,1,7:51 PM,5:46,HAWKS Timeout: Regular (Full 1 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,70,3,11,1,7:54 PM,5:46,Sefolosha Free Throw 1 of 2 (6 PTS),,,9 - 13,4,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,72,3,12,1,7:54 PM,5:46,Sefolosha Free Throw 2 of 2 (7 PTS),,,9 - 14,5,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,74,5,1,1,7:55 PM,5:38,Sefolosha STEAL (2 STL),,Holiday Bad Pass Turnover (P2.T3),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,75,5,1,1,7:55 PM,5:34,Sefolosha Bad Pass Turnover (P1.T4),,Miller STEAL (1 STL),,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,76,6,1,1,7:55 PM,5:28,Millsap P.FOUL (P2.T3),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,77,8,0,1,7:55 PM,5:28,SUB: Muscala FOR Brand,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,78,1,50,1,7:55 PM,5:23,,,Asik  Running Dunk (3 PTS) (Holiday 2 AST),11 - 14,3,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,79,1,1,1,7:55 PM,5:08,Teague 18' Jump Shot (4 PTS),,,11 - 16,5,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,80,2,1,1,7:56 PM,4:55,,,MISS Davis 19' Jump Shot,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,81,4,0,1,7:56 PM,4:54,Sefolosha REBOUND (Off:0 Def:3),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,82,1,1,1,7:56 PM,4:37,Millsap 26' 3PT Jump Shot (3 PTS) (Mack 1 AST),,,11 - 19,8,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,83,1,1,1,7:56 PM,4:22,,,Gordon 26' 3PT Jump Shot (5 PTS) (Holiday 3 AST),14 - 19,5,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,84,2,1,1,7:57 PM,4:04,MISS Teague 26' 3PT Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,85,4,0,1,7:57 PM,4:02,,,Gordon REBOUND (Off:0 Def:1),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,87,2,1,1,7:57 PM,3:46,Millsap BLOCK (1 BLK),,MISS Davis 20' Jump Shot,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0
+0011400007,88,4,0,1,7:57 PM,3:44,Sefolosha REBOUND (Off:0 Def:4),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,89,6,2,1,7:57 PM,3:42,,,Davis S.FOUL (P2.T4),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,90,3,11,1,7:57 PM,3:42,Millsap Free Throw 1 of 2 (4 PTS),,,14 - 20,6,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,92,8,0,1,7:58 PM,3:42,,,SUB: Anderson FOR Davis,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,93,8,0,1,7:58 PM,3:42,,,SUB: Salmons FOR Miller,,,5,203121,Darius Miller,1610612740.0,New Orleans,Pelicans,NOP,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,94,8,0,1,7:58 PM,3:42,SUB: Scott FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,95,8,0,1,7:58 PM,3:42,SUB: Schroder FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,96,3,12,1,7:58 PM,3:42,Millsap Free Throw 2 of 2 (5 PTS),,,14 - 21,7,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,98,2,1,1,7:58 PM,3:28,,,MISS Anderson 25' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,99,4,0,1,7:58 PM,3:27,Muscala REBOUND (Off:0 Def:1),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,100,1,1,1,7:58 PM,3:19,Scott  3PT Jump Shot (3 PTS) (Millsap 2 AST),,,14 - 24,10,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,101,6,2,1,7:59 PM,3:05,Mack S.FOUL (P1.T4),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,102,3,11,1,7:59 PM,3:05,,,Asik Free Throw 1 of 2 (4 PTS),15 - 24,9,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,237,8,0,1,7:59 PM,3:05,SUB: Eddie FOR Millsap,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,104,3,12,1,7:59 PM,3:05,,,Asik Free Throw 2 of 2 (5 PTS),16 - 24,8,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,106,2,1,1,8:00 PM,2:46,MISS Muscala 17' Jump Shot,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,107,4,0,1,8:00 PM,2:45,,,Anderson REBOUND (Off:0 Def:1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,108,6,1,1,8:00 PM,2:41,Mack P.FOUL (P2.PN),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,109,9,1,1,8:01 PM,2:41,,,Pelicans Timeout: Regular (Reg.1 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,110,8,0,1,8:02 PM,2:41,,,SUB: Withey FOR Asik,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,111,3,11,1,8:03 PM,2:41,,,MISS Gordon Free Throw 1 of 2,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,112,4,1,1,8:03 PM,2:41,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,113,3,12,1,8:03 PM,2:41,,,Gordon Free Throw 2 of 2 (6 PTS),17 - 24,7,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,115,1,1,1,8:03 PM,2:20,Muscala 4' Jump Shot (2 PTS) (Eddie 1 AST),,,17 - 26,9,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,116,2,1,1,8:04 PM,2:03,,,MISS Holiday 22' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,117,4,0,1,8:04 PM,2:02,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,118,1,1,1,8:04 PM,1:43,Eddie 26' 3PT Jump Shot (3 PTS) (Muscala 1 AST),,,17 - 29,12,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,119,2,1,1,8:04 PM,1:20,,,MISS Holiday 18' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,120,4,0,1,8:04 PM,1:19,Scott REBOUND (Off:0 Def:1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,122,8,0,1,8:05 PM,1:07,,,SUB: Fredette FOR Gordon,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,123,8,0,1,8:05 PM,1:07,,,SUB: Rivers FOR Holiday,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,124,1,42,1,8:05 PM,1:04,Mack 2' Driving Layup (4 PTS) (Schroder 1 AST),,,17 - 31,14,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,125,2,5,1,8:05 PM,0:52,Muscala BLOCK (1 BLK),,MISS Withey 2' Layup,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0
+0011400007,126,4,0,1,8:05 PM,0:50,,,Withey REBOUND (Off:1 Def:0),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,127,2,72,1,8:05 PM,0:49,Muscala BLOCK (2 BLK),,MISS Withey 1' Putback Layup,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0
+0011400007,128,4,0,1,8:05 PM,0:47,Scott REBOUND (Off:0 Def:2),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,129,1,1,1,8:05 PM,0:39,Scott 25' 3PT Jump Shot (6 PTS) (Schroder 2 AST),,,17 - 34,17,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,130,6,27,1,8:06 PM,0:22,Scott Personal Block Foul (P1.PN),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,132,3,11,1,8:06 PM,0:22,,,MISS Fredette Free Throw 1 of 2,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,133,4,1,1,8:06 PM,0:22,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,135,8,0,1,8:06 PM,0:22,SUB: Sefolosha FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,136,3,12,1,8:06 PM,0:22,,,Fredette Free Throw 2 of 2 (1 PTS),18 - 34,16,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,139,2,1,1,8:07 PM,0:00,MISS Sefolosha 25' 3PT Jump Shot,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,140,4,0,1,8:07 PM,0:00,,,Rivers REBOUND (Off:0 Def:1),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,141,13,0,1,8:07 PM,0:00,,End of 1st Period (8:07 PM EST),,18 - 34,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,143,12,0,2,8:10 PM,12:00,,Start of 2nd Period (8:10 PM EST),,18 - 34,16,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,144,1,1,2,8:10 PM,11:47,Muscala 16' Jump Shot (4 PTS) (Schroder 3 AST),,,18 - 36,18,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,145,2,1,2,8:10 PM,11:26,Schroder BLOCK (1 BLK),,MISS Fredette 26' 3PT Jump Shot,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0
+0011400007,146,4,0,2,8:10 PM,11:26,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,147,8,0,2,8:11 PM,11:26,SUB: Payne FOR Muscala,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,148,8,0,2,8:11 PM,11:26,,,SUB: Davis FOR Withey,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,149,2,1,2,8:11 PM,11:23,,,MISS Rivers 24' 3PT Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,150,4,0,2,8:11 PM,11:22,Sefolosha REBOUND (Off:0 Def:5),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,151,2,1,2,8:11 PM,10:58,MISS Payne 24' 3PT Jump Shot,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,152,4,0,2,8:11 PM,10:56,,,Anderson REBOUND (Off:0 Def:2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,153,2,77,2,8:12 PM,10:47,,,MISS Rivers 4' Driving Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,155,4,0,2,8:12 PM,10:46,,,Anderson REBOUND (Off:1 Def:2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,154,1,72,2,8:12 PM,10:46,,,Anderson 1' Putback Layup (2 PTS),20 - 36,16,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,156,2,74,2,8:12 PM,10:29,MISS Schroder 2' Running Reverse Layup,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,157,4,0,2,8:12 PM,10:28,,,Anderson REBOUND (Off:1 Def:3),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,158,2,1,2,8:12 PM,10:21,,,MISS Anderson 27' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,159,4,0,2,8:12 PM,10:21,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,161,1,41,2,8:13 PM,10:03,Scott 2' Running Layup (8 PTS) (Sefolosha 1 AST),,,20 - 38,18,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,162,6,2,2,8:13 PM,10:03,,,Anderson S.FOUL (P1.T1),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,163,3,10,2,8:13 PM,10:03,Scott Free Throw 1 of 1 (9 PTS),,,20 - 39,19,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,165,5,40,2,8:13 PM,9:52,,,Rivers Out of Bounds Lost Ball Turnover (P1.T4),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,166,5,1,2,8:14 PM,9:42,Payne Bad Pass Turnover (P1.T5),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,167,1,1,2,8:14 PM,9:31,,,Fredette 24' 3PT Jump Shot (4 PTS) (Rivers 1 AST),23 - 39,16,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,168,5,1,2,8:14 PM,9:08,Sefolosha Bad Pass Turnover (P2.T6),,Davis STEAL (1 STL),,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,169,2,1,2,8:14 PM,9:02,,,MISS Fredette 25' 3PT Jump Shot,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,170,4,0,2,8:14 PM,9:00,Payne REBOUND (Off:0 Def:1),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,171,5,1,2,8:15 PM,8:39,Sefolosha Bad Pass Turnover (P3.T7),,Davis STEAL (2 STL),,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,172,6,2,2,8:15 PM,8:35,Eddie S.FOUL (P1.T1),,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,173,9,4,2,8:15 PM,8:35,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,250,8,0,2,8:15 PM,8:35,SUB: Millsap FOR Eddie,,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,174,8,0,2,8:17 PM,8:35,,,SUB: Babbitt FOR Salmons,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,175,8,0,2,8:18 PM,8:35,SUB: Teague FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,176,8,0,2,8:18 PM,8:35,SUB: Jenkins FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,177,3,11,2,8:18 PM,8:35,,,MISS Rivers Free Throw 1 of 2,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,178,4,1,2,8:18 PM,8:35,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,179,3,12,2,8:18 PM,8:35,,,Rivers Free Throw 2 of 2 (1 PTS),24 - 39,15,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,182,6,1,2,8:19 PM,8:24,,,Babbitt P.FOUL (P1.T2),,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,183,6,2,2,8:19 PM,8:15,,,Babbitt S.FOUL (P2.T3),,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,184,3,11,2,8:19 PM,8:15,Jenkins Free Throw 1 of 2 (1 PTS),,,24 - 40,16,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,186,3,12,2,8:19 PM,8:15,Jenkins Free Throw 2 of 2 (2 PTS),,,24 - 41,17,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,190,5,11,2,8:20 PM,7:51,,,Pelicans Turnover: Shot Clock (T#5),,,3,1610612740,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400007,191,6,1,2,8:21 PM,7:38,,,Rivers P.FOUL (P1.T4),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,192,1,8,2,8:21 PM,7:33,Payne  Slam Dunk (2 PTS) (Jenkins 1 AST),,,24 - 43,19,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,193,1,1,2,8:22 PM,7:16,,,Anderson 26' 3PT Jump Shot (5 PTS) (Davis 1 AST),27 - 43,16,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,194,2,74,2,8:22 PM,6:59,MISS Schroder 1' Running Reverse Layup,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,195,4,0,2,8:22 PM,6:58,,,Fredette REBOUND (Off:0 Def:1),,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,196,5,1,2,8:22 PM,6:54,Millsap STEAL (1 STL),,Fredette Bad Pass Turnover (P1.T6),,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,197,1,41,2,8:22 PM,6:50,Jenkins 1' Running Layup (4 PTS) (Millsap 3 AST),,,27 - 45,18,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,198,9,1,2,8:22 PM,6:48,,,Pelicans Timeout: Regular (Reg.2 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,199,6,4,2,8:25 PM,6:33,,,Anderson OFF.Foul (P2),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,200,5,5,2,8:25 PM,6:33,,,Anderson Foul Turnover (P1.T7),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400007,201,8,0,2,8:25 PM,6:33,SUB: Brand FOR Schroder,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,202,8,0,2,8:25 PM,6:33,SUB: Mack FOR Payne,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,203,8,0,2,8:25 PM,6:29,,,SUB: Smith FOR Fredette,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,204,8,0,2,8:25 PM,6:29,,,SUB: Holiday FOR Rivers,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,205,8,0,2,8:25 PM,6:29,,,SUB: Gordon FOR Babbitt,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,206,2,1,2,8:25 PM,6:21,MISS Mack 21' Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,207,4,0,2,8:25 PM,6:19,,,Davis REBOUND (Off:0 Def:2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,208,1,1,2,8:25 PM,6:11,,,Holiday 25' 3PT Jump Shot (3 PTS),30 - 45,15,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,210,1,42,2,8:26 PM,5:53,Teague 2' Driving Layup (6 PTS),,,30 - 47,17,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,211,6,2,2,8:26 PM,5:53,,,Smith S.FOUL (P1.PN),,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,212,3,10,2,8:26 PM,5:53,Teague Free Throw 1 of 1 (7 PTS),,,30 - 48,18,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,214,8,0,2,8:26 PM,5:53,,,SUB: Asik FOR Anderson,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,215,6,17,2,8:27 PM,5:39,HAWKS T.Foul (Def. 3 Sec Teague ),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,216,3,16,2,8:27 PM,5:39,,,Holiday Free Throw Technical (4 PTS),31 - 48,17,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,219,6,1,2,8:27 PM,5:37,Jenkins P.FOUL (P3.T2),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,221,2,77,2,8:27 PM,5:32,,,MISS Gordon 6' Driving Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,222,4,0,2,8:28 PM,5:31,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,223,8,0,2,8:28 PM,5:31,SUB: Eddie FOR Jenkins,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,224,2,5,2,8:28 PM,5:27,Eddie BLOCK (1 BLK),,MISS Gordon 1' Layup,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0
+0011400007,225,4,0,2,8:28 PM,5:24,Eddie REBOUND (Off:0 Def:1),,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,226,2,51,2,8:28 PM,5:18,MISS Millsap  Reverse Dunk,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,227,4,0,2,8:28 PM,5:16,Brand REBOUND (Off:1 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,228,1,41,2,8:28 PM,5:11,Teague 2' Running Layup (9 PTS) (Brand 1 AST),,,31 - 50,19,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,229,2,1,2,8:28 PM,4:57,,,MISS Holiday 13' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,230,4,0,2,8:28 PM,4:56,Eddie REBOUND (Off:0 Def:2),,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,231,2,1,2,8:29 PM,4:45,MISS Brand 15' Jump Shot,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,232,4,0,2,8:29 PM,4:43,Brand REBOUND (Off:2 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,233,1,72,2,8:29 PM,4:40,Brand 1' Putback Layup (5 PTS),,,31 - 52,21,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,236,1,1,2,8:29 PM,4:20,,,Davis 17' Jump Shot (6 PTS) (Holiday 4 AST),33 - 52,19,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,238,2,77,2,8:30 PM,3:55,MISS Mack 4' Driving Jump Shot,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,239,4,0,2,8:30 PM,3:51,,,Asik REBOUND (Off:2 Def:3),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,240,1,1,2,8:30 PM,3:44,,,Gordon 26' 3PT Jump Shot (9 PTS) (Smith 1 AST),36 - 52,16,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,241,2,42,2,8:30 PM,3:24,MISS Millsap 3' Driving Layup,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,242,4,0,2,8:30 PM,3:20,Brand REBOUND (Off:3 Def:3),,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,243,2,1,2,8:30 PM,3:17,MISS Teague 26' 3PT Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,244,4,0,2,8:30 PM,3:16,,,Asik REBOUND (Off:2 Def:4),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,245,1,1,2,8:31 PM,3:06,,,Holiday 14' Jump Shot (6 PTS),38 - 52,14,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,246,9,1,2,8:31 PM,3:06,HAWKS Timeout: Regular (Full 2 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,253,1,1,2,8:34 PM,2:50,Mack 25' 3PT Jump Shot (7 PTS) (Millsap 4 AST),,,38 - 55,17,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,255,1,42,2,8:34 PM,2:31,,,Holiday 2' Driving Layup (8 PTS),40 - 55,15,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,256,2,1,2,8:34 PM,2:14,MISS Eddie 25' 3PT Jump Shot,,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,257,4,0,2,8:34 PM,2:12,,,Asik REBOUND (Off:2 Def:5),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,259,8,0,2,8:35 PM,2:08,,,SUB: Rivers FOR Smith,,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,260,8,0,2,8:35 PM,2:08,,,SUB: Anderson FOR Davis,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,261,8,0,2,8:35 PM,2:08,SUB: Schroder FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,262,2,1,2,8:35 PM,1:58,,,MISS Holiday 17' Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,263,4,0,2,8:35 PM,1:56,,,Anderson REBOUND (Off:2 Def:3),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,264,1,1,2,8:35 PM,1:52,,,Anderson 26' 3PT Jump Shot (8 PTS) (Gordon 2 AST),43 - 55,12,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,266,2,1,2,8:36 PM,1:24,MISS Schroder 6' Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,267,4,0,2,8:36 PM,1:22,Millsap REBOUND (Off:1 Def:0),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,268,2,5,2,8:36 PM,1:19,MISS Brand 2' Layup,,,,,4,1882,Elton Brand,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,269,4,0,2,8:36 PM,1:19,Millsap REBOUND (Off:2 Def:0),,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,270,6,2,2,8:36 PM,1:19,,,Asik S.FOUL (P1.PN),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,271,3,11,2,8:36 PM,1:19,Millsap Free Throw 1 of 2 (6 PTS),,,43 - 56,13,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,274,3,12,2,8:36 PM,1:19,Millsap Free Throw 2 of 2 (7 PTS),,,43 - 57,14,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,276,1,1,2,8:37 PM,1:07,,,Anderson 26' 3PT Jump Shot (11 PTS) (Gordon 3 AST),46 - 57,11,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,277,6,1,2,8:37 PM,1:00,,,Anderson P.FOUL (P3.PN),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,279,3,11,2,8:37 PM,1:00,Millsap Free Throw 1 of 2 (8 PTS),,,46 - 58,12,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,281,3,12,2,8:37 PM,1:00,MISS Millsap Free Throw 2 of 2,,,,,4,200794,Paul Millsap,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,283,4,0,2,8:37 PM,0:59,,,Anderson REBOUND (Off:2 Def:4),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,284,6,4,2,8:38 PM,0:48,,,Asik OFF.Foul (P2),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,285,5,5,2,8:38 PM,0:48,,,Asik Foul Turnover (P2.T8),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400007,286,6,1,2,8:38 PM,0:32,,,Rivers P.FOUL (P2.PN),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,287,3,11,2,8:38 PM,0:32,Schroder Free Throw 1 of 2 (1 PTS),,,46 - 59,13,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,289,3,12,2,8:39 PM,0:32,MISS Schroder Free Throw 2 of 2,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,292,4,0,2,8:39 PM,0:31,,,Gordon REBOUND (Off:0 Def:2),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,293,1,77,2,8:39 PM,0:09,,,Gordon 5' Driving Jump Shot (11 PTS) (Rivers 2 AST),48 - 59,11,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,294,5,2,2,8:39 PM,0:00,Schroder Lost Ball Turnover (P1.T8),,Rivers STEAL (1 STL),,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,295,2,1,2,8:40 PM,0:00,,,MISS Anderson 68' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,296,4,0,2,8:40 PM,0:00,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,297,13,0,2,8:40 PM,0:00,,End of 2nd Period (8:40 PM EST),,48 - 59,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,299,12,0,3,8:55 PM,12:00,,Start of 3rd Period (8:55 PM EST),,48 - 59,11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,300,6,4,3,8:56 PM,11:46,Sefolosha OFF.Foul (P1),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,301,5,5,3,8:56 PM,11:46,Sefolosha Foul Turnover (P4.T9),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,302,6,4,3,8:56 PM,11:39,,,Babbitt OFF.Foul (P3),,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,303,5,5,3,8:56 PM,11:39,,,Babbitt Foul Turnover (P1.T9),,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400007,304,2,42,3,8:57 PM,11:26,MISS Muscala 1' Driving Layup,,Asik BLOCK (1 BLK),,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400007,305,4,0,3,8:57 PM,11:24,,,Asik REBOUND (Off:2 Def:6),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,306,2,1,3,8:57 PM,11:19,,,MISS Babbitt  3PT Jump Shot,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,307,4,0,3,8:57 PM,11:18,Muscala REBOUND (Off:0 Def:2),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,308,6,4,3,8:57 PM,11:05,Teague OFF.Foul (P1),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,309,5,5,3,8:57 PM,11:05,Teague Foul Turnover (P2.T10),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,313,2,1,3,8:59 PM,10:53,,,MISS Babbitt 19' Jump Shot,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,314,4,0,3,8:59 PM,10:51,Sefolosha REBOUND (Off:0 Def:6),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,315,2,78,3,8:59 PM,10:33,MISS Teague 13' Floating Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,316,4,0,3,8:59 PM,10:30,,,Asik REBOUND (Off:2 Def:7),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,318,2,1,3,9:00 PM,10:26,,,MISS Gordon 26' 3PT Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,319,4,0,3,9:00 PM,10:22,Teague REBOUND (Off:0 Def:1),,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,320,5,1,3,9:00 PM,10:14,Teague Bad Pass Turnover (P3.T11),,Gordon STEAL (1 STL),,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,321,5,1,3,9:00 PM,10:10,Muscala STEAL (1 STL),,Asik Bad Pass Turnover (P3.T10),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,322,2,41,3,9:00 PM,10:07,MISS Teague 2' Running Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,323,4,0,3,9:00 PM,10:06,,,Asik REBOUND (Off:2 Def:8),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,324,1,7,3,9:00 PM,10:02,,,Davis  Dunk (8 PTS) (Gordon 4 AST),50 - 59,9,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,326,1,1,3,9:01 PM,9:38,Muscala 21' Jump Shot (6 PTS) (Scott 1 AST),,,50 - 61,11,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,327,2,1,3,9:01 PM,9:19,,,MISS Babbitt 26' 3PT Jump Shot,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,328,4,0,3,9:01 PM,9:17,Muscala REBOUND (Off:0 Def:3),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,329,2,1,3,9:01 PM,9:00,MISS Scott 25' 3PT Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,330,4,0,3,9:01 PM,8:58,,,Asik REBOUND (Off:2 Def:9),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,331,2,1,3,9:01 PM,8:47,,,MISS Babbitt 24' 3PT Jump Shot,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,332,4,0,3,9:01 PM,8:46,Scott REBOUND (Off:0 Def:3),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,333,6,2,3,9:02 PM,8:27,,,Asik S.FOUL (P3.T1),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,334,3,11,3,9:02 PM,8:27,Muscala Free Throw 1 of 2 (7 PTS),,,50 - 62,12,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,336,3,12,3,9:02 PM,8:27,MISS Muscala Free Throw 2 of 2,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,338,4,0,3,9:02 PM,8:25,Sefolosha REBOUND (Off:1 Def:6),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,339,1,42,3,9:03 PM,8:15,Jenkins 1' Driving Layup (6 PTS),,,50 - 64,14,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,340,6,4,3,9:03 PM,8:02,,,Asik OFF.Foul (P4),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,341,5,5,3,9:03 PM,8:02,,,Asik Foul Turnover (P4.T11),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400007,342,2,42,3,9:03 PM,7:48,MISS Teague 1' Driving Layup,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,343,4,0,3,9:03 PM,7:47,,,Asik REBOUND (Off:2 Def:10),,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,344,6,2,3,9:04 PM,7:44,Scott S.FOUL (P2.T1),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,345,3,11,3,9:04 PM,7:44,,,MISS Gordon Free Throw 1 of 2,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,346,4,1,3,9:04 PM,7:44,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,347,8,0,3,9:04 PM,7:44,,,SUB: Anderson FOR Asik,,,5,201600,Omer Asik,1610612740.0,New Orleans,Pelicans,NOP,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,348,3,12,3,9:04 PM,7:44,,,Gordon Free Throw 2 of 2 (12 PTS),51 - 64,13,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,350,1,5,3,9:05 PM,7:32,Muscala 2' Layup (9 PTS) (Scott 2 AST),,,51 - 66,15,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,351,2,42,3,9:05 PM,7:21,,,MISS Holiday 1' Driving Layup,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,353,4,0,3,9:05 PM,7:20,,,Davis REBOUND (Off:1 Def:2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,352,2,72,3,9:05 PM,7:20,,,MISS Davis 1' Putback Layup,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,354,4,0,3,9:05 PM,7:19,,,Davis REBOUND (Off:2 Def:2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,355,1,72,3,9:05 PM,7:19,,,Davis  Putback Layup (10 PTS),53 - 66,13,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,356,6,2,3,9:05 PM,7:19,Sefolosha S.FOUL (P2.T2),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,357,3,10,3,9:05 PM,7:19,,,Davis Free Throw 1 of 1 (11 PTS),54 - 66,12,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,359,1,1,3,9:06 PM,6:57,Scott 18' Jump Shot (11 PTS),,,54 - 68,14,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,360,2,77,3,9:06 PM,6:45,,,MISS Gordon 9' Driving Jump Shot,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,361,4,0,3,9:06 PM,6:43,,,Davis REBOUND (Off:3 Def:2),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,362,2,5,3,9:06 PM,6:43,,,MISS Davis 2' Layup,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,363,4,0,3,9:06 PM,6:43,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,364,1,1,3,9:06 PM,6:37,,,Holiday 26' 3PT Jump Shot (11 PTS),57 - 68,11,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,366,2,1,3,9:07 PM,6:16,MISS Sefolosha 20' Jump Shot,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,367,4,0,3,9:07 PM,6:15,,,Holiday REBOUND (Off:0 Def:2),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,368,2,1,3,9:07 PM,6:08,,,MISS Anderson 28' 3PT Jump Shot,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,369,4,0,3,9:07 PM,6:07,Jenkins REBOUND (Off:0 Def:2),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,370,2,1,3,9:07 PM,5:59,MISS Jenkins 23' Jump Shot,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,371,4,0,3,9:07 PM,5:58,,,Holiday REBOUND (Off:0 Def:3),,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,372,1,42,3,9:07 PM,5:48,,,Holiday 2' Driving Layup (13 PTS),59 - 68,9,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,373,9,1,3,9:07 PM,5:47,HAWKS Timeout: Regular (Full 3 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,376,8,0,3,9:10 PM,5:47,SUB: Mack FOR Jenkins,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,377,8,0,3,9:10 PM,5:47,SUB: Payne FOR Muscala,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,378,2,77,3,9:10 PM,5:38,MISS Scott 8' Driving Jump Shot,,Davis BLOCK (1 BLK),,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400007,379,4,0,3,9:10 PM,5:36,,,Davis REBOUND (Off:3 Def:3),,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,380,6,1,3,9:10 PM,5:32,Mack P.FOUL (P3.T3),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,381,6,4,3,9:11 PM,5:26,,,Gordon OFF.Foul (P1),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,382,5,5,3,9:11 PM,5:26,,,Gordon Foul Turnover (P1.T12),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400007,384,2,77,3,9:11 PM,5:00,MISS Teague 4' Driving Jump Shot,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,385,4,0,3,9:11 PM,4:58,,,Gordon REBOUND (Off:0 Def:3),,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,386,5,2,3,9:12 PM,4:48,Sefolosha STEAL (3 STL),,Anderson Lost Ball Turnover (P2.T13),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,387,1,7,3,9:12 PM,4:43,Teague  Dunk (11 PTS) (Payne 1 AST),,,59 - 70,11,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,388,2,1,3,9:12 PM,4:32,,,MISS Holiday 25' 3PT Jump Shot,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,389,4,0,3,9:12 PM,4:30,Payne REBOUND (Off:0 Def:2),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,391,8,0,3,9:12 PM,4:18,SUB: Schroder FOR Teague,,,,,4,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,392,8,0,3,9:12 PM,4:18,,,SUB: Young FOR Davis,,,5,203076,Anthony Davis,1610612740.0,New Orleans,Pelicans,NOP,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,393,8,0,3,9:12 PM,4:18,,,SUB: Rivers FOR Gordon,,,5,201569,Eric Gordon,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,394,8,0,3,9:12 PM,4:18,,,SUB: Fredette FOR Holiday,,,5,201950,Jrue Holiday,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,395,8,0,3,9:13 PM,4:18,SUB: Eddie FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,396,6,1,3,9:13 PM,4:12,,,Rivers P.FOUL (P3.T2),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,397,8,0,3,9:13 PM,4:12,,,SUB: Salmons FOR Babbitt,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,398,5,1,3,9:13 PM,4:03,Eddie Bad Pass Turnover (P1.T12),,Rivers STEAL (2 STL),,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,399,1,77,3,9:13 PM,3:58,,,Rivers 4' Driving Jump Shot (3 PTS),61 - 70,9,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,400,6,2,3,9:13 PM,3:58,Payne S.FOUL (P1.T4),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,401,3,10,3,9:14 PM,3:58,,,MISS Rivers Free Throw 1 of 1,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,403,4,0,3,9:14 PM,3:56,Schroder REBOUND (Off:0 Def:1),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,404,1,1,3,9:14 PM,3:33,Eddie 27' 3PT Jump Shot (6 PTS) (Payne 2 AST),,,61 - 73,12,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,406,2,1,3,9:15 PM,3:15,,,MISS Salmons 21' Jump Shot,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,407,4,0,3,9:15 PM,3:12,Scott REBOUND (Off:0 Def:4),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,408,2,46,3,9:15 PM,3:06,MISS Schroder 3' Running Jump Shot,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,409,4,0,3,9:15 PM,3:03,Schroder REBOUND (Off:1 Def:1),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,410,6,26,3,9:15 PM,2:53,Schroder Offensive Charge Foul (P1.PN),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,411,5,5,3,9:15 PM,2:53,Schroder Foul Turnover (P2.T13),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,412,9,1,3,9:15 PM,2:53,,,Pelicans Timeout: Regular (Reg.3 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,416,2,42,3,9:18 PM,2:38,,,MISS Rivers 2' Driving Layup,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,417,4,0,3,9:18 PM,2:37,,,Young REBOUND (Off:1 Def:0),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,418,6,2,3,9:18 PM,2:36,Scott S.FOUL (P3.PN),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,419,3,11,3,9:18 PM,2:36,,,Young Free Throw 1 of 2 (1 PTS),62 - 73,11,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,421,3,12,3,9:18 PM,2:36,,,Young Free Throw 2 of 2 (2 PTS),63 - 73,10,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,423,2,5,3,9:19 PM,2:20,MISS Mack 3' Layup,,Fredette BLOCK (1 BLK),,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0
+0011400007,424,4,0,3,9:19 PM,2:17,Mack REBOUND (Off:1 Def:0),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,425,2,72,3,9:19 PM,2:16,MISS Mack 1' Putback Layup,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,426,4,0,3,9:19 PM,2:15,Payne REBOUND (Off:1 Def:2),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,427,2,72,3,9:19 PM,2:14,MISS Payne 1' Putback Layup,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,428,4,0,3,9:19 PM,2:13,,,Fredette REBOUND (Off:0 Def:2),,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,429,2,5,3,9:19 PM,1:59,,,MISS Salmons 1' Layup,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,430,4,0,3,9:19 PM,1:58,Payne REBOUND (Off:1 Def:3),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,431,6,2,3,9:19 PM,1:52,,,Rivers S.FOUL (P4.T3),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,432,3,11,3,9:20 PM,1:52,Schroder Free Throw 1 of 2 (2 PTS),,,63 - 74,11,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,434,8,0,3,9:20 PM,1:52,SUB: Muscala FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,435,3,12,3,9:20 PM,1:52,Schroder Free Throw 2 of 2 (3 PTS),,,63 - 75,12,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,438,2,1,3,9:20 PM,1:39,,,MISS Rivers 22' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,439,4,0,3,9:20 PM,1:37,Muscala REBOUND (Off:0 Def:4),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,441,2,1,3,9:21 PM,1:12,MISS Eddie 27' 3PT Jump Shot,,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,442,4,0,3,9:21 PM,1:10,Muscala REBOUND (Off:1 Def:4),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,443,2,42,3,9:21 PM,0:55,MISS Schroder 1' Driving Layup,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,444,4,0,3,9:21 PM,0:54,Payne REBOUND (Off:2 Def:3),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,445,6,2,3,9:21 PM,0:54,,,Young S.FOUL (P1.PN),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,446,3,11,3,9:22 PM,0:54,Payne Free Throw 1 of 2 (3 PTS),,,63 - 76,13,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,448,3,12,3,9:22 PM,0:54,Payne Free Throw 2 of 2 (4 PTS),,,63 - 77,14,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,450,5,4,3,9:22 PM,0:39,,,Salmons Traveling Turnover (P1.T14),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,1,0,,,,,,0
+0011400007,452,2,5,3,9:23 PM,0:30,MISS Mack 2' Layup,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,454,4,0,3,9:23 PM,0:30,Muscala REBOUND (Off:2 Def:4),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,455,6,2,3,9:23 PM,0:30,,,Anderson S.FOUL (P4.PN),,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,456,3,11,3,9:23 PM,0:30,MISS Muscala Free Throw 1 of 2,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,457,4,1,3,9:23 PM,0:30,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,458,3,12,3,9:23 PM,0:30,Muscala Free Throw 2 of 2 (10 PTS),,,63 - 78,15,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,460,2,1,3,9:24 PM,0:11,,,MISS Rivers 21' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,461,4,0,3,9:24 PM,0:08,Muscala REBOUND (Off:2 Def:5),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,462,5,1,3,9:24 PM,0:04,Schroder Bad Pass Turnover (P3.T14),,Young STEAL (1 STL),,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,463,13,0,3,9:24 PM,0:00,,End of 3rd Period (9:24 PM EST),,63 - 78,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,465,12,0,4,9:27 PM,12:00,,Start of 4th Period (9:27 PM EST),,63 - 78,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,466,1,1,4,9:27 PM,11:46,,,Anderson 26' 3PT Jump Shot (14 PTS) (Rivers 3 AST),66 - 78,12,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,467,5,2,4,9:27 PM,11:24,Mack Lost Ball Turnover (P1.T15),,Salmons STEAL (1 STL),,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,468,6,2,4,9:27 PM,11:20,Schroder S.FOUL (P2.T1),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,469,3,11,4,9:28 PM,11:20,,,MISS Rivers Free Throw 1 of 2,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,470,4,1,4,9:28 PM,11:20,,,Pelicans Rebound,,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,471,8,0,4,9:28 PM,11:20,SUB: Jenkins FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,472,8,0,4,9:28 PM,11:20,SUB: Sefolosha FOR Eddie,,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,473,3,12,4,9:28 PM,11:20,,,Rivers Free Throw 2 of 2 (4 PTS),67 - 78,11,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,475,2,1,4,9:28 PM,10:58,MISS Payne  3PT Jump Shot,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,476,4,0,4,9:29 PM,10:57,,,Fredette REBOUND (Off:0 Def:3),,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,477,1,41,4,9:29 PM,10:52,,,Withey 1' Running Layup (2 PTS) (Fredette 1 AST),69 - 78,9,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,478,6,4,4,9:29 PM,10:32,Payne OFF.Foul (P2),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,479,5,5,4,9:29 PM,10:32,Payne Foul Turnover (P2.T16),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,480,8,0,4,9:29 PM,10:32,SUB: Scott FOR Payne,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,481,2,77,4,9:30 PM,10:08,,,MISS Rivers 9' Driving Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,482,4,0,4,9:30 PM,10:06,Muscala REBOUND (Off:2 Def:6),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,483,1,44,4,9:30 PM,9:51,Jenkins 1' Reverse Layup (8 PTS) (Muscala 2 AST),,,69 - 80,11,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,484,1,1,4,9:30 PM,9:29,,,Fredette 14' Jump Shot (6 PTS),71 - 80,9,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,485,6,2,4,9:30 PM,9:29,Schroder S.FOUL (P3.T2),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,486,3,10,4,9:31 PM,9:29,,,Fredette Free Throw 1 of 1 (7 PTS),72 - 80,8,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,488,2,42,4,9:31 PM,9:16,MISS Sefolosha 2' Driving Layup,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,489,4,0,4,9:31 PM,9:15,,,Withey REBOUND (Off:1 Def:1),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,490,1,3,4,9:31 PM,9:04,,,Withey 5' Hook Shot (4 PTS) (Rivers 4 AST),74 - 80,6,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,491,2,1,4,9:31 PM,8:47,MISS Scott 19' Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,492,4,0,4,9:31 PM,8:45,,,Salmons REBOUND (Off:0 Def:1),,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,493,2,63,4,9:32 PM,8:31,,,MISS Fredette 19' Fadeaway Jumper,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,494,4,0,4,9:32 PM,8:28,Muscala REBOUND (Off:2 Def:7),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,495,1,42,4,9:32 PM,8:21,Schroder 2' Driving Layup (5 PTS),,,74 - 82,8,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,496,6,2,4,9:32 PM,8:21,,,Withey S.FOUL (P1.T1),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,497,9,4,4,9:33 PM,8:21,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,498,8,0,4,9:34 PM,8:21,SUB: Payne FOR Muscala,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,500,3,10,4,9:35 PM,8:21,MISS Schroder Free Throw 1 of 1,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,502,4,0,4,9:35 PM,8:20,,,Withey REBOUND (Off:1 Def:2),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,503,1,1,4,9:35 PM,8:04,,,Fredette 15' Jump Shot (9 PTS) (Withey 1 AST),76 - 82,6,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,505,8,0,4,9:35 PM,7:48,SUB: Mack FOR Schroder,,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,506,1,5,4,9:36 PM,7:46,Jenkins 1' Layup (10 PTS) (Mack 2 AST),,,76 - 84,8,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,507,1,5,4,9:36 PM,7:25,,,Withey 2' Layup (6 PTS) (Fredette 2 AST),78 - 84,6,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,508,1,1,4,9:36 PM,7:11,Sefolosha 4' Jump Shot (9 PTS) (Jenkins 2 AST),,,78 - 86,8,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,509,6,2,4,9:36 PM,7:02,Jenkins S.FOUL (P4.T3),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,510,3,11,4,9:37 PM,7:02,,,Fredette Free Throw 1 of 2 (10 PTS),79 - 86,7,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,512,8,0,4,9:37 PM,7:02,,,SUB: Young FOR Anderson,,,5,201583,Ryan Anderson,1610612740.0,New Orleans,Pelicans,NOP,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,513,8,0,4,9:37 PM,7:02,,,SUB: Babbitt FOR Salmons,,,5,2422,John Salmons,1610612740.0,New Orleans,Pelicans,NOP,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,514,3,12,4,9:37 PM,7:02,,,MISS Fredette Free Throw 2 of 2,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,516,4,0,4,9:37 PM,7:00,Scott REBOUND (Off:0 Def:5),,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,517,5,1,4,9:37 PM,6:45,Mack Bad Pass Turnover (P2.T17),,Rivers STEAL (3 STL),,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,518,7,5,4,9:38 PM,6:44,Sefolosha Violation:Kicked Ball,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,519,8,0,4,9:38 PM,6:44,,,SUB: Smith FOR Fredette,,,5,202690,Jimmer Fredette,1610612740.0,New Orleans,Pelicans,NOP,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,520,1,42,4,9:38 PM,6:27,,,Smith 2' Driving Layup (2 PTS),81 - 86,5,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,521,5,1,4,9:38 PM,6:09,Scott Bad Pass Turnover (P1.T18),,Withey STEAL (1 STL),,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,522,2,43,4,9:38 PM,6:01,,,MISS Young 1' Alley Oop Layup,,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,523,4,0,4,9:38 PM,6:00,Mack REBOUND (Off:1 Def:1),,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,525,9,1,4,9:39 PM,5:55,HAWKS Timeout: Regular (Full 4 Short 0),,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,529,2,1,4,9:41 PM,5:52,MISS Scott 24' 3PT Jump Shot,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,530,4,0,4,9:41 PM,5:50,,,Rivers REBOUND (Off:0 Def:2),,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,531,2,1,4,9:41 PM,5:38,,,MISS Smith 18' Jump Shot,,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,532,4,0,4,9:41 PM,5:37,Jenkins REBOUND (Off:0 Def:3),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,533,6,1,4,9:41 PM,5:37,,,Young P.FOUL (P2.T2),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,534,8,0,4,9:42 PM,5:37,SUB: Schroder FOR Jenkins,,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,535,2,42,4,9:42 PM,5:21,MISS Sefolosha 2' Driving Layup,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,536,4,0,4,9:42 PM,5:19,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,538,5,2,4,9:43 PM,5:14,Schroder Lost Ball Turnover (P4.T19),,Smith STEAL (1 STL),,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,539,6,1,4,9:43 PM,5:12,Sefolosha P.FOUL (P3.T4),,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,540,9,1,4,9:43 PM,5:04,,,Pelicans Timeout: Regular (Reg.4 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,541,8,0,4,9:45 PM,5:04,SUB: Jenkins FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612737.0,Atlanta,Hawks,ATL,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,542,8,0,4,9:45 PM,5:04,SUB: Muscala FOR Mack,,,,,4,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,543,8,0,4,9:45 PM,5:04,SUB: Eddie FOR Scott,,,,,4,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,546,2,1,4,9:46 PM,4:55,,,MISS Babbitt 26' 3PT Jump Shot,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,547,4,0,4,9:46 PM,4:53,,,Young REBOUND (Off:2 Def:0),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,548,2,5,4,9:46 PM,4:50,,,MISS Withey 1' Layup,,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,549,4,0,4,9:46 PM,4:49,Muscala REBOUND (Off:2 Def:8),,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,550,5,1,4,9:46 PM,4:40,Payne Bad Pass Turnover (P3.T20),,Smith STEAL (2 STL),,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,551,2,5,4,9:46 PM,4:35,,,MISS Smith  Layup,,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,553,4,0,4,9:46 PM,4:34,,,Young REBOUND (Off:3 Def:0),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,552,1,87,4,9:46 PM,4:34,,,Young  Putback Dunk (4 PTS),83 - 86,3,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,554,6,1,4,9:46 PM,4:29,,,Smith P.FOUL (P2.T3),,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,556,1,42,4,9:47 PM,4:07,Schroder 1' Driving Layup (7 PTS),,,83 - 88,5,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,557,2,3,4,9:47 PM,3:48,,,MISS Young 6' Hook Shot,,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,558,4,0,4,9:47 PM,3:46,Jenkins REBOUND (Off:0 Def:4),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,559,5,1,4,9:48 PM,3:36,Jenkins Bad Pass Turnover (P2.T21),,Withey STEAL (2 STL),,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0
+0011400007,560,2,1,4,9:48 PM,3:30,,,MISS Babbitt 26' 3PT Jump Shot,,,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,561,4,0,4,9:48 PM,3:27,Payne REBOUND (Off:2 Def:4),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,562,2,1,4,9:48 PM,3:09,MISS Muscala 24' 3PT Jump Shot,,,,,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,563,4,0,4,9:48 PM,3:08,Payne REBOUND (Off:3 Def:4),,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,564,2,72,4,9:48 PM,3:06,MISS Payne 1' Putback Layup,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,565,4,0,4,9:48 PM,3:06,HAWKS Rebound,,,,,2,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,566,6,1,4,9:48 PM,3:06,,,Young P.FOUL (P3.T4),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,4,203488,Mike Muscala,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,567,6,1,4,9:49 PM,2:59,,,Smith P.FOUL (P3.PN),,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+0011400007,568,3,11,4,9:49 PM,2:59,Schroder Free Throw 1 of 2 (8 PTS),,,83 - 89,6,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,570,3,12,4,9:49 PM,2:59,Schroder Free Throw 2 of 2 (9 PTS),,,83 - 90,7,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,573,5,1,4,9:50 PM,2:41,,,Withey Bad Pass Turnover (P1.T15),,,5,203481,Jeff Withey,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,575,2,86,4,9:50 PM,2:26,MISS Payne 13' Turnaround Fadeaway Shot,,,,,4,203940,Adreian Payne,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,576,4,0,4,9:50 PM,2:24,Jenkins REBOUND (Off:1 Def:4),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,577,5,11,4,9:50 PM,2:16,HAWKS Turnover: Shot Clock (T#22),,,,,2,1610612737,,,,,,0,0,,,,,,1,0,,,,,,0
+0011400007,578,6,2,4,9:51 PM,2:04,Schroder S.FOUL (P4.PN),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,579,3,11,4,9:51 PM,2:04,,,Smith Free Throw 1 of 2 (3 PTS),84 - 90,6,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,581,3,12,4,9:51 PM,2:04,,,Smith Free Throw 2 of 2 (4 PTS),85 - 90,5,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,583,1,1,4,9:52 PM,1:48,Jenkins 24' 3PT Jump Shot (13 PTS) (Schroder 4 AST),,,85 - 93,8,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+0011400007,584,2,77,4,9:52 PM,1:33,,,MISS Smith 11' Driving Jump Shot,,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,585,4,0,4,9:52 PM,1:31,,,Young REBOUND (Off:4 Def:0),,,5,203942,Patric Young,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,586,2,1,4,9:52 PM,1:25,,,MISS Rivers 12' Jump Shot,,,5,203085,Austin Rivers,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,587,4,0,4,9:52 PM,1:23,Jenkins REBOUND (Off:1 Def:5),,,,,4,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,589,5,40,4,9:53 PM,1:07,Schroder Out of Bounds Lost Ball Turnover (P5.T23),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+0011400007,590,9,1,4,9:53 PM,1:07,,,Pelicans Timeout: Regular (Reg.5 Short 0),,,3,1610612740,,,,,,0,0,,,,,,0,0,,,,,,0
+0011400007,593,6,2,4,9:55 PM,0:50,Eddie S.FOUL (P2.PN),,,,,4,204067,Jarell Eddie,1610612737.0,Atlanta,Hawks,ATL,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,594,3,11,4,9:55 PM,0:50,,,Babbitt Free Throw 1 of 2 (1 PTS),86 - 93,7,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,596,3,12,4,9:55 PM,0:50,,,Babbitt Free Throw 2 of 2 (2 PTS),87 - 93,6,5,202337,Luke Babbitt,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,598,6,26,4,9:56 PM,0:36,Schroder Offensive Charge Foul (P5.PN),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,1,0,,,,,,0
+0011400007,599,5,5,4,9:56 PM,0:36,Schroder Foul Turnover (P6.T24),,,,,4,203471,Dennis Schroder,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+0011400007,600,5,1,4,9:56 PM,0:22,,,Smith Bad Pass Turnover (P1.T16),,,5,203893,Russ Smith,1610612740.0,New Orleans,Pelicans,NOP,0,0,,,,,,0,0,,,,,,0
+0011400007,601,13,0,4,9:57 PM,0:00,,End of 4th Period (9:57 PM EST),,87 - 93,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

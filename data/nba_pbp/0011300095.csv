@@ -1,0 +1,569 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300095,0,12,0,1,7:10 PM,12:00,,Start of 1st Period (7:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,1,10,0,1,7:11 PM,12:00,Jump Ball Hawes vs. Pekovic: Tip to Rubio,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,2,2,1,1,7:11 PM,11:44,,,MISS Love 16' Jump Shot,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,3,4,0,1,7:11 PM,11:43,Turner REBOUND (Off:0 Def:1),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,4,2,1,1,7:11 PM,11:35,MISS Young 4' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,5,4,0,1,7:11 PM,11:33,Carter-Williams REBOUND (Off:1 Def:0),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,6,1,1,1,7:11 PM,11:31,Anderson 26' 3PT Jump Shot (3 PTS) (Carter-Williams 1 AST),,,0 - 3,3,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,7,2,1,1,7:11 PM,11:16,,,MISS Martin 26' 3PT Jump Shot,,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,8,4,0,1,7:11 PM,11:14,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,9,2,1,1,7:12 PM,10:59,MISS Turner 15' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,10,4,0,1,7:12 PM,10:58,,,Martin REBOUND (Off:0 Def:1),,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,11,6,1,1,7:12 PM,10:51,Turner P.FOUL (P1.T1),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,12,2,1,1,7:12 PM,10:45,,,MISS Rubio 18' Jump Shot,,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,13,4,0,1,7:12 PM,10:43,Anderson REBOUND (Off:0 Def:1),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,14,1,1,1,7:12 PM,10:37,Hawes 4' Jump Shot (2 PTS),,,0 - 5,5,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,15,1,1,1,7:13 PM,10:13,,,Love 24' 3PT Jump Shot (3 PTS) (Rubio 1 AST),3 - 5,2,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,16,2,1,1,7:13 PM,10:03,MISS Hawes 27' 3PT Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,17,4,0,1,7:13 PM,10:01,,,Rubio REBOUND (Off:0 Def:1),,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,18,6,2,1,7:13 PM,9:52,Hawes S.FOUL (P1.T2),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,19,3,11,1,7:13 PM,9:52,,,Pekovic Free Throw 1 of 2 (1 PTS),4 - 5,1,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,21,3,12,1,7:14 PM,9:52,,,Pekovic Free Throw 2 of 2 (2 PTS),5 - 5,TIE,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,24,2,1,1,7:14 PM,9:37,MISS Turner 18' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,25,4,0,1,7:14 PM,9:35,,,Rubio REBOUND (Off:0 Def:2),,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,26,2,1,1,7:15 PM,9:21,,,MISS Hummel 18' Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,27,4,0,1,7:15 PM,9:19,Young REBOUND (Off:0 Def:1),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,28,2,5,1,7:15 PM,9:12,MISS Young 2' Layup,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,29,4,0,1,7:15 PM,9:10,,,Pekovic REBOUND (Off:0 Def:1),,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,30,1,5,1,7:15 PM,9:05,,,Love 2' Layup (5 PTS) (Rubio 2 AST),7 - 5,-2,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,31,6,1,1,7:15 PM,8:53,,,Martin P.FOUL (P1.T1),,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,32,1,47,1,7:16 PM,8:47,Turner 12' Turnaround Jump Shot (2 PTS) (Young 1 AST),,,7 - 7,TIE,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,33,1,1,1,7:16 PM,8:31,,,Love 26' 3PT Jump Shot (8 PTS) (Martin 1 AST),10 - 7,-3,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,34,2,1,1,7:16 PM,8:16,MISS Turner 16' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,35,4,0,1,7:16 PM,8:15,,,Martin REBOUND (Off:0 Def:2),,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,36,2,1,1,7:16 PM,8:08,,,MISS Love 27' 3PT Jump Shot,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,37,4,0,1,7:16 PM,8:06,Turner REBOUND (Off:0 Def:2),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,38,1,1,1,7:16 PM,8:00,Anderson 27' 3PT Jump Shot (6 PTS) (Carter-Williams 2 AST),,,10 - 10,TIE,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,39,2,1,1,7:17 PM,7:32,,,MISS Martin 27' 3PT Jump Shot,,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,40,4,0,1,7:17 PM,7:28,Turner REBOUND (Off:0 Def:3),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,41,1,7,1,7:17 PM,7:27,Anderson 1' Dunk (8 PTS) (Turner 1 AST),,,10 - 12,2,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,42,2,5,1,7:17 PM,7:13,Hawes BLOCK (1 BLK),,MISS Love 2' Layup,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,43,4,0,1,7:17 PM,7:11,Turner REBOUND (Off:0 Def:4),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,44,6,26,1,7:17 PM,7:09,Turner Offensive Charge Foul (P2.T3),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,45,5,5,1,7:17 PM,7:09,Turner Foul Turnover (P1.T1),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,50,5,1,1,7:19 PM,6:57,Hawes STEAL (1 STL),,Pekovic Bad Pass Turnover (P1.T1),,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,51,5,2,1,7:19 PM,6:52,Carter-Williams Lost Ball Turnover (P1.T2),,Rubio STEAL (1 STL),,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,52,2,1,1,7:19 PM,6:45,,,MISS Love 3' Jump Shot,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,53,4,0,1,7:19 PM,6:43,Turner REBOUND (Off:0 Def:5),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,54,1,7,1,7:19 PM,6:39,Young 1' Dunk (2 PTS) (Turner 2 AST),,,10 - 14,4,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,55,6,1,1,7:19 PM,6:23,Carter-Williams P.FOUL (P1.T4),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,56,8,0,1,7:19 PM,6:23,SUB: Orton FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,57,8,0,1,7:19 PM,6:23,SUB: Wroten FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,58,5,1,1,7:20 PM,6:20,Carter-Williams STEAL (1 STL),,Martin Bad Pass Turnover (P1.T2),,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,59,1,1,1,7:20 PM,6:12,Carter-Williams 25' 3PT Jump Shot (3 PTS) (Wroten 1 AST),,,10 - 17,7,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,60,2,1,1,7:20 PM,5:55,,,MISS Pekovic 6' Jump Shot,,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,61,4,0,1,7:20 PM,5:52,,,Love REBOUND (Off:1 Def:0),,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,62,2,5,1,7:20 PM,5:52,Wroten BLOCK (1 BLK),,MISS Love 3' Layup,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,63,4,0,1,7:20 PM,5:52,,,Love REBOUND (Off:2 Def:0),,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,64,6,2,1,7:20 PM,5:52,Wroten S.FOUL (P1.PN),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,65,9,1,1,7:20 PM,5:52,76ERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,66,8,0,1,7:22 PM,5:52,SUB: Williams FOR Anderson,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,67,3,11,1,7:22 PM,5:52,,,MISS Love Free Throw 1 of 2,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,68,4,1,1,7:22 PM,5:52,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,69,3,12,1,7:23 PM,5:52,,,Love Free Throw 2 of 2 (9 PTS),11 - 17,6,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,71,5,1,1,7:23 PM,5:40,Young Bad Pass Turnover (P1.T3),,Rubio STEAL (2 STL),,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,72,1,7,1,7:23 PM,5:29,,,Love 1' Dunk (11 PTS) (Pekovic 1 AST),13 - 17,4,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,73,6,2,1,7:24 PM,5:12,,,Pekovic S.FOUL (P1.T2),,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,74,3,11,1,7:24 PM,5:12,MISS Orton Free Throw 1 of 2,,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,75,4,1,1,7:24 PM,5:12,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,76,8,0,1,7:24 PM,5:12,SUB: White FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,77,8,0,1,7:24 PM,5:12,SUB: Morris FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,78,3,12,1,7:24 PM,5:12,MISS Orton Free Throw 2 of 2,,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,80,4,0,1,7:24 PM,5:11,,,Love REBOUND (Off:2 Def:1),,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,81,1,1,1,7:24 PM,4:53,,,Martin 25' 3PT Jump Shot (3 PTS) (Hummel 1 AST),16 - 17,1,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,82,6,1,1,7:25 PM,4:47,,,Pekovic P.FOUL (P2.T3),,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,83,1,46,1,7:25 PM,4:39,Morris 8' Running Jump Shot (2 PTS) (Orton 1 AST),,,16 - 19,3,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,84,1,1,1,7:25 PM,4:28,,,Love 25' 3PT Jump Shot (14 PTS) (Rubio 3 AST),19 - 19,TIE,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,85,5,1,1,7:25 PM,4:17,Morris Bad Pass Turnover (P1.T4),,Rubio STEAL (3 STL),,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,86,1,5,1,7:25 PM,4:13,,,Martin 1' Layup (5 PTS) (Rubio 4 AST),21 - 19,-2,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,87,9,2,1,7:26 PM,4:07,76ERS Timeout: Short (Full 1 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,88,8,0,1,7:26 PM,4:07,,,SUB: Turiaf FOR Pekovic,,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,89,5,4,1,7:27 PM,3:57,Morris Traveling Turnover (P2.T5),,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,90,2,5,1,7:27 PM,3:40,Williams BLOCK (1 BLK),,MISS Rubio 3' Layup,,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,91,4,0,1,7:27 PM,3:38,Wroten REBOUND (Off:0 Def:1),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,92,1,42,1,7:27 PM,3:35,Wroten 1' Driving Layup (2 PTS),,,21 - 21,TIE,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,93,6,1,1,7:28 PM,3:25,Wroten P.FOUL (P2.PN),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,94,3,11,1,7:28 PM,3:25,,,Martin Free Throw 1 of 2 (6 PTS),22 - 21,-1,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,97,8,0,1,7:28 PM,3:25,,,SUB: Muhammad FOR Hummel,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,98,3,12,1,7:28 PM,3:25,,,Martin Free Throw 2 of 2 (7 PTS),23 - 21,-2,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,100,6,4,1,7:29 PM,3:13,White OFF.Foul (P1),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,101,5,5,1,7:29 PM,3:13,White Foul Turnover (P1.T6),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,102,8,0,1,7:29 PM,3:13,,,SUB: Shved FOR Martin,,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,103,2,1,1,7:29 PM,2:55,,,MISS Muhammad 26' 3PT Jump Shot,,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,104,4,0,1,7:29 PM,2:54,White REBOUND (Off:0 Def:1),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,105,2,1,1,7:29 PM,2:49,MISS Morris 18' Jump Shot,,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,106,4,0,1,7:29 PM,2:47,,,Turiaf REBOUND (Off:0 Def:1),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,107,2,1,1,7:29 PM,2:36,,,MISS Love 19' Jump Shot,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,108,4,0,1,7:29 PM,2:35,Morris REBOUND (Off:0 Def:1),,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,109,5,2,1,7:29 PM,2:31,Wroten Lost Ball Turnover (P1.T7),,Rubio STEAL (4 STL),,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,110,2,5,1,7:30 PM,2:13,White BLOCK (1 BLK),,MISS Shved 3' Layup,,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,111,4,0,1,7:30 PM,2:12,,,Turiaf REBOUND (Off:1 Def:1),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,112,6,2,1,7:30 PM,2:12,Williams S.FOUL (P1.PN),,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,113,9,1,1,7:30 PM,2:12,,,Timberwolves Timeout: Regular (Reg.1 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,114,8,0,1,7:32 PM,2:12,,,SUB: Cunningham FOR Love,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,115,8,0,1,7:32 PM,2:12,,,SUB: Barea FOR Rubio,,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,116,8,0,1,7:32 PM,2:12,SUB: Turner FOR Wroten,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,117,3,11,1,7:32 PM,2:12,,,Turiaf Free Throw 1 of 2 (1 PTS),24 - 21,-3,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,119,3,12,1,7:32 PM,2:12,,,Turiaf Free Throw 2 of 2 (2 PTS),25 - 21,-4,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,121,2,1,1,7:33 PM,1:59,MISS Turner 5' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,123,4,0,1,7:33 PM,1:56,Turner REBOUND (Off:1 Def:5),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,122,2,5,1,7:33 PM,1:56,MISS Turner 2' Layup,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,124,4,0,1,7:33 PM,1:55,Turner REBOUND (Off:2 Def:5),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,125,2,5,1,7:33 PM,1:52,MISS Orton 2' Layup,,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,126,4,0,1,7:33 PM,1:50,,,Cunningham REBOUND (Off:0 Def:1),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,127,2,1,1,7:33 PM,1:45,Williams BLOCK (2 BLK),,MISS Barea 3' Jump Shot,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,128,4,0,1,7:33 PM,1:43,White REBOUND (Off:0 Def:2),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,129,1,7,1,7:33 PM,1:40,White  Dunk (2 PTS),,,25 - 23,-2,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,130,2,1,1,7:33 PM,1:21,,,MISS Cunningham 17' Jump Shot,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,131,4,0,1,7:34 PM,1:19,Orton REBOUND (Off:0 Def:1),,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,132,6,2,1,7:34 PM,1:14,,,Shved S.FOUL (P1.T4),,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,133,3,11,1,7:34 PM,1:14,MISS Turner Free Throw 1 of 2,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,134,4,1,1,7:34 PM,1:14,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,135,3,12,1,7:34 PM,1:14,Turner Free Throw 2 of 2 (3 PTS),,,25 - 24,-1,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,137,2,1,1,7:35 PM,0:59,,,MISS Cunningham 17' Jump Shot,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,138,4,0,1,7:35 PM,0:59,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,139,6,3,1,7:35 PM,0:59,Orton L.B.FOUL (P1.PN),,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,140,3,11,1,7:35 PM,0:59,,,MISS Turiaf Free Throw 1 of 2,,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,141,4,1,1,7:35 PM,0:59,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,142,3,12,1,7:35 PM,0:59,,,MISS Turiaf Free Throw 2 of 2,,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,144,4,0,1,7:35 PM,0:59,Orton REBOUND (Off:0 Def:2),,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,145,2,1,1,7:36 PM,0:38,MISS Turner 11' Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,147,4,0,1,7:36 PM,0:36,Orton REBOUND (Off:1 Def:2),,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,146,1,5,1,7:36 PM,0:36,Orton 3' Layup (2 PTS),,,25 - 26,1,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,148,6,2,1,7:36 PM,0:31,Williams S.FOUL (P2.PN),,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,149,3,11,1,7:36 PM,0:31,,,Barea Free Throw 1 of 2 (1 PTS),26 - 26,TIE,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,151,3,12,1,7:36 PM,0:31,,,Barea Free Throw 2 of 2 (2 PTS),27 - 26,-1,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,153,5,1,1,7:37 PM,0:13,Turner Bad Pass Turnover (P2.T8),,Turiaf STEAL (1 STL),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,154,1,1,1,7:37 PM,0:03,,,Shved 28' 3PT Jump Shot (3 PTS) (Barea 1 AST),30 - 26,-4,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,155,7,5,1,7:37 PM,0:03,,,Turiaf Violation:Kicked Ball,,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300095,158,2,1,1,7:38 PM,0:01,MISS Williams 43' 3PT Jump Shot,,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,159,4,0,1,7:38 PM,0:00,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,160,13,0,1,7:38 PM,0:00,,End of 1st Period (7:38 PM EST),,30 - 26,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,161,12,0,2,7:40 PM,12:00,,Start of 2nd Period (7:40 PM EST),,30 - 26,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,162,2,1,2,7:40 PM,11:39,MISS Young 12' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,163,4,0,2,7:41 PM,11:37,,,Muhammad REBOUND (Off:0 Def:1),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,164,1,65,2,7:41 PM,11:25,,,Muhammad 8' Jump Hook Shot (2 PTS) (Shved 1 AST),32 - 26,-6,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,165,1,42,2,7:41 PM,11:12,Young 3' Driving Layup (4 PTS) (Anderson 1 AST),,,32 - 28,-4,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,166,6,2,2,7:41 PM,10:56,Anderson S.FOUL (P1.T1),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,167,3,11,2,7:41 PM,10:56,,,MISS Shved Free Throw 1 of 2,,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,168,4,1,2,7:41 PM,10:56,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,169,8,0,2,7:42 PM,10:56,SUB: Carter-Williams FOR Morris,,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,170,3,12,2,7:42 PM,10:56,,,Shved Free Throw 2 of 2 (4 PTS),33 - 28,-5,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,172,2,1,2,7:42 PM,10:43,MISS Turner 24' 3PT Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,173,4,0,2,7:42 PM,10:41,,,Turiaf REBOUND (Off:1 Def:2),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,174,1,1,2,7:42 PM,10:35,,,Barea 26' 3PT Jump Shot (5 PTS),36 - 28,-8,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,175,2,1,2,7:42 PM,10:20,MISS Anderson  3PT Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,176,4,0,2,7:42 PM,10:18,,,Turiaf REBOUND (Off:1 Def:3),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,178,5,2,2,7:43 PM,10:06,Carter-Williams STEAL (2 STL),,Turiaf Lost Ball Turnover (P1.T3),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,181,6,1,2,7:43 PM,10:06,,,Turiaf P.FOUL (P1.T1),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,182,2,5,2,7:43 PM,9:50,MISS Hawes 3' Layup,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,186,4,0,2,7:43 PM,9:49,Hawes REBOUND (Off:1 Def:0),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,193,2,40,2,7:43 PM,9:49,MISS Hawes 3' Layup,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,183,4,0,2,7:43 PM,9:48,,,Turiaf REBOUND (Off:1 Def:4),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,185,6,2,2,7:44 PM,9:35,Carter-Williams S.FOUL (P2.T2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,187,3,13,2,7:44 PM,9:35,,,Barea Free Throw 1 of 3 (6 PTS),37 - 28,-9,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,189,3,14,2,7:44 PM,9:35,,,Barea Free Throw 2 of 3 (7 PTS),38 - 28,-10,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,191,3,15,2,7:44 PM,9:35,,,Barea Free Throw 3 of 3 (8 PTS),39 - 28,-11,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,194,2,1,2,7:45 PM,9:24,MISS Turner 25' 3PT Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,199,4,0,2,7:45 PM,9:19,,,Turiaf REBOUND (Off:1 Def:5),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,200,6,11,2,7:45 PM,9:15,,Brett Brown Foul:T.FOUL,,,,6,2719,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300095,201,3,16,2,7:45 PM,9:15,,,MISS Barea Free Throw Technical,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,202,4,1,2,7:45 PM,9:15,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,204,2,1,2,7:46 PM,9:06,,,MISS Barea  3PT Jump Shot,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,205,4,0,2,7:46 PM,9:04,Hawes REBOUND (Off:1 Def:1),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,207,2,5,2,7:46 PM,8:57,MISS Carter-Williams 3' Layup,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,208,4,0,2,7:46 PM,8:56,,,Turiaf REBOUND (Off:1 Def:6),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,209,2,1,2,7:46 PM,8:40,,,MISS Shved 26' 3PT Jump Shot,,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,210,4,0,2,7:46 PM,8:38,Anderson REBOUND (Off:0 Def:2),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,212,1,46,2,7:47 PM,8:32,Anderson 3' Running Jump Shot (10 PTS),,,39 - 30,-9,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,213,9,4,2,7:47 PM,8:32,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,215,6,2,2,7:49 PM,8:32,,,Muhammad S.FOUL (P1.T2),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,216,3,10,2,7:49 PM,8:32,Anderson Free Throw 1 of 1 (11 PTS),,,39 - 31,-8,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,218,1,47,2,7:49 PM,8:20,,,Barea 13' Turnaround Jump Shot (10 PTS),41 - 31,-10,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,219,6,1,2,7:50 PM,8:08,,,Barea P.FOUL (P1.T3),,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,220,2,1,2,7:50 PM,7:57,MISS Hawes 6' Jump Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,221,4,0,2,7:50 PM,7:56,,,Turiaf REBOUND (Off:1 Def:7),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,222,1,78,2,7:50 PM,7:47,,,Muhammad 7' Floating Jump Shot (4 PTS),43 - 31,-12,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,223,2,1,2,7:50 PM,7:37,MISS Carter-Williams 20' Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,224,4,0,2,7:50 PM,7:37,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,226,6,2,2,7:51 PM,7:30,,,Shved S.FOUL (P2.T4),,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,227,3,11,2,7:51 PM,7:30,Turner Free Throw 1 of 2 (4 PTS),,,43 - 32,-11,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,229,8,0,2,7:52 PM,7:30,,,SUB: Hummel FOR Shved,,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,230,3,12,2,7:52 PM,7:30,Turner Free Throw 2 of 2 (5 PTS),,,43 - 33,-10,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,232,2,1,2,7:52 PM,7:19,,,MISS Hummel 3' Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,234,4,0,2,7:52 PM,7:17,,,Turiaf REBOUND (Off:2 Def:7),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,233,2,5,2,7:52 PM,7:17,,,MISS Turiaf 2' Layup,,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,236,4,0,2,7:52 PM,7:15,,,Muhammad REBOUND (Off:1 Def:1),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,235,2,7,2,7:52 PM,7:15,,,MISS Muhammad 2' Dunk,,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,237,4,0,2,7:52 PM,7:13,,,Muhammad REBOUND (Off:2 Def:1),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,238,1,72,2,7:52 PM,7:12,,,Muhammad 1' Putback Layup (6 PTS),45 - 33,-12,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,239,7,1,2,7:52 PM,7:10,,,Timberwolves Violation: Delay of game Violation,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300095,240,1,5,2,7:52 PM,7:03,Hawes 3' Layup (4 PTS) (Turner 3 AST),,,45 - 35,-10,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,241,1,5,2,7:53 PM,6:53,,,Barea 2' Layup (12 PTS),47 - 35,-12,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,242,2,5,2,7:53 PM,6:44,MISS Young 2' Layup,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,243,4,0,2,7:53 PM,6:42,,,Turiaf REBOUND (Off:2 Def:8),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,244,6,1,2,7:53 PM,6:35,Young P.FOUL (P1.T3),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,245,8,0,2,7:53 PM,6:35,,,SUB: Pekovic FOR Turiaf,,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,246,1,1,2,7:54 PM,6:21,,,Barea 27' 3PT Jump Shot (15 PTS) (Cunningham 1 AST),50 - 35,-15,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,247,6,1,2,7:54 PM,5:59,,,Muhammad P.FOUL (P2.PN),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,248,9,1,2,7:54 PM,5:59,76ERS Timeout: Regular (Full 2 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,250,8,0,2,7:56 PM,5:59,,,SUB: Rubio FOR Barea,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,252,8,0,2,7:56 PM,5:59,,,SUB: Love FOR Cunningham,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,253,3,11,2,7:56 PM,5:59,Hawes Free Throw 1 of 2 (5 PTS),,,50 - 36,-14,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,255,3,12,2,7:56 PM,5:59,Hawes Free Throw 2 of 2 (6 PTS),,,50 - 37,-13,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,257,5,1,2,7:57 PM,5:41,Young STEAL (1 STL),,Muhammad Bad Pass Turnover (P1.T4),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,258,6,2,2,7:57 PM,5:34,,,Hummel S.FOUL (P1.PN),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,259,3,11,2,7:57 PM,5:34,Turner Free Throw 1 of 2 (6 PTS),,,50 - 38,-12,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,261,3,12,2,7:57 PM,5:34,MISS Turner Free Throw 2 of 2,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,263,4,0,2,7:58 PM,5:33,,,Love REBOUND (Off:2 Def:2),,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,264,2,1,2,7:58 PM,5:20,,,MISS Hummel 17' Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,265,4,0,2,7:58 PM,5:19,Carter-Williams REBOUND (Off:1 Def:1),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,266,2,1,2,7:58 PM,5:12,MISS Young 4' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,268,4,0,2,7:58 PM,5:09,Hawes REBOUND (Off:2 Def:1),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,267,2,4,2,7:58 PM,5:09,MISS Hawes 1' Tip Shot,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,269,4,0,2,7:58 PM,5:07,,,Rubio REBOUND (Off:0 Def:3),,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,270,2,5,2,7:58 PM,4:59,Hawes BLOCK (2 BLK),,MISS Pekovic 2' Layup,,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,271,4,0,2,7:58 PM,4:57,Anderson REBOUND (Off:0 Def:3),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,272,2,1,2,7:58 PM,4:53,MISS Carter-Williams 25' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,273,4,0,2,7:58 PM,4:50,,,Hummel REBOUND (Off:0 Def:1),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,274,6,1,2,7:59 PM,4:32,Young P.FOUL (P2.T4),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,275,8,0,2,7:59 PM,4:32,SUB: White FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,276,8,0,2,7:59 PM,4:32,SUB: Orton FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,277,8,0,2,7:59 PM,4:32,SUB: Wroten FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,278,8,0,2,7:59 PM,4:32,,,SUB: Martin FOR Muhammad,,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,279,2,1,2,7:59 PM,4:19,,,MISS Hummel 17' Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,280,4,0,2,7:59 PM,4:17,Wroten REBOUND (Off:0 Def:2),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,281,1,5,2,7:59 PM,4:14,Anderson 1' Layup (13 PTS) (Wroten 2 AST),,,50 - 40,-10,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,282,1,1,2,8:00 PM,3:53,,,Martin 24' 3PT Jump Shot (10 PTS) (Rubio 5 AST),53 - 40,-13,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,283,1,42,2,8:00 PM,3:45,Carter-Williams 4' Driving Layup (5 PTS),,,53 - 42,-11,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,284,6,2,2,8:00 PM,3:45,,,Rubio S.FOUL (P1.PN),,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,285,8,0,2,8:00 PM,3:45,SUB: Williams FOR Anderson,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,286,3,10,2,8:00 PM,3:45,Carter-Williams Free Throw 1 of 1 (6 PTS),,,53 - 43,-10,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,287,1,1,2,8:01 PM,3:32,,,Love 26' 3PT Jump Shot (17 PTS) (Martin 2 AST),56 - 43,-13,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,288,2,1,2,8:01 PM,3:18,MISS Wroten 25' 3PT Jump Shot,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,289,4,0,2,8:01 PM,3:16,,,Rubio REBOUND (Off:0 Def:4),,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,291,8,0,2,8:01 PM,3:14,SUB: Morris FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,292,9,1,2,8:01 PM,3:14,,,Timberwolves Timeout: Regular (Reg.2 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,293,6,2,2,8:03 PM,3:06,Wroten S.FOUL (P3.PN),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,294,3,11,2,8:04 PM,3:06,,,Pekovic Free Throw 1 of 2 (3 PTS),57 - 43,-14,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,296,3,12,2,8:04 PM,3:06,,,Pekovic Free Throw 2 of 2 (4 PTS),58 - 43,-15,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,298,1,66,2,8:04 PM,2:48,Wroten 3' Jump Bank Shot (4 PTS),,,58 - 45,-13,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,299,5,1,2,8:05 PM,2:34,Orton STEAL (1 STL),,Hummel Bad Pass Turnover (P1.T5),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,300,2,1,2,8:05 PM,2:23,MISS White 5' Jump Shot,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,301,4,0,2,8:05 PM,2:21,,,Rubio REBOUND (Off:0 Def:5),,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,302,2,1,2,8:05 PM,2:15,,,MISS Hummel 18' Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,303,4,0,2,8:05 PM,2:13,White REBOUND (Off:0 Def:3),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,304,6,2,2,8:05 PM,2:08,,,Hummel S.FOUL (P2.PN),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,305,3,11,2,8:05 PM,2:08,White Free Throw 1 of 2 (3 PTS),,,58 - 46,-12,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,307,3,12,2,8:05 PM,2:08,MISS White Free Throw 2 of 2,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,309,4,0,2,8:06 PM,2:06,,,Love REBOUND (Off:2 Def:3),,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,310,2,5,2,8:06 PM,1:55,,,MISS Love 3' Layup,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,312,4,0,2,8:06 PM,1:53,,,Love REBOUND (Off:3 Def:3),,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,311,1,5,2,8:06 PM,1:53,,,Love 2' Layup (19 PTS),60 - 46,-14,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,313,1,42,2,8:06 PM,1:45,White 2' Driving Layup (5 PTS) (Morris 1 AST),,,60 - 48,-12,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,314,6,2,2,8:06 PM,1:37,White S.FOUL (P2.PN),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,315,3,11,2,8:06 PM,1:37,,,Rubio Free Throw 1 of 2 (1 PTS),61 - 48,-13,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,317,3,12,2,8:07 PM,1:37,,,Rubio Free Throw 2 of 2 (2 PTS),62 - 48,-14,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,319,6,1,2,8:08 PM,1:27,,,Pekovic P.FOUL (P3.PN),,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,320,18,0,2,8:08 PM,1:27,,Support Ruling,,,,0,319,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300095,321,3,11,2,8:09 PM,1:27,Orton Free Throw 1 of 2 (3 PTS),,,62 - 49,-13,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,323,3,12,2,8:10 PM,1:27,Orton Free Throw 2 of 2 (4 PTS),,,62 - 50,-12,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,325,2,1,2,8:10 PM,1:09,Orton BLOCK (1 BLK),,MISS Martin 5' Jump Shot,,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,326,4,0,2,8:10 PM,1:07,Morris REBOUND (Off:0 Def:2),,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,327,5,4,2,8:10 PM,1:05,White Traveling Turnover (P2.T9),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,328,2,1,2,8:11 PM,0:51,,,MISS Love 27' 3PT Jump Shot,,,5,201567,Kevin Love,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,329,4,0,2,8:11 PM,0:50,Williams REBOUND (Off:0 Def:1),,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,331,5,2,2,8:11 PM,0:28,Morris Lost Ball Turnover (P3.T10),,Rubio STEAL (5 STL),,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,332,2,1,2,8:12 PM,0:05,,,MISS Rubio 16' Jump Shot,,,5,201937,Ricky Rubio,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,334,4,0,2,8:12 PM,0:05,,,Hummel REBOUND (Off:1 Def:1),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,333,1,87,2,8:12 PM,0:05,,,Hummel  Putback Dunk (2 PTS),64 - 50,-14,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,335,5,4,2,8:12 PM,0:01,Morris Traveling Turnover (P4.T11),,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,336,2,1,2,8:12 PM,0:01,,,MISS Pekovic 12' Jump Shot,,,5,201593,Nikola Pekovic,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,337,4,0,2,8:12 PM,0:00,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,338,13,0,2,8:12 PM,0:00,,End of 2nd Period (8:12 PM EST),,64 - 50,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,340,12,0,3,8:28 PM,12:00,,Start of 3rd Period (8:28 PM EST),,64 - 50,-14,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,341,2,1,3,8:29 PM,11:42,MISS Anderson 26' 3PT Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,342,4,0,3,8:29 PM,11:41,,,Cunningham REBOUND (Off:0 Def:2),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,344,5,1,3,8:29 PM,11:20,Anderson STEAL (1 STL),,Martin Bad Pass Turnover (P2.T6),,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,345,1,7,3,8:29 PM,11:16,Anderson 1' Dunk (15 PTS) (Turner 4 AST),,,64 - 52,-12,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,346,2,1,3,8:29 PM,11:02,,,MISS Martin 19' Jump Shot,,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,347,4,0,3,8:29 PM,11:00,Carter-Williams REBOUND (Off:1 Def:2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,348,6,2,3,8:30 PM,10:52,,,Turiaf S.FOUL (P2.T1),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,349,3,11,3,8:30 PM,10:52,MISS Young Free Throw 1 of 2,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,350,4,1,3,8:30 PM,10:52,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,351,3,12,3,8:30 PM,10:52,Young Free Throw 2 of 2 (5 PTS),,,64 - 53,-11,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,353,5,1,3,8:30 PM,10:45,Carter-Williams STEAL (3 STL),,Cunningham Bad Pass Turnover (P1.T7),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,354,1,5,3,8:30 PM,10:42,Carter-Williams 1' Layup (8 PTS),,,64 - 55,-9,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,355,1,1,3,8:31 PM,10:21,,,Barea 18' Jump Shot (17 PTS) (Turiaf 1 AST),66 - 55,-11,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,356,2,1,3,8:31 PM,9:56,MISS Young 15' Jump Shot,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,357,4,0,3,8:31 PM,9:56,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,358,6,3,3,8:31 PM,9:56,,,Barea L.B.FOUL (P2.T2),,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,359,6,4,3,8:32 PM,9:48,Turner OFF.Foul (P3),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,360,5,5,3,8:32 PM,9:48,Turner Foul Turnover (P3.T12),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,361,1,66,3,8:32 PM,9:33,,,Barea 15' Jump Bank Shot (19 PTS) (Turiaf 2 AST),68 - 55,-13,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,362,1,79,3,8:32 PM,9:22,Turner 16' Pullup Jump Shot (8 PTS) (Young 2 AST),,,68 - 57,-11,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,363,6,2,3,8:32 PM,9:22,,,Turiaf S.FOUL (P3.T3),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,364,3,10,3,8:32 PM,9:22,Turner Free Throw 1 of 1 (9 PTS),,,68 - 58,-10,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,365,1,1,3,8:33 PM,9:12,,,Martin 26' 3PT Jump Shot (13 PTS) (Barea 2 AST),71 - 58,-13,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,366,2,5,3,8:33 PM,9:01,MISS Hawes 1' Layup,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,367,4,0,3,8:33 PM,8:59,,,Hummel REBOUND (Off:1 Def:2),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,368,2,1,3,8:33 PM,8:49,,,MISS Cunningham 18' Jump Shot,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,369,4,0,3,8:33 PM,8:47,Anderson REBOUND (Off:0 Def:4),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,372,2,1,3,8:34 PM,8:42,MISS Turner 24' 3PT Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,373,4,0,3,8:34 PM,8:40,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,374,6,3,3,8:34 PM,8:38,Hawes L.B.FOUL (P2.T1),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,375,1,1,3,8:34 PM,8:28,,,Cunningham 17' Jump Shot (2 PTS) (Hummel 2 AST),73 - 58,-15,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,376,2,1,3,8:34 PM,8:17,MISS Carter-Williams 16' Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,377,4,0,3,8:34 PM,8:16,Carter-Williams REBOUND (Off:2 Def:2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,378,1,1,3,8:34 PM,8:09,Anderson 20' Jump Shot (17 PTS) (Carter-Williams 3 AST),,,73 - 60,-13,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,379,2,1,3,8:34 PM,8:01,,,MISS Cunningham 20' Jump Shot,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,381,4,0,3,8:34 PM,7:58,,,Turiaf REBOUND (Off:3 Def:8),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,380,1,8,3,8:34 PM,7:58,,,Turiaf 1' Slam Dunk (4 PTS),75 - 60,-15,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,382,2,1,3,8:35 PM,7:46,MISS Carter-Williams 19' Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,383,4,0,3,8:35 PM,7:44,,,Cunningham REBOUND (Off:0 Def:3),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,384,6,1,3,8:35 PM,7:40,Carter-Williams P.FOUL (P3.T2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,385,8,0,3,8:35 PM,7:40,,,SUB: Shved FOR Martin,,,5,2755,Kevin Martin,1610612750.0,Minnesota,Timberwolves,MIN,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,386,1,1,3,8:35 PM,7:30,,,Shved 25' 3PT Jump Shot (7 PTS) (Cunningham 2 AST),78 - 60,-18,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,387,1,1,3,8:36 PM,7:17,Anderson 25' 3PT Jump Shot (20 PTS) (Turner 5 AST),,,78 - 63,-15,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,388,5,2,3,8:36 PM,7:05,Carter-Williams STEAL (4 STL),,Turiaf Lost Ball Turnover (P2.T8),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,389,2,5,3,8:36 PM,7:00,MISS Carter-Williams 3' Layup,,Cunningham BLOCK (1 BLK),,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,390,4,0,3,8:36 PM,6:58,Hawes REBOUND (Off:3 Def:1),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,391,1,5,3,8:36 PM,6:57,Hawes  Layup (8 PTS),,,78 - 65,-13,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,392,2,1,3,8:36 PM,6:41,,,MISS Cunningham 18' Jump Shot,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,394,4,0,3,8:36 PM,6:39,,,Turiaf REBOUND (Off:4 Def:8),,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,393,1,4,3,8:36 PM,6:39,,,Turiaf 1' Tip Shot (6 PTS),80 - 65,-15,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,395,6,4,3,8:37 PM,6:33,Anderson OFF.Foul (P2),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,396,5,5,3,8:37 PM,6:33,Anderson Foul Turnover (P1.T13),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,397,2,1,3,8:37 PM,6:23,,,MISS Barea 25' 3PT Jump Shot,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,398,4,0,3,8:37 PM,6:20,Anderson REBOUND (Off:0 Def:5),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,399,2,5,3,8:37 PM,6:14,MISS Turner 2' Layup,,Cunningham BLOCK (2 BLK),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,401,4,0,3,8:37 PM,6:11,Carter-Williams REBOUND (Off:3 Def:2),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,400,1,87,3,8:37 PM,6:11,Carter-Williams  Putback Dunk (10 PTS),,,80 - 67,-13,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,402,2,5,3,8:37 PM,5:48,,,MISS Barea 2' Layup,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,403,4,0,3,8:37 PM,5:46,Turner REBOUND (Off:2 Def:6),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,404,2,1,3,8:38 PM,5:40,MISS Anderson 25' 3PT Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,405,4,0,3,8:38 PM,5:39,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,406,9,1,3,8:38 PM,5:38,76ERS Timeout: Regular (Full 3 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,408,8,0,3,8:40 PM,5:38,SUB: Wroten FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,409,8,0,3,8:40 PM,5:38,SUB: Allen FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,410,6,26,3,8:40 PM,5:37,Wroten Offensive Charge Foul (P4.T3),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,411,5,5,3,8:40 PM,5:37,Wroten Foul Turnover (P2.T14),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,412,2,1,3,8:41 PM,5:23,,,MISS Hummel 15' Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,413,4,0,3,8:41 PM,5:22,Allen REBOUND (Off:0 Def:1),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,414,2,1,3,8:41 PM,5:15,MISS Carter-Williams 25' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,415,4,0,3,8:41 PM,5:13,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,416,8,0,3,8:41 PM,5:13,SUB: Thompson FOR Anderson,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,417,8,0,3,8:41 PM,5:13,,,SUB: Dieng FOR Turiaf,,,5,101142,Ronny Turiaf,1610612750.0,Minnesota,Timberwolves,MIN,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,418,7,1,3,8:41 PM,5:13,,,Timberwolves Violation: Delay of game Violation,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300095,419,6,18,3,8:42 PM,5:13,,,Timberwolves Foul,,,3,1610612750,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300095,420,3,16,3,8:42 PM,5:13,Wroten Free Throw Technical (5 PTS),,,80 - 68,-12,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,422,2,1,3,8:42 PM,5:07,MISS Carter-Williams 4' Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,423,4,0,3,8:42 PM,5:06,,,Hummel REBOUND (Off:1 Def:3),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,424,1,1,3,8:42 PM,5:01,,,Barea 24' 3PT Jump Shot (22 PTS),83 - 68,-15,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,425,2,5,3,8:42 PM,4:51,MISS Allen 2' Layup,,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,426,4,0,3,8:42 PM,4:50,,,Dieng REBOUND (Off:0 Def:1),,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,427,6,2,3,8:42 PM,4:45,Thompson S.FOUL (P1.T4),,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,428,3,11,3,8:43 PM,4:45,,,MISS Barea Free Throw 1 of 2,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,429,4,1,3,8:43 PM,4:45,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,430,3,12,3,8:43 PM,4:45,,,MISS Barea Free Throw 2 of 2,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,432,4,0,3,8:43 PM,4:43,Carter-Williams REBOUND (Off:3 Def:3),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,433,1,46,3,8:43 PM,4:26,Young 5' Running Jump Shot (7 PTS),,,83 - 70,-13,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,434,2,1,3,8:44 PM,4:06,Young BLOCK (1 BLK),,MISS Dieng 3' Jump Shot,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,435,4,0,3,8:44 PM,4:03,Carter-Williams REBOUND (Off:3 Def:4),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,436,2,5,3,8:44 PM,4:02,MISS Wroten 2' Layup,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,438,4,0,3,8:44 PM,3:59,Young REBOUND (Off:1 Def:1),,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,437,1,5,3,8:44 PM,3:59,Young 1' Layup (9 PTS),,,83 - 72,-11,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,439,6,4,3,8:44 PM,3:36,,,Cunningham OFF.Foul (P1),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,440,5,5,3,8:44 PM,3:36,,,Cunningham Foul Turnover (P2.T9),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300095,441,6,16,3,8:45 PM,3:36,,"Double Technical - Wroten, Cunningham",,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,444,6,11,3,8:45 PM,3:36,,,Cunningham T.FOUL (P1.T3),,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,1,0,,,,,,0
+0011300095,442,3,16,3,8:45 PM,3:36,MISS Wroten Free Throw Technical,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,443,4,1,3,8:45 PM,3:36,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,445,8,0,3,8:46 PM,3:36,,,SUB: Williams FOR Cunningham,,,5,201967,Dante Cunningham,1610612750.0,Minnesota,Timberwolves,MIN,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,446,8,0,3,8:46 PM,3:36,,,SUB: Price FOR Barea,,,5,200826,J.J. Barea,1610612750.0,Minnesota,Timberwolves,MIN,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,447,1,1,3,8:46 PM,3:23,Young 16' Jump Shot (11 PTS) (Thompson 1 AST),,,83 - 74,-9,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,449,5,40,3,8:46 PM,3:05,,,Williams Out of Bounds Lost Ball Turnover (P1.T10),,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,450,6,1,3,8:46 PM,3:05,,,Williams P.FOUL (P1.T4),,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,453,8,0,3,8:47 PM,3:05,SUB: White FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,454,8,0,3,8:47 PM,3:05,SUB: Morris FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,465,6,11,3,8:49 PM,3:05,Wroten T.FOUL (P4.T4),,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,1,0,,,,,,0
+0011300095,466,9,1,3,8:50 PM,3:05,,,Timberwolves Timeout: Regular (Reg.3 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,467,8,0,3,8:51 PM,3:05,SUB: Turner FOR Wroten,,,,,4,203100,Tony Wroten,1610612755.0,Philadelphia,76ers,PHI,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,468,8,0,3,8:51 PM,3:05,,,SUB: Muhammad FOR Hummel,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,469,3,16,3,8:53 PM,3:05,,,Price Free Throw Technical (1 PTS),84 - 74,-10,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,471,2,5,3,8:54 PM,2:50,MISS Turner 3' Layup,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,472,4,0,3,8:54 PM,2:48,,,Williams REBOUND (Off:0 Def:1),,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,473,1,1,3,8:54 PM,2:39,,,Dieng 18' Jump Shot (2 PTS),86 - 74,-12,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,475,2,1,3,8:54 PM,2:26,MISS Thompson 19' Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,476,4,0,3,8:54 PM,2:22,White REBOUND (Off:1 Def:3),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,477,2,1,3,8:54 PM,2:21,MISS White 13' Jump Shot,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,478,4,0,3,8:54 PM,2:19,Thompson REBOUND (Off:1 Def:0),,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,479,1,3,3,8:54 PM,2:18,Thompson 6' Hook Shot (2 PTS),,,86 - 76,-10,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,481,1,78,3,8:55 PM,1:58,,,Muhammad 16' Floating Jump Shot (8 PTS),88 - 76,-12,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,483,2,1,3,8:55 PM,1:44,MISS Turner 25' 3PT Jump Shot,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,484,4,0,3,8:55 PM,1:42,,,Williams REBOUND (Off:0 Def:2),,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,485,1,42,3,8:55 PM,1:31,,,Williams 2' Driving Layup (2 PTS) (Price 1 AST),90 - 76,-14,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,486,6,2,3,8:55 PM,1:31,Allen S.FOUL (P1.PN),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,488,8,0,3,8:55 PM,1:31,,,SUB: Jeffers FOR Shved,,,5,203144,Alexey Shved,1610612750.0,Minnesota,Timberwolves,MIN,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,489,3,10,3,8:56 PM,1:31,,,Williams Free Throw 1 of 1 (3 PTS),91 - 76,-15,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,491,2,1,3,8:56 PM,1:12,MISS Thompson 26' 3PT Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,492,4,0,3,8:56 PM,1:10,,,Jeffers REBOUND (Off:0 Def:1),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,495,6,2,3,8:56 PM,1:03,Allen S.FOUL (P2.PN),,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,496,3,11,3,8:56 PM,1:03,,,Jeffers Free Throw 1 of 2 (1 PTS),92 - 76,-16,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,499,3,12,3,8:57 PM,1:03,,,Jeffers Free Throw 2 of 2 (2 PTS),93 - 76,-17,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,501,2,1,3,8:57 PM,0:49,MISS Thompson 27' 3PT Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,502,4,0,3,8:57 PM,0:46,,,Jeffers REBOUND (Off:0 Def:2),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,504,2,5,3,8:57 PM,0:38,Turner BLOCK (1 BLK),,MISS Williams 3' Layup,,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,505,4,0,3,8:57 PM,0:37,Turner REBOUND (Off:2 Def:7),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,506,2,1,3,8:57 PM,0:32,MISS Morris 3' Jump Shot,,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,508,4,0,3,8:57 PM,0:31,Thompson REBOUND (Off:2 Def:0),,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,507,2,5,3,8:57 PM,0:31,MISS Thompson 2' Layup,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,509,4,0,3,8:57 PM,0:29,,,Muhammad REBOUND (Off:2 Def:2),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,510,5,1,3,8:57 PM,0:24,,,Price Bad Pass Turnover (P1.T11),,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,511,6,2,3,8:58 PM,0:12,,,Dieng S.FOUL (P1.PN),,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,512,3,11,3,8:58 PM,0:12,Turner Free Throw 1 of 2 (10 PTS),,,93 - 77,-16,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,514,3,12,3,8:58 PM,0:12,Turner Free Throw 2 of 2 (11 PTS),,,93 - 78,-15,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,516,1,1,3,8:59 PM,0:01,,,Price 25' 3PT Jump Shot (4 PTS),96 - 78,-18,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,517,13,0,3,8:59 PM,0:00,,End of 3rd Period (8:59 PM EST),,96 - 78,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,519,12,0,4,9:02 PM,12:00,,Start of 4th Period (9:02 PM EST),,96 - 78,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,520,2,1,4,9:02 PM,11:48,,,MISS Price  3PT Jump Shot,,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,521,4,0,4,9:02 PM,11:46,White REBOUND (Off:1 Def:4),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,522,2,1,4,9:02 PM,11:37,MISS Thompson 5' Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,523,4,0,4,9:02 PM,11:36,,,Muhammad REBOUND (Off:2 Def:3),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,524,6,2,4,9:02 PM,11:20,Turner S.FOUL (P4.T1),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,525,3,11,4,9:02 PM,11:20,,,Dieng Free Throw 1 of 2 (3 PTS),97 - 78,-19,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,527,3,12,4,9:03 PM,11:20,,,MISS Dieng Free Throw 2 of 2,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,529,4,0,4,9:03 PM,11:19,Turner REBOUND (Off:2 Def:8),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,530,2,1,4,9:03 PM,11:04,MISS Turner 6' Jump Shot,,Dieng BLOCK (1 BLK),,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,531,4,0,4,9:03 PM,11:03,,,Jeffers REBOUND (Off:0 Def:3),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,532,6,3,4,9:03 PM,11:03,Thompson L.B.FOUL (P2.T2),,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,533,6,1,4,9:04 PM,10:53,Turner P.FOUL (P5.T3),,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,534,8,0,4,9:04 PM,10:53,SUB: Anderson FOR Turner,,,,,4,202323,Evan Turner,1610612755.0,Philadelphia,76ers,PHI,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,535,1,82,4,9:04 PM,10:43,,,Price 7' Driving Bank Shot (6 PTS),99 - 78,-21,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,536,6,2,4,9:05 PM,10:20,,,Muhammad S.FOUL (P3.T1),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,537,3,11,4,9:05 PM,10:20,Allen Free Throw 1 of 2 (1 PTS),,,99 - 79,-20,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,539,3,12,4,9:05 PM,10:20,Allen Free Throw 2 of 2 (2 PTS),,,99 - 80,-19,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,541,2,1,4,9:06 PM,10:01,,,MISS Price 26' 3PT Jump Shot,,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,542,4,0,4,9:06 PM,9:59,Morris REBOUND (Off:0 Def:3),,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,543,2,1,4,9:06 PM,9:51,MISS Morris 26' 3PT Jump Shot,,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,544,4,0,4,9:06 PM,9:50,,,Muhammad REBOUND (Off:2 Def:4),,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,545,1,5,4,9:06 PM,9:40,,,Jeffers  Layup (4 PTS) (Price 2 AST),101 - 80,-21,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,546,2,1,4,9:06 PM,9:33,MISS Thompson 26' 3PT Jump Shot,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,547,4,0,4,9:06 PM,9:31,,,Dieng REBOUND (Off:0 Def:2),,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,548,6,2,4,9:06 PM,9:24,White S.FOUL (P3.T4),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,549,3,11,4,9:07 PM,9:24,,,MISS Dieng Free Throw 1 of 2,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,550,4,1,4,9:07 PM,9:24,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,551,8,0,4,9:07 PM,9:24,SUB: Hawes FOR Allen,,,,,4,202730,Lavoy Allen,1610612755.0,Philadelphia,76ers,PHI,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,552,3,12,4,9:07 PM,9:24,,,Dieng Free Throw 2 of 2 (4 PTS),102 - 80,-22,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,554,6,2,4,9:08 PM,9:12,,,Price S.FOUL (P1.T2),,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,555,3,11,4,9:08 PM,9:12,MISS White Free Throw 1 of 2,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,556,4,1,4,9:08 PM,9:12,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,557,3,12,4,9:08 PM,9:12,MISS White Free Throw 2 of 2,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,559,4,0,4,9:08 PM,9:09,,,Jeffers REBOUND (Off:0 Def:4),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,560,1,1,4,9:08 PM,8:47,,,Williams 16' Jump Shot (5 PTS) (Price 3 AST),104 - 80,-24,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,561,1,1,4,9:09 PM,8:36,Anderson 29' 3PT Jump Shot (23 PTS) (White 1 AST),,,104 - 83,-21,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,562,2,1,4,9:09 PM,8:23,,,MISS Williams 19' Jump Shot,,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,563,4,0,4,9:09 PM,8:20,,,Dieng REBOUND (Off:1 Def:2),,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,564,1,1,4,9:09 PM,8:16,,,Price 26' 3PT Jump Shot (9 PTS) (Dieng 1 AST),107 - 83,-24,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,565,1,5,4,9:09 PM,8:03,Thompson 3' Layup (4 PTS) (Hawes 1 AST),,,107 - 85,-22,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,566,6,1,4,9:09 PM,7:55,Morris P.FOUL (P1.PN),,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,567,9,4,4,9:09 PM,7:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,568,3,11,4,9:11 PM,7:55,,,MISS Price Free Throw 1 of 2,,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,572,4,1,4,9:11 PM,7:55,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,569,8,0,4,9:11 PM,7:55,SUB: Carter-Williams FOR Morris,,,,,4,202721,Darius Morris,1610612755.0,Philadelphia,76ers,PHI,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,570,8,0,4,9:12 PM,7:55,SUB: Young FOR White,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,571,8,0,4,9:12 PM,7:55,,,SUB: Brown FOR Muhammad,,,5,203498,Shabazz Muhammad,1610612750.0,Minnesota,Timberwolves,MIN,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,573,3,12,4,9:12 PM,7:55,,,Price Free Throw 2 of 2 (10 PTS),108 - 85,-23,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,575,5,1,4,9:12 PM,7:32,Carter-Williams Bad Pass Turnover (P2.T15),,Jeffers STEAL (1 STL),,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,576,2,5,4,9:13 PM,7:28,,,MISS Jeffers 1' Layup,,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,577,4,0,4,9:13 PM,7:26,Anderson REBOUND (Off:0 Def:6),,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,578,6,2,4,9:13 PM,7:17,,,Dieng S.FOUL (P2.T3),,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,579,3,13,4,9:13 PM,7:17,MISS Thompson Free Throw 1 of 3,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,580,4,1,4,9:13 PM,7:17,76ERS Rebound,,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,581,3,14,4,9:13 PM,7:17,Thompson Free Throw 2 of 3 (5 PTS),,,108 - 86,-22,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,583,3,15,4,9:13 PM,7:17,Thompson Free Throw 3 of 3 (6 PTS),,,108 - 87,-21,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,585,1,5,4,9:14 PM,7:03,,,Dieng 2' Layup (6 PTS) (Price 4 AST),110 - 87,-23,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,586,1,7,4,9:14 PM,6:53,Hawes 1' Dunk (10 PTS) (Anderson 2 AST),,,110 - 89,-21,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,587,2,1,4,9:14 PM,6:35,Thompson BLOCK (1 BLK),,MISS Dieng 5' Jump Shot,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,0
+0011300095,588,4,0,4,9:14 PM,6:33,Hawes REBOUND (Off:3 Def:2),,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,589,2,5,4,9:14 PM,6:29,MISS Hawes 2' Layup,,Dieng BLOCK (2 BLK),,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,590,4,0,4,9:14 PM,6:27,,,Williams REBOUND (Off:0 Def:3),,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,591,5,1,4,9:14 PM,6:22,Carter-Williams STEAL (5 STL),,Jeffers Bad Pass Turnover (P1.T12),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,592,2,1,4,9:14 PM,6:17,MISS Anderson 26' 3PT Jump Shot,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,593,4,0,4,9:15 PM,6:15,,,Dieng REBOUND (Off:1 Def:3),,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,594,1,1,4,9:15 PM,6:05,,,Williams 26' 3PT Jump Shot (8 PTS) (Price 5 AST),113 - 89,-24,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,595,1,1,4,9:15 PM,5:45,Carter-Williams 26' 3PT Jump Shot (13 PTS) (Young 3 AST),,,113 - 92,-21,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,596,9,1,4,9:15 PM,5:44,,,Timberwolves Timeout: Regular (Reg.4 Short 0),,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,597,8,0,4,9:17 PM,5:44,SUB: Orton FOR Hawes,,,,,4,201150,Spencer Hawes,1610612755.0,Philadelphia,76ers,PHI,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,606,8,0,4,9:17 PM,5:44,,,SUB: Johnson FOR Dieng,,,5,203476,Gorgui Dieng,1610612750.0,Minnesota,Timberwolves,MIN,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,598,8,0,4,9:17 PM,5:44,SUB: White FOR Young,,,,,4,201152,Thaddeus Young,1610612755.0,Philadelphia,76ers,PHI,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,599,8,0,4,9:17 PM,5:44,SUB: Wyatt FOR Anderson,,,,,4,202341,James Anderson,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,603,8,0,4,9:18 PM,5:44,,,SUB: Hummel FOR Williams,,,5,202682,Derrick Williams,1610612750.0,Minnesota,Timberwolves,MIN,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,600,8,0,4,9:18 PM,5:44,SUB: Blue FOR Thompson,,,,,4,203138,Hollis Thompson,1610612755.0,Philadelphia,76ers,PHI,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,601,2,1,4,9:18 PM,5:24,,,MISS Brown 20' Jump Shot,,,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,602,4,0,4,9:18 PM,5:19,Blue REBOUND (Off:0 Def:1),,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,604,2,1,4,9:18 PM,5:12,MISS Carter-Williams 26' 3PT Jump Shot,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,605,4,0,4,9:18 PM,5:10,,,Johnson REBOUND (Off:0 Def:1),,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,607,2,1,4,9:18 PM,4:59,,,MISS Johnson 18' Jump Shot,,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,608,4,0,4,9:18 PM,4:57,Carter-Williams REBOUND (Off:3 Def:5),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,609,2,1,4,9:18 PM,4:50,MISS Wyatt 4' Jump Shot,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,611,4,0,4,9:18 PM,4:48,Carter-Williams REBOUND (Off:4 Def:5),,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,610,2,5,4,9:18 PM,4:48,MISS Carter-Williams 1' Layup,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,613,4,0,4,9:18 PM,4:45,Blue REBOUND (Off:1 Def:1),,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,612,2,4,4,9:18 PM,4:45,MISS Blue 1' Tip Shot,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,615,4,0,4,9:18 PM,4:43,Blue REBOUND (Off:2 Def:1),,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,614,2,4,4,9:18 PM,4:43,MISS Blue 1' Tip Shot,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,616,4,0,4,9:19 PM,4:37,,,Johnson REBOUND (Off:0 Def:2),,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,617,2,1,4,9:19 PM,4:31,,,MISS Price 20' Jump Shot,,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,618,4,0,4,9:19 PM,4:29,White REBOUND (Off:1 Def:5),,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,619,2,1,4,9:19 PM,4:23,MISS Wyatt 26' 3PT Jump Shot,,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,620,4,0,4,9:19 PM,4:22,,,Brown REBOUND (Off:0 Def:1),,,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,621,5,1,4,9:19 PM,4:12,Blue STEAL (1 STL),,Price Bad Pass Turnover (P2.T13),,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,622,6,2,4,9:19 PM,4:08,,,Jeffers S.FOUL (P1.T4),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,624,3,11,4,9:19 PM,4:08,Carter-Williams Free Throw 1 of 2 (14 PTS),,,113 - 93,-20,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,626,3,12,4,9:20 PM,4:08,Carter-Williams Free Throw 2 of 2 (15 PTS),,,113 - 94,-19,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,629,2,1,4,9:20 PM,3:54,,,MISS Price 25' 3PT Jump Shot,,,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,630,4,0,4,9:20 PM,3:52,,,Hummel REBOUND (Off:2 Def:3),,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,631,1,46,4,9:20 PM,3:43,,,Brown 13' Running Jump Shot (2 PTS),115 - 94,-21,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,632,5,1,4,9:20 PM,3:39,White Bad Pass Turnover (P3.T16),,Price STEAL (1 STL),,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,5,201985,AJ Price,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,633,2,1,4,9:20 PM,3:36,,,MISS Brown 15' Jump Shot,,,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,634,4,0,4,9:20 PM,3:34,,,Timberwolves Rebound,,,3,1610612750,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,635,8,0,4,9:20 PM,3:34,SUB: Williams FOR Carter-Williams,,,,,4,203487,Michael Carter-Williams,1610612755.0,Philadelphia,76ers,PHI,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,636,1,1,4,9:21 PM,3:32,,,Brown 14' Jump Shot (4 PTS) (Jeffers 1 AST),117 - 94,-23,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,637,1,49,4,9:21 PM,3:25,Williams 1' Driving Dunk (2 PTS) (Wyatt 1 AST),,,117 - 96,-21,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,638,6,6,4,9:21 PM,3:25,,,Johnson AWAY.FROM.PLAY.FOUL (P1.PN),,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,639,3,10,4,9:21 PM,3:25,Orton Free Throw 1 of 1 (5 PTS),,,117 - 97,-20,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,640,5,1,4,9:21 PM,3:14,Wyatt STEAL (1 STL),,Johnson Bad Pass Turnover (P1.T14),,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0
+0011300095,642,5,2,4,9:22 PM,3:04,Orton Lost Ball Turnover (P1.T17),,Brown STEAL (1 STL),,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,641,10,0,4,9:22 PM,3:04,Jump Ball Orton vs. Brown: Tip to Hummel,,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,643,1,7,4,9:22 PM,2:59,,,Jeffers 2' Dunk (6 PTS) (Hummel 3 AST),119 - 97,-22,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,644,2,1,4,9:22 PM,2:39,MISS Williams 26' 3PT Jump Shot,,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,645,4,0,4,9:22 PM,2:37,,,Johnson REBOUND (Off:0 Def:3),,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,646,2,1,4,9:23 PM,2:21,,,MISS Hummel  3PT Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,647,4,0,4,9:23 PM,2:20,Williams REBOUND (Off:0 Def:2),,,,,4,203576,Rodney Williams,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,648,2,5,4,9:23 PM,2:07,MISS Blue 3' Layup,,,,,4,203505,Vander Blue,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,649,4,0,4,9:23 PM,2:06,,,Brown REBOUND (Off:0 Def:2),,,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,650,6,1,4,9:23 PM,1:56,Orton P.FOUL (P2.PN),,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,651,9,1,4,9:23 PM,1:56,76ERS Timeout: Regular (Full 4 Short 1),,,,,2,1610612755,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300095,652,3,11,4,9:26 PM,1:56,,,Johnson Free Throw 1 of 2 (1 PTS),120 - 97,-23,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,654,3,12,4,9:26 PM,1:56,,,Johnson Free Throw 2 of 2 (2 PTS),121 - 97,-24,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,656,2,1,4,9:26 PM,1:46,MISS White 25' 3PT Jump Shot,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,657,4,0,4,9:26 PM,1:44,,,Jeffers REBOUND (Off:0 Def:5),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,658,6,1,4,9:26 PM,1:35,Wyatt P.FOUL (P1.PN),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,1,0,,,,,,0
+0011300095,659,3,11,4,9:27 PM,1:35,,,Brown Free Throw 1 of 2 (5 PTS),122 - 97,-25,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,661,3,12,4,9:27 PM,1:35,,,Brown Free Throw 2 of 2 (6 PTS),123 - 97,-26,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,663,2,5,4,9:27 PM,1:25,MISS Orton 3' Layup,,Johnson BLOCK (1 BLK),,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,0
+0011300095,664,4,0,4,9:27 PM,1:23,Orton REBOUND (Off:2 Def:2),,,,,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,665,6,2,4,9:27 PM,1:23,,,Johnson S.FOUL (P2.PN),,,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,1,0,,,,,,0
+0011300095,666,3,11,4,9:27 PM,1:23,Orton Free Throw 1 of 2 (6 PTS),,,123 - 98,-25,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,668,3,12,4,9:27 PM,1:23,Orton Free Throw 2 of 2 (7 PTS),,,123 - 99,-24,4,202350,Daniel Orton,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,670,1,1,4,9:28 PM,1:11,,,Johnson 16' Jump Shot (4 PTS) (Jeffers 2 AST),125 - 99,-26,5,202419,Chris Johnson,1610612750.0,Minnesota,Timberwolves,MIN,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0
+0011300095,671,1,1,4,9:28 PM,1:02,Wyatt 27' 3PT Jump Shot (3 PTS),,,125 - 102,-23,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,672,2,1,4,9:28 PM,0:47,,,MISS Hummel 27' 3PT Jump Shot,,,5,203133,Robbie Hummel,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,673,4,0,4,9:28 PM,0:46,Wyatt REBOUND (Off:0 Def:1),,,,,4,203579,Khalif Wyatt,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,675,2,1,4,9:29 PM,0:40,MISS White  3PT Jump Shot,,,,,4,203091,Royce White,1610612755.0,Philadelphia,76ers,PHI,0,0,,,,,,0,0,,,,,,0
+0011300095,676,4,0,4,9:29 PM,0:38,,,Jeffers REBOUND (Off:0 Def:6),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,677,2,1,4,9:29 PM,0:21,,,MISS Brown 27' 3PT Jump Shot,,,5,203485,Lorenzo Brown,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,678,4,0,4,9:29 PM,0:20,,,Jeffers REBOUND (Off:1 Def:6),,,5,201785,Othyus Jeffers,1610612750.0,Minnesota,Timberwolves,MIN,0,0,,,,,,0,0,,,,,,0
+0011300095,679,13,0,4,9:29 PM,0:00,,End of 4th Period (9:29 PM EST),,125 - 102,-23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

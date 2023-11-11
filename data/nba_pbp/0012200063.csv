@@ -1,0 +1,471 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200063,2,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,4,10,0,1,7:11 PM,12:00,Jump Ball Carter Jr. vs. E. Mobley: Tip to Neto,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,1
+0012200063,7,6,2,1,7:11 PM,11:39,Bamba S.FOUL (P1.T1) (R.Acosta),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,9,3,11,1,7:12 PM,11:39,,,E. Mobley Free Throw 1 of 2 (1 PTS),1 - 0,-1,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,10,3,12,1,7:12 PM,11:39,,,E. Mobley Free Throw 2 of 2 (2 PTS),2 - 0,-2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,11,6,17,1,7:12 PM,11:29,,,Cavaliers T.Foul (Def. 3 Sec E. Mobley ) (B.Taylor),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0012200063,12,3,16,1,7:12 PM,11:29,Anthony Free Throw Technical (1 PTS),,,2 - 1,-1,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,13,6,2,1,7:13 PM,11:22,,,Osman S.FOUL (P1.T1) (B.Taylor),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,15,3,11,1,7:13 PM,11:22,MISS Carter Jr. Free Throw 1 of 2,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,16,4,1,1,7:13 PM,11:22,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,17,3,12,1,7:14 PM,11:22,Carter Jr. Free Throw 2 of 2 (1 PTS),,,2 - 2,TIE,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,18,6,2,1,7:14 PM,11:08,Banchero S.FOUL (P1.T2) (B.Taylor),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,20,3,11,1,7:14 PM,11:08,,,E. Mobley Free Throw 1 of 2 (3 PTS),3 - 2,-1,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,21,3,12,1,7:14 PM,11:08,,,MISS E. Mobley Free Throw 2 of 2,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,22,4,0,1,7:14 PM,11:06,Banchero REBOUND (Off:0 Def:1),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,23,2,75,1,7:15 PM,10:56,MISS Anthony 2' Driving Finger Roll Layup,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,24,4,0,1,7:15 PM,10:53,Bamba REBOUND (Off:1 Def:0),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,25,1,87,1,7:15 PM,10:53,Bamba 1' Putback Dunk (2 PTS),,,3 - 4,1,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,26,1,1,1,7:15 PM,10:42,,,Osman 28' 3PT Jump Shot (3 PTS) (E. Mobley 1 AST),6 - 4,-2,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,28,2,79,1,7:15 PM,10:28,MISS F. Wagner 8' Pullup Jump Shot,,Okoro BLOCK (1 BLK),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1
+0012200063,30,4,0,1,7:15 PM,10:24,F. Wagner REBOUND (Off:1 Def:0),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,31,1,1,1,7:15 PM,10:23,Carter Jr. 3PT Jump Shot (4 PTS) (Anthony 1 AST),,,6 - 7,1,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,31,1,1,1,7:15 PM,10:23,Carter Jr. 3PT Jump Shot (4 PTS) (Anthony 1 AST),,,6 - 7,1,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,33,6,2,1,7:15 PM,10:10,Banchero S.FOUL (P2.T3) (R.Hussey),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,35,3,11,1,7:16 PM,10:10,,,Osman Free Throw 1 of 2 (4 PTS),7 - 7,TIE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,36,3,12,1,7:16 PM,10:10,,,Osman Free Throw 2 of 2 (5 PTS),8 - 7,-1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,37,1,9,1,7:17 PM,9:56,F. Wagner 1' Driving Dunk (2 PTS),,,8 - 9,1,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,38,2,79,1,7:17 PM,9:38,,,MISS LeVert 14' Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,39,4,0,1,7:17 PM,9:36,Carter Jr. REBOUND (Off:0 Def:1),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,40,5,1,1,7:17 PM,9:23,F. Wagner Bad Pass Turnover (P1.T1),,LeVert STEAL (1 STL),,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,42,5,1,1,7:17 PM,9:17,Carter Jr. STEAL (1 STL),,LeVert Bad Pass Turnover (P1.T1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,44,5,1,1,7:17 PM,9:01,Banchero Bad Pass Turnover (P1.T2),,LeVert STEAL (2 STL),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,46,1,41,1,7:18 PM,8:53,,,Okoro 3' Running Layup (2 PTS) (Osman 1 AST),10 - 9,-1,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,48,5,45,1,7:18 PM,8:41,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200063,49,6,2,1,7:18 PM,8:30,Carter Jr. S.FOUL (P1.T4) (R.Acosta),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,51,3,11,1,7:19 PM,8:30,,,E. Mobley Free Throw 1 of 2 (4 PTS),11 - 9,-2,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,52,3,12,1,7:19 PM,8:30,,,E. Mobley Free Throw 2 of 2 (5 PTS),12 - 9,-3,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,53,1,79,1,7:19 PM,8:17,Anthony 14' Pullup Jump Shot (3 PTS) (Banchero 1 AST),,,12 - 11,-1,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,55,2,79,1,7:19 PM,7:58,,,MISS E. Mobley 18' Pullup Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,56,4,0,1,7:19 PM,7:55,F. Wagner REBOUND (Off:1 Def:1),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,57,1,101,1,7:20 PM,7:45,Anthony 11' Driving Floating Jump Shot (5 PTS) (F. Wagner 1 AST),,,12 - 13,1,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,59,2,1,1,7:20 PM,7:35,,,MISS Osman 26' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,60,4,0,1,7:20 PM,7:30,,,Okoro REBOUND (Off:1 Def:0),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,61,2,1,1,7:20 PM,7:28,,,MISS Neto 27' 3PT Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,62,4,0,1,7:20 PM,7:25,Bamba REBOUND (Off:1 Def:1),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,63,2,2,1,7:20 PM,7:23,MISS Banchero 26' 3PT Running Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,64,4,0,1,7:20 PM,7:21,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,66,8,0,1,7:20 PM,7:21,,,SUB: Lopez FOR E. Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,68,6,6,1,7:21 PM,7:20,,,Okoro AWAY.FROM.PLAY.FOUL (P1.T2) (B.Taylor),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,70,3,10,1,7:21 PM,7:20,Anthony Free Throw 1 of 1 (6 PTS),,,12 - 14,2,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,71,2,6,1,7:21 PM,7:14,MISS Carter Jr. 2' Driving Layup,,Lopez BLOCK (1 BLK),,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,1
+0012200063,73,4,0,1,7:22 PM,7:10,,,LeVert REBOUND (Off:0 Def:1),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,74,2,79,1,7:22 PM,7:06,,,MISS LeVert 27' 3PT Pullup Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,75,4,0,1,7:22 PM,7:06,,,Lopez REBOUND (Off:1 Def:0),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,76,2,97,1,7:22 PM,7:01,,,MISS Lopez Tip Layup Shot,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,77,4,0,1,7:22 PM,7:00,,,Lopez REBOUND (Off:2 Def:0),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,78,2,1,1,7:22 PM,6:58,,,MISS Osman 27' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,79,4,0,1,7:22 PM,6:56,Banchero REBOUND (Off:0 Def:2),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,80,2,80,1,7:22 PM,6:37,MISS F. Wagner 25' 3PT Step Back Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,81,4,0,1,7:22 PM,6:33,Banchero REBOUND (Off:1 Def:2),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,83,1,73,1,7:22 PM,6:30,Banchero 1' Driving Reverse Layup (2 PTS),,,12 - 16,4,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,84,1,101,1,7:22 PM,6:22,,,Neto 8' Driving Floating Jump Shot (2 PTS),14 - 16,2,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,85,2,1,1,7:23 PM,6:07,MISS Carter Jr. 25' 3PT Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,86,4,0,1,7:23 PM,6:06,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200063,87,6,3,1,7:23 PM,6:06,F. Wagner L.B.FOUL (P1.PN) (B.Taylor),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,89,9,1,1,7:23 PM,6:06,MAGIC Timeout: Regular (Full 1 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,90,8,0,1,7:23 PM,6:06,SUB: Hampton FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,91,8,0,1,7:23 PM,6:06,SUB: Okeke FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,94,3,11,1,7:26 PM,6:06,,,MISS Osman Free Throw 1 of 2,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,95,4,1,1,7:26 PM,6:06,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,96,3,12,1,7:26 PM,6:06,,,Osman Free Throw 2 of 2 (6 PTS),15 - 16,1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,98,8,0,1,7:27 PM,5:57,,,SUB: Stevens FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,100,6,2,1,7:27 PM,5:51,,,Neto S.FOUL (P1.T3) (R.Hussey),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,102,3,11,1,7:28 PM,5:51,Anthony Free Throw 1 of 2 (7 PTS),,,15 - 17,2,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,103,3,12,1,7:28 PM,5:51,Anthony Free Throw 2 of 2 (8 PTS),,,15 - 18,3,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,104,1,98,1,7:28 PM,5:37,,,Neto 4' Cutting Layup Shot (4 PTS) (LeVert 1 AST),17 - 18,1,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,106,5,1,1,7:28 PM,5:24,Anthony Bad Pass Turnover (P1.T4),,Neto STEAL (1 STL),,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,108,1,41,1,7:28 PM,5:19,,,Okoro 3' Running Layup (4 PTS) (Neto 1 AST),19 - 18,-1,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,110,2,1,1,7:29 PM,4:55,MISS Okeke 26' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,111,4,0,1,7:29 PM,4:51,,,Lopez REBOUND (Off:2 Def:1),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,112,5,45,1,7:29 PM,4:42,,,LeVert Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0012200063,113,6,1,1,7:29 PM,4:37,,,Okoro P.FOUL (P2.T4) (B.Taylor),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,115,8,0,1,7:29 PM,4:37,SUB: Ross FOR Anthony,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,116,8,0,1,7:29 PM,4:37,,,SUB: I. Mobley FOR Lopez,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,117,8,0,1,7:29 PM,4:37,,,SUB: E. Mobley FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,121,5,1,1,7:30 PM,4:28,Okeke Bad Pass Turnover (P1.T5),,LeVert STEAL (3 STL),,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,123,2,63,1,7:30 PM,4:16,,,MISS E. Mobley 13' Fadeaway Jumper,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,124,4,0,1,7:30 PM,4:12,Carter Jr. REBOUND (Off:0 Def:2),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,125,1,102,1,7:30 PM,3:55,Hampton 3' Driving Floating Bank Jump Shot (2 PTS),,,19 - 20,1,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,126,1,101,1,7:31 PM,3:41,,,I. Mobley 10' Driving Floating Jump Shot (2 PTS) (Neto 2 AST),21 - 20,-1,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,128,2,6,1,7:31 PM,3:21,MISS Banchero 3' Driving Layup,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,129,4,0,1,7:31 PM,3:17,,,Neto REBOUND (Off:0 Def:1),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,130,2,1,1,7:31 PM,2:59,,,MISS Neto 26' 3PT Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,131,4,0,1,7:31 PM,2:55,Hampton REBOUND (Off:0 Def:1),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,132,1,75,1,7:32 PM,2:39,Banchero 3' Driving Finger Roll Layup (4 PTS) (Okeke 1 AST),,,21 - 22,1,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,134,2,101,1,7:32 PM,2:17,,,MISS LeVert 8' Driving Floating Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,135,4,0,1,7:32 PM,2:16,Carter Jr. REBOUND (Off:0 Def:3),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,136,1,44,1,7:32 PM,2:06,Carter Jr. 3' Reverse Layup (6 PTS) (Banchero 2 AST),,,21 - 24,3,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,138,9,1,1,7:32 PM,2:06,,,Cavaliers Timeout: Regular (Reg.1 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,139,8,0,1,7:32 PM,2:06,SUB: M. Wagner FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,140,8,0,1,7:32 PM,2:06,SUB: Bol FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,141,8,0,1,7:32 PM,2:06,,,SUB: Osman FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,142,8,0,1,7:32 PM,2:06,,,SUB: Nembhard Jr. FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,147,5,1,1,7:36 PM,1:44,Okeke STEAL (1 STL),,E. Mobley Bad Pass Turnover (P1.T3),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,149,2,101,1,7:36 PM,1:24,MISS Ross 11' Driving Floating Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,150,4,0,1,7:36 PM,1:20,,,E. Mobley REBOUND (Off:0 Def:1),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,151,2,1,1,7:36 PM,1:13,Bol BLOCK (1 BLK),,MISS Osman 25' 3PT Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0012200063,152,4,0,1,7:36 PM,1:10,Okeke REBOUND (Off:0 Def:1),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,153,2,1,1,7:36 PM,1:04,MISS Okeke 25' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,154,4,0,1,7:36 PM,1:00,,,Osman REBOUND (Off:0 Def:1),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,155,2,2,1,7:36 PM,0:56,,,MISS I. Mobley 27' 3PT Running Jump Shot,,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,156,4,0,1,7:36 PM,0:54,M. Wagner REBOUND (Off:0 Def:1),,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,157,1,6,1,7:37 PM,0:44,Bol 4' Driving Layup (2 PTS) (Hampton 1 AST),,,21 - 26,5,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,159,6,2,1,7:37 PM,0:44,,,E. Mobley S.FOUL (P1.PN) (R.Hussey),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,161,8,0,1,7:37 PM,0:44,SUB: F. Wagner FOR Hampton,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,163,3,10,1,7:37 PM,0:44,MISS Bol Free Throw 1 of 1,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,164,4,0,1,7:37 PM,0:41,,,Nembhard Jr. REBOUND (Off:0 Def:1),,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,166,6,2,1,7:38 PM,0:26,Bol S.FOUL (P1.PN) (R.Hussey),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,168,3,11,1,7:38 PM,0:26,,,Stevens Free Throw 1 of 2 (1 PTS),22 - 26,4,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,169,3,12,1,7:38 PM,0:26,,,Stevens Free Throw 2 of 2 (2 PTS),23 - 26,3,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,170,2,1,1,7:39 PM,0:08,MISS M. Wagner 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,171,4,0,1,7:39 PM,0:04,,,Osman REBOUND (Off:0 Def:2),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,172,1,41,1,7:39 PM,0:02,,,Osman 2' Running Layup (8 PTS),25 - 26,1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,174,2,1,1,7:39 PM,0:00,MISS F. Wagner 45' 3PT Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,175,4,0,1,7:39 PM,0:00,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,176,13,0,1,7:39 PM,0:00,,End of 1st Period (7:39 PM EST),,25 - 26,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200063,177,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,25 - 26,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,178,1,102,2,7:42 PM,11:45,F. Wagner 6' Driving Floating Bank Jump Shot (4 PTS),,,25 - 28,3,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,179,1,58,2,7:42 PM,11:32,,,E. Mobley 2' Turnaround Hook Shot (7 PTS) (I. Mobley 1 AST),27 - 28,1,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,181,7,2,2,7:42 PM,11:32,Bol Violation:Defensive Goaltending (B.Taylor),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200063,182,6,2,2,7:42 PM,11:20,,,E. Mobley S.FOUL (P2.T1) (B.Taylor),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,184,3,11,2,7:43 PM,11:20,F. Wagner Free Throw 1 of 2 (5 PTS),,,27 - 29,2,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,185,3,12,2,7:43 PM,11:20,F. Wagner Free Throw 2 of 2 (6 PTS),,,27 - 30,3,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,186,1,1,2,7:43 PM,11:00,,,Stevens 26' 3PT Jump Shot (5 PTS) (Nembhard Jr. 1 AST),30 - 30,TIE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,188,2,1,2,7:44 PM,10:41,MISS M. Wagner 26' 3PT Jump Shot,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,189,4,0,2,7:44 PM,10:39,Okeke REBOUND (Off:1 Def:1),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,190,2,1,2,7:44 PM,10:38,MISS F. Wagner 25' 3PT Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,191,4,0,2,7:44 PM,10:37,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,193,2,6,2,7:44 PM,10:18,,,MISS Nembhard Jr. 3' Driving Layup,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,194,4,0,2,7:44 PM,10:15,F. Wagner REBOUND (Off:1 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,195,2,1,2,7:44 PM,10:11,MISS Okeke 25' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,196,4,0,2,7:44 PM,10:07,,,Osman REBOUND (Off:0 Def:3),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,197,6,2,2,7:44 PM,10:06,F. Wagner S.FOUL (P2.T1) (R.Hussey),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,199,3,11,2,7:45 PM,10:06,,,Stevens Free Throw 1 of 2 (6 PTS),31 - 30,-1,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,200,8,0,2,7:45 PM,10:06,,,SUB: Lopez FOR E. Mobley,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,201,8,0,2,7:45 PM,10:06,,,SUB: Diakite FOR I. Mobley,,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,204,3,12,2,7:45 PM,10:06,,,Stevens Free Throw 2 of 2 (7 PTS),32 - 30,-2,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,205,6,2,2,7:46 PM,9:56,,,Diakite S.FOUL (P1.T2) (R.Hussey),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,207,3,11,2,7:46 PM,9:56,F. Wagner Free Throw 1 of 2 (7 PTS),,,32 - 31,-1,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,208,3,12,2,7:46 PM,9:56,F. Wagner Free Throw 2 of 2 (8 PTS),,,32 - 32,TIE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,209,6,4,2,7:47 PM,9:48,,,Lopez OFF.Foul (P1) (B.Taylor),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,211,5,37,2,7:47 PM,9:48,,,Lopez Offensive Foul Turnover (P1.T4),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0012200063,212,1,1,2,7:47 PM,9:37,M. Wagner 25' 3PT Jump Shot (3 PTS) (F. Wagner 2 AST),,,32 - 35,3,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,214,6,1,2,7:47 PM,9:22,F. Wagner P.FOUL (P3.T2) (R.Acosta),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,216,2,80,2,7:48 PM,9:11,,,MISS Nembhard Jr. 19' Step Back Jump Shot,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,217,4,0,2,7:48 PM,9:07,Okeke REBOUND (Off:1 Def:2),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,218,1,1,2,7:48 PM,8:53,Ross 25' 3PT Jump Shot (3 PTS) (Bol 1 AST),,,32 - 38,6,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,220,2,102,2,7:48 PM,8:43,,,MISS Nembhard Jr. 15' Driving Floating Bank Jump Shot,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,221,4,0,2,7:48 PM,8:39,Bol REBOUND (Off:0 Def:1),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,222,2,1,2,7:48 PM,8:32,MISS Ross 25' 3PT Jump Shot,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,223,4,0,2,7:48 PM,8:29,,,Stevens REBOUND (Off:0 Def:1),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,224,5,1,2,7:49 PM,8:14,F. Wagner STEAL (1 STL),,Lopez Bad Pass Turnover (P2.T5),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,226,2,76,2,7:49 PM,8:08,MISS F. Wagner 2' Running Finger Roll Layup,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,227,4,0,2,7:49 PM,8:08,Bol REBOUND (Off:1 Def:1),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,228,1,107,2,7:49 PM,8:08,Bol Tip Dunk Shot (4 PTS),,,32 - 40,8,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,229,9,1,2,7:49 PM,8:08,,,Cavaliers Timeout: Regular (Reg.2 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,230,8,0,2,7:51 PM,8:08,SUB: Banchero FOR Okeke,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,231,8,0,2,7:51 PM,8:08,SUB: Hampton FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,232,8,0,2,7:51 PM,8:08,,,SUB: Okoro FOR Nembhard Jr.,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,233,8,0,2,7:51 PM,8:08,,,SUB: LeVert FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,238,2,6,2,7:52 PM,7:51,Bol BLOCK (2 BLK),,MISS Osman 4' Driving Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1
+0012200063,240,4,0,2,7:52 PM,7:47,Bol REBOUND (Off:1 Def:2),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,241,6,2,2,7:52 PM,7:32,,,LeVert S.FOUL (P1.T3) (R.Hussey),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,243,3,11,2,7:53 PM,7:32,Bol Free Throw 1 of 2 (5 PTS),,,32 - 41,9,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,244,8,0,2,7:53 PM,7:32,SUB: Carter Jr. FOR M. Wagner,,,,,4,1629021,Moritz Wagner,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,245,8,0,2,7:53 PM,7:32,,,SUB: Neto FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,248,3,12,2,7:53 PM,7:32,Bol Free Throw 2 of 2 (6 PTS),,,32 - 42,10,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,249,1,57,2,7:54 PM,7:13,,,Okoro 7' Driving Hook Shot (6 PTS),34 - 42,8,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,250,7,2,2,7:54 PM,7:13,Bol Violation:Defensive Goaltending (B.Taylor),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200063,251,1,80,2,7:54 PM,6:49,Banchero 18' Step Back Jump Shot (6 PTS),,,34 - 44,10,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,252,1,80,2,7:55 PM,6:29,,,LeVert 24' 3PT Step Back Jump Shot (3 PTS),37 - 44,7,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,253,2,47,2,7:55 PM,6:05,MISS Carter Jr. 16' Turnaround Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,254,4,0,2,7:55 PM,6:02,,,Diakite REBOUND (Off:0 Def:1),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,255,2,58,2,7:55 PM,5:44,,,MISS Lopez 7' Turnaround Hook Shot,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,256,4,0,2,7:55 PM,5:42,Banchero REBOUND (Off:1 Def:3),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,257,2,1,2,7:56 PM,5:36,MISS Bol 26' 3PT Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,258,4,0,2,7:56 PM,5:31,,,LeVert REBOUND (Off:0 Def:2),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,259,5,1,2,7:56 PM,5:23,Bol STEAL (1 STL),,Neto Bad Pass Turnover (P1.T6),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,261,6,1,2,7:56 PM,5:21,,,Neto P.FOUL (P2.T4) (B.Taylor),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,263,8,0,2,7:56 PM,5:21,SUB: Bamba FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,264,8,0,2,7:56 PM,5:21,,,SUB: E. Mobley FOR Lopez,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,267,5,1,2,7:57 PM,5:05,Ross Bad Pass Turnover (P1.T6),,E. Mobley STEAL (1 STL),,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,269,6,2,2,7:57 PM,4:59,Bamba S.FOUL (P2.T3) (B.Taylor),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,271,3,11,2,7:57 PM,4:59,,,LeVert Free Throw 1 of 2 (4 PTS),38 - 44,6,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,272,8,0,2,7:57 PM,4:59,SUB: Anthony FOR Ross,,,,,4,203082,Terrence Ross,1610612753.0,Orlando,Magic,ORL,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,274,3,12,2,7:57 PM,4:59,,,LeVert Free Throw 2 of 2 (5 PTS),39 - 44,5,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,275,2,5,2,7:58 PM,4:36,MISS Bamba 2' Layup,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,276,4,0,2,7:58 PM,4:32,Bamba REBOUND (Off:2 Def:1),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,277,2,97,2,7:58 PM,4:32,MISS Bamba Tip Layup Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,278,4,0,2,7:58 PM,4:32,,,LeVert REBOUND (Off:0 Def:3),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,279,2,2,2,7:58 PM,4:28,,,MISS E. Mobley 25' 3PT Running Jump Shot,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,280,4,0,2,7:58 PM,4:25,Bamba REBOUND (Off:2 Def:2),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,281,6,2,2,7:58 PM,4:17,,,Diakite S.FOUL (P2.PN) (R.Hussey),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,283,3,11,2,7:59 PM,4:17,Banchero Free Throw 1 of 2 (7 PTS),,,39 - 45,6,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,284,3,12,2,7:59 PM,4:17,Banchero Free Throw 2 of 2 (8 PTS),,,39 - 46,7,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,285,6,2,2,7:59 PM,3:56,Hampton S.FOUL (P1.T4) (R.Hussey),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,287,3,11,2,8:00 PM,3:56,,,MISS E. Mobley Free Throw 1 of 2,,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,288,4,1,2,8:00 PM,3:56,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,289,3,12,2,8:00 PM,3:56,,,E. Mobley Free Throw 2 of 2 (8 PTS),40 - 46,6,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,290,6,1,2,8:00 PM,3:42,,,Diakite P.FOUL (P3.PN) (B.Taylor),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,292,3,11,2,8:01 PM,3:42,MISS Carter Jr. Free Throw 1 of 2,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,293,4,1,2,8:01 PM,3:42,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,294,3,12,2,8:01 PM,3:42,Carter Jr. Free Throw 2 of 2 (7 PTS),,,40 - 47,7,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,295,1,1,2,8:01 PM,3:31,,,Diakite 3PT Jump Shot (3 PTS) (LeVert 2 AST),43 - 47,4,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,297,5,1,2,8:02 PM,3:11,Anthony Bad Pass Turnover (P2.T7),,Okoro STEAL (1 STL),,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,299,1,50,2,8:02 PM,3:09,,,Okoro 3' Running Dunk (8 PTS) (LeVert 3 AST),45 - 47,2,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,301,9,1,2,8:02 PM,3:09,MAGIC Timeout: Regular (Full 2 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,302,8,0,2,8:02 PM,3:09,SUB: F. Wagner FOR Hampton,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,304,1,1,2,8:05 PM,2:55,Banchero 25' 3PT Jump Shot (11 PTS) (Carter Jr. 1 AST),,,45 - 50,5,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,306,1,1,2,8:05 PM,2:30,,,Okoro 25' 3PT Jump Shot (11 PTS) (E. Mobley 2 AST),48 - 50,2,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,309,8,0,2,8:06 PM,2:24,,,SUB: Osman FOR Diakite,,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,311,2,86,2,8:06 PM,2:16,MISS Banchero 13' Turnaround Fadeaway Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,312,4,0,2,8:06 PM,2:13,,,Okoro REBOUND (Off:1 Def:1),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,313,6,2,2,8:06 PM,1:59,Banchero S.FOUL (P3.PN) (B.Taylor),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,315,3,11,2,8:07 PM,1:59,,,Okoro Free Throw 1 of 2 (12 PTS),49 - 50,1,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,316,3,12,2,8:07 PM,1:59,,,Okoro Free Throw 2 of 2 (13 PTS),50 - 50,TIE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,317,2,101,2,8:07 PM,1:47,MISS F. Wagner 8' Driving Floating Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,318,4,0,2,8:07 PM,1:44,,,Osman REBOUND (Off:0 Def:4),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,319,2,41,2,8:07 PM,1:41,,,MISS LeVert 2' Running Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,320,4,0,2,8:07 PM,1:37,Carter Jr. REBOUND (Off:0 Def:4),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,321,5,1,2,8:07 PM,1:33,Anthony Bad Pass Turnover (P3.T8),,LeVert STEAL (4 STL),,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,323,1,103,2,8:07 PM,1:27,,,LeVert 25' 3PT Running Pull-Up Jump Shot (8 PTS),53 - 50,-3,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,324,6,1,2,8:08 PM,1:08,,,E. Mobley P.FOUL (P3.PN) (B.Taylor),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,326,3,11,2,8:08 PM,1:08,Anthony Free Throw 1 of 2 (9 PTS),,,53 - 51,-2,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,328,3,12,2,8:09 PM,1:08,Anthony Free Throw 2 of 2 (10 PTS),,,53 - 52,-1,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,329,2,80,2,8:09 PM,0:52,,,MISS LeVert 26' 3PT Step Back Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,330,4,0,2,8:09 PM,0:49,Carter Jr. REBOUND (Off:0 Def:5),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,331,2,80,2,8:09 PM,0:30,MISS F. Wagner 25' 3PT Step Back Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,332,4,0,2,8:09 PM,0:27,,,E. Mobley REBOUND (Off:0 Def:2),,,5,1630596,Evan Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,333,1,80,2,8:10 PM,0:06,,,LeVert 16' Step Back Jump Shot (10 PTS),55 - 52,-3,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,334,2,101,2,8:10 PM,0:00,MISS Anthony 15' Driving Floating Jump Shot,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,335,4,0,2,8:10 PM,0:00,,,Osman REBOUND (Off:0 Def:5),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,336,13,0,2,8:10 PM,0:00,,End of 2nd Period (8:10 PM EST),,55 - 52,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200063,341,12,0,3,8:26 PM,12:00,,Start of 3rd Period (8:26 PM EST),,55 - 52,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,342,1,1,3,8:26 PM,11:45,Banchero 15' Jump Shot (13 PTS) (Carter Jr. 2 AST),,,55 - 54,-1,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,344,6,4,3,8:26 PM,11:28,,,Lopez OFF.Foul (P2) (B.Taylor),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,346,5,37,3,8:26 PM,11:28,,,Lopez Offensive Foul Turnover (P3.T7),,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0012200063,347,1,78,3,8:27 PM,11:14,F. Wagner 8' Floating Jump Shot (10 PTS),,,55 - 56,1,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,348,5,2,3,8:27 PM,11:05,Anthony STEAL (1 STL),,Neto Lost Ball Turnover (P2.T8),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,350,2,41,3,8:27 PM,11:00,MISS Banchero 2' Running Layup,,Lopez BLOCK (2 BLK),,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,1
+0012200063,352,4,0,3,8:27 PM,10:56,,,Okoro REBOUND (Off:1 Def:2),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,353,2,2,3,8:27 PM,10:54,,,MISS LeVert 25' 3PT Running Jump Shot,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,354,4,0,3,8:27 PM,10:54,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,356,2,47,3,8:27 PM,10:34,MISS Carter Jr. 12' Turnaround Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,357,4,0,3,8:27 PM,10:34,,,Osman REBOUND (Off:0 Def:6),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,358,6,2,3,8:28 PM,10:31,F. Wagner S.FOUL (P4.T1) (B.Taylor),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,360,3,11,3,8:28 PM,10:31,,,Okoro Free Throw 1 of 2 (14 PTS),56 - 56,TIE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,361,3,12,3,8:28 PM,10:31,,,Okoro Free Throw 2 of 2 (15 PTS),57 - 56,-1,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,660,2,43,3,8:28 PM,10:20,MISS Bol 1' Alley Oop Layup,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200063,661,4,0,3,8:28 PM,10:19,Bol REBOUND (Off:2 Def:2),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200063,362,2,97,3,8:29 PM,10:19,MISS Bol 4' Tip Layup Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,363,4,0,3,8:29 PM,10:17,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,365,2,6,3,8:30 PM,10:02,,,MISS Neto 4' Driving Layup,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,366,4,0,3,8:30 PM,9:59,Carter Jr. REBOUND (Off:0 Def:6),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,367,1,41,3,8:30 PM,9:55,Anthony 3' Running Layup (12 PTS),,,57 - 58,1,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,368,2,79,3,8:30 PM,9:35,,,MISS Osman 25' 3PT Pullup Jump Shot,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,369,4,0,3,8:30 PM,9:33,Bol REBOUND (Off:2 Def:3),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,370,2,6,3,8:31 PM,9:13,MISS Banchero 3' Driving Layup,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,371,4,0,3,8:31 PM,9:10,,,Osman REBOUND (Off:0 Def:7),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,372,1,41,3,8:31 PM,9:09,,,Osman 2' Running Layup (10 PTS) (Okoro 1 AST),59 - 58,-1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,374,9,1,3,8:31 PM,9:09,MAGIC Timeout: Regular (Full 3 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,375,1,79,3,8:34 PM,8:56,Anthony 20' Pullup Jump Shot (14 PTS) (F. Wagner 3 AST),,,59 - 60,1,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,376,1,1,3,8:34 PM,8:38,,,LeVert 26' 3PT Jump Shot (13 PTS) (Lopez 1 AST),62 - 60,-2,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,378,1,108,3,8:34 PM,8:26,Banchero 1' Cutting Dunk Shot (15 PTS) (F. Wagner 4 AST),,,62 - 62,TIE,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,380,6,2,3,8:35 PM,7:57,Carter Jr. S.FOUL (P2.T2) (R.Acosta),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,382,3,11,3,8:35 PM,7:57,,,Osman Free Throw 1 of 2 (11 PTS),63 - 62,-1,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,383,3,12,3,8:35 PM,7:57,,,MISS Osman Free Throw 2 of 2,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,384,4,0,3,8:35 PM,7:55,Bol REBOUND (Off:2 Def:4),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,385,1,101,3,8:36 PM,7:47,Bol 8' Driving Floating Jump Shot (8 PTS) (F. Wagner 5 AST),,,63 - 64,1,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,387,1,79,3,8:36 PM,7:24,,,Neto 25' 3PT Pullup Jump Shot (7 PTS),66 - 64,-2,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,388,2,1,3,8:37 PM,7:12,MISS F. Wagner 3PT Jump Shot,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,389,4,0,3,8:37 PM,7:08,,,Neto REBOUND (Off:0 Def:2),,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,390,2,80,3,8:37 PM,7:01,,,MISS Neto 25' 3PT Step Back Jump Shot,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,391,4,0,3,8:37 PM,6:57,Banchero REBOUND (Off:1 Def:4),,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,392,2,103,3,8:37 PM,6:52,MISS Bol 27' 3PT Running Pull-Up Jump Shot,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,393,4,0,3,8:37 PM,6:48,,,Osman REBOUND (Off:0 Def:8),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,394,1,79,3,8:37 PM,6:33,,,LeVert 6' Pullup Jump Shot (15 PTS),68 - 64,-4,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,395,2,79,3,8:37 PM,6:14,MISS Banchero 26' 3PT Pullup Jump Shot,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,396,4,0,3,8:38 PM,6:12,,,LeVert REBOUND (Off:0 Def:4),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,397,7,5,3,8:38 PM,6:12,Bol Violation:Kicked Ball (R.Acosta),,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,0
+0012200063,398,8,0,3,8:38 PM,6:12,,,SUB: Cooper FOR Neto,,,5,203526,Raul Neto,1610612739.0,Cleveland,Cavaliers,CLE,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,399,8,0,3,8:38 PM,6:12,,,SUB: I. Mobley FOR Lopez,,,5,201577,Robin Lopez,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,402,1,6,3,8:38 PM,5:55,,,Okoro 3' Driving Layup (17 PTS) (I. Mobley 2 AST),70 - 64,-6,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,404,2,1,3,8:38 PM,5:41,MISS Carter Jr. 26' 3PT Jump Shot,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,405,4,0,3,8:38 PM,5:37,,,Osman REBOUND (Off:0 Def:9),,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,406,2,1,3,8:39 PM,5:22,,,MISS Okoro 12' Jump Shot,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,407,4,0,3,8:39 PM,5:19,Carter Jr. REBOUND (Off:0 Def:7),,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,408,6,1,3,8:39 PM,5:14,,,Okoro P.FOUL (P3.T1) (B.Taylor),,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,410,8,0,3,8:39 PM,5:14,,,SUB: Stevens FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,412,8,0,3,8:39 PM,5:14,SUB: Bamba FOR Carter Jr.,,,,,4,1628976,Wendell Carter Jr.,1610612753.0,Orlando,Magic,ORL,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,414,1,80,3,8:40 PM,5:03,F. Wagner 26' 3PT Step Back Jump Shot (13 PTS),,,70 - 67,-3,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,415,1,57,3,8:40 PM,4:42,,,I. Mobley 3' Driving Hook Shot (4 PTS),72 - 67,-5,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,416,2,1,3,8:40 PM,4:28,MISS Bamba 27' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,417,4,0,3,8:40 PM,4:25,F. Wagner REBOUND (Off:2 Def:2),,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,418,6,2,3,8:40 PM,4:24,,,LeVert S.FOUL (P2.T2) (R.Acosta),,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,420,3,11,3,8:41 PM,4:24,Banchero Free Throw 1 of 2 (16 PTS),,,72 - 68,-4,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,421,8,0,3,8:41 PM,4:24,SUB: Okeke FOR Bol,,,,,4,1629626,Bol Bol,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,422,8,0,3,8:41 PM,4:24,SUB: Hampton FOR F. Wagner,,,,,4,1630532,Franz Wagner,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,425,3,12,3,8:41 PM,4:24,Banchero Free Throw 2 of 2 (17 PTS),,,72 - 69,-3,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,426,2,6,3,8:42 PM,4:08,Bamba BLOCK (1 BLK),,MISS LeVert 3' Driving Layup,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012200063,428,4,0,3,8:42 PM,4:05,Bamba REBOUND (Off:2 Def:3),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,429,1,1,3,8:42 PM,3:51,Bamba 19' Jump Shot (4 PTS) (Hampton 2 AST),,,72 - 71,-1,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,431,2,1,3,8:42 PM,3:27,,,MISS Cooper 24' 3PT Jump Shot,,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,432,4,0,3,8:42 PM,3:24,Hampton REBOUND (Off:0 Def:2),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,433,2,6,3,8:43 PM,3:14,MISS Hampton 3' Driving Layup,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,434,4,0,3,8:43 PM,3:13,,,I. Mobley REBOUND (Off:0 Def:1),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,437,6,31,3,8:43 PM,3:13,Bamba Transition Take Foul (P2.T2) (R.Hussey),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,439,3,10,3,8:43 PM,3:13,,,Cooper Free Throw 1 of 1 (1 PTS),73 - 71,-2,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,0
+0012200063,440,8,0,3,8:43 PM,3:13,SUB: Houstan FOR Banchero,,,,,4,1631094,Paolo Banchero,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,441,8,0,3,8:43 PM,3:13,,,SUB: Osman FOR LeVert,,,5,1627747,Caris LeVert,1610612739.0,Cleveland,Cavaliers,CLE,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,442,8,0,3,8:43 PM,3:13,,,SUB: Diakite FOR Okoro,,,5,1630171,Isaac Okoro,1610612739.0,Cleveland,Cavaliers,CLE,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,446,5,1,3,8:44 PM,3:01,Bamba STEAL (1 STL),,Cooper Bad Pass Turnover (P1.T9),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,448,2,6,3,8:44 PM,2:53,MISS Anthony 2' Driving Layup,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,449,4,0,3,8:44 PM,2:50,Bamba REBOUND (Off:3 Def:3),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,450,2,97,3,8:44 PM,2:50,MISS Bamba Tip Layup Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,451,4,0,3,8:44 PM,2:49,Houstan REBOUND (Off:1 Def:0),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,452,2,1,3,8:44 PM,2:39,MISS Okeke 26' 3PT Jump Shot,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,453,4,0,3,8:44 PM,2:35,,,I. Mobley REBOUND (Off:0 Def:2),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,454,5,45,3,8:44 PM,2:33,,,Cooper Out of Bounds - Bad Pass Turnover Turnover (P2.T10),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0012200063,455,9,1,3,8:44 PM,2:33,,,Cavaliers Timeout: Regular (Reg.3 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,456,8,0,3,8:47 PM,2:33,SUB: K. Harris FOR Anthony,,,,,4,1630175,Cole Anthony,1610612753.0,Orlando,Magic,ORL,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,458,5,1,3,8:47 PM,2:29,Okeke Bad Pass Turnover (P2.T9),,Osman STEAL (1 STL),,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,460,2,5,3,8:47 PM,2:20,Okeke BLOCK (1 BLK),,MISS Osman 3' Layup,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1
+0012200063,461,4,0,3,8:47 PM,2:18,Hampton REBOUND (Off:0 Def:3),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,462,6,1,3,8:48 PM,2:13,,,Diakite P.FOUL (P4.T3) (R.Hussey),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,464,8,0,3,8:48 PM,2:13,,,SUB: Nembhard Jr. FOR Osman,,,5,1626224,Cedi Osman,1610612739.0,Cleveland,Cavaliers,CLE,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,466,1,99,3,8:48 PM,2:03,Bamba 3' Cutting Finger Roll Layup Shot (6 PTS) (Okeke 2 AST),,,73 - 73,TIE,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,468,1,1,3,8:49 PM,1:42,,,Diakite 24' 3PT Jump Shot (6 PTS) (Nembhard Jr. 2 AST),76 - 73,-3,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,470,1,1,3,8:49 PM,1:23,Bamba 19' Jump Shot (8 PTS),,,76 - 75,-1,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,471,6,2,3,8:49 PM,1:23,,,Stevens S.FOUL (P1.T4) (B.Taylor),,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,473,3,10,3,8:49 PM,1:23,Bamba Free Throw 1 of 1 (9 PTS),,,76 - 76,TIE,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,0
+0012200063,474,1,1,3,8:50 PM,1:08,,,Nembhard Jr. 14' Jump Shot (2 PTS),78 - 76,-2,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,475,6,2,3,8:50 PM,0:51,,,I. Mobley S.FOUL (P1.PN) (R.Acosta),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,477,3,11,3,8:50 PM,0:51,MISS Hampton Free Throw 1 of 2,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,478,4,1,3,8:50 PM,0:51,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,479,3,12,3,8:51 PM,0:51,Hampton Free Throw 2 of 2 (3 PTS),,,78 - 77,-1,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,480,2,6,3,8:51 PM,0:41,Bamba BLOCK (2 BLK),,MISS Stevens 2' Driving Layup,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,1
+0012200063,482,4,0,3,8:51 PM,0:37,Houstan REBOUND (Off:1 Def:1),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,484,1,98,3,8:51 PM,0:33,Okeke 5' Cutting Layup Shot (2 PTS) (Hampton 3 AST),,,78 - 79,1,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,485,6,2,3,8:52 PM,0:33,,,Diakite S.FOUL (P5.PN) (R.Hussey),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,487,3,10,3,8:52 PM,0:33,MISS Okeke Free Throw 1 of 1,,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,488,4,0,3,8:52 PM,0:29,,,I. Mobley REBOUND (Off:0 Def:3),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,489,6,1,3,8:52 PM,0:27,Okeke P.FOUL (P1.T3) (B.Taylor),,,,,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,491,6,2,3,8:52 PM,0:16,Bamba S.FOUL (P3.PN) (R.Acosta),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,493,3,11,3,8:53 PM,0:16,,,Diakite Free Throw 1 of 2 (7 PTS),79 - 79,TIE,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,494,3,12,3,8:53 PM,0:16,,,Diakite Free Throw 2 of 2 (8 PTS),80 - 79,-1,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,495,1,1,3,8:53 PM,0:00,Okeke 27' 3PT Jump Shot (5 PTS) (Hampton 4 AST),,,80 - 82,2,4,1629643,Chuma Okeke,1610612753.0,Orlando,Magic,ORL,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,498,18,0,3,8:53 PM,0:00,,Instant Replay3rd Period (8:53 PM EST),,80 - 82,2,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200063,497,13,0,3,8:54 PM,0:00,,End of 3rd Period (8:54 PM EST),,80 - 82,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200063,505,12,0,4,8:56 PM,12:00,,Start of 4th Period (8:56 PM EST),,80 - 82,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,506,2,1,4,8:57 PM,11:42,,,MISS Hinton 24' 3PT Jump Shot,,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,507,4,0,4,8:57 PM,11:39,Bamba REBOUND (Off:3 Def:4),,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,508,2,1,4,8:57 PM,11:32,MISS Bamba 25' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,509,4,0,4,8:57 PM,11:27,K. Harris REBOUND (Off:1 Def:0),,,,,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,510,1,97,4,8:57 PM,11:27,K. Harris Tip Layup Shot (2 PTS),,,80 - 84,4,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,511,1,6,4,8:57 PM,11:15,,,Cooper 1' Driving Layup (3 PTS),82 - 84,2,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,512,1,5,4,8:57 PM,10:55,Hampton 2' Layup (5 PTS),,,82 - 86,4,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,513,1,5,4,8:58 PM,10:43,,,Nembhard Jr. 2' Layup (4 PTS),84 - 86,2,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,514,2,1,4,8:58 PM,10:28,MISS Houstan 26' 3PT Jump Shot,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,515,4,0,4,8:58 PM,10:28,,,Nembhard Jr. REBOUND (Off:0 Def:2),,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,516,1,1,4,8:58 PM,10:14,,,Hinton 3PT Jump Shot (3 PTS) (I. Mobley 3 AST),87 - 86,-1,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,518,2,1,4,8:58 PM,9:59,MISS Bamba 27' 3PT Jump Shot,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,519,4,0,4,8:58 PM,9:59,Cannady REBOUND (Off:1 Def:0),,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,520,5,1,4,8:58 PM,9:53,Cannady Bad Pass Turnover (P1.T10),,Pickett STEAL (1 STL),,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,522,5,1,4,8:59 PM,9:47,Cannady STEAL (1 STL),,Cooper Bad Pass Turnover (P3.T11),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,524,5,45,4,8:59 PM,9:43,Houstan Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200063,525,8,0,4,8:59 PM,9:43,,,SUB: Diakite FOR I. Mobley,,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,527,2,1,4,8:59 PM,9:22,,,MISS Nembhard Jr. 18' Jump Shot,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,528,4,0,4,8:59 PM,9:17,,,Cooper REBOUND (Off:1 Def:0),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,529,1,1,4,8:59 PM,9:13,,,Hinton 26' 3PT Jump Shot (6 PTS) (Pickett 1 AST),90 - 86,-4,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,531,2,79,4,9:00 PM,8:50,MISS K. Harris 17' Pullup Jump Shot,,,,,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,532,4,0,4,9:00 PM,8:49,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,534,8,0,4,9:00 PM,8:49,SUB: Schofield FOR Bamba,,,,,4,1628964,Mo Bamba,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0
+0012200063,536,2,1,4,9:00 PM,8:46,MISS Hampton 3PT Jump Shot,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,537,4,0,4,9:00 PM,8:43,Cannady REBOUND (Off:2 Def:0),,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,538,2,72,4,9:00 PM,8:42,MISS Cannady 4' Putback Layup,,Hinton BLOCK (1 BLK),,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,1
+0012200063,540,4,0,4,9:01 PM,8:37,Houstan REBOUND (Off:2 Def:1),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,541,1,5,4,9:01 PM,8:36,Houstan 3' Layup (2 PTS),,,90 - 88,-2,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,542,1,78,4,9:01 PM,8:21,,,Cooper 7' Floating Jump Shot (5 PTS) (Hinton 1 AST),92 - 88,-4,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,544,2,1,4,9:01 PM,8:12,MISS Schofield 3PT Jump Shot,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,545,4,0,4,9:01 PM,8:07,,,Pickett REBOUND (Off:0 Def:1),,,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,546,1,1,4,9:01 PM,8:05,,,Nembhard Jr. 25' 3PT Jump Shot (7 PTS),95 - 88,-7,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,547,6,2,4,9:01 PM,8:05,Houstan S.FOUL (P1.T1) (R.Acosta),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,550,3,10,4,9:02 PM,8:05,,,MISS Nembhard Jr. Free Throw 1 of 1,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,551,4,0,4,9:02 PM,8:00,Schofield REBOUND (Off:0 Def:1),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,552,1,1,4,9:02 PM,7:49,Houstan 27' 3PT Jump Shot (5 PTS) (Schofield 1 AST),,,95 - 91,-4,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,554,5,2,4,9:02 PM,7:29,Hampton STEAL (1 STL),,Diakite Lost Ball Turnover (P1.T12),,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,556,2,1,4,9:02 PM,7:14,MISS Cannady 26' 3PT Jump Shot,,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,557,4,0,4,9:03 PM,7:09,Schofield REBOUND (Off:1 Def:1),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,558,1,1,4,9:03 PM,6:57,Schofield 24' 3PT Jump Shot (3 PTS) (K. Harris 1 AST),,,95 - 94,-1,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,561,9,1,4,9:03 PM,6:37,MAGIC Timeout: Regular (Full 4 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,562,9,1,4,9:06 PM,6:37,,,Cavaliers Timeout: Regular (Reg.4 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,563,8,0,4,9:08 PM,6:37,,,SUB: Stevens FOR Diakite,,,5,1629603,Mamadi Diakite,1610612739.0,Cleveland,Cavaliers,CLE,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,565,2,1,4,9:09 PM,6:35,,,MISS Pickett 17' Jump Shot,,,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,566,4,0,4,9:09 PM,6:29,,,Hinton REBOUND (Off:1 Def:0),,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,567,1,72,4,9:09 PM,6:28,,,Hinton 2' Putback Layup (8 PTS),97 - 94,-3,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,568,1,1,4,9:09 PM,6:11,K. Harris 3PT Jump Shot (5 PTS) (Cannady 1 AST),,,97 - 97,TIE,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,570,1,79,4,9:10 PM,5:53,,,Stevens 26' 3PT Pullup Jump Shot (10 PTS),100 - 97,-3,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,571,2,1,4,9:10 PM,5:35,MISS Cannady 28' 3PT Jump Shot,,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,572,4,0,4,9:10 PM,5:32,,,Pickett REBOUND (Off:0 Def:2),,,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,573,6,2,4,9:10 PM,5:29,Schofield S.FOUL (P1.T2) (R.Hussey),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,575,3,11,4,9:11 PM,5:29,,,Stevens Free Throw 1 of 2 (11 PTS),101 - 97,-4,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,576,8,0,4,9:11 PM,5:29,,,SUB: I. Mobley FOR Cooper,,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,578,3,12,4,9:11 PM,5:29,,,Stevens Free Throw 2 of 2 (12 PTS),102 - 97,-5,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,579,1,1,4,9:11 PM,5:15,Schofield 3PT Jump Shot (6 PTS) (Houstan 1 AST),,,102 - 100,-2,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,581,6,1,4,9:11 PM,5:04,Hampton P.FOUL (P2.T3) (B.Taylor),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,583,1,5,4,9:12 PM,4:57,,,I. Mobley 3' Layup (6 PTS) (Nembhard Jr. 3 AST),104 - 100,-4,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,585,5,1,4,9:12 PM,4:44,Schofield Bad Pass Turnover (P1.T12),,Pickett STEAL (2 STL),,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,587,5,1,4,9:12 PM,4:35,K. Harris STEAL (1 STL),,Nembhard Jr. Bad Pass Turnover (P1.T13),,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,589,2,41,4,9:12 PM,4:27,MISS Houstan 4' Running Layup,,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,590,4,0,4,9:12 PM,4:19,K. Harris REBOUND (Off:2 Def:0),,,,,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,591,1,97,4,9:12 PM,4:19,K. Harris Tip Layup Shot (7 PTS),,,104 - 102,-2,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,592,2,1,4,9:12 PM,4:15,,,MISS Pickett 26' 3PT Jump Shot,,,5,1630691,Jamorko Pickett,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,593,4,0,4,9:13 PM,4:13,Cannady REBOUND (Off:2 Def:1),,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,594,5,4,4,9:13 PM,4:07,Houstan Traveling Turnover (P2.T13),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200063,595,8,0,4,9:13 PM,4:07,,,SUB: Cooper FOR Stevens,,,5,1630205,Lamar Stevens,1610612739.0,Cleveland,Cavaliers,CLE,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0
+0012200063,597,2,58,4,9:13 PM,3:46,,,MISS I. Mobley 9' Turnaround Hook Shot,,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,598,4,0,4,9:13 PM,3:43,Schofield REBOUND (Off:1 Def:2),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,599,1,6,4,9:14 PM,3:28,Hampton 3' Driving Layup (7 PTS),,,104 - 104,TIE,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,600,5,45,4,9:14 PM,3:13,,,Cooper Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1,0,,,,,,1
+0012200063,601,9,1,4,9:14 PM,3:13,MAGIC Timeout: Regular (Full 5 Short 0),,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,602,2,86,4,9:16 PM,2:59,MISS Cannady 26' 3PT Turnaround Fadeaway Shot,,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,603,4,0,4,9:16 PM,2:56,,,Hinton REBOUND (Off:1 Def:1),,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,604,2,78,4,9:16 PM,2:39,Hampton BLOCK (1 BLK),,MISS Nembhard Jr. 3' Floating Jump Shot,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1
+0012200063,606,4,0,4,9:16 PM,2:35,Cannady REBOUND (Off:2 Def:2),,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,607,5,4,4,9:16 PM,2:34,Houstan Traveling Turnover (P3.T14),,,,,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1,0,,,,,,1
+0012200063,608,2,79,4,9:17 PM,2:14,,,MISS Hinton 25' 3PT Pullup Jump Shot,,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,609,4,0,4,9:17 PM,2:11,K. Harris REBOUND (Off:2 Def:1),,,,,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,610,1,1,4,9:17 PM,1:57,Houstan 24' 3PT Jump Shot (8 PTS) (Schofield 2 AST),,,104 - 107,3,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,612,1,58,4,9:17 PM,1:41,,,I. Mobley 8' Turnaround Hook Shot (8 PTS),106 - 107,1,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,613,1,1,4,9:18 PM,1:28,Houstan 25' 3PT Jump Shot (11 PTS) (Schofield 3 AST),,,106 - 110,4,4,1631216,Caleb Houstan,1610612753.0,Orlando,Magic,ORL,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,1
+0012200063,615,6,1,4,9:18 PM,1:17,Schofield P.FOUL (P2.T4) (B.Taylor),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,1,0,,,,,,1
+0012200063,617,2,6,4,9:18 PM,1:06,K. Harris BLOCK (1 BLK),,MISS Nembhard Jr. 3' Driving Layup,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,1
+0012200063,622,4,0,4,9:18 PM,1:06,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,621,18,1,4,9:20 PM,1:06,,Instant Replay4th Period (9:20 PM EST),,106 - 110,4,0,618,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200063,624,10,1,4,9:23 PM,0:56,Jump Ball (CC) Schofield vs. I. Mobley: Tip to Cooper,,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0
+0012200063,627,1,6,4,9:23 PM,0:55,,,Cooper 3' Driving Layup (7 PTS),108 - 110,2,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,628,5,2,4,9:23 PM,0:38,Hampton Lost Ball Turnover (P1.T15),,Cooper STEAL (1 STL),,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,1
+0012200063,630,2,41,4,9:23 PM,0:35,Hampton BLOCK (2 BLK),,MISS Cooper 2' Running Layup,,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1
+0012200063,632,4,0,4,9:23 PM,0:35,,,Cavaliers Rebound,,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,634,9,1,4,9:24 PM,0:35,,,Cavaliers Timeout: Regular (Reg.5 Short 0),,,3,1610612739,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,635,2,1,4,9:25 PM,0:21,Hampton BLOCK (3 BLK),,MISS Hinton 24' 3PT Jump Shot,,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1
+0012200063,636,4,0,4,9:25 PM,0:19,Schofield REBOUND (Off:1 Def:3),,,,,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,637,6,28,4,9:26 PM,0:19,,,I. Mobley Personal Take Foul (P2.T1) (R.Acosta),,,5,1630600,Isaiah Mobley,1610612739.0,Cleveland,Cavaliers,CLE,4,1629678,Admiral Schofield,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,639,6,1,4,9:26 PM,0:18,,,Cooper P.FOUL (P1.PN) (R.Acosta),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,642,3,11,4,9:26 PM,0:18,Cannady Free Throw 1 of 2 (1 PTS),,,108 - 111,3,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,643,3,12,4,9:26 PM,0:18,Cannady Free Throw 2 of 2 (2 PTS),,,108 - 112,4,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,644,2,80,4,9:27 PM,0:11,,,MISS Cooper 18' Step Back Jump Shot,,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,645,4,0,4,9:27 PM,0:09,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,646,6,3,4,9:27 PM,0:09,,,Hinton L.B.FOUL (P1.PN) (R.Acosta),,,5,1630207,Nate Hinton,1610612739.0,Cleveland,Cavaliers,CLE,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,648,3,11,4,9:28 PM,0:09,MISS K. Harris Free Throw 1 of 2,,,,,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,649,4,1,4,9:28 PM,0:09,MAGIC Rebound,,,,,2,1610612753,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200063,650,3,12,4,9:28 PM,0:09,K. Harris Free Throw 2 of 2 (8 PTS),,,108 - 113,5,4,1630284,Kevon Harris,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,651,2,1,4,9:28 PM,0:03,,,MISS Nembhard Jr. 6' Jump Shot,,,5,1630612,RJ Nembhard Jr.,1610612739.0,Cleveland,Cavaliers,CLE,0,0,,,,,,0,0,,,,,,1
+0012200063,652,4,0,4,9:28 PM,0:03,Hampton REBOUND (Off:0 Def:4),,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,653,6,28,4,9:28 PM,0:03,,,Cooper Personal Take Foul (P2.PN) (R.Hussey),,,5,1630536,Sharife Cooper,1610612739.0,Cleveland,Cavaliers,CLE,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,1,0,,,,,,1
+0012200063,655,3,11,4,9:28 PM,0:03,Hampton Free Throw 1 of 2 (8 PTS),,,108 - 114,6,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,656,3,12,4,9:28 PM,0:03,MISS Hampton Free Throw 2 of 2,,,,,4,1630181,R.J. Hampton,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,657,4,0,4,9:29 PM,0:00,Cannady REBOUND (Off:3 Def:2),,,,,4,1629962,Devin Cannady,1610612753.0,Orlando,Magic,ORL,0,0,,,,,,0,0,,,,,,1
+0012200063,658,13,0,4,9:29 PM,0:00,,End of 4th Period (9:29 PM EST),,108 - 114,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

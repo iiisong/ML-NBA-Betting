@@ -1,0 +1,508 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200012,2,12,0,1,10:42 PM,12:00,,Start of 1st Period (10:42 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,4,10,0,1,10:42 PM,12:00,Jump Ball Jones vs. Sabonis: Tip to James,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,7,2,102,1,10:42 PM,11:42,MISS James 7' Driving Floating Bank Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,8,4,0,1,10:42 PM,11:40,,,Okpala REBOUND (Off:0 Def:1),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,9,1,1,1,10:42 PM,11:19,,,Huerter 29' 3PT Jump Shot (3 PTS) (Okpala 1 AST),3 - 0,-3,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,11,1,98,1,10:43 PM,11:03,Westbrook 2' Cutting Layup Shot (2 PTS) (Davis 1 AST),,,3 - 2,-1,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,13,2,1,1,10:43 PM,10:55,,,MISS Barnes 28' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,14,4,0,1,10:43 PM,10:53,Jones REBOUND (Off:0 Def:1),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,15,1,1,1,10:43 PM,10:43,Nunn 3PT Jump Shot (3 PTS) (Davis 2 AST),,,3 - 5,2,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,17,6,1,1,10:43 PM,10:37,Davis P.FOUL (P1.T1) (C.Kirkland),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,19,2,79,1,10:44 PM,10:30,,,MISS Fox 20' Pullup Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,20,4,0,1,10:44 PM,10:27,Nunn REBOUND (Off:0 Def:1),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,21,2,2,1,10:44 PM,10:20,MISS Davis 24' 3PT Running Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,22,4,0,1,10:44 PM,10:18,,,Sabonis REBOUND (Off:0 Def:1),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,23,5,1,1,10:44 PM,10:11,Davis STEAL (1 STL),,Fox Bad Pass Turnover (P1.T1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,25,1,86,1,10:44 PM,9:59,Davis 14' Turnaround Fadeaway (2 PTS),,,3 - 7,4,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,26,2,1,1,10:44 PM,9:42,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,27,4,0,1,10:44 PM,9:40,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,29,1,75,1,10:45 PM,9:20,Westbrook 4' Driving Finger Roll Layup (4 PTS) (James 1 AST),,,3 - 9,6,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,31,6,2,1,10:45 PM,9:20,,,Fox S.FOUL (P1.T1) (L.Wood),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,33,3,10,1,10:45 PM,9:20,Westbrook Free Throw 1 of 1 (5 PTS),,,3 - 10,7,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,34,2,98,1,10:46 PM,9:00,,,MISS Sabonis 3' Cutting Layup Shot,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,35,4,0,1,10:46 PM,8:58,Davis REBOUND (Off:0 Def:1),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,37,1,98,1,10:46 PM,8:47,Nunn 3' Cutting Layup Shot (5 PTS) (Westbrook 1 AST),,,3 - 12,9,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,39,9,1,1,10:46 PM,8:47,,,Kings Timeout: Regular (Reg.1 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,40,1,98,1,10:49 PM,8:27,,,Okpala 1' Cutting Layup Shot (2 PTS) (Sabonis 1 AST),5 - 12,7,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,42,6,1,1,10:49 PM,8:16,,,Okpala P.FOUL (P1.T2) (D.Mosher),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,44,5,11,1,10:50 PM,8:01,LAKERS Turnover: Shot Clock (T#1),,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200012,45,1,5,1,10:51 PM,7:43,,,Sabonis 2' Layup (2 PTS) (Barnes 1 AST),7 - 12,5,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,47,6,2,1,10:51 PM,7:25,,,Okpala S.FOUL (P2.T3) (L.Wood),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,49,3,13,1,10:51 PM,7:25,MISS James Free Throw 1 of 3,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,51,4,1,1,10:51 PM,7:25,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,52,3,14,1,10:52 PM,7:25,James Free Throw 2 of 3 (1 PTS),,,7 - 13,6,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,53,3,15,1,10:52 PM,7:25,James Free Throw 3 of 3 (2 PTS),,,7 - 14,7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,54,2,79,1,10:52 PM,7:12,,,MISS Huerter 14' Pullup Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,55,4,0,1,10:52 PM,7:10,Davis REBOUND (Off:0 Def:2),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,56,2,47,1,10:52 PM,7:01,MISS Davis 19' Turnaround Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,57,4,0,1,10:52 PM,6:57,,,Barnes REBOUND (Off:0 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,58,2,103,1,10:52 PM,6:51,,,MISS Fox 11' Running Pull-Up Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,59,4,0,1,10:52 PM,6:48,Davis REBOUND (Off:0 Def:3),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,60,2,41,1,10:52 PM,6:44,MISS James 3' Running Layup,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,61,4,0,1,10:52 PM,6:44,,,Sabonis REBOUND (Off:0 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,62,1,101,1,10:53 PM,6:30,,,Fox 9' Driving Floating Jump Shot (2 PTS) (Huerter 1 AST),9 - 14,5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,63,2,86,1,10:53 PM,6:07,MISS James 17' Turnaround Fadeaway Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,64,4,0,1,10:53 PM,6:05,,,Fox REBOUND (Off:0 Def:1),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,65,6,1,1,10:53 PM,5:58,Westbrook P.FOUL (P1.T2) (C.Kirkland),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,67,8,0,1,10:53 PM,5:58,SUB: Toscano-Anderson FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,68,8,0,1,10:53 PM,5:58,,,SUB: Mitchell FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,69,8,0,1,10:53 PM,5:58,,,SUB: Murray FOR Huerter,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,73,8,0,1,10:53 PM,5:58,SUB: Beverley FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,75,2,78,1,10:54 PM,5:47,,,MISS Murray 12' Floating Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,76,4,0,1,10:54 PM,5:47,,,Barnes REBOUND (Off:1 Def:1),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,77,6,2,1,10:54 PM,5:47,Davis S.FOUL (P2.T3) (D.Mosher),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,79,3,11,1,10:54 PM,5:47,,,Barnes Free Throw 1 of 2 (1 PTS),10 - 14,4,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0012200012,80,3,12,1,10:55 PM,5:47,,,MISS Barnes Free Throw 2 of 2,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,81,4,0,1,10:55 PM,5:42,Davis REBOUND (Off:0 Def:4),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,82,2,80,1,10:55 PM,5:29,MISS Davis 11' Step Back Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,83,4,0,1,10:55 PM,5:27,,,Murray REBOUND (Off:0 Def:1),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,86,6,11,1,10:55 PM,5:27,Davis T.FOUL (P2.T3) (D.Mosher),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200012,87,3,16,1,10:55 PM,5:27,,,Barnes Free Throw Technical (2 PTS),11 - 14,3,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,88,5,45,1,10:56 PM,5:13,,,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200012,221,2,5,1,10:56 PM,4:52,MISS Beverley 4' Layup,,Sabonis BLOCK (1 BLK),,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,223,4,0,1,10:56 PM,4:50,,,Fox REBOUND (Off:0 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,92,6,2,1,10:57 PM,4:47,Toscano-Anderson S.FOUL (P1.T4) (L.Wood),,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,95,3,11,1,10:57 PM,4:47,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,100,3,12,1,10:57 PM,4:47,,,Fox Free Throw 2 of 2 (3 PTS),12 - 14,2,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,113,4,1,1,10:57 PM,4:47,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,96,8,0,1,10:57 PM,4:47,SUB: Bryant FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,97,8,0,1,10:57 PM,4:47,SUB: Reaves FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,101,2,1,1,10:58 PM,4:29,MISS Toscano-Anderson 24' 3PT Jump Shot,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,102,4,0,1,10:58 PM,4:29,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,103,6,1,1,10:58 PM,4:29,,,Sabonis P.FOUL (P1.T4) (D.Mosher),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,105,8,0,1,10:58 PM,4:29,,,SUB: Monk FOR Fox,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,106,8,0,1,10:58 PM,4:29,,,SUB: Holmes FOR Sabonis,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,107,8,0,1,10:58 PM,4:29,,,SUB: Lyles FOR Barnes,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,111,1,98,1,10:58 PM,4:19,Bryant 3' Cutting Layup Shot (2 PTS) (James 2 AST),,,12 - 16,4,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,114,6,4,1,10:59 PM,4:01,,,Holmes OFF.Foul (P1) (D.Mosher),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,116,5,37,1,10:59 PM,4:01,,,Holmes Offensive Foul Turnover (P1.T3),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200012,117,5,45,1,10:59 PM,3:46,James Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200012,118,2,101,1,11:00 PM,3:32,,,MISS Mitchell 5' Driving Floating Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,119,4,0,1,11:00 PM,3:29,Bryant REBOUND (Off:0 Def:1),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,120,2,1,1,11:00 PM,3:19,MISS James 18' Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,121,4,0,1,11:00 PM,3:17,,,Monk REBOUND (Off:0 Def:1),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,122,2,102,1,11:00 PM,3:07,,,MISS Monk 6' Driving Floating Bank Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,124,4,0,1,11:00 PM,3:06,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,125,9,1,1,11:00 PM,3:03,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,126,8,0,1,11:03 PM,3:03,SUB: Gabriel FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,128,6,1,1,11:03 PM,3:01,,,Mitchell P.FOUL (P1.PN) (D.Mosher),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,130,3,11,1,11:04 PM,3:01,Beverley Free Throw 1 of 2 (1 PTS),,,12 - 17,5,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,131,3,12,1,11:04 PM,3:01,Beverley Free Throw 2 of 2 (2 PTS),,,12 - 18,6,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,132,2,47,1,11:05 PM,2:42,,,MISS Monk 3PT Turnaround Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,133,4,0,1,11:05 PM,2:40,,,Lyles REBOUND (Off:1 Def:0),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,134,2,1,1,11:05 PM,2:38,,,MISS Mitchell 27' 3PT Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,135,4,0,1,11:05 PM,2:35,Gabriel REBOUND (Off:0 Def:1),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,136,2,1,1,11:05 PM,2:26,MISS Toscano-Anderson 25' 3PT Jump Shot,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,137,4,0,1,11:05 PM,2:23,,,Monk REBOUND (Off:0 Def:2),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,138,2,1,1,11:05 PM,2:19,,,MISS Murray 3PT Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,139,4,0,1,11:05 PM,2:19,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,140,6,1,1,11:05 PM,2:19,,,Lyles P.FOUL (P1.PN) (C.Kirkland),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,142,3,11,1,11:06 PM,2:19,MISS Beverley Free Throw 1 of 2,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,146,4,1,1,11:06 PM,2:19,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,147,3,12,1,11:06 PM,2:19,Beverley Free Throw 2 of 2 (3 PTS),,,12 - 19,7,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012200012,144,1,6,1,11:06 PM,2:05,,,Murray 5' Driving Layup (2 PTS) (Mitchell 1 AST),14 - 19,5,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,148,6,4,1,11:06 PM,2:01,Beverley OFF.Foul (P1) (C.Kirkland),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,150,5,37,1,11:06 PM,2:01,Beverley Offensive Foul Turnover (P1.T3),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200012,151,2,44,1,11:07 PM,1:46,,,MISS Holmes 4' Reverse Layup,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,152,4,0,1,11:07 PM,1:42,Gabriel REBOUND (Off:0 Def:2),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,153,1,80,1,11:07 PM,1:36,Beverley 27' 3PT Step Back Jump Shot (6 PTS),,,14 - 22,8,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,154,2,44,1,11:07 PM,1:24,,,MISS Lyles 3' Reverse Layup,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,155,4,0,1,11:07 PM,1:17,,,Holmes REBOUND (Off:1 Def:0),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,156,1,97,1,11:07 PM,1:17,,,Holmes Tip Layup Shot (2 PTS),16 - 22,6,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,157,5,1,1,11:07 PM,1:11,Reaves Bad Pass Turnover (P1.T4),,Mitchell STEAL (1 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,159,1,76,1,11:07 PM,1:06,,,Mitchell 4' Running Finger Roll Layup (2 PTS),18 - 22,4,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,160,1,108,1,11:07 PM,0:58,Gabriel 2' Cutting Dunk Shot (2 PTS) (Reaves 1 AST),,,18 - 24,6,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,162,2,6,1,11:08 PM,0:39,Gabriel BLOCK (1 BLK),,MISS Monk 3' Driving Layup,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,163,4,0,1,11:08 PM,0:37,Gabriel REBOUND (Off:0 Def:3),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,164,1,106,1,11:08 PM,0:35,Toscano-Anderson 4' Running Alley Oop Dunk Shot (2 PTS) (Beverley 1 AST),,,18 - 26,8,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,166,1,1,1,11:08 PM,0:26,,,Murray 26' 3PT Jump Shot (5 PTS) (Mitchell 2 AST),21 - 26,5,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,168,6,2,1,11:09 PM,0:05,,,Lyles S.FOUL (P2.PN) (L.Wood),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,170,3,11,1,11:09 PM,0:05,MISS Bryant Free Throw 1 of 2,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,171,4,1,1,11:09 PM,0:05,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,172,3,12,1,11:09 PM,0:05,Bryant Free Throw 2 of 2 (3 PTS),,,21 - 27,6,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,173,2,5,1,11:09 PM,0:00,Gabriel BLOCK (2 BLK),,MISS Mitchell 2' Layup,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,175,4,0,1,11:09 PM,0:00,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,176,13,0,1,11:10 PM,0:00,,End of 1st Period (11:10 PM EST),,21 - 27,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,185,12,0,2,11:12 PM,12:00,,Start of 2nd Period (11:12 PM EST),,21 - 27,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,186,2,78,2,11:12 PM,11:43,,,MISS Monk 11' Floating Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,187,4,0,2,11:12 PM,11:40,Davis REBOUND (Off:0 Def:5),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,188,2,1,2,11:13 PM,11:34,MISS Gabriel 3PT Jump Shot,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,189,4,0,2,11:13 PM,11:31,Westbrook REBOUND (Off:1 Def:0),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,190,2,1,2,11:13 PM,11:30,MISS Nunn 28' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,191,4,0,2,11:13 PM,11:26,,,Monk REBOUND (Off:0 Def:3),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,192,6,4,2,11:13 PM,11:18,,,Holmes OFF.Foul (P2) (C.Kirkland),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,194,5,37,2,11:13 PM,11:18,,,Holmes Offensive Foul Turnover (P2.T4),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1,0,,,,,,1
+0012200012,195,1,7,2,11:13 PM,11:05,Gabriel 4' Dunk (4 PTS) (Westbrook 2 AST),,,21 - 29,8,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,197,9,1,2,11:13 PM,11:04,,,Kings Timeout: Regular (Reg.2 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,198,6,1,2,11:17 PM,10:52,Gabriel P.FOUL (P1.T1) (D.Mosher),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,200,2,9,2,11:17 PM,10:42,Gabriel BLOCK (3 BLK),,MISS Lyles 6' Driving Dunk,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,202,4,0,2,11:17 PM,10:39,Westbrook REBOUND (Off:1 Def:1),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,203,5,1,2,11:17 PM,10:37,Westbrook Bad Pass Turnover (P1.T5),,Monk STEAL (1 STL),,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,205,6,2,2,11:17 PM,10:35,Westbrook S.FOUL (P2.T2) (L.Wood),,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,207,3,11,2,11:18 PM,10:35,,,Lyles Free Throw 1 of 2 (1 PTS),22 - 29,7,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,208,3,12,2,11:18 PM,10:35,,,MISS Lyles Free Throw 2 of 2,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,209,4,0,2,11:18 PM,10:33,Davis REBOUND (Off:0 Def:6),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,210,1,1,2,11:18 PM,10:24,Davis 28' 3PT Jump Shot (5 PTS) (Westbrook 3 AST),,,22 - 32,10,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,212,6,2,2,11:18 PM,10:08,Christie S.FOUL (P1.T3) (C.Kirkland),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,214,3,11,2,11:19 PM,10:08,,,Holmes Free Throw 1 of 2 (3 PTS),23 - 32,9,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,217,8,0,2,11:19 PM,10:08,SUB: James FOR Gabriel,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,218,3,12,2,11:19 PM,10:08,,,Holmes Free Throw 2 of 2 (4 PTS),24 - 32,8,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,219,2,101,2,11:20 PM,9:56,MISS Christie 4' Driving Floating Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,220,4,0,2,11:20 PM,9:54,,,Holmes REBOUND (Off:1 Def:1),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,224,2,1,2,11:20 PM,9:38,,,MISS Lyles 25' 3PT Jump Shot,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,225,4,0,2,11:20 PM,9:34,Davis REBOUND (Off:0 Def:7),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,227,2,6,2,11:20 PM,9:24,MISS Nunn 5' Driving Layup,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,228,4,0,2,11:20 PM,9:21,,,Lyles REBOUND (Off:1 Def:1),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,229,2,78,2,11:20 PM,9:15,,,MISS Monk 5' Floating Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,230,4,0,2,11:20 PM,9:13,Davis REBOUND (Off:0 Def:8),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,231,2,41,2,11:20 PM,9:09,MISS James 4' Running Layup,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,232,4,0,2,11:20 PM,9:07,,,Murray REBOUND (Off:0 Def:2),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,233,1,5,2,11:21 PM,9:03,,,Murray 3' Layup (7 PTS),26 - 32,6,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,234,2,1,2,11:21 PM,8:47,MISS James 24' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,235,4,0,2,11:21 PM,8:44,,,Mitchell REBOUND (Off:0 Def:1),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,236,2,78,2,11:21 PM,8:31,,,MISS Murray 8' Floating Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,237,4,0,2,11:21 PM,8:29,Christie REBOUND (Off:0 Def:1),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,238,6,2,2,11:21 PM,8:24,,,Lyles S.FOUL (P3.T1) (C.Kirkland),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,240,9,1,2,11:22 PM,8:24,,,Kings Timeout: Regular (Reg.3 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,241,8,0,2,11:24 PM,8:24,,,SUB: Fox FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,242,8,0,2,11:24 PM,8:24,,,SUB: Barnes FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,243,8,0,2,11:24 PM,8:24,,,SUB: Huerter FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,247,3,11,2,11:25 PM,8:24,James Free Throw 1 of 2 (3 PTS),,,26 - 33,7,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,248,3,12,2,11:25 PM,8:24,James Free Throw 2 of 2 (4 PTS),,,26 - 34,8,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,249,1,98,2,11:25 PM,8:00,,,Holmes 4' Cutting Layup Shot (6 PTS) (Lyles 1 AST),28 - 34,6,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,251,2,1,2,11:26 PM,7:52,MISS James 27' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,252,4,0,2,11:26 PM,7:52,,,Holmes REBOUND (Off:1 Def:2),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,253,2,78,2,11:26 PM,7:40,,,MISS Fox 7' Floating Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,254,4,0,2,11:26 PM,7:38,Davis REBOUND (Off:0 Def:9),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,255,2,79,2,11:26 PM,7:31,MISS Westbrook 21' Pullup Jump Shot,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,256,4,0,2,11:26 PM,7:29,,,Lyles REBOUND (Off:1 Def:2),,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,257,2,1,2,11:26 PM,7:17,,,MISS Barnes 25' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,258,4,0,2,11:26 PM,7:17,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,259,6,3,2,11:26 PM,7:17,,,Holmes L.B.FOUL (P3.T2) (C.Kirkland),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,261,8,0,2,11:26 PM,7:17,,,SUB: Okpala FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,262,8,0,2,11:26 PM,7:17,,,SUB: Sabonis FOR Lyles,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,265,5,1,2,11:27 PM,7:02,Nunn Bad Pass Turnover (P1.T6),,Okpala STEAL (1 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,267,2,1,2,11:27 PM,6:54,,,MISS Huerter 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,268,4,0,2,11:27 PM,6:51,,,Sabonis REBOUND (Off:1 Def:2),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,269,2,1,2,11:27 PM,6:48,,,MISS Fox 27' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,270,4,0,2,11:27 PM,6:45,Christie REBOUND (Off:0 Def:2),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,271,6,2,2,11:27 PM,6:43,,,Fox S.FOUL (P2.T3) (L.Wood),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,273,3,11,2,11:28 PM,6:43,MISS Davis Free Throw 1 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,274,4,1,2,11:28 PM,6:43,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,276,8,0,2,11:28 PM,6:43,SUB: Jones FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,289,8,0,2,11:28 PM,6:43,SUB: Beverley FOR Christie,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,279,3,12,2,11:28 PM,6:43,Davis Free Throw 2 of 2 (6 PTS),,,28 - 35,7,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,280,2,1,2,11:28 PM,6:24,,,MISS Okpala 3PT Jump Shot,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,281,4,0,2,11:28 PM,6:18,Beverley REBOUND (Off:0 Def:1),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,282,2,1,2,11:28 PM,6:16,MISS Jones 25' 3PT Jump Shot,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,283,4,0,2,11:29 PM,6:09,Davis REBOUND (Off:1 Def:9),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,284,1,72,2,11:29 PM,6:09,Davis Putback Layup (8 PTS),,,28 - 37,9,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,285,2,1,2,11:29 PM,6:05,,,MISS Barnes 25' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,286,4,0,2,11:29 PM,6:05,James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,287,2,5,2,11:29 PM,5:50,MISS Jones 4' Layup,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,288,4,0,2,11:29 PM,5:47,,,Sabonis REBOUND (Off:1 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,290,2,1,2,11:29 PM,5:39,,,MISS Okpala 25' 3PT Jump Shot,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,291,4,0,2,11:29 PM,5:35,,,Huerter REBOUND (Off:1 Def:0),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,292,2,1,2,11:29 PM,5:26,,,MISS Fox 25' 3PT Jump Shot,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,293,4,0,2,11:29 PM,5:21,,,Huerter REBOUND (Off:2 Def:0),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,294,1,75,2,11:29 PM,5:18,,,Fox 3' Driving Finger Roll Layup (5 PTS) (Huerter 2 AST),30 - 37,7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,295,9,1,2,11:30 PM,5:11,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,296,2,1,2,11:31 PM,4:58,MISS Davis 16' Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,297,4,0,2,11:32 PM,4:55,,,Huerter REBOUND (Off:2 Def:1),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,298,1,1,2,11:32 PM,4:49,,,Sabonis 8' Jump Shot (4 PTS),32 - 37,5,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,299,2,1,2,11:32 PM,4:37,MISS Davis 3PT Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,300,4,0,2,11:32 PM,4:34,,,Okpala REBOUND (Off:0 Def:2),,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,301,6,1,2,11:32 PM,4:32,Jones P.FOUL (P1.T4) (D.Mosher),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,303,8,0,2,11:32 PM,4:32,SUB: Reaves FOR Westbrook,,,,,4,201566,Russell Westbrook,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,305,2,71,2,11:33 PM,4:24,,,MISS Fox 4' Finger Roll Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,306,4,0,2,11:33 PM,4:21,,,Fox REBOUND (Off:1 Def:2),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,307,1,79,2,11:33 PM,4:18,,,Huerter 12' Pullup Jump Shot (5 PTS) (Fox 1 AST),34 - 37,3,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,309,1,1,2,11:33 PM,3:51,Davis 25' 3PT Jump Shot (11 PTS) (Jones 1 AST),,,34 - 40,6,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,312,2,6,2,11:33 PM,3:24,,,MISS Fox 5' Driving Layup,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,313,4,0,2,11:33 PM,3:24,Davis REBOUND (Off:1 Def:10),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,314,6,1,2,11:34 PM,3:24,,,Sabonis P.FOUL (P2.T4) (C.Kirkland),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,316,8,0,2,11:34 PM,3:24,SUB: Toscano-Anderson FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,317,8,0,2,11:34 PM,3:24,SUB: Bryant FOR James,,,,,4,2544,LeBron James,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,318,8,0,2,11:34 PM,3:24,,,SUB: Murray FOR Okpala,,,5,1629644,KZ Okpala,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,323,6,2,2,11:35 PM,3:07,,,Huerter S.FOUL (P1.PN) (L.Wood),,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,325,3,11,2,11:35 PM,3:07,Reaves Free Throw 1 of 2 (1 PTS),,,34 - 41,7,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,326,3,12,2,11:35 PM,3:07,Reaves Free Throw 2 of 2 (2 PTS),,,34 - 42,8,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,327,5,1,2,11:36 PM,2:47,Toscano-Anderson STEAL (1 STL),,Sabonis Bad Pass Turnover (P1.T5),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,329,2,1,2,11:36 PM,2:27,MISS Beverley 28' 3PT Jump Shot,,Fox BLOCK (1 BLK),,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,331,4,0,2,11:36 PM,2:23,Beverley REBOUND (Off:1 Def:1),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,332,2,1,2,11:36 PM,2:23,MISS Beverley 26' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,333,4,0,2,11:36 PM,2:23,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,335,6,2,2,11:36 PM,2:19,Beverley S.FOUL (P2.PN) (C.Kirkland),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,337,3,11,2,11:37 PM,2:19,,,MISS Fox Free Throw 1 of 2,,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,338,4,1,2,11:37 PM,2:19,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,339,8,0,2,11:37 PM,2:19,SUB: Gabriel FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,341,3,12,2,11:37 PM,2:19,,,Fox Free Throw 2 of 2 (6 PTS),35 - 42,7,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,342,2,1,2,11:37 PM,2:06,MISS Toscano-Anderson 27' 3PT Jump Shot,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,343,4,0,2,11:37 PM,2:06,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,344,6,1,2,11:37 PM,2:06,,,Sabonis P.FOUL (P3.PN) (D.Mosher),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,346,3,11,2,11:38 PM,2:06,Bryant Free Throw 1 of 2 (4 PTS),,,35 - 43,8,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,347,3,12,2,11:38 PM,2:06,Bryant Free Throw 2 of 2 (5 PTS),,,35 - 44,9,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,348,5,2,2,11:39 PM,1:52,Gabriel STEAL (1 STL),,Barnes Lost Ball Turnover (P1.T6),,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,350,2,1,2,11:39 PM,1:42,MISS Bryant 26' 3PT Jump Shot,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,351,4,0,2,11:39 PM,1:40,Gabriel REBOUND (Off:1 Def:3),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,352,6,1,2,11:39 PM,1:40,,,Fox P.FOUL (P3.PN) (L.Wood),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,354,3,11,2,11:39 PM,1:40,MISS Gabriel Free Throw 1 of 2,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,355,4,1,2,11:39 PM,1:40,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,356,3,12,2,11:39 PM,1:40,MISS Gabriel Free Throw 2 of 2,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,357,4,0,2,11:40 PM,1:36,Beverley REBOUND (Off:2 Def:1),,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,358,2,108,2,11:40 PM,1:27,MISS Gabriel 3' Cutting Dunk Shot,,Sabonis BLOCK (2 BLK),,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,360,4,0,2,11:40 PM,1:27,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,362,2,1,2,11:40 PM,1:18,,,MISS Barnes 26' 3PT Jump Shot,,,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,363,4,0,2,11:40 PM,1:15,,,Sabonis REBOUND (Off:2 Def:3),,,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,364,1,98,2,11:40 PM,1:11,,,Barnes 3' Cutting Layup Shot (4 PTS) (Sabonis 2 AST),37 - 44,7,5,203084,Harrison Barnes,1610612758.0,Sacramento,Kings,SAC,5,1627734,Domantas Sabonis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,366,5,1,2,11:40 PM,0:53,Reaves Bad Pass Turnover (P2.T7),,Fox STEAL (1 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,368,1,50,2,11:40 PM,0:52,,,Fox 3' Running Dunk (8 PTS),39 - 44,5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,369,6,1,2,11:41 PM,0:38,,,Fox P.FOUL (P4.PN) (D.Mosher),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,371,3,11,2,11:41 PM,0:38,Beverley Free Throw 1 of 2 (7 PTS),,,39 - 45,6,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,372,3,12,2,11:41 PM,0:38,Beverley Free Throw 2 of 2 (8 PTS),,,39 - 46,7,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,373,1,6,2,11:42 PM,0:29,,,Fox 5' Driving Layup (10 PTS),41 - 46,5,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,375,2,6,2,11:42 PM,0:07,MISS Beverley 4' Driving Layup,,,,,4,201976,Patrick Beverley,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,376,4,0,2,11:42 PM,0:05,,,Fox REBOUND (Off:1 Def:3),,,5,1628368,De'Aaron Fox,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,377,2,1,2,11:42 PM,0:00,,,MISS Huerter 25' 3PT Jump Shot,,,5,1628989,Kevin Huerter,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,378,4,0,2,11:42 PM,0:00,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,379,13,0,2,11:42 PM,0:00,,End of 2nd Period (11:42 PM EST),,41 - 46,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,394,12,0,3,11:58 PM,12:00,,Start of 3rd Period (11:58 PM EST),,41 - 46,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,395,2,1,3,11:58 PM,11:34,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,396,4,0,3,11:58 PM,11:33,,,Murray REBOUND (Off:1 Def:2),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,397,1,78,3,11:58 PM,11:31,,,Murray 7' Floating Jump Shot (9 PTS),43 - 46,3,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,398,5,2,3,11:59 PM,11:18,Jones Lost Ball Turnover (P1.T8),,Lyles STEAL (1 STL),,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,400,1,1,3,11:59 PM,11:14,,,Mitchell 26' 3PT Jump Shot (5 PTS) (Monk 1 AST),46 - 46,TIE,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,401,5,2,3,11:59 PM,11:00,Nunn Lost Ball Turnover (P2.T9),,Mitchell STEAL (2 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,403,2,41,3,11:59 PM,10:55,,,MISS Mitchell 2' Running Layup,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,404,4,0,3,11:59 PM,10:53,,,Monk REBOUND (Off:1 Def:3),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,405,2,1,3,11:59 PM,10:50,Jones BLOCK (1 BLK),,MISS Holmes 6' Jump Shot,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,408,4,0,3,11:59 PM,10:50,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,411,2,1,3,11:59 PM,10:42,,,MISS Mitchell 28' 3PT Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,412,4,0,3,11:59 PM,10:39,Christie REBOUND (Off:0 Def:3),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,413,5,1,3,12:00 AM,10:34,Christie Bad Pass Turnover (P1.T10),,Mitchell STEAL (3 STL),,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,415,1,103,3,12:00 AM,10:29,,,Monk 27' 3PT Running Pull-Up Jump Shot (3 PTS) (Holmes 1 AST),49 - 46,-3,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,417,9,1,3,12:00 AM,10:29,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,418,1,1,3,12:03 AM,10:16,Swider 26' 3PT Jump Shot (3 PTS) (Christie 1 AST),,,49 - 49,TIE,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,420,2,1,3,12:03 AM,10:00,,,MISS Monk 27' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,421,4,0,3,12:03 AM,9:57,Jones REBOUND (Off:0 Def:2),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,422,1,9,3,12:04 AM,9:42,Christie 4' Driving Dunk (2 PTS) (Toscano-Anderson 1 AST),,,49 - 51,2,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,423,9,1,3,12:04 AM,9:42,,,Kings Timeout: Regular (Reg.4 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,425,1,52,3,12:07 AM,9:27,,,Holmes 2' Alley Oop Dunk (8 PTS) (Murray 1 AST),51 - 51,TIE,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,427,2,1,3,12:07 AM,9:08,MISS Nunn 24' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,428,4,0,3,12:07 AM,9:05,,,Holmes REBOUND (Off:1 Def:3),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,429,1,52,3,12:07 AM,8:56,,,Holmes 2' Alley Oop Dunk (10 PTS) (Monk 2 AST),53 - 51,-2,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,431,2,1,3,12:07 AM,8:44,MISS Jones 20' Jump Shot,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,432,4,0,3,12:08 AM,8:42,,,Murray REBOUND (Off:1 Def:3),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,433,6,2,3,12:08 AM,8:36,Christie S.FOUL (P2.T1) (D.Mosher),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,435,3,11,3,12:08 AM,8:36,,,Monk Free Throw 1 of 2 (4 PTS),54 - 51,-3,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,0
+0012200012,436,3,12,3,12:08 AM,8:36,,,MISS Monk Free Throw 2 of 2,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,437,4,0,3,12:08 AM,8:34,Jones REBOUND (Off:0 Def:3),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,438,1,71,3,12:09 AM,8:10,Nunn 5' Finger Roll Layup (7 PTS) (Christie 2 AST),,,54 - 53,-1,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,440,1,79,3,12:09 AM,7:55,,,Mitchell 16' Pullup Jump Shot (7 PTS),56 - 53,-3,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,441,5,1,3,12:09 AM,7:41,Nunn Bad Pass Turnover (P3.T11),,Murray STEAL (1 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,443,1,1,3,12:09 AM,7:35,,,Murray 24' 3PT Jump Shot (12 PTS) (Mitchell 3 AST),59 - 53,-6,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,445,5,1,3,12:09 AM,7:28,Nunn Bad Pass Turnover (P4.T12),,Murray STEAL (2 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,447,1,50,3,12:09 AM,7:24,,,Murray 2' Running Dunk (14 PTS),61 - 53,-8,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,448,2,6,3,12:10 AM,7:10,MISS Toscano-Anderson 2' Driving Layup,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,449,4,0,3,12:10 AM,7:06,,,Holmes REBOUND (Off:1 Def:4),,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,450,1,80,3,12:10 AM,6:56,,,Monk 12' Step Back Jump Shot (6 PTS),63 - 53,-10,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,451,9,1,3,12:10 AM,6:54,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,452,8,0,3,12:11 AM,6:54,SUB: Bryant FOR Christie,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,453,8,0,3,12:11 AM,6:54,SUB: Reaves FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,454,8,0,3,12:11 AM,6:54,SUB: Pippen Jr. FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,532,5,1,3,12:11 AM,6:48,Pippen Jr. Bad Pass Turnover (P1.T13),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012200012,459,6,3,3,12:12 AM,6:48,Pippen Jr. L.B.FOUL (P1.T2) (C.Kirkland),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,462,1,102,3,12:12 AM,6:35,,,Monk 11' Driving Floating Bank Jump Shot (8 PTS),65 - 53,-12,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,463,2,1,3,12:12 AM,6:21,MISS Swider 26' 3PT Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,464,4,0,3,12:12 AM,6:19,,,Monk REBOUND (Off:1 Def:4),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,465,2,1,3,12:12 AM,6:14,,,MISS Monk 26' 3PT Jump Shot,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,466,4,0,3,12:12 AM,6:11,Bryant REBOUND (Off:0 Def:2),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,467,2,1,3,12:13 AM,6:00,MISS Bryant 21' Jump Shot,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,468,4,0,3,12:13 AM,5:57,,,Monk REBOUND (Off:1 Def:5),,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,469,2,1,3,12:13 AM,5:40,,,MISS Mitchell 18' Jump Shot,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,470,4,0,3,12:13 AM,5:38,Bryant REBOUND (Off:0 Def:3),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,471,6,1,3,12:13 AM,5:33,,,Mitchell P.FOUL (P2.T1) (D.Mosher),,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,473,8,0,3,12:13 AM,5:33,,,SUB: Merrill FOR Monk,,,5,1628370,Malik Monk,1610612758.0,Sacramento,Kings,SAC,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,474,8,0,3,12:13 AM,5:33,,,SUB: Davis FOR Holmes,,,5,1626158,Richaun Holmes,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,475,8,0,3,12:13 AM,5:33,,,SUB: Len FOR Lyles,,,5,1626168,Trey Lyles,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,479,2,1,3,12:14 AM,5:29,MISS Swider 16' Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,480,4,0,3,12:14 AM,5:23,,,Murray REBOUND (Off:1 Def:4),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,482,1,1,3,12:14 AM,5:08,,,Murray 21' Jump Shot (16 PTS) (Len 1 AST),67 - 53,-14,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,483,5,1,3,12:14 AM,4:55,Toscano-Anderson Bad Pass Turnover (P1.T14),,Davis STEAL (1 STL),,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,485,2,103,3,12:14 AM,4:49,,,MISS Murray 3PT Running Pull-Up Jump Shot,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,486,4,0,3,12:14 AM,4:48,Toscano-Anderson REBOUND (Off:0 Def:1),,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,488,6,1,3,12:14 AM,4:48,,,Davis P.FOUL (P1.T2) (D.Mosher),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,490,8,0,3,12:15 AM,4:48,SUB: Gabriel FOR Swider,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,491,8,0,3,12:15 AM,4:48,SUB: Christie FOR Toscano-Anderson,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,494,2,1,3,12:15 AM,4:32,MISS Reaves 26' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,495,4,0,3,12:15 AM,4:29,,,Murray REBOUND (Off:1 Def:5),,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,497,6,1,3,12:15 AM,4:29,Bryant P.FOUL (P1.T3) (D.Mosher),,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,499,6,2,3,12:15 AM,4:22,Pippen Jr. S.FOUL (P2.T4) (L.Wood),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,501,3,11,3,12:16 AM,4:22,,,Davis Free Throw 1 of 2 (1 PTS),68 - 53,-15,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,506,3,12,3,12:16 AM,4:22,,,Davis Free Throw 2 of 2 (2 PTS),69 - 53,-16,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,595,8,0,3,12:16 AM,4:22,,,SUB: Metu FOR Murray,,,5,1631099,Keegan Murray,1610612758.0,Sacramento,Kings,SAC,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,596,8,0,3,12:16 AM,4:22,,,SUB: Dellavedova FOR Mitchell,,,5,1630558,Davion Mitchell,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,507,2,101,3,12:17 AM,4:08,MISS Christie 13' Driving Floating Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,508,4,0,3,12:17 AM,4:06,Gabriel REBOUND (Off:2 Def:3),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,509,2,72,3,12:17 AM,4:05,MISS Gabriel Putback Layup,,Metu BLOCK (1 BLK),,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,510,4,0,3,12:17 AM,4:04,,,Merrill REBOUND (Off:0 Def:1),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,511,2,1,3,12:17 AM,3:51,,,MISS Metu 26' 3PT Jump Shot,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,512,4,0,3,12:17 AM,3:47,Christie REBOUND (Off:0 Def:4),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,514,1,47,3,12:17 AM,3:35,Pippen Jr. 11' Turnaround Jump Shot (2 PTS),,,69 - 55,-14,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,515,1,3,3,12:17 AM,3:12,,,Len 7' Hook Shot (2 PTS) (Dellavedova 1 AST),71 - 55,-16,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,517,2,63,3,12:18 AM,2:57,MISS Pippen Jr. 5' Fadeaway Jumper,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,518,4,0,3,12:18 AM,2:54,Gabriel REBOUND (Off:3 Def:3),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,519,1,98,3,12:18 AM,2:50,Gabriel 1' Cutting Layup Shot (6 PTS) (Pippen Jr. 1 AST),,,71 - 57,-14,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,521,6,2,3,12:18 AM,2:50,,,Davis S.FOUL (P2.T3) (D.Mosher),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,525,8,0,3,12:19 AM,2:50,SUB: Swider FOR Bryant,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,605,3,10,3,12:19 AM,2:50,MISS Gabriel Free Throw 1 of 1,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,606,4,0,3,12:19 AM,2:50,,,Metu REBOUND (Off:0 Def:1),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,527,6,1,3,12:19 AM,2:42,Christie P.FOUL (P3.PN) (L.Wood),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,529,3,11,3,12:19 AM,2:42,,,MISS Len Free Throw 1 of 2,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,530,4,1,3,12:19 AM,2:42,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,531,3,12,3,12:19 AM,2:42,,,Len Free Throw 2 of 2 (3 PTS),72 - 57,-15,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,533,2,101,3,12:20 AM,2:22,MISS Reaves 9' Driving Floating Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,534,4,0,3,12:20 AM,2:19,,,Dellavedova REBOUND (Off:0 Def:1),,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,535,2,41,3,12:20 AM,2:16,Gabriel BLOCK (4 BLK),,MISS Davis 5' Running Layup,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,537,4,0,3,12:20 AM,2:16,Pippen Jr. REBOUND (Off:0 Def:1),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,538,2,41,3,12:20 AM,2:11,MISS Reaves 2' Running Layup,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,539,4,0,3,12:20 AM,2:08,,,Dellavedova REBOUND (Off:0 Def:2),,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,540,1,41,3,12:20 AM,2:03,,,Len 3' Running Layup (5 PTS) (Merrill 1 AST),74 - 57,-17,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,542,1,79,3,12:20 AM,1:50,Pippen Jr. 11' Pullup Jump Shot (4 PTS),,,74 - 59,-15,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,544,2,79,3,12:21 AM,1:34,,,MISS Dellavedova 13' Pullup Jump Shot,,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,545,4,0,3,12:21 AM,1:32,Pippen Jr. REBOUND (Off:0 Def:2),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,546,2,57,3,12:21 AM,1:27,MISS Pippen Jr. 3' Driving Hook Shot,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,547,4,0,3,12:21 AM,1:27,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,549,8,0,3,12:21 AM,1:27,,,SUB: Cook FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,551,5,2,3,12:21 AM,1:11,Pippen Jr. STEAL (1 STL),,Metu Lost Ball Turnover (P1.T7),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,553,2,2,3,12:21 AM,1:06,MISS Pippen Jr. 27' 3PT Running Jump Shot,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,554,4,0,3,12:21 AM,1:04,,,Len REBOUND (Off:0 Def:1),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,555,8,0,3,12:22 AM,1:00,,,SUB: Davis FOR Cook,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,557,10,0,3,12:22 AM,0:55,Jump Ball Christie vs. Dellavedova: Tip to Merrill,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,560,2,1,3,12:22 AM,0:48,,,MISS Davis 28' 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,561,4,0,3,12:22 AM,0:44,,,Merrill REBOUND (Off:1 Def:1),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,562,2,1,3,12:22 AM,0:43,,,MISS Dellavedova 26' 3PT Jump Shot,,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,563,4,0,3,12:22 AM,0:39,Gabriel REBOUND (Off:3 Def:4),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,564,2,9,3,12:23 AM,0:30,MISS Christie 3' Driving Dunk,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,565,4,0,3,12:23 AM,0:28,,,Metu REBOUND (Off:0 Def:2),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,566,1,75,3,12:23 AM,0:12,,,Davis 3' Driving Finger Roll Layup (4 PTS),76 - 59,-17,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,567,2,1,3,12:23 AM,0:00,MISS Christie 24' 3PT Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,568,4,0,3,12:23 AM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,569,13,0,3,12:23 AM,0:00,,End of 3rd Period (12:23 AM EST),,76 - 59,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,577,12,0,4,12:26 AM,12:00,,Start of 4th Period (12:26 AM EST),,76 - 59,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,578,2,101,4,12:26 AM,11:34,MISS Christie 10' Driving Floating Jump Shot,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,579,4,0,4,12:26 AM,11:30,,,Len REBOUND (Off:0 Def:2),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,580,2,1,4,12:27 AM,11:22,,,MISS Davis 25' 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,581,4,0,4,12:27 AM,11:20,Toscano-Anderson REBOUND (Off:0 Def:2),,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,582,5,1,4,12:27 AM,11:11,Nunn Bad Pass Turnover (P5.T15),,Davis STEAL (2 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,584,2,1,4,12:27 AM,10:45,,,MISS Merrill 26' 3PT Jump Shot,,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,585,4,0,4,12:27 AM,10:43,Nunn REBOUND (Off:0 Def:2),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,586,6,2,4,12:27 AM,10:37,,,Dellavedova S.FOUL (P1.T1) (D.Mosher),,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,588,3,13,4,12:28 AM,10:37,Swider Free Throw 1 of 3 (4 PTS),,,76 - 60,-16,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,589,3,14,4,12:29 AM,10:37,Swider Free Throw 2 of 3 (5 PTS),,,76 - 61,-15,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,590,3,15,4,12:29 AM,10:37,MISS Swider Free Throw 3 of 3,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,591,4,0,4,12:29 AM,10:34,,,Merrill REBOUND (Off:1 Def:2),,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,592,1,79,4,12:29 AM,10:12,,,Metu 13' Pullup Jump Shot (2 PTS) (Dellavedova 2 AST),78 - 61,-17,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,594,5,45,4,12:29 AM,10:00,Toscano-Anderson Out of Bounds - Bad Pass Turnover Turnover (P2.T16),,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200012,599,2,1,4,12:30 AM,9:39,,,MISS Davis 25' 3PT Jump Shot,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,600,4,0,4,12:30 AM,9:37,Toscano-Anderson REBOUND (Off:0 Def:3),,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,601,1,1,4,12:30 AM,9:29,Swider 24' 3PT Jump Shot (8 PTS) (Nunn 1 AST),,,78 - 64,-14,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,604,9,1,4,12:30 AM,9:29,,,Kings Timeout: Regular (Reg.5 Short 0),,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,607,1,1,4,12:33 AM,9:14,,,Merrill 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),81 - 64,-17,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,609,1,80,4,12:34 AM,8:52,Swider 22' Step Back Jump Shot (10 PTS),,,81 - 66,-15,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,610,1,1,4,12:34 AM,8:42,,,Merrill 25' 3PT Jump Shot (6 PTS) (Dellavedova 3 AST),84 - 66,-18,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,611,1,79,4,12:34 AM,8:34,Nunn 20' Pullup Jump Shot (9 PTS),,,84 - 68,-16,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,612,2,5,4,12:34 AM,8:19,Jones BLOCK (2 BLK),,MISS Davis 6' Layup,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,614,4,0,4,12:34 AM,8:10,,,Len REBOUND (Off:1 Def:2),,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,615,1,87,4,12:34 AM,8:10,,,Len Putback Dunk (7 PTS),86 - 68,-18,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,617,6,2,4,12:34 AM,8:08,,,Davis S.FOUL (P3.T2) (C.Kirkland),,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,619,3,11,4,12:35 AM,8:08,MISS Jones Free Throw 1 of 2,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,620,4,1,4,12:35 AM,8:08,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,621,8,0,4,12:35 AM,8:08,SUB: Reaves FOR Christie,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,622,8,0,4,12:35 AM,8:08,SUB: Pippen Jr. FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,623,8,0,4,12:35 AM,8:08,,,SUB: Moneke FOR Merrill,,,5,1630241,Sam Merrill,1610612758.0,Sacramento,Kings,SAC,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,624,8,0,4,12:35 AM,8:08,,,SUB: Cook FOR Len,,,5,203458,Alex Len,1610612758.0,Sacramento,Kings,SAC,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,630,8,0,4,12:35 AM,8:08,,,SUB: Bazemore FOR Davis,,,5,1629056,Terence Davis,1610612758.0,Sacramento,Kings,SAC,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,629,3,12,4,12:35 AM,8:08,Jones Free Throw 2 of 2 (1 PTS),,,86 - 69,-17,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,632,2,1,4,12:35 AM,7:45,,,MISS Cook 12' Jump Shot,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,633,4,0,4,12:35 AM,7:45,,,Metu REBOUND (Off:1 Def:2),,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,634,1,97,4,12:35 AM,7:45,,,Metu Tip Layup Shot (4 PTS),88 - 69,-19,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,635,6,2,4,12:36 AM,7:45,Jones S.FOUL (P2.T1) (C.Kirkland),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,637,3,10,4,12:36 AM,7:45,,,MISS Metu Free Throw 1 of 1,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,638,4,0,4,12:36 AM,7:42,Jones REBOUND (Off:0 Def:4),,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,639,6,2,4,12:36 AM,7:35,,,Moneke S.FOUL (P1.T3) (C.Kirkland),,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,641,3,11,4,12:36 AM,7:35,MISS Toscano-Anderson Free Throw 1 of 2,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,642,4,1,4,12:36 AM,7:35,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,643,8,0,4,12:36 AM,7:35,SUB: Gabriel FOR Swider,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,645,3,12,4,12:37 AM,7:35,MISS Toscano-Anderson Free Throw 2 of 2,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,646,4,0,4,12:37 AM,7:32,,,Moneke REBOUND (Off:0 Def:1),,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,647,2,98,4,12:37 AM,7:13,,,MISS Moneke 4' Cutting Layup Shot,,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,648,4,0,4,12:37 AM,7:11,Gabriel REBOUND (Off:3 Def:5),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,649,5,2,4,12:37 AM,7:08,Gabriel Lost Ball Turnover (P1.T17),,Bazemore STEAL (1 STL),,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,651,6,1,4,12:37 AM,7:04,Reaves P.FOUL (P1.T2) (C.Kirkland),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,653,8,0,4,12:38 AM,7:04,,,SUB: Ellis FOR Metu,,,5,1629002,Chimezie Metu,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,654,8,0,4,12:38 AM,7:04,,,SUB: Queta FOR Dellavedova,,,5,203521,Matthew Dellavedova,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0
+0012200012,657,2,1,4,12:38 AM,6:54,,,MISS Bazemore 22' Jump Shot,,,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,658,4,0,4,12:38 AM,6:52,,,Cook REBOUND (Off:1 Def:0),,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,659,1,1,4,12:38 AM,6:43,,,Bazemore 25' 3PT Jump Shot (3 PTS) (Moneke 1 AST),91 - 69,-22,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,661,6,1,4,12:38 AM,6:34,,,Bazemore P.FOUL (P1.T4) (C.Kirkland),,,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,663,2,1,4,12:39 AM,6:20,MISS Reaves 27' 3PT Jump Shot,,Ellis BLOCK (1 BLK),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,665,4,0,4,12:39 AM,6:20,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,666,5,11,4,12:39 AM,6:20,LAKERS Turnover: Shot Clock (T#18),,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200012,667,8,0,4,12:39 AM,6:20,SUB: Bryant FOR Jones,,,,,4,1627745,Damian Jones,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,668,8,0,4,12:39 AM,6:20,SUB: Christie FOR Toscano-Anderson,,,,,4,1629308,Juan Toscano-Anderson,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,671,6,1,4,12:40 AM,6:06,Pippen Jr. P.FOUL (P3.T3) (C.Kirkland),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,673,2,6,4,12:40 AM,5:57,Bryant BLOCK (1 BLK),,MISS Moneke 5' Driving Layup,,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,674,4,0,4,12:40 AM,5:55,,,Queta REBOUND (Off:1 Def:0),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,675,1,72,4,12:40 AM,5:55,,,Queta Putback Layup (2 PTS),93 - 69,-24,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,678,5,45,4,12:42 AM,5:39,Reaves Out of Bounds - Bad Pass Turnover Turnover (P3.T19),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200012,680,1,79,4,12:42 AM,5:22,,,Cook 27' 3PT Pullup Jump Shot (3 PTS),96 - 69,-27,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,681,1,1,4,12:42 AM,5:07,Reaves 26' 3PT Jump Shot (5 PTS) (Christie 3 AST),,,96 - 72,-24,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,683,2,1,4,12:43 AM,4:50,Reaves BLOCK (1 BLK),,MISS Ellis 12' Jump Shot,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1
+0012200012,685,4,0,4,12:43 AM,4:47,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,687,8,0,4,12:43 AM,4:46,SUB: Swider FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012200012,689,2,1,4,12:43 AM,4:40,,,MISS Cook 26' 3PT Jump Shot,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,690,4,0,4,12:43 AM,4:38,Pippen Jr. REBOUND (Off:0 Def:3),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,691,2,1,4,12:43 AM,4:25,MISS Swider 28' 3PT Jump Shot,,,,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,692,4,0,4,12:43 AM,4:23,Gabriel REBOUND (Off:4 Def:5),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,694,6,2,4,12:44 AM,4:18,,,Ellis S.FOUL (P1.PN) (C.Kirkland),,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012200012,696,3,11,4,12:44 AM,4:18,MISS Christie Free Throw 1 of 2,,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,697,4,1,4,12:44 AM,4:18,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,698,3,12,4,12:45 AM,4:18,Christie Free Throw 2 of 2 (3 PTS),,,96 - 73,-23,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,699,1,1,4,12:45 AM,4:04,,,Bazemore 20' Jump Shot (5 PTS) (Queta 1 AST),98 - 73,-25,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,701,5,1,4,12:45 AM,3:50,Pippen Jr. Bad Pass Turnover (P2.T20),,Moneke STEAL (1 STL),,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,703,1,50,4,12:45 AM,3:46,,,Moneke 2' Running Dunk (2 PTS),100 - 73,-27,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,704,2,1,4,12:45 AM,3:35,MISS Christie 3PT Jump Shot,,Ellis BLOCK (2 BLK),,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,706,4,0,4,12:45 AM,3:35,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,708,9,1,4,12:46 AM,3:35,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,710,1,1,4,12:49 AM,3:22,Christie 19' Jump Shot (5 PTS) (Bryant 1 AST),,,100 - 75,-25,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,4,1628418,Thomas Bryant,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012200012,712,2,1,4,12:49 AM,2:58,,,MISS Bazemore 25' 3PT Jump Shot,,,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,713,4,0,4,12:49 AM,2:56,Christie REBOUND (Off:0 Def:5),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,714,5,1,4,12:49 AM,2:47,Christie Bad Pass Turnover (P2.T21),,Ellis STEAL (1 STL),,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,716,2,2,4,12:49 AM,2:42,,,MISS Ellis 26' 3PT Running Jump Shot,,,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,717,4,0,4,12:50 AM,2:38,Pippen Jr. REBOUND (Off:0 Def:4),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,718,2,1,4,12:50 AM,2:30,MISS Gabriel 25' 3PT Jump Shot,,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,719,4,0,4,12:50 AM,2:26,,,Moneke REBOUND (Off:0 Def:2),,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,720,1,52,4,12:50 AM,2:13,,,Queta 2' Alley Oop Dunk (4 PTS) (Ellis 1 AST),102 - 75,-27,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,722,2,1,4,12:50 AM,1:56,MISS Pippen Jr. 18' Jump Shot,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,723,4,0,4,12:50 AM,1:54,,,Queta REBOUND (Off:1 Def:1),,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,724,2,6,4,12:50 AM,1:47,,,MISS Cook 2' Driving Layup,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,725,4,0,4,12:50 AM,1:47,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200012,727,5,45,4,12:51 AM,1:29,Gabriel Out of Bounds - Bad Pass Turnover Turnover (P2.T22),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012200012,728,6,1,4,12:51 AM,1:20,Pippen Jr. P.FOUL (P4.T4) (L.Wood),,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,730,2,98,4,12:52 AM,1:14,,,MISS Cook 5' Cutting Layup Shot,,,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,731,4,0,4,12:52 AM,1:11,Gabriel REBOUND (Off:4 Def:6),,,,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,732,2,6,4,12:52 AM,1:05,MISS Swider 3' Driving Layup,,Moneke BLOCK (1 BLK),,,4,1631306,Cole Swider,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1631320,Chima Moneke,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,734,4,0,4,12:52 AM,1:05,,,Kings Rebound,,,3,1610612758,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,736,1,102,4,12:52 AM,0:54,,,Ellis 10' Driving Floating Bank Jump Shot (2 PTS) (Cook 1 AST),104 - 75,-29,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,5,1626188,Quinn Cook,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,1
+0012200012,737,6,2,4,12:52 AM,0:54,Christie S.FOUL (P4.PN) (C.Kirkland),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,1,0,,,,,,1
+0012200012,739,3,10,4,12:53 AM,0:54,,,Ellis Free Throw 1 of 1 (3 PTS),105 - 75,-30,5,1631165,Keon Ellis,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,740,2,1,4,12:53 AM,0:42,MISS Pippen Jr. 27' 3PT Jump Shot,,,,,4,1630590,Scotty Pippen Jr.,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,741,4,0,4,12:53 AM,0:39,,,Bazemore REBOUND (Off:0 Def:1),,,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,742,2,2,4,12:53 AM,0:33,,,MISS Bazemore 26' 3PT Running Jump Shot,,,5,203145,Kent Bazemore,1610612758.0,Sacramento,Kings,SAC,0,0,,,,,,0,0,,,,,,1
+0012200012,743,4,0,4,12:53 AM,0:33,Christie REBOUND (Off:0 Def:6),,,,,4,1631108,Max Christie,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012200012,745,2,6,4,12:54 AM,0:12,MISS Gabriel 5' Driving Layup,,Queta BLOCK (1 BLK),,,4,1629117,Wenyen Gabriel,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629674,Neemias Queta,1610612758.0,Sacramento,Kings,SAC,1
+0012200012,747,4,0,4,12:54 AM,0:09,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200012,748,5,11,4,12:54 AM,0:09,LAKERS Turnover: Shot Clock (T#23),,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200012,749,13,0,4,12:54 AM,0:00,,End of 4th Period (12:54 AM EST),,105 - 75,-30,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

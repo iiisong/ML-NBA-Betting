@@ -1,0 +1,503 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012200017,2,12,0,1,10:12 PM,12:00,,Start of 1st Period (10:12 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,4,10,0,1,10:12 PM,12:00,Jump Ball Nurkic vs. Markkanen: Tip to Grant,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,7,6,4,1,10:12 PM,11:43,Lillard OFF.Foul (P1) (S.Twardoski),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,9,5,37,1,10:12 PM,11:43,Lillard Offensive Foul Turnover (P1.T1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,10,2,96,1,10:12 PM,11:28,,,MISS Markkanen 2' Turnaround Bank Hook Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,12,1,107,1,10:12 PM,11:22,,,Olynyk Tip Dunk Shot (2 PTS),2 - 0,-2,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,11,4,0,1,10:12 PM,11:22,,,Olynyk REBOUND (Off:1 Def:0),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,13,2,57,1,10:13 PM,11:07,MISS Grant 3' Driving Hook Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,14,4,0,1,10:13 PM,11:06,Grant REBOUND (Off:1 Def:0),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,15,2,97,1,10:13 PM,11:06,MISS Grant Tip Layup Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,16,4,0,1,10:13 PM,11:05,,,Markkanen REBOUND (Off:0 Def:1),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,17,5,2,1,10:13 PM,11:04,Winslow STEAL (1 STL),,Markkanen Lost Ball Turnover (P1.T1),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,19,1,44,1,10:13 PM,10:52,Winslow 1' Reverse Layup (2 PTS) (Nurkic 1 AST),,,2 - 2,TIE,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,21,5,45,1,10:13 PM,10:42,,,Markkanen Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,22,1,98,1,10:14 PM,10:19,Nurkic 3' Cutting Layup Shot (2 PTS) (Lillard 1 AST),,,2 - 4,2,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,24,1,79,1,10:14 PM,10:01,,,Markkanen 18' Pullup Jump Shot (2 PTS) (Olynyk 1 AST),4 - 4,TIE,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,26,1,44,1,10:14 PM,9:42,Nurkic 2' Reverse Layup (4 PTS) (Winslow 1 AST),,,4 - 6,2,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,28,5,1,1,10:15 PM,9:26,Winslow STEAL (2 STL),,Vanderbilt Bad Pass Turnover (P1.T3),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,30,5,45,1,10:15 PM,9:25,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,31,2,1,1,10:15 PM,9:23,,,MISS Clarkson 24' 3PT Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,32,4,0,1,10:15 PM,9:21,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,34,2,79,1,10:15 PM,9:03,MISS Simons 25' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,35,4,0,1,10:16 PM,8:57,Lillard REBOUND (Off:1 Def:0),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,36,5,1,1,10:16 PM,8:56,Lillard Bad Pass Turnover (P2.T3),,Olynyk STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,38,1,41,1,10:16 PM,8:52,,,Conley 1' Running Layup (2 PTS) (Olynyk 2 AST),6 - 6,TIE,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,40,6,2,1,10:16 PM,8:35,,,Markkanen S.FOUL (P1.T1) (S.Twardoski),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,42,3,11,1,10:16 PM,8:35,MISS Nurkic Free Throw 1 of 2,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,43,4,1,1,10:16 PM,8:35,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,44,3,12,1,10:16 PM,8:35,Nurkic Free Throw 2 of 2 (5 PTS),,,6 - 7,1,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,45,2,5,1,10:17 PM,8:17,,,MISS Vanderbilt 2' Layup,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,46,4,0,1,10:17 PM,8:16,,,Olynyk REBOUND (Off:2 Def:0),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,47,2,1,1,10:17 PM,8:14,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,48,4,0,1,10:17 PM,8:11,,,Vanderbilt REBOUND (Off:1 Def:0),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,49,2,72,1,10:17 PM,8:09,,,MISS Vanderbilt 3' Putback Layup,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,50,4,0,1,10:17 PM,8:08,Grant REBOUND (Off:1 Def:1),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,52,2,3,1,10:18 PM,7:49,MISS Nurkic 7' Hook Shot,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,53,4,0,1,10:18 PM,7:47,Winslow REBOUND (Off:1 Def:0),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,54,1,97,1,10:18 PM,7:47,Winslow Tip Layup Shot (4 PTS),,,6 - 9,3,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,55,6,1,1,10:18 PM,7:31,Grant P.FOUL (P1.T1) (S.Mitchell),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,57,6,2,1,10:19 PM,7:29,Nurkic S.FOUL (P1.T2) (P.Fraher),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,59,3,11,1,10:19 PM,7:29,,,MISS Vanderbilt Free Throw 1 of 2,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,60,4,1,1,10:19 PM,7:29,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,61,3,12,1,10:19 PM,7:29,,,MISS Vanderbilt Free Throw 2 of 2,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,0
+0012200017,62,4,0,1,10:19 PM,7:27,Grant REBOUND (Off:1 Def:2),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,63,1,5,1,10:19 PM,7:13,Nurkic 3' Layup (7 PTS) (Winslow 2 AST),,,6 - 11,5,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,65,2,1,1,10:20 PM,7:00,,,MISS Conley 24' 3PT Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,66,4,0,1,10:20 PM,6:56,Lillard REBOUND (Off:1 Def:1),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,67,2,80,1,10:20 PM,6:51,MISS Lillard 26' 3PT Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,68,4,0,1,10:20 PM,6:49,,,Markkanen REBOUND (Off:0 Def:2),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,69,2,6,1,10:20 PM,6:40,,,MISS Conley 3' Driving Layup,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,70,4,0,1,10:20 PM,6:39,Winslow REBOUND (Off:1 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,71,5,2,1,10:20 PM,6:34,Lillard Lost Ball Turnover (P3.T4),,Clarkson STEAL (1 STL),,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,73,1,50,1,10:20 PM,6:29,,,Vanderbilt Running Dunk (2 PTS) (Olynyk 3 AST),8 - 11,3,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,75,5,1,1,10:20 PM,6:08,Nurkic Bad Pass Turnover (P1.T5),,Olynyk STEAL (2 STL),,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,77,1,103,1,10:21 PM,6:05,,,Clarkson 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Markkanen 1 AST),11 - 11,TIE,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,79,9,1,1,10:21 PM,6:03,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,80,8,0,1,10:23 PM,6:03,SUB: Johnson FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,81,8,0,1,10:23 PM,6:03,,,SUB: Sexton FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,82,8,0,1,10:23 PM,6:03,,,SUB: Kessler FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,86,1,1,1,10:24 PM,5:49,Grant 15' Jump Shot (2 PTS) (Lillard 2 AST),,,11 - 13,2,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,88,5,45,1,10:24 PM,5:34,,,Clarkson Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,89,6,17,1,10:25 PM,5:19,,,Jazz T.Foul (Def. 3 Sec Olynyk ) (S.Twardoski),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,90,3,16,1,10:25 PM,5:19,Lillard Free Throw Technical (1 PTS),,,11 - 14,3,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,91,2,79,1,10:25 PM,5:15,MISS Winslow 17' Pullup Jump Shot,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,92,4,0,1,10:25 PM,5:13,,,Olynyk REBOUND (Off:2 Def:1),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,93,5,2,1,10:26 PM,5:05,Johnson STEAL (1 STL),,Olynyk Lost Ball Turnover (P1.T5),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,95,1,79,1,10:26 PM,4:55,Lillard 25' 3PT Pullup Jump Shot (4 PTS),,,11 - 17,6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,96,1,1,1,10:26 PM,4:34,,,Olynyk 24' 3PT Jump Shot (5 PTS) (Kessler 1 AST),14 - 17,3,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,98,1,80,1,10:26 PM,4:21,Lillard 25' 3PT Step Back Jump Shot (7 PTS),,,14 - 20,6,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,99,1,1,1,10:27 PM,4:06,,,Olynyk 25' 3PT Jump Shot (8 PTS) (Clarkson 1 AST),17 - 20,3,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,101,6,1,1,10:27 PM,3:57,,,Clarkson P.FOUL (P1.T2) (P.Fraher),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,103,8,0,1,10:27 PM,3:57,SUB: Hart FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,104,8,0,1,10:27 PM,3:57,SUB: Little FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,105,8,0,1,10:27 PM,3:57,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,106,8,0,1,10:27 PM,3:57,,,SUB: Horton-Tucker FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,107,8,0,1,10:27 PM,3:57,,,SUB: Beasley FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,108,8,0,1,10:27 PM,3:57,,,SUB: Johnson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,115,2,1,1,10:27 PM,3:50,MISS Lillard 30' 3PT Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,116,4,0,1,10:27 PM,3:47,,,Horton-Tucker REBOUND (Off:0 Def:1),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,117,6,4,1,10:28 PM,3:38,,,Johnson OFF.Foul (P1) (S.Mitchell),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,119,5,37,1,10:28 PM,3:38,,,Johnson Offensive Foul Turnover (P1.T6),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,120,8,0,1,10:28 PM,3:38,SUB: Simons FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,122,2,79,1,10:28 PM,3:23,MISS Simons 19' Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,123,4,0,1,10:28 PM,3:20,,,Horton-Tucker REBOUND (Off:0 Def:2),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,124,2,41,1,10:28 PM,3:14,Hart BLOCK (1 BLK),,MISS Horton-Tucker 3' Running Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,126,4,0,1,10:28 PM,3:12,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,128,5,2,1,10:29 PM,3:07,Johnson STEAL (2 STL),,Kessler Lost Ball Turnover (P1.T7),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,130,1,41,1,10:29 PM,3:03,Johnson 1' Running Layup (2 PTS),,,17 - 22,5,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,131,9,1,1,10:29 PM,3:03,,,Jazz Timeout: Regular (Reg.1 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,132,6,4,1,10:32 PM,2:50,,,Horton-Tucker OFF.Foul (P1) (P.Fraher),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,134,5,37,1,10:32 PM,2:50,,,Horton-Tucker Offensive Foul Turnover (P1.T8),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,135,2,101,1,10:32 PM,2:38,MISS Johnson 15' Driving Floating Jump Shot,,Kessler BLOCK (1 BLK),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1
+0012200017,137,4,0,1,10:33 PM,2:35,Johnson REBOUND (Off:1 Def:0),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,138,2,80,1,10:33 PM,2:26,MISS Simons 26' 3PT Step Back Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,139,4,0,1,10:33 PM,2:25,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,140,5,11,1,10:33 PM,2:25,TRAIL BLAZERS Turnover: Shot Clock (T#6),,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200017,141,1,6,1,10:33 PM,2:12,,,Sexton 2' Driving Layup (2 PTS),19 - 22,3,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,142,6,1,1,10:33 PM,2:10,,,Sexton P.FOUL (P1.T3) (P.Fraher),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,144,2,1,1,10:34 PM,1:59,MISS Little 25' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,145,4,0,1,10:34 PM,1:56,,,Kessler REBOUND (Off:0 Def:1),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,146,5,40,1,10:34 PM,1:54,,,Kessler Out of Bounds Lost Ball Turnover (P2.T9),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,147,8,0,1,10:34 PM,1:54,,,SUB: Vanderbilt FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,148,8,0,1,10:34 PM,1:54,,,SUB: Conley FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,151,2,6,1,10:35 PM,1:36,MISS Little 1' Driving Layup,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,152,4,0,1,10:35 PM,1:35,Eubanks REBOUND (Off:1 Def:0),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,154,6,2,1,10:35 PM,1:24,,,Johnson S.FOUL (P2.T4) (S.Twardoski),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,156,3,11,1,10:36 PM,1:24,Simons Free Throw 1 of 2 (1 PTS),,,19 - 23,4,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,157,3,12,1,10:36 PM,1:24,Simons Free Throw 2 of 2 (2 PTS),,,19 - 24,5,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,158,2,86,1,10:36 PM,1:02,,,MISS Horton-Tucker 17' Turnaround Fadeaway Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,159,4,0,1,10:36 PM,0:59,,,Vanderbilt REBOUND (Off:2 Def:0),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,160,1,78,1,10:36 PM,0:59,,,Johnson 5' Floating Jump Shot (2 PTS) (Vanderbilt 1 AST),21 - 24,3,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,162,5,1,1,10:37 PM,0:40,Johnson Bad Pass Turnover (P1.T7),,Conley STEAL (1 STL),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,164,2,78,1,10:37 PM,0:35,,,MISS Beasley 4' Floating Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,165,4,0,1,10:37 PM,0:35,,,Horton-Tucker REBOUND (Off:1 Def:2),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,181,5,39,1,10:37 PM,0:33,,,Horton-Tucker Step Out of Bounds Turnover (P2.T10),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,0
+0012200017,191,18,1,1,10:37 PM,0:33,,Instant Replay1st Period (10:37 PM EST),,21 - 24,3,0,181,Kenny Smith,,,,,0,0,,,,,,1,0,,,,,,0
+0012200017,167,1,80,1,10:37 PM,0:14,Simons 29' 3PT Step Back Jump Shot (5 PTS),,,21 - 27,6,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,168,6,2,1,10:37 PM,0:14,,,Horton-Tucker S.FOUL (P2.PN) (P.Fraher),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,170,3,10,1,10:38 PM,0:14,MISS Simons Free Throw 1 of 1,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,171,4,0,1,10:38 PM,0:11,,,Johnson REBOUND (Off:0 Def:1),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,172,5,4,1,10:38 PM,0:02,,,Horton-Tucker Traveling Turnover (P3.T11),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,173,13,0,1,10:38 PM,0:00,,End of 1st Period (10:38 PM EST),,21 - 27,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,180,12,0,2,10:41 PM,12:00,,Start of 2nd Period (10:41 PM EST),,21 - 27,6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,182,1,6,2,10:41 PM,11:43,,,Conley 2' Driving Layup (4 PTS) (Beasley 1 AST),23 - 27,4,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,183,1,44,2,10:42 PM,11:18,Nurkic 3' Reverse Layup (9 PTS) (Little 1 AST),,,23 - 29,6,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,185,2,79,2,10:42 PM,11:07,,,MISS Conley 26' 3PT Pullup Jump Shot,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,186,4,0,2,10:42 PM,11:07,Hart REBOUND (Off:0 Def:1),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,187,1,41,2,10:42 PM,11:03,Hart 2' Running Layup (2 PTS),,,23 - 31,8,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,188,5,45,2,10:42 PM,10:49,,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,189,1,6,2,10:43 PM,10:35,Lillard 1' Driving Layup (9 PTS),,,23 - 33,10,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,190,9,1,2,10:43 PM,10:34,,,Jazz Timeout: Regular (Reg.2 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,192,1,1,2,10:46 PM,10:19,,,Beasley 25' 3PT Jump Shot (3 PTS) (Olynyk 4 AST),26 - 33,7,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,194,2,1,2,10:46 PM,10:06,MISS Little 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,195,4,0,2,10:46 PM,10:06,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,196,6,3,2,10:46 PM,10:06,Nurkic L.B.FOUL (P2.T1) (S.Mitchell),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,198,2,6,2,10:46 PM,9:53,,,MISS Horton-Tucker 2' Driving Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,199,4,0,2,10:46 PM,9:51,Nurkic REBOUND (Off:0 Def:1),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,200,6,2,2,10:47 PM,9:45,,,Vanderbilt S.FOUL (P1.T1) (P.Fraher),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,202,3,11,2,10:47 PM,9:45,MISS Johnson Free Throw 1 of 2,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,203,4,1,2,10:47 PM,9:45,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,204,3,12,2,10:47 PM,9:45,Johnson Free Throw 2 of 2 (3 PTS),,,26 - 34,8,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,205,1,1,2,10:48 PM,9:33,,,Beasley 26' 3PT Jump Shot (6 PTS) (Conley 1 AST),29 - 34,5,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,207,5,1,2,10:48 PM,9:12,Lillard Bad Pass Turnover (P4.T8),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,208,6,3,2,10:48 PM,9:12,Hart L.B.FOUL (P1.T2) (S.Twardoski),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,210,1,79,2,10:48 PM,8:56,,,Conley 25' 3PT Pullup Jump Shot (7 PTS),32 - 34,2,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,211,6,4,2,10:49 PM,8:51,Nurkic OFF.Foul (P3) (S.Twardoski),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,213,5,37,2,10:49 PM,8:51,Nurkic Offensive Foul Turnover (P2.T9),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,214,1,1,2,10:49 PM,8:24,,,Conley 24' 3PT Jump Shot (10 PTS),35 - 34,-1,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,215,1,3,2,10:49 PM,8:22,Nurkic 3' Hook Shot (11 PTS) (Hart 1 AST),,,35 - 36,1,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,216,2,1,2,10:50 PM,8:15,,,MISS Beasley 27' 3PT Jump Shot,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,217,4,0,2,10:50 PM,8:15,,,Vanderbilt REBOUND (Off:3 Def:0),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,218,1,98,2,10:50 PM,8:09,,,Vanderbilt 1' Cutting Layup Shot (4 PTS) (Olynyk 5 AST),37 - 36,-1,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,220,5,1,2,10:50 PM,7:58,Hart Bad Pass Turnover (P1.T10),,Vanderbilt STEAL (1 STL),,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,222,5,45,2,10:50 PM,7:55,,,Vanderbilt Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,223,8,0,2,10:50 PM,7:55,SUB: Winslow FOR Johnson,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,224,8,0,2,10:50 PM,7:55,SUB: Sharpe FOR Little,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,225,8,0,2,10:50 PM,7:55,SUB: Grant FOR Hart,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,226,8,0,2,10:50 PM,7:55,SUB: Simons FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,227,8,0,2,10:50 PM,7:55,,,SUB: Kessler FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,228,8,0,2,10:50 PM,7:55,,,SUB: Clarkson FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,235,6,1,2,10:51 PM,7:48,,,Kessler P.FOUL (P1.T2) (P.Fraher),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,237,1,101,2,10:51 PM,7:31,Simons 10' Driving Floating Jump Shot (7 PTS),,,37 - 38,1,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,238,6,1,2,10:51 PM,7:17,Winslow P.FOUL (P1.T3) (S.Mitchell),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,240,8,0,2,10:52 PM,7:17,,,SUB: Markkanen FOR Beasley,,,5,1627736,Malik Beasley,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,242,1,101,2,10:52 PM,7:12,,,Clarkson 5' Driving Floating Jump Shot (5 PTS),39 - 38,-1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,243,6,2,2,10:52 PM,7:12,Sharpe S.FOUL (P1.T4) (P.Fraher),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,245,8,0,2,10:52 PM,7:12,SUB: Eubanks FOR Nurkic,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,246,8,0,2,10:52 PM,7:12,,,SUB: Sexton FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,249,3,10,2,10:53 PM,7:12,,,Clarkson Free Throw 1 of 1 (6 PTS),40 - 38,-2,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,250,2,6,2,10:53 PM,6:48,MISS Simons 2' Driving Layup,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,251,4,0,2,10:53 PM,6:47,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,253,1,1,2,10:54 PM,6:42,Grant 26' 3PT Jump Shot (5 PTS) (Eubanks 1 AST),,,40 - 41,1,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,255,6,2,2,10:54 PM,6:31,Eubanks S.FOUL (P1.PN) (S.Twardoski),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,257,3,11,2,10:54 PM,6:31,,,MISS Kessler Free Throw 1 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,258,8,0,2,10:54 PM,6:31,,,SUB: Johnson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,260,4,1,2,10:54 PM,6:31,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,261,3,12,2,10:55 PM,6:31,,,MISS Kessler Free Throw 2 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,262,4,0,2,10:55 PM,6:27,Eubanks REBOUND (Off:1 Def:1),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,263,2,1,2,10:55 PM,6:17,MISS Sharpe 27' 3PT Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,264,4,0,2,10:55 PM,6:13,,,Kessler REBOUND (Off:0 Def:2),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,265,1,1,2,10:55 PM,6:04,,,Sexton 3PT Jump Shot (5 PTS) (Johnson 1 AST),43 - 41,-2,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,267,9,1,2,10:55 PM,6:03,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,269,8,0,2,10:57 PM,6:03,SUB: Hart FOR Eubanks,,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,271,1,1,2,10:59 PM,5:40,Grant 3PT Jump Shot (8 PTS) (Simons 1 AST),,,43 - 44,1,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,273,2,101,2,10:59 PM,5:19,Grant BLOCK (1 BLK),,MISS Sexton 5' Driving Floating Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,275,4,0,2,10:59 PM,5:18,Grant REBOUND (Off:1 Def:3),,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,276,5,40,2,10:59 PM,5:15,Hart Out of Bounds Lost Ball Turnover (P2.T11),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,277,2,63,2,10:59 PM,4:59,Hart BLOCK (2 BLK),,MISS Clarkson 15' Fadeaway Jumper,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,279,4,0,2,11:00 PM,4:54,,,Johnson REBOUND (Off:1 Def:1),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,280,2,1,2,11:00 PM,4:51,,,MISS Johnson 21' Jump Shot,,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,281,4,0,2,11:00 PM,4:49,,,Clarkson REBOUND (Off:1 Def:0),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,282,2,79,2,11:00 PM,4:44,,,MISS Sexton 17' Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,283,4,0,2,11:00 PM,4:41,Hart REBOUND (Off:0 Def:2),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,284,2,1,2,11:00 PM,4:33,MISS Sharpe 3PT Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,285,4,0,2,11:00 PM,4:31,Winslow REBOUND (Off:2 Def:1),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,286,1,1,2,11:00 PM,4:29,Simons 27' 3PT Jump Shot (10 PTS) (Winslow 3 AST),,,43 - 47,4,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,288,1,1,2,11:00 PM,4:02,,,Johnson 16' Jump Shot (4 PTS) (Markkanen 2 AST),45 - 47,2,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,290,5,45,2,11:01 PM,3:49,Simons Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,291,8,0,2,11:01 PM,3:49,SUB: Lillard FOR Sharpe,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,292,8,0,2,11:01 PM,3:49,SUB: Nurkic FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,295,1,101,2,11:01 PM,3:40,,,Clarkson 8' Driving Floating Jump Shot (8 PTS) (Sexton 1 AST),47 - 47,TIE,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,297,6,2,2,11:01 PM,3:32,,,Kessler S.FOUL (P2.T3) (S.Twardoski),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,300,3,11,2,11:02 PM,3:32,Lillard Free Throw 1 of 2 (10 PTS),,,47 - 48,1,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,301,3,12,2,11:02 PM,3:32,Lillard Free Throw 2 of 2 (11 PTS),,,47 - 49,2,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,302,2,66,2,11:02 PM,3:18,,,MISS Markkanen 26' 3PT Jump Bank Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,303,4,0,2,11:02 PM,3:15,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,305,2,1,2,11:03 PM,2:56,MISS Grant 24' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,306,4,0,2,11:03 PM,2:54,,,Kessler REBOUND (Off:0 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,307,2,1,2,11:03 PM,2:47,,,MISS Markkanen 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,308,4,0,2,11:03 PM,2:44,Hart REBOUND (Off:0 Def:3),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,309,2,86,2,11:03 PM,2:31,MISS Grant 11' Turnaround Fadeaway Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,310,4,0,2,11:03 PM,2:29,,,Johnson REBOUND (Off:1 Def:2),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,311,2,41,2,11:03 PM,2:26,Lillard BLOCK (1 BLK),,MISS Sexton 2' Running Layup,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,313,4,0,2,11:03 PM,2:24,Lillard REBOUND (Off:1 Def:2),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,314,6,2,2,11:04 PM,2:15,,,Kessler S.FOUL (P3.T4) (S.Mitchell),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,316,3,11,2,11:04 PM,2:15,Hart Free Throw 1 of 2 (3 PTS),,,47 - 50,3,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,318,8,0,2,11:04 PM,2:15,,,SUB: Olynyk FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,319,8,0,2,11:04 PM,2:15,,,SUB: Vanderbilt FOR Johnson,,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,320,8,0,2,11:04 PM,2:15,,,SUB: Conley FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,324,3,12,2,11:05 PM,2:15,Hart Free Throw 2 of 2 (4 PTS),,,47 - 51,4,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,325,6,1,2,11:05 PM,1:56,Simons P.FOUL (P1.PN) (S.Mitchell),,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,327,3,11,2,11:05 PM,1:56,,,Clarkson Free Throw 1 of 2 (9 PTS),48 - 51,3,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,328,3,12,2,11:06 PM,1:56,,,Clarkson Free Throw 2 of 2 (10 PTS),49 - 51,2,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,329,6,1,2,11:06 PM,1:47,,,Olynyk P.FOUL (P1.PN) (P.Fraher),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,331,3,11,2,11:06 PM,1:47,MISS Nurkic Free Throw 1 of 2,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,332,4,1,2,11:06 PM,1:47,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,333,3,12,2,11:06 PM,1:47,Nurkic Free Throw 2 of 2 (12 PTS),,,49 - 52,3,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,334,5,45,2,11:07 PM,1:32,,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,336,6,2,2,11:07 PM,1:09,,,Olynyk S.FOUL (P2.PN) (P.Fraher),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,338,3,11,2,11:08 PM,1:09,Lillard Free Throw 1 of 2 (12 PTS),,,49 - 53,4,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,339,3,12,2,11:08 PM,1:09,Lillard Free Throw 2 of 2 (13 PTS),,,49 - 54,5,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,340,1,80,2,11:08 PM,1:02,,,Conley 26' 3PT Step Back Jump Shot (13 PTS),52 - 54,2,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,341,2,80,2,11:09 PM,0:44,MISS Lillard 20' Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,342,4,0,2,11:09 PM,0:42,,,Vanderbilt REBOUND (Off:3 Def:1),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,343,2,80,2,11:09 PM,0:30,,,MISS Clarkson 25' 3PT Step Back Jump Shot,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,344,4,0,2,11:09 PM,0:28,Lillard REBOUND (Off:1 Def:3),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,345,5,2,2,11:09 PM,0:06,Lillard Lost Ball Turnover (P5.T13),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,346,6,3,2,11:09 PM,0:06,Lillard L.B.FOUL (P2.PN) (S.Mitchell),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,348,3,11,2,11:10 PM,0:06,,,Olynyk Free Throw 1 of 2 (9 PTS),53 - 54,1,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,349,3,12,2,11:10 PM,0:06,,,Olynyk Free Throw 2 of 2 (10 PTS),54 - 54,TIE,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,350,18,0,2,11:11 PM,0:00,,Instant Replay2nd Period (11:11 PM EST),,54 - 54,TIE,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0012200017,351,13,0,2,11:11 PM,0:00,,End of 2nd Period (11:11 PM EST),,54 - 54,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,356,12,0,3,11:26 PM,12:00,,Start of 3rd Period (11:26 PM EST),,54 - 54,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,357,2,80,3,11:26 PM,11:35,,,MISS Markkanen 26' 3PT Step Back Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,358,4,0,3,11:26 PM,11:32,Lillard REBOUND (Off:1 Def:4),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,359,2,6,3,11:27 PM,11:19,MISS Simons 2' Driving Layup,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,360,4,0,3,11:27 PM,11:17,,,Olynyk REBOUND (Off:2 Def:2),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,361,6,2,3,11:27 PM,11:14,Nurkic S.FOUL (P4.T1) (P.Fraher),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,363,3,11,3,11:27 PM,11:14,,,Markkanen Free Throw 1 of 2 (3 PTS),55 - 54,-1,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,364,3,12,3,11:27 PM,11:14,,,Markkanen Free Throw 2 of 2 (4 PTS),56 - 54,-2,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,365,6,1,3,11:28 PM,11:02,,,Conley P.FOUL (P1.T1) (S.Twardoski),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,367,1,98,3,11:28 PM,10:52,Winslow 2' Cutting Layup Shot (6 PTS) (Lillard 3 AST),,,56 - 56,TIE,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,369,1,58,3,11:28 PM,10:38,,,Markkanen 5' Turnaround Hook Shot (6 PTS),58 - 56,-2,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,370,6,2,3,11:29 PM,10:38,Nurkic S.FOUL (P5.T2) (S.Twardoski),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,372,3,10,3,11:29 PM,10:38,,,MISS Markkanen Free Throw 1 of 1,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,373,4,0,3,11:29 PM,10:35,Winslow REBOUND (Off:2 Def:2),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,374,1,80,3,11:29 PM,10:24,Lillard 21' Step Back Jump Shot (15 PTS),,,58 - 58,TIE,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,375,6,2,3,11:30 PM,10:00,Winslow S.FOUL (P2.T3) (S.Twardoski),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,377,3,13,3,11:30 PM,10:00,,,Clarkson Free Throw 1 of 3 (11 PTS),59 - 58,-1,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,378,3,14,3,11:30 PM,10:00,,,Clarkson Free Throw 2 of 3 (12 PTS),60 - 58,-2,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,379,3,15,3,11:31 PM,10:00,,,Clarkson Free Throw 3 of 3 (13 PTS),61 - 58,-3,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,380,6,14,3,11:31 PM,9:50,,,Olynyk FLAGRANT.FOUL.TYPE1 (P3.T2) (P.Fraher),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,382,18,1,3,11:31 PM,9:50,,Instant Replay3rd Period (11:31 PM EST),,61 - 58,-3,0,380,Tony Smith,,,,,0,0,,,,,,1,0,,,,,,0
+0012200017,383,3,18,3,11:34 PM,9:50,MISS Nurkic Free Throw Flagrant 1 of 2,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,384,4,1,3,11:34 PM,9:50,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,385,3,19,3,11:34 PM,9:50,MISS Nurkic Free Throw Flagrant 2 of 2,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,386,4,1,3,11:34 PM,9:50,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,387,6,1,3,11:34 PM,9:42,,,Markkanen P.FOUL (P2.T3) (S.Twardoski),,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,389,2,1,3,11:35 PM,9:26,MISS Simons 26' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,390,4,0,3,11:35 PM,9:22,Nurkic REBOUND (Off:1 Def:1),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,391,1,1,3,11:35 PM,9:18,Grant 25' 3PT Jump Shot (11 PTS) (Lillard 4 AST),,,61 - 61,TIE,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,393,2,6,3,11:35 PM,9:01,Winslow BLOCK (1 BLK),,MISS Markkanen 3' Driving Layup,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,395,4,0,3,11:35 PM,9:01,,,Vanderbilt REBOUND (Off:4 Def:1),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,406,5,2,3,11:35 PM,9:01,Winslow STEAL (3 STL),,Vanderbilt Lost Ball Turnover (P3.T15),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,396,1,103,3,11:35 PM,8:55,Lillard 25' 3PT Running Pull-Up Jump Shot (18 PTS) (Winslow 4 AST),,,61 - 64,3,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,397,2,1,3,11:36 PM,8:35,,,MISS Markkanen 26' 3PT Jump Shot,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,398,4,0,3,11:36 PM,8:30,Nurkic REBOUND (Off:1 Def:2),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,399,2,1,3,11:36 PM,8:24,MISS Grant 26' 3PT Jump Shot,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,400,4,0,3,11:36 PM,8:21,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,401,5,1,3,11:36 PM,8:15,Winslow STEAL (4 STL),,Olynyk Bad Pass Turnover (P4.T16),,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,403,1,6,3,11:36 PM,8:02,Grant 1' Driving Layup (13 PTS) (Nurkic 2 AST),,,61 - 66,5,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,405,9,1,3,11:36 PM,8:02,,,Jazz Timeout: Regular (Reg.3 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,409,6,1,3,11:40 PM,7:46,Lillard P.FOUL (P3.T4) (S.Twardoski),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,411,1,1,3,11:40 PM,7:38,,,Clarkson 26' 3PT Jump Shot (16 PTS) (Conley 2 AST),64 - 66,2,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,413,2,1,3,11:40 PM,7:15,MISS Nurkic 24' 3PT Jump Shot,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,414,4,0,3,11:40 PM,7:13,,,Vanderbilt REBOUND (Off:4 Def:2),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,415,6,2,3,11:41 PM,7:02,Nurkic S.FOUL (P6.PN) (P.Fraher),,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,417,8,0,3,11:41 PM,7:02,SUB: Hart FOR Simons,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,418,8,0,3,11:41 PM,7:02,SUB: Johnson FOR Nurkic,,,,,4,203994,Jusuf Nurkic,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,421,3,11,3,11:42 PM,7:02,,,Markkanen Free Throw 1 of 2 (7 PTS),65 - 66,1,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,422,3,12,3,11:42 PM,7:02,,,MISS Markkanen Free Throw 2 of 2,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,423,4,0,3,11:42 PM,6:59,Hart REBOUND (Off:0 Def:4),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,424,6,1,3,11:42 PM,6:49,,,Vanderbilt P.FOUL (P2.T4) (S.Twardoski),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,426,1,80,3,11:43 PM,6:39,Lillard 16' Step Back Jump Shot (20 PTS),,,65 - 68,3,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,427,2,1,3,11:43 PM,6:26,,,MISS Olynyk 27' 3PT Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,428,4,0,3,11:43 PM,6:23,,,Clarkson REBOUND (Off:2 Def:0),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,429,1,79,3,11:43 PM,6:21,,,Clarkson 26' 3PT Pullup Jump Shot (19 PTS),68 - 68,TIE,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,430,6,17,3,11:43 PM,6:07,,,Jazz T.Foul (Def. 3 Sec Clarkson ) (P.Fraher),,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,431,3,16,3,11:44 PM,6:07,Lillard Free Throw Technical (21 PTS),,,68 - 69,1,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,432,5,11,3,11:44 PM,5:53,TRAIL BLAZERS Turnover: Shot Clock (T#14),,,,,2,1610612757,,,,,,0,0,,,,,,1,0,,,,,,1
+0012200017,433,1,6,3,11:45 PM,5:33,,,Conley 2' Driving Layup (15 PTS),70 - 69,-1,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,434,6,2,3,11:45 PM,5:33,Johnson S.FOUL (P1.PN) (S.Mitchell),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,436,3,10,3,11:45 PM,5:33,,,Conley Free Throw 1 of 1 (16 PTS),71 - 69,-2,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,437,1,98,3,11:46 PM,5:18,Winslow 2' Cutting Layup Shot (8 PTS) (Lillard 5 AST),,,71 - 71,TIE,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,439,6,2,3,11:46 PM,5:11,Winslow S.FOUL (P3.PN) (P.Fraher),,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,441,3,11,3,11:46 PM,5:11,,,Olynyk Free Throw 1 of 2 (11 PTS),72 - 71,-1,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,442,8,0,3,11:46 PM,5:11,SUB: Eubanks FOR Grant,,,,,4,203924,Jerami Grant,1610612757.0,Portland,Trail Blazers,POR,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,443,8,0,3,11:46 PM,5:11,SUB: Little FOR Winslow,,,,,4,1626159,Justise Winslow,1610612757.0,Portland,Trail Blazers,POR,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,444,8,0,3,11:46 PM,5:11,,,SUB: Sexton FOR Clarkson,,,5,203903,Jordan Clarkson,1610612762.0,Utah,Jazz,UTA,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,445,8,0,3,11:46 PM,5:11,,,SUB: Horton-Tucker FOR Conley,,,5,201144,Mike Conley,1610612762.0,Utah,Jazz,UTA,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,446,8,0,3,11:46 PM,5:11,,,SUB: Alexander-Walker FOR Markkanen,,,5,1628374,Lauri Markkanen,1610612762.0,Utah,Jazz,UTA,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,452,3,12,3,11:47 PM,5:11,,,Olynyk Free Throw 2 of 2 (12 PTS),73 - 71,-2,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,453,1,9,3,11:47 PM,4:51,Little Driving Dunk (2 PTS) (Lillard 6 AST),,,73 - 73,TIE,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,455,2,78,3,11:47 PM,4:30,,,MISS Olynyk 16' Floating Jump Shot,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,456,4,0,3,11:47 PM,4:26,Eubanks REBOUND (Off:1 Def:2),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,457,2,80,3,11:47 PM,4:20,MISS Lillard 25' 3PT Step Back Jump Shot,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,458,4,0,3,11:48 PM,4:18,,,Vanderbilt REBOUND (Off:4 Def:3),,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,459,6,2,3,11:48 PM,4:06,Lillard S.FOUL (P4.PN) (S.Mitchell),,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,461,3,11,3,11:48 PM,4:06,,,MISS Alexander-Walker Free Throw 1 of 2,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,462,4,1,3,11:48 PM,4:06,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,463,8,0,3,11:48 PM,4:06,SUB: Simons FOR Lillard,,,,,4,203081,Damian Lillard,1610612757.0,Portland,Trail Blazers,POR,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,464,8,0,3,11:48 PM,4:06,,,SUB: Kessler FOR Vanderbilt,,,5,1629020,Jarred Vanderbilt,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,465,8,0,3,11:48 PM,4:06,,,SUB: Johnson FOR Olynyk,,,5,203482,Kelly Olynyk,1610612762.0,Utah,Jazz,UTA,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,469,3,12,3,11:48 PM,4:06,,,Alexander-Walker Free Throw 2 of 2 (1 PTS),74 - 73,-1,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,472,2,63,3,11:49 PM,3:43,MISS Simons 7' Fadeaway Jumper,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,473,4,0,3,11:49 PM,3:43,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,474,6,3,3,11:50 PM,3:43,Eubanks L.B.FOUL (P2.PN) (P.Fraher),,,,,4,1629234,Drew Eubanks,1610612757.0,Portland,Trail Blazers,POR,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,476,3,11,3,11:50 PM,3:43,,,MISS Kessler Free Throw 1 of 2,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,477,4,1,3,11:50 PM,3:43,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,478,3,12,3,11:50 PM,3:43,,,Kessler Free Throw 2 of 2 (1 PTS),75 - 73,-2,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,479,2,79,3,11:50 PM,3:30,MISS Johnson 26' 3PT Pullup Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,480,4,0,3,11:50 PM,3:28,,,Horton-Tucker REBOUND (Off:1 Def:3),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,481,2,80,3,11:51 PM,3:10,,,MISS Alexander-Walker 25' 3PT Step Back Jump Shot,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,482,4,0,3,11:51 PM,3:07,Hart REBOUND (Off:0 Def:5),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,483,5,45,3,11:51 PM,3:02,Hart Out of Bounds - Bad Pass Turnover Turnover (P3.T15),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,484,1,80,3,11:51 PM,2:48,,,Sexton 22' Step Back Jump Shot (7 PTS),77 - 73,-4,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,485,2,57,3,11:52 PM,2:31,MISS Little 7' Driving Hook Shot,,Johnson BLOCK (1 BLK),,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,1
+0012200017,487,4,0,3,11:52 PM,2:29,,,Johnson REBOUND (Off:1 Def:3),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,488,5,4,3,11:52 PM,2:29,,,Sexton Traveling Turnover (P1.T17),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,489,9,1,3,11:52 PM,2:29,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,491,6,1,3,11:55 PM,2:28,,,Sexton P.FOUL (P2.PN) (S.Twardoski),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,493,3,11,3,11:55 PM,2:28,MISS Johnson Free Throw 1 of 2,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,494,4,1,3,11:55 PM,2:28,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,495,3,12,3,11:55 PM,2:28,MISS Johnson Free Throw 2 of 2,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,496,10,0,3,11:56 PM,2:24,Jump Ball Little vs. Alexander-Walker: Tip to Johnson,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,499,4,0,3,11:56 PM,2:24,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,500,1,79,3,11:56 PM,2:14,Simons 27' 3PT Pullup Jump Shot (13 PTS),,,77 - 76,-1,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,501,2,57,3,11:57 PM,1:56,,,MISS Johnson 9' Driving Hook Shot,,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,502,4,0,3,11:57 PM,1:54,Hart REBOUND (Off:0 Def:6),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,503,2,1,3,11:57 PM,1:46,MISS Little 25' 3PT Jump Shot,,,,,4,1629642,Nassir Little,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,504,4,0,3,11:57 PM,1:43,,,Alexander-Walker REBOUND (Off:0 Def:1),,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,505,1,1,3,11:57 PM,1:34,,,Sexton 24' 3PT Jump Shot (10 PTS) (Alexander-Walker 1 AST),80 - 76,-4,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,507,2,1,3,11:57 PM,1:14,MISS Simons 26' 3PT Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,508,4,0,3,11:57 PM,1:14,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,510,2,80,3,11:58 PM,0:56,,,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,511,4,0,3,11:58 PM,0:52,,,Johnson REBOUND (Off:2 Def:3),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,512,2,3,3,11:58 PM,0:49,,,MISS Kessler 5' Hook Shot,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,513,4,0,3,11:58 PM,0:49,,,Kessler REBOUND (Off:1 Def:3),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,514,6,2,3,11:58 PM,0:49,Johnson S.FOUL (P2.PN) (S.Mitchell),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,516,3,11,3,11:58 PM,0:49,,,Kessler Free Throw 1 of 2 (2 PTS),81 - 76,-5,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,517,3,12,3,11:58 PM,0:49,,,Kessler Free Throw 2 of 2 (3 PTS),82 - 76,-6,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,518,2,79,3,11:59 PM,0:33,MISS Simons 26' 3PT Pullup Jump Shot,,,,,4,1629014,Anfernee Simons,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,519,4,0,3,11:59 PM,0:31,,,Sexton REBOUND (Off:0 Def:1),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,520,2,71,3,11:59 PM,0:09,,,MISS Alexander-Walker 4' Finger Roll Layup,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,521,4,0,3,11:59 PM,0:07,Hart REBOUND (Off:0 Def:7),,,,,4,1628404,Josh Hart,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,522,13,0,3,11:59 PM,0:00,,End of 3rd Period (11:59 PM EST),,82 - 76,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,531,12,0,4,12:02 AM,12:00,,Start of 4th Period (12:02 AM EST),,82 - 76,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,532,2,1,4,12:02 AM,11:48,MISS Brown III 24' 3PT Jump Shot,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,533,4,0,4,12:02 AM,11:44,,,Kessler REBOUND (Off:1 Def:4),,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,534,1,6,4,12:02 AM,11:37,,,Horton-Tucker 1' Driving Layup (2 PTS) (Alexander-Walker 2 AST),84 - 76,-8,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,536,2,1,4,12:03 AM,11:26,MISS Johnson 19' Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,537,4,0,4,12:03 AM,11:23,,,Sexton REBOUND (Off:0 Def:2),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,538,1,6,4,12:03 AM,11:03,,,Sexton 6' Driving Layup (12 PTS) (Kessler 2 AST),86 - 76,-10,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,540,6,2,4,12:03 AM,11:03,Cacok S.FOUL (P1.T1) (S.Twardoski),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,542,3,10,4,12:04 AM,11:03,,,Sexton Free Throw 1 of 1 (13 PTS),87 - 76,-11,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,543,6,3,4,12:04 AM,11:02,,,Johnson L.B.FOUL (P3.T1) (S.Twardoski),,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,0
+0012200017,545,5,2,4,12:04 AM,10:49,Sharpe Lost Ball Turnover (P1.T16),,Alexander-Walker STEAL (1 STL),,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,547,6,2,4,12:04 AM,10:49,Brown III S.FOUL (P1.T2) (P.Fraher),,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,549,3,11,4,12:04 AM,10:49,,,MISS Johnson Free Throw 1 of 2,,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,550,4,1,4,12:04 AM,10:49,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,551,3,12,4,12:05 AM,10:49,,,Johnson Free Throw 2 of 2 (5 PTS),88 - 76,-12,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,552,2,6,4,12:05 AM,10:39,MISS Williams 4' Driving Layup,,Alexander-Walker BLOCK (1 BLK),,,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,1
+0012200017,554,4,0,4,12:05 AM,10:39,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,557,1,101,4,12:06 AM,10:32,Johnson 9' Driving Floating Jump Shot (5 PTS),,,88 - 78,-10,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,558,2,101,4,12:06 AM,10:14,Sharpe BLOCK (1 BLK),,MISS Horton-Tucker 5' Driving Floating Jump Shot,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1
+0012200017,560,4,0,4,12:06 AM,10:12,,,Horton-Tucker REBOUND (Off:2 Def:3),,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,561,1,72,4,12:06 AM,10:11,,,Horton-Tucker 2' Putback Layup (4 PTS),90 - 78,-12,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,562,2,1,4,12:06 AM,10:02,MISS Johnson 27' 3PT Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,563,4,0,4,12:06 AM,9:57,Brown III REBOUND (Off:1 Def:0),,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,564,2,97,4,12:06 AM,9:57,MISS Brown III Tip Layup Shot,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,565,4,0,4,12:06 AM,9:56,,,Sexton REBOUND (Off:0 Def:3),,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,566,2,41,4,12:06 AM,9:52,,,MISS Horton-Tucker 3' Running Layup,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,569,4,0,4,12:06 AM,9:52,Cacok REBOUND (Off:0 Def:1),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,567,1,108,4,12:06 AM,9:44,Brown III 1' Cutting Dunk Shot (2 PTS) (Johnson 1 AST),,,90 - 80,-10,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,570,2,79,4,12:07 AM,9:31,,,MISS Sexton 27' 3PT Pullup Jump Shot,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,571,4,0,4,12:07 AM,9:31,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,1
+0012200017,573,8,0,4,12:07 AM,9:30,,,SUB: Agbaji FOR Horton-Tucker,,,5,1629659,Talen Horton-Tucker,1610612762.0,Utah,Jazz,UTA,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,574,8,0,4,12:07 AM,9:30,,,SUB: Butler FOR Sexton,,,5,1629012,Collin Sexton,1610612762.0,Utah,Jazz,UTA,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,575,8,0,4,12:07 AM,9:30,,,SUB: Fontecchio FOR Johnson,,,5,1626169,Stanley Johnson,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,576,8,0,4,12:07 AM,9:30,,,SUB: Bolmaro FOR Alexander-Walker,,,5,1629638,Nickeil Alexander-Walker,1610612762.0,Utah,Jazz,UTA,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,577,8,0,4,12:07 AM,9:30,,,SUB: Zeller FOR Kessler,,,5,1631117,Walker Kessler,1610612762.0,Utah,Jazz,UTA,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,583,6,2,4,12:07 AM,9:18,,,Zeller S.FOUL (P1.T2) (P.Fraher),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,585,3,11,4,12:08 AM,9:18,MISS Cacok Free Throw 1 of 2,,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,586,4,1,4,12:08 AM,9:18,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,587,3,12,4,12:08 AM,9:18,Cacok Free Throw 2 of 2 (1 PTS),,,90 - 81,-9,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,588,6,1,4,12:08 AM,9:06,Cacok P.FOUL (P2.T3) (S.Twardoski),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,590,2,80,4,12:09 AM,8:58,,,MISS Agbaji 25' 3PT Step Back Jump Shot,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,591,4,0,4,12:09 AM,8:55,Brown III REBOUND (Off:1 Def:1),,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,592,6,2,4,12:09 AM,8:48,,,Zeller S.FOUL (P2.T3) (P.Fraher),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,594,3,11,4,12:09 AM,8:48,Williams Free Throw 1 of 2 (1 PTS),,,90 - 82,-8,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,595,3,12,4,12:10 AM,8:48,Williams Free Throw 2 of 2 (2 PTS),,,90 - 83,-7,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,596,2,73,4,12:10 AM,8:33,,,MISS Agbaji 1' Driving Reverse Layup,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,597,4,0,4,12:10 AM,8:29,Johnson REBOUND (Off:1 Def:1),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,598,5,1,4,12:10 AM,8:20,Johnson Bad Pass Turnover (P2.T17),,Bolmaro STEAL (1 STL),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,600,1,2,4,12:10 AM,8:15,,,Butler 27' 3PT Running Jump Shot (3 PTS) (Bolmaro 1 AST),93 - 83,-10,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,602,9,1,4,12:10 AM,8:13,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,603,5,6,4,12:13 AM,8:01,Brown III Double Dribble Turnover (P1.T18),,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,604,2,1,4,12:14 AM,7:48,,,MISS Fontecchio 25' 3PT Jump Shot,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,605,4,0,4,12:14 AM,7:46,Williams REBOUND (Off:0 Def:1),,,,,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,606,2,1,4,12:14 AM,7:39,MISS Johnson 3PT Jump Shot,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,607,4,0,4,12:14 AM,7:37,,,Zeller REBOUND (Off:0 Def:1),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,608,1,6,4,12:14 AM,7:29,,,Agbaji 3' Driving Layup (2 PTS) (Butler 1 AST),95 - 83,-12,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,609,6,2,4,12:14 AM,7:29,Williams S.FOUL (P1.T4) (S.Twardoski),,,,,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,612,3,10,4,12:15 AM,7:29,,,Agbaji Free Throw 1 of 1 (3 PTS),96 - 83,-13,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,613,2,79,4,12:15 AM,7:13,MISS Sharpe 25' 3PT Pullup Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,614,4,0,4,12:15 AM,7:10,,,Zeller REBOUND (Off:0 Def:2),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,615,2,9,4,12:15 AM,6:55,,,MISS Fontecchio 1' Driving Dunk,,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,616,4,0,4,12:15 AM,6:54,Johnson REBOUND (Off:1 Def:2),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,617,6,1,4,12:15 AM,6:45,,,Zeller P.FOUL (P3.T4) (P.Fraher),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,619,1,6,4,12:16 AM,6:39,Sharpe 1' Driving Layup (2 PTS) (Williams 1 AST),,,96 - 85,-11,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,621,1,101,4,12:16 AM,6:32,,,Butler 1' Driving Floating Jump Shot (5 PTS),98 - 85,-13,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,625,7,2,4,12:16 AM,6:32,Defensive Goaltending,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,622,6,2,4,12:16 AM,6:32,Sharpe S.FOUL (P2.PN) (P.Fraher),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,624,3,10,4,12:17 AM,6:32,,,Butler Free Throw 1 of 1 (6 PTS),99 - 85,-14,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,626,2,101,4,12:17 AM,6:08,MISS Johnson 7' Driving Floating Jump Shot,,Zeller BLOCK (1 BLK),,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,1
+0012200017,628,4,0,4,12:17 AM,6:06,Johnson REBOUND (Off:2 Def:2),,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,629,1,78,4,12:17 AM,6:05,Johnson 2' Floating Jump Shot (7 PTS),,,99 - 87,-12,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,630,6,4,4,12:17 AM,5:59,,,Zeller OFF.Foul (P4) (S.Mitchell),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,632,5,37,4,12:17 AM,5:59,,,Zeller Offensive Foul Turnover (P1.T18),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,633,2,86,4,12:18 AM,5:41,MISS Williams 15' Turnaround Fadeaway Shot,,,,,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,634,4,0,4,12:18 AM,5:38,,,Zeller REBOUND (Off:0 Def:3),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,635,6,1,4,12:18 AM,5:26,Cacok P.FOUL (P3.PN) (P.Fraher),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,637,3,11,4,12:19 AM,5:26,,,MISS Butler Free Throw 1 of 2,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,638,4,1,4,12:19 AM,5:26,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,639,8,0,4,12:19 AM,5:26,SUB: Miller FOR Johnson,,,,,4,1630553,Keon Johnson,1610612757.0,Portland,Trail Blazers,POR,4,1630627,Isaiah Miller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,641,3,12,4,12:19 AM,5:26,,,Butler Free Throw 2 of 2 (7 PTS),100 - 87,-13,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,642,2,6,4,12:19 AM,5:11,MISS Brown III 1' Driving Layup,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,643,4,0,4,12:19 AM,5:09,,,Butler REBOUND (Off:0 Def:1),,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,644,1,6,4,12:19 AM,5:07,,,Agbaji 2' Driving Layup (5 PTS) (Butler 2 AST),102 - 87,-15,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,646,7,2,4,12:19 AM,5:07,Sharpe Violation:Defensive Goaltending (S.Mitchell),,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1,0,,,,,,1
+0012200017,647,2,79,4,12:20 AM,4:54,MISS Williams 22' Pullup Jump Shot,,,,,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,648,4,0,4,12:20 AM,4:52,,,Zeller REBOUND (Off:0 Def:4),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,649,2,1,4,12:20 AM,4:45,,,MISS Bolmaro 25' 3PT Jump Shot,,,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,650,4,0,4,12:20 AM,4:42,,,Zeller REBOUND (Off:1 Def:4),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,652,8,0,4,12:20 AM,4:40,SUB: Walker FOR Brown III,,,,,4,1630535,Greg Brown III,1610612757.0,Portland,Trail Blazers,POR,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0
+0012200017,654,2,101,4,12:20 AM,4:30,,,MISS Bolmaro 15' Driving Floating Jump Shot,,,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,656,1,97,4,12:20 AM,4:24,,,Zeller Tip Layup Shot (2 PTS),104 - 87,-17,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,655,4,0,4,12:21 AM,4:24,,,Zeller REBOUND (Off:2 Def:4),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,657,2,6,4,12:21 AM,4:11,MISS Sharpe 3' Driving Layup,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,658,4,0,4,12:21 AM,4:09,,,Fontecchio REBOUND (Off:0 Def:1),,,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,659,5,39,4,12:21 AM,4:07,,,Bolmaro Step Out of Bounds Turnover (P1.T19),,,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1,0,,,,,,1
+0012200017,660,1,78,4,12:21 AM,3:53,Cacok 6' Floating Jump Shot (3 PTS) (Williams 2 AST),,,104 - 89,-15,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,662,2,58,4,12:22 AM,3:30,,,MISS Zeller 4' Turnaround Hook Shot,,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,663,4,0,4,12:22 AM,3:29,Cacok REBOUND (Off:0 Def:2),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,664,6,2,4,12:22 AM,3:25,,,Zeller S.FOUL (P5.PN) (P.Fraher),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,666,3,11,4,12:22 AM,3:25,MISS Cacok Free Throw 1 of 2,,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,667,4,1,4,12:22 AM,3:25,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,668,8,0,4,12:22 AM,3:25,,,SUB: Juzang FOR Butler,,,5,1630215,Jared Butler,1610612762.0,Utah,Jazz,UTA,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,669,8,0,4,12:22 AM,3:25,,,SUB: Lee FOR Agbaji,,,5,1630534,Ochai Agbaji,1610612762.0,Utah,Jazz,UTA,5,1630240,Saben Lee,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0
+0012200017,672,3,12,4,12:23 AM,3:25,Cacok Free Throw 2 of 2 (4 PTS),,,104 - 90,-14,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,673,2,1,4,12:23 AM,3:07,,,MISS Juzang 25' 3PT Jump Shot,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,674,4,0,4,12:23 AM,3:03,Cacok REBOUND (Off:0 Def:3),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,675,1,2,4,12:23 AM,2:59,Williams 26' 3PT Running Jump Shot (5 PTS) (Miller 1 AST),,,104 - 93,-11,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,4,1630627,Isaiah Miller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,677,1,71,4,12:23 AM,2:48,,,Zeller 1' Finger Roll Layup (4 PTS) (Fontecchio 1 AST),106 - 93,-13,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,5,1631323,Simone Fontecchio,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,679,2,78,4,12:23 AM,2:30,MISS Cacok 14' Floating Jump Shot,,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,680,4,0,4,12:23 AM,2:29,,,Zeller REBOUND (Off:2 Def:5),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,681,1,98,4,12:24 AM,2:18,,,Lee 2' Cutting Layup Shot (2 PTS) (Zeller 1 AST),108 - 93,-15,5,1630240,Saben Lee,1610612762.0,Utah,Jazz,UTA,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,683,6,2,4,12:24 AM,2:07,,,Juzang S.FOUL (P1.PN) (P.Fraher),,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,1,0,,,,,,1
+0012200017,685,9,1,4,12:24 AM,2:07,,,Jazz Timeout: Regular (Reg.4 Short 0),,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,686,3,11,4,12:27 AM,2:07,MISS Sharpe Free Throw 1 of 2,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,687,4,1,4,12:27 AM,2:07,TRAIL BLAZERS Rebound,,,,,2,1610612757,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,688,3,12,4,12:27 AM,2:07,Sharpe Free Throw 2 of 2 (3 PTS),,,108 - 94,-14,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,689,6,1,4,12:27 AM,1:59,Miller P.FOUL (P1.PN) (S.Mitchell),,,,,4,1630627,Isaiah Miller,1610612757.0,Portland,Trail Blazers,POR,5,1630240,Saben Lee,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,691,3,11,4,12:28 AM,1:59,,,MISS Lee Free Throw 1 of 2,,,5,1630240,Saben Lee,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,692,4,1,4,12:28 AM,1:59,,,Jazz Rebound,,,3,1610612762,,,,,,0,0,,,,,,0,0,,,,,,0
+0012200017,693,3,12,4,12:28 AM,1:59,,,Lee Free Throw 2 of 2 (3 PTS),109 - 94,-15,5,1630240,Saben Lee,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,694,1,101,4,12:28 AM,1:45,Miller 6' Driving Floating Jump Shot (2 PTS),,,109 - 96,-13,4,1630627,Isaiah Miller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,695,6,1,4,12:28 AM,1:38,Walker P.FOUL (P1.PN) (P.Fraher),,,,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,1,0,,,,,,1
+0012200017,697,3,11,4,12:29 AM,1:38,,,Bolmaro Free Throw 1 of 2 (1 PTS),110 - 96,-14,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,698,3,12,4,12:29 AM,1:38,,,MISS Bolmaro Free Throw 2 of 2,,,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,699,4,0,4,12:29 AM,1:36,Cacok REBOUND (Off:0 Def:4),,,,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,700,2,98,4,12:29 AM,1:17,MISS Walker 2' Cutting Layup Shot,,Juzang BLOCK (1 BLK),,,4,1631133,Jabari Walker,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,1
+0012200017,701,4,0,4,12:29 AM,1:16,,,Zeller REBOUND (Off:2 Def:6),,,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,702,1,41,4,12:29 AM,1:14,,,Zeller 1' Running Layup (6 PTS),112 - 96,-16,5,203469,Cody Zeller,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,703,1,80,4,12:30 AM,1:00,Sharpe 21' Step Back Jump Shot (5 PTS),,,112 - 98,-14,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,704,1,79,4,12:30 AM,0:49,,,Bolmaro 30' 3PT Pullup Jump Shot (4 PTS),115 - 98,-17,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,0,0,,,,,,1
+0012200017,707,5,1,4,12:31 AM,0:28,Cacok Bad Pass Turnover (P1.T19),,Juzang STEAL (1 STL),,,4,1629719,Devontae Cacok,1610612757.0,Portland,Trail Blazers,POR,5,1630548,Johnny Juzang,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,709,1,2,4,12:31 AM,0:23,,,Bolmaro 25' 3PT Running Jump Shot (7 PTS) (Lee 1 AST),118 - 98,-20,5,1630195,Leandro Bolmaro,1610612762.0,Utah,Jazz,UTA,5,1630240,Saben Lee,1610612762.0,Utah,Jazz,UTA,0,0,,,,,,1
+0012200017,711,2,79,4,12:31 AM,0:10,MISS Sharpe 18' Pullup Jump Shot,,,,,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,712,4,0,4,12:31 AM,0:06,Miller REBOUND (Off:1 Def:0),,,,,4,1630627,Isaiah Miller,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,0,0,,,,,,1
+0012200017,713,1,1,4,12:31 AM,0:03,Williams 25' 3PT Jump Shot (8 PTS) (Sharpe 1 AST),,,118 - 101,-17,4,1630314,Brandon Williams,1610612757.0,Portland,Trail Blazers,POR,4,1631101,Shaedon Sharpe,1610612757.0,Portland,Trail Blazers,POR,0,0,,,,,,1
+0012200017,715,13,0,4,12:31 AM,0:00,,End of 4th Period (12:31 AM EST),,118 - 101,-17,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

@@ -1,0 +1,525 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0012100001,2,12,0,1,3:43 PM,12:00,,Start of 1st Period (3:43 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,4,10,0,1,3:43 PM,12:00,Jump Ball Jordan vs. Aldridge: Tip to Nunn,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,7,6,4,1,3:43 PM,11:47,Davis OFF.Foul (P1) (R.Mott),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,9,5,37,1,3:43 PM,11:47,Davis Offensive Foul Turnover (P1.T1),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,10,2,79,1,3:43 PM,11:36,,,MISS Carter 20' Pullup Jump Shot,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,11,4,0,1,3:43 PM,11:31,Horton-Tucker REBOUND (Off:0 Def:1),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,12,1,101,1,3:44 PM,11:19,Davis 3' Driving Floating Jump Shot (2 PTS) (Nunn 1 AST),,,0 - 2,2,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,14,6,2,1,3:44 PM,11:19,,,Millsap S.FOUL (P1.T1) (M.Dagher),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,16,3,10,1,3:44 PM,11:19,Davis Free Throw 1 of 1 (3 PTS),,,0 - 3,3,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,17,1,1,1,3:44 PM,11:03,,,Brown 27' 3PT Jump Shot (3 PTS) (Bembry 1 AST),3 - 3,TIE,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,19,6,2,1,3:45 PM,10:43,,,Aldridge S.FOUL (P1.T2) (R.Mott),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,21,3,11,1,3:45 PM,10:43,MISS Jordan Free Throw 1 of 2,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,22,4,1,1,3:45 PM,10:43,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,23,3,12,1,3:45 PM,10:43,MISS Jordan Free Throw 2 of 2,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,24,4,0,1,3:45 PM,10:40,,,Millsap REBOUND (Off:0 Def:1),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,25,2,1,1,3:46 PM,10:29,,,MISS Aldridge 3PT Jump Shot,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,26,4,0,1,3:46 PM,10:27,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100001,30,2,101,1,3:46 PM,10:18,,,MISS Brown 14' Driving Floating Jump Shot,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,31,4,0,1,3:46 PM,10:18,,,Bembry REBOUND (Off:1 Def:0),,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,32,6,2,1,3:46 PM,10:18,Jordan S.FOUL (P1.T1) (J.Goble),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,34,3,11,1,3:47 PM,10:18,,,MISS Bembry Free Throw 1 of 2,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,35,4,1,1,3:47 PM,10:18,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,36,3,12,1,3:47 PM,10:18,,,MISS Bembry Free Throw 2 of 2,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,37,4,0,1,3:47 PM,10:15,Jordan REBOUND (Off:0 Def:1),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,38,2,47,1,3:47 PM,10:04,MISS Davis 14' Turnaround Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,39,4,0,1,3:47 PM,10:00,,,Bembry REBOUND (Off:1 Def:1),,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,40,1,1,1,3:47 PM,9:57,,,Aldridge 11' Jump Shot (2 PTS) (Carter 1 AST),5 - 3,-2,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,42,2,101,1,3:48 PM,9:35,MISS Bazemore 7' Driving Floating Jump Shot,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,43,4,0,1,3:48 PM,9:32,,,Aldridge REBOUND (Off:0 Def:1),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,44,2,93,1,3:48 PM,9:14,,,MISS Millsap 2' Driving Bank Hook Shot,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,45,4,0,1,3:48 PM,9:11,Nunn REBOUND (Off:0 Def:1),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,46,2,80,1,3:48 PM,8:57,MISS Horton-Tucker 27' 3PT Step Back Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,47,4,0,1,3:48 PM,8:54,,,Millsap REBOUND (Off:0 Def:2),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,48,1,1,1,3:49 PM,8:38,,,Brown 26' 3PT Jump Shot (6 PTS) (Aldridge 1 AST),8 - 3,-5,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,50,2,6,1,3:49 PM,8:25,MISS Bazemore 1' Driving Layup,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,51,4,0,1,3:49 PM,8:25,,,Carter REBOUND (Off:0 Def:1),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,52,6,28,1,3:49 PM,8:25,Jordan Personal Take Foul (P2.T2) (J.Goble),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,54,1,1,1,3:50 PM,8:02,,,Carter 26' 3PT Jump Shot (3 PTS) (Aldridge 2 AST),11 - 3,-8,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,56,2,7,1,3:50 PM,7:51,MISS Jordan 3' Dunk,,Aldridge BLOCK (1 BLK),,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,58,4,0,1,3:50 PM,7:51,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,60,2,101,1,3:50 PM,7:38,,,MISS Brown 10' Driving Floating Jump Shot,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,61,4,0,1,3:50 PM,7:36,Jordan REBOUND (Off:0 Def:2),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,62,6,1,1,3:50 PM,7:24,,,Carter P.FOUL (P1.T3) (J.Goble),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,65,5,1,1,3:51 PM,7:15,Bazemore Bad Pass Turnover (P1.T2),,Millsap STEAL (1 STL),,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,68,1,1,1,3:51 PM,7:06,,,Aldridge 22' Jump Shot (4 PTS),13 - 3,-10,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,69,9,1,1,3:52 PM,7:06,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,70,1,9,1,3:55 PM,6:47,Horton-Tucker 2' Driving Dunk (2 PTS) (Jordan 1 AST),,,13 - 5,-8,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,72,1,79,1,3:55 PM,6:33,,,Carter 17' Pullup Jump Shot (5 PTS),15 - 5,-10,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,73,2,80,1,3:55 PM,6:06,MISS Nunn 28' 3PT Step Back Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,74,4,0,1,3:56 PM,6:04,,,Millsap REBOUND (Off:0 Def:3),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,75,1,108,1,3:56 PM,5:49,,,Brown 3' Cutting Dunk Shot (8 PTS) (Millsap 1 AST),17 - 5,-12,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,77,2,6,1,3:56 PM,5:38,MISS Davis 2' Driving Layup,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,78,4,0,1,3:56 PM,5:35,,,Aldridge REBOUND (Off:0 Def:2),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,79,2,1,1,3:56 PM,5:26,,,MISS Aldridge 19' Jump Shot,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,80,4,0,1,3:56 PM,5:23,Davis REBOUND (Off:0 Def:1),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,81,1,106,1,3:56 PM,5:20,Jordan 2' Running Alley Oop Dunk Shot (2 PTS) (Bazemore 1 AST),,,17 - 7,-10,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,83,6,2,1,3:56 PM,5:20,,,Brown S.FOUL (P1.T4) (J.Goble),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,85,8,0,1,3:57 PM,5:20,SUB: Ellington FOR Davis,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,86,8,0,1,3:57 PM,5:20,,,SUB: Thomas FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,89,3,10,1,3:57 PM,5:20,Jordan Free Throw 1 of 1 (3 PTS),,,17 - 8,-9,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,91,2,79,1,3:57 PM,5:00,,,MISS Thomas 18' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,92,4,0,1,3:57 PM,4:58,,,Millsap REBOUND (Off:1 Def:3),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,93,5,2,1,3:58 PM,4:56,Ellington STEAL (1 STL),,Millsap Lost Ball Turnover (P1.T1),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,95,6,1,1,3:58 PM,4:52,,,Aldridge P.FOUL (P2.PN) (R.Mott),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,97,3,11,1,3:58 PM,4:52,MISS Jordan Free Throw 1 of 2,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,98,4,1,1,3:58 PM,4:52,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,99,8,0,1,3:58 PM,4:52,SUB: Monk FOR Bazemore,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,100,8,0,1,3:58 PM,4:52,SUB: Rondo FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,101,8,0,1,3:58 PM,4:52,,,SUB: Edwards FOR Millsap,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,102,8,0,1,3:58 PM,4:52,,,SUB: Duke Jr. FOR Bembry,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,107,3,12,1,3:59 PM,4:52,Jordan Free Throw 2 of 2 (4 PTS),,,17 - 9,-8,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,108,2,101,1,3:59 PM,4:38,Jordan BLOCK (1 BLK),,MISS Duke Jr. 8' Driving Floating Jump Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,110,4,0,1,3:59 PM,4:36,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,112,8,0,1,3:59 PM,4:36,SUB: Davis FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,113,8,0,1,3:59 PM,4:36,,,SUB: Claxton FOR Aldridge,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,116,5,1,1,4:00 PM,4:31,Davis STEAL (1 STL),,Thomas Bad Pass Turnover (P1.T2),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,118,1,6,1,4:00 PM,4:24,Horton-Tucker 3' Driving Layup (4 PTS) (Davis 1 AST),,,17 - 11,-6,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,120,7,2,1,4:00 PM,4:24,,,Edwards Violation:Defensive Goaltending (J.Goble),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012100001,121,6,4,1,4:00 PM,4:16,,,Claxton OFF.Foul (P1) (J.Goble),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,123,5,37,1,4:00 PM,4:16,,,Claxton Offensive Foul Turnover (P1.T3),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012100001,124,2,47,1,4:00 PM,4:01,MISS Davis 12' Turnaround Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,125,4,0,1,4:01 PM,3:56,,,Duke Jr. REBOUND (Off:0 Def:1),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,126,6,4,1,4:01 PM,3:53,,,Duke Jr. OFF.Foul (P1) (J.Goble),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+0012100001,128,5,37,1,4:01 PM,3:53,,,Duke Jr. Offensive Foul Turnover (P1.T4),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+0012100001,129,8,0,1,4:01 PM,3:53,,,SUB: Brown FOR Carter,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,131,2,79,1,4:01 PM,3:32,MISS Monk 16' Pullup Jump Shot,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,132,4,0,1,4:01 PM,3:28,,,Edwards REBOUND (Off:0 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,133,6,4,1,4:02 PM,3:21,,,Claxton OFF.Foul (P2) (M.Dagher),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,135,5,37,1,4:02 PM,3:21,,,Claxton Offensive Foul Turnover (P2.T5),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012100001,136,1,101,1,4:02 PM,3:04,Davis 3' Driving Floating Jump Shot (5 PTS) (Horton-Tucker 1 AST),,,17 - 13,-4,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,139,2,1,1,4:02 PM,2:40,,,MISS Thomas 37' 3PT Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,140,4,0,1,4:02 PM,2:38,,,Edwards REBOUND (Off:1 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,141,6,2,1,4:02 PM,2:38,Davis S.FOUL (P2.T3) (R.Mott),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,143,9,1,1,4:03 PM,2:38,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,144,3,11,1,4:06 PM,2:38,,,Edwards Free Throw 1 of 2 (1 PTS),18 - 13,-5,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,145,3,12,1,4:06 PM,2:38,,,Edwards Free Throw 2 of 2 (2 PTS),19 - 13,-6,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,146,2,80,1,4:06 PM,2:20,MISS Davis 13' Step Back Jump Shot,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,147,4,0,1,4:07 PM,2:18,,,Brown REBOUND (Off:0 Def:1),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,148,6,4,1,4:07 PM,2:15,,,Claxton OFF.Foul (P3) (R.Mott),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,150,5,37,1,4:07 PM,2:15,,,Claxton Offensive Foul Turnover (P3.T6),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012100001,151,6,2,1,4:07 PM,2:07,,,Brown S.FOUL (P2.PN) (J.Goble),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,153,3,13,1,4:08 PM,2:07,Ellington Free Throw 1 of 3 (1 PTS),,,19 - 14,-5,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,154,3,14,1,4:08 PM,2:07,Ellington Free Throw 2 of 3 (2 PTS),,,19 - 15,-4,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,155,3,15,1,4:08 PM,2:07,Ellington Free Throw 3 of 3 (3 PTS),,,19 - 16,-3,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,156,1,73,1,4:09 PM,1:48,,,Brown 4' Driving Reverse Layup (10 PTS),21 - 16,-5,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,157,6,1,1,4:09 PM,1:38,,,Claxton P.FOUL (P4.PN) (M.Dagher),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,159,3,11,1,4:09 PM,1:38,MISS Davis Free Throw 1 of 2,,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,160,4,1,1,4:09 PM,1:38,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,161,8,0,1,4:09 PM,1:38,,,SUB: Aldridge FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,163,3,12,1,4:10 PM,1:38,Davis Free Throw 2 of 2 (6 PTS),,,21 - 17,-4,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,164,1,1,1,4:10 PM,1:13,,,Thomas 19' Jump Shot (2 PTS),23 - 17,-6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,165,5,4,1,4:10 PM,1:03,Davis Traveling Turnover (P2.T3),,,,,4,203076,Anthony Davis,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,166,2,1,1,4:11 PM,0:52,,,MISS Edwards 24' 3PT Jump Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,167,4,0,1,4:11 PM,0:48,Rondo REBOUND (Off:0 Def:1),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,168,2,2,1,4:11 PM,0:46,MISS Ellington 25' 3PT Running Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,169,4,0,1,4:11 PM,0:42,,,Aldridge REBOUND (Off:0 Def:3),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,170,1,1,1,4:11 PM,0:26,,,Thomas 4' Jump Shot (4 PTS) (Aldridge 3 AST),25 - 17,-8,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,172,6,2,1,4:11 PM,0:21,,,Brown S.FOUL (P3.PN) (M.Dagher),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,174,3,11,1,4:12 PM,0:21,Horton-Tucker Free Throw 1 of 2 (5 PTS),,,25 - 18,-7,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,175,3,12,1,4:12 PM,0:21,Horton-Tucker Free Throw 2 of 2 (6 PTS),,,25 - 19,-6,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,176,6,28,1,4:12 PM,0:11,Rondo Personal Take Foul (P1.T4) (R.Mott),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,178,8,0,1,4:12 PM,0:11,,,SUB: Carter FOR Edwards,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,180,2,47,1,4:13 PM,0:00,,,MISS Carter 21' Turnaround Jump Shot,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,181,4,0,1,4:13 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,182,13,0,1,4:13 PM,0:00,,End of 1st Period (4:13 PM EST),,25 - 19,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100001,189,12,0,2,4:16 PM,12:00,,Start of 2nd Period (4:16 PM EST),,25 - 19,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,190,7,1,2,4:16 PM,12:00,,,Nets Violation: Delay of game Violation,,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100001,191,2,78,2,4:16 PM,11:49,,,MISS Carter 15' Floating Jump Shot,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,192,4,0,2,4:16 PM,11:45,Rondo REBOUND (Off:0 Def:2),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,193,1,5,2,4:16 PM,11:39,Howard 1' Layup (2 PTS) (Rondo 1 AST),,,25 - 21,-4,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,195,2,58,2,4:16 PM,11:24,,,MISS Duke Jr. 10' Turnaround Hook Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,196,4,0,2,4:16 PM,11:21,Reaves REBOUND (Off:0 Def:1),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,197,6,4,2,4:17 PM,11:21,Howard OFF.Foul (P1) (R.Mott),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,199,5,37,2,4:17 PM,11:21,Howard Offensive Foul Turnover (P1.T4),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,200,8,0,2,4:17 PM,11:21,,,SUB: Bembry FOR Duke Jr.,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,202,1,80,2,4:17 PM,11:05,,,Thomas 21' Step Back Jump Shot (6 PTS),27 - 21,-6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,203,2,6,2,4:17 PM,10:46,MISS Monk 4' Driving Layup,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,204,4,0,2,4:17 PM,10:44,,,Bembry REBOUND (Off:1 Def:2),,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,205,6,2,2,4:18 PM,10:42,Ellington S.FOUL (P1.T1) (J.Goble),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,207,3,11,2,4:18 PM,10:42,,,Aldridge Free Throw 1 of 2 (5 PTS),28 - 21,-7,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,208,3,12,2,4:18 PM,10:42,,,Aldridge Free Throw 2 of 2 (6 PTS),29 - 21,-8,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,209,5,4,2,4:19 PM,10:25,Reaves Traveling Turnover (P1.T5),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,210,1,80,2,4:19 PM,10:06,,,Thomas 14' Step Back Jump Shot (8 PTS),31 - 21,-10,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,211,2,1,2,4:19 PM,9:58,MISS Ellington 26' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,212,4,0,2,4:19 PM,9:53,,,Thomas REBOUND (Off:0 Def:1),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,213,2,1,2,4:19 PM,9:47,,,MISS Aldridge 26' 3PT Jump Shot,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,214,4,0,2,4:19 PM,9:47,,,Edwards REBOUND (Off:2 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,215,2,97,2,4:19 PM,9:42,,,MISS Edwards Tip Layup Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,216,4,0,2,4:19 PM,9:42,,,Edwards REBOUND (Off:3 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,217,1,3,2,4:20 PM,9:39,,,Edwards 9' Hook Shot (4 PTS),33 - 21,-12,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,218,2,6,2,4:20 PM,9:25,MISS Howard 3' Driving Layup,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,219,4,0,2,4:20 PM,9:23,,,Aldridge REBOUND (Off:0 Def:4),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,220,2,103,2,4:20 PM,9:21,,,MISS Thomas 24' 3PT Running Pull-Up Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,221,4,0,2,4:20 PM,9:15,Rondo REBOUND (Off:0 Def:3),,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,223,2,6,2,4:20 PM,9:02,MISS Ellington 3' Driving Layup,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,224,4,0,2,4:20 PM,8:55,Howard REBOUND (Off:1 Def:0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,225,1,97,2,4:20 PM,8:55,Howard Tip Layup Shot (4 PTS),,,33 - 23,-10,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,226,1,101,2,4:20 PM,8:47,,,Edwards 10' Driving Floating Jump Shot (6 PTS),35 - 23,-12,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,227,1,79,2,4:21 PM,8:39,Monk 27' 3PT Pullup Jump Shot (3 PTS),,,35 - 26,-9,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,229,2,1,2,4:21 PM,8:19,,,MISS Carter 28' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,230,4,0,2,4:21 PM,8:16,Reaves REBOUND (Off:0 Def:2),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,231,1,76,2,4:21 PM,8:14,Monk 2' Running Finger Roll Layup (5 PTS) (Reaves 1 AST),,,35 - 28,-7,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,233,9,1,2,4:21 PM,8:14,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,234,8,0,2,4:23 PM,8:14,SUB: Nunn FOR Rondo,,,,,4,200765,Rajon Rondo,1610612747.0,Los Angeles,Lakers,LAL,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,235,8,0,2,4:23 PM,8:14,,,SUB: Duke Jr. FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,238,5,1,2,4:24 PM,8:02,,,Carter Bad Pass Turnover (P1.T7),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,239,6,3,2,4:25 PM,8:02,,,Carter L.B.FOUL (P2.T1) (J.Goble),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,241,1,79,2,4:25 PM,7:52,Monk 27' 3PT Pullup Jump Shot (8 PTS),,,35 - 31,-4,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,242,2,63,2,4:25 PM,7:24,,,MISS Aldridge 18' Fadeaway Jumper,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,243,4,0,2,4:25 PM,7:19,,,Edwards REBOUND (Off:4 Def:1),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,244,2,1,2,4:25 PM,7:17,,,MISS Duke Jr. 27' 3PT Jump Shot,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,245,4,0,2,4:25 PM,7:15,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,247,6,2,2,4:26 PM,6:59,,,Aldridge S.FOUL (P3.T2) (R.Mott),,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,249,3,11,2,4:26 PM,6:59,MISS Howard Free Throw 1 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,250,4,1,2,4:26 PM,6:59,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,251,3,12,2,4:27 PM,6:59,Howard Free Throw 2 of 2 (5 PTS),,,35 - 32,-3,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,252,2,1,2,4:27 PM,6:45,,,MISS Edwards 26' 3PT Jump Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,253,4,0,2,4:27 PM,6:43,Nunn REBOUND (Off:0 Def:2),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,254,1,101,2,4:27 PM,6:31,Nunn 5' Driving Floating Jump Shot (2 PTS),,,35 - 34,-1,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,255,6,2,2,4:27 PM,6:19,Howard S.FOUL (P2.T2) (R.Mott),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,257,3,11,2,4:28 PM,6:19,,,Bembry Free Throw 1 of 2 (1 PTS),36 - 34,-2,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,258,8,0,2,4:28 PM,6:19,SUB: Bazemore FOR Ellington,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,259,8,0,2,4:28 PM,6:19,,,SUB: Millsap FOR Aldridge,,,5,200746,LaMarcus Aldridge,1610612751.0,Brooklyn,Nets,BKN,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,262,3,12,2,4:28 PM,6:19,,,Bembry Free Throw 2 of 2 (2 PTS),37 - 34,-3,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,308,2,1,2,4:28 PM,6:09,MISS Howard 9' Jump Shot,,Millsap BLOCK (1 BLK),,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,310,4,0,2,4:28 PM,6:08,Howard REBOUND (Off:2 Def:0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,263,2,5,2,4:29 PM,6:03,MISS Howard 3' Layup,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,264,4,0,2,4:29 PM,6:00,,,Millsap REBOUND (Off:1 Def:4),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,265,2,6,2,4:29 PM,5:56,Howard BLOCK (1 BLK),,MISS Carter 6' Driving Layup,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,267,4,0,2,4:29 PM,5:50,Monk REBOUND (Off:0 Def:1),,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,268,1,79,2,4:29 PM,5:46,Monk 16' Pullup Jump Shot (10 PTS),,,37 - 36,-1,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,269,1,6,2,4:29 PM,5:30,,,Duke Jr. 2' Driving Layup (2 PTS) (Millsap 2 AST),39 - 36,-3,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,270,6,2,2,4:29 PM,5:30,Reaves S.FOUL (P1.T3) (M.Dagher),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,272,8,0,2,4:29 PM,5:30,,,SUB: Brown FOR Edwards,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,274,3,10,2,4:30 PM,5:30,,,MISS Duke Jr. Free Throw 1 of 1,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,275,4,0,2,4:30 PM,5:27,,,Millsap REBOUND (Off:2 Def:4),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,276,1,1,2,4:30 PM,5:20,,,Carter 3PT Jump Shot (8 PTS) (Brown 1 AST),42 - 36,-6,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,278,9,1,2,4:30 PM,5:19,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,279,8,0,2,4:32 PM,5:19,,,SUB: Thomas FOR Duke Jr.,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,281,6,4,2,4:33 PM,5:06,Howard OFF.Foul (P3) (M.Dagher),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,283,5,37,2,4:33 PM,5:06,Howard Offensive Foul Turnover (P2.T6),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,284,5,2,2,4:33 PM,4:55,Howard STEAL (1 STL),,Millsap Lost Ball Turnover (P2.T8),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,286,5,45,2,4:33 PM,4:51,Monk Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,287,2,98,2,4:34 PM,4:36,Monk BLOCK (1 BLK),,MISS Millsap 11' Cutting Layup Shot,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,289,4,0,2,4:34 PM,4:31,Nunn REBOUND (Off:0 Def:3),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,290,1,2,2,4:34 PM,4:29,Nunn 28' 3PT Running Jump Shot (5 PTS),,,42 - 39,-3,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,291,1,66,2,4:34 PM,4:17,,,Bembry 11' Jump Bank Shot (4 PTS) (Millsap 3 AST),44 - 39,-5,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,292,6,1,2,4:34 PM,4:05,,,Bembry P.FOUL (P1.T3) (J.Goble),,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,294,8,0,2,4:35 PM,4:05,SUB: Horton-Tucker FOR Monk,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,295,8,0,2,4:35 PM,4:05,,,SUB: Duke Jr. FOR Carter,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,298,6,1,2,4:35 PM,3:58,,,Brown P.FOUL (P4.T4) (R.Mott),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,301,6,2,2,4:35 PM,3:52,,,Thomas S.FOUL (P1.PN) (M.Dagher),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,303,3,11,2,4:36 PM,3:52,Horton-Tucker Free Throw 1 of 2 (7 PTS),,,44 - 40,-4,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,306,3,12,2,4:36 PM,3:52,MISS Horton-Tucker Free Throw 2 of 2,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,304,8,0,2,4:36 PM,3:52,SUB: Jordan FOR Howard,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,307,4,0,2,4:36 PM,3:47,,,Thomas REBOUND (Off:0 Def:2),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,311,6,1,2,4:37 PM,3:34,Nunn P.FOUL (P1.T4) (J.Goble),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,313,1,1,2,4:37 PM,3:26,,,Millsap 3PT Jump Shot (3 PTS) (Brown 2 AST),47 - 40,-7,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,315,1,75,2,4:37 PM,3:11,Nunn 4' Driving Finger Roll Layup (7 PTS),,,47 - 42,-5,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,316,2,1,2,4:37 PM,2:52,,,MISS Millsap 26' 3PT Jump Shot,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,317,4,0,2,4:37 PM,2:49,Horton-Tucker REBOUND (Off:0 Def:2),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,318,1,1,2,4:38 PM,2:40,Horton-Tucker 28' 3PT Jump Shot (10 PTS) (Reaves 2 AST),,,47 - 45,-2,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,320,2,1,2,4:38 PM,2:13,,,MISS Thomas 14' Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,321,4,0,2,4:38 PM,2:09,,,Bembry REBOUND (Off:2 Def:2),,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,322,6,2,2,4:38 PM,2:09,Horton-Tucker S.FOUL (P1.PN) (R.Mott),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,324,3,11,2,4:39 PM,2:09,,,MISS Bembry Free Throw 1 of 2,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,325,4,1,2,4:39 PM,2:09,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,328,3,12,2,4:39 PM,2:09,,,MISS Bembry Free Throw 2 of 2,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,326,8,0,2,4:39 PM,2:09,SUB: Ellington FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,329,4,0,2,4:39 PM,2:05,,,Millsap REBOUND (Off:3 Def:4),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,330,1,72,2,4:39 PM,2:03,,,Millsap 3' Putback Layup (5 PTS),49 - 45,-4,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,332,2,6,2,4:39 PM,1:53,MISS Horton-Tucker 3' Driving Layup,,Millsap BLOCK (2 BLK),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,334,4,0,2,4:39 PM,1:49,,,Thomas REBOUND (Off:0 Def:3),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,335,1,41,2,4:39 PM,1:48,,,Thomas 2' Running Layup (10 PTS),51 - 45,-6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,336,1,79,2,4:40 PM,1:35,Nunn 20' Pullup Jump Shot (9 PTS),,,51 - 47,-4,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,337,2,86,2,4:40 PM,1:11,,,MISS Millsap 13' Turnaround Fadeaway Shot,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,338,4,0,2,4:40 PM,1:08,Nunn REBOUND (Off:0 Def:4),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,339,5,2,2,4:40 PM,0:58,Jordan Lost Ball Turnover (P1.T8),,Duke Jr. STEAL (1 STL),,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,341,6,1,2,4:40 PM,0:58,Bazemore P.FOUL (P1.PN) (M.Dagher),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,343,3,11,2,4:41 PM,0:58,,,MISS Duke Jr. Free Throw 1 of 2,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,344,4,1,2,4:41 PM,0:58,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,345,8,0,2,4:41 PM,0:58,,,SUB: Carter FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,347,3,12,2,4:41 PM,0:58,,,Duke Jr. Free Throw 2 of 2 (3 PTS),52 - 47,-5,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,348,6,2,2,4:41 PM,0:45,,,Millsap S.FOUL (P2.PN) (R.Mott),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,350,3,11,2,4:42 PM,0:45,Jordan Free Throw 1 of 2 (5 PTS),,,52 - 48,-4,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,351,3,12,2,4:42 PM,0:45,Jordan Free Throw 2 of 2 (6 PTS),,,52 - 49,-3,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,352,2,6,2,4:43 PM,0:37,Jordan BLOCK (2 BLK),,MISS Thomas 8' Driving Layup,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,354,4,0,2,4:43 PM,0:37,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,356,1,1,2,4:43 PM,0:33,,,Millsap 26' 3PT Jump Shot (8 PTS) (Thomas 1 AST),55 - 49,-6,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,358,5,2,2,4:43 PM,0:24,Horton-Tucker Lost Ball Turnover (P1.T9),,Duke Jr. STEAL (2 STL),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,360,6,28,2,4:43 PM,0:24,Jordan Personal Take Foul (P3.PN) (J.Goble),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,362,3,11,2,4:44 PM,0:24,,,Thomas Free Throw 1 of 2 (11 PTS),56 - 49,-7,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,363,3,12,2,4:44 PM,0:24,,,Thomas Free Throw 2 of 2 (12 PTS),57 - 49,-8,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,364,2,63,2,4:44 PM,0:00,MISS Horton-Tucker 24' 3PT Fadeaway Jumper,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,365,4,0,2,4:45 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,366,13,0,2,4:45 PM,0:00,,End of 2nd Period (4:45 PM EST),,57 - 49,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100001,372,12,0,3,5:01 PM,12:00,,Start of 3rd Period (5:01 PM EST),,57 - 49,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,373,1,73,3,5:02 PM,11:41,,,Bembry 3' Driving Reverse Layup (6 PTS) (Carter 2 AST),59 - 49,-10,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,375,2,1,3,5:02 PM,11:27,MISS Ellington 26' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,376,4,0,3,5:02 PM,11:24,Nunn REBOUND (Off:1 Def:4),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,377,2,6,3,5:02 PM,11:12,MISS Nunn 5' Driving Layup,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,378,4,0,3,5:02 PM,11:09,,,Bembry REBOUND (Off:2 Def:3),,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,379,2,2,3,5:02 PM,11:03,,,MISS Millsap 26' 3PT Running Jump Shot,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,380,4,0,3,5:02 PM,11:00,Bazemore REBOUND (Off:0 Def:1),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,381,2,79,3,5:02 PM,10:48,MISS Nunn 16' Pullup Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+0012100001,382,4,0,3,5:03 PM,10:44,,,Claxton REBOUND (Off:0 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+0012100001,383,5,1,3,5:03 PM,10:38,Horton-Tucker STEAL (1 STL),,Carter Bad Pass Turnover (P2.T9),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,385,2,2,3,5:03 PM,10:29,MISS Bazemore 24' 3PT Running Jump Shot,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,386,4,0,3,5:03 PM,10:26,,,Brown REBOUND (Off:0 Def:2),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,387,2,1,3,5:03 PM,10:23,,,MISS Carter 26' 3PT Jump Shot,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,388,4,0,3,5:03 PM,10:21,Horton-Tucker REBOUND (Off:0 Def:3),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,390,6,1,3,5:03 PM,10:16,,,Brown P.FOUL (P5.T1) (J.Goble),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,392,1,1,3,5:04 PM,9:58,Bazemore 27' 3PT Jump Shot (3 PTS) (Horton-Tucker 2 AST),,,59 - 52,-7,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,394,2,1,3,5:04 PM,9:36,,,MISS Bembry 26' 3PT Jump Shot,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,395,4,0,3,5:04 PM,9:31,,,Claxton REBOUND (Off:1 Def:1),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,396,2,3,3,5:04 PM,9:30,Jordan BLOCK (3 BLK),,MISS Claxton 5' Hook Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,397,4,0,3,5:04 PM,9:27,,,Millsap REBOUND (Off:4 Def:4),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,398,1,72,3,5:04 PM,9:27,,,Millsap 2' Putback Layup (10 PTS),61 - 52,-9,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,399,5,1,3,5:04 PM,9:14,Nunn Bad Pass Turnover (P1.T10),,Brown STEAL (1 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,401,1,50,3,5:05 PM,9:05,,,Claxton 5' Running Dunk (2 PTS) (Bembry 2 AST),63 - 52,-11,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,403,2,80,3,5:05 PM,8:54,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,404,4,0,3,5:05 PM,8:50,,,Brown REBOUND (Off:0 Def:3),,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,405,2,1,3,5:05 PM,8:42,,,MISS Claxton 14' Jump Shot,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,406,4,0,3,5:05 PM,8:38,Horton-Tucker REBOUND (Off:0 Def:4),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,407,2,6,3,5:05 PM,8:30,MISS Horton-Tucker 6' Driving Layup,,Claxton BLOCK (1 BLK),,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,408,4,0,3,5:05 PM,8:27,Nunn REBOUND (Off:2 Def:4),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,409,1,79,3,5:05 PM,8:21,Bazemore 15' Pullup Jump Shot (5 PTS),,,63 - 54,-9,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,411,2,1,3,5:06 PM,7:58,,,MISS Millsap 5' Jump Shot,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,412,4,0,3,5:06 PM,7:55,Jordan REBOUND (Off:0 Def:3),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,413,2,41,3,5:06 PM,7:54,MISS Nunn 2' Running Layup,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,414,4,0,3,5:06 PM,7:51,,,Millsap REBOUND (Off:4 Def:5),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,415,2,41,3,5:06 PM,7:48,,,MISS Brown 1' Running Layup,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,416,4,0,3,5:06 PM,7:45,Bazemore REBOUND (Off:0 Def:2),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,417,1,1,3,5:06 PM,7:40,Ellington 27' 3PT Jump Shot (6 PTS) (Bazemore 2 AST),,,63 - 57,-6,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,419,6,2,3,5:06 PM,7:26,Ellington S.FOUL (P2.T1) (J.Goble),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,421,3,11,3,5:07 PM,7:26,,,Bembry Free Throw 1 of 2 (7 PTS),64 - 57,-7,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,422,9,1,3,5:07 PM,7:26,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,424,3,12,3,5:10 PM,7:26,,,Bembry Free Throw 2 of 2 (8 PTS),65 - 57,-8,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,425,2,1,3,5:10 PM,7:08,MISS Nunn 24' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,426,4,0,3,5:10 PM,7:04,,,Millsap REBOUND (Off:4 Def:6),,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,427,6,1,3,5:10 PM,7:00,Horton-Tucker P.FOUL (P2.T2) (R.Mott),,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,429,8,0,3,5:11 PM,7:00,,,SUB: Edwards FOR Millsap,,,5,200794,Paul Millsap,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,431,2,1,3,5:11 PM,6:48,,,MISS Edwards 26' 3PT Jump Shot,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,432,4,0,3,5:11 PM,6:44,Jordan REBOUND (Off:0 Def:4),,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,434,1,1,3,5:11 PM,6:35,Ellington 26' 3PT Jump Shot (9 PTS) (Horton-Tucker 3 AST),,,65 - 60,-5,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,436,6,6,3,5:11 PM,6:35,,,Carter AWAY.FROM.PLAY.FOUL (P3.T2) (R.Mott),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,439,3,10,3,5:12 PM,6:35,Jordan Free Throw 1 of 1 (7 PTS),,,65 - 61,-4,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,441,8,0,3,5:12 PM,6:24,,,SUB: Duke Jr. FOR Bembry,,,5,1627761,DeAndre' Bembry,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,443,1,79,3,5:12 PM,6:15,,,Brown 14' Pullup Jump Shot (12 PTS),67 - 61,-6,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,444,6,1,3,5:13 PM,6:05,,,Carter P.FOUL (P4.T3) (R.Mott),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,446,8,0,3,5:13 PM,6:05,SUB: Howard FOR Jordan,,,,,4,201599,DeAndre Jordan,1610612747.0,Los Angeles,Lakers,LAL,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,448,2,6,3,5:13 PM,5:58,MISS Horton-Tucker 2' Driving Layup,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,450,1,87,3,5:13 PM,5:51,Howard Putback Dunk (7 PTS),,,67 - 63,-4,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,449,4,0,3,5:13 PM,5:51,Howard REBOUND (Off:3 Def:0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,451,5,1,3,5:13 PM,5:44,Bazemore STEAL (1 STL),,Carter Bad Pass Turnover (P3.T10),,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,453,1,41,3,5:13 PM,5:40,Ellington Running Layup (11 PTS) (Bazemore 3 AST),,,67 - 65,-2,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,455,9,1,3,5:14 PM,5:37,,,Nets Timeout: Regular (Reg.3 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,456,8,0,3,5:16 PM,5:37,SUB: Monk FOR Horton-Tucker,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,457,8,0,3,5:16 PM,5:37,,,SUB: Thomas FOR Brown,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,460,1,1,3,5:17 PM,5:16,,,Duke Jr. 25' 3PT Jump Shot (6 PTS) (Edwards 1 AST),70 - 65,-5,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,462,2,1,3,5:17 PM,4:57,MISS Ellington 25' 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,463,4,0,3,5:17 PM,4:53,,,Duke Jr. REBOUND (Off:0 Def:2),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,464,1,79,3,5:17 PM,4:45,,,Thomas 12' Pullup Jump Shot (14 PTS),72 - 65,-7,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,465,2,1,3,5:18 PM,4:30,MISS Nunn 27' 3PT Jump Shot,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,466,4,0,3,5:18 PM,4:19,Howard REBOUND (Off:4 Def:0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,467,2,72,3,5:18 PM,4:19,MISS Howard Putback Layup,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,468,4,0,3,5:18 PM,4:18,,,Duke Jr. REBOUND (Off:0 Def:3),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,469,2,6,3,5:18 PM,4:13,,,MISS Claxton 2' Driving Layup,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,470,4,0,3,5:18 PM,4:10,Ellington REBOUND (Off:0 Def:1),,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,471,5,1,3,5:18 PM,4:08,Nunn Bad Pass Turnover (P2.T11),,Duke Jr. STEAL (3 STL),,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,473,2,41,3,5:18 PM,3:59,,,MISS Duke Jr. 2' Running Layup,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,474,4,0,3,5:18 PM,3:54,Nunn REBOUND (Off:2 Def:5),,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,475,2,1,3,5:18 PM,3:51,MISS Ellington 3PT Jump Shot,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,476,4,0,3,5:18 PM,3:47,,,Claxton REBOUND (Off:1 Def:2),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,477,2,79,3,5:18 PM,3:43,,,MISS Thomas 14' Pullup Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,478,4,0,3,5:18 PM,3:40,Bazemore REBOUND (Off:0 Def:3),,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,479,2,6,3,5:18 PM,3:34,MISS Bazemore 3' Driving Layup,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,480,4,0,3,5:19 PM,3:34,Howard REBOUND (Off:5 Def:0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,481,6,2,3,5:19 PM,3:34,,,Claxton S.FOUL (P5.T4) (R.Mott),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,483,3,11,3,5:19 PM,3:34,Howard Free Throw 1 of 2 (8 PTS),,,72 - 66,-6,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,484,8,0,3,5:19 PM,3:34,SUB: Horton-Tucker FOR Ellington,,,,,4,201961,Wayne Ellington,1610612747.0,Los Angeles,Lakers,LAL,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,485,8,0,3,5:19 PM,3:34,SUB: Reaves FOR Bazemore,,,,,4,203145,Kent Bazemore,1610612747.0,Los Angeles,Lakers,LAL,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,486,8,0,3,5:19 PM,3:34,SUB: Ayayi FOR Nunn,,,,,4,1629134,Kendrick Nunn,1610612747.0,Los Angeles,Lakers,LAL,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,487,8,0,3,5:19 PM,3:34,,,SUB: Sharpe FOR Carter,,,5,1628975,Jevon Carter,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,488,8,0,3,5:19 PM,3:34,,,SUB: Brown FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,494,3,12,3,5:20 PM,3:34,Howard Free Throw 2 of 2 (9 PTS),,,72 - 67,-5,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,495,2,6,3,5:20 PM,3:21,,,MISS Edwards 4' Driving Layup,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,496,4,0,3,5:20 PM,3:21,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,497,6,3,3,5:20 PM,3:21,Ayayi L.B.FOUL (P1.T3) (R.Mott),,,,,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,499,6,2,3,5:20 PM,3:16,Reaves S.FOUL (P2.T4) (M.Dagher),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,501,3,11,3,5:21 PM,3:16,,,Thomas Free Throw 1 of 2 (15 PTS),73 - 67,-6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,502,3,12,3,5:21 PM,3:16,,,MISS Thomas Free Throw 2 of 2,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,503,4,0,3,5:21 PM,3:13,Howard REBOUND (Off:5 Def:1),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,504,2,6,3,5:21 PM,3:03,MISS Monk 2' Driving Layup,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,505,4,0,3,5:21 PM,3:02,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,506,6,3,3,5:21 PM,3:02,Howard L.B.FOUL (P4.PN) (R.Mott),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,508,3,11,3,5:22 PM,3:02,,,Sharpe Free Throw 1 of 2 (1 PTS),74 - 67,-7,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,509,3,12,3,5:22 PM,3:02,,,Sharpe Free Throw 2 of 2 (2 PTS),75 - 67,-8,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,510,1,5,3,5:22 PM,2:50,Monk 4' Layup (12 PTS),,,75 - 69,-6,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,511,6,4,3,5:23 PM,2:38,,,Thomas OFF.Foul (P2) (R.Mott),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,513,5,37,3,5:23 PM,2:38,,,Thomas Offensive Foul Turnover (P2.T11),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012100001,514,6,1,3,5:23 PM,2:28,,,Sharpe P.FOUL (P1.PN) (M.Dagher),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,516,3,11,3,5:23 PM,2:28,Howard Free Throw 1 of 2 (10 PTS),,,75 - 70,-5,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,517,3,12,3,5:24 PM,2:28,Howard Free Throw 2 of 2 (11 PTS),,,75 - 71,-4,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,518,1,6,3,5:24 PM,2:14,,,Duke Jr. 3' Driving Layup (8 PTS),77 - 71,-6,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,519,2,6,3,5:24 PM,2:00,MISS Horton-Tucker 3' Driving Layup,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,520,4,0,3,5:24 PM,2:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,522,2,79,3,5:24 PM,1:53,MISS Monk 27' 3PT Pullup Jump Shot,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,523,4,0,3,5:24 PM,1:50,,,Thomas REBOUND (Off:0 Def:4),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,524,6,2,3,5:25 PM,1:37,Howard S.FOUL (P5.PN) (M.Dagher),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,526,3,11,3,5:25 PM,1:37,,,Thomas Free Throw 1 of 2 (16 PTS),78 - 71,-7,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,527,3,12,3,5:25 PM,1:37,,,Thomas Free Throw 2 of 2 (17 PTS),79 - 71,-8,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,528,1,1,3,5:26 PM,1:22,Reaves 28' 3PT Jump Shot (3 PTS) (Ayayi 1 AST),,,79 - 74,-5,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,530,6,3,3,5:26 PM,1:22,,,Sharpe L.B.FOUL (P2.PN) (R.Mott),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,533,18,1,3,5:27 PM,1:22,,Instant Replay3rd Period (5:27 PM EST),,79 - 74,-5,0,530,,,,,,0,0,,,,,,1,0,,,,,,0
+0012100001,534,6,11,3,5:28 PM,1:22,Howard T.FOUL (P5.PN) (M.Dagher),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,535,3,16,3,5:32 PM,1:22,,,Thomas Free Throw Technical (18 PTS),80 - 74,-6,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,536,6,14,3,5:32 PM,1:22,Howard FLAGRANT.FOUL.TYPE1 (P6.PN) (R.Mott),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+0012100001,539,3,10,3,5:34 PM,1:22,MISS Brown Free Throw 1 of 1,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,540,8,0,3,5:34 PM,1:22,SUB: Brown FOR Howard,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,542,4,0,3,5:34 PM,1:22,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,543,3,18,3,5:35 PM,1:22,,,Sharpe Free Throw Flagrant 1 of 2 (3 PTS),81 - 74,-7,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,544,3,19,3,5:35 PM,1:22,,,Sharpe Free Throw Flagrant 2 of 2 (4 PTS),82 - 74,-8,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,549,8,0,3,5:36 PM,1:22,,,SUB: Doumbouya FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,551,2,52,3,5:36 PM,1:13,,,MISS Sharpe 3' Alley Oop Dunk,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,552,4,0,3,5:36 PM,1:11,Monk REBOUND (Off:0 Def:2),,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,553,1,79,3,5:36 PM,1:05,Brown 15' Pullup Jump Shot (2 PTS) (Monk 1 AST),,,82 - 76,-6,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,555,5,2,3,5:37 PM,0:52,Reaves STEAL (1 STL),,Duke Jr. Lost Ball Turnover (P2.T12),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,557,2,80,3,5:37 PM,0:39,MISS Horton-Tucker 18' Step Back Jump Shot,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,558,4,0,3,5:37 PM,0:36,Brown REBOUND (Off:1 Def:0),,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,559,1,5,3,5:37 PM,0:36,Brown 2' Layup (4 PTS),,,82 - 78,-4,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,561,8,0,3,5:37 PM,0:23,SUB: Oliver FOR Horton-Tucker,,,,,4,1629659,Talen Horton-Tucker,1610612747.0,Los Angeles,Lakers,LAL,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,563,2,58,3,5:38 PM,0:15,,,MISS Brown 13' Turnaround Hook Shot,,,5,1628971,Bruce Brown,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,564,4,0,3,5:38 PM,0:12,,,Sharpe REBOUND (Off:1 Def:0),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,565,1,97,3,5:38 PM,0:12,,,Sharpe Tip Layup Shot (6 PTS),84 - 78,-6,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,566,1,80,3,5:38 PM,0:01,Monk 26' 3PT Step Back Jump Shot (15 PTS),,,84 - 81,-3,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,567,13,0,3,5:38 PM,0:00,,End of 3rd Period (5:38 PM EST),,84 - 81,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,1
+0012100001,574,12,0,4,5:41 PM,12:00,,Start of 4th Period (5:41 PM EST),,84 - 81,-3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,575,2,1,4,5:41 PM,11:46,MISS Reaves 27' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,576,4,0,4,5:41 PM,11:41,,,Duke Jr. REBOUND (Off:0 Def:4),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,672,5,1,4,5:41 PM,11:36,Oliver STEAL (1 STL),,Thomas Bad Pass Turnover (P3.T13),,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,684,5,1,4,5:41 PM,11:33,Reaves Bad Pass Turnover (P2.T12),,Doumbouya STEAL (1 STL),,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,577,1,9,4,5:42 PM,11:30,,,Doumbouya 3' Driving Dunk (2 PTS),87 - 81,-6,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,578,2,73,4,5:42 PM,11:21,MISS Brown 1' Driving Reverse Layup,,Claxton BLOCK (2 BLK),,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,580,4,0,4,5:42 PM,11:15,,,Doumbouya REBOUND (Off:0 Def:1),,,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,581,6,2,4,7:42 AM,11:07,Oliver S.FOUL (P1.T1) (J.Goble),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,583,3,11,4,5:42 PM,11:07,,,MISS Claxton Free Throw 1 of 2,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,584,4,1,4,5:42 PM,11:07,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,585,3,12,4,5:42 PM,11:07,,,Claxton Free Throw 2 of 2 (3 PTS),85 - 81,-4,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,586,2,80,4,5:43 PM,10:46,MISS Monk 27' 3PT Step Back Jump Shot,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,587,4,0,4,5:43 PM,10:43,,,Duke Jr. REBOUND (Off:0 Def:5),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,588,6,1,4,5:43 PM,10:29,Reaves P.FOUL (P3.T2) (J.Goble),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,590,2,1,4,5:44 PM,10:20,,,MISS Thomas 13' Jump Shot,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,591,4,0,4,5:44 PM,10:20,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,592,6,3,4,5:44 PM,10:20,,,Claxton L.B.FOUL (P6.T1) (M.Dagher),,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,594,8,0,4,5:44 PM,10:20,,,SUB: Sharpe FOR Claxton,,,5,1629651,Nic Claxton,1610612751.0,Brooklyn,Nets,BKN,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,596,2,1,4,5:44 PM,10:09,MISS Reaves 25' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,597,4,0,4,5:44 PM,10:04,,,Cacok REBOUND (Off:0 Def:1),,,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,598,1,41,4,5:44 PM,10:00,,,Doumbouya 3' Running Layup (4 PTS) (Cacok 1 AST),89 - 81,-8,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,599,2,1,4,5:45 PM,9:48,MISS Monk 3PT Jump Shot,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,600,4,0,4,5:45 PM,9:45,,,Cacok REBOUND (Off:0 Def:2),,,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,601,1,43,4,5:45 PM,9:42,,,Cacok 1' Alley Oop Layup (2 PTS) (Thomas 2 AST),91 - 81,-10,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,603,9,1,4,5:45 PM,9:42,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,605,8,0,4,5:47 PM,9:42,SUB: McClung FOR Monk,,,,,4,1628370,Malik Monk,1610612747.0,Los Angeles,Lakers,LAL,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,607,6,2,4,5:48 PM,9:23,,,Duke Jr. S.FOUL (P2.T2) (J.Goble),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,609,3,11,4,5:48 PM,9:23,MISS Oliver Free Throw 1 of 2,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,610,4,1,4,5:48 PM,9:23,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,611,3,12,4,5:49 PM,9:23,Oliver Free Throw 2 of 2 (1 PTS),,,91 - 82,-9,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,612,1,3,4,5:49 PM,9:09,,,Cacok 1' Hook Shot (4 PTS),93 - 82,-11,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,613,2,1,4,5:49 PM,8:54,MISS McClung 27' 3PT Jump Shot,,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,614,4,0,4,5:49 PM,8:51,Oliver REBOUND (Off:1 Def:0),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,615,2,5,4,5:49 PM,8:48,MISS Ayayi 3' Layup,,Thomas BLOCK (1 BLK),,,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,617,4,0,4,5:49 PM,8:42,,,Duke Jr. REBOUND (Off:0 Def:6),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,618,1,2,4,5:49 PM,8:39,,,Thomas 27' 3PT Running Jump Shot (21 PTS) (Duke Jr. 1 AST),96 - 82,-14,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,620,8,0,4,5:50 PM,8:27,,,SUB: Edwards FOR Thomas,,,5,1630560,Cam Thomas,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+0012100001,622,10,0,4,5:50 PM,8:24,Jump Ball Brown vs. Cacok: Tip to Doumbouya,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,625,5,2,4,5:50 PM,8:24,Brown Lost Ball Turnover (P1.T13),,Cacok STEAL (1 STL),,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,627,1,1,4,5:50 PM,8:09,,,Cacok 26' 3PT Jump Shot (7 PTS) (Edwards 2 AST),99 - 82,-17,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,629,2,93,4,5:51 PM,7:55,MISS Brown 8' Driving Bank Hook Shot,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,630,4,0,4,5:51 PM,7:52,,,Sharpe REBOUND (Off:1 Def:1),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,631,6,2,4,5:51 PM,7:46,Oliver S.FOUL (P2.T3) (R.Mott),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,633,3,11,4,5:51 PM,7:46,,,Doumbouya Free Throw 1 of 2 (5 PTS),100 - 82,-18,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,634,3,12,4,5:52 PM,7:46,,,Doumbouya Free Throw 2 of 2 (6 PTS),101 - 82,-19,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,635,6,2,4,5:52 PM,7:30,,,Edwards S.FOUL (P1.T3) (M.Dagher),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,637,3,11,4,5:52 PM,7:30,McClung Free Throw 1 of 2 (1 PTS),,,101 - 83,-18,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,638,3,12,4,5:52 PM,7:30,MISS McClung Free Throw 2 of 2,,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,639,4,0,4,5:53 PM,7:27,,,Doumbouya REBOUND (Off:0 Def:2),,,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,640,1,5,4,5:53 PM,7:15,,,Doumbouya 2' Layup (8 PTS),103 - 83,-20,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,641,6,2,4,5:53 PM,7:15,Reaves S.FOUL (P4.T4) (M.Dagher),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,643,8,0,4,5:53 PM,7:15,SUB: Queen FOR Ayayi,,,,,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,645,3,10,4,5:54 PM,7:15,,,Doumbouya Free Throw 1 of 1 (9 PTS),104 - 83,-21,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,646,2,101,4,5:54 PM,6:51,MISS Reaves 3' Driving Floating Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,647,4,0,4,5:54 PM,6:48,Reaves REBOUND (Off:1 Def:2),,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,648,2,6,4,5:54 PM,6:42,MISS Queen 3' Driving Layup,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,649,4,0,4,5:54 PM,6:39,,,Sharpe REBOUND (Off:1 Def:2),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,650,2,6,4,5:54 PM,6:37,McClung BLOCK (1 BLK),,MISS Cacok 3' Driving Layup,,,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,1
+0012100001,652,4,0,4,5:54 PM,6:37,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,654,1,101,4,5:55 PM,6:24,,,Duke Jr. 6' Driving Floating Jump Shot (10 PTS),106 - 83,-23,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,655,2,1,4,5:55 PM,6:13,MISS Brown 27' 3PT Jump Shot,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,656,4,0,4,5:55 PM,6:10,Oliver REBOUND (Off:2 Def:0),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,657,2,1,4,5:55 PM,6:08,MISS Reaves 26' 3PT Jump Shot,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,658,4,0,4,5:55 PM,6:04,,,Duke Jr. REBOUND (Off:0 Def:7),,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,659,1,98,4,5:55 PM,5:54,,,Sharpe 3' Cutting Layup Shot (8 PTS) (Duke Jr. 2 AST),108 - 83,-25,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,660,6,2,4,5:55 PM,5:54,Oliver S.FOUL (P3.PN) (J.Goble),,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,663,9,1,4,5:56 PM,5:54,LAKERS Timeout: Regular (Full 5 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,664,3,10,4,5:58 PM,5:54,,,MISS Sharpe Free Throw 1 of 1,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,665,4,0,4,5:59 PM,5:47,McClung REBOUND (Off:0 Def:1),,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,666,5,1,4,5:59 PM,5:34,Oliver Bad Pass Turnover (P1.T14),,Sharpe STEAL (1 STL),,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,668,6,2,4,5:59 PM,5:30,McClung S.FOUL (P1.PN) (M.Dagher),,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,670,3,11,4,5:59 PM,5:30,,,Doumbouya Free Throw 1 of 2 (10 PTS),109 - 83,-26,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,671,3,12,4,6:00 PM,5:30,,,Doumbouya Free Throw 2 of 2 (11 PTS),110 - 83,-27,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,675,8,0,4,6:00 PM,5:22,SUB: Ayayi FOR Reaves,,,,,4,1630559,Austin Reaves,1610612747.0,Los Angeles,Lakers,LAL,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+0012100001,679,2,6,4,6:00 PM,5:15,MISS McClung 4' Driving Layup,,Edwards BLOCK (1 BLK),,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,1
+0012100001,681,4,0,4,6:00 PM,5:13,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,683,2,1,4,6:00 PM,5:10,MISS Queen 19' Jump Shot,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,686,4,0,4,6:00 PM,5:08,,,Sharpe REBOUND (Off:1 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,687,2,6,4,6:01 PM,5:00,,,MISS Duke Jr. 4' Driving Layup,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,688,4,0,4,6:01 PM,4:46,,,Sharpe REBOUND (Off:2 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,689,1,72,4,6:01 PM,4:46,,,Sharpe Putback Layup (10 PTS),112 - 83,-29,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,691,5,2,4,6:01 PM,4:37,Brown Lost Ball Turnover (P2.T15),,Sharpe STEAL (2 STL),,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,693,5,1,4,6:01 PM,4:31,McClung STEAL (1 STL),,Doumbouya Bad Pass Turnover (P1.T14),,,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,695,1,1,4,6:02 PM,4:23,Brown 26' 3PT Jump Shot (7 PTS) (McClung 1 AST),,,112 - 86,-26,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,697,6,2,4,6:02 PM,4:10,Queen S.FOUL (P1.PN) (J.Goble),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,699,3,11,4,6:02 PM,4:10,,,MISS Duke Jr. Free Throw 1 of 2,,,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,700,4,1,4,6:02 PM,4:10,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,701,3,12,4,6:02 PM,4:10,,,Duke Jr. Free Throw 2 of 2 (11 PTS),113 - 86,-27,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,702,6,2,4,6:03 PM,3:58,,,Doumbouya S.FOUL (P1.T4) (J.Goble),,,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,704,3,11,4,6:03 PM,3:58,MISS Oliver Free Throw 1 of 2,,,,,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,705,4,1,4,6:03 PM,3:58,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,706,3,12,4,6:04 PM,3:58,Oliver Free Throw 2 of 2 (2 PTS),,,113 - 87,-26,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,707,2,1,4,6:04 PM,3:43,,,MISS Sharpe 26' 3PT Jump Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,708,4,0,4,6:04 PM,3:40,Queen REBOUND (Off:0 Def:1),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,709,5,45,4,6:04 PM,3:33,Ayayi Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,,,,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,1
+0012100001,710,1,1,4,6:05 PM,3:14,,,Edwards 27' 3PT Jump Shot (9 PTS) (Doumbouya 1 AST),116 - 87,-29,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1
+0012100001,712,1,108,4,6:05 PM,2:50,Oliver 3' Cutting Dunk Shot (4 PTS) (Queen 1 AST),,,116 - 89,-27,4,1628419,Cameron Oliver,1610612747.0,Los Angeles,Lakers,LAL,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,714,2,57,4,6:05 PM,2:33,,,MISS Sharpe 3' Driving Hook Shot,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,715,4,0,4,6:05 PM,2:28,,,Sharpe REBOUND (Off:3 Def:3),,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,716,1,107,4,6:05 PM,2:28,,,Sharpe Tip Dunk Shot (12 PTS),118 - 89,-29,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,717,2,1,4,6:06 PM,2:12,MISS Brown 27' 3PT Jump Shot,,,,,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,718,4,0,4,6:06 PM,2:09,Queen REBOUND (Off:1 Def:1),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,719,2,1,4,6:06 PM,2:08,MISS Queen 25' 3PT Jump Shot,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,720,4,0,4,6:06 PM,2:02,,,Doumbouya REBOUND (Off:0 Def:3),,,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,721,5,4,4,6:06 PM,1:52,,,Edwards Traveling Turnover (P1.T15),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,1
+0012100001,722,2,1,4,6:06 PM,1:42,MISS McClung 26' 3PT Jump Shot,,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,723,4,0,4,6:06 PM,1:36,Queen REBOUND (Off:2 Def:1),,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,724,1,87,4,6:06 PM,1:36,Queen Putback Dunk (2 PTS),,,118 - 91,-27,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,725,6,2,4,6:07 PM,1:26,McClung S.FOUL (P2.PN) (M.Dagher),,,,,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,727,3,11,4,6:07 PM,1:26,,,Duke Jr. Free Throw 1 of 2 (12 PTS),119 - 91,-28,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,728,3,12,4,6:07 PM,1:26,,,Duke Jr. Free Throw 2 of 2 (13 PTS),120 - 91,-29,5,1630561,David Duke Jr.,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,729,2,75,4,6:07 PM,1:15,MISS Queen 3' Driving Finger Roll Layup,,,,,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,730,4,0,4,6:08 PM,1:09,,,Doumbouya REBOUND (Off:0 Def:4),,,5,1629635,Sekou Doumbouya,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,731,6,2,4,6:08 PM,1:04,Ayayi S.FOUL (P2.PN) (R.Mott),,,,,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,1
+0012100001,733,3,11,4,6:08 PM,1:04,,,MISS Sharpe Free Throw 1 of 2,,,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,734,4,1,4,6:08 PM,1:04,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,735,3,12,4,6:08 PM,1:04,,,Sharpe Free Throw 2 of 2 (13 PTS),121 - 91,-30,5,1630549,Day'Ron Sharpe,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,736,1,1,4,6:09 PM,0:44,Brown 28' 3PT Jump Shot (10 PTS) (McClung 2 AST),,,121 - 94,-27,4,1630602,Chaundee Brown,1610612747.0,Los Angeles,Lakers,LAL,4,1630644,Mac McClung,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,738,5,1,4,6:09 PM,0:35,Queen STEAL (1 STL),,Edwards Bad Pass Turnover (P2.T16),,,5,1630556,Kessler Edwards,1610612751.0,Brooklyn,Nets,BKN,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1
+0012100001,740,1,41,4,6:09 PM,0:34,Queen 3' Running Layup (4 PTS),,,121 - 96,-25,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,741,6,2,4,6:09 PM,0:34,,,Cacok S.FOUL (P1.PN) (M.Dagher),,,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,1
+0012100001,743,3,10,4,6:10 PM,0:34,Queen Free Throw 1 of 1 (5 PTS),,,121 - 97,-24,4,1630243,Trevelin Queen,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,744,1,9,4,6:10 PM,0:16,,,Cacok 2' Driving Dunk (9 PTS),123 - 97,-26,5,1629719,Devontae Cacok,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,1
+0012100001,745,2,1,4,6:10 PM,0:08,MISS Ayayi 27' 3PT Jump Shot,,,,,4,1630555,Joel Ayayi,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,1
+0012100001,746,4,0,4,6:10 PM,0:06,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+0012100001,748,13,0,4,6:10 PM,0:00,,End of 4th Period (6:10 PM EST),,123 - 97,-26,0,0,,,,,,0,0,,,,,,0,0,,,,,,1

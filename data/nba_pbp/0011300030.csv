@@ -1,0 +1,497 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300030,0,12,0,1,7:36 PM,12:00,,Start of 1st Period (7:36 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,1,10,0,1,7:36 PM,12:00,Jump Ball Drummond vs. Bosh: Tip to Cole,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0
+0011300030,2,2,1,1,7:37 PM,11:41,,,MISS James 19' Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,3,4,0,1,7:37 PM,11:40,Bynum REBOUND (Off:0 Def:1),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,4,1,78,1,7:37 PM,11:17,Singler 6' Floating Jump Shot (2 PTS),,,0 - 2,2,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,5,6,2,1,7:37 PM,11:06,Drummond S.FOUL (P1.T1),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,6,3,11,1,7:37 PM,11:06,,,Cole Free Throw 1 of 2 (1 PTS),1 - 2,1,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,8,3,12,1,7:38 PM,11:06,,,Cole Free Throw 2 of 2 (2 PTS),2 - 2,TIE,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,10,6,1,1,7:38 PM,10:55,,,Wade P.FOUL (P1.T1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,11,2,5,1,7:39 PM,10:43,MISS Monroe  Layup,,Battier BLOCK (1 BLK),,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0
+0011300030,12,4,0,1,7:39 PM,10:41,,,Wade REBOUND (Off:0 Def:1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,13,1,1,1,7:39 PM,10:32,,,Cole  3PT Jump Shot (5 PTS) (Wade 1 AST),5 - 2,-3,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,14,2,1,1,7:39 PM,10:10,MISS Drummond 4' Jump Shot,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,15,4,0,1,7:40 PM,10:10,Drummond REBOUND (Off:1 Def:0),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,16,5,15,1,7:40 PM,10:09,Drummond Offensive Goaltending Turnover (P1.T1),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,17,2,1,1,7:40 PM,9:46,,,MISS Battier  3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,18,4,0,1,7:40 PM,9:45,Smith REBOUND (Off:0 Def:1),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,19,2,1,1,7:40 PM,9:38,MISS Smith 20' Jump Shot,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,20,4,0,1,7:40 PM,9:37,,,Wade REBOUND (Off:0 Def:2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,21,1,7,1,7:40 PM,9:32,,,Bosh  Dunk (2 PTS) (James 1 AST),7 - 2,-5,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,23,5,2,1,7:41 PM,9:14,Bynum Lost Ball Turnover (P1.T2),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,22,10,0,1,7:41 PM,9:14,Jump Ball Bynum vs. Bosh: Tip to Cole,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0
+0011300030,24,2,63,1,7:41 PM,8:56,,,MISS Wade 14' Fadeaway Jumper,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,25,4,0,1,7:41 PM,8:54,Drummond REBOUND (Off:1 Def:1),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,27,1,7,1,7:42 PM,8:47,Drummond  Dunk (2 PTS) (Smith 1 AST),,,7 - 4,-3,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,28,2,1,1,7:42 PM,8:34,,,MISS Bosh 19' Jump Shot,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,29,4,0,1,7:42 PM,8:33,Monroe REBOUND (Off:0 Def:1),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,30,5,1,1,7:42 PM,8:25,Smith Bad Pass Turnover (P1.T3),,Bosh STEAL (1 STL),,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,31,1,7,1,7:42 PM,8:19,,,Bosh  Dunk (4 PTS) (James 2 AST),9 - 4,-5,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,32,2,1,1,7:42 PM,8:01,MISS Smith  3PT Jump Shot,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,33,4,0,1,7:42 PM,8:00,,,Bosh REBOUND (Off:0 Def:1),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,34,2,1,1,7:43 PM,7:44,,,MISS Cole  3PT Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,35,4,0,1,7:43 PM,7:43,,,Wade REBOUND (Off:1 Def:2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,36,2,1,1,7:43 PM,7:38,,,MISS Wade 18' Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,37,4,0,1,7:43 PM,7:37,Drummond REBOUND (Off:1 Def:2),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,38,1,3,1,7:43 PM,7:22,Monroe 7' Hook Shot (2 PTS),,,9 - 6,-3,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,39,6,1,1,7:43 PM,7:13,Bynum P.FOUL (P1.T2),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,40,2,1,1,7:44 PM,6:58,,,MISS Battier 27' 3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,41,4,0,1,7:44 PM,6:57,Singler REBOUND (Off:0 Def:1),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,42,1,42,1,7:44 PM,6:53,Bynum  Driving Layup (2 PTS),,,9 - 8,-1,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,43,6,2,1,7:44 PM,6:53,,,Cole S.FOUL (P1.T2),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,44,3,10,1,7:44 PM,6:53,MISS Bynum Free Throw 1 of 1,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,45,4,0,1,7:44 PM,6:52,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,46,2,5,1,7:44 PM,6:36,Smith BLOCK (1 BLK),,MISS Bosh 1' Layup,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0
+0011300030,47,4,0,1,7:44 PM,6:35,Drummond REBOUND (Off:1 Def:3),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,48,5,2,1,7:45 PM,6:32,Bynum Lost Ball Turnover (P2.T4),,James STEAL (1 STL),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,49,2,52,1,7:45 PM,6:26,,,MISS James  Alley Oop Dunk,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,50,4,0,1,7:45 PM,6:23,Monroe REBOUND (Off:0 Def:2),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,51,6,26,1,7:45 PM,6:21,Monroe Offensive Charge Foul (P1.T3),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,52,5,5,1,7:45 PM,6:21,Monroe Foul Turnover (P1.T5),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,53,6,2,1,7:45 PM,6:14,Singler S.FOUL (P1.T4),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,54,3,11,1,7:45 PM,6:14,,,Wade Free Throw 1 of 2 (1 PTS),10 - 8,-2,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,56,3,12,1,7:46 PM,6:14,,,Wade Free Throw 2 of 2 (2 PTS),11 - 8,-3,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,58,9,1,1,7:46 PM,6:08,PISTONS Timeout: Regular (Full 1 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,60,8,0,1,7:48 PM,6:08,,,SUB: Allen FOR Cole,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,61,6,2,1,7:49 PM,5:57,,,Battier S.FOUL (P1.T3),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,62,3,11,1,7:49 PM,5:57,Monroe Free Throw 1 of 2 (3 PTS),,,11 - 9,-2,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,64,3,12,1,7:49 PM,5:57,MISS Monroe Free Throw 2 of 2,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,66,4,0,1,7:50 PM,5:56,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,67,5,4,1,7:50 PM,5:50,Singler Traveling Turnover (P1.T6),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,68,1,1,1,7:51 PM,5:34,,,Battier 24' 3PT Jump Shot (3 PTS) (Wade 2 AST),14 - 9,-5,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,69,2,1,1,7:51 PM,5:13,MISS Monroe 4' Jump Shot,,Bosh BLOCK (1 BLK),,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+0011300030,70,4,0,1,7:51 PM,5:12,Drummond REBOUND (Off:2 Def:3),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,71,1,3,1,7:51 PM,5:08,Drummond 5' Hook Shot (4 PTS),,,14 - 11,-3,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,72,1,1,1,7:51 PM,4:59,,,Bosh 26' 3PT Jump Shot (7 PTS) (Wade 3 AST),17 - 11,-6,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,73,5,2,1,7:51 PM,4:36,Bynum Lost Ball Turnover (P3.T7),,James STEAL (2 STL),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,74,5,39,1,7:52 PM,4:25,,,Wade Step Out of Bounds Turnover (P1.T1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,75,8,0,1,7:52 PM,4:25,,,SUB: Cole FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,76,5,1,1,7:52 PM,4:03,Smith Bad Pass Turnover (P2.T8),,Allen STEAL (1 STL),,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,77,1,7,1,7:53 PM,3:58,,,Bosh  Dunk (9 PTS) (James 3 AST),19 - 11,-8,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,78,2,1,1,7:53 PM,3:36,MISS Bynum 14' Jump Shot,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,79,4,0,1,7:53 PM,3:35,,,Bosh REBOUND (Off:0 Def:2),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,80,6,2,1,7:53 PM,3:28,Smith S.FOUL (P1.PN),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,81,3,11,1,7:53 PM,3:28,,,MISS James Free Throw 1 of 2,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,82,4,1,1,7:53 PM,3:28,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,83,8,0,1,7:54 PM,3:28,SUB: Jerebko FOR Drummond,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,84,8,0,1,7:54 PM,3:28,SUB: Caldwell-Pope FOR Singler,,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,85,8,0,1,7:54 PM,3:28,,,SUB: Andersen FOR Bosh,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,86,8,0,1,7:54 PM,3:28,,,SUB: Lewis FOR Battier,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,87,3,12,1,7:54 PM,3:28,,,James Free Throw 2 of 2 (1 PTS),20 - 11,-9,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,89,2,1,1,7:54 PM,3:06,MISS Jerebko 26' 3PT Jump Shot,,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,90,4,0,1,7:54 PM,3:05,Monroe REBOUND (Off:1 Def:2),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,91,6,2,1,7:54 PM,3:02,,,Andersen S.FOUL (P1.T4),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,92,3,11,1,7:55 PM,3:02,Smith Free Throw 1 of 2 (1 PTS),,,20 - 12,-8,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,94,8,0,1,7:55 PM,3:02,,,SUB: Jones FOR James,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,95,3,12,1,7:55 PM,3:02,Smith Free Throw 2 of 2 (2 PTS),,,20 - 13,-7,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,97,2,1,1,7:55 PM,2:49,,,MISS Jones 24' 3PT Jump Shot,,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,98,4,0,1,7:55 PM,2:47,Jerebko REBOUND (Off:0 Def:1),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,99,1,42,1,7:56 PM,2:32,Smith  Driving Layup (4 PTS),,,20 - 15,-5,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,100,2,1,1,7:56 PM,2:05,,,MISS Andersen  3PT Jump Shot,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,101,4,0,1,7:56 PM,2:05,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,102,5,11,1,7:56 PM,2:05,,,Heat Turnover: Shot Clock (T#2),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,103,9,1,1,7:56 PM,2:05,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,106,6,2,1,8:00 PM,1:49,,,Andersen S.FOUL (P2.PN),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,107,3,11,1,8:00 PM,1:49,MISS Bynum Free Throw 1 of 2,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,108,4,1,1,8:00 PM,1:49,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,109,3,12,1,8:00 PM,1:49,Bynum Free Throw 2 of 2 (3 PTS),,,20 - 16,-4,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,111,1,1,1,8:01 PM,1:36,,,Allen  3PT Jump Shot (3 PTS) (Lewis 1 AST),23 - 16,-7,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,112,1,1,1,8:01 PM,1:15,Smith 26' 3PT Jump Shot (7 PTS) (Monroe 1 AST),,,23 - 19,-4,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,114,2,1,1,8:02 PM,0:51,,,MISS Lewis 25' 3PT Jump Shot,,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,115,4,0,1,8:02 PM,0:50,Monroe REBOUND (Off:1 Def:3),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,116,2,3,1,8:02 PM,0:32,MISS Monroe 4' Hook Shot,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,117,4,0,1,8:02 PM,0:30,,,Andersen REBOUND (Off:0 Def:1),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,118,2,5,1,8:02 PM,0:14,,,MISS Jones  Layup,,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,119,4,0,1,8:02 PM,0:13,Jerebko REBOUND (Off:0 Def:2),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,120,2,1,1,8:03 PM,0:01,MISS Caldwell-Pope 25' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,121,4,0,1,8:03 PM,0:00,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,122,13,0,1,8:03 PM,0:00,,End of 1st Period (8:03 PM EST),,23 - 19,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,124,12,0,2,8:06 PM,12:00,,Start of 2nd Period (8:06 PM EST),,23 - 19,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,125,1,42,2,8:06 PM,11:45,Bynum  Driving Layup (5 PTS),,,23 - 21,-2,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,126,1,42,2,8:06 PM,11:30,,,Cole  Driving Layup (7 PTS),25 - 21,-4,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,127,1,42,2,8:07 PM,11:17,Bynum 1' Driving Layup (7 PTS),,,25 - 23,-2,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,128,1,1,2,8:07 PM,10:58,,,Jones 26' 3PT Jump Shot (3 PTS) (Cole 1 AST),28 - 23,-5,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,129,2,1,2,8:07 PM,10:40,MISS Villanueva 27' 3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,130,4,0,2,8:07 PM,10:39,,,Andersen REBOUND (Off:0 Def:2),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,131,1,1,2,8:07 PM,10:28,,,Jones  3PT Jump Shot (6 PTS) (Allen 1 AST),31 - 23,-8,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,132,2,5,2,8:08 PM,10:06,MISS Caldwell-Pope  Layup,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,133,4,0,2,8:08 PM,10:05,Caldwell-Pope REBOUND (Off:1 Def:0),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,134,1,5,2,8:08 PM,10:04,Caldwell-Pope 1' Layup (2 PTS),,,31 - 25,-6,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,135,2,1,2,8:08 PM,9:49,,,MISS Lewis 15' Jump Shot,,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,136,4,0,2,8:08 PM,9:48,Bynum REBOUND (Off:0 Def:2),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,137,1,42,2,8:08 PM,9:41,Bynum  Driving Layup (9 PTS),,,31 - 27,-4,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,138,9,1,2,8:08 PM,9:39,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,140,8,0,2,8:10 PM,9:39,SUB: Singler FOR Smith,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,141,6,1,2,8:11 PM,9:24,Caldwell-Pope P.FOUL (P1.T1),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,142,1,3,2,8:11 PM,9:11,,,Lewis 5' Hook Shot (2 PTS) (Allen 2 AST),33 - 27,-6,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,143,6,1,2,8:12 PM,9:01,,,Lewis P.FOUL (P1.T1),,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,144,2,1,2,8:12 PM,8:48,MISS Bynum 26' 3PT Jump Shot,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,145,4,0,2,8:12 PM,8:47,,,Andersen REBOUND (Off:0 Def:3),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,146,5,1,2,8:12 PM,8:46,,,Andersen Bad Pass Turnover (P1.T3),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,147,6,2,2,8:13 PM,8:36,,,Jones S.FOUL (P1.T2),,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,148,3,11,2,8:13 PM,8:36,Jerebko Free Throw 1 of 2 (1 PTS),,,33 - 28,-5,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,150,3,12,2,8:13 PM,8:36,Jerebko Free Throw 2 of 2 (2 PTS),,,33 - 29,-4,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,153,2,63,2,8:14 PM,8:16,,,MISS Allen 19' Fadeaway Jumper,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,154,4,0,2,8:14 PM,8:13,Singler REBOUND (Off:0 Def:2),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,155,5,1,2,8:14 PM,8:03,Jerebko Bad Pass Turnover (P1.T9),,Andersen STEAL (1 STL),,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,156,2,44,2,8:14 PM,7:58,,,MISS Cole  Reverse Layup,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,157,4,0,2,8:14 PM,7:55,Villanueva REBOUND (Off:0 Def:1),,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,158,1,42,2,8:14 PM,7:49,Bynum  Driving Layup (11 PTS),,,33 - 31,-2,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,159,8,0,2,8:15 PM,7:37,,,SUB: Wade FOR Cole,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,160,8,0,2,8:15 PM,7:37,SUB: Drummond FOR Jerebko,,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,161,8,0,2,8:15 PM,7:37,,,SUB: Bosh FOR Andersen,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,162,2,5,2,8:15 PM,7:31,Villanueva BLOCK (1 BLK),,MISS Lewis 1' Layup,,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0
+0011300030,163,4,0,2,8:15 PM,7:29,,,Lewis REBOUND (Off:1 Def:0),,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,164,1,1,2,8:15 PM,7:25,,,Jones  3PT Jump Shot (9 PTS) (Bosh 1 AST),36 - 31,-5,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,165,5,1,2,8:16 PM,7:09,Caldwell-Pope Bad Pass Turnover (P1.T10),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,167,1,1,2,8:16 PM,6:44,,,Bosh 15' Jump Shot (11 PTS),38 - 31,-7,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,168,1,1,2,8:17 PM,6:34,Singler 26' 3PT Jump Shot (5 PTS) (Bynum 1 AST),,,38 - 34,-4,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,169,1,1,2,8:17 PM,6:22,,,Bosh 19' Jump Shot (13 PTS) (Wade 4 AST),40 - 34,-6,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,170,1,5,2,8:17 PM,6:11,Singler  Layup (7 PTS) (Bynum 2 AST),,,40 - 36,-4,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,171,6,2,2,8:17 PM,6:11,,,Bosh S.FOUL (P1.T3),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,173,8,0,2,8:17 PM,6:11,SUB: Monroe FOR Bynum,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,175,8,0,2,8:18 PM,6:11,,,SUB: James FOR Jones,,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,176,3,10,2,8:18 PM,6:11,Singler Free Throw 1 of 1 (8 PTS),,,40 - 37,-3,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,178,5,2,2,8:18 PM,6:01,Caldwell-Pope STEAL (1 STL),,Wade Lost Ball Turnover (P2.T4),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,179,5,4,2,8:19 PM,5:49,Monroe Traveling Turnover (P2.T11),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,180,9,4,2,8:19 PM,5:49,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,182,8,0,2,8:21 PM,5:49,SUB: Smith FOR Caldwell-Pope,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,183,8,0,2,8:21 PM,5:49,,,SUB: Battier FOR Lewis,,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,184,5,1,2,8:21 PM,5:37,,,Wade Bad Pass Turnover (P3.T5),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,185,2,1,2,8:22 PM,5:22,MISS Singler 27' 3PT Jump Shot,,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,186,4,0,2,8:22 PM,5:21,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,187,6,1,2,8:22 PM,5:12,Singler P.FOUL (P2.T2),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,188,6,1,2,8:23 PM,5:06,Singler P.FOUL (P3.T3),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,189,1,42,2,8:23 PM,5:02,,,Bosh  Driving Layup (15 PTS) (Battier 1 AST),42 - 37,-5,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,190,6,2,2,8:23 PM,5:02,Drummond S.FOUL (P2.T4),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,191,3,10,2,8:23 PM,5:02,,,MISS Bosh Free Throw 1 of 1,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,192,4,0,2,8:23 PM,5:00,Monroe REBOUND (Off:1 Def:4),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,193,6,26,2,8:24 PM,4:38,Singler Offensive Charge Foul (P4.PN),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,194,5,5,2,8:24 PM,4:38,Singler Foul Turnover (P2.T12),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,195,8,0,2,8:24 PM,4:38,SUB: Bynum FOR Singler,,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,196,1,1,2,8:24 PM,4:23,,,Battier 25' 3PT Jump Shot (6 PTS) (Allen 3 AST),45 - 37,-8,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,198,7,5,2,8:25 PM,4:03,,,Wade Violation:Kicked Ball,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,199,6,2,2,8:25 PM,3:55,,,Bosh S.FOUL (P2.T4),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,200,3,11,2,8:25 PM,3:55,MISS Smith Free Throw 1 of 2,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,201,4,1,2,8:25 PM,3:55,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,202,3,12,2,8:26 PM,3:55,Smith Free Throw 2 of 2 (8 PTS),,,45 - 38,-7,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,204,1,5,2,8:26 PM,3:38,,,Wade 1' Layup (4 PTS) (Allen 4 AST),47 - 38,-9,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,205,9,1,2,8:27 PM,3:25,PISTONS Timeout: Regular (Full 2 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,207,8,0,2,8:29 PM,3:25,,,SUB: Jones FOR Allen,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,208,8,0,2,8:29 PM,3:24,SUB: Jerebko FOR Villanueva,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,210,5,1,2,8:30 PM,3:15,Smith Bad Pass Turnover (P3.T13),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,212,2,1,2,8:30 PM,3:02,Monroe BLOCK (1 BLK),,MISS Battier 4' Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0
+0011300030,213,4,0,2,8:30 PM,2:54,Bynum REBOUND (Off:0 Def:3),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,214,1,7,2,8:30 PM,2:50,Jerebko 1' Dunk (4 PTS) (Bynum 3 AST),,,47 - 40,-7,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,215,1,5,2,8:30 PM,2:38,,,Wade 1' Layup (6 PTS) (Jones 1 AST),49 - 40,-9,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,216,6,2,2,8:31 PM,2:25,,,Battier S.FOUL (P2.PN),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,217,3,11,2,8:31 PM,2:25,MISS Monroe Free Throw 1 of 2,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,218,4,1,2,8:31 PM,2:25,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,219,3,12,2,8:31 PM,2:25,Monroe Free Throw 2 of 2 (4 PTS),,,49 - 41,-8,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,221,2,1,2,8:32 PM,2:13,,,MISS Bosh 10' Jump Shot,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,222,4,0,2,8:32 PM,2:13,,,James REBOUND (Off:1 Def:1),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,223,6,2,2,8:32 PM,2:11,Jerebko S.FOUL (P1.PN),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,224,3,11,2,8:32 PM,2:11,,,Bosh Free Throw 1 of 2 (16 PTS),50 - 41,-9,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,226,3,12,2,8:32 PM,2:11,,,Bosh Free Throw 2 of 2 (17 PTS),51 - 41,-10,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,228,2,1,2,8:33 PM,1:58,MISS Monroe 18' Jump Shot,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,229,4,0,2,8:33 PM,1:57,Bynum REBOUND (Off:1 Def:3),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,230,2,7,2,8:33 PM,1:47,MISS Drummond  Dunk,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,231,4,0,2,8:33 PM,1:45,,,Bosh REBOUND (Off:0 Def:3),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,232,2,5,2,8:33 PM,1:40,,,MISS Wade 3' Layup,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,233,4,0,2,8:33 PM,1:39,Jerebko REBOUND (Off:0 Def:3),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,234,6,1,2,8:33 PM,1:35,,,James P.FOUL (P1.PN),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,238,3,11,2,8:35 PM,1:35,MISS Bynum Free Throw 1 of 2,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,239,4,1,2,8:35 PM,1:35,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,240,3,12,2,8:35 PM,1:35,Bynum Free Throw 2 of 2 (12 PTS),,,51 - 42,-9,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,242,1,7,2,8:36 PM,1:17,,,Bosh  Dunk (19 PTS) (James 4 AST),53 - 42,-11,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,243,2,5,2,8:36 PM,0:56,MISS Monroe  Layup,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,244,4,0,2,8:36 PM,0:56,,,Bosh REBOUND (Off:0 Def:4),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,245,6,2,2,8:37 PM,0:36,Drummond S.FOUL (P3.PN),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,246,3,11,2,8:37 PM,0:36,,,James Free Throw 1 of 2 (2 PTS),54 - 42,-12,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,248,3,12,2,8:37 PM,0:36,,,James Free Throw 2 of 2 (3 PTS),55 - 42,-13,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,250,1,42,2,8:38 PM,0:32,Bynum 1' Driving Layup (14 PTS),,,55 - 44,-11,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,251,7,1,2,8:38 PM,0:32,PISTONS Violation: Delay of game Violation,,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,252,5,1,2,8:38 PM,0:12,Monroe STEAL (1 STL),,James Bad Pass Turnover (P1.T6),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,253,2,5,2,8:38 PM,0:01,MISS Drummond  Layup,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,254,4,0,2,8:38 PM,0:00,Drummond REBOUND (Off:3 Def:3),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,255,1,4,2,8:38 PM,0:00,Drummond  Tip Shot (6 PTS),,,55 - 46,-9,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,256,18,0,2,8:39 PM,0:00,,Support Ruling,,,,0,255,Grant Hill,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,257,13,0,2,8:41 PM,0:00,,End of 2nd Period (8:41 PM EST),,55 - 46,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,259,12,0,3,8:56 PM,12:00,,Start of 3rd Period (8:56 PM EST),,55 - 46,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,260,5,1,3,8:57 PM,11:44,Monroe Bad Pass Turnover (P3.T14),,Cole STEAL (1 STL),,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,261,5,2,3,8:57 PM,11:40,Smith STEAL (1 STL),,Cole Lost Ball Turnover (P1.T7),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,262,1,7,3,8:57 PM,11:31,Drummond 1' Dunk (8 PTS) (Bynum 4 AST),,,55 - 48,-7,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,263,2,1,3,8:57 PM,11:12,,,MISS Cole 6' Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,264,4,0,3,8:57 PM,11:11,Drummond REBOUND (Off:3 Def:4),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,265,2,1,3,8:57 PM,10:53,MISS Monroe 4' Jump Shot,,Bosh BLOCK (2 BLK),,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+0011300030,266,4,0,3,8:57 PM,10:51,Monroe REBOUND (Off:2 Def:4),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,267,2,5,3,8:57 PM,10:49,MISS Monroe 1' Layup,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,268,4,0,3,8:57 PM,10:49,Drummond REBOUND (Off:4 Def:4),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,269,1,5,3,8:57 PM,10:49,Drummond 1' Layup (10 PTS),,,55 - 50,-5,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,270,7,1,3,8:58 PM,10:49,PISTONS Violation: Delay of game Violation,,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,329,6,18,3,8:58 PM,10:49,PISTONS Foul,,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,271,3,16,3,8:58 PM,10:49,,,MISS Wade Free Throw Technical,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,272,4,1,3,8:58 PM,10:49,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,273,6,1,3,8:59 PM,10:41,Monroe P.FOUL (P2.T1),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,274,1,63,3,8:59 PM,10:27,,,James 15' Fadeaway Jumper (5 PTS),57 - 50,-7,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,275,2,5,3,8:59 PM,10:10,MISS Monroe  Layup,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,276,4,0,3,8:59 PM,10:09,,,James REBOUND (Off:1 Def:2),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,277,1,49,3,8:59 PM,10:04,,,Wade 1' Driving Dunk (8 PTS) (James 5 AST),59 - 50,-9,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,278,5,4,3,9:00 PM,9:54,Singler Traveling Turnover (P3.T15),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,279,6,1,3,9:00 PM,9:50,Singler P.FOUL (P5.T2),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,280,8,0,3,9:00 PM,9:50,SUB: Jerebko FOR Singler,,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,281,2,1,3,9:00 PM,9:42,,,MISS Wade 5' Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,282,4,0,3,9:00 PM,9:41,Smith REBOUND (Off:0 Def:2),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,283,2,1,3,9:00 PM,9:34,MISS Jerebko 20' Jump Shot,,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,284,4,0,3,9:00 PM,9:32,Monroe REBOUND (Off:3 Def:4),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,285,1,5,3,9:00 PM,9:32,Drummond 1' Layup (12 PTS) (Monroe 2 AST),,,59 - 52,-7,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,286,6,2,3,9:00 PM,9:32,,,James S.FOUL (P2.T1),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,287,3,10,3,9:01 PM,9:32,MISS Drummond Free Throw 1 of 1,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,288,4,0,3,9:01 PM,9:31,Smith REBOUND (Off:1 Def:2),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,289,1,1,3,9:01 PM,9:12,Smith 24' 3PT Jump Shot (11 PTS) (Bynum 5 AST),,,59 - 55,-4,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,290,2,5,3,9:02 PM,8:53,,,MISS Bosh  Layup,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,291,4,0,3,9:02 PM,8:52,Monroe REBOUND (Off:3 Def:5),,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,292,1,5,3,9:02 PM,8:49,Jerebko 1' Layup (6 PTS) (Smith 2 AST),,,59 - 57,-2,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,293,1,1,3,9:02 PM,8:28,,,Bosh 17' Jump Shot (21 PTS) (Cole 2 AST),61 - 57,-4,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,294,1,5,3,9:02 PM,8:14,Drummond 1' Layup (14 PTS) (Monroe 3 AST),,,61 - 59,-2,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,295,1,1,3,9:02 PM,7:56,,,Battier 19' Jump Shot (8 PTS) (James 6 AST),63 - 59,-4,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,296,6,2,3,9:03 PM,7:39,,,Bosh S.FOUL (P3.T2),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,297,3,11,3,9:03 PM,7:39,Monroe Free Throw 1 of 2 (5 PTS),,,63 - 60,-3,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,299,3,12,3,9:04 PM,7:39,Monroe Free Throw 2 of 2 (6 PTS),,,63 - 61,-2,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,301,2,1,3,9:04 PM,7:26,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,302,4,0,3,9:04 PM,7:25,Jerebko REBOUND (Off:0 Def:4),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,303,6,2,3,9:04 PM,7:16,,,Bosh S.FOUL (P4.T3),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,304,3,11,3,9:05 PM,7:16,Drummond Free Throw 1 of 2 (15 PTS),,,63 - 62,-1,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,306,3,12,3,9:05 PM,7:16,Drummond Free Throw 2 of 2 (16 PTS),,,63 - 63,TIE,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,308,6,4,3,9:06 PM,7:02,,,Battier OFF.Foul (P3),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,309,5,5,3,9:06 PM,7:02,,,Battier Foul Turnover (P1.T8),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,310,1,5,3,9:06 PM,6:46,Monroe  Layup (8 PTS) (Bynum 6 AST),,,63 - 65,2,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,311,1,5,3,9:06 PM,6:27,,,Bosh 1' Layup (23 PTS) (James 7 AST),65 - 65,TIE,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,312,6,2,3,9:07 PM,6:09,,,Battier S.FOUL (P4.T4),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,313,3,11,3,9:07 PM,6:09,MISS Monroe Free Throw 1 of 2,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,314,4,1,3,9:07 PM,6:09,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,315,3,12,3,9:07 PM,6:09,Monroe Free Throw 2 of 2 (9 PTS),,,65 - 66,1,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,317,2,1,3,9:08 PM,5:55,,,MISS Cole 27' 3PT Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,318,4,0,3,9:08 PM,5:54,,,Wade REBOUND (Off:2 Def:2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,319,6,2,3,9:08 PM,5:51,Bynum S.FOUL (P2.T3),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,320,9,1,3,9:08 PM,5:51,PISTONS Timeout: Regular (Full 3 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,322,18,0,3,9:08 PM,5:51,,Support Ruling,,,,0,295,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,323,8,0,3,9:11 PM,5:51,,,SUB: Allen FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,325,3,11,3,9:11 PM,5:51,,,James Free Throw 1 of 2 (6 PTS),66 - 66,TIE,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,327,3,12,3,9:11 PM,5:51,,,James Free Throw 2 of 2 (7 PTS),67 - 66,-1,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,330,1,5,3,9:12 PM,5:35,Drummond 1' Layup (18 PTS),,,67 - 68,1,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,331,2,1,3,9:12 PM,5:14,,,MISS Cole 21' Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,332,4,0,3,9:12 PM,5:13,Smith REBOUND (Off:1 Def:3),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,333,2,5,3,9:13 PM,4:59,MISS Monroe 2' Layup,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,334,4,0,3,9:13 PM,4:59,Drummond REBOUND (Off:5 Def:4),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,335,6,2,3,9:13 PM,4:59,,,Battier S.FOUL (P5.PN),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,336,3,11,3,9:13 PM,4:59,Drummond Free Throw 1 of 2 (19 PTS),,,67 - 69,2,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,338,3,12,3,9:13 PM,4:59,Drummond Free Throw 2 of 2 (20 PTS),,,67 - 70,3,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,340,1,42,3,9:14 PM,4:48,,,Bosh 1' Driving Layup (25 PTS),69 - 70,1,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,341,6,2,3,9:14 PM,4:48,Drummond S.FOUL (P4.T4),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,344,8,0,3,9:14 PM,4:48,,,SUB: Beasley FOR Battier,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,345,3,10,3,9:14 PM,4:48,,,Bosh Free Throw 1 of 1 (26 PTS),70 - 70,TIE,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,347,5,1,3,9:15 PM,4:36,Smith Bad Pass Turnover (P4.T16),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,348,1,1,3,9:15 PM,4:23,,,Bosh 19' Jump Shot (28 PTS) (Cole 3 AST),72 - 70,-2,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,349,6,1,3,9:15 PM,4:13,,,James P.FOUL (P3.PN),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,350,3,11,3,9:16 PM,4:13,Monroe Free Throw 1 of 2 (10 PTS),,,72 - 71,-1,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,351,8,0,3,9:17 PM,4:13,SUB: Caldwell-Pope FOR Drummond,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,352,3,12,3,9:17 PM,4:13,Monroe Free Throw 2 of 2 (11 PTS),,,72 - 72,TIE,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,354,6,1,3,9:18 PM,4:04,Smith P.FOUL (P2.PN),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,355,3,11,3,9:18 PM,4:04,,,James Free Throw 1 of 2 (8 PTS),73 - 72,-1,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,357,3,12,3,9:18 PM,4:04,,,James Free Throw 2 of 2 (9 PTS),74 - 72,-2,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,359,6,1,3,9:19 PM,3:51,,,Beasley P.FOUL (P1.PN),,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,360,3,11,3,9:19 PM,3:51,MISS Smith Free Throw 1 of 2,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,361,4,1,3,9:19 PM,3:51,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,362,8,0,3,9:19 PM,3:51,,,SUB: Jones FOR James,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,363,3,12,3,9:19 PM,3:51,Smith Free Throw 2 of 2 (12 PTS),,,74 - 73,-1,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,365,6,1,3,9:20 PM,3:38,Caldwell-Pope P.FOUL (P2.PN),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,366,3,11,3,9:20 PM,3:38,,,Allen Free Throw 1 of 2 (4 PTS),75 - 73,-2,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,368,8,0,3,9:20 PM,3:38,,,SUB: Varnado FOR Bosh,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,369,3,12,3,9:20 PM,3:38,,,Allen Free Throw 2 of 2 (5 PTS),76 - 73,-3,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,371,2,1,3,9:21 PM,3:15,MISS Bynum 18' Jump Shot,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,372,4,0,3,9:21 PM,3:14,Smith REBOUND (Off:2 Def:3),,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,373,6,1,3,9:21 PM,3:13,,,Varnado P.FOUL (P1.PN),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,374,3,11,3,9:21 PM,3:13,Monroe Free Throw 1 of 2 (12 PTS),,,76 - 74,-2,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,376,3,12,3,9:22 PM,3:13,Monroe Free Throw 2 of 2 (13 PTS),,,76 - 75,-1,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,378,1,57,3,9:22 PM,3:05,,,Beasley 6' Driving Hook Shot (2 PTS) (Cole 4 AST),78 - 75,-3,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,379,6,2,3,9:22 PM,3:05,Jerebko S.FOUL (P2.PN),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,380,8,0,3,9:22 PM,3:05,SUB: Villanueva FOR Smith,,,,,4,2746,Josh Smith,1610612765.0,Detroit,Pistons,DET,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,381,3,10,3,9:22 PM,3:05,,,Beasley Free Throw 1 of 1 (3 PTS),79 - 75,-4,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,383,2,1,3,9:23 PM,2:50,MISS Villanueva  3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,384,4,0,3,9:23 PM,2:49,,,Varnado REBOUND (Off:0 Def:1),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,385,1,5,3,9:23 PM,2:44,,,Beasley  Layup (5 PTS) (Varnado 1 AST),81 - 75,-6,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,386,2,5,3,9:23 PM,2:27,MISS Villanueva  Layup,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,387,4,0,3,9:23 PM,2:27,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,388,9,1,3,9:23 PM,2:27,,,Heat Timeout: Regular (Reg.3 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,390,5,11,3,9:26 PM,2:19,PISTONS Turnover: Shot Clock (T#17),,,,,2,1610612765,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300030,391,6,2,3,9:27 PM,2:10,Villanueva S.FOUL (P1.PN),,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,392,3,11,3,9:27 PM,2:10,,,Beasley Free Throw 1 of 2 (6 PTS),82 - 75,-7,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,394,8,0,3,9:27 PM,2:10,SUB: Drummond FOR Monroe,,,,,4,202328,Greg Monroe,1610612765.0,Detroit,Pistons,DET,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,395,3,12,3,9:27 PM,2:10,,,MISS Beasley Free Throw 2 of 2,,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,397,4,0,3,9:27 PM,2:09,Jerebko REBOUND (Off:0 Def:5),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,398,5,2,3,9:28 PM,2:01,Bynum Lost Ball Turnover (P4.T18),,Cole STEAL (2 STL),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,399,1,1,3,9:28 PM,1:52,,,Cole 21' Jump Shot (9 PTS),84 - 75,-9,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,400,1,1,3,9:28 PM,1:30,Bynum 27' 3PT Jump Shot (17 PTS) (Drummond 1 AST),,,84 - 78,-6,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,401,1,1,3,9:28 PM,1:07,,,Beasley 18' Jump Shot (8 PTS),86 - 78,-8,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,402,2,1,3,9:29 PM,0:50,MISS Villanueva 14' Jump Shot,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,403,4,0,3,9:29 PM,0:50,Drummond REBOUND (Off:6 Def:4),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,404,6,2,3,9:29 PM,0:50,,,Jones S.FOUL (P2.PN),,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,405,3,11,3,9:29 PM,0:50,MISS Drummond Free Throw 1 of 2,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,406,4,1,3,9:29 PM,0:50,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,407,3,12,3,9:29 PM,0:50,Drummond Free Throw 2 of 2 (21 PTS),,,86 - 79,-7,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,410,6,2,3,9:30 PM,0:35,Villanueva S.FOUL (P2.PN),,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,411,3,11,3,9:30 PM,0:35,,,Beasley Free Throw 1 of 2 (9 PTS),87 - 79,-8,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,413,3,12,3,9:30 PM,0:35,,,MISS Beasley Free Throw 2 of 2,,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,415,4,0,3,9:31 PM,0:34,Villanueva REBOUND (Off:0 Def:2),,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,416,5,2,3,9:31 PM,0:22,Bynum Lost Ball Turnover (P5.T19),,Jones STEAL (1 STL),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,417,1,7,3,9:31 PM,0:10,,,Varnado  Dunk (2 PTS) (Cole 5 AST),89 - 79,-10,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,418,13,0,3,9:31 PM,0:00,,End of 3rd Period (9:31 PM EST),,89 - 79,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,420,12,0,4,9:34 PM,12:00,,Start of 4th Period (9:34 PM EST),,89 - 79,-10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,421,2,1,4,9:35 PM,11:45,,,MISS Cole 18' Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,422,4,0,4,9:35 PM,11:44,Caldwell-Pope REBOUND (Off:1 Def:1),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,423,6,2,4,9:35 PM,11:31,,,Varnado S.FOUL (P2.T1),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,424,3,13,4,9:35 PM,11:31,Jerebko Free Throw 1 of 3 (7 PTS),,,89 - 80,-9,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,425,3,14,4,9:36 PM,11:31,Jerebko Free Throw 2 of 3 (8 PTS),,,89 - 81,-8,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,426,8,0,4,9:36 PM,11:31,SUB: Singler FOR Villanueva,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,427,3,15,4,9:36 PM,11:31,MISS Jerebko Free Throw 3 of 3,,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,429,4,0,4,9:36 PM,11:30,,,Beasley REBOUND (Off:0 Def:1),,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,430,2,5,4,9:36 PM,11:19,,,MISS Allen  Layup,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,431,4,0,4,9:36 PM,11:17,,,Varnado REBOUND (Off:1 Def:1),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,432,1,4,4,9:36 PM,11:16,,,Varnado 1' Tip Shot (4 PTS),91 - 81,-10,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,433,2,1,4,9:37 PM,10:59,MISS Singler  3PT Jump Shot,,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,434,4,0,4,9:37 PM,10:57,,,Beasley REBOUND (Off:0 Def:2),,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,435,2,1,4,9:37 PM,10:46,Drummond BLOCK (1 BLK),,MISS Beasley 6' Jump Shot,,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0
+0011300030,436,4,0,4,9:37 PM,10:44,Singler REBOUND (Off:0 Def:3),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,438,7,2,4,9:37 PM,10:42,,,Varnado Violation:Defensive Goaltending,,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,437,1,5,4,9:37 PM,10:42,Bynum 1' Layup (19 PTS) (Singler 1 AST),,,91 - 83,-8,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,439,2,1,4,9:37 PM,10:29,,,MISS Allen 17' Jump Shot,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,440,4,0,4,9:37 PM,10:28,Drummond REBOUND (Off:6 Def:5),,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,441,6,1,4,9:37 PM,10:22,,,Varnado P.FOUL (P3.T2),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,442,6,26,4,9:38 PM,10:13,Singler Offensive Charge Foul (P6.T1),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,443,5,5,4,9:38 PM,10:13,Singler Foul Turnover (P4.T20),,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,1,0,,,,,,0
+0011300030,444,8,0,4,9:39 PM,10:13,SUB: Villanueva FOR Singler,,,,,4,202713,Kyle Singler,1610612765.0,Detroit,Pistons,DET,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,445,5,4,4,9:39 PM,9:59,,,Beasley Traveling Turnover (P1.T9),,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,447,8,0,4,9:40 PM,9:43,SUB: Harrellson FOR Drummond,,,,,4,203083,Andre Drummond,1610612765.0,Detroit,Pistons,DET,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,448,2,5,4,9:40 PM,9:37,MISS Jerebko 1' Layup,,Beasley BLOCK (1 BLK),,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0
+0011300030,449,4,0,4,9:40 PM,9:37,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,450,1,5,4,9:40 PM,9:30,Harrellson 1' Layup (2 PTS) (Caldwell-Pope 1 AST),,,91 - 85,-6,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,451,6,2,4,9:41 PM,9:17,Bynum S.FOUL (P3.T2),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,452,3,11,4,9:41 PM,9:17,,,MISS Allen Free Throw 1 of 2,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,453,4,1,4,9:41 PM,9:17,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,454,3,12,4,9:41 PM,9:17,,,Allen Free Throw 2 of 2 (6 PTS),92 - 85,-7,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,456,5,1,4,9:42 PM,9:03,Harrellson Bad Pass Turnover (P1.T21),,Jones STEAL (2 STL),,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,457,2,1,4,9:42 PM,8:54,,,MISS Allen  3PT Jump Shot,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,458,4,0,4,9:42 PM,8:53,Jerebko REBOUND (Off:0 Def:6),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,459,1,42,4,9:42 PM,8:47,Bynum 1' Driving Layup (21 PTS),,,92 - 87,-5,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,460,6,2,4,9:42 PM,8:47,,,Beasley S.FOUL (P2.T3),,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,462,9,4,4,9:42 PM,8:47,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,463,8,0,4,9:45 PM,8:47,,,SUB: Hamilton FOR Jones,,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,464,8,0,4,9:45 PM,8:47,,,SUB: Westbrook FOR Beasley,,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,465,3,10,4,9:45 PM,8:47,Bynum Free Throw 1 of 1 (22 PTS),,,92 - 88,-4,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,467,2,5,4,9:45 PM,8:28,,,MISS Westbrook 1' Layup,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,468,4,0,4,9:45 PM,8:25,Jerebko REBOUND (Off:0 Def:7),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,469,5,1,4,9:45 PM,8:24,Jerebko Bad Pass Turnover (P2.T22),,Allen STEAL (2 STL),,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,470,2,5,4,9:45 PM,8:20,Jerebko BLOCK (1 BLK),,MISS Allen 1' Layup,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0
+0011300030,471,4,0,4,9:45 PM,8:18,Caldwell-Pope REBOUND (Off:1 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,472,2,5,4,9:46 PM,8:14,MISS Bynum 1' Layup,,Varnado BLOCK (1 BLK),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0
+0011300030,473,4,0,4,9:46 PM,8:12,,,Hamilton REBOUND (Off:0 Def:1),,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,474,2,1,4,9:46 PM,7:55,Harrellson BLOCK (1 BLK),,MISS Varnado 4' Jump Shot,,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0
+0011300030,475,4,0,4,9:46 PM,7:55,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,476,2,1,4,9:47 PM,7:42,MISS Villanueva 26' 3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,477,4,0,4,9:47 PM,7:40,Harrellson REBOUND (Off:1 Def:0),,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,478,2,4,4,9:47 PM,7:38,MISS Harrellson 1' Tip Shot,,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,479,4,0,4,9:47 PM,7:36,Caldwell-Pope REBOUND (Off:2 Def:2),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,480,2,5,4,9:47 PM,7:31,MISS Caldwell-Pope 1' Layup,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,481,4,0,4,9:47 PM,7:31,,,Varnado REBOUND (Off:1 Def:2),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,482,6,1,4,9:47 PM,7:31,Caldwell-Pope P.FOUL (P3.T3),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,483,8,0,4,9:47 PM,7:31,,,SUB: Griffin FOR Allen,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,484,5,4,4,9:47 PM,7:24,,,Griffin Traveling Turnover (P1.T10),,,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,485,2,1,4,9:48 PM,7:09,MISS Caldwell-Pope 26' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,486,4,0,4,9:48 PM,7:08,,,Westbrook REBOUND (Off:0 Def:1),,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,487,1,1,4,9:48 PM,6:45,,,Hamilton 24' 3PT Jump Shot (3 PTS) (Cole 6 AST),95 - 88,-7,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,488,2,1,4,9:49 PM,6:29,MISS Villanueva 26' 3PT Jump Shot,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,489,4,0,4,9:49 PM,6:28,,,Hamilton REBOUND (Off:0 Def:2),,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,490,2,1,4,9:49 PM,6:19,Harrellson BLOCK (2 BLK),,MISS Cole 4' Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0
+0011300030,491,4,0,4,9:49 PM,6:17,Villanueva REBOUND (Off:0 Def:3),,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,492,6,2,4,9:49 PM,6:17,,,Hamilton S.FOUL (P1.T4),,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,493,3,11,4,9:49 PM,6:17,MISS Caldwell-Pope Free Throw 1 of 2,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,494,4,1,4,9:49 PM,6:17,PISTONS Rebound,,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,495,3,12,4,9:49 PM,6:17,Caldwell-Pope Free Throw 2 of 2 (3 PTS),,,95 - 89,-6,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,497,6,4,4,9:50 PM,6:06,,,Varnado OFF.Foul (P4),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,498,5,5,4,9:50 PM,6:06,,,Varnado Foul Turnover (P1.T11),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+0011300030,499,9,1,4,9:50 PM,6:06,PISTONS Timeout: Regular (Full 4 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,507,8,0,4,9:50 PM,6:06,,,SUB: Jones FOR Cole,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,501,5,1,4,9:53 PM,5:54,Bynum Bad Pass Turnover (P6.T23),,Griffin STEAL (1 STL),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,503,2,1,4,9:53 PM,5:35,,,MISS Westbrook 20' Jump Shot,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,504,4,0,4,9:53 PM,5:34,Jerebko REBOUND (Off:0 Def:8),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,505,5,1,4,9:53 PM,5:30,Bynum Bad Pass Turnover (P7.T24),,Westbrook STEAL (1 STL),,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,506,1,1,4,9:53 PM,5:20,,,Westbrook 11' Jump Shot (2 PTS),97 - 89,-8,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,508,2,1,4,9:53 PM,4:59,MISS Bynum 26' 3PT Jump Shot,,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,509,4,0,4,9:54 PM,4:58,Harrellson REBOUND (Off:2 Def:0),,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,510,2,1,4,9:54 PM,4:53,MISS Jerebko 4' Jump Shot,,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,511,4,0,4,9:54 PM,4:52,,,Griffin REBOUND (Off:0 Def:1),,,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,512,2,1,4,9:54 PM,4:48,Caldwell-Pope BLOCK (1 BLK),,MISS Westbrook 5' Jump Shot,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0
+0011300030,513,4,0,4,9:54 PM,4:46,,,Jones REBOUND (Off:1 Def:0),,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,514,1,1,4,9:54 PM,4:40,,,Jones 28' 3PT Jump Shot (12 PTS) (Westbrook 1 AST),100 - 89,-11,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,515,6,2,4,9:54 PM,4:29,,,Varnado S.FOUL (P5.PN),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,516,3,11,4,9:54 PM,4:29,Jerebko Free Throw 1 of 2 (9 PTS),,,100 - 90,-10,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,518,3,12,4,9:55 PM,4:29,Jerebko Free Throw 2 of 2 (10 PTS),,,100 - 91,-9,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,520,1,42,4,9:55 PM,4:12,,,Griffin 1' Driving Layup (2 PTS),102 - 91,-11,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,521,6,2,4,9:55 PM,4:03,,,Griffin S.FOUL (P1.PN),,,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,522,3,11,4,9:55 PM,4:03,Villanueva Free Throw 1 of 2 (1 PTS),,,102 - 92,-10,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,524,3,12,4,9:56 PM,4:03,Villanueva Free Throw 2 of 2 (2 PTS),,,102 - 93,-9,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,526,2,1,4,9:56 PM,3:42,,,MISS Westbrook 18' Jump Shot,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,527,4,0,4,9:56 PM,3:41,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,528,1,5,4,9:57 PM,3:27,,,Hamilton  Layup (5 PTS) (Jones 2 AST),104 - 93,-11,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,529,6,2,4,9:57 PM,3:27,Jerebko S.FOUL (P3.T4),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,530,3,10,4,9:57 PM,3:27,,,MISS Hamilton Free Throw 1 of 1,,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,531,4,0,4,9:57 PM,3:25,Villanueva REBOUND (Off:0 Def:4),,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,532,1,1,4,9:57 PM,3:16,Harrellson 17' Jump Shot (4 PTS) (Caldwell-Pope 2 AST),,,104 - 95,-9,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,533,2,1,4,9:57 PM,2:57,,,MISS Jones 25' 3PT Jump Shot,,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,534,4,0,4,9:58 PM,2:56,Harrellson REBOUND (Off:2 Def:1),,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,535,1,1,4,9:58 PM,2:49,Caldwell-Pope 26' 3PT Jump Shot (6 PTS),,,104 - 98,-6,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,536,2,1,4,9:58 PM,2:26,,,MISS Westbrook 26' 3PT Jump Shot,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,537,4,0,4,9:58 PM,2:24,Jerebko REBOUND (Off:0 Def:9),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,538,2,1,4,9:58 PM,2:17,MISS Caldwell-Pope 27' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,539,4,0,4,9:58 PM,2:16,,,Griffin REBOUND (Off:0 Def:2),,,5,203547,Eric Griffin,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,540,1,5,4,9:59 PM,1:56,,,Varnado 1' Layup (6 PTS),106 - 98,-8,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,541,2,1,4,9:59 PM,1:46,MISS Caldwell-Pope 27' 3PT Jump Shot,,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,542,4,0,4,9:59 PM,1:45,,,Hamilton REBOUND (Off:0 Def:3),,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,543,2,1,4,9:59 PM,1:22,,,MISS Westbrook 7' Jump Shot,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,544,4,0,4,9:59 PM,1:21,,,Hamilton REBOUND (Off:1 Def:3),,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,545,2,4,4,9:59 PM,1:20,,,MISS Hamilton 1' Tip Shot,,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,546,4,0,4,9:59 PM,1:17,Jerebko REBOUND (Off:0 Def:10),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,547,6,2,4,9:59 PM,1:17,,,Varnado S.FOUL (P6.PN),,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,548,9,1,4,9:59 PM,1:17,,,Heat Timeout: Regular (Reg.4 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,550,8,0,4,10:02 PM,1:17,SUB: Mitchell FOR Villanueva,,,,,4,101111,Charlie Villanueva,1610612765.0,Detroit,Pistons,DET,4,203502,Tony Mitchell,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0
+0011300030,551,8,0,4,10:02 PM,1:17,,,SUB: Beasley FOR Varnado,,,5,202363,Jarvis Varnado,1610612748.0,Miami,Heat,MIA,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,552,3,11,4,10:02 PM,1:17,Bynum Free Throw 1 of 2 (23 PTS),,,106 - 99,-7,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,554,3,12,4,10:02 PM,1:17,Bynum Free Throw 2 of 2 (24 PTS),,,106 - 100,-6,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,556,1,3,4,10:03 PM,1:07,,,Hamilton 6' Hook Shot (7 PTS) (Beasley 1 AST),108 - 100,-8,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+0011300030,557,1,42,4,10:03 PM,0:52,Bynum 3' Driving Layup (26 PTS),,,108 - 102,-6,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,558,6,1,4,10:03 PM,0:41,Harrellson P.FOUL (P1.PN),,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,559,2,1,4,10:04 PM,0:28,,,MISS Beasley 26' 3PT Jump Shot,,,5,201563,Michael Beasley,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,560,4,0,4,10:04 PM,0:27,Caldwell-Pope REBOUND (Off:2 Def:3),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,561,6,2,4,10:04 PM,0:23,,,Jones S.FOUL (P3.PN),,,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,1,0,,,,,,0
+0011300030,562,3,13,4,10:04 PM,0:23,Caldwell-Pope Free Throw 1 of 3 (7 PTS),,,108 - 103,-5,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,564,3,14,4,10:04 PM,0:23,Caldwell-Pope Free Throw 2 of 3 (8 PTS),,,108 - 104,-4,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,566,3,15,4,10:04 PM,0:23,Caldwell-Pope Free Throw 3 of 3 (9 PTS),,,108 - 105,-3,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,568,6,1,4,10:05 PM,0:20,Bynum P.FOUL (P4.PN),,,,,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,569,3,11,4,10:05 PM,0:20,,,Westbrook Free Throw 1 of 2 (3 PTS),109 - 105,-4,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,571,3,12,4,10:05 PM,0:20,,,MISS Westbrook Free Throw 2 of 2,,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,573,4,0,4,10:05 PM,0:19,Jerebko REBOUND (Off:0 Def:11),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,574,9,1,4,10:05 PM,0:18,PISTONS Timeout: Regular (Full 5 Short 0),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,576,1,42,4,10:07 PM,0:12,Bynum  Driving Layup (28 PTS),,,109 - 107,-2,4,101198,Will Bynum,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,577,6,1,4,10:07 PM,0:07,Harrellson P.FOUL (P2.PN),,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,579,3,11,4,10:08 PM,0:07,,,Hamilton Free Throw 1 of 2 (8 PTS),110 - 107,-3,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,581,3,12,4,10:08 PM,0:07,,,MISS Hamilton Free Throw 2 of 2,,,5,203120,Justin Hamilton,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,583,4,0,4,10:08 PM,0:07,Jerebko REBOUND (Off:0 Def:12),,,,,4,201973,Jonas Jerebko,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,585,9,2,4,10:09 PM,0:07,PISTONS Timeout: Short (Full 5 Short 1),,,,,2,1610612765,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300030,587,2,1,4,10:09 PM,0:02,MISS Harrellson 27' 3PT Jump Shot,,,,,4,202725,Josh Harrellson,1610612765.0,Detroit,Pistons,DET,0,0,,,,,,0,0,,,,,,0
+0011300030,588,4,0,4,10:09 PM,0:01,,,Westbrook REBOUND (Off:0 Def:2),,,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,589,6,1,4,10:10 PM,0:00,Caldwell-Pope P.FOUL (P4.PN),,,,,4,203484,Kentavious Caldwell-Pope,1610612765.0,Detroit,Pistons,DET,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+0011300030,590,3,11,4,10:10 PM,0:00,,,Westbrook Free Throw 1 of 2 (4 PTS),111 - 107,-4,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,592,3,12,4,10:10 PM,0:00,,,Westbrook Free Throw 2 of 2 (5 PTS),112 - 107,-5,5,203586,Charlie Westbrook,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+0011300030,594,13,0,4,10:10 PM,0:00,,End of 4th Period (10:10 PM EST),,112 - 107,-5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

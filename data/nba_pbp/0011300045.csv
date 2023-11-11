@@ -1,0 +1,448 @@
+GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0011300045,0,12,0,1,2:41 PM,12:00,,Start of 1st Period (2:41 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,1,10,0,1,2:41 PM,12:00,Jump Ball Duncan vs. Gortat: Tip to Goodwin,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,2,2,1,1,2:41 PM,11:37,,,MISS Gortat 15' Jump Shot,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,3,4,0,1,2:41 PM,11:35,Splitter REBOUND (Off:0 Def:1),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,4,1,47,1,2:42 PM,11:27,Duncan 14' Turnaround Jump Shot (2 PTS) (Green 1 AST),,,0 - 2,2,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,5,1,44,1,2:42 PM,11:05,,,Gortat 1' Reverse Layup (2 PTS),2 - 2,TIE,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,6,5,41,1,2:42 PM,10:57,Maggette Poss Lost Ball Turnover (P1.T1),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,7,2,1,1,2:42 PM,10:44,,,MISS Morris 17' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,8,4,0,1,2:42 PM,10:42,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,9,1,42,1,2:43 PM,10:31,,,Goodwin  Driving Layup (2 PTS),4 - 2,-2,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,10,5,1,1,2:43 PM,10:14,Green Bad Pass Turnover (P1.T2),,Dragic STEAL (1 STL),,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,11,1,66,1,2:43 PM,10:08,,,Green 9' Jump Bank Shot (2 PTS) (Dragic 1 AST),6 - 2,-4,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,12,2,1,1,2:44 PM,9:50,MISS Parker 7' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,13,4,0,1,2:44 PM,9:49,,,Gortat REBOUND (Off:0 Def:1),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,14,1,5,1,2:44 PM,9:44,,,Morris  Layup (2 PTS) (Dragic 2 AST),8 - 2,-6,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,15,1,5,1,2:44 PM,9:26,Splitter 1' Layup (2 PTS) (Green 2 AST),,,8 - 4,-4,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,16,2,1,1,2:44 PM,9:01,,,MISS Goodwin  3PT Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,17,4,0,1,2:44 PM,9:00,,,Gortat REBOUND (Off:1 Def:1),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,18,1,5,1,2:45 PM,8:55,,,Goodwin 1' Layup (4 PTS) (Gortat 1 AST),10 - 4,-6,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,19,2,1,1,2:45 PM,8:36,MISS Duncan 18' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,20,4,0,1,2:45 PM,8:35,,,Morris REBOUND (Off:0 Def:1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,21,1,47,1,2:45 PM,8:19,,,Gortat 12' Turnaround Jump Shot (4 PTS),12 - 4,-8,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,22,1,1,1,2:45 PM,8:04,Duncan 8' Jump Shot (4 PTS) (Green 3 AST),,,12 - 6,-6,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,23,2,1,1,2:46 PM,7:48,,,MISS Green 25' 3PT Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,24,4,0,1,2:46 PM,7:47,Duncan REBOUND (Off:0 Def:1),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,25,1,1,1,2:46 PM,7:32,Parker 16' Jump Shot (2 PTS) (Maggette 1 AST),,,12 - 8,-4,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,26,2,1,1,2:46 PM,7:19,,,MISS Dragic 25' 3PT Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,27,4,0,1,2:46 PM,7:18,Splitter REBOUND (Off:0 Def:2),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,28,2,3,1,2:46 PM,7:00,MISS Splitter 7' Hook Shot,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,29,4,0,1,2:46 PM,6:58,,,Goodwin REBOUND (Off:0 Def:1),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,30,6,17,1,2:47 PM,6:48,SPURS T.Foul (Def. 3 Sec Duncan ),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300045,31,3,16,1,2:47 PM,6:48,,,MISS Dragic Free Throw Technical,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,32,4,1,1,2:47 PM,6:48,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,33,2,1,1,2:47 PM,6:38,,,MISS Green  3PT Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,34,4,0,1,2:47 PM,6:37,Duncan REBOUND (Off:0 Def:2),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,35,7,5,1,2:48 PM,6:36,,,Gortat Violation:Kicked Ball,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,36,2,5,1,2:48 PM,6:24,MISS Parker 1' Layup,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,38,4,0,1,2:48 PM,6:22,Splitter REBOUND (Off:1 Def:2),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,37,2,5,1,2:48 PM,6:22,MISS Splitter 2' Layup,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,39,4,0,1,2:48 PM,6:21,,,Dragic REBOUND (Off:0 Def:1),,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,40,2,5,1,2:48 PM,6:19,Duncan BLOCK (1 BLK),,MISS Morris 3' Layup,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+0011300045,41,4,0,1,2:48 PM,6:19,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,42,2,1,1,2:48 PM,6:15,,,MISS Goodwin 16' Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,43,4,0,1,2:48 PM,6:14,Duncan REBOUND (Off:0 Def:3),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,44,2,1,1,2:48 PM,6:08,MISS Green 25' 3PT Jump Shot,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,45,4,0,1,2:48 PM,6:07,,,Morris REBOUND (Off:0 Def:2),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,46,6,2,1,2:49 PM,6:01,Maggette S.FOUL (P1.T1),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,47,9,1,1,2:49 PM,6:01,SPURS Timeout: Regular (Full 1 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,49,3,11,1,2:51 PM,6:01,,,MISS Green Free Throw 1 of 2,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,50,4,1,1,2:51 PM,6:01,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,51,8,0,1,2:51 PM,6:01,SUB: Ginobili FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,52,3,12,1,2:51 PM,6:01,,,Green Free Throw 2 of 2 (3 PTS),13 - 8,-5,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,54,1,1,1,2:52 PM,5:49,Ginobili 13' Jump Shot (2 PTS),,,13 - 10,-3,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,55,2,84,1,2:52 PM,5:30,,,MISS Dragic 5' Running Bank Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,56,4,0,1,2:52 PM,5:27,Splitter REBOUND (Off:1 Def:3),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,57,1,1,1,2:52 PM,5:17,Duncan 17' Jump Shot (6 PTS) (Parker 1 AST),,,13 - 12,-1,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,58,2,1,1,2:53 PM,5:01,,,MISS Dragic 14' Jump Shot,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,59,4,0,1,2:53 PM,5:00,Maggette REBOUND (Off:0 Def:1),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,60,1,42,1,2:53 PM,4:48,Parker 1' Driving Layup (4 PTS),,,13 - 14,1,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,62,8,0,1,2:53 PM,4:28,,,SUB: Christmas FOR Goodwin,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,63,8,0,1,2:53 PM,4:28,SUB: Baynes FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,64,8,0,1,2:53 PM,4:28,,,SUB: Bledsoe FOR Dragic,,,5,201609,Goran Dragic,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,65,5,2,1,2:54 PM,4:26,Ginobili STEAL (1 STL),,Morris Lost Ball Turnover (P1.T1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,66,1,75,1,2:54 PM,4:20,Splitter 1' Driving Finger Roll Layup (4 PTS) (Maggette 2 AST),,,13 - 16,3,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,67,1,1,1,2:54 PM,3:57,,,Christmas 24' 3PT Jump Shot (3 PTS) (Green 1 AST),16 - 16,TIE,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,69,8,0,1,2:54 PM,3:45,SUB: Joseph FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,70,2,5,1,2:55 PM,3:37,MISS Ginobili 1' Layup,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,71,4,0,1,2:55 PM,3:35,,,Green REBOUND (Off:0 Def:1),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,72,1,7,1,2:55 PM,3:26,,,Green 1' Dunk (5 PTS) (Gortat 2 AST),18 - 16,-2,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,73,2,5,1,2:55 PM,3:10,MISS Joseph 2' Layup,,Gortat BLOCK (1 BLK),,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,74,4,0,1,2:55 PM,3:08,,,Christmas REBOUND (Off:0 Def:1),,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,75,1,5,1,2:55 PM,3:07,,,Christmas 2' Layup (5 PTS),20 - 16,-4,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,76,6,2,1,2:55 PM,3:07,Maggette S.FOUL (P2.T2),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,77,8,0,1,2:56 PM,3:07,SUB: Bonner FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,78,8,0,1,2:56 PM,3:07,SUB: Belinelli FOR Maggette,,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,82,8,0,1,2:56 PM,3:07,,,SUB: Len FOR Gortat,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,86,8,0,1,2:56 PM,3:07,,,SUB: Plumlee FOR Morris,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,79,3,10,1,2:56 PM,3:07,,,MISS Christmas Free Throw 1 of 1,,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,81,4,0,1,2:56 PM,3:06,Bonner REBOUND (Off:0 Def:1),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,83,6,2,1,2:56 PM,2:50,,,Len S.FOUL (P1.T1),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,84,9,1,1,2:56 PM,2:50,,,Suns Timeout: Regular (Reg.1 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,87,3,11,1,2:59 PM,2:50,Baynes Free Throw 1 of 2 (1 PTS),,,20 - 17,-3,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,89,3,12,1,2:59 PM,2:50,Baynes Free Throw 2 of 2 (2 PTS),,,20 - 18,-2,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,92,2,5,1,2:59 PM,2:37,Baynes BLOCK (1 BLK),,MISS Len 2' Layup,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0
+0011300045,93,4,0,1,2:59 PM,2:34,Baynes REBOUND (Off:0 Def:1),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,94,2,1,1,2:59 PM,2:24,MISS Ginobili  3PT Jump Shot,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,95,4,0,1,2:59 PM,2:23,,,Bledsoe REBOUND (Off:0 Def:1),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,96,2,5,1,2:59 PM,2:16,,,MISS Bledsoe 1' Layup,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,97,4,0,1,2:59 PM,2:15,Baynes REBOUND (Off:0 Def:2),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,98,6,29,1,3:00 PM,2:12,,,Bledsoe Shooting Block Foul (P1.T2),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,99,3,11,1,3:00 PM,2:12,Joseph Free Throw 1 of 2 (1 PTS),,,20 - 19,-1,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,101,8,0,1,3:00 PM,2:12,,,SUB: Tucker FOR Green,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,102,3,12,1,3:00 PM,2:12,MISS Joseph Free Throw 2 of 2,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,104,4,0,1,3:00 PM,2:06,,,Len REBOUND (Off:0 Def:1),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,105,2,44,1,3:00 PM,1:49,,,MISS Tucker 2' Reverse Layup,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,106,4,0,1,3:01 PM,1:45,Ginobili REBOUND (Off:0 Def:1),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,107,2,5,1,3:01 PM,1:42,MISS Joseph 1' Layup,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,108,4,0,1,3:01 PM,1:41,,,Plumlee REBOUND (Off:0 Def:1),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,109,2,1,1,3:01 PM,1:22,,,MISS Bledsoe 11' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,110,4,0,1,3:01 PM,1:20,Bonner REBOUND (Off:0 Def:2),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,111,1,44,1,3:01 PM,1:09,Baynes 1' Reverse Layup (4 PTS) (Belinelli 1 AST),,,20 - 21,1,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,112,1,1,1,3:01 PM,0:52,,,Christmas 25' 3PT Jump Shot (8 PTS) (Bledsoe 1 AST),23 - 21,-2,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,113,1,1,1,3:02 PM,0:40,Joseph 19' Jump Shot (3 PTS) (Baynes 1 AST),,,23 - 23,TIE,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,114,2,1,1,3:02 PM,0:26,,,MISS Bledsoe 24' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,115,4,0,1,3:02 PM,0:25,,,Len REBOUND (Off:1 Def:1),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,116,2,1,1,3:02 PM,0:03,,,MISS Bledsoe 19' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,117,4,0,1,3:02 PM,0:02,Baynes REBOUND (Off:0 Def:3),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,118,2,46,1,3:02 PM,0:00,MISS Ginobili 54' 3PT Running Jump Shot,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,119,4,0,1,3:02 PM,0:00,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,120,13,0,1,3:03 PM,0:00,,End of 1st Period (3:03 PM EST),,23 - 23,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,122,12,0,2,3:05 PM,12:00,,Start of 2nd Period (3:05 PM EST),,23 - 23,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,123,2,1,2,3:06 PM,11:44,MISS Belinelli 24' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,124,4,0,2,3:06 PM,11:42,,,Bledsoe REBOUND (Off:0 Def:2),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,125,2,1,2,3:06 PM,11:29,Ginobili BLOCK (1 BLK),,MISS Christmas 25' 3PT Jump Shot,,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+0011300045,126,4,0,2,3:06 PM,11:26,Bonner REBOUND (Off:0 Def:3),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,127,5,1,2,3:06 PM,11:23,Belinelli Bad Pass Turnover (P1.T3),,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,128,2,1,2,3:06 PM,11:06,,,MISS Bledsoe 19' Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,129,4,0,2,3:06 PM,11:05,,,Tucker REBOUND (Off:1 Def:0),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,130,6,3,2,3:06 PM,11:05,Baynes L.B.FOUL (P1.T1),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,131,6,2,2,3:07 PM,11:01,Baynes S.FOUL (P2.T2),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,132,3,11,2,3:07 PM,11:01,,,Plumlee Free Throw 1 of 2 (1 PTS),24 - 23,-1,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,134,3,12,2,3:07 PM,11:01,,,Plumlee Free Throw 2 of 2 (2 PTS),25 - 23,-2,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,136,1,5,2,3:08 PM,10:51,Joseph  Layup (5 PTS) (Ginobili 1 AST),,,25 - 25,TIE,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,137,6,4,2,3:08 PM,10:35,,,Plumlee OFF.Foul (P1),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,138,5,5,2,3:08 PM,10:35,,,Plumlee Foul Turnover (P1.T2),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,140,2,1,2,3:08 PM,10:29,MISS Joseph 19' Jump Shot,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,141,4,0,2,3:08 PM,10:27,,,Len REBOUND (Off:1 Def:2),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,142,5,1,2,3:09 PM,10:17,,,Christmas Bad Pass Turnover (P1.T3),,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,143,8,0,2,3:09 PM,10:17,SUB: Duncan FOR Baynes,,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,144,1,1,2,3:09 PM,9:58,Bonner 7' Jump Shot (2 PTS) (Ginobili 2 AST),,,25 - 27,2,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,145,1,1,2,3:09 PM,9:45,,,Plumlee 15' Jump Shot (4 PTS) (Christmas 1 AST),27 - 27,TIE,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,146,2,1,2,3:10 PM,9:31,MISS Ginobili 25' 3PT Jump Shot,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,147,4,0,2,3:10 PM,9:30,Joseph REBOUND (Off:1 Def:0),,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,148,1,5,2,3:10 PM,9:14,Duncan 1' Layup (8 PTS) (Ginobili 3 AST),,,27 - 29,2,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,149,6,2,2,3:10 PM,9:14,,,Plumlee S.FOUL (P2.T1),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,150,8,0,2,3:10 PM,9:14,SUB: Ayres FOR Bonner,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,151,8,0,2,3:10 PM,9:14,,,SUB: Nunnally FOR Christmas,,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,153,8,0,2,3:10 PM,9:14,SUB: Parker FOR Joseph,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,154,8,0,2,3:10 PM,9:14,SUB: Maggette FOR Ginobili,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,155,3,10,2,3:11 PM,9:14,Duncan Free Throw 1 of 1 (9 PTS),,,27 - 30,3,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,158,6,4,2,3:11 PM,9:06,,,Nunnally OFF.Foul (P1),,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,159,5,5,2,3:11 PM,9:06,,,Nunnally Foul Turnover (P1.T4),,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,160,1,1,2,3:11 PM,8:54,Belinelli 16' Jump Shot (2 PTS),,,27 - 32,5,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,161,2,79,2,3:12 PM,8:44,,,MISS Bledsoe 17' Pullup Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,162,4,0,2,3:12 PM,8:43,Belinelli REBOUND (Off:0 Def:1),,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,163,5,41,2,3:12 PM,8:39,Maggette Poss Lost Ball Turnover (P2.T4),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,164,9,4,2,3:12 PM,8:39,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,166,2,1,2,3:14 PM,8:21,,,MISS Nunnally  3PT Jump Shot,,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,167,4,0,2,3:14 PM,8:20,,,Len REBOUND (Off:2 Def:2),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,168,1,1,2,3:15 PM,8:12,,,Tucker  3PT Jump Shot (3 PTS) (Bledsoe 2 AST),30 - 32,2,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,169,6,2,2,3:15 PM,8:04,,,Nunnally S.FOUL (P2.T2),,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,170,3,11,2,3:15 PM,8:04,Maggette Free Throw 1 of 2 (1 PTS),,,30 - 33,3,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,172,3,12,2,3:15 PM,8:04,Maggette Free Throw 2 of 2 (2 PTS),,,30 - 34,4,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,174,6,1,2,3:16 PM,7:56,Maggette P.FOUL (P3.T3),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,175,1,1,2,3:16 PM,7:40,,,Len 4' Jump Shot (2 PTS),32 - 34,2,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,176,1,1,2,3:16 PM,7:31,Parker 18' Jump Shot (6 PTS),,,32 - 36,4,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,177,1,1,2,3:17 PM,7:08,,,Tucker 16' Jump Shot (5 PTS),34 - 36,2,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,178,2,1,2,3:17 PM,6:58,MISS Maggette 3' Jump Shot,,Plumlee BLOCK (1 BLK),,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,179,4,0,2,3:17 PM,6:57,,,Bledsoe REBOUND (Off:0 Def:3),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,180,2,5,2,3:17 PM,6:53,,,MISS Bledsoe 2' Layup,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,181,4,0,2,3:17 PM,6:51,,,Tucker REBOUND (Off:2 Def:0),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,182,6,2,2,3:17 PM,6:51,Ayres S.FOUL (P1.T4),,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,183,3,11,2,3:17 PM,6:51,,,Tucker Free Throw 1 of 2 (6 PTS),35 - 36,1,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,185,8,0,2,3:17 PM,6:51,SUB: Ginobili FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,186,3,12,2,3:18 PM,6:51,,,Tucker Free Throw 2 of 2 (7 PTS),36 - 36,TIE,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,188,6,1,2,3:18 PM,6:45,,,Tucker P.FOUL (P1.T3),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,189,6,2,2,3:18 PM,6:35,,,Len S.FOUL (P2.T4),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,190,3,11,2,3:19 PM,6:35,Duncan Free Throw 1 of 2 (10 PTS),,,36 - 37,1,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,192,3,12,2,3:19 PM,6:35,Duncan Free Throw 2 of 2 (11 PTS),,,36 - 38,2,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,195,2,1,2,3:19 PM,6:23,,,MISS Nunnally 25' 3PT Jump Shot,,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,196,4,0,2,3:19 PM,6:22,Parker REBOUND (Off:0 Def:1),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,197,2,1,2,3:19 PM,6:05,MISS Duncan 18' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,198,4,0,2,3:19 PM,6:04,,,Bledsoe REBOUND (Off:0 Def:4),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,199,2,1,2,3:20 PM,5:58,,,MISS Tucker  3PT Jump Shot,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,200,4,0,2,3:20 PM,5:57,Ginobili REBOUND (Off:0 Def:2),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,201,2,1,2,3:20 PM,5:53,MISS Maggette 19' Jump Shot,,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,202,4,0,2,3:20 PM,5:52,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,203,6,3,2,3:20 PM,5:52,,,Plumlee L.B.FOUL (P3.PN),,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,205,9,1,2,3:20 PM,5:52,SPURS Timeout: Regular (Full 2 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,207,8,0,2,3:22 PM,5:52,,,SUB: Frye FOR Len,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,208,8,0,2,3:22 PM,5:52,,,SUB: Kravtsov FOR Plumlee,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,209,3,11,2,3:22 PM,5:52,MISS Duncan Free Throw 1 of 2,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,210,4,1,2,3:22 PM,5:52,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,211,3,12,2,3:22 PM,5:52,Duncan Free Throw 2 of 2 (12 PTS),,,36 - 39,3,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,213,2,78,2,3:23 PM,5:37,,,MISS Bledsoe 10' Floating Jump Shot,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,214,4,0,2,3:23 PM,5:36,Maggette REBOUND (Off:0 Def:2),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,215,1,44,2,3:23 PM,5:25,Ayres 1' Reverse Layup (2 PTS) (Ginobili 4 AST),,,36 - 41,5,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,216,1,42,2,3:23 PM,5:11,,,Tucker 3' Driving Layup (9 PTS),38 - 41,3,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,217,6,2,2,3:23 PM,5:11,Maggette S.FOUL (P4.PN),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,218,3,10,2,3:24 PM,5:11,,,Tucker Free Throw 1 of 1 (10 PTS),39 - 41,2,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,220,6,1,2,3:24 PM,5:01,,,Tucker P.FOUL (P2.PN),,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,221,3,11,2,3:24 PM,5:01,Maggette Free Throw 1 of 2 (3 PTS),,,39 - 42,3,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,223,3,12,2,3:24 PM,5:01,Maggette Free Throw 2 of 2 (4 PTS),,,39 - 43,4,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,225,5,1,2,3:25 PM,4:48,Ayres STEAL (1 STL),,Bledsoe Bad Pass Turnover (P1.T5),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,226,2,1,2,3:25 PM,4:29,MISS Parker 10' Jump Shot,,Bledsoe BLOCK (1 BLK),,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,227,4,0,2,3:25 PM,4:27,,,Nunnally REBOUND (Off:0 Def:1),,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,228,1,7,2,3:25 PM,4:24,,,Tucker 2' Dunk (12 PTS) (Nunnally 1 AST),41 - 43,2,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,229,1,47,2,3:26 PM,4:00,Ayres 5' Turnaround Jump Shot (4 PTS) (Ginobili 5 AST),,,41 - 45,4,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,230,5,1,2,3:26 PM,3:42,Parker STEAL (1 STL),,Kravtsov Bad Pass Turnover (P1.T6),,,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,231,5,1,2,3:26 PM,3:40,Parker Bad Pass Turnover (P1.T5),,Kravtsov STEAL (1 STL),,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,232,2,1,2,3:26 PM,3:37,,,MISS Frye 25' 3PT Jump Shot,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,233,4,0,2,3:26 PM,3:35,Duncan REBOUND (Off:0 Def:4),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,234,1,79,2,3:26 PM,3:23,Parker 16' Pullup Jump Shot (8 PTS) (Ayres 1 AST),,,41 - 47,6,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,235,6,17,2,3:27 PM,3:09,SPURS T.Foul (Def. 3 Sec Duncan ),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300045,236,3,16,2,3:27 PM,3:09,,,Nunnally Free Throw Technical (1 PTS),42 - 47,5,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,238,9,1,2,3:27 PM,3:09,,,Suns Timeout: Regular (Reg.2 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,240,2,1,2,3:29 PM,3:04,,,MISS Frye 25' 3PT Jump Shot,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,241,4,0,2,3:30 PM,3:03,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,242,6,3,2,3:30 PM,3:03,Ayres L.B.FOUL (P2.PN),,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,243,3,11,2,3:30 PM,3:03,,,Kravtsov Free Throw 1 of 2 (1 PTS),43 - 47,4,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,245,3,12,2,3:30 PM,3:03,,,Kravtsov Free Throw 2 of 2 (2 PTS),44 - 47,3,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,247,1,42,2,3:31 PM,2:49,Ginobili 2' Driving Layup (4 PTS) (Ayres 2 AST),,,44 - 49,5,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,248,1,5,2,3:31 PM,2:30,,,Frye 1' Layup (2 PTS) (Nunnally 2 AST),46 - 49,3,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,249,1,1,2,3:31 PM,2:17,Ginobili 26' 3PT Jump Shot (7 PTS) (Duncan 1 AST),,,46 - 52,6,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,250,1,1,2,3:31 PM,1:57,,,Bledsoe 25' 3PT Jump Shot (3 PTS),49 - 52,3,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,251,2,5,2,3:32 PM,1:36,MISS Ayres 1' Layup,,Bledsoe BLOCK (2 BLK),,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,253,4,0,2,3:32 PM,1:33,Ayres REBOUND (Off:1 Def:0),,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,252,1,5,2,3:32 PM,1:33,Ayres 1' Layup (6 PTS),,,49 - 54,5,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,254,6,1,2,3:32 PM,1:23,Parker P.FOUL (P1.PN),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,255,3,11,2,3:32 PM,1:23,,,MISS Frye Free Throw 1 of 2,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,256,4,1,2,3:32 PM,1:23,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,257,3,12,2,3:32 PM,1:23,,,Frye Free Throw 2 of 2 (3 PTS),50 - 54,4,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,259,2,79,2,3:33 PM,1:13,MISS Parker 14' Pullup Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,260,4,0,2,3:33 PM,1:12,,,Frye REBOUND (Off:0 Def:1),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,261,1,1,2,3:33 PM,1:05,,,Bledsoe 21' Jump Shot (5 PTS),52 - 54,2,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,262,5,1,2,3:33 PM,0:56,Duncan Bad Pass Turnover (P1.T6),,Tucker STEAL (1 STL),,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,263,1,5,2,3:33 PM,0:51,,,Nunnally 2' Layup (3 PTS) (Tucker 1 AST),54 - 54,TIE,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,264,6,27,2,3:34 PM,0:34,,,Bledsoe Personal Block Foul (P2.PN),,,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,265,3,11,2,3:34 PM,0:34,MISS Parker Free Throw 1 of 2,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,266,4,1,2,3:34 PM,0:34,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,267,3,12,2,3:34 PM,0:34,Parker Free Throw 2 of 2 (9 PTS),,,54 - 55,1,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,269,1,79,2,3:34 PM,0:30,,,Bledsoe 16' Pullup Jump Shot (7 PTS),56 - 55,-1,5,202339,Eric Bledsoe,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,270,1,5,2,3:35 PM,0:07,Parker 1' Layup (11 PTS),,,56 - 57,1,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,271,1,5,2,3:35 PM,0:03,,,Tucker 2' Layup (14 PTS),58 - 57,-1,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,272,6,2,2,3:35 PM,0:03,Ayres S.FOUL (P3.PN),,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,273,3,10,2,3:36 PM,0:03,,,MISS Tucker Free Throw 1 of 1,,,5,200782,P.J. Tucker,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,275,4,0,2,3:36 PM,0:02,Ayres REBOUND (Off:1 Def:1),,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,276,13,0,2,3:36 PM,0:00,,End of 2nd Period (3:36 PM EST),,58 - 57,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,278,12,0,3,3:52 PM,12:00,,Start of 3rd Period (3:52 PM EST),,58 - 57,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,279,5,1,3,3:52 PM,11:53,Ginobili Bad Pass Turnover (P1.T7),,Morris STEAL (1 STL),,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,280,2,1,3,3:53 PM,11:32,,,MISS Morris 15' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,281,4,0,3,3:53 PM,11:31,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,282,2,1,3,3:53 PM,11:16,MISS Belinelli 18' Jump Shot,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,283,4,0,3,3:53 PM,11:15,,,Gortat REBOUND (Off:1 Def:2),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,284,1,5,3,3:53 PM,11:06,,,Marshall 2' Layup (2 PTS) (Gortat 3 AST),60 - 57,-3,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,285,6,2,3,3:53 PM,10:54,,,Morris S.FOUL (P1.T1),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,286,3,11,3,3:54 PM,10:54,Ginobili Free Throw 1 of 2 (8 PTS),,,60 - 58,-2,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,288,3,12,3,3:54 PM,10:54,Ginobili Free Throw 2 of 2 (9 PTS),,,60 - 59,-1,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,290,5,41,3,3:54 PM,10:47,,,Goodwin Poss Lost Ball Turnover (P1.T7),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,291,2,1,3,3:54 PM,10:31,MISS Bonner 18' Jump Shot,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,292,4,0,3,3:54 PM,10:30,,,Gortat REBOUND (Off:1 Def:3),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,293,6,1,3,3:55 PM,10:28,Bonner P.FOUL (P1.T1),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,294,8,0,3,3:55 PM,10:28,SUB: Mills FOR De Colo,,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,295,2,1,3,3:55 PM,10:15,,,MISS Goodwin 18' Jump Shot,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,296,4,0,3,3:55 PM,10:13,Belinelli REBOUND (Off:0 Def:2),,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,297,2,5,3,3:55 PM,10:08,MISS Duncan 1' Layup,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,298,4,0,3,3:55 PM,10:07,,,Gortat REBOUND (Off:1 Def:4),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,300,5,1,3,3:56 PM,9:53,,,Morris Bad Pass Turnover (P1.T8),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,302,2,1,3,3:56 PM,9:31,MISS Ginobili 25' 3PT Jump Shot,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,303,4,0,3,3:56 PM,9:30,,,Morris REBOUND (Off:0 Def:1),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,304,1,47,3,3:56 PM,9:20,,,Gortat 13' Turnaround Jump Shot (6 PTS),62 - 59,-3,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,305,2,1,3,3:57 PM,9:13,MISS Belinelli 19' Jump Shot,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,306,4,0,3,3:57 PM,9:11,,,Gortat REBOUND (Off:1 Def:5),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,307,2,1,3,3:57 PM,9:02,,,MISS Morris 19' Jump Shot,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,308,4,0,3,3:57 PM,9:01,Belinelli REBOUND (Off:0 Def:3),,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,309,2,1,3,3:57 PM,8:46,MISS Duncan 16' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,310,4,0,3,3:57 PM,8:45,,,Goodwin REBOUND (Off:0 Def:2),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,311,5,4,3,3:57 PM,8:38,,,Morris Traveling Turnover (P2.T9),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,312,5,8,3,3:58 PM,8:25,Duncan 3 Second Violation Turnover (P2.T8),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300045,313,5,2,3,3:58 PM,8:08,Bonner STEAL (1 STL),,Morris Lost Ball Turnover (P2.T10),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,314,2,5,3,3:58 PM,8:02,MISS Belinelli 2' Layup,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,315,4,0,3,3:58 PM,8:01,Mills REBOUND (Off:1 Def:0),,,,,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,316,5,1,3,3:58 PM,7:58,Mills Bad Pass Turnover (P1.T9),,Morris STEAL (1 STL),,,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,317,9,1,3,3:58 PM,7:54,,,Suns Timeout: Regular (Reg.3 Short 0),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,319,2,1,3,4:01 PM,7:41,,,MISS Morris 25' 3PT Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,320,4,0,3,4:01 PM,7:40,Bonner REBOUND (Off:0 Def:4),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,321,10,0,3,4:02 PM,7:31,Jump Ball Duncan vs. Marshall: Tip to Ginobili,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+0011300045,322,6,27,3,4:02 PM,7:24,,,Morris Personal Block Foul (P1.T2),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,323,8,0,3,4:02 PM,7:24,SUB: Baynes FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,324,6,1,3,4:02 PM,7:23,,,Morris P.FOUL (P2.T3),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,325,2,1,3,4:03 PM,7:09,MISS Mills 24' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,326,4,0,3,4:03 PM,7:09,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,327,5,1,3,4:03 PM,6:55,,,Morris Bad Pass Turnover (P3.T11),,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,328,1,1,3,4:03 PM,6:34,Belinelli 24' 3PT Jump Shot (5 PTS) (Bonner 1 AST),,,62 - 62,TIE,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,329,2,5,3,4:04 PM,6:22,Ginobili BLOCK (2 BLK),,MISS Marshall 3' Layup,,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+0011300045,330,4,0,3,4:04 PM,6:21,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,331,1,1,3,4:04 PM,6:17,,,Morris 19' Jump Shot (4 PTS) (Morris 1 AST),64 - 62,-2,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,332,1,1,3,4:04 PM,5:52,Mills 8' Jump Shot (2 PTS),,,64 - 64,TIE,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,333,5,4,3,4:05 PM,5:45,,,Morris Traveling Turnover (P3.T12),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,334,1,5,3,4:05 PM,5:30,Ginobili 2' Layup (11 PTS) (Belinelli 2 AST),,,64 - 66,2,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,335,2,1,3,4:05 PM,5:10,,,MISS Morris 8' Jump Shot,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,336,4,0,3,4:05 PM,5:09,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,337,8,0,3,4:05 PM,5:09,SUB: Fells FOR Ginobili,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,338,8,0,3,4:05 PM,5:09,SUB: Ayres FOR Bonner,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,339,1,1,3,4:06 PM,5:05,,,Morris 7' Jump Shot (6 PTS) (Morris 2 AST),66 - 66,TIE,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,340,2,1,3,4:06 PM,4:47,MISS Belinelli 18' Jump Shot,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,341,4,0,3,4:06 PM,4:46,,,Gortat REBOUND (Off:1 Def:6),,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,342,5,7,3,4:06 PM,4:36,,,Marshall Discontinue Dribble Turnover (P1.T13),,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,343,2,1,3,4:07 PM,4:14,MISS Mills 25' 3PT Jump Shot,,,,,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,344,4,0,3,4:07 PM,4:13,,,Morris REBOUND (Off:0 Def:2),,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,345,6,1,3,4:07 PM,4:08,Baynes P.FOUL (P3.T2),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,346,8,0,3,4:07 PM,4:08,,,SUB: Len FOR Gortat,,,5,101162,Marcin Gortat,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,347,8,0,3,4:07 PM,4:08,,,SUB: Plumlee FOR Morris,,,5,202693,Markieff Morris,1610612756.0,Phoenix,Suns,PHX,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,348,9,2,3,4:08 PM,3:59,,,Suns Timeout: Short (Reg.3 Short 1),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,350,8,0,3,4:09 PM,3:59,SUB: Green FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,351,2,1,3,4:09 PM,3:54,,,MISS Marshall 24' 3PT Jump Shot,,,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,352,4,0,3,4:09 PM,3:53,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,353,1,1,3,4:09 PM,3:48,,,Morris  3PT Jump Shot (3 PTS) (Len 1 AST),69 - 66,-3,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,354,6,1,3,4:09 PM,3:42,,,Len P.FOUL (P3.T4),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,355,2,1,3,4:10 PM,3:23,MISS Mills 8' Jump Shot,,Plumlee BLOCK (2 BLK),,,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,356,4,0,3,4:10 PM,3:21,,,Goodwin REBOUND (Off:0 Def:3),,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,357,2,5,3,4:10 PM,3:17,,,MISS Goodwin 1' Layup,,,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,358,4,0,3,4:10 PM,3:15,Baynes REBOUND (Off:0 Def:4),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,359,2,46,3,4:10 PM,3:10,MISS Fells 8' Running Jump Shot,,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,360,4,0,3,4:10 PM,3:07,,,Len REBOUND (Off:2 Def:3),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,361,2,1,3,4:11 PM,2:57,,,MISS Len 20' Jump Shot,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,362,4,0,3,4:11 PM,2:56,Fells REBOUND (Off:0 Def:1),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,363,1,58,3,4:11 PM,2:44,Baynes 10' Turnaround Hook Shot (6 PTS),,,69 - 68,-1,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,364,5,40,3,4:11 PM,2:23,,,Len Out of Bounds Lost Ball Turnover (P1.T14),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,365,9,1,3,4:11 PM,2:23,SPURS Timeout: Regular (Full 3 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,367,8,0,3,4:14 PM,2:23,,,SUB: Green FOR Morris,,,5,202694,Marcus Morris Sr.,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,368,1,1,3,4:14 PM,2:10,Mills 25' 3PT Jump Shot (5 PTS) (Green 4 AST),,,69 - 71,2,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,369,6,1,3,4:14 PM,1:57,Fells P.FOUL (P1.T3),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,370,2,1,3,4:15 PM,1:50,,,MISS Green 25' 3PT Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,371,4,0,3,4:15 PM,1:49,Ayres REBOUND (Off:1 Def:2),,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,372,6,4,3,4:15 PM,1:42,Baynes OFF.Foul (P4),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,373,5,5,3,4:15 PM,1:42,Baynes Foul Turnover (P1.T10),,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300045,374,8,0,3,4:15 PM,1:42,,,SUB: Frye FOR Plumlee,,,5,203101,Miles Plumlee,1610612756.0,Phoenix,Suns,PHX,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,375,1,79,3,4:15 PM,1:28,,,Green 11' Pullup Jump Shot (7 PTS),71 - 71,TIE,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,376,1,1,3,4:16 PM,1:17,Mills 24' 3PT Jump Shot (8 PTS) (Green 5 AST),,,71 - 74,3,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,377,1,1,3,4:16 PM,1:00,,,Marshall 25' 3PT Jump Shot (5 PTS) (Green 2 AST),74 - 74,TIE,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,378,2,1,3,4:16 PM,0:51,MISS Baynes 13' Jump Shot,,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,379,4,0,3,4:16 PM,0:50,,,Frye REBOUND (Off:0 Def:2),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,381,2,1,3,4:17 PM,0:28,,,MISS Frye 24' 3PT Jump Shot,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,382,4,0,3,4:17 PM,0:28,Fells REBOUND (Off:0 Def:2),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,383,2,5,3,4:17 PM,0:10,MISS Baynes 2' Layup,,,,,4,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,384,4,0,3,4:17 PM,0:09,,,Len REBOUND (Off:2 Def:4),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,385,1,52,3,4:17 PM,0:05,,,Goodwin 1' Alley Oop Dunk (6 PTS) (Marshall 1 AST),76 - 74,-2,5,203462,Archie Goodwin,1610612756.0,Phoenix,Suns,PHX,5,203088,Kendall Marshall,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,386,2,5,3,4:17 PM,0:00,MISS Mills 1' Layup,,,,,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,387,4,0,3,4:17 PM,0:00,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,390,18,0,3,4:17 PM,0:00,,Instant Replay3rd Period (4:17 PM EST),,76 - 74,-2,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300045,388,13,0,3,4:17 PM,0:00,,End of 3rd Period (4:17 PM EST),,76 - 74,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,392,12,0,4,4:20 PM,12:00,,Start of 4th Period (4:20 PM EST),,76 - 74,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,393,1,79,4,4:21 PM,11:37,,,Green 20' Pullup Jump Shot (9 PTS),78 - 74,-4,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,394,5,1,4,4:21 PM,11:14,De Colo Bad Pass Turnover (P1.T11),,Christmas STEAL (1 STL),,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,395,6,9,4,4:21 PM,11:13,Maggette C.P.FOUL (P5.T1),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,396,18,0,4,4:22 PM,11:13,,Support Ruling,,,,0,395,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300045,397,3,25,4,4:22 PM,11:13,,,Christmas Free Throw Clear Path 1 of 2 (9 PTS),79 - 74,-5,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,399,3,26,4,4:22 PM,11:13,,,Christmas Free Throw Clear Path 2 of 2 (10 PTS),80 - 74,-6,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,401,2,1,4,4:23 PM,11:03,,,MISS Frye 24' 3PT Jump Shot,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,402,4,0,4,4:23 PM,11:02,Fells REBOUND (Off:0 Def:3),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,403,1,1,4,4:23 PM,10:47,Ayres 16' Jump Shot (8 PTS),,,80 - 76,-4,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,404,2,79,4,4:23 PM,10:31,,,MISS Green 9' Pullup Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,405,4,0,4,4:23 PM,10:30,Fells REBOUND (Off:0 Def:4),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,406,6,27,4,4:24 PM,10:26,,,Frye Personal Block Foul (P1.T1),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,407,1,1,4,4:24 PM,10:13,Fells 13' Jump Shot (2 PTS) (Ayres 3 AST),,,80 - 78,-2,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,408,2,1,4,4:24 PM,9:54,,,MISS Christmas 18' Jump Shot,,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,409,4,0,4,4:24 PM,9:53,,,Frye REBOUND (Off:1 Def:2),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,410,6,2,4,4:24 PM,9:53,Fells S.FOUL (P2.T2),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,411,3,11,4,4:25 PM,9:53,,,MISS Frye Free Throw 1 of 2,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,414,4,0,4,4:25 PM,9:53,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,413,3,12,4,4:25 PM,9:53,,,Frye Free Throw 2 of 2 (4 PTS),81 - 78,-3,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,416,2,1,4,4:25 PM,9:38,MISS Cousin 10' Jump Shot,,Len BLOCK (1 BLK),,,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,417,4,0,4,4:25 PM,9:35,,,Len REBOUND (Off:2 Def:5),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,418,5,1,4,4:25 PM,9:33,Fells STEAL (1 STL),,Smith Bad Pass Turnover (P1.T15),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,419,2,1,4,4:25 PM,9:27,MISS De Colo 25' 3PT Jump Shot,,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,420,4,0,4,4:25 PM,9:26,,,Frye REBOUND (Off:1 Def:3),,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,421,2,5,4,4:25 PM,9:20,,,MISS Green 3' Layup,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,423,4,0,4,4:26 PM,9:20,,,Green REBOUND (Off:1 Def:1),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,422,1,4,4,4:26 PM,9:20,,,Green 1' Tip Shot (11 PTS),83 - 78,-5,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,424,1,1,4,4:26 PM,9:05,Maggette 20' Jump Shot (6 PTS) (Ayres 4 AST),,,83 - 80,-3,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,425,6,27,4,4:26 PM,8:59,De Colo Personal Block Foul (P1.T3),,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,426,9,4,4,4:26 PM,8:59,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,428,2,1,4,4:28 PM,8:48,,,MISS Frye 21' Jump Shot,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,429,4,0,4,4:28 PM,8:47,Cousin REBOUND (Off:0 Def:1),,,,,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,430,5,1,4,4:29 PM,8:27,De Colo Bad Pass Turnover (P2.T12),,Frye STEAL (1 STL),,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,431,1,7,4,4:29 PM,8:22,,,Green 1' Dunk (13 PTS) (Smith 1 AST),85 - 80,-5,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,432,1,1,4,4:29 PM,8:01,Ayres 16' Jump Shot (10 PTS) (De Colo 1 AST),,,85 - 82,-3,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,433,1,1,4,4:29 PM,7:49,,,Green 25' 3PT Jump Shot (16 PTS) (Frye 1 AST),88 - 82,-6,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,434,6,2,4,4:30 PM,7:36,,,Green S.FOUL (P1.T2),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,435,3,11,4,4:30 PM,7:36,Maggette Free Throw 1 of 2 (7 PTS),,,88 - 83,-5,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,436,8,0,4,4:30 PM,7:36,,,SUB: Kravtsov FOR Frye,,,5,101112,Channing Frye,1610612756.0,Phoenix,Suns,PHX,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,437,3,12,4,4:30 PM,7:36,Maggette Free Throw 2 of 2 (8 PTS),,,88 - 84,-4,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,439,2,79,4,4:31 PM,7:23,,,MISS Green 16' Pullup Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,440,4,0,4,4:31 PM,7:22,De Colo REBOUND (Off:0 Def:1),,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,441,6,1,4,4:31 PM,7:17,,,Len P.FOUL (P4.T3),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,442,2,1,4,4:31 PM,7:11,MISS Fells 18' Jump Shot,,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,443,4,0,4,4:31 PM,7:08,,,Smith REBOUND (Off:0 Def:1),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,444,2,5,4,4:31 PM,7:04,Ayres BLOCK (1 BLK),,MISS Smith 3' Layup,,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0
+0011300045,446,4,0,4,4:31 PM,7:02,,,Len REBOUND (Off:3 Def:5),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,445,1,5,4,4:31 PM,7:02,,,Len 1' Layup (4 PTS),90 - 84,-6,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,447,2,5,4,4:32 PM,6:44,MISS Maggette 1' Layup,,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,448,4,0,4,4:32 PM,6:42,,,Green REBOUND (Off:1 Def:2),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,449,1,1,4,4:32 PM,6:37,,,Green 25' 3PT Jump Shot (19 PTS),93 - 84,-9,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,450,1,5,4,4:32 PM,6:19,De Colo 1' Layup (2 PTS) (Ayres 5 AST),,,93 - 86,-7,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,451,5,1,4,4:32 PM,6:06,Fells STEAL (2 STL),,Smith Bad Pass Turnover (P2.T16),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,452,1,5,4,4:32 PM,6:01,Fells 1' Layup (4 PTS),,,93 - 88,-5,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,453,2,78,4,4:33 PM,5:41,,,MISS Smith 9' Floating Jump Shot,,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,454,4,0,4,4:33 PM,5:40,,,Kravtsov REBOUND (Off:1 Def:0),,,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,455,1,1,4,4:33 PM,5:34,,,Smith 24' 3PT Jump Shot (3 PTS) (Kravtsov 1 AST),96 - 88,-8,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,456,1,80,4,4:33 PM,5:08,De Colo 25' 3PT Step Back Jump Shot (5 PTS) (Maggette 3 AST),,,96 - 91,-5,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,457,2,1,4,4:33 PM,4:56,,,MISS Green 24' 3PT Jump Shot,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,458,4,0,4,4:33 PM,4:55,Fells REBOUND (Off:0 Def:5),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,459,2,1,4,4:34 PM,4:45,MISS De Colo 17' Jump Shot,,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,460,4,0,4,4:34 PM,4:44,,,Christmas REBOUND (Off:0 Def:2),,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,461,2,1,4,4:34 PM,4:20,,,MISS Smith 4' Jump Shot,,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,462,4,0,4,4:34 PM,4:19,Fells REBOUND (Off:0 Def:6),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,463,6,2,4,4:34 PM,4:17,,,Green S.FOUL (P2.T4),,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,464,9,1,4,4:34 PM,4:17,SPURS Timeout: Regular (Full 4 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,466,8,0,4,4:36 PM,4:17,SUB: Mills FOR De Colo,,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,467,8,0,4,4:36 PM,4:17,,,SUB: Nunnally FOR Green,,,5,101123,Gerald Green,1610612756.0,Phoenix,Suns,PHX,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,468,3,11,4,4:37 PM,4:17,Maggette Free Throw 1 of 2 (9 PTS),,,96 - 92,-4,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,470,3,12,4,4:37 PM,4:17,Maggette Free Throw 2 of 2 (10 PTS),,,96 - 93,-3,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,472,2,1,4,4:38 PM,3:51,,,MISS Len 16' Jump Shot,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,473,4,0,4,4:38 PM,3:50,Fells REBOUND (Off:0 Def:7),,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,474,6,4,4,4:38 PM,3:43,Cousin OFF.Foul (P1),,,,,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,475,5,5,4,4:38 PM,3:43,Cousin Foul Turnover (P1.T13),,,,,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+0011300045,476,1,79,4,4:38 PM,3:24,,,Smith 20' Pullup Jump Shot (5 PTS),98 - 93,-5,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,477,6,2,4,4:39 PM,3:13,,,Smith S.FOUL (P1.PN),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,478,3,11,4,4:39 PM,3:13,MISS Cousin Free Throw 1 of 2,,,,,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,479,4,1,4,4:39 PM,3:13,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,480,3,12,4,4:39 PM,3:13,Cousin Free Throw 2 of 2 (1 PTS),,,98 - 94,-4,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,482,6,2,4,4:40 PM,3:02,Maggette S.FOUL (P6.T4),,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,1,0,,,,,,0
+0011300045,483,8,0,4,4:40 PM,3:02,SUB: De Colo FOR Maggette,,,,,4,1894,Corey Maggette,1610612759.0,San Antonio,Spurs,SAS,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,484,18,0,4,4:40 PM,3:02,,Support Ruling,,,,0,482,,,,,,0,0,,,,,,1,0,,,,,,0
+0011300045,485,3,11,4,4:41 PM,3:02,,,MISS Christmas Free Throw 1 of 2,,,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,486,4,1,4,4:41 PM,3:02,,,Suns Rebound,,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,487,3,12,4,4:41 PM,3:02,,,Christmas Free Throw 2 of 2 (11 PTS),99 - 94,-5,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,489,2,1,4,4:41 PM,2:46,MISS De Colo 25' 3PT Jump Shot,,,,,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,490,4,0,4,4:41 PM,2:45,,,Nunnally REBOUND (Off:0 Def:2),,,5,203263,James Nunnally,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,493,9,1,4,4:42 PM,2:34,,,Suns Timeout: Regular (Reg.4 Short 1),,,3,1610612756,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,495,1,1,4,4:44 PM,2:27,,,Len 22' Jump Shot (6 PTS) (Smith 2 AST),101 - 94,-7,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,496,1,1,4,4:44 PM,2:12,Mills 25' 3PT Jump Shot (11 PTS) (Fells 1 AST),,,101 - 97,-4,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,497,1,1,4,4:45 PM,1:54,,,Christmas 25' 3PT Jump Shot (14 PTS) (Kravtsov 2 AST),104 - 97,-7,5,202091,Dionte Christmas,1610612756.0,Phoenix,Suns,PHX,5,203139,Viacheslav Kravtsov,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0
+0011300045,498,2,1,4,4:45 PM,1:40,MISS Fells 25' 3PT Jump Shot,,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,499,4,0,4,4:45 PM,1:39,,,Smith REBOUND (Off:0 Def:2),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,500,1,79,4,4:45 PM,1:22,,,Smith 20' Pullup Jump Shot (7 PTS),106 - 97,-9,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,501,2,47,4,4:46 PM,1:03,MISS Ayres 7' Turnaround Jump Shot,,,,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,502,4,0,4,4:46 PM,1:02,Cousin REBOUND (Off:1 Def:1),,,,,4,202408,Marcus Cousin,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,503,1,5,4,4:46 PM,0:51,Fells 1' Layup (6 PTS) (De Colo 2 AST),,,106 - 99,-7,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,4,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+0011300045,504,6,26,4,4:46 PM,0:33,,,Smith Offensive Charge Foul (P2.PN),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,4,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+0011300045,505,5,5,4,4:46 PM,0:33,,,Smith Foul Turnover (P3.T17),,,5,202397,Ish Smith,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,1,0,,,,,,0
+0011300045,506,2,1,4,4:47 PM,0:25,MISS Ayres 3' Jump Shot,,Len BLOCK (2 BLK),,,4,201965,Jeff Ayres,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0
+0011300045,507,4,0,4,4:47 PM,0:25,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+0011300045,509,2,1,4,4:47 PM,0:14,MISS Fells 24' 3PT Jump Shot,,,,,4,203587,Courtney Fells,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+0011300045,510,4,0,4,4:47 PM,0:13,,,Len REBOUND (Off:3 Def:6),,,5,203458,Alex Len,1610612756.0,Phoenix,Suns,PHX,0,0,,,,,,0,0,,,,,,0
+0011300045,514,13,0,4,5:03 PM,0:00,,End of 4th Period (5:03 PM EST),,106 - 99,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
