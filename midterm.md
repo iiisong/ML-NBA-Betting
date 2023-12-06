@@ -2,7 +2,6 @@
 Predicting NBA Bet outcomes using ML for ML4641
 
 [old intro](intro.md)
-[midterm check](midterm.md)
 
 ## Table of Contents
 1. [Introduction](#intro)
