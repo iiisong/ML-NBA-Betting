@@ -23,7 +23,7 @@ In the past couple years with sports betting services like DraftKings, Sports be
 
 The moneyline odds, also known as American odds, provides the league with an insanely popular method for sports wagering. Moneyline betting is a two-way market that is focused on a single game between the two teams: the favorite receives a negative value while the underdog gets a positive value. With this billion-dollar industry in mind, our team realizes the significant part that accurate intelligent tools can play in the betting market, and want to try our hand at developing a prediction model for this purpose. Machine learning models would not only be highly relevant, they would also be well fed from the glut of data from this highly visible and documented industry.
 
-<a id="problem"></a
+<a id="problem"></a>
 ## Problem Definition
 Alongside the NFL, the NBA is an extremely popular avenue for sports betting and one which we would be focusing on in this project. ML models would be highly relevant and well fed with data as this market is highly visible and well documented. The motivation behind the project is to develop an intelligent tool to use in the betting market. To do this, the model would have to consider many different factors of the teams and games of previous seasons to better understand the inner logistics of the market and produce the winning team. Therefore, we want to carefully examine the most important insights and features of both of the teams with regards to data pertaining to injury reports, past game results, player statistics, and other team metrics to make our model answer the big question: should we take the bet?
 
