@@ -1,6 +1,6 @@
 ![image](https://github.com/iiisong/ML4641_NBA_Betting/assets/60973363/b5112a47-ef67-4b23-8bba-fbf31992d91a)
 # ML4641_NBA_Betting
-Predicting NBA Bet outcomes using ML for ML4641
+Predicting NBA Bet outcomes using ML for ML4641 Fall '23
 
 [old intro](intro.md)
 [midterm check](midterm.md)
